@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# Case Note: Transnet Ltd v Witter (517/2007) [2008] ZASCA 95
+
+## FIRAC Case Note
+
+### F – Facts  
+The incident that led to the appeal occurred on February 7, 2002, when the respondent, David Witter, attempted to board a commuter train at Witteboom railway station in the Western Cape. At approximately 06:40, while the train was slowly moving, Witter noticed the doors of the carriage open and rushed onto the platform. Despite the other doors being closed, he took three quick steps towards the train, grasped a pillar in the open doors, lost his footing, and fell between the platform and the train, resulting in the severing of his right foot above the ankle ([1]).
+
+Transnet Limited, operating as Metrorail, managed the train service, while the South African Rail Commuter Corporation Limited owned and regulated it. Witter sued both entities for damages in delict, alleging negligence. The court a quo, presided by Veldhuizen J, ruled that the train's guard had been negligent for allowing the train to depart with an open door and that the defendants were vicariously liable for this negligence. It also found Witter partially at fault, attributing 50% contributory negligence to him. The trial court declared two expert witnesses necessary and ordered their fees to be allowed on taxation, which became one of the issues on appeal ([2]).
+
+### I – Issues  
+The appeal raised three primary issues: 
+1. Whether Transnet Limited and the guard were negligent in ensuring passenger safety by allowing the train to depart with open doors ([4]a).
+2. The appropriateness of the trial court's apportionment of 50% damages to Witter for contributory negligence ([4]b).
+3. The appropriateness of the trial court's order regarding the costs of the expert witnesses ([4]c).
+
+### R – Rules  
+The legal basis for the negligence claim derives from the test articulated in *Kruger v Coetzee*, which establishes that liability arises from a failure to foresee and mitigate risks inherent in one's duties ([5]). The Apportionment of Damages Act 34 of 1956 dictates that damages must be reduced "to such extent as the court may deem just and equitable," taking into account the degree of fault of the claimant ([12]). Further, the provisions of the Supreme Court Act 59 of 1959 govern the taxation and payment of witness fees, including the qualifying fees for expert witnesses ([17]).
+
+### A – Application  
+#### Negligence  
+The court analyzed two key dimensions of negligence: the duties owed by the guard and the defendants' overall operational safety measures. Expert testimony uniformly indicated that allowing a train to depart with an open door was fundamentally unsafe. The court noted the guard's dual responsibilities, which included ensuring the safety of passengers and verifying that the doors were securely closed before departure. It also highlighted a failure to adhere to the operational guidelines intended to enforce such safety measures ([5]–[9]). The defendants contended that they had taken reasonable measures to prevent injury, such as regular door maintenance and employing guards. However, the evidence presented suggested that these measures were insufficient, especially given the risks associated with open doors ([7]).
+
+The court determined that the guard’s negligence was evident in his failure to perform inspections or correct safety protocol before the train's departure, which directly contributed to Witter's injuries. Thus, the court found that the defendants had not exercised the requisite diligence as dictated by *Kruger v Coetzee* and were indeed vicariously liable ([5]–[10]).
+
+#### Contributory Negligence  
+Witter’s actions were scrutinized under the framework provided by the Apportionment of Damages Act, which demands a balanced assessment of contributions to the injury. The court agreed that, despite the plaintiff's actions constituting contributory negligence, the 50% apportionment was justified given the circumstances ([12]–[13]). The evidence indicated that Witter had attempted to board a moving train, which represented a deviation from the standard of care expected of a reasonable passenger. However, the defendants also shared substantial responsibility due to their failure to prevent the negligent situation in the first place, leading to the court’s decision to uphold the initial apportionment ([12]).
+
+#### Costs of Expert Witnesses  
+The trial court's ruling regarding expert witnesses was contested on the grounds that their testimony was unnecessary. However, the appeals court clarified that a declaration of necessity is not required for witness allowances, provided the expenses were reasonably incurred and essential to the case. The court amended the lower court's order to allow the expert preparation fees but removed the necessity designation ([14]–[20]). This distinction reconciles the courts’ duty to avoid impacting the taxation of witness costs based on unnecessary declarations while preserving the rights of the successful party to recover reasonable costs.
+
+### C – Conclusion  
+The Supreme Court of Appeal dismissed the appeal, affirming the trial court’s findings on negligence and contributory negligence while modifying the order concerning the qualification of expert witnesses. The court emphasized that both the defendants and Witter shared responsibility for the incident, a conclusion that underscores the importance of operational safety protocols in transport systems and the rigorous assessment of contributory behaviors. The court's ruling reflects a balance between holding operators accountable for safety failures and acknowledging personal responsibility. It also establishes important precedents regarding the taxation of expert witness fees, clarifying what constitutes reasonable expenses in litigation ([22]). The implications of this case counsel transport entities to reinforce adherence to safety protocols to mitigate risks, while concurrently allowing for a just framework for assessing liability in accidents intertwined with negligence.

@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# Case Note: FIRAC Analysis of *Cecilia Goliath v Member of the Executive Council for Health, Eastern Cape* [2014] ZASCA 182
+
+## F – Facts
+The appellant, Cecilia Goliath, underwent a routine hysterectomy on 8 April 2011 at Dora Nginza Hospital, Port Elizabeth. Post-operation, she was discharged on 11 April 2011, but soon returned due to severe pain and complications, including a wound abscess. On 15 July 2011, a laparotomy was performed by Dr. S.P. Muller at Settlers Hospital, where a septic gauze swab was discovered in her abdomen. Goliath subsequently instituted an action for damages against the Member of the Executive Council for Health in the Eastern Cape, alleging that the medical staff were negligent for their failure to account for all surgical swabs used during her operation ([paras 1–3]).
+
+In her claim, Goliath contended that the medical staff owed her a duty of care and that their negligence directly caused her injuries. The MEC's defense posited that the treatment met the standard of care and that his employees were not negligent ([para 3]). The Eastern Cape High Court, through Lowe J, dismissed Goliath's claim, asserting that she failed to prove the alleged negligence on a balance of probabilities and that the doctrine of *res ipsa loquitur* should not apply due to established legal precedents ([paras 4–6]).
+
+## I – Issues
+The central legal issues in the appeal were:
+1. Whether the appellant had discharged the burden of proving negligence on the part of the medical staff ([para 4]).
+2. The applicability of the doctrine of *res ipsa loquitur* in medical negligence cases in South Africa, particularly in relation to surgical swabs being left in patients ([paras 5–6]).
+3. Whether the lack of testimony from the medical staff implicated in the surgery adversely affected the MEC's defense ([para 19]).
+
+## R – Rules
+The legal standards relevant to this case include principles from tort law concerning medical negligence. Key precedents:
+- *Van Wyk v Lewis* [1924] AD 438 established a foundation for medical negligence in South African law, notably limiting the application of *res ipsa loquitur* in medical contexts.
+- The legal principle that a plaintiff must prove negligence on a balance of probabilities was reiterated, alongside the standard practices expected of medical practitioners ([paras 8–9]).
+- The requirement for a plaintiff to demonstrate that a medical professional failed to meet the standard of care expected within their profession was highlighted in *Buthelezi v Ndaba* [2013] 5 SA 437 (SCA) ([para 8]).
+- The court also referred to the idea that, in the absence of evidence from the defendant, an inference of negligence might be drawn based on the plaintiff's evidence and the circumstances surrounding the case ([paras 12–19]).
+
+## A – Application
+The Supreme Court of Appeal found that the high court had erred in its application of the standard for negligence. Given that Dr. Muller testified regarding the standard protocols in preventing the occurrence of retained surgical swabs—emphasizing that such an occurrence should not happen due to strict regulations—it was sufficient to infer negligence on the part of the medical staff who did not adhere to these protocols ([paras 14–19]).
+
+The court also determined that the absence of testimony from the MEC's employees effectively removed any counter-evidence that might have explained the circumstances of the surgery. The inference that an overlooked swab led to Goliath's injuries became significantly stronger in light of the evidence presented by Dr. Muller. Hence, the court asserted that the MEC had taken the risk of losing the case by failing to provide any witnesses to contest Goliath's claims or explain the procedures in place ([paras 19]).
+
+Additionally, the court reflected on the appropriateness of *res ipsa loquitur*. While acknowledging the high court's reservations about applying it, the Supreme Court suggested that there may be grounds for reconsidering its utility in future medical negligence cases, based on contexts where the matter of standard care is clear ([paras 6–12]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld Goliath's appeal, ruling that she had sufficiently demonstrated the negligence of the medical staff on the balance of probabilities. The order of the lower court was set aside, and judgment was granted in favor of Goliath for R250,000 in damages, plus interest and costs ([paras 21]). The ruling emphasized the need for accountability in medical negligence cases and the evaluation of evidence, highlighting the implications for future medical malpractice claims by reinforcing the necessity for defendants to produce evidence when disputing claims made against them. The ruling may also signal a potential shift in the South African legal approach to the doctrine of *res ipsa loquitur* in medical negligence cases, prompting further discourse on its relevance and applicability in legal proceedings ([paras 20–21]).

@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+### Case Note: FIRAC Method
+
+#### Case Title
+**Sivubo Trading and Projects CC v Development Bank of Southern Africa** [2019] ZASCA 28
+
+#### F – Facts
+The primary dispute arose over whether a binding contract existed between the appellant, **Sivubo Trading and Projects CC** (Sivubo), and the respondent, **Development Bank of Southern Africa** (DBSA). DBSA issued written invitations for tenders for various construction projects, including one for the Gobidolo Junior Secondary School on **17 January 2014** ([para 2]). Sivubo submitted a tender by **7 February 2014**, which was not accepted in accordance with the prescribed offer and acceptance model. Instead, DBSA sent a **Letter of Appointment** on **6 May 2014**, stating that Sivubo's tender was conditionally accepted contingent upon the completion and submission of various documents by **16 May 2014** ([para 2]).
+
+After delays in document submission, DBSA provisionally handed over the construction site on **22 May 2014**, followed by multiple discussions on required documentation ([paras 4–6]). On **10 July 2014**, DBSA terminated the contract due to Sivubo's failure to meet the stipulated conditions. Sivubo claimed damages, asserting that DBSA had repudiated the contract ([para 5]).
+
+DBSA argued that the Letter of Appointment was conditional and that the suspensive condition was not fulfilled, resulting in no binding contract ([para 6]). The matter was separated in trial to resolve the special plea regarding the existence of the contract ([para 7]). The court upheld DBSA’s plea on **24 May 2017**, leading to this appeal.
+
+#### I – Issues
+The key legal issue is whether a valid and binding contract was established between the parties, considering the requirements laid out in the Letter of Appointment and the failure of Sivubo to meet the stipulated conditions ([paras 1, 5, 19]).
+
+#### R – Rules
+The legal framework governing this case includes principles of contract law, particularly focusing on the concepts of offer, counter-offer, acceptance, and suspensive conditions. A suspensive condition is described as a condition that suspends the obligations arising from the contract until the occurrence of a future uncertain event ([para 11]). The pertinent case law includes:
+
+- **Design and Planning Service v Kruger** 1974 (1) SA 689 (T)
+- **Thiart v Kraukamp** 1967 (3) SA 219 (T)
+- **Command Protection Services (Gauteng) (Pty) Ltd v South African Post Office Ltd** [2012] ZASCA 160
+
+In these cases, courts recognized that agreements with outstanding issues typically entail conditions that must be settled before a binding contract arises ([para 13]). 
+
+#### A – Application
+The court analyzed the Letter of Appointment and concluded that it constituted a counter-offer rather than an unconditional acceptance of Sivubo's original tender ([para 9]). It was explicit in stating that several conditions had to be met before a contract could be signed, indicating that no formal contract would exist until all documents were submitted and verified by DBSA ([para 17]).
+
+Sivubo attempted to argue that the conditions set forth were merely terms of the contract rather than suspensive conditions. The court, however, found that the explicit requirement to submit necessary documentation by **16 May 2014** established a suspensive condition that was not met ([paras 10, 18]). The court emphasized that the failure to fulfill this condition meant that the alleged contract never came into existence ([para 19]).
+
+Additionally, the examination of the JBCC agreement revealed that it was never signed, and clauses within modified the conditions for its validity ([para 9]). Thus, Sivubo could not base its claim on this agreement.
+
+#### C – Conclusion
+The Supreme Court of Appeal dismissed Sivubo's appeal, concluding that a binding contract had not been established due to the unfulfilled suspensive condition outlined in the Letter of Appointment ([para 20]). The court underscored that ambiguities in contract law often necessitate careful examination of the parties’ intentions and the language used in contractual documents. The ruling reaffirms the necessity of meeting specified conditions in contractual agreements, particularly in the construction industry, where compliance with regulatory requirements is paramount. The implications of this decision suggest a firm stance on the necessity for parties to clearly satisfy all stipulated conditions to ensure a binding contractual relationship is achieved.
+
+---
+
+**References**
+- Sivubo Trading and Projects CC v Development Bank of Southern Africa (233/2018) [2019] ZASCA 28.
+- Command Protection Services (Gauteng) (Pty) Ltd t/a Maxi Security v South African Post Office Ltd [2012] ZASCA 160.
+- Design and Planning Service v Kruger 1974 (1) SA 689 (T).
+- Thiart v Kraukamp 1967 (3) SA 219 (T).

@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note on *The Butcher Shop and Grill CC v The Trustees for the time being of the Bymyam Trust* (038/2022) [2023] ZASCA 57
+
+## F – Facts
+The *Butcher Shop and Grill CC* (the appellant) entered into a lease agreement with the *Trustees for the time being of the Bymyam Trust* (the respondent) concerning a section of the Amalfi building in Mouille Point, Cape Town, beginning on 20 February 2014. The appellant sublet the premises to *Apoldo Trading (Pty) Ltd* (Apoldo), a related entity, allowing it to operate a restaurant. Amidst the COVID-19 pandemic and the ensuing national state of disaster in March 2020, the appellant faced severe operational restrictions. Consequently, it withheld rent payments due to the Trust, seeking rent remission on the grounds of vis major, claiming significant turnover losses due to restricted use of the property ([1]–[4]).
+
+The Trust brought a claim against the appellant in the High Court for R2,703,191.17 in unpaid rent, leading the appellant to file a counter-application seeking a stay and a declaration of entitlement to rent remission. The High Court dismissed the counter-application, leading the appellant to appeal ([5]–[7]).
+
+## I – Issues
+The appeal presented several legal questions:
+1. Whether the lease agreement excluded the claim for rent remission sought by the appellant.
+2. Whether a tenant can claim rent remission if the loss of beneficial use is suffered by a sub-tenant.
+3. The applicability of reverse piercing of the corporate veil, allowing the appellant to assert a sub-tenant’s loss as a defense against the Trust's claim.
+4. Whether there should be a development of common law to allow this claim ([9]–[12]).
+
+## R – Rules
+The principles governing lease agreements traditionally stipulate that a lessee must fulfill its contractual obligations, including rent payments, expect in instances of legal remittance. Common law allows for rent remission in cases where a lessee's use of the property is substantially hindered due to vis major or casus fortuitus ([13]–[14]). The courts interpret lease agreements as intending to incorporate common law principles unless plainly stated otherwise (as established in *First National Bank of SA Ltd v Rosenblum*). 
+
+The Trust contended that the lease did not envisage a claim for remission based on a strict definition of 'beneficial occupation' and argued that the appellant assumed the risk associated with vis major events ([15]–[16]).
+
+Reverse piercing of the corporate veil, allowing a party to disregard a company's personality to assert a claim or defense, is a nuanced area governed by both common law principles and statutory frameworks, particularly under §20(9) of the Companies Act 71 of 2008 ([36]–[39]). The courts typically maintain a conservative stance to uphold corporate personality unless fraud or improper conduct is established ([43]–[46]).
+
+## A – Application
+In applying the law to the facts, the court traced common law principles addressing the entitlement for remission due to vis major. It found that the specific language and contextual meaning of the lease agreement allowed for a broader interpretation of 'beneficial occupation' beyond mere physical possession, thus negating the Trust’s argument that the definition precluded rent remission ([18]–[21]). 
+
+It was determined that while Apoldo, as a separate legal entity, suffered the loss of beneficial occupation, the remittance claim by the appellant grounded on that loss was not sustainable. The court concluded that as per *North Western Hotel Ltd v Rolfes, Nebel & Co*, a lessee can't claim remission for losses suffered by a sub-lessee; the claim must originate from the entity directly impacted ([29]–[34]).
+
+The argument for reverse piercing of the corporate veil hinged on the assertion that both entities (the appellant and Apoldo) shared a single controlling mind in Mr. Pick. However, the court upheld the principle that a corporate entity's separate personality must not be disregarded unless an element of fraud or abuse is demonstrated, which was not established in this case. The court affirmed that merely having the same shareholder does not suffice for such a remedy ([36]–[54]).
+
+Furthermore, the court refused to develop the common law to permit piercing the corporate veil under these circumstances. It emphasized the need to respect the corporate form unless inequity justified otherwise, which was absent in this case. The arguments for legal development did not align with statutory or common law principles nor did they satisfy constitutional compliance requirements for such an approach ([55]–[64]).
+
+## C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, affirming the High Court's ruling. It held that the appellant was not entitled to remittance of rent due to the operational issues arising from COVID-19, nor could it rely on the losses suffered by Apoldo since it maintained a distinct legal identity. The court’s decision reinforced the sanctity of corporate veil principles amidst claims addressing loss of beneficial use, reinforcing existing common law frameworks and emphasizing the need for legislative evolution rather than judicial reform in complex corporate relations ([65]–[66]).
+
+The ruling thus has significant implications for lessees facing operational difficulties owing to unforeseen external circumstances, highlighting the necessity of addressing such risks explicitly within the contractual frameworks.

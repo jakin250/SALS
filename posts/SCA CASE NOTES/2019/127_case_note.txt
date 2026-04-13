@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Stallion Security (Pty) Ltd v Daleen van Staden (526/2018) [2019] ZASCA 127
+
+## FIRAC Method
+
+### F – Facts
+The case arises from a tragic incident on **3 November 2014** when **Mr. Ronald Mkhululi Khumalo**, an employee of **Stallion Security (Pty) Ltd** (hereinafter "Stallion"), murdered **Mr. Deon van Staden**, the husband of the respondent, **Ms. Daleen van Staden**. Stallion is a security service provider contracted by **Bidvest Panalpina Logistics (Pty) Ltd** to secure its premises, including offices where the deceased worked as a financial manager. Stallion was responsible for access control to these premises, with Mr. Khumalo serving as site manager, tasked with overseeing security personnel and ensuring the safety of the premises ([1]–[6]).
+
+On **3 November**, Mr. Khumalo armed himself, accessed the office area using his override key (which allowed entry without biometric registration), threatened the deceased, extorted money, and ultimately shot him when he feared that the deceased might notify the authorities ([8]–[11]). Following the murder, Ms. van Staden sought to recover damages for loss of support through a delictual claim against Stallion on the basis of **vicarious liability** ([12]–[13]).
+
+The High Court found Stallion vicariously liable, concluding that the murder, while committed for Mr. Khumalo’s personal purposes, bore a sufficiently close connection to his employment with Stallion. The ruling granted Ms. van Staden damages amounting to R1,680,000, interest, and costs, prompting Stallion to appeal ([13]–[14]).
+
+### I – Issues
+The appeal primarily centers around whether Stallion can be held vicariously liable for the actions of Mr. Khumalo, particularly given that he acted entirely for personal purposes when he committed the murder, thereby raising fundamental questions about the "sufficiently close link" between the wrongful act and the business of the employer ([13]–[14]).
+
+1. Can an employer be held vicariously liable for the criminal acts of an employee done solely for personal interests?
+2. How does the concept of creation of risk, as introduced in earlier legal precedents, influence the determination of vicarious liability in this context?
+
+### R – Rules
+The general principle of vicarious liability posits that employers are liable for wrongful acts committed by employees within the scope of their employment. The seminal case **Feldman (Pty) Ltd v Mall** established that the employer's liability does not hinge on the employee's fault but rather on public policy considerations ([14]). The test for whether an employee's wrongful acts fall within the course or scope of employment includes both subjective and objective elements as articulated by **Jansen JA** in **Minister of Police v Rabie**: the act may fall outside the scope if committed purely for personal gain, but if there's a close link to the business, the employer may still be liable ([16]–[19]).
+
+The courts have further developed this principle, emphasizing the **creation of risk** by the employer as a relevant consideration, whereby employers have a duty to protect third parties against the risks created by their employees' roles ([22]–[32]). In comparing South African jurisprudence to international precedents, specifically those from Canada and the United Kingdom, there’s consensus that vicarious liability should address not only the actions of the employee but the circumstances of their employment.
+
+### A – Application
+The court engaged in a rigorous examination of the relationship between Mr. Khumalo's employment and the circumstances surrounding the murder. Key findings include:
+
+1. **Causal Link**: Although Mr. Khumalo's actions were personal, the court found a **significant causal link** between his employment as site manager for Stallion and the events leading to the murder ([35]–[36]). The **override key** provided by Stallion was essential in gaining access, and thus the ability to commit the crime was facilitated by his employment ([36]).
+2. **Risk Creation**: Evidence indicated that Stallion placed Mr. Khumalo in a position of trust with the power to unlock the premises, thereby creating a risk of misuse of that power ([36]–[37]). The court highlighted that this responsibility was aligned with the company's contractual duty to protect employees at Bidvest's premises, constituting a normative link to the harm caused ([37]).
+3. **Objective Assessment**: The court concluded that the murder, while executed for personal motives, was nevertheless linked to the risks Stallion created by employing Mr. Khumalo and providing him with significant access over the premises ([38]). 
+
+Thus, the court affirmed that Stallion's liability was justified under the established legal framework addressing vicarious liability in deviation cases.
+
+### C – Conclusion
+The Supreme Court of Appeal upheld the High Court's decision, affirming Stallion's vicarious liability for Mr. Khumalo's actions. It articulated a clear rationale that linked the murder to the employer's enterprise, primarily focusing on the risks engendered by the employment context ([39]). The implications of this ruling affirm the need for employers to take proactive measures in risk management, underscoring their liability in scenarios where employee misconduct can be tied back to their authorized functions in the course of business. The decision represents a pivotal development in South African delict law concerning vicarious liability, potentially influencing future cases where employees' personal actions intersect with their professional responsibilities.

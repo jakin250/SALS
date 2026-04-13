@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Minister of Police v Miya (1250/2022) [2024] ZASCA 71
+
+## FIRAC Method
+
+### F – Facts
+
+The case concerns an appeal by the Minister of Police against a judgment delivered by the Gauteng Division of the High Court, Pretoria, related to the service of summons pursuant to the State Liability Act 20 of 1957. Mr. Thamsanqa Ronny Miya, the respondent, sued the Minister and the National Director of Public Prosecutions (NDPP) for damages stemming from an alleged unlawful arrest and detention that took place on 19 December 2017. In issuing his summons, Mr. Miya served it on the State Attorney on 7 May 2019 but did not serve it directly on the Minister as required by s 2(2)(a) of the State Liability Act, which obligates service to be made at the head office of the relevant department. 
+
+The Minister raised a special plea contending that this omission rendered the summons a nullity and that the claim had prescribed due to the failure to serve the summons directly on him. The High Court dismissed the special plea, concluding that the Minister was made aware of the summons through the State Attorney and that the core purpose of the service requirement was fulfilled, as the Minister filed a notice of intention to defend shortly thereafter ([paras 3–8]). 
+
+### I – Issues
+
+The central legal question presented in the appeal is whether failure to serve the summons on the head of the department, specifically the Minister, results in the summons being deemed a nullity contrary to the provisions of s 2(2)(a) of the State Liability Act. Additionally, if applicable, the court needed to consider whether the failure to serve the summons interrupts the running of prescription as prescribed by the Prescription Act 68 of 1969 ([paras 2, 10–11]).
+
+### R – Rules
+
+The legal framework governing this case is primarily derived from the State Liability Act, particularly s 2(2)(a) and (b), which provide specific procedures for instituting claims against the State. The relevant statutory notice was also governed by the Institution of Legal Proceedings Against Certain Organ of the State Act 40 of 2002. The principles of statutory interpretation are critical to this case, particularly the purposive approach as emphasized by the Constitutional Court; namely, the necessity for a pragmatic interpretation that aligns with the objectives of justice and accessibility to courts, as articulated in numerous precedents including City of Tshwane Metropolitan Municipality v Afriforum and Another [2016] ZACC 19 ([paras 6, 14–15]).
+
+Moreover, the concepts underpinning the Prescription Act were pivotal, particularly sections addressing the interruption of prescription upon service of summons upon the debtor, as discussed in cases like Minister of Police v Molokwane ([paras 2, 8]).
+
+### A – Application
+
+The court analyzed the interpretation of s 2(2) of the State Liability Act in light of the purposive statutory interpretation doctrine. It was determined that interpreting the service requirement as strictly mandatory could impede the overarching constitutional imperative for access to justice enshrined in s 34 of the Constitution. 
+
+The Minister’s counsel argued that since summons was not served on the Minister as the debtor, the service on the State Attorney would not suffice to interrupt prescription. The court, however, noted that the purpose of the provision was achieved as the Minister became aware of the proceedings and participated in them by filing a notice of intention to defend, thus fulfilling the statutory purpose regarding notification ([paras 10, 18]).
+
+Furthermore, the court rebuffed the argument that the decision in *Molokwane* was obiter, affirming that it had addressed the service requirements of both subsections 2(2)(a) and 2(2)(b) collectively. The court applied the same interpretative principles from *Molokwane*, thus concluding that the non-compliance with the service requirement did not entail a fatal defect but rather acknowledged the effective notification of the Minister ([paras 16–19]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, affirming the High Court's ruling that the non-service of summons on the Minister did not constitute a nullity due to the notice's successful delivery via the State Attorney. Consequently, the claim had not prescribed, as the service on the State Attorney was deemed sufficient to notify the Minister of the action. 
+
+The court's ruling reiterates the importance of pursuing substantive justice over mere procedural compliance, emphasizing that prior judicial interpretations favor an effective notification mechanism over strict adherence to service requirements. The implications of this judgment may significantly influence future cases involving state liability, as they reinforce the adaptability of procedural norms to achieve the objectives of justice and access to courts experienced by ordinary litigants ([paras 20–21]).
+
+### References
+
+- City of Tshwane Metropolitan Municipality v Afriforum and Another [2016] ZACC 19.
+- Minister of Police v Molokwane (730/2021) [2022] ZASCA 111.
+- Institution of Legal Proceedings Against Certain Organ of the State Act 40 of 2002.
+- State Liability Act 20 of 1957.
+- Prescription Act 68 of 1969.

@@ -1,0 +1,62 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2024
+
+# FIRAC Case Note: Cupido v The State (1257/2022) [2024] ZASCA 4
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–12])
+
+The appellant, Jerome Cupido, was convicted of multiple charges, including murder and attempted murder, arising from an incident on 26 April 2018. The trial was conducted in the Western Cape Division of the High Court, where the appellant pleaded not guilty. However, he was found guilty on all counts. The court sentenced him to life imprisonment for murder and imposed additional sentences for the remaining counts.
+
+During the trial, the State's case hinged largely on the testimony of the complainant, Mr. Samuel Brown, who claimed to have identified Cupido as one of the assailants. Despite asserting an alibi—that he was at home with his girlfriend around the time of the incident—Cupido’s defense was deemed insufficient. 
+
+Importantly, the trial also engaged with issues surrounding the admissibility of hearsay evidence and the procedures surrounding photo identification, as well as the evidential weight of the single witness on whose testimony the conviction relied.
+
+After an unsuccessful appeal to the full court of the Western Cape High Court, Cupido sought special leave to appeal to the Supreme Court of Appeal (SCA). The matter was argued before the Court on 2 November 2023 and the decision was delivered on 16 January 2024.
+
+## I – Issues: Legal or Constitutional Questions ([paras 18–39])
+
+The principal issues the SCA grappled with included:
+
+1. **Reliance on the Single Witness**: Whether the trial court adequately applied the cautionary rule when convicting based on the identification by a single witness ([para 19]).
+2. **Admissibility of Photo Identification**: Whether the admission of photograph identification violated the procedures mandated by the Criminal Procedure Act 51 of 1977 ([para 24]).
+3. **Right to Privacy**: Whether the appellant’s constitutional right to privacy was infringed by the use of his photograph for identification purposes ([para 28]).
+4. **Consideration of Exculpatory Evidence**: Whether the trial court appropriately considered the appellant’s alibi and related exculpatory statements made under s 115 of the Criminal Procedure Act ([para 31]).
+5. **Exclusion of Hearsay Evidence**: Whether the trial court misdirected itself by excluding certain hearsay evidence that was proffered in favor of the appellant ([para 43]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 18–39])
+
+The SCA's decision relied on several legal principles and precedents:
+
+1. **Cautionary Rule**: The court referenced *S v Mthethwa*, which outlines the necessity of examining the reliability and honesty of a single witness's identification ([para 21]).
+2. **Photo Identification Procedures**: The court cited *The South African Law of Evidence* by Hoffmann and Zeffert, which discusses the potential pitfalls of showing a single photograph to a witness ([para 24]).
+3. **Constitutional Rights**: The applicability of constitutional protections concerning privacy and fair trial rights were evaluated through a lens informed by the judgments in *Key v Attorney-General* and *Ferreira v Levin*, delineating when unconstitutionally obtained evidence might still be permissible ([para 29]).
+4. **Evidential Value of Exculpatory Statements**: Relying on *S v Mkhize*, the court reiterated that mere statements made under s 115 lack evidential value unless substantiated by the accused's testimony ([para 32]).
+5. **Hearsay Exclusions**: The principles outlined in the Hearsay Evidence Act, which delineates when hearsay can be admissible, were crucial in determining the admissibility and weight of statements from individuals who did not testify ([para 43]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 19–39])
+
+The SCA methodically addressed the issues presented:
+
+1. **Identification by a Single Witness**: The court found that the trial court properly considered the factors affecting the reliability of Mr. Brown's identification, including illumination, proximity, and his prior interactions with Cupido. Despite initial concerns about potential bias, the court determined that Mr. Brown’s testimony was sufficiently corroborated by the circumstances of the incident ([paras 20–23]).
+
+2. **Photo Identification**: The court noted that Mr. Brown had already identified Cupido prior to viewing the photograph. Thus, the photo identification served to confirm an existing suspicion rather than create a false one. The court found no irregularity in the police procedures surrounding this identification ([paras 24–27]).
+
+3. **Privacy Rights**: While acknowledging potential infringements on Cupido’s privacy, the court concluded that this did not translate into a violation of his right to a fair trial. The police actions were justifiable within the context of their need to investigate the ongoing crime ([paras 28–30]).
+
+4. **Exculpatory Statements**: The SCA maintained that the trial court correctly evaluated the appellant's alibi defense based solely on the evidence presented during the trial, noting that the absence of corroborating testimony from Cupido’s sister further weakened the alibi ([paras 31–38]).
+
+5. **Exclusion of Hearsay Evidence**: The court highlighted that hearsay from witnesses who were available but chose not to testify, particularly when their statements contradicted trial testimony, could be justifiably excluded. The court confirmed that excluding said hearsay did not affect the overall fairness of the trial ([paras 43–51]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 40–51])
+
+In light of the comprehensive analysis, the SCA dismissed the appeal, affirming the trial court's ruling and emphasizing:
+
+- The satisfaction of the cautionary rule surrounding single witness identifications;
+- The legal permissibility of photo identification procedures;
+- The balance of appellant's privacy rights in the context of law enforcement activities;
+- The soundness of the trial court's treatment of exculpatory evidence;
+- The appropriateness of excluding hearsay when its absence does not undermine the trial’s integrity.
+
+The court's decision reinforces the standards applied to witness testimony and evidentiary admissibility, reinforcing the principle that judicial processes must balance the rights of defendants against the need for effective law enforcement. This case may serve as a reference in future considerations regarding single-witness testimonies, photo identifications, and the evidentiary weight of exculpatory statements within South African criminal jurisprudence.
+
+Thus, the court conveyed a clear message about the legal and procedural rigor required in serious criminal cases, sustaining the integrity of the judicial system while also protecting fundamental rights.

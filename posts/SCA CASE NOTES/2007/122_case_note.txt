@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note for Legh v Nungu Trading 353 (Pty) Ltd 
+
+## F – Facts
+The dispute in **Legh v Nungu Trading 353 (Pty) Ltd** arises from a series of events surrounding the winding up of **Rietfontein General Galvanisers (Pty) Ltd** ("the Company"), predominantly owned by **John Alistair Legh** and **Gregory Francis Porteous** ([1]). In 1998, both parties acquired equal shares (50%) in the Company. However, in 2003, Porteous allegedly sold his shares and loan account to Legh, which Porteous disputes. Presently, the Company is the sole owner of a dilapidated property, Portion 40 of the farm Rietfontein, and has been inactive since 1998 ([2]).
+
+Despite warnings from the **Ekurhuleni Metropolitan Municipality** regarding health hazards linked to the property, and a judgment against the Company for unpaid municipal charges, Legh took no action to remedy the situation ([3]). By June 2005, the property was sold in execution for R100 to **Nungu Trading 353 (Pty) Ltd** ("Nungu") due to the outstanding debt. Nungu was informed about significant supplementary costs concerning the property, specifically outstanding municipal rates amounting to R3.5 million ([6]).
+
+In 2006, amidst the transfer process of the property to Nungu, Porteous filed for the Company’s winding up, which led to a complicated legal battle over the property’s transfer rights, culminating in a court order confirming the provisional winding up and Nungu’s entitlement to the property ([9]).
+
+## I – Issues
+The core issue is whether **s 20(1)(c)** of the **Insolvency Act 24 of 1936** applies to a company in winding up as defined in **s 339** of the **Companies Act 61 of 1973** ([10]). Specifically, this section notes that execution against an insolvent estate must cease upon the appointment of a liquidator, questioning the propriety of Nungu’s claim for property transfer while the company is under provisional winding up.
+
+Another vital issue is whether the court has the jurisdiction to grant an order mandating the transfer of property to Nungu despite the company being in provisional liquidation without compliance with the statutory framework mandated in the Companies Act ([22]).
+
+## R – Rules
+The pertinent legal authorities include:
+
+1. **Insolvency Act 24 of 1936** 
+   - **s 20(1)(c)** provides for the cessation of execution against an insolvent once the estate is sequestrated unless otherwise directed ([10]).
+  
+2. **Companies Act 61 of 1973**
+   - **s 339** states that insolvency laws apply to the winding up of a company only in the absence of specific provisions in the Companies Act ([10]).
+   - **s 361(1)** outlines that all company property is under the control of the Master until a liquidator is appointed ([14]).
+   - **s 342(1)** discusses the application of company assets for the settlement of debts during winding up. 
+
+3. **Case Law** 
+   - **Secretary for Customs and Excise v Millman, N.O.** reiterates that property does not vest in the Master or liquidator simply because a company is being wound up ([14]).
+   - Precedent from **Cornelissen, N.O. v Universal Caravan Sales (Pty.) Ltd** clarifies that sections of the Insolvency Act do not automatically apply to a company in winding up ([15]).
+
+## A – Application
+The court assessed whether **s 20(1)(c)** is applicable to entities undergoing a winding up. The persuasive argument was that since the rest of the subsections of section 20 do not apply to companies being wound up, it is illogical to assume that only s 20(1)(c) would be applicable ([11][13]). 
+
+The court pointed out that transferring the sole asset of the Company to Nungu would contradict statutory provisions intended to ensure the liquidation process is effectively executed to benefit all creditors ([16]). Therefore, granting a transfer order while simultaneously confirming the winding up creates a paradox whereby the liquidator's powers and creditors' rights are undermined ([17]).
+
+Also, the contention that Nungu should have followed statutory procedures outlined in **s 359** of the Companies Act concerning the suspension of civil proceedings pending liquidation was emphasized. Nungu, by proceeding with a counter-application against the Company during the winding-up order, evaded necessary compliance ([22]).
+
+## C – Conclusion
+In summary, the Supreme Court of Appeal ruled that **s 20(1)(c)** of the Insolvency Act does not apply to a company in winding up, thus invalidating the order that permitted the transfer of the Company’s sole asset to Nungu. The finding upheld the principle that only registered liquidators can handle the company’s assets amid winding up, preserving the rights of creditors ([18]).
+
+The appeal by Legh was upheld with costs, including two-counsel fees, while Nungu’s cross-appeal was dismissed ([19]). Consequently, the court issued a final liquidation order against the Company, reiterating adherence to the Companies Act's statutory framework, ensuring that the rights of creditors are facilitated and maintained throughout the winding up process.

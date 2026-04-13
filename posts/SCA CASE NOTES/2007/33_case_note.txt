@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: **Haslam v The State** [2007] SCA 33 RSA
+
+### Facts
+The appellant, Barry Stephen Haslam, was a senior banker charged with ten counts of fraud in the Magistrates’ Court, Johannesburg ([1]). He was convicted and sentenced to ten years’ imprisonment, a decision that the Johannesburg High Court subsequently upheld ([1]). The charges stemmed from Haslam’s role as a relationship manager at Nedcor Bank, where he was responsible for client accounts, including Moonstar Commerce & Industry (Pty) Ltd and Emperor Fisher International ([2]–[3]). 
+
+In 1998, Haslam's authority to approve credit facilities was withdrawn, requiring all credit applications to be processed through the credit department ([2]). Despite this, he signed approval on applications for letters of credit submitted by Moonstar from January to June 1999, which were ultimately approved by Nedcor's Global division ([4]–[6]). 
+
+These applications did not include the required motivations, leading to allegations that Haslam had misrepresented his authority and bypassed the credit department ([7]–[10]). His defense was that he merely sought to facilitate the processing of applications within a burdensome workload and did not intend to misrepresent his position or that the credit department had been bypassed knowingly ([11]). 
+
+The trial court dismissed Haslam’s version of events as improbable, concluding that he intended to induce the bank to act under false pretenses ([12]). The High Court affirmed these findings, emphasizing that Haslam appeared to have circumvented the intended credit procedures ([13]).
+
+### Issues
+The principal legal issues in this case include:
+1. Whether the State proved beyond reasonable doubt that Haslam intentionally misrepresented his authority to approve credit applications, thereby committing fraud ([14]).
+2. Whether there existed sufficient evidence to demonstrate that Haslam had knowledge of the bank's credit policy changes and intentionally caused the applications to bypass the normal credit procedures ([17], [19]).
+
+### Rules
+The court relied on the definition of fraud, which consists of unlawfully making a misrepresentation with intent to defraud, resulting in actual or potential prejudice to another ([14]). The key legal principles asserted included:
+- The principle that in criminal matters, the prosecution must prove the accused’s guilt beyond reasonable doubt ([19]).
+- The legal requirement to demonstrate that the accused was involved in a course of conduct that knowingly involved false representations ([14]).
+
+The court referenced **S v Shackell** 2001 (4) SA 1 (SCA), which underscores that an explanation from an accused must be deemed 'reasonably possibly true' for acquittal ([19]).
+
+### Application
+The court closely examined the evidence regarding Haslam's signature on the credit application forms and the procedures followed by both Haslam and his colleagues. It was determined that:
+- The state failed to provide adequate proof of the mechanics of the alleged fraud, specifically how the applications moved from Haslam to Global without proper approval from the credit department ([17]).
+- Haslam testified that he did not instruct Ms Huey Botha, who was responsible for processing the applications, to bypass standard procedures, undermining the assertion that he intended to misrepresent ([18]).
+- The High Court and trial court’s conclusions regarding Haslam's intent were found lacking, as there was no substantial evidence showing that Haslam knew Global was unaware of the credit policy changes, which would be essential to prove fraudulent intent ([18]).
+
+Notably, testimonies suggested that Haslam’s actions were prompted by an elevated workload rather than a deliberate attempt to defraud the bank, which cast reasonable doubt on the allegations against him ([19], [23]).
+
+### Conclusion
+The Supreme Court of Appeal ultimately found that the prosecution had not established the mechanics of fraud alleged against Haslam, and his version of events was deemed reasonably possibly true ([24]). As such, the appeal was successful, and both the convictions and sentences were set aside ([24]). 
+
+This case highlights the critical standards for establishing fraud in criminal law and the necessity for the State to prove intent beyond a reasonable doubt, particularly where the accused presents a plausible explanation for their conduct. The ruling reinforces the importance of procedural adherence within financial institutions and the responsibilities of employees concerning authority changes.

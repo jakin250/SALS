@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: Country Cloud Trading CC v MEC, Department of Infrastructure Development
+
+**Neutral Citation**: Country Cloud Trading CC v MEC, Department of Infrastructure Development (751/12) [2013] ZASCA 161 (26 November 2013).
+
+## F – Facts
+
+The dispute in this case arose from a complex set of contracts and financial transactions related to the construction of the Zola Clinic in Soweto ([para 1]). The appellant, **Country Cloud Trading CC (Country Cloud)**, advanced **R12 million** to **Ilima Projects (Pty) Ltd (Ilima)** to fund the completion of a construction project after the Gauteng Department of Infrastructure Development (the Department) cancelled its construction contract with Ilima ([paras 1–2]). The cancellation of the contract led to Ilima's liquidation and the loss of anticipated profits for Country Cloud ([para 2]).
+
+The original contract for the Zola Clinic was awarded to a joint venture that included Ilima in May 2006, with an overall project value of **R335 million** ([para 3]). After most of its partners withdrew, Ilima was left as the sole contractor, and urgent measures were taken by the Department to appoint a contractor. Following this, the Department initiated a contract with Ilima to complete the project for a total of **R480 million** on **4 August 2008** ([para 6]).
+
+On **4 September 2008**, the Department cancelled the completion contract, citing **two misrepresentations** made by Ilima concerning its tax clearance certificate and its level of accreditation ([para 7]). This prompted Country Cloud to file a claim against the Department for **delictual damages** amounting to **R20.5 million** in the South Gauteng High Court, which was dismissed with costs by Satchwell J ([paras 2–4]).
+
+## I – Issues
+
+The appeal raised several critical legal issues, primarily relating to:
+
+1. **Contract Validity**: Whether the completion contract with Ilima was valid and whether its cancellation was lawful ([para 12]).
+2. **Misrepresentation**: The legitimacy of the Department's reasons for canceling the contract and whether they constituted lawful grounds for cancellation ([para 16]).
+3. **Delictual Liability**: Whether the Department could be held liable in delict for the loss suffered by Country Cloud due to the cancellation of the contract, particularly the establishment of *wrongfulness* in the context of pure economic loss ([pars 17–19]).
+
+## R – Rules
+
+The legal framework surrounding this case involves the following key statutes and judicial precedents:
+
+1. **Public Finance Management Act 1 of 1999**: Governs the procurement process and outlines the duties and responsibilities of accounting officers ([para 13]).
+2. **Preferential Procurement Policy Framework Act 5 of 2000**: Regulates the principles of fairness, equity, transparency, and competitiveness in public procurement ([para 13]).
+3. **Aquilian Action**: Established principles underpinning delictual liability for pure economic loss, which extend to cases where the conduct involves intent or gross negligence ([para 18]).
+
+The court relied on prior case law, especially *Administrateur, Natal v Trust Bank van Afrika Bpk* 1979 (3) SA 824 (A), which expanded delictual liability to include pure economic loss while warning against the dangers of indeterminate liability ([para 17]).
+
+## A – Application
+
+The Court of Appeal examined the claims in light of the facts and the statutory framework:
+
+1. **Contract Validity**: The initial finding by the court a quo that the completion contract was unlawful was revised. It was established that Buthelezi, as the accounting officer, held the authority to deviate from procurement regulations given the urgency of the situation ([paras 14–15]). The argument that the circumstances did not constitute an emergency was dismissed as the evidence pointed to a considerable public need ([para 15]).
+
+2. **Misrepresentation**: The basis for the Department's cancellation was scrutinized. The evidence did not conclusively demonstrate that Ilima lacked valid tax clearance, as the only testimony from SARS suggested that while there was disarray, a tax clearance could still have been validly issued under certain conditions ([para 16]). Thus, the Department's reliance on misrepresentation as grounds for cancellation lacked substantiation.
+
+3. **Delictual Liability**: The Court grappled with the critical element of *wrongfulness*. The judgment underscored that imposing liability on a contracting party for damages suffered by a stranger (Country Cloud) due to the repudiation of a contract is uncommon ([para 26]). It was argued that foreseeability alone cannot suffice to impose liability unless the circumstances meet certain public policy thresholds ([para 28]). The Court also noted Country Cloud’s options to mitigate its losses, such as taking cession of Ilima's claim against the Department, further complicating its argument for delictual liability.
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately dismissed the appeal, agreeing with the findings of the court a quo but for different reasons ([para 32]). The ruling reaffirmed that the Department could not be held liable for delictual damages due to a lack of grounds for establishing *wrongfulness* under the Aquilian action in circumstances where the appellant had multiple avenues for recourse that were not pursued.
+
+The judgment sets vital precedents regarding the boundaries of delictual liability for pure economic loss in South African law. It emphasizes the court's reluctance to extend liability beyond traditional confines to prevent indeterminate exposure while underscoring the necessity for plaintiffs to explore available remedies before seeking delictual claims against contracting entities ([paras 30–31]). 
+
+Thus, the decision not only provides clarity on the interpretation of public procurement laws but also reinforces the principles governing commercial engagements, the limits of liability, and considerations of public policy in establishing wrongdoing ([paras 19, 28]).

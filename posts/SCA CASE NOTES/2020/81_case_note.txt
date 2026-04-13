@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+### FIRAC Case Note: Systems Applications Consultants (Pty) Ltd t/a Securinfo v Systems Applications Products AG and Others (1371/2018) [2020] ZASCA 81
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–12])**
+
+The case revolves around an interlocutory order for security for costs concerning a prolonged legal action initiated by the appellant, Systems Applications Consultants (Pty) Ltd (Securinfo), against Systems Applications Products AG (SAP), a German global software company. The appellant developed software (Securinfo for SAP) between 1997 and 2001, claiming an exclusive distribution agreement made with SAP Systems Integration (SAPSI) in 2004 was unlawfully interfered with by the respondent. In 2008, the appellant instituted action for damages of €609,803,145. 
+
+In May 2010, the respondent applied for security for costs under s 13 of the Companies Act 61 of 1973, culminating in a 2012 order mandating Securinfo to furnish R4 million in security. Following unsuccessful attempts to appeal this order, the appellant complied. In April 2018, the appellant sought to have the security released, citing a material change in circumstances, arguing the respondent was abusing the court process to hinder the main action. The respondent opposed this application while also seeking an increase in the security. The court a quo dismissed the appellant's application and granted the respondent's application for increased security, leading to the present appeal.
+
+**I – Issues: Legal or Constitutional Questions ([paras 13–15])**
+
+The central issue in this appeal is whether the R4 million security for costs should be released based on the claim of material changes in circumstances since the 2012 order. Specifically, three issues arise:
+
+1. Does the court a quo possess the authority to reconsider and potentially release the security?
+2. If such power exists, should the court have released the security?
+3. Is there an abuse of court process by the respondent?
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 16–24])**
+
+The court examined authority under the Companies Act, specifically s 13 of the 1973 Act, which allows courts to require security for costs if a plaintiff is unable to pay them upon a defendant’s success. The court also referenced the 2008 Companies Act, which lacks a comparable provision. 
+
+Importantly, the discussion involved interpretations of common law and s 173 of the Constitution, which provides the courts with inherent powers to manage their own processes. The court cited **Shepstone and Wylie v Geyser** for the principle that a court can entertain a subsequent application if new evidence emerges, but acknowledged that prior cases did not explicitly address the reconsideration of final orders due to a change of circumstances.
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 25–49])**
+
+In addressing the first issue, the court acknowledged its inherent power under s 173 of the Constitution but placed importance on the rules against retrospective application of law. The findings in **Boost Sports Africa (Pty) Ltd v South African Breweries** reiterated that security for costs remains a procedural matter and any alteration to a final order must demonstrate substantive change. 
+
+The appellant's claim that the repeal of the 1973 Companies Act constituted a material change was rejected, noting that the transitional provisions maintained the applicability of the 1973 Act for ongoing proceedings. 
+
+For the alleged factual change stemming from the joinder of Ungani Investments, the appellant failed to substantiate claims regarding its financial standing. The court highlighted the insufficiency of evidence provided, noting that the lack of solid financial documentation weakened the argument for releasing security.
+
+On the question of alleged abuse of process, the court found no evidence suggestive of intent by the respondent to stifle the main action through procedural maneuvers. The appellant's historical litigation behavior was also identified as a contributing factor to the court's reluctance to find for abuse.
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 50–55])**
+
+The Supreme Court of Appeal ultimately dismissed the appeal. It reinforced the notion that the court a quo had exercised its discretion properly and didn't abuse its powers in declining to release the security. The court emphasized adherence to legal formalism and the principles of finality in judicial decisions, underscoring that unless clear evidence of material change is presented, courts would lean towards maintaining the original orders. This case highlights the importance of evidentiary substantiation in courts' assessments of procedural matters such as security for costs, and reaffirms that the existence of a final court order and the structures set in place to maintain judicial integrity are paramount in upholding the rule of law.
+
+### References
+- **Boost Sports Africa (Pty) Ltd v South African Breweries** [2015] ZASCA 93.
+- **Shepstone and Wylie v Geyser** [1998] ZASCA 48.
+- **Molaudzi v The State** [2015] ZACC 20.
+- **Giddey NO v JC Barnard and Partners** [2007] ZACC 13.
+- Legislation: Companies Act 61 of 1973; Companies Act 71 of 2008; Constitution of South Africa, s 173.

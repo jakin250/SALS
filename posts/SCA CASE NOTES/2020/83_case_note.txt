@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note – *Hlumisa Investment Holdings (RF) Ltd and Another v Kirkinis and Others* [2020] ZASCA 83
+
+---
+
+## F – Facts
+
+This appeal arose from a judgment of the Gauteng Division of the High Court, Pretoria, regarding *Hlumisa Investment Holdings (RF) Ltd* (the first appellant) and *Eyomhlaba Investment Holdings (RF) Ltd* (the second appellant), both of which are shareholders in *African Bank Investments Limited* (ABIL), a company listed on the Johannesburg Securities Exchange ([1]–[2]). The appellants jointly filed a suit against eleven respondents comprising current and former directors of ABIL and its subsidiary, *African Bank Limited*, and their auditors, *Deloitte & Touche* ([2]–[3]).
+
+The appellants alleged that from 2012 to 2014, the directors acted in contravention of several provisions of the Companies Act 71 of 2008, particularly sections 22(1) and 76(3), resulting in substantial losses for the companies and a drastic decline in the share price of ABIL—from R28.15 in April 2013 to R0.31 in August 2014 ([4]–[5]). They claimed these directors were liable for damages due to misconduct that included publishing false financial statements and engaging in reckless business practices which ultimately diminished the value of their shares ([5]).
+
+The claim against Deloitte rested on allegations of negligence in conducting audits, and the appellants contended that had proper audits been performed, they would have acted to remove the errant directors, thus preventing further losses ([7]–[8]). The particulars of claim were contested by exceptions raised by the respondents, who argued that the proper plaintiff for these claims was the company itself, not individual shareholders, invoking the principles of reflective loss ([6]–[10]).
+
+## I – Issues
+
+The key legal questions arising in this case include:
+
+1. **Is there a claim by shareholders against directors for the diminution in the value of shares due to misconduct under section 218(2) of the Companies Act 71 of 2008?** ([1]–[3])
+   
+2. **Do shareholders have a viable claim against auditors for pure economic loss as a result of the alleged negligent audit of the company?** ([7]–[9])
+
+3. **Does a claim based on reflective loss, which solely results from losses suffered by the company, permit individual shareholders to recover damages from directors or auditors?** ([10]–[12])
+
+## R – Rules
+
+The court used several legal principles and statutory provisions throughout its reasoning regarding the appellants' claims. Key laws and principles include:
+
+- **Section 218(2) of the Companies Act 71 of 2008**: States that any person who contravenes any provision of the Act is liable for any loss or damage suffered by that person as a result of that contravention ([11]).
+
+- **Section 76(3) of the Companies Act**: Codifies the fiduciary duties of directors, requiring they act in good faith and in the best interests of the company, employing the skill and diligence expected of a director ([12]).
+
+- **Principles of Reflective Loss**: The prohibition against shareholders claiming for losses suffered indirectly through a company's loss; a foundational tenet of corporate law established in *Foss v Harbottle* which maintains that only the company can sue for harms done to it ([24]–[26]).
+
+- **Auditor Liability Standards**: General laws concerning delictual claims for pure economic loss stress that auditors typically owe their duties to the company and not individual shareholders ([60]).
+
+## A – Application
+
+The court meticulously analyzed the pleadings and the broader implications of the claims. In respect of Claim A against the directors:
+
+- The court upheld the exceptions raised by the directors, reaffirming the principle that only a company can bring a claim for reflective loss. It emphasized that the appellants' claims were essentially reflective of the losses suffered by ABIL and African Bank, which themselves are direct victims of any mismanagement or misconduct ([38]–[39]).
+
+- Applying the statutory interpretation of section 218(2), the court concluded that while the appellants invoked this section, the damage they claimed was not directly suffered by them as the shareholders but was a result of losses incurred by the company ([41]–[52]).
+
+Regarding Claim B against Deloitte:
+
+- The court ruled that Deloitte did not owe an actionable duty to the appellants as individual shareholders because the loss claimed was purely economic and reflective of the loss sustained by the company itself. The claim was further barred as it relied on pure economic loss which is generally not actionable in South Africa ([57]–[69]).
+
+- The court also addressed the implications of section 46(3) of the Auditing Profession Act, asserting that the provision, which allows for third-party claims, did not create a cause of action for the appellants as their claim failed to establish the necessary link required by the statute ([72]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal affirmed the judgment of the Gauteng Division of the High Court, dismissing the appeal with costs. It reaffirmed the legal principles barring claims for reflective losses by shareholders, held that the claims against the directors and auditors lacked the necessary foundation in law, and concluded that all claims for damages resulting from the directors’ alleged breaches must be brought by the company itself ([73]).
+
+The importance of this case lies in its reaffirmation of the principle that while shareholders may feel the impact of a company's loss, they cannot individually pursue claims that reflect losses derived from the company's harm. This decision underscores the necessity for corporate governance frameworks to align with established legal doctrines that protect both the company and its shareholders while maintaining a coherent structure for accountability in corporate management.

@@ -1,0 +1,55 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2023
+
+# FIRAC Case Note: Mosselbaai Boeredienste (Pty) Ltd v OKB Motors CC [2023] ZASCA 91
+
+**F – Facts: Relevant background and procedural history ([paras 1–10])**
+
+The case centers around a contractual dispute between Mosselbaai Boeredienste (Pty) Ltd (the applicant) and OKB Motors CC (the respondent), both involved in the motor industry. On 7 February 2018, an interdealership agreement was executed whereby the applicant sold a Toyota Etios vehicle to the respondent for R159,353.76. Mrs. Steyn, an employee of the respondent, received the purchase invoice from the applicant’s sales manager. However, payment was made into an incorrect bank account due to fraudulent intervention that altered the banking details on the invoice.
+
+The delivery of the vehicle took place on 8 February 2018, and subsequent to the delivery, proof of payment reflecting the incorrect account was emailed to the applicant. The applicant, under the belief that the payment had been properly made, proceeded with the transaction without receiving actual payment.
+
+The applicant initiated proceedings in the magistrates’ court for payment of the vehicle price following the non-payment. The magistrate upheld the respondent's defense of estoppel by representation and dismissed the applicant's claim. Dissatisfied with this outcome, the applicant noted an appeal on 19 April 2021. However, it failed to comply with various prescribed rules leading to the lapse of the appeal.
+
+The applicant sought condonation to reinstate its appeal, which was ultimately dismissed by the High Court on 18 November 2021 due to perceived lack of prospects of success on appeal and failure to file a power of attorney.
+
+**I – Issues: Legal or constitutional questions ([paras 10–12])**
+
+The primary issue for determination was whether the applicant had established reasonable prospects of success on appeal, justifying special leave to appeal. Additional questions loomed regarding the applicability of the defense of estoppel based on fraudulent misrepresentation and whether the non-compliance with procedural rules could be excused under exceptional circumstances. The legal standards regarding applications for condonation also featured prominently, specifically whether strong prospects of success can offset a poor explanation for delays ([paras 11–12]).
+
+**R – Rules: Legal authorities and precedents relied upon ([paras 8–11, 18])**
+
+Several critical legal principles are derived from the Uniform Rules of Court governing appeals. Particularly relevant were:
+
+1. **Rule 50(4)(a)**, which requires an appellant to file a notice for assignment of a hearing date within 40 days of noting an appeal.
+2. **Rule 50(7)(a)**, which mandates filing two copies of the record of appeal simultaneously.
+3. **Rule 7(2)**, imposing the necessity of filing a power of attorney for legal representation.
+
+Furthermore, the court referenced important case law concerning the principles of estoppel, misrepresentation, and the implications of electronic fraud:
+
+- **Cook v Morrison and Another [2019] ZASCA 8**: established the need for extraordinary circumstances in condonation applications.
+- **Van Wyk v Unitas Hospital and Another [2008] ZACC 24**: laid down the criterion of interests of justice as the guiding metric for considering the grant of condonation.
+
+Moreover, the court highlighted inconsistencies in lower court judgments regarding liability when fraud is involved, drawing on cases such as **Eriksen Motors (Welkom) Ltd v Protea Motors, Warrenton and Another**.
+
+**A – Application: Analysis of how the court applied the law ([paras 11–18])**
+
+The Supreme Court of Appeal approached the determination of the presence of reasonable prospects of success methodically, reiterating that this merely required the applicant to establish the potential for a different outcome should they be afforded the right to appeal.
+
+The court found merit in the arguments presented by the applicant, especially considering:
+
+1. **The Defense of Estoppel**: It was critical to reevaluate the probative factors highlighting whether the applicant had negligently misrepresented their banking details and whether the lack of verification contributed to the losses incurred.
+
+2. **Negligence and Causation**: The court scrutinized whether an inference of negligence could validly point to the applicant as primarily responsible for the interception due to lapses in their system security.
+
+3. **Precedent Cases**: The application of precedent from cases involving electronic payment fraud established a considerable foundation for debate around the standard of care expected of both parties in a transaction, spotlighting the risk assignment as influenced by fraudulent acts.
+
+The court also underscored the inconsistency among previous judgments regarding who should bear the loss arising from fraud, reinforcing the need for clarity in legal responsibility tied to electronic payment protocols and banking detail verifications.
+
+**C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 19])**
+
+In conclusion, the Supreme Court of Appeal granted special leave for the applicant to appeal, overturning the lower court's dismissal of the condonation application. The court reinstated the appeal, emphasizing that strong prospects of success can indeed outweigh procedural non-compliance, particularly when the underlying issues at stake bear significant implications for both parties and broader jurisprudential understanding.
+
+The matter was referred to a full court of the Free State Division of the High Court for comprehensive examination of the appeal’s merits, signifying the court's acknowledgment of the compelling legal questions raised by the nuances of electronic financial transactions in an increasingly digitized economic landscape.
+
+The decision not only reinforced principles surrounding estoppel and negligence but also called for judicial scrutiny of the adequacy of protections against cyber fraud within commercial practices. The outcome serves as a crucial precedent in solidifying the responsibility of parties in ensuring the security of financial transactions in the digital age. 

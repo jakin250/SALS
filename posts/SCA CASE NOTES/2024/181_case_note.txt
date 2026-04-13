@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Macneil Plastics (Pty) Ltd v Van den Heever N O and Others (906/2023) [2024] ZASCA 181
+
+## FIRAC Analysis
+
+### F – Facts
+
+The litigation concerns a dispute over void payments made by Ronnie Dennison Agencies (Pty) Ltd t/a Water Africa Systems (Pty) Ltd (in liquidation) (the Company) to Macneil Plastics (Pty) Ltd (Macneil Plastics) following the initiation of liquidation proceedings. The Company was wound up on October 28, 2015, due to its inability to pay its debts, an application for which was initiated by a creditor, DPI Plastics (Pty) Ltd ([1]–[2]). Subsequently, on November 2, 2015, the Company made a payment totaling R407 010.30 to Macneil Plastics, which the liquidators later sought to have declared void pursuant to section 341(2) of the Companies Act 61 of 1973 (the old Companies Act) ([2]–[4]).
+
+The High Court granted an order suspending liquidation proceedings and placing the Company under business rescue on December 9, 2015, pursuant to section 131 of the Companies Act 71 of 2008 (the new Companies Act) ([5]). However, this order was subsequently set aside by Potterill J on April 12, 2016, reinstating the final winding-up of the Company ([6]–[7]). The liquidators brought an application to declare the payments to Macneil Plastics void, a ruling upheld by the High Court, which led to this appeal ([7]–[8]).
+
+### I – Issues
+
+The core legal issue before the Supreme Court of Appeal was whether the void payments made by the Company to Macneil Plastics after it was placed in liquidation were validated by the subsequent order to place the Company in business rescue, in accordance with the provisions of the Companies Act ([1]). This raises constitutional questions regarding the interpretation and interaction of the old and new Companies Acts concerning liquidation and business rescue proceedings.
+
+### R – Rules
+
+The legal framework surrounding this case is primarily contained within the Companies Act 61 of 1973 and the Companies Act 71 of 2008. Specifically:
+
+1. **Section 341(2) of the Old Companies Act**: Dispositions made by a company in liquidation are void unless validated by a court order ([4])^1.
+2. **Section 131(6)(b) of the New Companies Act**: Provides that if a liquidation application is pending at the initiation of business rescue proceedings, the liquidation is suspended until the conclusion of the rescue proceedings ([12]–[14])^2.
+3. **Principles of Insolvency Law**: The concept of *concursus creditorum*, meaning that once liquidation commences, no creditor can uniquely benefit at the expense of others ([9])^3.
+
+### A – Application
+
+In analyzing the law, the Supreme Court of Appeal rejected Macneil Plastics’ argument that the later business rescue application superseded the liquidation process and validated the payments. The Court reiterated that the payments made post-liquidation were void from the outset under section 341(2) of the old Companies Act. It emphasized that validating such payments would undermine the essential bankruptcy principle that prioritizes the collective rights of all creditors, highlighting the systemic importance of the *concursus creditorum* ([9])–[12]).
+
+The Court maintained that while section 131(6)(b) suspends the liquidation process during a business rescue, such suspension does not obliterate the original liquidation order. Instead, it merely halts the legal consequences flowing from that order while the business rescue proceedings are active ([12]–[15]). Furthermore, the Court pointed out that neither the old nor the new Companies Acts permitted retroactive validation of void payments made post-liquidation based on the initiation of business rescue proceedings ([15]).
+
+Additionally, the Court examined the statutory language of section 131, emphasizing that the term "suspend" does not equate to "set aside" or "terminate," thereby underscoring that the original liquidation order remained effective during any subsequent business rescue application ([16]–[17]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately dismissed the appeal with costs, affirming the lower courts' conclusions that the payments made by the Company to Macneil Plastics were void as they contravened section 341(2) of the old Companies Act. The judgment clarified that the processes of liquidation and business rescue are distinct and that the initiation of the latter does not validate prior void transactions made during liquidation. This ruling further reinforces the integrity of insolvency laws, ensuring that all creditors are treated equitably, without preferential treatment arising from post-liquidation payments ([19]).
+
+---
+
+### References
+
+1. Companies Act 61 of 1973, s 341(2).
+2. Companies Act 71 of 2008, s 131(6)(b).
+3. Walker v Syfret N O 1911 AD 141 at 160 and 166.

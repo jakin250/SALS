@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# Case Note: Michael Naylor & Atomaer (RSA) (Pty) Ltd v Pieter Johan Jansen (2005)
+
+## F – Facts: Relevant Background and Procedural History ([1]–[20])
+
+On 24 October 2002, Pieter Jansen, a resident of Gauteng, initiated ex parte proceedings for the arrest of Michael Naylor, an Australian citizen and a peregrine (foreigner) in South Africa, to confirm the jurisdiction of the High Court in Johannesburg regarding a defamation claim ([1]). The High Court granted the arrest order on the basis that Naylor would either furnish security or show cause to have the arrest annulled. Naylor was never detained but complied with the order by providing the necessary security.
+
+Subsequently, on 4 November 2002, Jansen instituted a defamation action against Naylor and Atomaer (RSA) (Pty) Ltd, alleging that defamatory statements had been made by Naylor regarding Jansen’s conduct in relation to the company ([1], [2]). The case arose after Naylor, as CEO of Atomaer, asserted during an October 2002 meeting that Jansen had been suspended for misappropriating company funds. The trial resulted in a judgment for Jansen on 31 October 2003, which failed to address the costs incurred during the ex parte application ([1], [2]).
+
+Following the trial, Naylor appealed the defamation judgment while the court subsequently ordered Jansen to cover the costs related to the ex parte application, from which Jansen appealed ([1], [2]). Notably, in the costs appeal, Jansen chose to represent himself while being represented by counsel in the defamation appeal ([1], [2]).
+
+## I – Issues: Legal or Constitutional Questions ([1]–[20])
+
+The core issues of this case include:
+
+1. **Defamation Claim**: Whether Naylor’s statements regarding Jansen constituted defamation and whether the defences of animus injuriandi and qualified privilege could apply in this context ([1]-[20]).
+
+2. **Costs of Arrest Application**: Whether the court erred in ordering Jansen to pay the costs of the arrest application given that Naylor had not been afforded the opportunity to submit to the court's jurisdiction prior to the arrest order ([20]–[32]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([1]–[20])
+
+### Defamation Laws
+
+South African defamation law is guided by the principle that a statement is considered defamatory if it tends to lower a person in the estimation of right-thinking members of society ([6]). The case of **Joubert v Venter** [1985] established that the utterance of a defamatory statement creates presumptions of unlawfulness and animus injuriandi, which must be rebutted by the defendant ([7]).
+
+Qualified privilege as a defence was referenced, underscoring that a statement made in the context of a mutual interest or duty may not be actionable unless proven to have been made with malice ([11]), as seen in **National Media Ltd v Bogoshi** [1998]. 
+
+### Costs of Arrest Application
+
+The legality of arrest to establish jurisdiction is rooted in customary contractual practices demanding immediate action to secure a jurisdictional foothold ([20]). Historical precedent affirms that courts will generally not deny an incola (local resident) the right to seek such orders based on speculative submissions to jurisdiction from a peregrine ([20], [26]).
+
+## A – Application: Analysis of How the Court Applied the Law ([7]–[30])
+
+### Defamation Appeal
+
+The court upheld Jansen’s defamation claim by examining the statements made by Naylor during the meeting. It found that Jansen’s suspension was framed as a response to alleged wrongful acts amounting to theft, which clearly depicted Naylor’s words as defamatory due to their capacity to harm Jansen's reputation ([6], [7], [10]). Naylor's attempts to rely on alternate defenses, particularly the lack of animus injuriandi and qualified privilege, were dismissed due to a lack of credible evidence showing that his utterances were free from malicious intent ([11], [13], [14]).
+
+The court evidenced Naylor’s knowledge of untruthful statements by acknowledging the context within which they were made. Despite Naylor asserting a lack of intent to imply theft, the court's ruling noted that an ordinary person interpreting the statement would conclude that it implied dishonest conduct on Jansen’s part. Thus, the court found that Jansen had valid grounds for claiming damages, and the malicious nature of Naylor's statements warranted liability ([11], [17]).
+
+### Costs Appeal
+
+The court analyzed whether Jansen’s failure to invite Naylor to submit to jurisdiction nullified his right to recover costs related to the arrest. It firmly established that the wells-established practice of employing ex parte methods to procure jurisdiction exempted Jansen from having to invite consent from the peregrine ([23], [29]). 
+
+Determining that Jansen had an absolute right to request an arrest to ensure jurisdictional confirmation, the court rejected arguments suggesting that his non-invitation to consent affected his right to costs. Instead, it upheld that adhering to established legal norms warranted Jansen's right to recover costs, thereby setting aside the High Court’s previous order to the contrary ([20], [29], [30]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([19], [31], [32])
+
+The Supreme Court of Appeal found overwhelmingly in favor of Pieter Jansen in both appeals. The court affirmed the original defamation judgment by reducing the damages awarded to Jansen from R30 000 to R15 000, reflecting the gravity of Naylor's defamatory statements while acknowledging mitigating factors ([17], [19]).
+
+In the costs appeal, the court decisively overturned the lower court’s dismissal regarding the recoverability of costs associated with the arrest application, stating that the lack of a preemptive invitation to submit to jurisdiction did not absolve Jansen's right to costs. This upholding of traditional practices surrounding jurisdictional security reestablishes the principles governing the treatment of peregrine litigants in South Africa, reinforcing the essential legal standard that incolae should not be prejudiced when seeking to establish jurisdiction against foreign defendants ([30], [31], [32]).
+
+The ruling is significant, as it clarifies the legal standards surrounding defamation, the definitions of malicious intent (animus injuriandi), and the established practices surrounding jurisdictional arrests necessary for litigation involving foreign parties. It further serves as a reaffirmation of protective legal mechanisms for local litigants against potential unfair practices by foreign defendants, ultimately enhancing the reliability of South African courts in dealing with international disputes.

@@ -1,0 +1,46 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2024
+
+# FIRAC Case Note: Edward Nathan Sonnenberg Inc v Hawarden [2024] ZASCA 90
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–13])
+
+This case concerns an appeal brought by Edward Nathan Sonnenberg Inc. (ENS), a conveyancing firm, against a ruling made by the Gauteng Division of the High Court, which allowed a delictual claim by Judith Mary Hawarden for pure economic loss amounting to R5.5 million ([para 1]). The background to the case involves Ms. Hawarden’s purchase of a property from the Davidge Pitts Family Trust for R6 million, during which she fell victim to a cyber-fraud scheme. This scheme entailed a series of fraudulent emails that caused her to transfer funds, believing she was sending them to ENS's legitimate bank account ([para 2]). 
+
+On May 23, 2019, Ms. Hawarden made an initial deposit of R500,000 into the trust account of the estate agency, Pam Golding Properties (PGP), after verifying their banking details ([para 3]). However, in August 2019, after corresponding with ENS, Ms. Hawarden received manipulated emails from a cybercriminal who had accessed her email. This criminal altered ENS's emails to change the banking details and misled Ms. Hawarden into making payments to a fraudulent account ([paras 4–8]). 
+
+In her claim, Ms. Hawarden alleged that ENS had a legal duty to safeguard her against such frauds due to their expertise in property transactions and negligence regarding their banking communications ([paras 12–13]). After the high court ruled in her favor, ENS appealed, arguing against the existence of a legal duty and the imposition of liability for pure economic loss resulting from an omission ([para 1]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 16–21])
+
+The primary issue before the Supreme Court of Appeal related to whether Ms. Hawarden could establish the wrongfulness element of her delictual claim against ENS for pure economic loss caused by an omission ([para 16]). Specifically, the court examined whether it was reasonable to impose a legal duty on ENS despite Ms. Hawarden not being a client and whether her actions contributed to her loss, thus questioning the elements of a delictual claim ([para 17]).
+
+The court also had to consider the potential implications of recognizing such liability for pure economic loss, particularly in terms of the risk of indeterminate liability that could arise if the duty was broadly imposed on legal practitioners for protecting clients against fraud ([para 21]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 16–27])
+
+The court relied on established principles in South African delict law concerning the recovery of pure economic loss, with reference to **Home Talk Development (Pty) Ltd v Ekurhuleni Metropolitan Municipality** and **Country Cloud Trading CC v MEC, Department of Infrastructure Development** ([paras 17–18]). These cases affirm that pure economic loss is not prima facie wrongful unless policy considerations necessitate liability for such losses.
+
+The test for wrongfulness, as enunciated in **Le Roux and Others v Dey**, emphasizes a judicial determination of whether imposing liability would be reasonable based on public and legal policy considerations. This is further guided by the criteria of vulnerability to risk ([para 19]).
+
+The concepts of non-vulnerability and the individual’s ability to take protective measures were crucial in determining the outcome, as highlighted in **Country Cloud** and **Cape Empowerment Trust**. The court held that a plaintiff's failure to take reasonable precautions can negate claims for economic loss ([paras 23–25]).
+
+Moreover, the court noted that providing protection from the risk of fraud creates a precedent that could expose practitioners to indeterminate liability ([para 22]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 20–26])
+
+In its analysis, the court reiterated that Ms. Hawarden was not a client of ENS and had not established a contractual relationship at the time of her loss ([para 20]). While ENS had provided services related to the property transaction, the absence of a direct attorney-client relationship was a significant factor against finding wrongfulness.
+
+The court highlighted that Ms. Hawarden had previously received warnings about cyber fraud from PGP and demonstrated her capacity to verify such information by calling Mr. Lukhele to confirm PGP's banking details ([para 20]). However, she failed to employ the same due diligence when following up with ENS. Her actions, particularly the decision to bypass verification while at the bank, indicated a lack of vulnerability to risk; she had the means to validate the information but chose not to ([paras 25–26]).
+
+Thus, while ENS may not have engaged in overt negligence, the court concluded that the legal duty claimed by Ms. Hawarden would impose unreasonable burdens on ENS and similar entities, contradicting established legal norms against the recognition of pure economic loss claims ([para 26]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 26–27])
+
+The Supreme Court of Appeal ultimately found in favor of ENS, concluding that the high court’s ruling was not supported by the principles of delict law applicable to claims of pure economic loss ([para 26]). The court held that the lack of a direct attorney-client relationship, coupled with Ms. Hawarden's failure to adequately protect herself from known risks, diminished the assertion of wrongfulness. 
+
+The court’s decision accentuated the principle that individuals must take reasonable steps to protect themselves from economic losses, particularly when they have the opportunity and capacity to do so. Thus, it upheld the significance of preventing indeterminate liability among practitioners ([para 27]).
+
+The appeal was thereby allowed, and the high court’s order was set aside, with costs awarded to ENS, recognizing the broader implications for the legal profession and economic relations within the context of electronic communications and fraud ([para 27]). 
+
+The case reaffirms critical doctrines in delictual claims, especially regarding economic losses arising from omissions, signaling a necessary caution against extending liability to avoid detrimental effects on legal practitioners and the economy.

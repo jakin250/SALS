@@ -1,0 +1,59 @@
+Case Note: REPUBLIC OF SOUTH AFRICA
+Source Folder: 2003
+
+# Case Note using FIRAC Method
+
+**Case Title: Republic of South Africa**  
+**Court:** Supreme Court of Appeal of South Africa  
+**Case Number:** 248/2002  
+**Heard:** 6 November 2003  
+**Delivered:** 28 November 2003  
+
+---
+
+### F – Facts 
+
+In [1], the appellant, H Jordaan, initiated a civil action in the Bloemfontein Magistrate’s Court against the Bloemfontein Transitional Local Council (first respondent) and Johannes Jacobus Rautenbach (second respondent) for damages amounting to R73 701.56. This claim arose from a collision involving his parked vehicle, which had been struck as a direct result of an earlier accident between the two defendants' vehicles.  
+
+The parties agreed to a separation of issues at the onset of the trial [2]. They would first determine the liability of the defendants, followed by a subsequent assessment of the quantum of damages if the plaintiff’s claim succeeded. The trial court was informed of several common causal facts, which included: 
+
+1. The plaintiff’s vehicle was legally parked in a designated area [3(1)].
+2. Voortrekker Street was divided into three lanes carrying westerly traffic [3(2)].
+3. A collision between the defendants’ vehicles occurred and led to the plaintiff's vehicle being hit [3(3)].
+4. The driver of the first defendant’s vehicle was in the course of his employment, implying vicarious liability should negligence be proved [3(4)].
+5. The plaintiff could not identify which defendant was liable for the damages to his vehicle [3(5)].
+
+During the trial, the plaintiff's attorney requested clarity on the burden of proof, and the magistrate ruled that the defendants bore the obligation to present evidence first [4]. The defendants, however, declined to present evidence on that occasion but stated that this did not signify closure of their case. Ultimately, the plaintiff concluded his case without leading evidence. 
+
+The magistrate ruled that the absence of evidence did not negate the fact that the prima facie case against the defendants held under the doctrine of res ipsa loquitur, leading to a finding of joint and several liability [5]. The first defendant appealed this decision [6].
+
+### I – Issues 
+
+Two primary legal questions emerged from the appeal: 
+
+1. Was the magistrate's finding concerning the defendants' liability appealable? [7]
+2. Did the magistrate err in applying the res ipsa loquitur principle in the absence of evidence from the parties? [7]
+
+### R – Rules 
+
+The appeal was governed primarily by the provisions of the Magistrates' Courts Act 32 of 1944, specifically section 42(1), which allows for the joinder of several defendants when liability is uncertain [3(5)]. Additionally, the appeal court referred to section 87(d) of the Act, which permits the court of appeal to take a course that ensures a just and inexpensive resolution [9]. 
+
+Crucial case law included:
+
+- **Madyosi v SA Eagle Insurance Co Ltd**: The court's scepticism over the applicability of res ipsa loquitur when the cause is known was highlighted [10].
+- **Mazibuko v Santam Insurance Co Ltd**: This ruling established the standard for the existence of a prima facie case when multiple defendants are involved, with the requirement of showing that at least one defendant was negligent [11].
+- **Galante v Dickinson**: This case articulated that in circumstances where the defendant fails to present evidence, the court can infer negligence [20].
+
+### A – Application 
+
+The initial handling of the appeal regarding appealability [8] drew an unfavorable comparison with *Steenkamp v South African Broadcasting Corporation*, where a similar interim finding was deemed non-appealable. The court concluded that the initial liability finding was also not final or appealable as per section 83(b) of the Act [16].
+
+On the merits, the appellate court scrutinized the magistrate’s reliance on the maxim of res ipsa loquitur. While it agreed with the trial court's view that the defendants held exclusive knowledge of the facts behind the collision [11], the absence of evidence on their part was critical. The court emphasized that even with common cause facts, these could not unequivocally support a prima facie case unless sufficient evidence was presented to indicate negligence by either driver [11-12]. 
+
+Significantly, the appellate court drew from the **Galante** principle in determining that the failure to produce evidence led to inferences being drawn from the common cause facts. The court posited that four potential conclusions could be drawn regarding the negligence of the respective drivers [19]. Out of these, balancing probabilities favored both drivers being negligent, which the magistrate failed to adequately establish [22-23].
+
+### C – Conclusion 
+
+Ultimately, the appeal court concluded that the appeal had merit. It held that the prior finding was indeed non-appealable as per legislative guidelines, thereby aligning with the decision in *Steenkamp*. Thereby, the appellate court set aside the magistrate's order and replaced it with an order of absolution from the instance, mandating that the first defendant bear the costs [24].
+
+This case affirms critical principles of civil liability and the importance of evidentiary burdens, particularly in cases of multiple defendants where allegations of negligence are paramount but unproven. The ruling underscores the potential implications of procedural missteps and reinforces the necessity for clarity in the conduct of civil proceedings. 

@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Shelton v Eastern Cape Development Tribunal (489/2015) [2016] ZASCA 125
+
+## FIRAC Format
+
+### F - Facts
+
+The case arises from a judgment delivered by the Supreme Court of Appeal of South Africa concerning a land development application processed by the Eastern Cape Development Tribunal. The appellants, Mark William Shelton and Jonathan Andrew Campbell, objected to an application made by the PA River Development Company (Pty) Ltd for land development in Port Alfred. This application was lodged on 15 June 2012, just before the expiration of a 24-month suspension period imposed by the Constitutional Court on Chapters V and VI of the Development Facilitation Act 67 of 1995 (DFA), which had been declared constitutionally invalid on 18 June 2010 ([1]).
+
+The suspension, intended to allow time for remedial legislation, expired on 17 June 2012 without new legislation being enacted. On 28 January 2013, despite the expiration of the suspension, the tribunal granted PA River's application ([1]). The appellants filed a review application in the Eastern Cape High Court, seeking a declaration that the tribunal no longer had jurisdiction to adjudicate on matters arising under the DFA after the suspension period lapsed. However, the High Court dismissed their application, leading to the appeal ([2]).
+
+### I - Issues
+
+The principal issue before the Supreme Court of Appeal was whether the Eastern Cape Development Tribunal retained the authority to decide on the application from PA River after the suspension period for the DFA had expired ([1]). More specifically, it aimed to determine the implications of the Constitutional Court’s suspension of invalidity on the operation of tribunals and their jurisdiction ([3]).
+
+### R - Rules
+
+The legal framework surrounding the case involves:
+
+1. **Development Facilitation Act 67 of 1995 (DFA)**: Chapters V and VI of the DFA empowered provincial development tribunals to handle land use applications but were declared unconstitutional as they infringed upon municipal planning powers reserved for local governments ([4]).
+   
+2. **Constitutional Court Ruling (Johannesburg Metropolitan Municipality v Gauteng Development Tribunal & Others)**: The 2010 ruling declared Chapters V and VI of the DFA invalid, suspending that declaration to avoid rupturing land development activities and to provide time for Parliament to enact corrective legislation ([5]).
+
+3. **Interpretation of suspended declarations of invalidity**: The interpretation of such declarations, particularly concerning whether applications received or pending during the suspension could be validly adjudicated after the suspension, became critical ([16]).
+
+### A - Application
+
+In its analysis, the Supreme Court focused on the language and intention behind the Constitutional Court's suspension order. The court noted that the Constitutional Court had aimed to prevent further decisions under the DFA after the suspension period ended ([3]). As a result, any applications lodged after the conclusion of the suspension were without legal standing, as the tribunal's jurisdiction was based on a now-invalidated statute ([16]).
+
+The court concluded that the tribunal had acted beyond its powers by processing PA River's application after the suspension period, emphasizing general principles of constitutional invalidity, which dictate that laws that have been declared invalid revert to that status upon the expiration of any relevant suspension ([16],[17]). The court further emphasized that a tribunal's acceptance and processing of an application just before the suspension ended could not confer continued authority to act after that suspension period ([18]).
+
+In addressing the argument that the tribunal had a vested right to determine applications lodged before the suspension ended, the court rejected this position, asserting that such rights do not extend into periods governed by unconstitutional legislation ([17]).
+
+### C - Conclusion
+
+The Supreme Court of Appeal upheld the appeal, reaffirming that the Eastern Cape Development Tribunal had no jurisdiction to consider PA River's application after the expiry of the suspension period on 17 June 2012. The court set aside the tribunal's decision to grant the land development application as being beyond its lawful authority ([21]).
+
+The outcome underscores critical principles concerning the operation of provincial development tribunals and reaffirms the necessity of legislative clarity in the wake of constitutional invalidity. The case serves as a pivotal reference point for future litigants contesting the authority of tribunals post-suspension of unconstitutional statutes and reinforces the constitutional doctrine that invalid laws cannot be relied upon after their declared invalidity has taken effect ([21]).
+
+### References
+- Johannesburg Metropolitan Municipality v Gauteng Development Tribunal & Others [2010] ZACC 11; 2010 (6) SA 182 (CC).
+- Cross-Border Road Transport Agency v Central African Road Services (Pty) Ltd & Others [2015] ZACC 12; 2015 (5) SA 370 (CC).
+- Development Facilitation Act 67 of 1995.
+- Interpretation Act 33 of 1957.
+
+---
+
+This case note encapsulates the essential elements of **Shelton v Eastern Cape Development Tribunal** within the FIRAC framework, providing a structured judicial analysis suited for academic and legal reference.

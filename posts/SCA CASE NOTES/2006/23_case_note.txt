@@ -1,0 +1,49 @@
+Case Note: IN THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# FIRAC Case Note: Hirschowitz Flionis v Bartlett and Another [2006] SCA 24 (RSA)
+
+### F – Facts ([paras 1–41])
+
+In this case, the appellant, Hirschowitz Flionis (Flionis), a partnership of attorneys, faced an appeal concerning a negligent handling of funds in a trust account originating from a fraudulent gold bullion transaction. The first respondent, Julian Richard Napier Bartlett (Bartlett), had deposited R3.1 million into Flionis’s trust account, believing it was necessary for a business transaction involving the sale of gold through an intermediary named Karen Hardaker. 
+
+Bartlett, having been convinced by Hardaker, who he claimed had substantial credibility, borrowed the money from a client (Loewen) to make the deposit, which was represented to him as a ‘goodwill’ deposit. It's essential to note that Bartlett had been explicitly instructed by Hardaker not to communicate the details of the deposit to Flionis. 
+
+Hardaker’s involvement increasingly appeared dubious, culminating in a series of communications that suggested the funds were tied to a fraudulent scheme. Subsequent to the deposit, Flionis disbursed several amounts from the trust account based on instructions purportedly received from a third party, Charlie F. Gambino. 
+
+Ultimately, the anticipated transaction fell through, leading Bartlett to demand a refund from Flionis, only to find that the money had already been disbursed without proper verification of either the depositor’s identity or the purpose of the funds ([paras 1–20]). 
+
+### I – Issues ([paras 23–34])
+
+The core issues before the Supreme Court of Appeal (SCA) were:
+
+1. **Entrustment**: Did Bartlett entrust the money to Flionis given he did not inform him of the identity of the depositor nor the purpose of the deposit?
+2. **Legal Duty**: Was there a legal duty on Flionis to handle the funds without negligence, considering the ambiguity surrounding the deposit?
+3. **Contributory Negligence**: Was Bartlett contributorily negligent for failing to inform Flionis about the deposit's nature and significance?
+4. **Interest Calculation**: Should interest on the awarded damages run from a date prior to the judgment date specified by the lower court? 
+
+### R – Rules ([paras 21–32, 38–39])
+
+The court relied on several pertinent legal authorities and statutory frameworks:
+
+- **Delictual Principles**: The court utilized the Aquilian action, establishing that negligence is a fundamental component when assessing liability, particularly where professional conduct involving trust must align with expected standards ([para 21]).
+- **Legal Duty and Reasonable Care**: An attorney has a heightened standard of care under the Attorneys Act 53 of 1979 and the applicable rules of the Law Society. The court reiterated that attorneys owe a duty even to non-clients when handling trust funds, particularly when the identity of depositors is unknown ([paras 30–31]).
+- **Contributory Negligence Standards**: Defined under the Apportionment of Damages Act 34 of 1956, it establishes that when two parties contribute to a loss through negligence, their respective fault must be assessed to determine liability percentages ([paras 32, 39]).
+
+### A – Application ([paras 23–39])
+
+The SCA found that despite Bartlett's failure to communicate effectively regarding the deposit, there existed a clear legal obligation on Flionis's part to exercise reasonable care when handling trust funds. Flionis's neglect in verifying the legitimacy of Gambino's instructions and failing to trace the true nature of the deposit directly contributed to the loss incurred by Bartlett.
+
+1. **Entrustment**: The court concluded that although Bartlett did not communicate the purpose and identity related to the trust deposit, the lack of communication did not negate the entrustment. The legal duty to ascertain the identity and role of the depositor was implied by virtue of Flionis being an attorney dealing with trust funds. 
+
+2. **Legal Duty**: Flionis was under a direct obligation to act without negligence regarding the funds disbursed from his trust account. His failure to pursue proper verification and blindly following instructions from Gambino without due diligence constituted a breach of that duty ([para 31]).
+
+3. **Contributory Negligence**: The court held that Bartlett’s actions were indeed negligent, notably his reliance on Hardaker and not communicating pertinent facts to Flionis. Consequently, he was found to be 40% at fault in the overall negligence assessment ([para 39]).
+
+4. **Interest Issues**: The court also assessed the appropriate date for the running of interest on the awarded damages, finding that the claim was effectively made upon the service of the summons rather than when Bartlett first demanded repayment from Flionis, thereby reducing the potential interest owed ([para 41]).
+
+### C – Conclusion ([paras 40–43])
+
+The SCA concluded that Flionis was primarily responsible for the negligence that resulted in the loss of R3.1 million, attributing 60% of the fault to him and 40% to Bartlett. The court reduced the damages awarded from R3.1 million to R1.86 million to reflect the shared fault and awarded interest from the date of service of the summons.
+
+The appeal succeeded in part, modifying the damages and interest calculations while emphasizing the imperative nature of diligence and accountability in the legal profession when handling trust funds. The decision highlighted the expectations placed on attorneys regarding trust account management, reaffirming the legal framework that obligates attorneys to uphold their duty of care towards all parties, regardless of the direct client relationship ([paras 42–43]).

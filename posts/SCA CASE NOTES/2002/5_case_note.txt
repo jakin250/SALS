@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# FIRAC Case Note: *OK Bazaars (1929) Limited v The Standard Bank of South Africa Limited* (278/2000)
+
+## F - Facts  
+The appeal revolves around a claim by The Standard Bank of South Africa Limited ("Standard Bank") against OK Bazaars (1929) Limited ("Hyperama") due to economic losses allegedly resulting from a misstatement made by Hyperama's employee, John Overton. Standard Bank had financed a transaction involving Hyperama and KTC Resources (Pty) Ltd ("KTC"), which was controlled by Mr. Khalid Malik. KTC, holding an account with Standard Bank, ceded its rights to all debts to the bank as security for any amounts owed.
+
+In September 1997, Malik requested the establishment of a back-to-back letter of credit to facilitate the import of goods from Serenade Holdings Inc ("Serenade"). Accompanying his request was an unsigned document appearing to originate from Hyperama, falsely indicating that Hyperama purchased the goods from KTC. Overton later signed a letter confirming Hyperama's undertaking to pay Standard Bank for the goods upon delivery, based on the misstatement that the goods had been acquired from KTC.
+
+The transaction progressed with Standard Bank paying US$210,800 to Serenade. However, it was discovered that Hyperama had actually purchased the goods from a third party, Samarkand, not KTC. Following KTC's liquidation and failure to remit payments, Standard Bank sued Hyperama for damages, which the Johannesburg High Court awarded in favor of Standard Bank.
+
+## I - Issues  
+1. Did Overton's misstatement amount to a negligent misrepresentation that caused Standard Bank to suffer economic loss?   
+2. Did the chain of causation remain intact despite events that occurred after the letter of credit was established, specifically Malik's acceptance of discrepancies in the documentation presented to Standard Bank?  
+3. Were there any intervening acts that severed the link between Hyperama's misstatement and the loss incurred by Standard Bank?  
+
+## R - Rules  
+South African law recognizes that a negligent misstatement causing economic loss is actionable. In *Bayer South Africa (Pty) Ltd v Frost* [1991] 4 SA 559 (A) at 568B-D, the court outlined the requirements for proving such a claim:
+
+1. A misstatement was made by the defendant (or someone for whom the defendant is vicariously liable) to the plaintiff.
+2. The misstatement was made negligently and unlawfully.
+3. The misstatement caused the plaintiff to suffer loss.
+4. The damages sought are a proper compensation for that loss.
+
+The standard for proving factual causation, per *International Shipping Co (Pty) Ltd v Bentley* [1990] 1 SA 680 (A) at 700F–G, does not change whether the unlawful action is eliminated or if substitutive lawful conduct is applied.
+
+On the issue of legal causation, *Standard Chartered Bank of Canada v Nedperm Bank Ltd* [1994] 4 SA 747 (A) elucidates a flexible test where considerations such as foreseeability and the presence of novus actus interveniens play a role.
+
+## A - Application  
+The court confirmed that Overton's misstatement was negligent. It was unreasonable for him not to verify whether Hyperama had actually purchased goods from KTC before providing confirmation to Standard Bank. The judge noted that common practices in business should have led Overton to check the records, which would have revealed the discrepancy.
+
+Moreover, the misstatement directly caused Standard Bank to issue the letter of credit. The reliance on the misstatement and the subsequent undertaking indicated to the bank that a debt was due from Hyperama to KTC. Had the truth been known—that Hyperama purchased the goods from Samarkand—the bank would not have issued the letter of credit to KTC, thus avoiding the loss incurred.
+
+Regarding the intervening act of Malik’s acceptance of discrepancies in documentation, the court emphasized that such actions were reasonably foreseeable outcomes stemming from Overton's initial misrepresentation. Overton's knowledge of Standard Bank's financial reliance on his assurance signified that he should have accounted for potential fraudulent actions stemming from incorrect confirmations.
+
+The court also dismissed arguments from Hyperama suggesting that Standard Bank was at fault for the decision to pay despite known discrepancies. The pivotal criteria remained that the legal causation persisted; Hyperama’s misstatement continued to be the proximate cause of the loss suffered by Standard Bank, notwithstanding Malik's actions.
+
+## C - Conclusion  
+The Supreme Court of Appeal ruled to dismiss Hyperama's appeal, upholding the Johannesburg High Court’s judgment. The court found that Overton's negligent misstatement did indeed cause Standard Bank to incur economic losses, and no intervening event severed the link between Hyperama's initial misrepresentation and the outcome. The implications of this ruling underscore the importance of due diligence in business transactions and illustrate the liability that can arise from negligent misstatements, reaffirming South African law's position that parties are accountable for statements that induce reliance.
+
+The appeal was dismissed with costs, including the costs incurred by the employment of two counsel, emphasizing the court's stance on Hyperama's liability in this case.

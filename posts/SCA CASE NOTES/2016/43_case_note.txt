@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: Itzikowitz v Absa Bank Ltd [2016] ZASCA 43
+
+## F – Facts ([paras 1–3])
+
+This case arises from the appeal by Gary Itzikowitz (the appellant) against the decision of the Gauteng Local Division High Court dismissing his delictual claims against Absa Bank Limited (the respondent) regarding the alleged loss of value in his shareholding due to Absa's actions. Itzikowitz is the sole shareholder of Compass Projects (Pty) Ltd (Compass), which holds a minority stake (17.29%) in Quantum Properties Group Limited (QPG). QPG owned A Million UP (Pty) Ltd (AMU), a property development entity, which secured substantial loans from Absa. 
+
+In June 2010, Absa increased AMU’s loan facilities culminating in a total debt exceeding R569 million by August 2011. AMU faced insurmountable financial troubles, leading to its board initiating business rescue proceedings on 4 June 2012. However, following Absa's intervention, the Western Cape High Court annulled this resolution and later placed AMU into liquidation on 14 August 2012. In response, Absa initiated proceedings against Itzikowitz for R20 million, referencing a suretyship agreement under which he was liable for AMU's debts.
+
+In counterclaims filed by Itzikowitz, he contended that Absa’s reckless financial decisions and actions caused AMU’s insolvency, thereby rendering his shares in Compass worthless. He sought compensation equivalent to the alleged reduction in value of his interests in Compass, framed as a delictual claim for pure economic loss.
+
+## I – Issues ([paras 6–9, 12, 20])
+
+The primary legal issue in this case centers around whether a shareholder can sue for economic losses resulting from a wrong done to the corporation that adversely impacts the value of their shares. Specifically, the court needed to ascertain if Itzikowitz had a separate and actionable claim against Absa for damages arising from wrongs purportedly committed against AMU, given the established principles of corporate law concerning the distinct legal personality of corporations.
+
+Secondary questions involved the applicability of the common law principle prohibiting shareholders from claiming for losses suffered by the corporation, except in instances where they can demonstrate a distinct and personal legal right affected by the alleged misconduct.
+
+## R – Rules ([paras 8–9, 12, 20])
+
+The court's analysis relied heavily on established principles from South African companies and delict law, notably:
+
+1. **Corporate Legal Personality**: A company is distinct from its shareholders, and the property of the company is separate from that of its members ([para 9]). 
+
+2. **Delict for Pure Economic Loss**: The law traditionally recognizes claims for pure economic loss only under specific limited categories, such as negligent misstatements or intentional interferences with contracts ([para 8]). Absa argued that any economic loss suffered by Itzikowitz was merely reflective of the loss suffered by AMU, and thus did not establish a wrongful act concerning him.
+
+3. **Jurisdictional Principle and Exception**: The exception was guided by the "Foss v Harbottle" principle, stipulating that any injury to the company should be pursued by the company itself and that shareholders cannot pursue personal claims for losses that are incurred by the corporation ([paras 10–11]) 
+
+4. **Categories of Economic Loss Claims**: The distinctions made in *Johnson v Gore Wood & Co* ([2001] 1 All ER 481) outlined that claims by shareholders are actionable only if they can establish breaches of duty that are direct and personal ([para 12]).
+
+## A – Application ([paras 9–19])
+
+The court concluded that Itzikowitz's claims fell squarely within the prohibition described in the *Johnson* decision and the “Foss v Harbottle” rule. It reasoned that the alleged losses resulted from AMU's insolvency and the subsequent liquidation, which primarily affected AMU, not Itzikowitz as a shareholder. 
+
+In its analysis of the nature of the alleged wrongdoings, the court emphasized that irrespective of whether Absa’s actions were deemed intentional or negligent, they constituted breaches of duty owed to AMU rather than to Itzikowitz individually. The details of Itzikowitz's legal duty were deemed non-existent, as there was no independent legal duty owed by Absa to Itzikowitz in his capacity as a shareholder, given the three-tier corporate structure involved ([para 20]).
+
+Furthermore, while Itzikowitz attempted to underscore the intentional nature of Absa's conduct, the court held that such allegations still did not translate into a wrongful act personally affecting him, being thrice removed from the original entity, AMU. Thus, even upon hypothetical assertions of bad faith actions by Absa against AMU, any resultant loss to Itzikowitz did not fulfill the required causative threshold for a personal claim ([para 13]).
+
+## C – Conclusion ([paras 20–26])
+
+The Supreme Court of Appeal concluded by affirming the decision of the Gauteng High Court. The appeal was dismissed, and the counterclaim was struck due to lack of a prima facie case arising from the alleged delictual claims regarding economic loss. The principle that a shareholder cannot claim damages for losses suffered by the corporation, except under specific and limited circumstances, was strongly upheld.
+
+The court's ruling had significant implications for similar shareholder litigation, reinforcing the separation between corporate liability and individual shareholder rights, and reaffirming the paradigm that losses attributed to corporate malfeasance do not inherently create personal claims for shareholders unless specific legal duties are breached vis-à-vis those shareholders. Thus, the implications are profound for the boundary between personal and corporate claims in delict law going forward, reasserting classic principles of corporate law while also addressing the nuances of economic loss claims within South Africa's legal framework.
+
+In summary, the appeal was dismissed with costs, and Itzikowitz was granted 15 days to amend his counterclaims if advised, indicating potential for limited rectifications within procedural contexts without altering the substantive outcome that endorsed corporate separateness in liability.
+
+---
+
+The FIRAC methodology succinctly encapsulates the critical components of the case, adhering to the required formal tone and structured approach, suitable for academic and professional legal discourse.

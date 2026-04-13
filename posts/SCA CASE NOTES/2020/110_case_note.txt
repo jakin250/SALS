@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Mitsubishi Hitachi Power Systems Africa (Pty) Ltd v Murray and Roberts Ltd and Another (Case no 1011/2019) [2020] ZASCA 110  
+
+## FIRAC Case Note  
+
+### F – Facts  
+The appellant, Mitsubishi Hitachi Power Systems Africa (Pty) Ltd ("Mitsubishi"), entered into a main contract (the "Main Contract") with the second respondent, Eskom Holdings SOC Ltd ("Eskom"), as the employer for the construction works on the Medupi and Kusile power stations. Mitsubishi subsequently subcontracted a portion of the work to the first respondent, Murray & Roberts Ltd ("M&R") ([1]).
+
+M&R alleged that an Incentive Agreement was entered into between Mitsubishi and Eskom. M&R, however, is not a party to this agreement and sought to compel Mitsubishi to disclose the details of this Incentive Agreement, including benefits received from Eskom ([2]). Under the terms of the subcontracts, any disputes were to be resolved by a Dispute Adjudication Board (DAB). M&R raised the issue with the DAB, but Mitsubishi was not ordered to provide the disclosure as the DAB found that necessary consent from Eskom was not obtained ([3]). 
+
+Following this, M&R approached the Gauteng Division of the High Court, which ruled in favor of M&R, directing Mitsubishi to disclose the required information and imposing costs on Mitsubishi ([4]). Mitsubishi appealed this decision, contesting both the disclosure order and the costs order.
+
+### I – Issues  
+Three critical issues arose for determination by the Supreme Court of Appeal:
+
+1. Does M&R possess a contractual right to demand disclosure from Mitsubishi regarding the Incentive Agreement? 
+2. If such a right exists, is Mitsubishi obligated to maintain confidentiality towards Eskom concerning the details of the Incentive Agreement, thereby preventing M&R from exercising its right to disclosure?
+3. What constitutes the proper scope of M&R's right to disclosure and what is the appropriate remedy? ([6])
+
+### R – Rules  
+The Supreme Court of Appeal based its judgment on the interpretation of the relevant contractual agreements, specifically:
+
+- Clause 11.3 of the subcontracts, which mandates that the contractor must pass on a proportion of the contractual benefits obtained from the employer to the subcontractor.
+- Clause 2.4 of the Variation Agreement, which emphasizes the parties’ duty to act in good faith and with cooperation and trust ([8], [9]).
+
+Additionally, confidentiality concerns were evaluated based on Clause 1.12 of the Main Contract, which outlines the contractor's obligation not to disclose project-related information to third parties. The court examined whether M&R could be classified as a "third party" under this clause ([28], [30]).
+
+### A – Application  
+The court analyzed the contractual obligations and rights in relation to M&R's request for disclosure. 
+
+1. **Disclosure Right**: The court found that Clause 11.3 conferred a right upon M&R to receive a portion of the benefits that Mitsubishi obtained from Eskom. Neither of the arguments presented by Mitsubishi (privity and extinction) were substantiated sufficiently. The court noted that M&R had a right to know the contractual benefits received to assess its entitlement ([14], [19]). 
+
+2. **Confidentiality**: Mitsubishi’s claim of confidentiality under Clause 1.12 was rejected. The court reasoned that M&R, as a subcontractor, did not qualify as a "third party" since the definitions within the Main Contract acknowledged subcontractors as integral to the execution of the contract. Therefore, the obligation to maintain confidentiality did not extend to disclosures made to M&R ([33], [34]). 
+
+3. **Remedy**: The court ruled that M&R's entitlement to disclosure must align with its right under Clause 11.3. This meant that disclosure would be limited to the portions of the Incentive Agreement relevant to M&R's claim, ensuring that Mitsubishi could redact irrelevant information, thereby framing a narrower disclosure scope than that mandated by the High Court ([40], [44]).
+
+### C – Conclusion  
+The Supreme Court of Appeal dismissed Mitsubishi’s appeal, affirming the rights of M&R under the contractual agreements and obligating Mitsubishi to provide specific disclosures. The court likewise ordered Mitsubishi to pay the costs associated with the High Court application and the appeal ([1], [46]). The ruling underscored the need for contractors to act in good faith and fulfill their obligations transparently, enhancing the stability of business relationships within contractual frameworks. This case highlights the judiciary's role in interpreting and enforcing commercial agreements to ensure fairness and equitable treatment between contracting parties. 
+
+In summary, the court established that the right to information concerning contractual benefits is integral to ensuring compliance with obligations under subcontracts, thereby reinforcing the contractual principle of cooperation and trust, and ensuring that all parties are adequately informed to enforce their respective rights.

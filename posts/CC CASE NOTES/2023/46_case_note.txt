@@ -1,0 +1,43 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Le Roux and Another v Johannes G Coetzee & Seuns and Another [2023] ZACC 46
+
+## F – Facts: Relevant background and procedural history ([paras 1-13])
+
+This case arises from a professional negligence claim brought by the applicants, Pieter Paul le Roux and Johanna Catharina le Roux, against their former attorney, Mr. Daniel Cornelius Coetzee, and the law firm Johannes G Coetzee & Seuns (respondents). The factual genesis revolves around the applicants being granted an option to purchase a farm from Mr. Jan Harmse Steenkamp on July 13, 2000. The option was to be exercised within two months of Mr. Steenkamp's death, which occurred on September 13, 2003. The applicants appointed Mr. Coetzee as their legal representative, who advised them that the option was valid and that no further documentation was required from them to exercise this option.
+
+However, unbeknownst to the applicants and in breach of the option, the property had already been sold to a third party before they attempted to exercise the option via a letter sent by Mr. Coetzee on September 26, 2003. The lack of a valid exercise led the applicants to initiate court proceedings (the first action) against Mr. Steenkamp’s estate and the purchaser, Mr. Nel. This action was dismissed due to non-compliance with section 2(1) of the Alienation of Land Act, which required written authority for Mr. Coetzee to validly act on the applicants' behalf.
+
+The applicants later sought to recover damages from the respondents (breach of mandate action). They only became aware of the legal non-compliance during the cross-examination in the first action in November 2007, when they learned that Mr. Coetzee’s purported exercise of the option was ineffective. Consequently, they filed their breach of mandate claim on September 29, 2009. The respondents raised a special plea of prescription under the Prescription Act 68 of 1969, arguing that the applicants' claim had prescribed before it was instituted.
+
+## I – Issues: Legal or constitutional questions ([paras 1-13])
+
+The key issues before the court were:  
+1. Does the Prescription Act's section 12(3) require knowledge of legal conclusions by the creditor (in this case, the applicants) for the prescription period to commence?
+2. When did the applicants acquire the requisite knowledge of the primary facts sufficient to know they had a cause of action against their former attorney for negligence?
+3. What constitutes the "facts from which the debt arises" as referred to in section 12(3) of the Prescription Act?
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 1-13])
+
+The court primarily relied on the interpretation of section 12(3) of the Prescription Act. This section specifies that a debt is not deemed due until the creditor has knowledge of the facts from which the debt arises and highlights that knowledge required may include knowledge that a legal representative was unable to act validly on the applicant’s instructions: 
+
+- **Truter v Deysel** [2006] ZASCA 16, where the court emphasized that knowledge of legal conclusions is not required for the commencement of prescription.
+- **Mtokonya v Minister of Police** [2018] ZACC 33, emphasizing that knowledge of the necessary facts is essential to initiate the running of prescription.
+- **Links v Member of the Executive Council, Department of Health, Northern Cape Province** [2016] ZACC 10, where the court stated that medical negligence claims only commence prescription when a client has a reasonable suspicion of negligence.
+
+The legal principles concerning the obligation of attorneys to act in good faith and with skill, care, and diligence were also examined, drawing on both statutory provisions and case law around the attorney-client relationship.
+
+## A – Application: Analysis of how the court applied the law ([paras 1-13])
+
+The court held that the applicants did not acquire the requisite knowledge of the material facts necessary to institute their breach of mandate claim until November 2007, during cross-examination in the first action, when they learned about the implications of the Alienation of Land Act and Mr. Coetzee’s negligence in failing to obtain written authority. 
+
+Kollapen J posited that mere knowledge of the fact that the purported exercise of the option was ineffective due to non-compliance with statutory provisions was insufficient; they also needed to have knowledge of this as a breach of mandate by Mr. Coetzee. The ruling asserted that non-compliance was a legal conclusion; thus, prescription could not start to run until they had knowledge of that specific breach of mandate or had exercised reasonable care to inquire into it.
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 1-13])
+
+In conclusion, the Constitutional Court reversed the Supreme Court of Appeal’s decision, emphasizing that the knowledge required under section 12(3) includes knowledge of legal conclusions involving the breach of duty owed by a legal practitioner to the client in professional negligence claims. The ruling advocates a limited exception to the general rule that knowledge of legal principles or conclusions need not be established for the commencement of prescription, particularly in professional negligence cases against legal practitioners. 
+
+The court thus upheld the appeal, rendering that the respondents were to bear the costs, including the costs of two counsel, highlighting the importance of ensuring that clients' rights to seek legal redress are not unduly thwarted by strict adherence to knowledge of legal conclusions, particularly in instances of professional negligence by attorneys. 
+
+This ruling has substantial implications, reinforcing access to justice principles by mitigating the impact of prescription in cases of professional negligence, particularly for clients who rely on attorneys for expertise in legal matters.

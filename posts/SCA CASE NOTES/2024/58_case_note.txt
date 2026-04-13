@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: ABSA Bank Limited v Rosenberg and Another (1255/2022) [2024] ZASCA 58
+
+## FIRAC Format
+
+### F – Facts: Relevant background and procedural history ([paras 1–25])
+
+In August 2019, the respondents were involved in a guarantee agreement, signed to secure the debts owed to ABSA Bank by Uwoyela Environmental Services (Pty) Ltd (UES) ([para 1]). The first respondent, Marc Christopher Rosenberg, and his father, the second respondent, Terrence Rosenberg, provided personal guarantees for UES's debts, expecting that ABSA Bank would increase the credit facility under a pre-existing Facilities Letter ([paras 2–3]). However, ABSA Bank only countersigned this deed in March 2020, after it had already declined to meet the respondents' request for increased funds, rendering the projected financial arrangement effectively “stillborn” according to the High Court ([paras 17–20], [25]).
+
+Both parties disputed the enforceability of the guarantee agreement. ABSA Bank argued that the wording of the agreement was unambiguous and that it extended to any indebtedness of UES regardless of whether the additional credit facility was approved ([para 2]). In contrast, the respondents contended that their guaranty was conditioned upon ABSA Bank’s agreement to increase UES's credit ([paras 4–5], [18]).
+
+The KwaZulu-Natal Division of the High Court ruled against ABSA Bank, dismissing both the main application and the counter-application from the respondents due to a lack of grounds for rectification ([paras 25–58]). ABSA Bank subsequently appealed the judgment ([paras 7–8]).
+
+### I – Issues: Legal or constitutional questions ([paras 26–27])
+
+The key issue before the Supreme Court of Appeal was determining the proper interpretation of the guarantee agreement, particularly whether the enforceability of the guarantees was contingent on the prior performance of reciprocal obligations by ABSA Bank regarding the approval of the increased credit facility ([para 26]).
+
+Further, the court examined the principles governing contract interpretation, focusing on whether the transactional context substantiated the respondents’ claim that their obligations were dependent on ABSA Bank fulfilling its promises concerning funding ([paras 27–34]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 34–62])
+
+The court considered several principles of contract interpretation, invoking the test established in *Natal Joint Municipal Pension Fund v Endumeni Municipality*, which emphasizes an objective reading of the contractual language while factoring in the context and purpose behind the agreement ([paras 27–28]). 
+
+Additionally, the *exceptio non adempleti contractus*, a legal doctrine restating that parties to a bilateral contract cannot demand performance from each other unless they have performed their own obligations, was central to the Court's analysis ([para 56]). 
+
+The judgment also referenced established cases that have set precedents for applying the principles of reciprocity and commercial sensibility in contract interpretation ([paras 59–60]). The Court cautioned against narrow interpretations that overlook the commercial intent between the parties ([para 52]).
+
+### A – Application: Analysis of how the court applied the law ([paras 46–62])
+
+In analyzing the language of the guarantee agreement, the court found that the phrases used, particularly around the “Signature Date” and the conditions for increasing the credit limit, were indicative of the parties' intention that the guarantee would not take effect in the absence of the funding increase ([paras 46–50]).
+
+The court noted that the fundamental purpose of the guarantee was to secure the financial support necessary for UES to operate. This interpretation aligned with common business practices, negating the idea that the respondents would have willingly bound themselves to secure UES's prior debts without any prospect of additional financing ([paras 46–55]).
+
+Moreover, the court held that ABSA Bank’s failure to comply with the conditional terms prior to activating the guarantee agreement barred it from invoking any rights under it. The guarantees, therefore, were unenforceable as they were inherently linked to the anticipated financial support from ABSA Bank, which never materialized ([paras 56–60]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 61–64])
+
+The Supreme Court of Appeal affirmed the High Court's dismissal of the appeal and upheld the finding that the guarantee agreement was nullified due to ABSA Bank's failure to meet its conditions for the agreement to take effect ([para 64]). 
+
+This ruling underscores the importance of clarity in contractual stipulations, especially regarding the conditions under which guarantees might become binding. The decision further emphasizes that contract performance must adhere to the reciprocity principle, reinforcing the expectation that parties fulfill their obligations to assert rights under a contract. The ruling serves as a precedent for future cases where the contingent nature of contractual obligations could be asserted as a defence in similar disputes involving guarantees and financial agreements.
+
+Through this case, the Court highlighted the necessity for lenders to establish clear communication and consistency in their lending practices, potentially reshaping expectations in financial agreements involving personal guarantees. The implications extend beyond this specific case, influencing future contractual interpretations and lending practices across the region and adding a layer of protection for individuals entering into personal guarantees.

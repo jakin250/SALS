@@ -1,0 +1,53 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Esorfranki Pipelines (Pty) Ltd v Mopani District Municipality [2022] ZACC 41
+
+### F – Facts
+
+The case of *Esorfranki Pipelines (Pty) Ltd v Mopani District Municipality* arose from a tendering process initiated by the respondent, Mopani District Municipality, in response to a severe drought in 2009 that made water from the Nsami Dam inadequate for the Giyani residents. To remedy this, R284 million was allocated for constructing a welded steel bulk water pipeline from the Nandoni Dam to the Nsami treatment works ([para 3]).
+
+In August 2010, the respondent invited tenders for the construction of this pipeline. The joint venture of Tlong Re Yeng Trading and Projects CC and Base Major Construction (Pty) Ltd was awarded the tender in October 2010. The applicant, Esorfranki Pipelines (Pty) Ltd, contested the award, claiming that the joint venture did not meet the mandatory criteria, alleging bad faith and misconduct. The applicant instituted urgent applications in the High Court to interdict the tender, claiming that the award was vitiated by corruption and the joint venture’s manipulation of points ([paras 4-6]).
+
+The High Court set aside the initial award, directing re-adjudication, but the joint venture was awarded the tender again in February 2011. A second urgent application by the applicant led to interim relief against the joint venture, but as the legal battles continued, the joint venture proceeded to execute the contract ([paras 5-7]).
+
+In a later review application, the High Court found substantial irregularities with the joint venture’s qualifications. The Supreme Court of Appeal affirmed that the High Court had erred in allowing the contract to proceed, declaring it void and ordering the respondent to initiate a new tender process ([paras 8-15]).
+
+The applicant subsequently sought damages in delict for loss of profits from both the respondent and the joint venture, contending those entities acted unlawfully to ensure the tender was awarded to the joint venture instead of the highest scoring tenderer ([para 16]).
+
+### I – Issues
+
+The primary legal questions to be determined were:
+
+1. Whether a tenderer denied success due to the state’s intentional misconduct can claim damages in delict for lost profits.
+2. If so, whether the respondent's alleged misconduct was intentional and constituted the factual and legal cause of the applicant's loss ([para 3]).
+
+Further questions included whether the High Court’s earlier decisions created issues of *res judicata*, whether legal causation could be established, and whether compensation under the Promotion of Administrative Justice Act (PAJA) was appropriate ([para 16]).
+
+### R – Rules
+
+The court examined various legal principles, including:
+
+1. **Delictual Responsibility**: The elements of delict include wrongfulness, fault (culpability), causation, and harm. Specifically, while harm-causing conduct is prima facie wrongful, establishing liability for pure economic loss requires positive proof of wrongfulness ([para 39]).
+
+2. **Sections 33 and 217 of the Constitution**: Section 33 guarantees the right to just and lawful administrative action, while Section 217 mandates fair, equitable, transparent, competitive, and cost-effective procurement processes. However, the breach of these provisions does not automatically lead to delictual liability ([paras 54-56]).
+
+3. **Principle of Subsidiarity**: This principle asserts that when legislative provisions, such as PAJA, exist to address breaches of constitutional obligations, parties cannot seek recourse through common law delict claims without challenging the legislative framework ([para 134]).
+
+4. **Causal Connection**: The court discussed *factual* and *legal* causation, emphasizing that merely having a higher points allocation does not guarantee success in a tender process ([para 94]).
+
+### A – Application
+
+The court applied these legal principles by first reassessing the High Court’s finding of *res judicata*, determining that previous decisions did not preclude subsequent claims for economic loss due to the different nature of the claims in delict versus review applications ([para 103]).
+
+On the issue of wrongfulness, the court acknowledged that intentional misconduct by a state organ could establish delictual liability. Nonetheless, it found that the text of Section 217 does not expressly allow for such claims, and that the public interest underlies its core. Thus, it held that the loss of profit claimed by the applicant could not be directly attributable to the respondent’s unlawful actions ([paras 116-119]).
+
+Furthermore, the court noted that the applicant was given the opportunity to participate in a re-advertised tender process, which constituted a *novus actus interveniens*, breaking the chain of causation between the alleged misconduct and the applicant’s claimed losses. This stance aligned with public policy considerations against allowing dual claims for the same conduct ([paras 136-142]).
+
+### C – Conclusion
+
+In its decision, the Constitutional Court ruled that the applicant failed to establish wrongfulness needed to support its delictual claims, thereby dismissing the appeal ([para 151]). The court emphasized that although the conduct of the respondent warranted investigation, the nature of the claims and available remedies under PAJA rendered the applicant's claim for delictual damages untenable. 
+
+The implications of this case highlight a critical tension in public law between ensuring accountability and safeguarding state resources against repetitive claims based on previously set aside tender processes. Further, the judgment upheld the importance of legislative frameworks like PAJA in providing a balanced approach to administrative grievances while limiting the expansion of common law remedies in this context ([para 169]).
+
+In conclusion, the court ordered the respondent to pay the applicant’s costs due to its reprehensible conduct during the tender process, signaling an accountability mechanism despite the dismissal of the applicant’s substantive claims ([para 173]). 

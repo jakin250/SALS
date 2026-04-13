@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+### FIRAC Case Note: Passenger Rail Agency of South Africa v Mashongwa (966/13) [2014] ZASCA 202
+
+#### F – Facts
+
+The case involves an appeal by the Passenger Rail Agency of South Africa (PRASA) against a judgment by the Gauteng Division of Pretoria, which found PRASA liable for damages sustained by Mr. Irvine Sam Mashongwa during an assault on a train ([1]). PRASA operates public rail services nationally and was responsible for security measures on its trains.
+
+On 1 January 2011, Mr. Mashongwa was a passenger traveling alone on a train from Walker Street to Mamelodi Gardens Station. He reported that the doors of his coach were open upon departure. Shortly thereafter, a group of four assailants entered his coach and violently assaulted him, ultimately throwing him off the moving train as it approached Rissik Street Station ([2]). Following the incident, Mr. Mashongwa sought damages from PRASA, alleging negligence for failing to provide adequate security and for leaving the coach doors open.
+
+The trial court, having separated the issues of liability from damages, ultimately held PRASA liable for the attack and granted Mr. Mashongwa damages based on two alleged negligent omissions: the inadequate supply of security personnel and the failure to ensure that the coach doors were closed during the journey ([3], [4]).
+
+#### I – Issues
+
+The main legal questions before the court were [4]:
+
+1. **Negligence**: Was PRASA negligent in failing to provide adequate security and in not ensuring the train's coach doors were closed during transit?
+2. **Causation**: Did the alleged negligent actions of PRASA directly cause Mr. Mashongwa’s injuries, applying the "causa sine qua non" test to establish factual causation?
+3. **Reasonableness of Security Measures**: Were the measures that PRASA had implemented sufficient, given the circumstances of the incident?
+
+#### R – Rules
+
+To assess negligence, the court relied on the classic standard of care established in *Kruger v Coetzee*, which states that liability arises when:
+
+- A reasonable person in the defendant's position would foresee the possibility of harm to another.
+- Reasonable steps to avert such occurrence were not taken ([5]).
+
+Furthermore, *Shabalala v Metrorail* offered guidance suggesting that merely because harm was foreseeable does not imply that the measures taken to mitigate it were unreasonable. A burden of an absolute guarantee against criminal activity on public transport is impractical ([6]).
+
+The court also discussed the "but for" test (causa sine qua non), determining that causation involves assessing whether the defendant's actions or omissions were the cause of the plaintiff's harm. This test highlights the distinction between factual causation and legal causation, which may involve policy considerations regarding remoteness of damages ([8]).
+
+#### A – Application
+
+Upon reviewing the specifics of the case, the court noted that even if it accepted Mr. Mashongwa’s assertion that enhanced security measures could have prevented his assault, the nature of the incident undermined this position. The attack could still have occurred, as witnesses confirmed that the assailants entered the coach from an adjoining one ([9]).
+
+In examining the first claim of negligence regarding security, the court posited that the presence of security guards at Walker Street Station would not have averted the attack since the assailants had already boarded the train prior to its departure. The necessity for guards in every coach raised questions about the reasonableness of such expectations from PRASA ([9]).
+
+Regarding the second claim of negligence concerning the coach doors, the court asserted that even if the doors had been closed, the assailants could likely have forcibly opened them. The guards’ presence, while relevant, would not have guaranteed Mr. Mashongwa’s safety ([10]). The court found that vague speculation about the time it would take to open a coach door while in motion was insufficient to establish a direct causal link to the injuries sustained ([10]).
+
+Ultimately, the court concluded that PRASA's security measures were not inherently inadequate, and the attack occurred despite the presence of reasonable precautions that were in place ([9], [10]).
+
+#### C – Conclusion
+
+The Supreme Court of Appeal dismissed Mr. Mashongwa's claim against PRASA, concluding that the train agency was not negligent in its security measures or in ensuring the safety of the doors during transit. The appeal succeeded with costs, and the order of the trial court was set aside, leading to a dismissal of Mashongwa's claim ([11]).
+
+This case signifies the court’s endorsement of reasonable measures against the imposition of an impractical standard for security on public transport providers. It reaffirms the principles delineating the scope of negligence and causation in delict law, particularly concerning the expectations placed upon public entities in their duty of care towards passengers.

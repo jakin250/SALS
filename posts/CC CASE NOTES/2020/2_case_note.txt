@@ -1,0 +1,48 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Competition Commission of South Africa v Standard Bank of South Africa Limited [2020] ZACC 2
+
+### FIRAC Analysis
+
+**F – Facts: Relevant Background and Procedural History ([1]–[206])**
+
+The matter involves three consolidated applications brought by the Competition Commission of South Africa (the Commission) against Standard Bank of South Africa Limited (in CCT 158/18 and CCT 179/18) and various respondents (in CCT 218/18), regarding issues of access to records related to anti-competitive practices. 
+
+The Commission alleged that the respondents were engaged in collusive practices, violating the Competition Act 89 of 1998 (the Act). Following referrals made to the Competition Tribunal, the respondents sought access to information held by the Commission, asserting their rights under Rule 15 of the Commission Rules, which facilitates public access to records unless categorized as ‘restricted information’ under Rule 14.
+
+In CCT 158/18, Standard Bank, after receiving a complaint referral concerning collusive practices in the foreign exchange market, sought to access the Commission's record of investigation prior to filing an answer. The Tribunal ruled that access would be granted only in accordance with discovery procedures after pleadings closed. Standard Bank appealed this determination to the Competition Appeal Court, which reversed the Tribunal's decision, ordering that the Commission provide access under Rule 15.
+
+CCT 179/18 involved a similar request for access to the record during simultaneous review proceedings of the referral decision brought by Standard Bank. In both scenarios, the Commission maintained that access to information should not be allowed until after discovery phases under the Tribunal Rules.
+
+CCT 218/18 was initiated by various respondents (the Waco respondents), who faced similar allegations and sought access to investigation records following their referral to the Tribunal. The Tribunal initially granted access, prompting the Commission to appeal directly to the Constitutional Court, raising arguments based on Rule 15 and indicating a potential conflict with the Tribunal's power.
+
+**I – Issues: Legal or Constitutional Questions ([1]–[206])**
+
+1. **Rule 15 Access**: Can a litigant access the Commission's records of investigation under Rule 15 of the Commission Rules before the close of pleadings in ongoing litigation?
+2. **Competence of the Competition Appeal Court**: Can a single judge of the Competition Appeal Court direct the production of a Rule 53 record under section 38(2A) of the Competition Act, and does the Court hold the first instance jurisdiction for review applications?
+3. **Procedural Directions**: What constitutes a reasonable time period for the production of records under Rule 15, particularly concerning the identity and purpose of the requester?
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([1]–[206])**
+
+1. **Constitution of the Republic of South Africa, 1996**: Section 32(1) grants every individual the right of access to information held by the state and provides a framework for transparency and accountability, pivotal to the judicial review process.
+2. **Competition Act 89 of 1998**: Sections defining the powers of the Commission and the rules governing the Competition Tribunal, particularly provisions concerning complaint and referral procedures.
+3. **Competition Commission Rules**: Rules 14 and 15, which articulate the conditions for accessing Commission records and delineate restricted information.
+4. **General Principles of Administrative Law**: The demands for fairness in administrative processes as seen in precedent cases (e.g., *Helen Suzman Foundation v Judicial Service Commission* [2018] ZACC 8).
+5. **Uniform Rules of Court**: Rule 53 concerning the production of records in review applications, which emphasizes the necessity of providing a reviewing court with the pertinent documentation to assess the legality and reasonableness of decision-making.
+
+**A – Application: Analysis of How the Court Applied the Law ([1]–[206])**
+
+The Constitutional Court engaged with the intertwined nature of both public access rights and the procedural rights of litigants. The majority, led by Jafta J and Khampepe J, interpreted Rule 15 as providing a broad public access right that should not be limited by the impending litigation status of a party. This interpretation aligned with the imperative to promote transparency as emphasized in the Constitution. 
+
+The Court concluded that Rule 15 did not bar litigants from requesting access to information under circumstances where the litigation was pending, provided that this did not interfere with established litigation norms. The dissenting judgments, particularly from Theron J, cautioned against allowing access to enrich the strategic advantages of litigants before the close of pleadings, noting procedural disruptions in the tribunal's efficiency.
+
+In the review appeal, the Court upheld that the Judge President of the Competition Appeal Court could order the production of Rule 53 records and that jurisdiction must be determined before substantive issues were addressed. 
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([1]–[206])**
+
+Ultimately, the Constitutional Court granted leave to appeal in all applications and upheld the appeal in CCT 158/18 and CCT 218/18, affirming the rights of Standard Bank and the Waco respondents under Rule 15 to access the investigation record. However, it determined that this right does not automatically negate the role of the Tribunal Rules once litigation is in progress, thus calling for the application of the latter for specific procedural operations.
+
+The implications of this decision affirm the interplay between access to information rights and procedural fairness in litigation. It delineates boundaries for litigants seeking records while emphasizing the necessity for transparent and accountable administrative processes in safeguarding public interest. The Court underscored that ongoing and future litigations should not infringe on the fundamental rights encapsulated within the Constitution, ensuring that both fairness and public access are judiciously balanced.
+
+This judgment carries significant weight in future competition law contexts and enhances understanding of procedural rights, evidential duties, and access to information within the landscape of South African competition law. The decision further affirms judicial mandates need to adapt to safeguard against both procedural delay and the risk of undermining investigation efficacy through strategic litigation maneuvering. 

@@ -1,0 +1,58 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2010
+
+# FIRAC Case Note: The Commissioner for the SA Revenue Service v LG Electronics SA (Pty) Ltd 
+
+**Supreme Court of Appeal of South Africa**  
+**Neutral Citation:** CSARS v LG Electronics (428/09) [2010] ZASCA 79 (28 May 2010)  
+**Coram:** Harms DP, Nugent, Lewis, Heher JJA, and Griesel AJA  
+**Heard:** 10 May 2010  
+**Delivered:** 28 May 2010  
+
+---
+
+## F - Facts 
+
+The case concerns a dispute between the Commissioner for the South African Revenue Service (the Appellant) and LG Electronics SA (the Respondent) regarding the classification of imported goods for tariff purposes. The specific items in question were 42” plasma display screens and tuners, separately imported from South Korea ([paras 1–3]). 
+
+During the period from 2004 to 2006, the Respondent declared these screens under tariff heading 8528.21.20, which was a classification that attracted a full rebate on customs duties. However, in July 2006, following an investigation, the Appellant revised this determination under section 47(9)(d)(i)(bb) of the Customs and Excise Act 91 of 1964, reclassifying the screens under heading 8528.12.30, which did not qualify for rebates and resulted in a significant duty credit of approximately R43.5 million ([paras 3–4]).
+
+The Respondent contested this reclassification, arguing that the screens were complete video monitors, meant to be sold as such, and not incomplete television sets. The Appellant's contention was that the separate importation of the screens and tuners was a stratagem to evade customs duties ([paras 5–6]). The North Gauteng High Court ruled in favor of the Respondent, prompting the Appellant's appeal ([para 2]).
+
+## I - Issues 
+
+1. **Tariff Classification:** Were the 42” plasma display screens correctly classified under tariff heading 8528.12.30 as incomplete reception apparatus for television, or should they maintain their classification under 8528.21.20 as complete video monitors? ([paras 2, 5])
+   
+2. **Scheme to Evade Duties:** Did the separate importation of screens and tuners constitute a stratagem by the Respondent to evade legitimate customs duties? ([para 6])
+
+## R - Rules 
+
+1. **Customs and Excise Act 91 of 1964:** The governing statute under which the classification and dispute arose, specifically sections 47(9)(d)(i)(bb) regarding tariff classification and re-determination ([para 4]).
+   
+2. **General Rules for the Interpretation of the Harmonized System:** 
+   - **Rule 2(a):** States that an incomplete or unfinished article may be classified as a complete article if it possesses the essential character of the complete product ([paras 8, 11]).
+   - **Rule 3:** Prohibits dual classification under more than one heading ([para 10]).
+   
+3. **Interpretative Note:** Clarifies that to classify as a complete article, the primary essence of the goods must be considered at the time of importation, not their intended future use ([para 15]).
+
+## A - Application 
+
+The Supreme Court of Appeal evaluated whether the screens could be classified as complete video monitors under the relevant tariff heading or if they should be viewed as components of a television set requiring a tuner ([para 7]). 
+
+- **Functional Utility:** The court recognized that while screens possessed characteristics of video monitors, they required integration with the tuners to function as complete reception apparatus for television ([paras 7, 12]). The Appellant argued that the essence of the goods was incomplete without a tuner and thus should fall under the provisions of Rule 2(a) ([para 8]).
+
+- **Separate Importation and Intent:** The Appellant's assertion that the separate importation was an intentional evasion of duties was grounded on several factors including expert testimony and documentation. However, the court affirmed the high court's finding that the screens were genuinely marketed and sold as monitors and not as incomplete television sets, thus negating any fraudulent intent ([para 18]). The Respondent evidenced that the scheme was legitimate and that retailers often bought components separately to allow for flexibility in sales ([para 20]).
+
+- **Functional Existence at Importation:** The court concluded that at the time of importation, the screens functioned independently as video monitors and did not require a tuner to possess their character as such. The additional features highlighted by the Appellant's argument were not determinative of their essential classification ([para 16]).
+
+## C - Conclusion 
+
+The Supreme Court of Appeal dismissed the appeal, finding that the North Gauteng High Court had correctly classified the 42” plasma display screens under tariff heading 8528.21.20—recognizing them as complete video monitors. The Court did not find sufficient evidence to support the Appellant's claims of fraudulent intent behind the separate importation of the screens and tuners ([paras 24–26]). The ruling underscores the importance of functional characteristics at the time of importation for tariff classification and highlights the challenges of proving fraudulent intent in the context of legitimate commercial operations. The Court ordered the Appellant to bear the costs of the application, which included fees for two counsel ([para 27]). 
+
+---
+
+This case serves to clarify the legal intricacies involved in customs and excise classifications and the necessary proofs related to fraudulent intent, reiterating that mere suspicion without verifiable evidence is insufficient to establish a case of fraud under tax law. 
+
+### References 
+- Commissioner for SARS v LG Electronics SA (Pty) Ltd [2010] ZASCA 79.
+- Customs and Excise Act 91 of 1964.

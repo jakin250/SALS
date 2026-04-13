@@ -1,0 +1,47 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Competition Commission of South Africa v Group Five Construction Ltd [2022] ZACC 36
+
+## F – Facts
+The case involves a dispute between the **Competition Commission of South Africa (the Commission)** and **Group Five Construction Ltd (Group Five)** concerning jurisdictional authority under the *Competition Act 89 of 1998* (the Act). 
+
+On **12 November 2014**, the Commission referred a complaint to the Competition Tribunal alleging that Group Five and other construction firms engaged in collusion while bidding for contracts to build stadiums for the 2010 FIFA World Cup, contrary to provisions in sections 4(1)(b)(i) and (ii) of the Act, which prohibit anti-competitive practices ([4]). Following this, instead of adhering to the prescribed process outlined in the Tribunal Rules, Group Five filed a review application in the **High Court of South Africa, Gauteng Division**. They claimed that the Commission had unlawfully referred the complaint to the Tribunal, asserting that the matter fell outside the Tribunal's jurisdiction based on the Commission previously granting them immunity from prosecution ([2][6]).
+
+After initial proceedings, the High Court ruled that it had jurisdiction to adjudicate the review application, leading the Commission to appeal to the **Supreme Court of Appeal**, which upheld the High Court's jurisdiction ([12-14]).
+
+The present appeal arose following the Supreme Court of Appeal's decision, permitting further examination of the jurisdictional boundaries between the High Court, the Competition Tribunal, and the Competition Appeal Court under section 62 of the Act ([19-23]).
+
+**Key Dates**: 
+- Judgment Delivered: **27 October 2022**
+- Heard On: **3 May 2022**
+
+## I – Issues
+The primary legal issue in this case is whether the High Court had jurisdiction to review the decisions made by the Competition Commission regarding the initiation of a complaint against Group Five ([24]). The case particularly assesses whether the matters raised by Group Five relate to jurisdictional questions within the exclusive authority of the competition authorities under the Act, or if they involve questions of legality that may be addressed by the High Court ([25-27]).
+
+## R – Rules
+Key statutory provisions central to the decision include:
+1. **Section 62 of the Competition Act**: This section delineates the scope of jurisdiction among the Competition Tribunal, the Competition Appeal Court, and the High Court regarding competition law issues. Subsection (1) asserts the exclusive jurisdiction of the Tribunal and the Competition Appeal Court over matters within designated chapters of the Act ([3]).
+  
+2. **Subsection 62(2)** provides specific carve-outs for questions regarding actions taken by the competition authorities concerning jurisdictional matters ([27-29]).
+
+3. **Section 27(1)(c)**: Gives the Tribunal the authority to review any decision of the Commission that may be referred to it in certain designated instances ([25-26]).
+
+The case law referenced includes:
+- **Agri Wire v Commissioner, Competition Commission**: This case provided a precedent on the demarcation of jurisdiction and affirmed the principle of simultaneous jurisdiction between the High Court and competition authorities in certain scenarios relevant to legality and vires ([16-18]).
+
+## A – Application
+In adjudicating the current case, the court assessed whether the High Court's jurisdiction was appropriately invoked by Group Five. 
+
+1. **High Court's Jurisdiction**: Mlambo AJ reasoned that the High Court has inherent jurisdiction to review administrative actions unless expressly ousted, thus affirming the High Court's role in overseeing legality issues that arise from administrative actions of the Commission under PAJA and the principle of legality ([22][25][62-64]).
+
+2. **Competence of the Tribunal**: The conclusion emphasized that questions relating to the validity and lawfulness of the Commission's actions involve the Tribunal's functions and powers, which demand specialized expertise ([46][90]). 
+
+3. **Separation of Issues**: The court distinguished between issues strictly involving competition law jurisdiction and those requiring examination of the legality of the Commission’s actions, declaring that the latter were not within exclusive jurisdiction under section 62(1) and thus eligible for High Court review ([94-95]).
+
+Mlambo AJ articulated that jurisdictional questions regarding whether an act was outside the scope of the Commission's powers revert to the judicial responsibility of the High Court unless the statute explicitly stipulates otherwise ([125-127]).
+
+## C – Conclusion
+The Constitutional Court ultimately concluded that the Supreme Court of Appeal erred in its upholding of the High Court's jurisdictional ruling. It determined that the review application fell under the carve-out specified in section 62(2), concerning the legality of the Commission's actions, thus permitting concurrent jurisdiction between the High Court and the Competition Appeal Court to adjudicate the matter ([99][101]).
+
+The final ruling dismissed the appeal by the Commission, affirming the initial findings of the Supreme Court of Appeal while establishing critical clarifications regarding the jurisdictional boundary between the competition authorities and the role of the High Court in reviewing administrative actions. This case notably underscores the interaction between specialized regulatory frameworks and the broader constitutional mandate for lawful administrative action ([148][149]).

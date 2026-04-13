@@ -1,0 +1,37 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Mudau v Municipal Employees’ Pension Fund and Others [2023] ZACC 26 
+## FIRAC Case Analysis
+
+### F - Facts: 
+The appellant, Pandelani Midas Mudau, was employed by Vhembe District Municipality from 3 May 2003 until his resignation on 31 May 2013. He was a member of the Municipal Employees’ Pension Fund (the Fund), which serves largely previously disadvantaged employees within local government. Upon resignation, he became entitled to a withdrawal benefit outlined by the Fund's established rules (the Rules) ([5]).
+
+The relevant change arose when, following an actuarial review in January 2013, the Fund’s board decided to amend Rule 37, reducing the withdrawal benefit from three times the member's contributions with interest to one and a half times, effective retrospectively from 1 April 2013. This amendment was unregistered at the time of Mudau's withdrawal benefit calculation ([6]). On 16 October 2013, he received R646,437.42 under this unregistered rule, while maintaining that he was entitled to R2,140,313.19 based on the old rule ([7]).
+
+Mudau subsequently filed a complaint with the Pension Funds Adjudicator (the Adjudicator) on 2 December 2013. The Adjudicator ruled in his favor on 7 July 2014, indicating that the unregistered amendment could not be applied retroactively to affect accrued benefits that had arisen before the amendment's registration ([9]). The Registrar registered the amended rule on 1 April 2014 ([8]).
+
+### I - Issues: 
+The primary legal issues presented in this case pertained to:
+1. Whether a pension fund could process a member's claim under an unregistered rule amendment, pending registration by the Registrar of Pension Funds ([1]).
+2. Whether such an amendment could retrospectively affect benefits that had already accrued to members before its registration ([1]).
+
+### R - Rules: 
+The legal framework guiding this case primarily centers around the Pension Funds Act 24 of 1956, specifically:
+- **Section 12**: Deals with the amendment of pension fund rules, stipulating that no rule alteration shall be valid unless approved and registered by the Registrar ([53]).
+- **Section 13**: States that the rules of a registered fund are binding on the fund and its members ([54]).
+- **Section 37A**: Protects accrued benefits from unilateral amendments, indicating that the benefits provided for in the rules cannot be diminished ([55]).
+
+Additionally, relevant case law, particularly **Mostert N.O. v Old Mutual Life Assurance Co (SA) Ltd** [2001] ZASCA 104, established that unregistered rules lack binding effect and cannot be applied prior to registration ([59]).
+
+### A - Application: 
+The Constitutional Court reaffirmed the principle established in **Mostert**, stating that a pension fund may not apply a rule that has not been registered by the Registrar, regardless of any anticipated registration. The court emphasized that during the period in question—between Mudau’s resignation in May 2013 and the payment in October of the same year—only the original rules were valid, and thus the Fund was obligated to calculate Mudau’s benefits under these ([58]).
+
+The court also addressed the notion of retrospection in the context of Pensions, asserting that while amendments could be retroactive post-registration, they could not undermine vested rights acquired prior. This ruling served to protect the rights of pension fund members from unilateral changes that might affect benefits already earned ([60], [61]).
+
+Furthermore, the assertion by the respondents that the amended rule, once registered, should apply retroactively to all accrued benefits was dismissed, as the right to claim was derived solely from the rules in effect at the time benefits were earned ([66]).
+
+### C - Conclusion: 
+The Constitutional Court granted Mudau's appeal, thereby reversing the Supreme Court of Appeal’s judgment. The Fund was ordered to pay the remaining withdrawal benefit owed to Mudau, affirming that retroactive rule amendments could not diminish already accrued benefits without substantial justification and in compliance with established statutory regulations. The decision ultimately underscores the governing principle that pension funds must adhere strictly to their registered rules, ensuring that member rights are not arbitrarily altered through unregistered amendments ([79]).
+
+This ruling carries significant implications for pension fund operations in South Africa, reinforcing member protection rights and ensuring the adherence to statutory requirements governing the amendment process, which has a cautious balancing of fund sustainability and member benefit integrity.

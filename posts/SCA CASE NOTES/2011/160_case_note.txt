@@ -1,0 +1,26 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Grey Global Group Inc v Bongani Khumalo (725/10)
+
+**F – Facts:**  
+The case arises from the sale of a 25.1% shareholding in Grey Group South Africa (Pty) Ltd (Grey Group) by Grey Global Group Inc (Grey Global) to Bongani Khumalo on July 2003, for R8 million, with payment made via a promissory note ([1]). The agreement was conditional upon the conclusion of a shareholders' agreement, which was later executed. This shareholders' agreement included provisions regulating the sale of shares, particularly granting Khumalo an option to sell his shares (a put right) to Grey Global after five years at a formula-based price ([2]).
+
+Khumalo exercised this put right on September 11, 2008. Upon calculation, however, the price determined was zero. Khumalo argued that this result meant he was not obliged to deliver the share certificate, asserting the option was conditional ([8], [9]). The South Gauteng High Court, presided over by Maluleke J, ruled that Khumalo's option was indeed conditional, thereby dismissing Grey Global's application to compel Khumalo to surrender the share certificate and allowing for an appeal ([12]).
+
+**I – Issues:**  
+1. Whether the put right concerning the shares was conditional upon the conditions stated in the shareholders' agreement or whether a binding contract of sale was created upon the exercise of the put right ([13], [14]).
+2. What constitutes a condition precedent in a contract, particularly in the context of the required actions for both parties following the exercise of the put right ([14], [15]).
+
+**R – Rules:**  
+The applicable legal principles are drawn from the interpretation of commercial agreements and contract law. Specifically, the distinction between an option to sell (a put right) and a binding sales contract was at the core of this dispute. According to established legal principles, a binding agreement emerges when an irrevocable offer is accepted ([13]). 
+
+The interpretation of clauses concerning conditions in contracts is also crucial. A condition precedent is defined as an event that must occur before a party is obligated to perform, which is uncertain at the time of entering into the agreement ([14]). The court noted that obligations to perform as dictated by the contract do not necessarily imply the existence of conditionality affecting the exercise of the put right ([14], [16]).
+
+**A – Application:**  
+The Supreme Court of Appeal determined that Khumalo's exercise of the put right constituted the formation of a binding sale contract, thereby rejecting the notion that clause 3.5 imposed contingent performance conditions necessary for the formation of sale. The court articulated that once the put right was exercised, it resulted in a binding agreement that could compel performance from either party—the delivery of the share certificate from Khumalo and payment from Grey Global. The court further examined the arguments about the interpretation of “closing” as suggesting a condition precedent, clarifying that closing merely referred to the means of performance without negating the contract's binding nature ([14], [17]).
+
+Khumalo's various objections—including his assertion that communication with Grey Global implied the lack of a sale and his continued role as non-executive chair—were likewise dismissed. The court concluded that these factors did not alter the legal obligations established by the binding agreement ([17], [18]).
+
+**C – Conclusion:**  
+The Supreme Court of Appeal upheld the appeal, ultimately reversing the High Court's decision ([19]). It clarified that the put right enabled Khumalo to enforce his contractual rights without conditions that would hinder the likelihood of a completed sale post-exercise. The decision reinforces the principle that the mere exercise of an option can establish a binding contract of sale, underscoring the distinction between obligations to perform and contractual conditions. The judgement emphasizes that, as per South African law, once an option is exercised and accepted, the legal obligations to fulfill the contract ensue, independent of preliminary deliverables like a share certificate. The court's order led to the granting of the original prayers sought by Grey Global, affirming their right to demand delivery of the certificate, thus having significant implications on future interpretations of such shareholder agreements in South Africa ([19]).

@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2006
+
+# Case Note: Molimi v The State [2006] SCA 38 (RSA) - FIRAC Method
+
+### F – Facts
+On October 30, 2000, a robbery occurred at the Clicks store in Southgate Mall, Johannesburg, where Richard Ditshele Molimi (the first appellant) and Mokgobe Ishmael Mashoesh (the second appellant) were indicted alongside a third accused for multiple felonies. These charges included robbery with aggravating circumstances, attempted murder, unlawful possession of firearms and ammunition, kidnapping, and two counts of murder ([para 1]).
+
+The incident began with a security officer collecting cash and being confronted by four armed robbers, who forced him and the store manager into a safe and made off with the money ([para 2]). An exchange of gunfire ensued, resulting in the deaths of both a security guard and one of the robbers ([paras 3-4]). A bystander intervened, leading to further chaos: the robber took a hostage, and during the ensuing scuffle with the bystander, the hostage was unintentionally killed ([para 4]).
+
+At trial, both appellants denied the charges but were ultimately found guilty and sentenced to life imprisonment for their roles in the crimes committed ([paras 5-6]). The conviction was primarily supported by statements made by the co-accuser, which implicated the appellants and were used against them at trial ([paras 7-8]).
+
+### I – Issues
+The Supreme Court of Appeal was primarily tasked with addressing several legal questions:
+1. The admissibility of hearsay evidence, specifically the statements made by accused 1 and the second appellant, against the first appellant ([paras 10-11]).
+2. Whether the actions of accused 1—taking a hostage and the resulting murder—were within the scope of the common purpose that the appellants had in committing the robbery ([para 29]).
+3. The legality of the convictions for the unlawful possession of firearms and ammunition in light of the appellants' lack of physical possession ([paras 37-38]).
+
+### R – Rules
+The legislative framework governing the admissibility of hearsay evidence is encapsulated in Section 3 of the Law of Evidence Amendment Act 45 of 1988. Key provisions include that hearsay evidence may be admitted if:
+- All parties agree to its admission,
+- The person whose credibility is crucial testifies,
+- The court finds, considering various factors such as the interests of justice, that its admission is warranted ([para 11]).
+
+Additionally, the common purpose doctrine requires that all participants foresee the possibility of the unlawful consequences of their collective actions ([para 34]). Conversely, the mere coexistence of unlawful conduct does not impute liability unless foreseeability can be established.
+
+### A – Application
+1. **Admissibility of Hearsay Evidence**: The court found that although the trial judge failed to formally rule on the hearsay statements as required, the absence of a formal ruling did not deprive the trial of fairness, as the appellants were aware they could contest the statements ([paras 26-28]). The court emphasized that the overarching question is whether the admission of hearsay evidence served the interests of justice ([para 14]).
+
+2. **Common Purpose concerning Hostage Taking**: The court held that the act of taking a hostage by accused 1 diverged significantly from the original common purpose, classifying it as a “frolic of his own” and thus not foreseeable by the other parties involved ([para 36]). This delineation was crucial in overturning that particular conviction, as the new act far exceeded what was within the contemplation of the common purpose established prior to the robbery.
+
+3. **Possession of Firearms and Ammunition**: The court critically assessed the joint possession doctrine, overruling the previous case S v Khambule on the grounds that the requirements for establishing joint possession were not satisfied in this scenario. Specifically, the prosecution had failed to demonstrate that the appellants manifested an animus to exercise possession of firearms through others ([para 38]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld the convictions for robbery and the murder of the security guard against both appellants while overturning the convictions regarding the murder of the hostage, the kidnapping, and the unlawful possession of firearms and ammunition ([para 39]). The ruling underscored the critical importance of comprehending the limits of the common purpose doctrine and the thorough application of evidentiary standards to preserve the integrity of the judicial process.
+
+In summary, the decision reinforced that while collective criminal action can have robust implications under the common law, liability must always be anchored in foreseeability and a shared intention among all participants, especially when unique acts emerge that may disrupt the collective plan ([paras 36-38]). This case exemplifies significant legal nuances regarding evidence admissibility and the doctrine of common purpose in South African criminal law.

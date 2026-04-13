@@ -1,0 +1,35 @@
+Case Note: REPUBLIC OF SOUTH AFRICA
+Source Folder: 1998
+
+# FIRAC Case Note for **Republic of South Africa: Kimberly-Clark of South Africa (Pty) Limited v Proctor & Gamble SA (Pty) Ltd** 
+
+### Facts
+This case involves a patent dispute concerning South African Letters Patent No. 77/1894 related to a "Disposable Diaper with Elastically Constricted Crotch Section". The appellant, Kimberly-Clark of South Africa (Pty) Limited (formerly Carlton Paper of South Africa (Pty) Ltd), took assignment of the patent and initiated infringement proceedings against the respondent, Proctor & Gamble SA (Pty) Ltd ([paras 2-4]).  
+
+The procedural history began with Kimberly-Clark filing an infringement action in 1995 against Proctor & Gamble. Alongside this, an application was filed for a temporary interdict against the respondent. The respondent countered by seeking to set aside three amendments made to the patent in 1982 and 1993, claiming these amendments were not properly endorsed ([paras 3-5]). On 11 June 1996, the full court ruled in favor of Proctor & Gamble, setting aside all three proposed amendments to the patent, which Kimberly-Clark sought to appeal ([para 4]).
+
+The issues primarily revolved around the interpretation of sections 50 and 51 of the Patents Act No. 57 of 1978, particularly addressing the validity of amendments to the patent specifications ([para 5]).
+
+### Issues
+The principal legal issue is the proper interpretation of section 51(10) of the Patents Act and whether it allows for the setting aside of patent amendment applications due to non-compliance with procedural requirements ([para 8]). The secondary issue involves the implications of the second and third amendments to the patent, which Kimberly-Clark sought to reinstate after their annulment by the lower court ([para 17]).
+
+### Rules
+The key statutory provisions are articulated in Sections 50 and 51 of the Patents Act No. 57 of 1978. 
+
+1. **Section 50** deals with the correction of clerical errors and states that the registrar may authorize amendments to documents for which no express provision is made in the Act ([para 10]).
+
+2. **Section 51** outlines the amendment process for patent specifications. Specifically, it stipulates that:
+   - An applicant must provide a full statement of the proposed amendment and the reasons for it ([paras 11-12]).
+   - Amendments must not introduce new matter or exceed what was originally disclosed ([para 15]).
+
+3. **Section 51(10)** states that any amendment made in conflict with these provisions may be set aside by the commissioner at any time upon application ([para 10]).
+
+### Application
+The court analyzed the procedures followed in implementing the second and third amendments. In its ruling, the court emphasized that the registrar was functus officio after granting the first amendment, thereby lacking the authority to approve the subsequent amendments ([para 10]). The court found that the second amendment was invalid under Section 50 since it did not conform to the requirements set out in Section 51. It held that the second amendment attempted to alter the patent's original claims without proper authorization, rendering it set to be annulled based on the constraints provided in Section 51 ([paras 16-17]).
+
+The court scrutinized the rationale for the amendments, finding them lacking in fullness as dictated by the statutory requirements. The argument that Section 51(10) allows for setting aside amendments due to non-compliance with procedural demands was central to the court's ruling. The court concluded that a proper interpretation of the Act indicates that such jurisdiction could not be invoked post-approval of an amendment without violating the substantive rights outlined by the existing patent law framework ([paras 26-31]).
+
+### Conclusion
+The Supreme Court of Appeal ruled favorably for Kimberly-Clark, overturning the full court's decision. It found that the lower court had misinterpreted the scope of Section 51(10) and improperly annulled the first amendment ([para 32]). The court held that the rationale behind patent law aims to prevent the monopolization of knowledge not officially disclosed. Thus, absence of sufficient reasoning for amendments alone did not suffice for their nullification post-approval.
+
+The impact of this ruling is significant; it clarifies the procedural and substantive aspects of patent amendment law, setting a precedent regarding the authority of the registrar and commissioner in dealing with such amendments and ensuring a stricter adherence to statutory provisions governing patents.

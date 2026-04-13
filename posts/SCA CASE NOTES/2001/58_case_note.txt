@@ -1,0 +1,45 @@
+Case Note: IN THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2001
+
+# Case Note: Johann Mouton v Boland Bank Beperk [2001] ZASCA 32
+
+## FIRAC Method
+
+### F – Facts ([paras 1–3])
+
+The case revolves around the interpretation of Section 26 of the Close Corporations Act 69 of 1984 (“the Act”). The appellant, Johann Mouton, was a member of JNJ Vloerdienste CC (“the corporation”), which had incurred an overdraft debt to Boland Bank Ltd (“the bank”). The corporation was deregistered on 26 March 1993 due to a lack of business activity, at which time Mouton became personally liable for the corporation's debts under Section 26(5) of the Act. Following the deregistration, the bank initiated legal proceedings against Mouton on 31 August 1993, in which he admitted liability but sought proof of the amount owed.
+
+On 7 April 1995, Mouton successfully applied for the reregistration of the corporation, asserting that this release him from personal liability owing to the operation of Section 26(7) of the Act. At trial, the legal question of whether reregistration extinguished Mouton's personal liability was raised, leading to a judgment in favor of the bank, which was appealed to the Supreme Court of Appeal ([para 3]).
+
+### I – Issues ([paras 1, 6, 10, 15])
+
+The primary legal issue was whether Section 26(7) of the Close Corporations Act released a member from personal liability for debts incurred by the corporation following its reregistration after previously being deregistered under Section 26(5) of the Act. Secondary considerations included interpretations of statutory provisions regarding personal liability and the implications of deregistration and reregistration.
+
+### R – Rules ([paras 4, 5, 8, 10, 15])
+
+The relevant legal provisions are encapsulated primarily in:
+
+1. **Section 26 of the Close Corporations Act 69 of 1984**:
+   - **Section 26(5)** imposes personal liability on members of a close corporation who are members at the time of deregistration if the corporation has outstanding debts.
+   - **Section 26(7)** states that upon reregistration, a corporation is deemed to have never been deregistered, but the act does not explicitly relieve members of personal liabilities established prior to reregistration.
+
+2. **Statutory Interpretation Principles**: 
+   - Contracts and legislative provisions are assumed not to extinguish rights by mere implication unless expressly stated (as supported by Bennion's Statutory Interpretation).
+   - Legislative intent is focused on achieving the purpose of restoring a corporation’s debts and assets rather than altering the liability framework for its members ([paras 10, 14]).
+
+### A – Application ([paras 6–12])
+
+The court analyzed the implications of reregistration under the defined statutory framework. It distinguished between the restoration of a corporation's existence and the extinguishment of pre-existing member liabilities. 
+
+- The restoration of the corporation did indeed revive its claim against Mouton, but the court firmly held that this did not have the effect of nullifying his previously incurred personal liabilities under Section 26(5).
+- The court supported the interpretation that a member's liability does not simply disappear with reregistration and highlighted the necessity of exposing errant behavior by members who allow deregistration to occur while incurring debts. The emphasis was on enforcing accountability and protection of creditors' rights ([paras 10–16]).
+
+The court further elaborated that any interpretation implying that liabilities are extinguished would lead to absurd consequences, particularly in cases where members had already settled debts or had been subjected to legal consequences stemming from their personal liabilities (e.g., garnishment of wages or bankruptcy). Hence, it rejected the notion that Section 26(7) should be construed to generate a vacuum of liability after reregistration ([paras 11–12]).
+
+### C – Conclusion ([paras 15–19])
+
+The Supreme Court of Appeal dismissed Mouton's appeal, concluding that neither Section 26(5) nor Section 26(7) contained provisions that could reasonably imply a release of personal liability for members following reregistration. The policy objectives underpinning the statutory framework necessitated that responsibility for debts incurred during the deregistered period remained intact to prevent abuse of the deregistration process.
+
+Given Mouton’s lack of prospects for success on appeal, and considering procedural failures including late submissions, the court also dismissed his application for condonation and upheld the original judgment with costs awarded to the bank ([paras 15–19]). The implications of this judgment underscore the willingness of the judiciary to uphold statutory provisions aimed at protecting creditor rights over the rights of individuals seeking personal relief from liability. 
+
+In summary, the ruling emphasizes stringent accountability for members of close corporations in South Africa and reinforces the legal principle that the effects of deregistration do not erase personal liabilities accrued prior to reregistration, thereby promoting greater diligence among members managing corporate entities.

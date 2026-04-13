@@ -1,0 +1,52 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Independent Community Pharmacy Association v Clicks Group Ltd and Others [2023] ZACC 10
+
+**FIRAC Method**
+
+## F – Facts: Relevant Background and Procedural History ([1]–[10])
+In this constitutional litigation, the Independent Community Pharmacy Association (ICPA) lodged a complaint against the Clicks group of companies, which includes Clicks Group Ltd, New Clicks South Africa (Pty) Ltd, Unicorn Pharmaceuticals (Pty) Ltd, Clicks Investments (Pty) Ltd, and Clicks Retailers (Pty) Ltd, as well as the Minister of Health and other officials ([1]–[2]). The essence of ICPA's complaint, made on May 6, 2016, was that Unicorn and Clicks Retailers have a direct or indirect beneficial interest in each other, violating section 22A of the Pharmacy Act 53 of 1974 and regulation 6(d) of the Ownership Regulations ([5]–[7]).
+
+ICPA argued that this corporate structure allowed for potential conflicts of interest that could compromise the delivery of quality and affordable medicines to patients. As redress, ICPA sought the revocation of Unicorn's manufacturing pharmacy license and all retail licenses held by Clicks Retailers granted after May 30, 2012, on grounds that these were issued under misleading circumstances ([6]).
+
+The Deputy Director-General (DDG) of the Department of Health rejected the complaint, concluding that neither Retailers nor Investments possessed a beneficial interest in Unicorn. Following this decision, ICPA appealed to the internal Appeal Committee, which upheld the DDG's ruling ([8]–[10]). ICPA subsequently sought judicial review in the High Court, which, after an extensive analysis, determined that the Appeal Committee’s decision constituted a material error of law, thereby setting aside the DDG's ruling and the Appeal Committee's decision ([11]).
+
+## I – Issues: Legal or Constitutional Questions ([11]–[19])
+The case raised several legal and constitutional issues surrounding the interpretation of section 22A of the Pharmacy Act and regulation 6(d) of the Ownership Regulations:
+
+1. **Interpretation of "Beneficial Interest"**: What constitutes a "beneficial interest" within the context of pharmacy ownership, and does it encompass shareholding interests?
+  
+2. **Corporate Structure and Compliance**: Does the corporate structure of the Clicks group violate the prohibitions established in section 22A and the Ownership Regulations?
+
+3. **Constitutional Challenge**: Does section 22A infringe upon patients' constitutional rights to access quality and affordable healthcare, as mandated by section 27 of the Constitution?
+
+4. **Procedural Validity**: Did ICPA properly direct its appeal to the correct legal authorities, and did the DDG and Appeal Committee have the requisite power to act on the appeals made by ICPA? ([11]–[19])
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([11]–[19])
+The court's analysis relied heavily on the Pharmacy Act of 1974, particularly sections 22 and 22A, which outline the conditions under which individuals and corporate entities may own or have a beneficial interest in pharmacies. Regulation 6(d) provides specific prohibitions against certain corporate ownership structures that could lead to conflicts of interest.
+
+Key precedents cited include:
+- **Princess Estate and Gold Mining Co Ltd v The Registrar of Mining Titles** [1911] TPD 1066: This case was referenced concerning the meaning of "beneficial interest."
+- **Stellenbosch Farmers’ Winery Ltd v Distillers Corporation (SA) Ltd** [1962] 1 SA 458 (A): Cited for its insights into financial interests and shareholding.
+- **The South African constitutional framework** under section 27, which guarantees access to health care services ([11]–[19]).
+
+## A – Application: Analysis of How the Court Applied the Law ([19]–[200])
+The court examined whether the corporate arrangements of the Clicks group violated the statutes governing pharmacy ownership. The DDG and Appeal Committee's reasoning was critically analyzed in light of corporate and property law principles. The court determined that the term "beneficial interest" must extend to include interests arising from shareholding.
+
+The court found that:
+1. **Corporate Structure**: The Clicks group’s arrangement did engage with the concept of beneficial ownership, particularly since shareholding could influence business operations, satisfying regulatory concerns about conflicts of interest.
+   
+2. **Legislative Intent**: The court interpreted the regulations in a manner consistent with their purpose – to prevent situations where financial interests could compromise patient care ([19]–[200]).
+
+3. **Constitutional Implications**: The court was dismissive of ICPA's constitutional argument initially but caveated that if we accept that regulation and legislation affect availability and access, the interpretation should align with patient interests. Therefore, section 22A does not limit access to affordable medicines or infringe constitutional guarantees as it was intended merely as a regulatory framework ([207]–[218]).
+
+4. **Cross-Contamination of Interests**: The court acknowledged that the interests entangled among Clicks' subsidiaries posed the risk of undermining patient care by prioritizing profits through potentially unfair practices ([207]–[218]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([219]–[307])
+The court ultimately held that:
+1. The interpretation of "beneficial interest" includes an understanding akin to beneficial ownership, which can arise through shareholding.
+2. Companies within the Clicks group, particularly Investments and New Clicks, have beneficial interests in both the community and manufacturing pharmacies, thereby contravening regulatory provisions.
+3. The majority view from the Supreme Court of Appeal that supports the original conclusions of the DDG and Appeal Committee was overturned. The court upheld ICPA's position, leading to a remittal for further consideration by the DDG regarding any necessary regulatory action to be taken against the Clicks group for its corporate structure ([219]–[307]).
+
+**Legal Significance**: This case underscores the nuanced interpretation necessary for legislative frameworks governing pharmacy ownership and the balancing of commercial interests against public health imperatives in South Africa, particularly in a post-apartheid context emphasizing access to justice and healthcare.

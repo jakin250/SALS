@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Ciba Packaging (Pty) Ltd t/a Cibapac v Timelink Cargo (Pty) Ltd (1156/2022) [2023] ZASCA 161 
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–6])
+In the case of **Ciba Packaging (Pty) Ltd t/a Cibapac v Timelink Cargo (Pty) Ltd**, the appellant, Cibapac, faced an action filed by the respondent, Timelink. Timelink claimed that it had entered into an agreement with Cibapac in December 2011 to provide freight services. These services were to be rendered within three days of receiving purchase orders, with Cibapac agreeing to cover necessary disbursements incurred during service delivery. Between December 2019 and March 2020, Timelink performed the agreed services and subsequently issued a demand for payment of R1,652,678.80 on April 3, 2020.
+
+Further context was provided by Timelink’s allegations that Cibapac entered business rescue in May 2020, acknowledged its debt to Timelink, and recorded Timelink as a creditor in its business rescue plan, adopted in September 2020. However, Timelink maintained that it did not participate in the rescue proceedings, and the plan was ultimately terminated in December 2020.
+
+In response, Cibapac filed an exception to Timelink’s particulars of claim, arguing that they did not disclose a cause of action. Cibapac asserted that Timelink's claim was barred by the provisions of s 154(2) of the **Companies Act 71 of 2008**, which limits the enforcement of debts incurred before the commencement of business rescue unless permitted by the business rescue plan. The High Court dismissed the exception, leading to this appeal.
+
+### I – Issues: Legal or Constitutional Questions ([paras 8–10])
+The core issues before the Supreme Court of Appeal were:
+
+1. **Appealability of the Dismissal of an Exception:** Whether the dismissal of the exception by the High Court was appealable.
+   
+2. **Merits of the Exception:** If the dismissal was appealable, did Timelink’s particulars of claim fail to disclose a cause of action due to the pertinent provisions of s 154(2) of the Companies Act?
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 9–12])
+The Supreme Court of Appeal reaffirmed the general principle that **a dismissal of an exception is non-appealable**, save where the exception challenges the jurisdiction of the court ([para 9]). This principle was established in earlier cases, notably **Maize Board v Tiger Oats Limited** and **TWK Agriculture Holdings (Pty) Ltd v Hoogveld Boerderybeleggings (Pty) Ltd**, which articulated that unless jurisdiction is in question, such orders are not appealable.
+
+Counsel for Cibapac attempted to distinguish this case by arguing that their exception related to the High Court's jurisdiction to adjudicate the matter, as it concerns a claim expressly barred by statute, thus making it appealable.
+
+The Court analyzed the applicability of s 154(2) of the Companies Act, referencing the case of **Van Zyl v Auto Commodities (Pty) Ltd** for interpreting the requirements of debt enforcement post-business rescue ([para 7]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 12–26])
+In assessing the appealability, the Court reiterated the conclusions drawn in **TWK**, determining that the critical question is whether the dismissal of the exception involves an error regarding jurisdiction or the power of the High Court to hear the case. Notably, the Court stated that if the High Court maintains jurisdiction over the claim, its rulings are subject to review at trial ([para 24]).
+
+The Court found Cibapac’s arguments concerning the appealability of the exception unpersuasive. The appeal did not raise a jurisdictional challenge; rather, it involved a question of law not affecting the competence of the court to hear the action ([para 15]). The dismissal of the exception did not determine the case's final outcome, as the trial court can revisit legal points during the proceedings ([para 25]).
+
+Cibapac’s request for Timelink to amend its particulars of claim further supported the Court's determination that the High Court retained jurisdiction ([para 26]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 26–27])
+Ultimately, the Supreme Court of Appeal held that the appeal must be struck from the roll based on a lack of appealability, as the dismissal of the exception did not rise to a point affecting the court's jurisdiction. The Court clarified that issues of law regarding the enforceability of claims after business rescue could be addressed during trial, reaffirming the principle that dismissal of an exception does not preclude subsequent legal arguments on related matters at trial.
+
+The decision also reinforces the established legal understanding that claims barred by statutory provisions like those in s 154(2) may still proceed to trial unless explicit conditions preclude such action, thereby allowing opportunities for clarification and potential amendments to particulars of claim in the event of legal deficiencies.
+
+The order of the court rendered by this judgment strikes the appeal from the roll, with costs awarded to Timelink, underscoring the importance of procedural compliance and the limits of appeal within the South African legal context. 
+
+--- 
+
+This case underscores the meticulous approach required when considering exceptions in civil procedure, illustrating the nuances of appealability in South African law.

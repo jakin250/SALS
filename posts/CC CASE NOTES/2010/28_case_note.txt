@@ -1,0 +1,40 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2010
+
+# FIRAC Case Note: Enrico Bernert v Absa Bank Ltd
+
+## F – Facts: 
+The matter revolves around an action brought by Enrico Bernert (the applicant) against Absa Bank Ltd (the respondent) concerning a disputed document termed the “Verbiage of Bank Guarantee” ([1]). This document allegedly guaranteed a fixed deposit facility of $6 million addressed to Emirates Bank International, which was vital for securing a hefty investment from Sheikh Fawaz Bin Abdullah Al-Khalifa for Bernert's proposed manufacturing plant ([2]). 
+
+Once Absa became aware that Emirates Bank might rely on this dubious document, it informed Emirates Bank that the guarantee was issued without its authority ([3]). This letter led the Sheikh to withdraw from the investment deal ([4]). Bernert initially found favor at the High Court, which ruled that Absa was liable for negligent misstatement when advising Emirates Bank ([10]). However, the Supreme Court of Appeal overturned this ruling, leading to Bernert's application for leave to appeal ([12]).
+
+## I – Issues: 
+The core issues raised in this case include:
+
+1. **Judicial Bias**: Whether the Supreme Court of Appeal (SCA) was biased against Bernert, given that one of the judges had shares in Absa Bank, and whether the previous associations of other judges with Absa were sufficient to warrant recusal ([4], [26]).
+2. **Legal Standard for Recusal**: The relevance of the presumption of impartiality and the reasonable apprehension of bias in evaluating whether the judges should have recused themselves ([28], [31]).
+3. **Factual Findings**: Whether the SCA’s factual findings were so unreasonable as to give rise to an inference of bias ([26], [112]).
+
+## R – Rules: 
+Key legal principles established in this case include:
+
+1. **Objective Standard for Bias**: It is well-settled that a judicial officer must recuse themselves if there exists a reasonable apprehension of bias, based on the tests established in prior case law such as *SARFU II* and *Basson II* ([28], [31]).
+2. **Presumption of Impartiality**: Judges are presumed to be impartial, which places a formidable burden on the party alleging bias ([35]).
+3. **Nature of Interest**: Ownership of shares constitutes a potential conflict; however, the mere existence of a financial interest does not automatically lead to disqualification. There must be a reasonable apprehension that this interest affects the judicial officer's impartiality ([46], [62]).
+4. **Review of Factual Findings**: A mistake in factual findings does not, on its own, establish bias unless it is so unreasonably different from the evidence that it suggests bias ([102], [115]).
+
+## A – Application: 
+The Constitutional Court applied the above legal principles to evaluate the claims of bias and judicial conduct during the SCA proceedings. 
+
+1. **Bias Due to Shareholding**: The fact that Cachalia JA held a small number of shares in Absa Bank was deemed insufficient to create reasonable apprehension of bias. The court noted that Bernert’s counsel was aware of this before the hearing yet did not object ([39], [67]). It underscored that the shareholding constituted a mere fraction (0.187%) of Absa's overall value, meaning any potential influence was negligible ([67]).
+   
+2. **Prior Associations**: With regard to other judges’ prior affiliations with Absa, the court concluded that such associations did not create grounds for bias because the subject matter of the litigation did not arise from these associations ([80]).
+
+3. **Conduct During Hearings**: Bernert's criticism of the manner in which the SCA conducted the proceedings, suggesting hostility and misconduct on the part of the presiding judge, was rejected. The court reaffirmed that while judicial officials should maintain civility, the singular instances cited did not amount to bias ([84], [96]).
+
+4. **Challenge of Factual Findings**: The court determined that Bernert failed to substantiate his claims of erroneous factual findings. Most of the SCA’s conclusions were found to be well-supported by the record, meaning his challenges were no more than a disagreement with the outcome ([115]).
+
+## C – Conclusion:
+The Constitutional Court dismissed the application for leave to appeal, affirming that the SCA’s judges were not disqualified due to bias and that their factual determinations were justified ([120]). The ruling highlights the intrinsic strength of judicial independence and impartiality, reinforcing the standard for establishing recusal as high, due to the need to balance judicial integrity with litigant rights. The appeal further clarified the nuances of assessing bias and the nature of judicial conduct in South Africa’s judicial landscape, ensuring that litigants must be diligent in presenting claims and challenges during proceedings.
+
+The implications of this judgment resonate in the realm of constitutional law, ensuring a robust standard against unsubstantiated claims of bias and reinforcing the independence of the judiciary in the interest of public confidence and the rule of law.

@@ -1,0 +1,57 @@
+Case Note: REPORTABLE
+Source Folder: 2001
+
+# FIRAC Case Note
+
+**Case Title:** Golden Seabird Maritime Inc & Another v Alam Tenggiri Sdn Bhd & Another [2001] ZASCA 121; Case No: 159/2000
+
+**Court:** Supreme Court of Appeal of South Africa
+
+**Date of Delivery:** 25 September 2001
+
+---
+
+### F – Facts
+
+This case arises from a commercial dispute regarding the sale of two vessels, MT Theano and MT Ludovica, which were under construction at Onomichi dockyard in Japan. The appellants, Golden Seabird Maritime Inc and Golden Seagull Maritime Inc, purchased these vessels from the second respondent, Mousaka Incorporated ([1]). The appellants contended that it was an integral term of the purchase agreements that the vessels would be suitable for the carriage of methyl tert-butyl ether (MTBE). The second respondent denied these allegations, asserting that only a subset of the vessel's tanks would be suitable ([2]).
+
+In order to secure their claims arising from these agreements, the appellants arrested a ship owned by the first respondent, Alam Tenggiri, under section 5(3) of the Admiralty Jurisdiction Regulation Act 105 of 1983 (the "Act") on 3 November 1998. Upon attempting to secure the release of the arrested vessel with letters of undertaking from a Protection and Indemnity club (Skuld), the appellants found that due to procedural delay, their attorneys could not provide the necessary authority in time ([3]). Consequently, Nicholson J sanctioned the acceptance of these letters as security, and the vessel was released ([3]).
+
+Following the release, the respondents sought to set aside the arrest, arguing the vessel was not an associated ship under the Act. Hurt J found against the appellants, ruling that they had failed to demonstrate the necessary association, and set aside the arrest order without returning the guarantees provided. However, this ruling was appealed by the appellants to reverse the order that set aside the arrest ([4]).
+
+### I – Issues
+
+The core legal issues arise from the interpretation and implications of security provided under the Admiralty Jurisdiction Regulation Act. The appellants challenged:
+
+1. Whether the arrest order had lapsed upon the release of the vessel, claiming the order could not be set aside if no extant arrest order existed ([7]–[8]).
+2. The applicability of section 3(10)(1)(a) of the Act, which deals with deemed arrest, to the security arrest conducted under section 5(3)(a) ([10]).
+
+Further, there were factual disputes regarding the ownership of the vessels at the relevant time and whether they constituted "associated ships" as required under section 3(7)(a)(iii) of the Act ([17]). 
+
+### R – Rules
+
+The relevant legislative provisions are found in the Admiralty Jurisdiction Regulation Act 105 of 1983, particularly sections 5(3) and 3(10)(1)(a). Section 5(3) addresses the arrest of ships for security in maritime claims and stipulates conditions under which such arrest can be deemed to occur ([9]). Notably, section 3(10)(1)(a) provides for a "deemed arrest" upon the acceptance of security for released property, ensuring that the original arrest continues in a legal sense, even after release ([10]).
+
+Legal precedents assert that for properties to be deemed arrested under section 3(10)(1), they must either be physically under the jurisdiction of the court or secured in a manner that maintains equitable principles, suggesting that extra-curial agreements may not maintain the same legal doctrine unless specifically provided for ([10]–[12]).
+
+### A – Application
+
+The court analyzed whether the "deemed arrest" provision applied in this situation, noting that while the Skuld letters served as security, they did not offer the same legal standing as security that would be lodged with the court ([11]). By examining the interplay between sections 3(10)(1)(a)(i) and 5(3)(a), the court ultimately concluded that the Appellants were right to contend that the arrest order remained valid through the doctrine of deemed arrest, despite having accepted private security ([12]).
+
+However, the court agreed with the judgment below that the appellants failed to prove the vessels were "associated ships" within the meaning of the Act, as the second respondent was not the owner at the relevant time of the maritime claims ([17]–[19]). The ongoing ownership disputes, particularly the controversy surrounding the timing of delivery and ownership transfer, exacerbated the decision-making process, with the court ultimately deferring to the factual determinations made by Hurt J, which remained unchallenged on appeal ([20]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal with costs, including the costs of two counsel and the application for leave to appeal ([15]). The court confirmed that, in effect, the arrest order did not lapse with the release of the vessel. The ruling further reinforced the legal principle that deemed arrest provisions are applicable under the circumstances outlined in the Act, ensuring continuity of legal claims even when property is released, provided that there have been no lapses in the payment or security protocols.
+
+This case illustrates the complexities arising from the intersection of contract law, maritime law, and the necessity for clear statutory interpretation to prevent injustice in maritime transactions where jurisdictional issues can significantly affect the outcome. 
+
+---
+
+**References:**
+- Admiralty Jurisdiction Regulation Act 105 of 1983
+- The Christiansborg [1885] 10 PD 141 (CA)
+- MV Jute Express v Owners of the Cargo Lately Laden on Board the MV Jute Express 1992 (3) SA 9 (A)
+- Cargo Laden and Lately Laden on Board the MV Thalassini Avgi v MV Dimitris 1989 (3) SA 820 (A)
+- Schlesinger v Commissioner for Inland Revenue 1964 (3) SA 389 (A)
+- Bocimar NV v Kotor Overseas Shipping Ltd 1994 (2) SA 563 (A)

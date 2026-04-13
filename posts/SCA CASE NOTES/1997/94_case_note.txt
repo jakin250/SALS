@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 1997
+
+# FIRAC Case Note: Standard Bank of South Africa Ltd v Oneanate Investments (Pty) Ltd (in liquidation) [1997] ZASCA 113
+
+**F – Facts**: [paras 2–5]
+
+In this case, Standard Bank of South Africa Ltd (Appellant/Bank) initiated litigation against Oneanate Investments (Pty) Ltd (Respondent/Oneanate) based on a claim for an overdue overdraft. The initial claim arose from an outstanding balance amounting to R1,011,010.65, plus interest and costs. The Bank contended that Oneanate acknowledged its debt and agreed to settle the overdraft during March 1989. Oneanate countered the claim with several defences, asserting partial repayment, the prescription of certain debts, and a claim in reconvention for interest payments based on a disputed debit entry related to a third-party account.
+
+The court of first instance, presided over by Selikowitz J, ruled in favor of the Bank regarding the reversal of the credit entry. However, it found in favor of Oneanate concerning aspects like the March 1990 agreement, the prescription of certain amounts, the bank's capitalisation practices, and the application of the in duplum rule. Following procedural directives, parties ultimately failed to agree on the amount owed, leading to a final judgment directing Oneanate to pay R388,569.46, along with interest and a specific portion of the Bank’s costs. This prompted the Bank's appeal and Oneanate's cross-appeal concerning differing aspects of the lower court’s ruling.
+
+**I – Issues**: [paras 4–5]
+
+The case presents several pivotal legal issues:
+
+1. **Reversal of Credit Entry**: Whether the Bank was entitled to reverse a credit entry that led to Oneanate's alleged discharge of liability.
+2. **Prescription**: Whether the debts claimed by the Bank had prescribed, and the implications of the prescription on the claims made post the initial summons.
+3. **Capitalisation of Interest**: The legality and implications of the Bank's interest capitalisation practice, especially concerning the in duplum rule.
+4. **Appropriation of Payments**: The appropriate method of allocating payments made by Oneanate toward its debt owing to the Bank.
+
+**R – Rules**: [paras 10–11, 31, 35, 37]
+
+The Supreme Court relied heavily on principles derived from established case law and statutory frameworks:
+
+- **Condictio**: A legal remedy available for recovery of amounts paid under a mistaken belief ([paras 10–11]). The Bank asserted that the reversal of the debit was justified as correcting an error.
+- **In Duplum Rule**: Under South African law, this rule stipulates that interest ceases to run once it equals the capital amount due, capping the lender’s recovery ([paras 31, 35]).
+- **Prescription Act 68 of 1969**: This governs the prescription of debts, outlining periods within which claims must be filed to avoid being barred ([paras 31–35]).
+- **Clayton's Rule**: This legal principle pertains to the appropriation of payments, dictating that in the absence of instructions to the contrary, payments should be allocated first to interest and then to capital ([paras 37]).
+
+**A – Application**: [paras 22–32, 50–54]
+
+The Court navigated through the factual complexities of the case, particularly the questionable instruction that led to the crediting of Oneanate’s account. The analysis centred on whether the Bank had the right to reverse the credit entry due to a mistaken belief regarding its authority, ultimately ruling that there was no valid transfer of funds from Oneanate's perspective. As a result, the initial credit amount did not discharge Oneanate's liability to the Bank, justifying the Bank’s reverse debit entry.
+
+Moreover, the application of the in duplum rule was examined extensively, noting its relevance and the interplay with the Bank's practice of interest capitalisation. The prevailing view rejected the Bank's argument that capitalised interest ceases to be characterized as interest, affirming that banking practice must conform with established legal principles ([paras 31, 35, 37]). Consequently, payments received during litigation should be appropriated first toward interest rather than principal, allowing for appropriate protection under the in duplum rule, effectively capping the total recoverable interest.
+
+Regarding prescription, the court determined that the initiation of the action through the summons effectively interrupted the prescription period, thus preventing the Bank's claims from being deemed prescribed.
+
+**C – Conclusion**: [paras 53–54]
+
+The Supreme Court of Appeal (SCA) ruled in favor of Standard Bank, allowing the appeal and setting aside the lower court's ruling to the extent it had disallowed parts of the Bank's claim. The SCA emphasized that Oneanate’s contestation regarding the reversibility of the debit entry failed due to insufficient proof of authorization for the initial crediting of funds to its account. Ultimately, the judgment confirmed the Bank's right to reverse the erroneous credit and clarified the operational treatment of interest within overdraft agreements in light of the in duplum rule. This ruling established important implications for banking practices, particularly concerning the management of overdrafts and the approach to appropriation of payments in relation to prescribed debts. The Court ordered Oneanate to repay the revised debt of R987,762.03, plus applicable interest, establishing a precedent for how similar cases would be adjudicated concerning banking practices in South Africa.

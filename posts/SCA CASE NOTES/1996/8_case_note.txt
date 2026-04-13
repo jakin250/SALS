@@ -1,0 +1,39 @@
+Case Note: IN THE SUPREME COURT OF SOUTH AFRICA
+Source Folder: 1996
+
+# Case Note: Kursan and Another v Eastern Province Building Society [1996] ZASCA 55
+
+## **FIRAC Method Analysis**
+
+### **F - Facts** ([paras 2–4])
+This case concerns an appeal by Sharon Lynn Kursan and David Sheldon Horwitz (the appellants), acting as second bondholders of properties owned by Valab (Pty) Ltd, now in liquidation. The Eastern Province Building Society (the Society) holds a first mortgage bond over these properties and asserts that they are entitled to full security for both the capital and the interest of the loan under the bond. The core contention revolves around the interpretation of the bond, specifically whether a limitation imposed in the bond applies to interest as well as capital.
+
+The Society contends that its right to recover interest extends fully, while the appellants argue that, due to the stated limit in the bond, they should recover proceeds that exceed this limit. The Eastern Cape Division ruled in favor of the Society, prompting the appeal to the Supreme Court ([para 4]).
+
+### **I - Issues** ([paras 2–3])
+The primary legal issue in this case is the construction of the bond to determine if the cap stated in Clause 2 of the bond applies to interest as well as to the capital sum and certain expenses. Specifically, the issues include:
+1. **Does the limitation of the bond extend to interest, despite it being addressed separately in another clause?**
+2. **What is the truest reading of the bond, and how does it align with the provisions of the Deeds Registries Act 47 of 1937?**
+
+### **R - Rules** ([paras 9–10])
+The key legal rules applicable to this case involve both the interpretation of contractual clauses and statutory provisions related to mortgages. 
+
+1. **Interpreting Mortgages**: The general principle governing the interpretation of contractual documents is that the intentions of the parties must be derived from the wording of the document itself ([para 3]). 
+
+2. **Deeds Registries Act 47 of 1937 (s 51)**: This statute requires that future debts secured by a bond must have a ceiling explicitly stated to hold preference over future debts incurred after bond registration. The Act specifies that, unless a maximum amount is defined, such debts will not be secured ([para 10]).
+
+3. **Judicial Interpretations**: Reference case law illustrates how courts have historically dealt with matters of interest in secured transactions. For instance, the courts have consistently ruled that where a contract provides for the securing of interest, such provisions must be clear to ensure enforceability ([para 9]).
+
+### **A - Application** ([paras 10–14])
+The court's analysis revolved around a few critical clauses of the bond and the statutory requirements under the Deeds Registries Act. The appellants relied on Clause 2 of the bond which refers to "the aggregate amount of the Capital and the additional sum" to advocate for a limitation on interest arising under the bond.
+
+- **Interpretation of Clause 2**: The court noted that the wording in Clause 2 concerning the aggregate amounts implies a limitation on secure amounts; however, it also recognized that the mention of future debts mandates clarity on what those debts encompass. The expansive definitions in Clause 2 lead to a natural conclusion: the limitation likely does not affect the securing of interest ([paras 10–12]).
+  
+- **Contextual Reading**: The court determined that Clause 3, which expressly states that "any interest due in terms hereof shall be secured under this Bond," supported the Society's interpretation that interest should not be included in the ceiling on secured amounts. The need for specific inclusion appeared as a protective measure rather than a limiting factor ([para 13]).
+
+- **Assessing the Intent**: The court also considered the drafting context of the bond, noting its historical revisions aimed at maximizing the Society's security. The intent behind including various provisions pointed towards protecting the entirety of the Society's financial interests, rather than placing arbitrary limitations ([para 14]).
+
+### **C - Conclusion** ([paras 14–14])
+The Supreme Court upheld the decision of the Eastern Cape Division, affirming that the limitation imposed by Clause 2 of the bond does not extend to the securing of interest. Consequently, the Society is entitled to recover full interest alongside the capital. The ruling illustrates a focused interpretation of contractual terms against the backdrop of statutory provisions regarding mortgage debts, emphasizing the need for clarity in drafting security agreements.
+
+The appeal was dismissed with costs, indicating the court's firm stance on interpretations favoring the creditor in cases of ambiguous contractual language ([para 14]). The implications of this ruling underscore the importance of careful drafting in financial agreements to ensure that all parties' expectations align with legal standards.

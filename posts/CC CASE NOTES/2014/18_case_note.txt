@@ -1,0 +1,54 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: **Minister of Defence and Military Veterans v Motau and Others ([2014] ZACC 18)**
+
+## F – Facts
+
+The case arises from the decision of the Minister of Defence and Military Veterans (the Minister) to terminate the membership of General Maomela Motau and Refiloe Mokoena from the Board of Directors (the Board) of the Armaments Corporation of South Africa (SOC) Limited (Armscor) ([3]–[5]). The Minister acted under section 8(c) of the Armaments Corporation of South Africa Limited Act 51 of 2003 (the Armscor Act), which allows a Board member to be removed by the Minister “on good cause shown” ([4], [8]).
+
+The Minister took office on 12 June 2012 amidst a conflict over Motau’s previous dismissal attempts by the Minister’s predecessor ([5]). Upon her appointment, she established a committee to resolve the confusion regarding Motau’s position ([6]). Following several meetings where neither Motau nor Mokoena attended, the Minister expressed her dissatisfaction with the Board’s operations through a letter ([7]). On 8 August 2013, she terminated both members’ services, citing ineffective decision-making as a primary concern ([8], [9]).
+
+Motau and Mokoena subsequently sought urgent relief from the North Gauteng High Court, arguing that the Minister's decision was unlawful and unconstitutional. Their primary opposition was the absence of procedural fairness since no hearing was provided before their termination ([17]). 
+
+In her defense, the Minister contended that her actions were executive, not administrative, and thus weren't bound by the Promotion of Administrative Justice Act 3 of 2000 (PAJA). However, the High Court found against the Minister, concluding that the decision constituted administrative action requiring procedural fairness, which had not been provided ([19]).
+
+## I – Issues
+
+1. **Classification of Action**: Did the Minister's decision to dismiss Motau and Mokoena constitute administrative or executive action ([25(a)])?
+2. **Good Cause**: Has the Minister demonstrated good cause for terminating the services of Motau and Mokoena in compliance with section 8(c) of the Armscor Act ([25(b)])?
+3. **Procedural Constraints**: Was the Minister required to comply with the procedural requirements under section 71 of the Companies Act 71 of 2008 in exercising her dismissal power ([25(c)])?
+
+## R – Rules
+
+1. **Legal Framework**: 
+   - **Armscor Act**: Section 8(c) allows for Board member dismissal “on good cause shown” ([8]).
+   - **Promotion of Administrative Justice Act (PAJA)**: Defines administrative action and ensures lawful, reasonable, and procedurally fair administration ([18], [33]).
+   - **Companies Act**: Section 71 mandates procedures for dismissing directors, including notice and opportunity to present their case ([73]).
+
+2. **Case Precedents**:
+   - The distinction between administrative and executive action has been explored in cases such as *South African Rugby Football Union v President of the Republic of South Africa* ([1999] ZACC 11) where the functions exercised determine the standard of review applied ([28], [39]).
+   - The standard of rationality applies to executive actions as established in *Democratic Alliance v President of the Republic of South Africa* ([2012] ZACC 24) ([69]).
+
+## A – Application
+
+### 1. **Classification of Action**
+The court determined that the Minister’s action was executive in nature based on three considerations:
+- The dismissal power was linked to her policy-making responsibilities regarding defence procurement ([47]).
+- It was not a bureaucratic application of policy but rather a high-level authoritative function ([49]).
+- The requirement of “good cause” did not indicate adherence to administrative governance standards ([50]).
+
+Despite these arguments, the nature of the dismissal—effectively implementing the Armscor Act—suggested administrative action. The court highlighted that implementing legislation typically comprises administrative acts unless explicitly qualified otherwise by the constitutive legislation ([51]).
+
+### 2. **Good Cause**
+The Minister argued that observed failures in Armscor’s procurement capacity amounted to good cause for dismissal ([52],[56]). However, the opposition claimed that the cited failures were collective responsibilities of the entire Board, thus contesting the justification for targeting only Motau and Mokoena for dismissal ([63]). The court acknowledged the Minister's concerns regarding operational deficiencies, but emphasized that good cause requirements did not justify singling out individual members without demonstrable individual accountability for decisions ([62],[68]).
+
+### 3. **Procedural Constraints**
+The critical aspect of the case arose from the interaction between the Armscor Act and section 71 of the Companies Act. The court emphasized that the powers under the Armscor Act must be read in conjunction with procedural standards set forth in the Companies Act, which were not followed in this case ([73]–[78]). The Minister failed to provide notice or an opportunity for representation, thus breaching the fair process rights of Motau and Mokoena, leading to the conclusion that the Minister’s actions were unlawful ([80]).
+
+## C – Conclusion
+
+The Constitutional Court upheld the appeal partially, affirming that the Minister acted unlawfully by failing to comply with the prescribed procedure in the Companies Act while also recognizing her justification based on operational failures at Armscor. While the Minister's dismissal of Motau and Mokoena was operationally rational considering Armscor’s performance issues, the absence of procedural fairness necessitated a declaration of unlawfulness rather than a complete overturn of the Minister’s decision to terminate their membership. The final order effectively validated the rationale behind the Minister's initiative while ensuring compliance with necessary procedural frameworks ([94]).
+
+### Implications
+The ruling provides robust guidance on the interplay between administrative action and executive decisions, emphasizing the importance of procedural fairness in decisions affecting individual rights within the framework of an executive body's governance. Furthermore, it stresses the obligations of state officials to adhere to established legal standards, enhancing accountability in public administration.

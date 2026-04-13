@@ -1,0 +1,25 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note: Siltek Holdings (Pty) Ltd v Business Connexion Solutions (Pty) Ltd [2008] ZASCA 136
+
+### Facts
+The case arises from an appeal against a decision by the Pretoria High Court, wherein the appellant (Siltek Holdings, in liquidation) sought payment from the respondent (Business Connexion Solutions) for goods delivered worth R436,430.97, with the payment due in 30 days from delivery ([1]–[3]). The respondent countered the claim by asserting that the debt owed to the appellant was extinguished by set-off owing to a commission owed to them that was due and payable prior to liquidation ([4]).
+
+The liquidation order for the appellant was issued on 16 October 2001, before the 30-day period for payment elapsed. The legal question presented involved whether the respondent's claim for set-off could be applied when the appellant's debt had not yet matured at the time of liquidation ([3]–[5]).
+
+A stated case provided the backdrop for this determination, seeking clarification on the conditions under which set-off could operate between debts where one was due but not payable ([2]). The appellants successfully claimed the owed amount in their appeal following the lower court's dismissal of their claim, specifically focusing on the legal framework surrounding set-off.
+
+### Issues
+The primary legal issue in the case was whether a liquidator's claim could be extinguished through set-off when the claim was not yet payable at the time the liquidation occurred ([5]). This prompted the need to clarify the legal requirements for set-off under South African law, particularly the necessary conditions of mutuality and the maturation of debts ([7], [8]).
+
+### Rules
+In South African law, the doctrine of set-off requires that both parties must owe each other liquidated and payable debts for set-off to apply ([6]). This is documented in case law, with the principles articulated in *Schierhout v Union Government* and applied in subsequent cases like *Thorne v Government* highlighting that mutuality must exist at the time the concursus creditorum is established—which was not the case here as the appellant's debt had not become payable prior to liquidation ([6], [8], [9]).
+
+### Application
+The court determined that the arguments made by the respondent in favor of set-off lacked merit based on the established legal principles. The respondent's claim for set-off was first raised in their plea, post-liquidation, leading the court to analyze whether mutuality existed when both debts were due and payable prior to the liquidation order. It ruled that the appellant's debt was only due after the liquidation had commenced, negating the applicability of set-off at that stage as outlined by Margo J in *Thorne* where it was established that compensation could not occur after a concursus creditorum was established ([8], [9]).
+
+The court further reasoned that even assuming a scenario where one party could set off a payable debt against one that was not yet due, such a claim would not retroactively create mutuality in the context of liquidation. Therefore, the respondent's argument that they should not be deprived of their right to set-off was rejected, aligning with the precedent that both debts must be enforceable at the point of the concursus creditorum, which was not met in this case ([10], [11]).
+
+### Conclusion
+Ultimately, the Supreme Court of Appeal upheld the appeal, ruling that the liquidation of the appellant preempted the application of set-off as the respondent's counter-debt was not due at the time of liquidation ([13]). The prior ruling was set aside, and the respondent was ordered to pay the full amount claimed by the appellant, reflective of the principles governing set-off in South African insolvency law. This case clarified the strict requirements for set-off, affirming the necessity of mutuality and the current state of debts at the time liquidation is established ([12], [13]). The decision illustrates the balancing act between creditor rights and the operational framework of liquidation, emphasizing the non-facilitative nature of set-off in debtor insolvency contexts.

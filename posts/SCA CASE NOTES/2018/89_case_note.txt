@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: CSARS v Char-Trade 117 CC t/a Ace Packaging [2018] ZASCA 89
+
+## FIRAC Method
+
+### F – Facts
+This appeal arises from a tax assessment issued by the South African Revenue Service (CSARS) for secondary tax on companies (STC) concerning the dividend cycle for the year ending February 27, 2007 ([para 1]). The appellant, CSARS, contended that Char-Trade 117 CC (the respondent) had failed to submit a return for STC, leading to a tax liability of R4,653,870.20, which included R1,812,609.00 for the 2007 cycle ([para 4]). 
+
+Char-Trade had made various loans to related companies without charging interest or below the official rate, leading CSARS to treat these loans as deemed dividends, subjecting them to STC. Following the audit, CSARS issued the assessments on November 9, 2012, after allowing Char-Trade's Notice of Objection and subsequently disallowing it on January 18, 2013. An appeal was lodged by Char-Trade citing these assessments ([paras 5–6]). 
+
+Char-Trade contended that the 2007 STC assessment had become prescribed under section 99 of the Tax Administration Act (TAA), arguing that the prescription period began on March 31, 2007, when it claimed the STC return was due ([paras 11–12]). 
+
+### I – Issues
+The main legal issue is whether the assessment for STC for the dividend cycle ending in February 2007 had become prescribed under section 99 of the TAA. Specifically, the question concerns when the five-year prescription period commenced and whether it could run against CSARS given that Char-Trade failed to submit its STC return ([paras 1, 10, 25]).
+
+### R – Rules
+The relevant legal provisions include:
+- **Section 64B and 64C of the Income Tax Act 58 of 1962 (ITA)**: Governs the imposition of STC, defining aspects such as ‘deemed dividends.’
+- **Section 99 of the Tax Administration Act 28 of 2011 (TAA)**: Establishes the prescription period for raising assessments, stating that it starts five years after the date of assessment of an original assessment, contingent on the submission of a return by the taxpayer.
+- **Definition of ‘date of assessment’**: Under section 1 of the TAA, it specifies that the date commences when a return is submitted ([paras 21–22]).
+
+### A – Application
+The court analyzed whether Char-Trade had submitted a required STC return. It concluded that because no such return was submitted, the five-year prescription period could not commence. The Tax Court initially found that the obligation to submit a return was triggered by the end of the dividend cycle, coinciding with the year-end date of Char-Trade ([para 11]). 
+
+However, the Supreme Court of Appeal rejected this perspective, framing the submission of the return as the starting point for the prescription period. Since Char-Trade did not file the return for STC, there was no 'original assessment' from which the prescription period could derive. Therefore, the court ruled that the prescription had never started, contravening the finding of the lower court ([paras 20–25]).
+
+### C – Conclusion
+The Supreme Court upheld the appeal, stating that the assessment for 2007 had not prescribed as prescription did not commence due to Char-Trade’s failure to submit the required STC return. The court reiterated that prescription rests on jurisdictional facts displaying the timeliness of proceedings initiated by an assessment ([para 25]). Consequently, the court set aside the previous order and confirmed the initial assessment against Char-Trade, ordering the respondent to pay the costs of the appeal ([paras 26]).
+
+The case underscores the obligation of taxpayers to comply with return submissions for prescribed timelines, a critical facet of tax administration, reinforcing the notion that non-compliance negates any potential claim of prescription against revenue authorities.

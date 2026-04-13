@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# Case Note: Competition Commission v Telkom SA Ltd [2009] ZASCA 155
+
+### FIRAC Analysis
+
+## F – Facts
+The case revolves around an appeal by the Competition Commission of South Africa against a ruling by the Pretoria High Court that set aside the Commission’s decision to refer a complaint against Telkom SA Ltd to the Competition Tribunal. The complaint, originally filed on February 23, 2009, alleged that Telkom violated sections 8 and 9 of the Competition Act 89 of 1998 by engaging in anti-competitive conduct ([1]).
+
+The background of the case stems from a series of complaints lodged between May 2002 and August 2002 by various associations representing value-added network service providers against Telkom. Following investigations, the Commission recommended referral of the consolidated complaints to the Tribunal on February 11, 2004. The complaints involved issues such as excessive pricing, refusal by Telkom to lease network facilities, and discriminatory practices against its competitors ([2–3]).
+
+Telkom's response was to launch a High Court application to set aside the referral, arguing that it was time-barred under section 50 of the Competition Act, as it did not obtain the consent of all complainants for an extension to the time limit set in the Act. Further, it asserted that the Commission exhibited bias in its proceedings, thus invalidating the referral. The High Court ruled in favor of Telkom, holding that the Commission acted beyond its powers ([3–4]).
+
+## I – Issues
+The primary legal issues before the Supreme Court of Appeal (SCA) included:
+
+1. **Jurisdiction and Powers**: Whether the Competition Commission had the jurisdiction to refer the complaint against Telkom to the Competition Tribunal, particularly given claims that the conduct was authorized by the Telecommunications Act.
+2. **Bias**: The legality of the High Court's finding that the Commission acted with bias in its decision-making process.
+3. **Time-Bar**: Whether the complaint referral was valid despite claims of being outside the prescribed time limits per section 50 of the Competition Act and the necessity of obtaining consent from all complainants for extensions ([3, 22–23]).
+
+## R – Rules
+The relevant legal framework includes:
+
+1. **Competition Act 89 of 1998**: Sections 3(1A), 8, 9, and 50 address the jurisdiction, conduct prohibited in anti-competitive practices, and the complaint referral mechanism.
+2. **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**: The principles concerning the standard of administrative action, although determined not applicable in this case.
+3. **Legal Precedents**: The SCA relied on previous judgments, including *Simelane NO v Seven-Eleven Corporation SA (Pty) Ltd* and *Grey’s Marine Hout Bay (Pty) Ltd v Minister of Public Works*, regarding the definitions and requirements of bias and administrative action ([9–10, 13]).
+
+## A – Application
+The SCA critically analyzed the High Court's finding on the basis of bias, noting that while the Commission must act impartially, the mere association or prior opinions of experts relied upon by the Commission did not automatically lead to a reasonable apprehension of bias. The court held that the Commission's reliance on the Link Centre's report, while it may have shown potential conflict, did not disqualify the Commission from proceeding with the complaint ([13–16]).
+
+On the issue of jurisdiction, the SCA found that the repeal of previous sections enabled concurrent jurisdiction, concluding that the Competition Commission retained power to refer the complaint, stemming from the specific provisions in the Competition Act, which apply to all economic activity in South Africa ([27–30]).
+
+The determination on the time-bar was equally decisive, revealing that the Commission’s interpretation allowing individual complainants to extend the timeframe for the referral was appropriate and aligned with legislative intent, emphasizing that requiring consent from all complainants for an extension would be counterproductive ([22, 24–25]).
+
+## C – Conclusion
+The SCA upheld the appeal by the Competition Commission and overturned the High Court’s ruling, confirming that the referral of the complaint to the Tribunal was valid and within the Commission's jurisdiction. The court found that allegations of bias were unsubstantiated and concluded that procedural compliance regarding timelines had been met. The ruling clarifies the interplay of concurrent jurisdiction between regulatory bodies and underscores the importance of adherence to competition law in the telecommunications industry. The court ultimately set aside the lower court's order and dismissed Telkom's cross-appeal ([40]). 
+
+As a result, the outcome reinforced the Competition Commission's mandate to investigate and refer anti-competitive conduct in line with public interest and competition principles, laying the groundwork for significant implications in the telecommunications sector and beyond in South Africa.

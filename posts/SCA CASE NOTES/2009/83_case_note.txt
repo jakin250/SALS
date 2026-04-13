@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note for Absa Brokers v RMB Financial Services and Others (332/08) [2009] ZASCA 83
+
+## F – Facts ([1–2])
+The case involves an appeal by Absa Brokers (Pty) Ltd ("the appellant") against an order of the High Court in Pretoria that upheld an exception raised by the four respondents, which included RMB Financial Services, RMB Asset Management (Pty) Ltd, Momentum Distribution Services, and Momentum Group Ltd. The factual backdrop is a claim brought by the Claasen Family Trust ("the Trust") against the appellant for damages following a failed investment.
+
+The Trust alleged that the appellant's representative misled them into investing R1,020,000 in an RMB investment product, which was falsely marketed as a guaranteed return. Upon discovering that the capital was at risk, the Trust claimed damages and subsequently settled with the appellant for R585,686.56 ([1]).
+
+The appellant then initiated action against the respondents, claiming they were joint wrongdoers and seeking to recover contributions for the damages paid to the Trust. The appellant asserted that the first and second respondents had designed the investment product, while the third and fourth respondents were involved in its promotion. The respondents filed an exception, contending that the particulars of claim failed to disclose a cause of action, leading to the appeal before the Supreme Court of Appeal ([2]).
+
+## I – Issues ([4–7])
+The primary issue at stake is whether the appellant was required to provide notice under section 2(2) of the Apportionment of Damages Act 34 of 1956 ("the Act"), or to obtain the court's leave under section 2(4) before initiating action against the respondents as joint wrongdoers. The appeal raises questions regarding the interpretation of section 2, particularly whether a party must be alleged as a joint wrongdoer in the original action for the plaintiffs' subsequent ability to seek contribution ([4]).
+
+## R – Rules ([4–6])
+The relevant legal provisions are found within the Apportionment of Damages Act, specifically:
+
+1. **Section 2(1)**: This provision establishes that joint wrongdoers may be sued in the same action where they are allegedly liable for the same damage to a third party (the plaintiff).
+2. **Section 2(2)**: Requires that notice must be given by either the plaintiff or any defendant to non-sued joint wrongdoers, allowing them the opportunity to intervene in the proceedings.
+3. **Section 2(4)**: Outlines the consequences of failure to provide notice, stating that a plaintiff must seek the court’s leave to sue any joint wrongdoer not notified in the original action.
+4. **Sections 2(12) and 2(6)**: Provide for a mechanism whereby a joint wrongdoer who pays damages can seek recovery from another joint wrongdoer ([6]).
+
+## A – Application ([8–17])
+The Court began its analysis by examining the appellant’s argument, which contended that it was not obliged to notify the respondents because the Trust’s action did not allege the respondents as joint wrongdoers. The appellant relied on the interpretation provided in *Becker v Kellerman* [1971] (2) SA 172 (T), arguing that the term "where it is alleged" in section 2(1) means that liability must be explicitly claimed in that initial action ([9–11]).
+
+However, the Court found that the reasoning in *Becker v Kellerman* placed undue significance on the word "alleged," suggesting that the phrase serves strictly as a procedural guide rather than a substantive presumption of joint liability ([12–14]). The Court also highlighted the purpose of the Act to avoid multiplicity of actions, thus requiring that any claim for contribution among joint wrongdoers should be properly notified to avoid prejudice ([15–16]).
+
+The Court ultimately rejected the appellant’s reliance on *Becker*, holding that the failure to notify the respondents rendered the appellant's claim untenable without the required leave from the court under section 2(4) ([17]). Consequently, the exception raised by the respondents was upheld, confirming that the appellant could not pursue its action without fulfilling these statutory requirements.
+
+## C – Conclusion ([18–19])
+The Supreme Court of Appeal dismissed the appeal while allowing for an amendment of the appellant's particulars of claim, emphasizing that it should have an opportunity to rectify the procedural defect ([19]). The ruling reaffirmed the statutory framework established under the Apportionment of Damages Act, clarifying that for claims of contribution to proceed, proper notices must be given, ensuring all parties that may bear liability are included early in the litigation process. This ruling serves to guide future actions concerning joint wrongdoers, setting a precedent for adherence to procedural requirements within the legislative framework, thus preserving judicial efficiency and procedural fairness.

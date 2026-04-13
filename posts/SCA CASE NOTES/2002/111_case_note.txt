@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# FIRAC Case Note: ABSA Bank Limited v Judy Ann Fouche
+
+## F – Facts
+
+The case concerns a dispute between ABSA Bank Limited (the appellant) and Judy Ann Fouche (the respondent) regarding the security of a safety deposit box rental agreement signed on 31 August 1986 ([1]). The contract explicitly stated that the bank was not liable for any loss or damage to the contents of the safety deposit box, irrespective of the cause ([1]). For eight years, Fouche experienced no issues until a significant burglary at the bank occurred in February 1995, where valuables from multiple safety deposit boxes, including Fouche's jewelry, were stolen ([2]).
+
+Initially, the court a quo (De Vos J) found the bank liable in contract, citing the bank's non-disclosure of material facts about its security arrangements as potentially constituting fraudulent misrepresentation. However, by the time the matter was appealed, Fouche accepted that she had no contractual claim due to the exemption clause ([3]). The appeal revolved around the alternative finding by the court a quo related to the issues of negligence and non-disclosure ([3]).
+
+## I – Issues
+
+The key legal questions before the Supreme Court of Appeal were:
+1. Did the bank have a duty to disclose information regarding its security measures that could affect Fouche's decision to rent the safety deposit box?
+2. Was there actionable negligence or fraudulent misrepresentation on the part of the bank concerning its non-disclosure of security arrangements ([3], [4])?
+
+## R – Rules
+
+The court relied upon established legal principles surrounding wrongfulness and non-disclosure. It noted that the benchmark for determining wrongfulness in a non-contractual non-disclosure context adheres to community legal convictions ([4]). The pivotal test for establishing liability was whether an “honest person” would have voluntarily disclosed such information, specifically regarding security provisions ([5]). 
+
+It was cumulatively noted that a duty arises when:
+- The information at stake lies within the exclusive knowledge of the defendant, thereby creating reliance on that knowledge by the plaintiff.
+- The omitted facts or circumstances in adherence to policy considerations necessitate disclosure ([6]).
+
+The court also acknowledged precedents, specifically the *Bayer South Africa (Pty) Ltd v Frost* case, regarding negligent misrepresentation as a basis for delictual liability ([2]).
+
+## A – Application
+
+The court applied the above rules to assess the appellant's liability. Initially, it assumed that the security information—regarding the absence of a guard or alarm—might fall within the exclusive knowledge of the branch officials ([7]). However, it hesitated to classify this knowledge as inaccessible since it was reasonably ascertainable ([8]).
+
+It also considered the contextual situation where an honest person, assessing the risk of theft given the nature of the bank and its security arrangements, would not likely regard the absence of the aforementioned security measures as material enough to warrant disclosure ([10], [11]). 
+
+Key determinations included:
+- The assessment of the seriousness of the possible risks based on the prevailing state of bank security at the time (1986) and Fouche's history of using the service without prior concern ([12], [21]).
+- The reasonable actions an honest bank employee would take, concluding that the security arrangements were adequate for the perceived level of threat at that time ([15], [19]).
+- A consideration of Fouche's own conduct during her eight years of using the service, as she did not express prior concerns that would have indicated to the officials her perception of inadequacy ([21]).
+
+Ultimately, the court concluded that the bank officials had no duty to disclose the absence of specific security arrangements. Thus, it found:
+1. The security system, albeit not robust by later standards, was sufficient for the assessed risk at that period.
+2. Fouche's own risk assessment and understanding were pivotal, as she consciously accepted the contract's terms.
+
+## C – Conclusion
+
+The Supreme Court of Appeal upheld ABSA Bank’s appeal, finding that the bank was not liable for Fouche's loss. The court’s findings established a crucial precedent regarding the limits of a bank's liability for the non-disclosure of certain security features when reasonable measures are in place and when contractual terms explicitly limit liability. This judgment underscores the need for customers to engage proactively with the terms of contracts involving liability and risk, emphasizing shared responsibility in contractual relationships ([1], [22]). As such, the implications of this case highlight the courts' reliance on community legal standards in assessing issues of disclosure and liability in banking contracts, as well as confirming that the mere presence of an exemption clause can serve to limit liability under clearly articulated circumstances.

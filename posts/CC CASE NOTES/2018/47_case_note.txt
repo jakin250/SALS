@@ -1,0 +1,38 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: Amardien and Others v Registrar of Deeds and Others [2018] ZACC 47
+
+## F – Facts:
+The matter centers around twelve applicants, all beneficiaries of state-subsidized housing who entered into instalment sale agreements with the Cape Town Community Housing Company (Pty) Limited between December 2000 and February 2001. These agreements required recordal with the Registrar of Deeds, which was mandated by both the **Alienation of Land Act 68 of 1981** (ALA) and the agreement itself ([para 3-10]).
+
+Upon moving into their homes, the applicants discovered significant quality issues, leading to varying levels of irregular payment of their instalments ([para 11-12]). The fifth respondent, a community housing provider, delayed recording the agreements until April 2014—over ten years after their initiation ([para 13]). Consequently, the company issued notices under section 129(1) of the **National Credit Act 34 of 2005** (NCA) to the applicants, detailing their arrears and warning of potential cancellation of the agreements if defaults were not remedied ([para 14]). Following the issuance of these notices, the fifth respondent sold the properties to a trust in June 2014, before having formally cancelled the sale agreements ([paras 15-16]).
+
+The High Court dismissed the applicants' request to declare the cancellation of the agreements unlawful, prompting them to appeal ([paras 18-19]).
+
+## I – Issues:
+1. What is the legal effect of a late recordal of an instalment sale agreement on the responsibilities of both seller and purchaser under the ALA?
+2. Is a notice under section 129 of the NCA required to specify the amount owed by the debtor?
+3. Should leave to appeal be granted given the constitutional implications and importance of the legal questions raised? ([para 27]).
+
+## R – Rules:
+The court evaluated key provisions of both the ALA and NCA:
+
+- **Alienation of Land Act 68 of 1981:**
+   - **Section 20** establishes the obligation to record contracts.
+   - **Section 26** prohibits a seller from receiving payment until the contract is recorded.
+
+- **National Credit Act 34 of 2005:**
+   - **Section 129(1)** requires the credit provider to inform the consumer of the default in writing, allowing a reasonable time to remedy the default before legal proceedings can commence ([paras 10, 21, 43]).
+
+The court also relied on precedents such as **Kubyana v Standard Bank of South Africa Ltd** and **Nkata v FirstRand Bank of South Africa Limited**, which underscored the necessity for responsible consumer credit management and explicit obligations of credit providers to inform consumers about defaults ([para 28]).
+
+## A – Application:
+In analyzing the impact of the late recordal under the ALA, the court concluded that while the agreements were technically unrecorded and therefore not enforceable for payment, the obligations of the applicants did not become due until the recordal occurred. The delay in recordal negated the argument that the applicants were in default, leading the court to invalidate the cancellations made by the fifth respondent ([paras 41-46]).
+
+Regarding the NCA, the court established that the requirements under section 129(1) necessitated the disclosure of the specific amount owed to the consumer. This finding affirmed that mere notification of a default without specifying the amount infringes upon the consumer’s right to engage in corrective action ([para 56-64]). 
+
+The court asserted that both the ALA and NCA serve complementary purposes in balancing the rights and responsibilities of sellers and purchasers, thereby finding that the High Court erred in its interpretation of the applicable statutes ([para 44-45]).
+
+## C – Conclusion:
+The Constitutional Court ultimately upheld the applicants' appeal, determining that the actions of the Cape Town Community Housing Company in cancelling the instalment agreements were unlawful and that the late recordal rendered the applicants not liable for arrears prior to its completion ([paras 73-74]). The court ordered the cancellation of both the sale agreements and the recordals to be set aside, reinforcing the importance of diligent compliance with statutory obligations in credit agreements. The case highlighted significant issues related to consumer protection, especially for marginalized groups, emphasizing that consumers must not be disadvantaged by procedural failings of credit providers. The ruling impacts not only the applicants but also serves as a precedent for similar cases concerning consumer rights and statutory compliance within the South African housing and credit sectors ([para 73-74]).

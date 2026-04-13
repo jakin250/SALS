@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# Case Note: Ellerine Brothers (Pty) Ltd v McCarthy Ltd (245/13) [2014] ZASCA 46
+
+## FIRAC Method
+
+### F – Facts
+
+In this appeal, the Supreme Court of Appeal addressed the validity of a lease agreement cancellation. The appellant, Ellerine Brothers (Pty) Ltd ("Ellerine"), had entered into a lease in 2006 with Toits Motor Group (Pty) Ltd ("the insolvent") for certain business premises. The insolvent subsequently sub-leased part of the property to the respondent, McCarthy Limited ("McCarthy") ([paras 1–2]).
+
+By 2009, the insolvent failed to pay rent as agreed, leading Ellerine to issue a notice on 16 January 2009. This notice indicated that failure to address the breach within seven days would result in cancellation of the lease ([para 2]). The insolvent did not comply, and on 27 January, Ellerine cancelled the lease. Meanwhile, on 21 January, a creditor had lodged an application to liquidate the insolvent, which led to the winding-up being finalized on 27 February ([paras 3–5]). 
+
+Subsequently, the liquidators entered into a cession agreement with Ellerine, wherein the liquidator ceded rights of the insolvent to Ellerine, indicating the lease was still valid and that Ellerine could not cancel it post-winding-up ([para 4]). The case was then brought before the North Gauteng High Court, which ruled in favor of McCarthy, leading to the appeal ([para 5]).
+
+### I – Issues
+
+The core issue before the court was the legal question of whether Ellerine's right to cancel the lease was extinguished by the commencement of winding-up proceedings against the insolvent ([para 1]). Specifically, the court needed to consider whether a concursus creditorum established by the pending liquidation affected the lessee's obligations under the lease, thereby impacting the lessor's right to seek cancellation for non-payment of rent ([paras 6–7]).
+
+### R – Rules
+
+The legal framework for this case draws primarily from the South African Companies Act 61 of 1973, specifically section 348, which states that winding-up is deemed to commence at the time of application for winding-up ([para 6]). 
+
+The Insolvency Act 24 of 1936 also plays a critical role, particularly sections that dictate the effects of sequestration on leases ([para 8]). Key principles derived from the common law regarding uncompleted contracts, particularly the rights of a liquidator inheriting the contractual obligations, were also examined. These principles stipulate that insolvency does not automatically terminate lease agreements, but rather, the liquidator inherits obligations which may include compliance with unfulfilled contractual duties ([paras 12–13], 14).
+
+### A – Application
+
+In assessing the arguments, the court noted that the high court's ruling supported Ellerine's right to cancel based on compliance with notice requirements set forth in the lease ([para 9]). The key point made by Ellerine was that the right to cancel had accrued prior to the concursus creditorum and was therefore not lost once the proceedings commenced. 
+
+However, the court clarified that the existence of a concursus creditorum does not terminate continuous lease obligations. The reasoning followed established precedents indicating that a liquidator cannot simply refuse performance owing to insolvency; instead, they must step into the shoes of the insolvent and fulfill any pending obligations as per the lease ([paras 10–12]).
+
+The court rejected Ellerine's argument that the cession made its cancellation invalid, explaining that the cancellation occurred before the effective liquidation of the insolvent and was thus lawful ([paras 15–16]). The court held that because Ellerine’s right to cancel was enforceable at the time of cancellation, the act of cancellation was valid despite the subsequent winding-up.
+
+### C – Conclusion
+
+The Supreme Court concluded that the lease was validly cancelled, ruling against Ellerine’s assertion that the insolvency tried to retroactively annul the cancellation ([para 16]). The court found no merit in Ellerine's arguments that the notice of demand infringed upon the concursus nor that it created undue preferences among creditors. 
+
+In summary, the ruling reinforced the notion that the commencement of winding-up does not negate a lessor's right to cancel a lease when the right has clearly accrued and the lessee has failed to meet its obligations. The appeal was dismissed with costs, marking a significant affirmation of the existing principles of insolvency and contract law ([para 16]). 
+
+### References
+- Companies Act 61 of 1973.
+- Insolvency Act 24 of 1936.
+- De Wet NO v Uys NO & andere 1998 (4) SA 694 (T).
+- Norex Industrial Properties (Pty) Ltd v Monarch SA Insurance Co Ltd 1987 (1) SA 827 (A).
+- Smith & another v Parton NO 1980 (3) SA 724 (D).
+
+---
+
+This case note employs the FIRAC methodology to encapsulate the legal complexities of the Ellerine Brothers v McCarthy case, aiding in understanding both the factual background and legal principles established therein.

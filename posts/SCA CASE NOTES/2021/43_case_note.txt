@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note
+
+**Case Title:** Timasani (Pty) Ltd (in business rescue) and Another v Afrimat Iron Ore (Pty) Ltd  
+**Court:** The Supreme Court of Appeal of South Africa  
+**Judgment Date:** 13 April 2021  
+**Neutral Citation:** [2021] ZASCA 43  
+**Case No:** 91/2020  
+
+### F – Facts
+
+The case revolves around Timasani (Pty) Ltd (Timasani), which engaged in iron and manganese mining and was placed into business rescue on 28 July 2015. Mr. Werner Cawood, the second appellant, served as the business rescue practitioner (BRP) and was tasked with overseeing the sale of Timasani's assets as per a plan adopted by its creditors. The respondent, Afrimat Iron Ore (Pty) Ltd (Afrimat), expressed interest in purchasing Timasani's assets, including a farm in Kuruman and other associated rights and equipment, and paid a deposit of R1,700,000.
+
+Despite the deposit being transferred on 29 March 2017, the sale did not conclude due to unsatisfied suspensive conditions in the draft agreements provided by Afrimat. Conflicts arose over auctioneer commissions, further complicated by the claims of Soliter Myn Ondernemings BK regarding its rights over the farm due to an existing lease with Timasani. Following ineffective discussions and after Soliter's rights were not adequately waived, Afrimat formally withdrew its offer on 21 June 2017 and sought return of the deposit. 
+
+Timasani and Mr. Cawood opposed this request, asserting that Afrimat needed to obtain either the written consent of the BRP or leave of the court to initiate proceedings due to the operational moratorium under section 133 of the Companies Act 71 of 2008 (the Act). The High Court ruled in favor of Afrimat, ordering the repayment of the deposit, leading to this appeal by Timasani and the BRP ([1]–[12]).
+
+### I – Issues
+
+The pivotal issue revolves around whether the moratorium on legal proceedings outlined in section 133 of the Companies Act precludes Afrimat from reclaiming its deposit. This aspect includes determining:
+
+1. Whether the deposit constituted property belonging to Timasani or was unlawfully possessed by it, thus affecting the applicability of the moratorium.
+2. Whether the non-joinder of Timasani's creditors impacted the legitimacy of the proceedings brought by Afrimat as per section 145 of the Act ([2]–[12]).
+
+### R – Rules
+
+#### Statutory Provisions:
+1. **Section 133 of the Companies Act 71 of 2008**: Establishes a moratorium on legal proceedings against a company under business rescue, generally barring actions unless consent from the BRP is obtained or leave from the court is granted.
+2. **Section 145(1)**: Mandates that creditors be notified of proceedings related to business rescue, encompassing rights to participate in such proceedings ([16]–[20]).
+
+#### Judicial Precedents:
+1. **Amalgamated Engineering Union v Minister of Labour (1949)**: Defined the concept of "direct and substantial interest" concerning non-joinder of parties.
+2. **Cloete Murray v FirstRand Bank (2015)**: Clarified the scope of the moratorium under section 133, emphasizing its intent to protect the business during rescue.
+3. **Kentucky Fried Chicken v Dine-A-Mite Inc (1986)**: Set precedents on payment recoveries related to deposits in contractual contexts ([2], [26]–[28]).
+
+### A – Application
+
+The court rigorously analyzed the applicability of section 133 in conjunction with the circumstances surrounding the deposit:
+
+1. **Moratorium Application**: It was found that the deposit was neither property belonging to Timasani nor lawfully held by it. The court stated that since the contractual arrangement over which the deposit was made failed to materialize, the funds were not owned in a "legally valid sense" by Timasani; thus, section 133's scope was irrelevant regarding the deposit recovery ([24]–[27], [31]–[35]).
+
+2. **Non-Joinder**: The court upheld the High Court’s finding that no substantive rights of creditors were infringed by the absence of their participation in this specific dispute over the deposit. The BRP had responsibilities to manage creditor communication, and the nature of the deposit did not directly alter their financial claims ([14]–[20]).
+
+3. **Disputes of Fact**: The court found no substantial fabrications in Afrimat’s assertions regarding its commitment to the transaction, negating the appellants' claims of deception and thereby indicating that Afrimat acted within its rights to seek a refund of the deposit ([21]–[23]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal with costs, affirming the High Court's order for Timasani to refund Afrimat’s deposit. The rationale underscored that the moratorium under section 133 did not shield Timasani from fulfilling obligations regarding property not belonging to it. This judgment clarifies the parameters of the moratorium in business rescue scenarios, emphasizing the need for proper contractual foundations and the legal implications of deposits in such contexts. The case reinforces creditors' rights to participate in proceedings indirectly affecting them, without necessitating widespread joinder in disputes that are specifically about contractual recoveries ([20]–[38]).

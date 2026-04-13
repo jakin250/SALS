@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# Case Note: Feldman v EMI Music SA (PTY) LTD / EMI Music Publishing SA (PTY) LTD (Case No: 268/2008 & 269/2008)
+
+## FIRAC Method
+
+### F – Facts
+The appellant, David Feldman N.O., acting as the executor of the estate of the well-known singer Brenda Fassie, initiated two actions in the Witwatersrand Local Division of the High Court against EMI Music Publishing (Pty) Ltd and EMI Music (Pty) Ltd, seeking relief based on claims of copyright infringement. The claims were directed at 157 works of music and lyrics, which were deemed to be works of "joint authorship" under the Copyright Act 98 of 1978 (the "Act"), primarily involving the collaborative contributions of Brenda Fassie and other unidentified co-authors ([1][2]).
+
+The defendants filed notices of exception citing vagueness and the requirement for the joinder of co-authors, asserting that the particulars of claim failed to adequately show Feldman's locus standi to sue independently for the damages arising from the alleged copyright infringements ([5][6]). The trial judge, Jajbhay J, upheld certain exceptions, providing leave for the appellant to amend the particulars of claim within 21 days ([1][2]) before this appeal was brought with the leave of the court below.
+
+### I – Issues
+1. Did the appellant properly establish locus standi to pursue a copyright infringement claim alone as a co-author of the works?
+2. Were the particulars of claim sufficiently specific to survive an exception based on vagueness, especially concerning the royalty amounts allegedly received by the respondents?
+3. Were the appellant's claims for punitive damages adequately supported within the particulars of claim?
+4. Were the contradictory claims regarding ownership of the copyright valid, warranting reconsideration of the exceptions upheld by the lower court?
+
+### R – Rules
+1. **Copyright Ownership**: Section 21(1)(a) of the Act specifies that copyright ownership of a work of joint authorship vests in the co-authors collectively. As held in *Collin v Toffie* 1944 AD 456, a joint owner must generally join co-owning parties in litigation.
+   
+2. **Locus Standi**: To have standing to sue, a plaintiff must show an adequate legal right to pursue the claim. The absence of a co-author's consent or a ceded interest was central to the defendants' exception ([5][6]).
+
+3. **Vagueness**: Pursuant to Rule 23(1) of the Uniform Rules of Court, a pleading must be clear and unambiguous enough for the other party to understand it. An exception on grounds of vagueness is sustainable if it prevents proper pleading ([6][9]).
+
+4. **Quantification of Damages**: Section 24(1A) of the Act allows for the assessment of damages based on "reasonable royalty," but necessitates proof of infringement. Any punitive damages require substantiation of the rights to those damages ([3][9]).
+
+5. **Contradictory Claims**: A plaintiff may assert contradictory claims within the particulars of claim so long as it is clear they are alternative and not intended as cumulative, as highlighted in the judgment of the lower court ([10][11]).
+
+### A – Application
+The Supreme Court of Appeal, evaluating the particulars of claim, concluded that Feldman had not shown the basis upon which he sued as a sole claimant without the inclusion of the other co-authors. While the appellant's counsel argued for an implied basis for receiving only a pro rata share of royalties, the court rebuffed this interpretation as speculative, emphasizing the necessity for explicit outline in pleadings regarding each co-author's rights ([8][12]).
+
+The second issue of vagueness was examined critically, noting that while Section 24(1B) of the Act permits inquiries into quantum, it does not relieve the initial burden of proving an infringement. Jajbhay J's ruling that the particulars failed to substantiate an infringement was upheld, echoing the need for more precise allegations surrounding defendants' receipt of royalties ([9][8]).
+
+Concerning the third issue, the court reiterated that unless Feldman could prove an agreement amongst all co-authors allowing claims for punitive damages, he could not proceed with such a claim as it could potentially expose the defendants to multiple claims from other co-authors ([7][12]). Thus, the claims for punitive damages were declared excipiable.
+
+Finally, with respect to mutually contradictory averments, the court found the appellant's commitments to both ownership claims and contractual royalties problematic. Nonetheless, as the claims were presented in the alternative, they could not justifiably be deemed as mutually exclusive leading to prejudice against the defendants—this exception was duly overturned ([10][11]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal concerning the first exception, affirming that Feldman lacked the necessary standing to pursue claims for full damages independently from co-authors or without concerted agreement. The appeal was successful regarding the second and third exceptions, allowing for formal amendments to the particulars and establishing clearer parameters for Feldman's claims. Zusammen, this decision elucidates the importance of precise pleadings and the necessity of comprehensive claims within joint authorship copyright disputes. Moreover, questions of ownership and allocation of damages cannot be ambiguously stated, highlighting the need for clarity in legal proceedings concerning intellectual property ([1][12]). The court's holding emphasized a stricter adherence to the statutory requirements for copyright claims under the Act, reinforcing the collaborative nature of joint authorship in protecting the rights of all authors involved. 
+
+### Final Order
+The appeals were structured ultimately as follows:
+1. The appeal against the first exception was dismissed.
+2. Appeals against the second and third exceptions were successful.
+3. The respondents were ordered to bear the costs of the appeal, inclusive of two counsel’s fees.
+4. The orders from the lower court were modified, permitting the plaintiff to amend particulars of claim within a specified timeframe ([1][13]).

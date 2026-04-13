@@ -1,0 +1,45 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Oppelt v Head: Health, Department of Health Provincial Administration: Western Cape [2015] ZACC 33
+
+## F – Facts
+
+The case arises from a delictual claim in a tragic medical context involving Charles Oppelt, a young rugby player who sustained a severe spinal cord injury during a match on 23 March 2002 ([1]–[4]). Following his injury, he was transported to Wesfleur Hospital at approximately 15:15 and treated by medical personnel. A delay in transporting him to Groote Schuur Hospital, where a specialist could have provided urgent care, led to delays that resulted in permanent paralysis ([4]). 
+
+Initially examined at Wesfleur, he was advised by Dr Venter to refer him to Groote Schuur, where he arrived at around 17:40. An urgent transfer to Conradie Hospital for specialized treatment was not arranged until hours later, despite the medical consensus on the need for urgent care ([5]). At Groote Schuur, he was evaluated only at 18:00, and subsequently, the transfer to Conradie was marked as high priority but not executed swiftly, leading to significant delays ([4]–[5]).
+
+The High Court found that the respondent's medical staff had acted negligently and failed to ensure timely treatment. However, on appeal, the Supreme Court of Appeal reversed this decision, primarily due to the perceived lack of a causal link between the delays and Oppelt’s resulting paralysis, thereby dismissing his claim ([6]–[8]).
+
+## I – Issues
+
+This case raises several pivotal issues:
+1. Did the Supreme Court of Appeal err in its evidentiary evaluation of causation regarding Oppelt's paralysis? 
+2. Was there a breach of section 27(3) of the South African Constitution regarding the right to emergency medical treatment?
+3. What constitutes the threshold for establishing delictual liability, specifically concerning wrongfulness, causation, and negligence? ([17]).
+
+The primary constitutional issue revolves around whether the respondent failed to provide necessary emergency medical care, thus infringing upon Oppelt's rights under the Constitution ([18]).
+
+## R – Rules
+
+The foundational legal principles involve the elements of delictual liability: causation, wrongfulness, fault (negligence), and harm ([34]). The court relied on the “but-for” test to determine causation, which requires showing that harm would not have occurred but for the defendant's negligent actions ([35]). Furthermore, the court referenced previous case law indicating that medical negligence must be evaluated against the standard of what a "reasonably competent practitioner" would do under similar circumstances ([34], [73]).
+
+In terms of constitutional law, Section 27(3) of the Constitution mandates no individual be refused emergency medical treatment ([18], [56]). The interpretation of this right involves assessing whether the respondent's protocols and actions were consistent with the obligations imposed by the Constitution ([56]). 
+
+Significantly, the court noted that medical practitioners can only be held liable for conduct that deviates from accepted clinical standards, informed by eventual consensus within the medical community ([50], [130], [149]).
+
+## A – Application
+
+In applying these rules, the court meticulously analyzed the testimonies of expert witnesses, particularly focusing on the evidence provided by Dr. Newton, who argued for the necessity of a closed reduction procedure within four hours to prevent permanent injury. The applicant's case hinged on establishing that had he received timely treatment, he would have significantly reduced his likelihood of paralysis ([20]–[24]).
+
+The majority judgment critiqued the Supreme Court of Appeal's evidentiary assessment, asserting it deviated from the established standard of evaluation in *Linksfield*, which advocated for a balanced view of expert testimony rather than adherence solely to well-established consensus ([36]–[44]). The majority held that the lack of contrary evidence rebutted Dr. Newton’s assertions regarding the urgency and necessity of treatment ([35]–[39]). 
+
+Conversely, the minority judgment placed significant emphasis on the absence of sufficient scientific endorsement for Dr. Newton's four-hour theory, noting that in 2002, varying opinions existed within the medical community surrounding the timelines for spinal injury treatment ([98]–[128]). This reflects the complexities of proving negligence where differing medical opinions exist within a community context, thus raising the standard for what constitutes reasonable conduct for medical professionals at the relevant time.
+
+## C – Conclusion
+
+The Constitutional Court ultimately granted leave to appeal, asserting that it was satisfied the Supreme Court of Appeal's decision marked a significant departure from precedent regarding evidentiary standards in medical negligence cases ([18]). The court's finding emphasized that the delay in treatment constituted both wrongfulness and negligence under South Africa’s constitutional framework ([50]–[70]). 
+
+Consequently, it was determined that the respondent was liable for the damages suffered by Oppelt due to negligence in medical care, highlighting the importance of timely intervention in emergency medical situations and reinforcing the constitutional right to health care services ([86]). The judgment serves as a crucial reminder of the legal obligations of medical practitioners within constitutional rights and the standards for determining delictual liability, particularly in contexts involving public health services ([86], [150]). 
+
+Overall, this case affirms the necessity for comprehensive treatment protocols and adherence to constitutional mandates of emergency care, which can have profound implications for future cases of medical negligence.

@@ -1,0 +1,42 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note
+
+**Case Title**: Commissioner for the South African Revenue Service v Medtronic International Trading S.A.R.L. [2024] ZACC 26
+
+### F – Facts
+The case arises from an application for leave to appeal brought by the Commissioner for the South African Revenue Service (SARS) against a judgment of the Supreme Court of Appeal regarding the applicant's refusal to remit interest owed by Medtronic International Trading S.A.R.L. (Medtronic International) under the Value Added Tax (VAT) law after a Voluntary Disclosure Agreement (VDA) had been concluded ([1]).
+
+Medtronic International is a Swiss registered company, part of the Medtronic Group, and a distributor of medical devices in South Africa. A critical event occurred between June 2004 and May 2017 when an employee, Ms. Hildegard Steenkamp, embezzled over R537 million through fraudulent VAT claims. When the fraud was discovered, both Medtronic International and Medtronic Africa (its South African subsidiary) applied to SARS under the Voluntary Disclosure Programme (VDP) to rectify VAT underpayments ([2]–[6]). 
+
+SARS accepted the applications for VDAs, which involved the companies agreeing to pay specified amounts, including interest on the VAT underpayment, and receiving 100% relief on penalties. However, after entering into the VDA, Medtronic International sought remission of the interest owed, arguing that the VAT Act allowed for such remission despite the VDA ([7]–[8]).
+
+SARS refused to consider this request, claiming that it had no authority to remit interest once a VDA was in place. Medtronic International challenged this refusal in the High Court, where it succeeded ([9]). SARS appealed to the Supreme Court of Appeal, where the ruling was split, leading to this current appeal ([10]–[12]).
+
+### I – Issues
+The central issues before the Constitutional Court revolved around:
+1. Whether a taxpayer who has entered into a VDA can subsequently seek remission of interest as provided under section 39(7) of the VAT Act.
+2. Whether SARS is mandated to consider a request for remission after the conclusion of a VDA ([1], [20]).
+
+### R – Rules
+Key legal frameworks relevant to this decision include:
+- **Tax Administration Act** (TAA): Section 225 to 230 outlines the framework for the Voluntary Disclosure Programme, establishing that upon valid voluntary disclosure, taxpayers receive specific benefits, including relief from criminal prosecution and penalties ([1], [5]).
+- **Value Added Tax Act** (VAT Act): Section 39(7) provides for the remission of interest under certain conditions, crucial to determining whether remission is permissible after a VDA has been concluded ([3], [8], [31]).
+- **Promotion of Administrative Justice Act** (PAJA): Section 33 of the Constitution and relevant PAJA provisions emphasize the necessity for state organs, including SARS, to consider requests for remission in a fair manner ([10], [20]).
+
+### A – Application
+In applying these rules, the Constitutional Court examined the legality of SARS's refusal to consider the request from Medtronic International. The majority of justices focused on whether, once a VDA is in place, the taxpayer can still request interest remission ([24]).
+
+The Court noted that the TAA and the VAT Act do not explicitly prohibit a request for remission based on the conclusion of a VDA, thus indicating that such requests should be considered on their merits according to PAJA ([11], [12]). The Court distinguished between simply considering a request versus having the authority to grant it, emphasizing the obligation to evaluate the request irrespective of prior agreements regarding payment of interest ([10], [24]).
+
+The minority interpretation aligned with a stricter contractual view, arguing that allowing a request for remission after the VDA compromises the integrity of the agreement between SARS and the taxpayer and risks undermining the objectives of the VDP ([13]–[15]). 
+
+Ultimately, the Constitutional Court supported the majority's reasoning, concluding that the potential for remission should not be dictated solely by the existence of the VDA, thereby placing the onus on SARS to engage with the request ([49]).
+
+### C – Conclusion
+The Constitutional Court, in a unanimous decision, granted leave to appeal and upheld the High Court's ruling, ordering SARS to consider Medtronic International's request for remission of interest ([51]). The Court reiterated the importance of thorough consideration of taxpayer requests under PAJA, thereby establishing a precedent that taxpayers can invoke the VAT Act's provisions even post-VDA. This decision has considerable implications for future taxpayer disclosures and the administration of tax laws, indicating that binding agreements like VDAs do not negate the rights conferred under the VAT Act for remission of interest that had been rigidly regarded prior to this case ([49]–[51]).
+
+---
+
+This comprehensive FIRAC analysis outlines the significant legal arguments and implications of the case, establishing its role in the evolving landscape of South African tax law and voluntary disclosures.

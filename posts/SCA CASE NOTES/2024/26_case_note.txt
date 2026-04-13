@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+**Case Note: SAP SE v Systems Applications Consultants (Pty) Ltd t/a Securinfo and Another [2024] ZASCA 26**
+
+**FIRAC Method**
+
+### F – Facts
+The case before the Supreme Court of Appeal (SCA) arises from a complex dispute between SAP SE (the appellant), a German software company, and Systems Applications Consultants (Pty) Ltd t/a Securinfo (SAC) and Ungani Investments (Pty) Ltd (the first and second respondents, respectively). In 2008, SAC initiated damages proceedings in the Gauteng Division of the High Court, Johannesburg, claiming €609,803,145 from SAP for alleged unlawful interference with a Software Distribution Agreement (SDA) SAC had with a subsidiary of SAP, SAP Systems Integration (SAPSI) ([1]).
+
+SAC contended that due to SAP's acquisition of a controlling interest in SAPSI and a competing product, SAP unlawfully interfered with the SDA, effectively breaching their contractual relationship and diminishing SAC's business operations ([1]–[2]). Throughout the trial, which began in October 2020 and lasted for 74 days, an array of issues unfolded, particularly around the establishment of the SDA and compliance with German law regarding contracts ([3]).
+
+The trial was conducted virtually due to the COVID-19 pandemic, under the management of Tsoka J. During a pivotal session on 6 November 2020, tensions arose as SAP's counsel sought to cross-examine SAC’s witness, Mario Linkies, regarding the veracity of an email that implied pressure from SAP for the signing of the SDA. SAP contended that this line of questioning was crucial to their defense, as it involved determining whether Mr. Tattersall, a representative of SAC, acted with good faith and knowledge of the contract's status ([5]–[18]).
+
+Tsoka J interjected during the cross-examination, resulting in significant dissatisfaction from SAP's counsel, who accused the judge of bias and asserted that he was being prevented from adequately developing a line of questioning essential to the case. The judge subsequently exited the proceedings abruptly, which led to SAP filing for his recusal on 9 November 2020, alleging reasonable apprehension of bias based on his conduct during the trial ([6]).
+
+The initial recusal application was denied, and SAP’s subsequent appeals regarding both the recusal and merits were also dismissed by Tsoka J. SAP then sought further recourse at the SCA, leading to the present appeal ([8]–[10]).
+
+### I – Issues
+The principal legal questions arising from this case revolved around:
+1. **Bias and Judicial Impartiality**: Whether Tsoka J's conduct during the trial amounted to a reasonable apprehension of bias, as posited by SAP.
+2. **Validity of Recusal**: Whether the earlier refusal to recuse Tsoka J was justifiable based on established legal principles regarding judicial conduct, and whether his behavior impacted the fairness of the trial ([11]–[13]).
+
+### R – Rules
+The legal framework for assessing judges’ recusal relies on various statutes and legal precedents, including:
+1. **Constitutional Framework**: The right to a fair trial is enshrined in Section 34 of the Constitution, which mandates impartiality from judicial officers ([12]).
+2. **SARFU Test**: The question of bias is to be determined by whether a reasonable, objective, and informed person would perceive that a judge has not or will not adjudicate with an impartial mind. This was established in *President of the Republic of South Africa and Others v South African Rugby Football Union* ([12]).
+3. **German Law on Contractual Relationships**: The principles governing the SDA and its validity derive from German law, which emphasizes the need for consent and formalities involved in contract formation ([10]–[10]).
+
+### A – Application
+The SCA applied the relevant legal principles, focusing intensively on Tsoka J's behavior during the trial. The court found multiple instances where the judge's actions created an impression of bias:
+1. **Misconduct during Cross-Examination**: The court observed that Tsoka J’s abrupt departure prevented SAP from adequately presenting its version of events, particularly concerning the credibility of witness testimonies ([21]–[26]).
+2. **Perceived Bias and Closed Mind**: The SCA highlighted that the judge’s assertion that he would continue to preside over proceedings in his absence suggested a closed mind, which could not meet the standards of judicial impartiality ([20]–[30]).
+3. **Rejection of Explanatory Testimony**: The rationale provided by Tsoka J regarding his departure—a need for a bathroom break—was not previously articulated and was deemed inadequate in light of the circumstances ([26]).
+
+### C – Conclusion
+The SCA upheld SAP's appeal, determining that Tsoka J's conduct constituted a reasonable apprehension of bias. The court found that the apprehension was not merely subjective but was supported by the context of the interactions, decision-making processes, and the implications of his actions on the trial's integrity. Consequently, the SCA ordered the recusal of Tsoka J and set aside his previous judgments, directing that costs be borne by the first and second respondents ([30]).
+
+The ruling demonstrates the pivotal nature of judicial conduct in maintaining public confidence in the legal system. The requirement for judicial impartiality is underlined, especially in complex cases where well-resourced parties can exert significant pressure on the proceedings. The implications of this judgment serve as a cautionary note for judicial officers regarding the necessity of maintaining decorum, neutrality, and a clear procedural integrity throughout trial processes.

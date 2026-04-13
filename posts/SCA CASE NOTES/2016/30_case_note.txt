@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: Eravin Construction CC v Bekker NO (20736/2014) [2016] ZASCA 30
+
+## F – Facts
+The dispute in *Eravin Construction CC v Bekker NO* revolves around whether a payment made by Ditona Construction (Pty) Ltd, a company in the process of being wound up, to the appellant, Eravin Construction CC, is recoverable by Ditona's liquidators. 
+
+On 20 October 2010, KLK Landbou Ltd initiated the winding-up of Ditona, leading to a provisional winding-up order on 9 December 2010 and a final order on 3 March 2011, with the effective date of winding-up being 20 October 2010 ([para 3]). On 21 October 2010, a payment of R389,593.49 was made by Ditona to Eravin, mere days after the winding-up application was initiated ([para 4]). 
+
+Following its financial troubles, Eravin was placed under business rescue on 24 September 2012, and the business rescue practitioner was appointed shortly thereafter. On 1 May 2013, Ditona's liquidators asserted the payment made to Eravin was void under section 341(2) of the Companies Act 61 of 1973, as it occurred post-winding-up ([para 6]). They sought recovery from Eravin, contending the payment was subject to the old Act and therefore recoverable. Conversely, Eravin argued that section 154(2) of the Companies Act 71 of 2008, which precludes recovery of debts incurred prior to the commencement of business rescue, barred the liquidators from recovering the payment ([paras 10–11]).
+
+## I – Issues
+The crux of the legal issue is whether the payment made by Ditona to Eravin is recoverable as a void disposition under the old Companies Act or whether it is a pre-business rescue debt that cannot be enforced under the new Companies Act. More specifically, the court was tasked with determining:
+
+1. Whether the liquidators could recover the payment based on the provisions of the old Companies Act.
+2. Whether the debt was a pre-business rescue debt under the new Companies Act ([paras 10–11]).
+
+## R – Rules
+The legal rules pertinent to this case primarily stem from two statutory provisions:
+
+1. **Section 341(2) of the Companies Act 61 of 1973**: This provision stipulates that any disposition of property by a company being wound up is void unless otherwise ordered by the court. It explicitly indicates that a company unable to pay its debts can have such dispositions invalidated ([para 10]).
+   
+2. **Section 154(2) of the Companies Act 71 of 2008**: This section precludes creditors from enforcing debts owed by a company prior to the commencement of business rescue proceedings, except as provided in the business rescue plan ([para 11]).
+
+## A – Application
+The court following the arguments laid out examined the nature of the debt and the timing of events leading to business rescue. Liquidators argued that the payment was void under the old Companies Act due to its timing post-winding-up. Conversely, Eravin contended that the debt was not owed until the liquidators identified the recipient post-appointment ([paras 17–18]).
+
+The court concurred with the liquidators that the wording of section 341(2) clearly asserts that any disposition after the commencement of winding-up is considered void, placing immediate liability on the recipient ([para 21]). The court critically distinguished this from the concept of enforceability found in the Prescription Act and clarified that the relevant inquiry should focus on when a debt is owed, not when it becomes claimable. Thus, debts that were void at the time were also considered owed ([para 23]).
+
+The appeal's secondary argument regarding the interpretation of section 154(2) was also addressed. The court found no merit in the assertion that only notified creditors could assert claims against the company under business rescue. It reinforced that the provisions apply universally to all creditors, irrespective of notification status ([paras 24–29]).
+
+## C – Conclusion
+The Supreme Court of Appeal concluded that the payment made by Ditona on 21 October 2010 was void and immediately created a liability to Eravin. Thereby, since this payment occurred before the commencement of Eravin's business rescue proceedings on 26 September 2012, the debt could not be recovered by the liquidators under section 154(2) of the new Act. 
+
+Ultimately, the appeal was upheld, and the prior ruling requiring repayment was set aside, with costs awarded in favor of Eravin, reiterating that the interpretation of the legislative texts does not permit the retrospective application of recovery barring explicit legislative directive ([paras 30–31]). The case underscores the clarity required in distinguishing between void dispositions and enforceable debts, especially concerning changes in statutory frameworks governing corporate insolvency.
+
+***End of Case Note***

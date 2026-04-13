@@ -1,0 +1,64 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Commissioner for the South African Revenue Service v Levi Strauss South Africa (Pty) Ltd
+
+**Neutral Citation**: Commissioner: SARS v Levi Strauss SA (Pty) Ltd (509/2019) [2021] ZASCA 32 (7 April 2021)
+
+**Court**: Supreme Court of Appeal of South Africa
+
+---
+
+## F – Facts
+
+The respondent, Levi Strauss South Africa (Pty) Ltd (Levi SA), entered into a dispute with the appellant, the Commissioner for the South African Revenue Service (SARS), concerning import duties and value-added tax (VAT) related to clothing imports, which constituted about sixty percent of its sales ([1]–[2]). Following a protracted two-year audit, SARS issued a determination on 25 March 2014 declaring that the certificates of origin for goods imported from Southern African Development Community (SADC) countries were invalid, thereby preventing Levi SA from benefitting from a zero-percent duty under the SADC Protocol ([1]–[3]).
+
+Levi SA commenced an appeal under section 49(7)(b) of the Customs and Excise Act 91 of 1964 against SARS's origin determination and additionally appealed under section 65(6) concerning the transaction value assessments made by SARS. These assessments involved the inclusion of commissions and royalties paid by Levi SA to entities within the Levi Strauss group in determining the transaction value for customs duty purposes ([2]–[4]).
+
+The relationship between Levi SA and its parent company, LS & Co, is crucial to the case. Levi SA predominantly sourced its imported goods via two regimes: the Levi APD regime (where it sourced directly from producers) and the Levi GTC regime (where it sourced via a trading company in Hong Kong). This transition gave rise to the key issue concerning the 'origin' of the goods ([4]–[5]).
+
+## I – Issues
+
+The central legal issues in this case revolved around the following questions:
+
+1. **Origin Determination**: Were the goods imported by Levi SA from SADC countries "originating goods" that qualified for the zero-percent duty under the SADC Protocol? Specifically, did they meet the criteria set forth in Rule 2.1 of Annex I to the Protocol, which requires that goods must be consigned directly from a Member State to a consignee in another Member State? ([6]–[11])
+
+2. **Transaction Value Assessment**: Should the commissions paid by Levi SA to Levi APD be classified as "buying commissions" and thus excluded from the transaction value under section 67(1)(a)(i) of the Act? Additionally, should royalties paid to LS & Co be included in the transaction value under section 67(1)(c) of the Act? ([7]–[9])
+
+## R – Rules
+
+The applicable legal framework includes:
+
+- **Customs and Excise Act 91 of 1964**: Sections pertinent to transaction value assessments and rules governing origin determinations ([1]–[3]).
+
+- **Protocol on Trade in the Southern African Development Community**: Particularly, Rule 2.1, which defines how originating goods can be determined based on the criteria of direct consignment to a Member State, as well as the broader objective of the Protocol to encourage intra-regional trade ([11]).
+
+- **Case Law and International Agreements**: The court referred to international norms governing customs valuation and buying commissions, including the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade and various rulings from other jurisdictions ([32]–[80]).
+
+## A – Application
+
+### Origin Issue
+
+The court evaluated SARS's position that the commercial relationship must exist between entities in Member States for the goods to qualify as originating goods. Levi SA argued that regardless of its purchasing strategy, the physical movement and consignment of goods fulfilled the origin requirement ([12]–[23]). The court ruled in favor of Levi SA, noting that the language of the Protocol must be interpreted to focus on the physical transport rather than the underlying commercial transactions. Therefore, the consignments from producers in Mauritius and Madagascar to Levi SA in South Africa met the criteria for originating goods under the Protocol ([23]).
+
+### Transaction Value Issue
+
+1. **Buying Commission**: The court analyzed whether the commission paid to Levi APD could be classified as a buying commission. Levi SA argued that since Levi APD acted on its behalf to procure goods, the commission should be excluded from the transaction value. The court found that Levi APD was not acting as a buying agent in a realistic sense, as Levi SA had little control over its procurement process. Therefore, the commission should be included when determining the transaction value ([32]–[58]).
+
+2. **Royalties**: Regarding the inclusion of royalties, the court examined the contractual arrangement between Levi SA and LS & Co. It concluded that royalties were indeed payable as a condition for the sale of goods due to the tightly controlled nature of the transactions, where LS & Co retained significant oversight over the procurement processes. The court held that royalties constituted a necessary cost linked to the goods imported, and thus should be included in the transaction value ([59]–[80]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal upheld SARS's appeal in part. The court ruled that:
+
+1. The determination that the certificates of origin were invalid was incorrect, thus setting aside the demand for payments related to this determination ([81]–[82]).
+2. The commissions paid to Levi APD were to be included in the transaction value, while the royalties owed to LS & Co were similarly to be retained in the transaction value calculation ([82]).
+
+The court's decision clarified the interpretation of origin rules and the classification of commissions, thereby impacting how customs duties and VAT are calculated for goods imported from SADC countries. The ruling highlights the importance of defining commercial relationships and the implications of procurement structures within multinational corporate entities ([82]).
+
+--- 
+
+**References:**
+- "Commissioner: SARS v Levi Strauss SA (Pty) Ltd (509/2019) [2021] ZASCA 32."
+- Customs and Excise Act 91 of 1964.
+- Protocol on Trade in the Southern African Development Community.

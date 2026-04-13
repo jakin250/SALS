@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+### FIRAC Case Note: **New Port Finance Company (Pty) Ltd v Nedbank Ltd (30/2014) [2014] ZASCA 210**
+
+#### F – Facts: Relevant Background and Procedural History ([paras 1–2])
+In this case, New Port Finance Company (Pty) Ltd (New Port) and David Carl Mostert (the appellants) executed deeds of suretyship to secure loans obtained by Wedgewood Village Golf and Country Estate (Pty) Ltd (Wedgewood) and Danger Point Ecological Development Company (Pty) Ltd (Danger Point) from Nedbank Limited (the respondent) for property developments. Following defaults by both principal debtors, Nedbank successfully obtained judgments against Wedgewood and Danger Point in 2011, leading to provisional and final liquidation orders for both companies.
+
+Subsequently, in March 2012, Nedbank applied for Mr. Mostert's sequestration and New Port's liquidation. In response, the appellants sought to prevent these applications based on the argument that Wedgewood and Danger Point were under court-supervised business rescue, supported by a business rescue plan adopted according to the Companies Act 71 of 2008 (the Act). Mr. Mostert and New Port sought interdicts against Nedbank, but these applications were dismissed by Blignault J in the Western Cape High Court, although leave to appeal was granted.
+
+#### I – Issues: Legal or Constitutional Questions ([paras 3–6])
+The core issues presented in this appeal include:
+
+1. Whether the business rescue plans for Wedgewood and Danger Point altered the obligations of the sureties, specifically relating to their liability under the deeds of suretyship.
+2. Whether the court should grant a stay of execution of the judgments against Mr. Mostert and New Port, considering the potential for successful business rescue proceedings.
+3. The implications of any subsequent events affecting the viability of the interdict sought by the appellants.
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 9–15])
+The Supreme Court of Appeal relied on several legal principles and precedents, particularly those concerning suretyship and the implications of business rescue under South African company law. Notable rules included:
+
+1. **Judgment Finality**: The court underscored that once judgments were rendered, they fixed the liability of the sureties, barring rescission attempts without grounds ([para 9]). The case of *Swadif (Pty) Ltd v Dyke NO* was cited for the principle that a judgment creates a right to execute that exists independently of the underlying debt relationship.
+
+2. **Deed of Suretyship Provisions**: The court affirmed that typical clauses in deeds of suretyship explicitly allow creditors to pursue sureties irrespective of any compromises or extensions granted to the principal debtor ([paras 10–12]). Such provisions ensure that the liability remains intact when the principal debtor undergoes liquidation or business rescue.
+
+3. **Application of Business Rescue**: Statutory provisions concerning the business rescue process were evaluated, particularly section 154 of the Act, which addresses the enforcement of debts during business rescue. The court discussed whether these provisions had a bearing on the sureties' obligations, concluding that they did not affect existing liabilities established via prior judgments ([para 14]).
+
+#### A – Application: Analysis of How the Court Applied the Law ([paras 8–16])
+In its analysis, the court first determined that the appellants, particularly Mr. Mostert and New Port, could not escape their surety obligations due to the judgments obtained against them. The court focused on the finality of those judgments, which were unaffected by any successful business rescue of the principal debtors. The reliance on existing suretyship clauses led the court to conclude that Nedbank retained its rights to demand performance from the sureties despite the business rescue proceedings.
+
+The appellants also argued for a stay of execution pending the outcomes of the business rescue plans. However, this argument lost substance following the failure of the business rescue for Wedgewood, as the court reasoned that no grounds existed to defer execution of the smaller debt associated with Danger Point ([para 15]).
+
+Throughout the judgment, the court articulated that the sureties' liability was firmly established and did not hinge on the outcome of subsequent business rescue proceedings. The court underscored that the commercial realities and the drafting of the deeds of suretyship provided no basis for altering the surety's liability, even in the face of business rescue ([para 12]).
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 16–17])
+The Supreme Court of Appeal dismissed the appeals with costs, supporting the previous ruling that the business rescue plans did not relieve the sureties of their obligations. The judgment reinforced that claims under deeds of suretyship are not diminished by subsequent events affecting the principal debtor, such as business rescue or liquidation. 
+
+Consequently, the court reaffirmed the principle that creditors retain rights established by judgment against sureties regardless of changes in the debtor's financial situation. The decision has significant implications for creditors and sureties within the context of business rescue, clarifying that judicial protection afforded to distressed companies does not extend to absolving sureties of their agreements. 
+
+The dismissal of the appeal, coupled with the court's rationale, clarifies the interplay of suretyship law and business insolvency proceedings under the Companies Act, with the court emphasising the efficacy of well-drafted suretyship agreements in securing creditor interests against defaulting debtors.
+
+---
+
+This case note is prepared in a formal academic tone, suitable for citation and further academic discourse in the context of South African law regarding suretyship and business rescue proceedings.

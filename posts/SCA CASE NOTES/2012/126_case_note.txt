@@ -1,0 +1,69 @@
+Case Note: Not reportable
+Source Folder: 2012
+
+# FIRAC Case Note: Comwezi Security Services (Pty) Ltd v Cape Empowerment Trust Ltd (759/11) [2012] ZASCA 126
+
+## F – Facts: Relevant Background and Procedural History ([paras 1-2])
+
+In the case before the Supreme Court of Appeal, the first appellant, **Comwezi Security Services (Pty) Ltd**, borrowed R4 million from the respondent, **Cape Empowerment Trust Limited (CET)**. Securement for the loan was achieved through a cession and pledge of 20 shares in Comwezi, which were held by the **Grapsy Trust**. The loan arrangement fell into default when Comwezi failed to repay by the stipulated date, 30 April 2009.
+
+Subsequently, on 8 June 2010, the parties executed a **settlement agreement** intended to resolve the loan issue. It stipulated that CET would accept the issuance of 25 shares in Comwezi as discharge for the debt. This agreement included a **resolutive condition** requiring CET to complete a due diligence investigation regarding Comwezi within three months. Should CET fail to meet this obligation, the agreement would lapse, reverting the parties to their pre-agreement status under the loan agreement.
+
+Significantly, CET was granted the right to "waive or relax" the resolutive condition. CET exercised this right multiple times, extending the due diligence period on numerous occasions, citing Comwezi's non-cooperation as the justification. Comwezi contested the legitimacy of these extensions, arguing that they effectively nullified the settlement agreement upon the lapse of the initial three-month period. The High Court ruled in favor of CET, affirming the validity of the extensions and compelling Comwezi to assist CET in performing the due diligence. The present appeal arises from this ruling, with Comwezi challenging the High Court's interpretation.
+
+## I – Issues: Legal or Constitutional Questions ([paras 2-3])
+
+The central issue in this appeal concerns the interpretation of the **resolutive condition** within the settlement agreement—specifically, whether the power granted to CET to "relax" the resolutive condition included the authority to extend the deadline for due diligence beyond the originally specified three-month period. The legal debates surrounding this issue encompass:
+
+1. The nature and extent of CET's power to relax the conditions of the settlement agreement.
+2. The implications of the interpretation of "relaxation" in juxtaposition to the original contractual terms, particularly concerning the certainty expected from the agreement.
+
+No arguments were made by Comwezi regarding the manner of CET’s alleged exercise of this power being subject to limitations such as _bona fide_ or _arbitrio boni viri_.
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 5-12])
+
+The court relied on established principles in contract interpretation, reiterating from **Natal Joint Municipal Pension Fund v Endumeni Municipality** that interpretation must consider language, context, and the contractual purpose as a whole. The court emphasized the importance of attributing meanings based on the contract's terms rather than imposing interpretations that deviate from the actual language used.
+
+Key legal precedents referenced include:
+1. **Ex parte Bain** (1964) 2 SA 798 (C),
+2. **Ronnie's Motors (Pty) Ltd & Others v Van der Walt & Others** (1962) 4 SA 660 (A),
+3. **NBS Boland Bank Ltd v One Berg River Drive CC & others** (1999) 4 SA 928 (SCA),
+4. **KPMG Chartered Accountants (SA) v Securefin Ltd & another** (2009) 4 SA 399 (SCA), which clarified the admissibility of conduct in discerning contractual intentions. 
+
+The court ruled that the language used in clause 10.3, in conjunction with clause 10.1, regarding the right to relax the resolutive condition required careful interpretation to ascertain CET's intentions and respective powers.
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 8-14])
+
+In its analysis, the court interpreted the term "relax" as not only allowing for adjustment in the stringent enforcement of the condition but also as implicating the ability to extend the timeframes specified within the agreement. The court considered:
+
+1. **Meaning of ‘Relax’**: Denying CET the power to extend would negate the utility of the relaxation clause, effectively rendering it meaningless. The court noted that strict adherence to the time limitation was secondary to the overall purpose, which was to ensure CET's satisfaction with the due diligence investigation.
+  
+2. **Contextual Interpretation**: Reference to clause 10.1 revealed the interconnectedness of the completion notification and associated timelines. The court established that the exclusivity of CET's power reflected a necessity for discretion based on the due diligence outcome.
+  
+3. **Conduct of Parties**: Comwezi’s conduct, which included accepting the various extensions granted by CET and acknowledging commitments to cooperatively achieve a successful due diligence outcome, suggested an understanding that the extensions were valid and accepted under the agreement’s framework. The belief that Comwezi would revert to the loan agreement by automatically terminating the settlement agreement, as proposed, clashed with its actions during the time frame after the supposed lapsing of the agreement.
+
+4. **Final Considerations**: The court dismissed the import of Comwezi's procedural arguments, focusing on the terms of the contract as they stand and the ensuing conduct of the parties as evidence of their mutual understanding of the agreement's operative timescales.
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 15-16])
+
+The Supreme Court of Appeal concluded that the extensions granted to CET were valid under the interpretation of the settlement agreement, affirming that the power to "relax" the resolutive condition inherently included the capacity to extend the stipulated timeframes. 
+
+The court underlined the principle that contractual interpretation must adhere to the text’s explicit language while acknowledging the roles of context and conduct. The ruling emphasized that unfettered discretion granted to CET was both necessary and permissible within the boundaries established by the parties. 
+
+This decision has significant implications for contractual arrangements involving due diligence clauses, highlighting the necessity of precise wording and the willingness of parties to engage in flexible interpretations as business realities evolve.
+
+Consequently, the appeal was dismissed with costs, reinforcing the enforceability of well-constructed contract terms within the framework of South African law.
+
+---
+
+### References
+
+1. Comwezi Security Services (Pty) Ltd v Cape Empowerment Trust Ltd (759/11) [2012] ZASCA 126.
+2. Ex parte Bain 1964 (2) SA 798 (C).
+3. Ronnie's Motors (Pty) Ltd & Others v Van der Walt & Others 1962 (4) SA 660 (A).
+4. Natal Joint Municipal Pension Fund v Endumeni Municipality 2012 (4) SA 593 (SCA) para 18.
+5. NBS Boland Bank Ltd v One Berg River Drive CC & others 1999 (4) SA 928 (SCA) para 25.
+6. KPMG Chartered Accountants (SA) v Securefin Ltd & another 2009 (4) SA 399 (SCA) para 39.
+7. Shill v Milner 1937 AD 101 at 110-111.
+8. Shacklock v Shacklock 1949 (1) SA 91 (A) at 101.
+9. MTK Saagmeule (Pty) Ltd v Killyman Estates (Pty) Ltd 1980 (3) SA 1 (A) at 12F-H.

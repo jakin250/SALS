@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: International Trade Administration Commission v SA Tyre Manufacturers Conference
+
+## F – Facts
+This case revolves around the alleged dumping of certain types of tyres imported from the People's Republic of China (PRC) into South Africa ([1]). The South African Tyre Manufacturers Conference (Pty) Ltd, representing four local tyre manufacturers—Bridgestone South Africa (Pty) Ltd, Continental Tyre South Africa (Pty) Ltd, Dunlop Tyres International (Pty) Ltd, and Goodyear Tyre and Rubber Holdings (Pty) Ltd—filed an application to the International Trade Administration Commission (ITAC) on 1 October 2007 for a review of ITAC’s refusal to impose anti-dumping duties ([2]). ITAC had conducted an investigation and ultimately recommended to the Minister of Trade and Industry that the investigation be terminated, a recommendation the Minister accepted, which prompted the manufacturers to seek judicial review ([3]).
+
+The primary contention of the manufacturers was that ITAC failed to evaluate the market economy status of the PRC, a point central to their application as it affects the assessment of normal value under the International Trade Administration Act 71 of 2002 (ITA Act) ([4]). The High Court agreed with the manufacturers and set aside ITAC’s recommendation, compelling it to investigate further ([3]). The present appeal was brought by ITAC and the Minister of Trade and Industry against this ruling.
+
+## I – Issues
+The case raises several pivotal legal issues:
+1. Did ITAC fail in its duty to investigate the market economy status of the PRC, and was this failure sufficient to warrant a review of its recommendation ([3])?
+2. How does the definition of "dumping" under the ITA Act relate to the concept of "normal value," particularly regarding government intervention in the exporting country ([8], [10])?
+3. What are the implications of the China Protocol concerning the determination of normal value ([17])?
+4. Did the High Court correctly interpret the applicable sections of the ITA Act and the legal principles relevant to anti-dumping investigations ([32])?
+
+## R – Rules
+The legal framework governing this case is primarily provided by the ITA Act and relevant regulations, alongside international agreements such as the General Agreement on Tariffs and Trade (GATT). The key provisions include:
+- **Definition of Dumping**: Under section 1(2) of the ITA Act, dumping is defined as the introduction of goods into South Africa at an export price less than the normal value of those goods ([8]).
+- **Normal Value Determination**: Normal value is defined in terms of market conditions in the exporting country and is further elaborated in sections 32(2) and 32(4) of the ITA Act, which allows ITAC to consider prices from a surrogate country if government intervention affects pricing ([10], [11]).
+- **Procedural Duties of ITAC**: ITAC is obligated to conduct thorough investigations and ensure compliance with both domestic law and international obligations ([4], [31]).
+- **China Protocol**: Article 15 of the Protocol on China’s Accession to the WTO stipulates that members may disregard China’s domestic prices unless market economy conditions are shown to prevail ([17]).
+
+## A – Application
+The Supreme Court of Appeal (SCA) assessed whether the High Court erred in concluding that ITAC had a duty to investigate the market economy status of the PRC. The SCA emphasized that the ITA Act does not explicitly mandate an inquiry into whether an exporting country functions as a market economy; instead, it permits ITAC to assess the normal value based on circumstances described in sections 32(2) and 32(4) ([33]). The Court focused on the discretion afforded to ITAC under these provisions, determining that ITAC did not need to prescriptively inquire into the country-wide economic status but rather into the pricing mechanisms relevant to the goods in question ([34]).
+
+The SCA found that ITAC effectively utilized the surrogate country pricing method due to a lack of adequate domestic price data and determined that normal values were set according to market principles. Consequently, the court concluded that ITAC's methodology was valid and that its recommendations were based on adequately considered evidence ([39]). Notably, the manufacturers’ argument, premised primarily on a misunderstanding of the burden of proof concerning the PRC’s market status, was deemed unfounded. The manufacturers failed to demonstrate that the non-cooperating exporters operated under non-market conditions, which would warrant the application of surrogate pricing methods ([26], [27]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the appeal against the decision of the High Court, affirming that the ITAC acted within its jurisdiction and adhered to procedural requirements under the ITA Act. The Court concluded that ITAC had properly evaluated the facts before it and that its recommendation to terminate the investigation into PRC tyre imports was justified ([40]). The decision underscores the importance of precise legal interpretations regarding the roles of administrative bodies in trade practices and highlights the broader implications of international trade agreements on domestic regulation. The SCA ordered that the manufacturers' application be dismissed with costs, including the costs of three counsel, marking a significant reaffirmation of ITAC’s investigative discretion and authority ([44]).

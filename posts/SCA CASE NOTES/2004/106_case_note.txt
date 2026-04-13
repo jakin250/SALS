@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2004
+
+# FIRAC Case Note
+
+## Case Title: *Gold Fields Limited & Another v Harmony Gold Mining Company Limited & Others* [2004] ZASCA 55
+
+### F – Facts
+The case centers around a corporate transaction involving the exchange of shares between *Gold Fields Limited* (First Appellant) and *Harmony Gold Mining Company Limited* (First Respondent). Both companies are public mining firms listed on securities exchanges.
+
+*Gold Fields* has 1 billion authorized ordinary shares, of which approximately 491 million have been issued ([1]). *Harmony* seeks to acquire these shares through a two-part offer. The first part proposes to acquire up to 34.9% of *Gold Fields* shares by a set deadline, while the second part aims at obtaining the remaining shares upon fulfillment of specific conditions ([2]).
+
+In essence, *Harmony* offers to exchange 1.275 shares of its own for each *Gold Fields* share surrendered. This offer is directed specifically at certificated shareholders of *Gold Fields*, indicating a targeted approach towards specific owners rather than a general public offering ([3]). *Gold Fields* contends that this constitutes an 'offer to the public for subscription of shares' under section 145 of the Companies Act 1973, which mandates the inclusion of a prospectus in such cases ([4]). The Johannesburg High Court dismissed the application for declaratory relief sought by *Gold Fields*, prompting this appeal ([5]).
+
+### I – Issues
+The principal legal issues in this appeal include:
+
+1. Whether *Harmony's* offer qualifies as an 'offer to the public for the subscription of shares' as defined by section 145 of the Companies Act 1973, thereby necessitating a prospectus ([6]).
+2. Whether the offer was made to the public or only to a specific group of shareholders, impacting its categorization under the statute ([6]).
+
+### R – Rules
+The relevant legal rules and authorities cited in this case encompass:
+
+1. **Companies Act 1973, s 145**: This section stipulates that any offer to the public for subscription must be accompanied by a prospectus. If not, such offers are prohibited.
+2. **Judicial Interpretations**: The court referenced previous legal interpretations, particularly *Government Stocks and Other Securities Investment Co Ltd v Christopher* [1956] 1 All ER 490, regarding the meaning of 'subscription' to clarify that subscriptions traditionally involve cash in exchange for shares ([8]).
+3. **Public Offer Definitions**: The standard definition of 'public' was considered based on case law interpretation, notably *S v V* [1977] 2 SA 134 (T), which established that 'public' generally refers to the community at large ([11]).
+
+### A – Application
+The court engaged in a thorough examination of whether *Harmony's* offer constituted an offer to the public or was restricted to individual *Gold Fields* shareholders. 
+
+1. **Nature of Subscription**: The court examined the characteristic of the offer, highlighting that the proposed transaction involved exchanging existing shares rather than cash payments. This interpretation aligns with the earlier rulings in *Christopher's case*, which concluded that share exchanges do not fulfill the criteria for 'subscription' requiring cash ([8]-[10]). 
+   
+2. **Scope of Public Offering**: In assessing whether the offer was made to the public, the court asserted that the terms of the offer were targeted specifically at current *Gold Fields* shareholders, thus not capable of being extended to the public at large. The offer's nature—aimed at acquiring specific private property—was deemed to demarcate it from a general public offer. The mere fact that anyone could purchase *Gold Fields* shares did not transform the offer into a public offering ([14]-[16]).
+
+3. **Legal Context**: The court synthesised its findings with the legal definitions present in the Companies Act, emphasizing that the inclusion of specific provisions regarding subscription and allotment indicates legislative intent which should not be narrowly construed ([10]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, agreeing with the lower court that *Harmony's* offer did not constitute an 'offer to the public for subscription of shares' as per section 145 of the Companies Act 1973. The judgment established that the offer was not made to the public at large but specifically to the shareholders of *Gold Fields*, who held the shares involved in the exchange ([17]). The ruling has significant implications for similar corporate transactions, reinforcing the interpretation that offers directed at specific shareholders do not fall within the purview of public subscription requirements. The court ordered the appellants to pay the costs of the appeal with costs for two counsels, emphasizing the gravity of the misinterpretation of the offer's nature.
+
+By this ruling, the court clarified the boundaries of what constitutes a public offer within the framework of corporate share transactions and affirmed the necessity for careful adherence to the legislative requirements of the Companies Act.

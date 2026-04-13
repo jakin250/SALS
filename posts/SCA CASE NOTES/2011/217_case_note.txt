@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Liviero v Sundowner Property Development (49/11) 
+
+**Neutral Citation**: Liviero v Sundowner Property Development (49/11) [2011] ZASCA 217  
+**Court**: Supreme Court of Appeal of South Africa  
+**Coram**: Cloete, Heher, Cachalia, Shongwe JJA and Plasket AJA  
+**Delivered**: 29 November 2011  
+
+---
+
+### F - Facts
+
+[1] This case arises from an appeal against a decision of Hellens AJ of the South Gauteng High Court regarding a building contract dispute between G. Liviero & Son Building (Pty) Ltd (the appellant) and Sundowner Property Development (Pty) Ltd (the respondent). The appellant is a building contractor, while the respondent is a property developer.
+
+[2] In September 2004, the two parties entered into a contract (the Principal Building Agreement, JBCC1 Series 2000, Fourth Edition) for the construction of 231 sectional title units at a contract price of R52 268 174.42, inclusive of VAT. The contract included provisions for the appointment of a principal agent, Phuhlisa Development Solutions (Pty) Ltd, with Mr. F Grobler as the director in charge ([para 2]).
+
+[3] Liviero began construction on 14 September 2004. However, despite a series of extension orders, Liviero failed to achieve practical completion by the extended deadline of 28 February 2006 ([paras 4–5]). On 26 September 2006, Liviero attempted to cancel the agreement, alleging non-payment by Sundowner of a certified amount of R474 487.18 ([para 5]). 
+
+[6] Following the cancellation, Sundowner paid the outstanding amount but considered Liviero's cancellation a repudiation of the contract. Consequently, Sundowner opted to accept this repudiation and communicate its termination of the agreement ([para 6]). Liviero then continued to occupy the site, claiming a contractual lien for unpaid work ([para 7]).
+
+[8] Sundowner subsequently sought urgent relief from the High Court for Liviero’s ejection from the property and a declaration that the cancellation was invalid, based on the ownership rights over the property ([para 8]). Liviero raised an arbitration clause in the contract as a preliminary point, asserting that disputes should be referred to arbitration instead of proceeding in court ([para 10]).
+
+[12] The High Court (Louw AJ) dismissed the special plea to arbitration and ruled in favor of Sundowner, ordering Liviero’s ejection ([para 12]). Liviero’s application for leave to appeal was dismissed ([para 13]). Sundowner then filed a counterclaim against Liviero for several damages, including penalties for delay and costs resulting from incomplete work ([para 14]).
+
+### I - Issues
+
+[17] The main legal issues before the court were:
+1. Whether the prior ruling by Louw AJ regarding the arbitration clause constituted **res judicata**, preventing Liviero from raising the issue of arbitration again.
+2. Whether Sundowner’s claims in the counterclaim were barred by the principles of **issue estoppel** and **res judicata** ([paras 24–25]).
+
+### R - Rules
+
+[26] The court applied established principles regarding **res judicata**, specifically that a final judgment on a matter by a court of competent jurisdiction produces a binding effect, preventing the parties from disputing the same issues in future proceedings ([para 29]). The requirements for **issue estoppel** were also evaluated, focusing on whether the same issue was decided in previous proceedings involving the same parties ([para 27]).
+
+### A - Application
+
+[27] The court determined that the issue of whether the employer (Sundowner) could initiate arbitration had already been conclusively decided in favor of Sundowner. Thus, Liviero was barred from raising it again as this constituted an issue estoppel ([para 26]). The interpretation that the arbitration clause could not be triggered by the employer and that Liviero had waivers in approaching the High Court were reiterated as essential findings from the previous judgment ([para 28]). 
+
+[39] Regarding the counterclaim, the court found that while some claims were subject to res judicata, particularly concerning Liviero's assertion of a lawful cancellation of the contract, other aspects did not raise claims previously adjudicated ([para 39]). Only the aspect related to the purported cancellation linked to paragraph 46 of Liviero’s counterclaim was directly contradicted by the findings in the previous decision, constituting a clear res judicata barrier ([para 40]). Hence, the court upheld the special plea in relation to that claim but allowed the balance of Liviero's counterclaim to remain, thus preserving its right to argue its case on its merits further ([para 42]).
+
+### C - Conclusion
+
+[41] The court concluded that the appeal partially succeeded. The prior ruling barring the special plea of arbitration was upheld, and Liviero's counterclaims were partially reinstated, ensuring it may pursue its contractual remedies for issues that had not been finally adjudicated. The court ordered costs in favor of Liviero for the appeal while also recognizing Sundowner's success in avoiding the arbitration plea and dismissing part of the counterclaim ([para 43]). 
+
+### Implications
+
+This case underscores the importance of adhering to the determinations made in prior judgments between the same parties. It affirms that res judicata serves to maintain judicial consistency and finality in litigation, addressing both procedural and substantive elements of contract law. The decision illustrates the nuances in contractual disputes involving arbitration clauses and ensures that parties cannot revisit matters that have been conclusively decided, reaffirming the integrity of judicial determinations in commercial relationships. 
+
+--- 
+
+**References**: 
+- South African Law Reports.
+- Relevant contract law principles and precedents concerning res judicata.

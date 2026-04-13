@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+### Case Note: Haupt v Brewers Marketing Intelligence (Pty) Ltd [2006] SCA 39 (RSA)
+
+---
+
+#### F - Facts
+
+In 2006, the South African Supreme Court of Appeal adjudicated Haupt v Brewers Marketing Intelligence (Pty) Ltd, stemming from a legal dispute over copyright infringement concerning a computer program known as Data Explorer ([paras 1-2]). The appellant, Anton Haupt, sought an interdict against his brother-in-law, Christopher Brewer (the first respondent), and Byron Coetzee (the third respondent), claiming they had infringed his copyright in the Data Explorer program and related databases after Haupt left Brewer’s Almanac (where they were employed together) ([paras 2-5]). Coetzee was initially tasked with developing a program—later called Project AMPS—using AMPS data for advertising strategies, which subsequently evolved with input from Haupt and led to the creation of Data Explorer ([paras 3-4]).
+
+After their separation on July 31, 1998, Coetzee continued to develop the program for Haupt under an agreement promising him a percentage of sales ([paras 5-6]). The structure and functionalities of their respective software and databases were commercially exploited by the respondents, leading Haupt to apply for an Anton Piller order and an interdict against his former colleagues in 2001, accusing them of copying significant portions of his work ([paras 15-16]).
+
+The High Court dismissed Haupt's application, concluding that he did not hold copyright due to prior ownership claims by Brewer’s Almanac over Project AMPS and viewed the developments post-1998 as non-original ([paras 21-22]). Haupt appealed this decision, questioning the High Court's definitions of authorship and originality under the Copyright Act 98 of 1978 ([para 22]).
+
+---
+
+#### I - Issues
+
+The court faced several pertinent issues:
+
+1. **Did the High Court err in classifying the Project AMPS program as having copyright protection before the development of Data Explorer?** ([paras 21, 23])
+2. **Was the Data Explorer program sufficiently original to warrant copyright, including its improvements beyond the original Project AMPS program?** ([paras 24-25])
+3. **Who held the copyright: Haupt or Brewer's Almanac, particularly regarding software developments made after July 31, 1998?** ([paras 28, 39])
+4. **Did the respondents indeed infringe on Haupt's copyright, and if so, what was the extent of that infringement?** ([paras 43-45])
+
+---
+
+#### R - Rules
+
+The judgment fundamentally involved the interpretation of the Copyright Act 98 of 1978, specifically:
+
+- **Section 1**: A definition of a computer program, indicating it is a set of instructions for a computer, asserting that correctness of the result is unnecessary for copyright qualification ([para 23]).
+- **Section 2(1)**: Eligibility for copyright requires originality, which does not necessitate creativity but must originate from the creator ([para 35]).
+- **Section 3**: Copyright is conferred on the 'author' of a work, defined distinctly for literary works and computer programs; the control over creation is a factor ([para 27]).
+- **Section 23(1)**: Defines copyright infringement related to unauthorized reproduction of a protected work ([para 43]).
+- **Case law precedence**: Such as Interlego A G v Tyco Industries Inc, concerning improvements to copyrighted works ([para 24]), and the nuanced understanding of 'author' in cases involving independent contractors ([para 41]).
+
+---
+
+#### A - Application
+
+The court analyzed the High Court's errors on several substantive points:
+
+1. **On Originality**: The court determined that merely being an improvement did not negate copyright eligibility. Haupt's modifications to the software post-31 July 1998, despite being derived from Project AMPS, qualified for copyright if they involved substantial originality ([paras 24, 42]).
+
+2. **On Authors’ Rights**: The relationship between Haupt and Coetzee indicated that Haupt exercised the necessary control over the creation of Data Explorer after their separation. This reinterpretation of 'control' suggested Haupt's entitlement to authorship, despite being a non-programmer, reversing the High Court's claim of Brewer’s Almanac's control ([paras 39-41]).
+
+3. **On Copyright Infringement**: With evidence presenting a significant overlap between the two programs—particularly concerning databases and programming structures—the court established that the respondents had indeed reproduced a substantial part of Haupt's copyrighted work ([para 45]).
+
+---
+
+#### C - Conclusion
+
+The Supreme Court of Appeal overturned the High Court decision, ruling that Haupt held copyright in the Data Explorer program's components—including the converter and tree preparer programs—based on his control over their creation ([para 42]). The court emphasized that the improvements made post-July 1998 were substantial enough to confer copyright protection, undermining the notion that early software was automatically disqualified from further copyright due to previous ownership claims ([para 24, 39]). 
+
+The ruling paved the way for Haupt to receive an interdict preventing the respondents from infringing on his work and awarding him costs related to the legal proceedings, signifying an important precedent for the interpretation of authorship and copyright in software development within South African law ([paras 51]). This case redefined the parameters of creative control in copyright law involving software, asserting the necessity to balance ownership with creative contribution in a technologically evolving landscape.

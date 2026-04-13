@@ -1,0 +1,60 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+### FIRAC Case Note
+
+**Case Title**: Viking Inshore Fishing (Pty) Ltd v Mutual and Federal Insurance Co Ltd  
+**Neutral Citation**: [2016] ZASCA 21 (18 March 2016)  
+**Coram**: MAYA AP, WALLIS, SALDULKER and SWAIN JJA and VICTOR AJA  
+**Case No**: 41/2015  
+**Heard**: 8 March 2016  
+**Delivered**: 18 March 2016  
+**Order**: Appeal upheld with costs; judgment in favor of Viking Inshore Fishing.
+
+---
+
+### F – Facts
+
+The case arose from a tragic incident on 8 May 2005, involving the fishing vessel *Lindsay*, which collided with the *Ouro do Brasil*, resulting in the sinking of the *Lindsay* and the loss of 14 crew members ([1]). The vessel *Lindsay*, insured by Mutual & Federal Insurance Co Ltd, was owned by Viking Inshore Fishing (Pty) Ltd ([2]). Viking claimed indemnity for the insured value of R3.5 million; however, the claim was dismissed by Yekiso J in the Western Cape Division of the High Court ([2]).
+
+The marine insurance policy included various clauses, prominent among them the Inchmaree clauses, which extended the insurance coverage to include losses caused by negligence but also stipulated that such loss must not result from "want of due diligence" by Viking ([3]). Mutual & Federal raised the Merchant Shipping Act warranty as a defense, claiming Viking had breached its obligations under the Act, rendering the claim void ([5]).
+
+Key facts regarding the collision were established through expert testimony, notably from Captain Cox, who analyzed the navigational data from both vessels, addressing the actions taken by the crews shortly before the collision ([9]–[13]). The *Lindsay* was described as having a gross tonnage of 174.24 tons, while the *Ouro do Brasil* was significantly larger at 15,218 tons ([1]). On the night of the incident, the *Ouro do Brasil* made a course alteration which eventually led to a collision that the *Lindsay* could not avoid due to its operational limitations ([12]).
+
+The specifics of the crew's qualifications and their compliance with navigational regulations came into dispute. Mutual & Federal alleged that the officer of the watch, First Mate Mr. Levendal, was absent during the critical moment of the collision ([14]). This assertion and the qualifications of the crew formed a contentious part of the defenses presented by Mutual & Federal ([15]).
+
+### I – Issues
+
+1. **Primary Issue**: Could Mutual & Federal rely on the Merchant Shipping Act warranty as a defense to negate liability for indemnification under the Inchmaree clauses? ([6])
+   
+2. **Additional Issue**: Did the loss of the *Lindsay* arise from a want of due diligence on the part of Viking, thereby excluding Mutual & Federal's liability under the Inchmaree clauses? ([7])
+
+3. **Claim for Quantum**: What is the appropriate understanding of the indemnity amount claimed, specifically regarding deductions and interest rates? ([49]–[55])
+
+### R – Rules
+
+1. **Marine Insurance**: The Inchmaree clauses operate to extend coverage to ensure losses linked through negligence but remain dependent on the proviso concerning the "want of due diligence" ([3]–[4]) and  relevant interpretations under the applicable marine insurance principles ([24]).
+   
+2. **Merchant Shipping Act Warranty**: The warranty asserts that adherence to regulations under the Merchant Shipping Act must be maintained; any breach could void claims unless the breach was shown not to lead to the loss ([5]).
+
+3. **Standard of Proof**: The party asserting a defense based on due diligence must establish this failure by providing evidence directly related to the management or condition of the vessel ([29]–[30]).
+
+4. **Hearsay Evidence**: In admiralty law, hearsay may be admissible but its weight and credibility require careful scrutiny, especially if it lacks firsthand corroboration ([41]–[42]).
+
+### A – Application
+
+The court engaged in a detailed interpretation of the balance between the Inchmaree clauses and the Merchant Shipping Act warranty. Viking successfully argued that the warranty must not nullify the liability imposed by the Inchmaree clauses, with the court stating that it saw no legal basis for Mutual & Federal's claims to reconcile the two provisions ([19]–[21]).
+
+The evidence surrounding the actions leading to the collision was clearly directed at attributing negligence to both vessels. Captain Cox's testimony highlighted that the *Ouro do Brasil* altered course too gently, creating a risk of collision that both vessels failed to manage appropriately ([12]–[13]). The court accepted that the risk materialised from operational negligence, satisfying the requirement for indemnity under the Inchmaree clauses.
+
+In regard to due diligence, it was determined that any alleged lapses pertained more to operational decisions made during the incident than issues of seaworthiness or safety management that would invoke the warranty ([27]–[30]). Mutual & Federal's arguments regarding the qualifications of the crew lacked a direct causal link to the loss of the vessel, diminishing their efficacy as a defense ([44]–[46]).
+
+The trial court's reliance on uncertain testimonies related to crew qualifications was criticized, particularly as the arguments were predicated on unreliable hearsay that the court found impossible to substantiate ([41]–[43]). 
+
+Finally, on the issue of quantum, the court found in favour of Viking that the claim for R3.5 million plus interest was valid based on a valued policy format without breach of the prescribed deductibles that Mutual & Federal attempted to impose ([50]–[56]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal ruled in favour of Viking, overturning the lower court's judgment and awarding them R3,990,000 plus interest from 8 October 2005, recognizing that Mutual & Federal failed to substantiate their defenses adequately regarding both warranty breaches and due diligence aspects ([57]). This judgment reinforces critical principles in marine insurance law, particularly the interpretation of Inchmaree clauses and the conditions under which warranties operate. The case serves as a reminder of the need for precise and compelling evidence when alleging breaches of maritime regulatory requirements. 
+
+This ruling has profound implications for marine insurers in South Africa, establishing a precedent that could influence the interpretation of warranty clauses and due diligence obligations in marine insurance contracts moving forward.

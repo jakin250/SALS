@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note for Travelex Limited v Maloney (823/15) ZASCA 128
+
+## F – Facts
+
+The appeal arises from an order of attachment issued by the Gauteng Division of the High Court aimed at securing jurisdiction for a damages claim related to a share sale agreement. On 8 December 2010, Travelex Limited (the appellant) entered into an agreement for the acquisition of shares in FX Africa Foreign Exchange (Pty) Ltd from Gillian Maloney (the second respondent) and Sanderling Investments Incorporated. The respondents, who are both residents within the jurisdiction of the Western Cape Division, initiated an urgent application on 19 November 2013 for the attachment of the appellant’s shares in FX Africa, claiming that one of the suspensive conditions of the agreement—the resignation of Sean Maloney (the first respondent)—was not fulfilled.
+
+The initial application was unopposed and resulted in an interim order attaching the shares, which was confirmed by Prinsloo J on 6 February 2014. Subsequently, the appellant launched a rescission application in an attempt to annul the initial order, arguing that the granting court lacked jurisdiction due to the absence of a recognized ratio jurisdictionis and the claim that the appellant had submitted to the court's jurisdiction through the agreement. 
+
+The application for rescission was based primarily on assertions of jurisdictional incompetence, but the respondents did not address this argument comprehensively as it had not been a central focus in the founding affidavit. The Gauteng Division dismissed the rescission application, leading to the appeal ([paras 1-8]).
+
+## I – Issues
+
+The core legal issues for determination are:
+
+1. **Procedural Grounds**: Did the appellant improperly bypass established procedures for rescission under the common law or Uniform Rule 42, resulting in the dismissal of the application?
+2. **Jurisdiction**: Was there a recognized ratio jurisdictionis that allowed the Gauteng Division to grant the initial order?
+3. **Submission to Jurisdiction**: Has the appellant indeed submitted to the jurisdiction of the court, thereby rendering the attachment order competent? 
+
+These issues are layered with complexities regarding jurisdictional authority and procedural nuances in South African civil law ([paras 9-12]).
+
+## R – Rules
+
+The legal principles governing this case primarily derive from South African common law, particularly concerning jurisdiction and rescission applications.
+
+- **Nullity of Judgments**: Judicial decisions issued without jurisdiction are considered nullities. Courts are entitled to disregard such judgments without a formal setting aside ([paras 11-13]).
+- **Ratio Jurisdictionis**: Recognized bases for jurisdiction require either geographical ties or contractual connections to the court's area of jurisdiction, especially concerning attachments aimed to deduce jurisdiction ([paras 17-20]).
+- **Procedural Compliance**: A failure to adhere to formal rescission procedures as outlined by rules can impact the court's ability to enable rescission of an order ([paras 9-10]).
+- **Submission to Jurisdiction**: The doctrine of submission necessitates both parties’ consent to jurisdiction; mere procedural submission does not grant a court jurisdiction if both parties are peregrini ([paras 25-27]).
+
+## A – Application
+
+The court analyzed several factors concerning jurisdictionality, particularly focusing on the contractual ties established by the share sale agreement signed in Cape Town. The appellant claimed that the High Court lacked jurisdiction, as the relevant performances were not bound to its area. However, the court found that significant contract-related actions, such as share certificate transfers and payments, occurred within the area of the Gauteng Division's jurisdiction, establishing a valid ratio jurisdictionis for the attachment order.
+
+The court also examined the submission issue, considering the conflicting arguments presented by the appellant regarding submission versus lack of jurisdiction. The appellate court found that a unilateral performance or acknowledgment of the Gauteng court’s authority was insufficient for jurisdictional compliance, as both parties were peregrini, further complicating the notion of submission.
+
+Finally, the judgment underscored that the appellant's choice of a foreign address as its domicilium citandi et executandi evidenced a lack of submission, aligning with established jurisprudence that contemplates foreign defendants choosing domestic domicilium as an indicator of jurisdictional acceptance ([paras 16-32]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal upheld the decision of the Gauteng Division, ruling that the initial attachment order was valid due to the existing jurisdiction. The appellant's claims of procedural impropriety were dismissed on the grounds that the court had sufficient jurisdiction to issue the order of attachment. The conclusion reinforces the principles that judicial authority remains intact for orders made by courts that establish recognized jurisdiction, and an initial order remains enforceable unless proven otherwise, regardless of subsequent procedural challenges. Costs were awarded against the appellant. The ruling reaffirms pivotal jurisdictional precedents while elucidating the complexities surrounding submission to jurisdiction in the context of peregrini ([paras 33-34]).
+
+---
+
+This case note serves a comprehensive understanding of the pivotal legal implications surrounding jurisdiction and procedural compliance in South African civil procedure, with specific reference to the apex court's interpretation in the context of domestic and international factors.

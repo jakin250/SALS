@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note
+
+## Simon Roy Arcus v Jill Henree Arcus (4/2021) [2022] ZASCA 9
+
+### FIRAC Method
+
+#### F – Facts
+
+The case involves an appeal in relation to a maintenance order resulting from a divorce between Simon Roy Arcus (Appellant) and Jill Henree Arcus (Respondent). The divorce was finalized on 27 July 1993, where a consent paper was made an order of the court, stipulating that Simon would pay maintenance for Jill until her death or remarriage, and for their two daughters until they became self-supporting. The children's maintenance obligations ceased by 2002 and 2005 when they became self-sufficient. Despite this, Simon failed to pay the stipulated maintenance until 2019, when Jill initiated a letter of demand, seeking arrears totaling R3.5 million. 
+
+On 27 August 2019, Simon sought to discharge his maintenance obligations through an application in the maintenance court, which remains pending. Conversely, on 17 February 2020, Jill issued a writ of execution for the arrears owed. Simon subsequently filed an application in the Western Cape Division of the High Court seeking to stay the writ and declaring that his maintenance obligations that accrued before 1 March 2017 had prescribed under three years’ limitation. The high court held that the maintenance obligations constituted a "judgment debt" under section 11(a)(ii) of the Prescription Act 68 of 1969, initiating a 30-year prescription period. Simon appealed this decision with leave from the high court.
+
+#### I – Issues
+
+The primary issue is whether an undertaking to pay maintenance made in a divorce consent paper, which was transformed into a court order, constitutes a "judgment debt" as defined under section 11(a)(ii) of the Prescription Act, thereby subjecting it to a 30-year prescription period, or whether it is classified as “any other debt,” with a three-year limitation period under section 11(d) ([paras 1-9]).
+
+#### R – Rules
+
+The legal framework relevant to the case incorporates sections 11(a)(ii) and 11(d) of the Prescription Act, which delineate the respective prescription periods applying to debts:
+
+- **30 Years for Judgment Debts (s 11(a)(ii))**: Any amount due under a civil judgment since it is definitive and executable without further proof.
+- **3 Years for Other Debts (s 11(d))**: Any debts other than those specified that require diligent enforcement within a shorter time frame.
+
+Additionally, the ruling in *Eke v Parsons* [2015] ZACC 30 emphasizes that consent agreements that become court orders confer finality and are enforceable as civil judgments. The principles derived from *Myathaza v Johannesburg Metropolitan Bus Services* [2016] ZACC 49 suggest that prescription periods apply based on the definitive nature of claims ([paras 11-21]).
+
+#### A – Application
+
+The court's analysis focused on whether maintenance orders, despite their potential for variation, still bore the attributes of a final and executable civil judgment:
+
+1. **Definitiveness**: The court held that maintenance orders settle the rights and obligations of the parties based on facts known at the time of the order. Any subsequent variation of the order is contingent on showing changed circumstances, thus not undermining the finality of the order ([paras 19-20]).
+
+2. **Enforceability**: Maintenance orders are executable directly without further proving the basis of the claim. This characteristic affirmatively aligns with the definition of a judgment debt ([paras 21-23]).
+
+3. **Attributes of Variation**: While maintenance orders can be altered, this does not negate their nature as judgment debts. The court noted that variation requires evidence of new circumstances, making the prior order res judicata ([paras 24-25]).
+
+4. **Policy Considerations**: The court assessed the implications of a long prescription period, concluding that an extended 30-year period offers crucial protection to beneficiaries—often vulnerable women and children—against potential non-compliance or evasion by debtors. The concerns that a longer period does not serve the objectives of timely enforcement were dismissed as unjustified ([paras 26-48]).
+
+The court concluded that the high court correctly determined that the maintenance obligation arose from a "judgment debt," thus applying the 30-year prescription period, reflecting the legislature's intent to protect vulnerable parties.
+
+#### C – Conclusion
+
+The appeal was dismissed with costs. The ratio decidendi established that maintenance orders resulting from divorce consent agreements, once turned into court orders, classify as judgment debts under the Prescription Act, subject to a 30-year limitation period. This ruling upholds the enforceability of maintenance obligations and reinforces the protection of vulnerable individuals entitled to such support ([paras 49]). 
+
+In sum, the interpretation facilitates both the legal certainty of obligations under maintenance orders and provides protective measures for maintenance creditors against the potential abuses of the prescription framework.

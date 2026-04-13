@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# Case Note: Road Accident Fund v Van den Berg [2005] ZASCA 40
+
+## FIRAC Method
+
+### F – Facts
+The case of *Road Accident Fund v Van den Berg* ([1]) revolves around a critical determination regarding the classification of a Hamm GRW 18 pneumatic tyre roller (PTR) as a "motor vehicle" under the Road Accident Fund Act 56 of 1996 ("the Act"). The respondent, Erika Van den Berg, initiated proceedings in the High Court of Johannesburg after her husband was fatally injured in a collision involving a PTR. The appellant, the Road Accident Fund (RAF), posited a special plea that the PTR did not meet the statutory definition of a "motor vehicle," thus arguing for the dismissal of the respondent’s claim.
+
+The court a quo initially ruled in favor of the respondent, affirming that the PTR did fall within the statutory definition, leading to the RAF's appeal ([2]). The definition in question states: “motor vehicle means any vehicle designed or adapted for propulsion or haulage on a road by means of fuel, gas or electricity, including a trailer, a caravan, an agricultural or any other implement designed or adapted to be drawn by such motor vehicle” ([3]). The court had to evaluate the objective design and intended use of the PTR, assessing whether it was indeed designed for propulsion on a road, which was ultimately determined to be in dispute.
+
+The PTR displayed various attributes indicative of a motor vehicle, inclusive of a three-speed gearbox, braking systems akin to those in trucks, and standard lighting features. Its operational use included travelling between construction sites, which was supported by expert testimony ([4]-[9]).
+
+### I – Issues
+The central legal question presented to the court was whether the PTR, despite its primary purpose of compacting road surfaces, qualifies as a "motor vehicle" under the definition stipulated in section 1 of the Act. Specifically, the court was tasked with determining if the PTR was "designed for propulsion on a road" in an objective sense ([1], [7]). This necessitated a thorough analysis of whether its design features and actual use patterns substantiated its classification as a motor vehicle.
+
+### R – Rules
+The court relied on a series of legal principles and precedents in its deliberation:
+
+1. **Objective Test for Design**: The assessment of whether a vehicle is designed for road propulsion must be objective, focusing on how an ordinary person would perceive its general use ([6], [8]).
+
+2. **Precedents**:
+   - In *Road Accident Fund v Mbendera* and *Mutual and Federal Insurance Co Ltd v Day*, the definition of “road” was clarified not to be restricted to public roads ([5]).
+   - The case *Chauke v Santam Ltd* underscored that if ordinary, reasonable usage would make operating a vehicle on public roads hazardous without adaptations, it would not qualify as a motor vehicle ([12]).
+
+These principles guided the assessment of the PTR's characteristics and its usage as evidence of whether it meets the statutory definition.
+
+### A – Application
+In applying these rules, the court examined the evidence that the PTR is employed not only for compaction but also regularly transported on public roads between construction sites ([9]). The plaintiff's expert witness, a mechanical engineer with extensive experience in construction vehicles, testified that PTRs are commonly used on roads in a manner that aligns with the design features prescribed by the Act ([4], [9]). 
+
+Despite arguments from the appellant regarding the inherent dangers associated with driving a PTR on public roads—such as its maximum speed of 20 km/h and its high center of gravity ([12], [16])—the court concluded that these did not preclude it from being considered a motor vehicle. The court reasoned that a vehicle's design encompasses its general use, and since the PTR is designed with safety features compatible with road travel, it conforms to the definition provided in the Act ([10]-[17]). 
+
+The court also dismissed the appellant's assertion that the design implications make the PTR unsuitable for road use. It was determined that a reasonable observer would not view the PTR as extraordinarily difficult or hazardous to operate on public roads, especially given the safety measures in place ([13]-[15]).
+
+### C – Conclusion
+Ultimately, the Supreme Court of Appeal ruled to dismiss the appeal, affirming the lower court's decision that the PTR qualifies as a "motor vehicle" under the Act ([18]). The court's ruling underscored the necessity of evaluating both the objective design and actual use of vehicles within the defined context, thereby setting a precedent for future cases concerning vehicle classifications under the Road Accident Fund Act.
+
+The implications of this decision are significant for the interpretation of motor vehicle definitions in South African law, particularly in contexts where vehicles serve dual purposes beyond traditional expectations. It reinforces the importance of an objective understanding in legal classifications, influencing both vehicular liability and insurance claims linked to road accidents.
+
+---
+
+### References
+- Road Accident Fund Act 56 of 1996.
+- Road Accident Fund v Mbendera [2004] 4 All SA 25 (SCA).
+- Mutual and Federal Insurance Co Ltd v Day [2001] 3 SA 775 (SCA).
+- Road Accident Fund v Vogel [2004] 5 SA 1 (SCA).
+- Chauke v Santam Ltd 1997 (1) SA 178 (A). 
+
+*Please note that all references adhere to OSCOLA citation style.*

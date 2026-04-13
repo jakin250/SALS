@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+## FIRAC Case Note: Pahad Shipping CC v Commissioner for the South African Revenue Service
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–3])
+In **Pahad Shipping CC v Commissioner for the South African Revenue Service** [2009] ZASCA 172, the Supreme Court of Appeal addressed the validity of customs duties assessed on the appellant, Pahad Shipping CC (the “Appellant”), concerning amounts designated as ‘finance charges’ that were paid to Al Ajwad International LLC, an import-export agent based in Dubai. The case arose from a determination by the South African Revenue Service (SARS) that these finance charges were part of the transaction value of the imported goods, leading to an underpayment of customs duties amounting to R247,440.20. The originally assessed value had increased the total duties payable, which included value-added tax and penalties totaling R130,104.24 and R94,386.04, respectively ([para 1]).
+
+The Witwatersrand Local Division dismissed the Appellant's challenge to this determination, affirming SARS’ assessment and granting the Appellant permission to appeal ([paras 1-2]). The key factual contention involved whether the 'finance charges' were falsely categorized, as the Appellant claimed they did not represent a commission for services rendered in procuring the goods and hence should not be included in the customs value ([paras 3, 5, 6]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 2-5])
+The primary legal issue in this case concerned the interpretation of “transaction value” under the Customs and Excise Act 91 of 1964, especially the validity of including the finance charges as part of this value ([paras 1-4]). The specific question posed to the appeal court was whether the 'finance charges' constituted a 'commission' or similar charge that needed to be added to the transaction value upon which customs duty is calculated, or if they were merely a financial service fee that did not fall under the statutory definitions ([para 5]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 2-4])
+The court primarily engaged with the provisions of the **Customs and Excise Act 91 of 1964**. Section 65(1) establishes that customs duties are determined based on the transaction value of imported goods, which per **Section 66** is defined as the total price paid or payable by the buyer. This value must be adjusted as provided in **Section 67**, which states that charges like commissions must be added to the price if they are to the benefit of the seller, excluding buying commissions ([paras 2, 4]). 
+
+The court also referenced **Tikly v Johannes NO** (1963 (2) SA 588) regarding the different types of appeals, clarifying that in this instance, the appeal was treated in the wide sense, allowing for a complete reassessment of both the facts and law ([paras 13-14]). 
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 5-21])
+The Appellant primarily argued that the financial charges were not commissions for services and hence should not be included in the customs value. The court examined the written agreement between Pahad Shipping and Al Ajwad, particularly focusing on clause 2.5, which indicated a confirming commission of 5%. This clause was critical in assessing whether the finance charges should form part of the transaction value ([para 4-5]).
+
+The court scrutinized evidence of transactions and documentation, noting substantial inconsistencies in the Appellant's claims. For instance, it was highlighted that the order and subsequent payment instructions suggested Al Ajwad’s involvement in the procurement process, which contradicted the Appellant’s assertion that the charges were unrelated to the transaction value ([paras 7-9]). 
+
+The court expressed serious concerns regarding the credibility of the Appellant's representations, particularly given the documentary evidence that suggested a different nature to the relationship and the transactions than Pahad Shipping posited ([paras 17-18]). 
+
+Ultimately, the court could not accept the Appellant's claims regarding the nature of the relationship with Al Ajwad, affirming SARS’ interpretation that the ‘finance charges’ were to be considered part of the transaction value for customs duty purposes. However, upon reflecting on the evidential inconsistencies and the need for specific factual clarifications, the court allowed for the case to be adjourned for cross-examination of the Appellant ([paras 19-21]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 21])
+The Supreme Court of Appeal upheld the appeal, concluding that the High Court had erred in dismissing the Appellant's evidence outright without allowing for a proper cross-examination that might have clarified inconsistencies and validated the Appellant's claims ([para 21]). The court emphasized the necessity of examining the credibility of the Appellant's assertions, indicating the wide-reaching implications of the case in regard to how commissions and service charges are determined under the Customs and Excise framework. These decisions set a precedent for future customs valuation challenges, underlining the requirement for procedural justice in hearings regarding customs duties and the critical nature of substantiating claims with credible evidence. 
+
+Thus, the court concluded that the case would be sent back for further examination allowing an opportunity for cross-examination of the evidence in light of the findings made regarding the financial arrangement between the Appellant and Al Ajwad ([para 21]).

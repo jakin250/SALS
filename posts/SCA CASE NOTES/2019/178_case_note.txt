@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Shepherd Real Estate Investments v Roux Le Roux Motors CC 
+
+## F – Facts ([paras 1–25])
+
+This case involves Shepherd Real Estate Investments (Pty) Ltd (the appellant) appealing against a decision from the Western Cape Division of the High Court that had previously ruled in favor of Roux Le Roux Motors CC (the respondent). The dispute arose from a lease agreement dated 7 November 2007, wherein Shepherd Industrial Commercial Real Estate CC (the original landlord) leased a commercial property located at the corner of Jan van Riebeek Drive and Wamkelekile Street, Paarl, to the respondent for operating a petrol station ([para 2]).
+
+The agreement specified an initial five-year term with an option for two five-year extensions ([para 2]). The starting rental was set at R18,000, escalating annually at 8% ([para 2]). Clause 6 of the lease provided for renewal terms, which required mutual agreement on rental costs in writing. Specifically, it stated that "the rental and costs shall be mutually agreed upon in writing between the landlord and tenant when the right of renewal is exercised" ([para 1]).
+
+The appellant obtained the rights and obligations under this lease when it was ceded from Shepherd Industrial to Shepherd Real Estate Investments on 11 October 2017 ([para 4]). When the respondent sought to execute their second renewal option for a five-year term, disputes arose regarding the rental fee. The appellant proposed a rental of R150,000 per month, while the respondent contended it should be based on the existing escalation policy ([paras 5–6]). Subsequent attempts to reach an agreement were unsuccessful, leading the appellant to apply to the High Court for the ejectment of the respondent on the grounds that the agreement had lapsed due to non-renewal, which the High Court initially dismissed ([para 8]).
+
+## I – Issues ([paras 1–25])
+
+The legal issues of the case center around the validity and enforceability of the lease renewal terms, particularly regarding clause 6, which was claimed to be void for vagueness ([para 13]). The central questions include:
+
+1. **Whether clause 6 constituted an enforceable agreement or simply an agreement to agree, thereby lacking the necessary legal certainty required for a contract.**
+2. **The applicability of a deadlock-breaking mechanism in the event that the parties failed to reach a consensus on rental amounts.**
+3. **Whether the High Court was correct in its reasoning regarding the necessity of an arbitration provision to resolve the dispute.**
+
+## R – Rules ([paras 1–25])
+
+The key legal principles involved in this case include:
+
+1. **The Law of Contracts:** The enforceability of contracts requiring clear terms is paramount ([para 8]). 
+   - The precedent set in *Roazar CC v The Falls Supermarket CC* ([2017] ZASCA 166) consolidates the principle that an agreement requiring parties to negotiate further lacks enforceability unless specific terms are included.
+   - The requirement for clarity in agreements is exemplified by previous holdings, such as in *Southernport Developments (Pty) Ltd v Transnet Ltd* ([2005] 2 SA 202 (SCA)), which emphasized the importance of having a clear basis for any renewal terms to be enforceable.
+
+2. **Arbitration and Deadlock Mechanisms:** The necessity for an arbitration clause as a deadlock-breaking mechanism, as previously established in *Makate v Vodacom Ltd* ([2016] 4 SA 121 (CC)), affirms that such clauses are essential to validate agreements prone to negotiation.
+
+3. **Rectification:** The rights established in a lease agreement can be rectified based on common intention when mistakenly recorded, but only if there is an actual misunderstanding or mistake ([para 21]).
+
+## A – Application ([paras 1–25])
+
+The Supreme Court of Appeal applied the above rules to determine that clause 6 was void for vagueness. The court highlighted that the requirement for mutual agreement on rental costs lacked definitive parameters, thus leaving it open-ended and unenforceable. This gap constituted an agreement to agree, which the law does not enforce ([para 16]).
+
+Regarding the appellant's position, the lack of a deadlock-breaking mechanism further underscored the void nature of clause 6. Simply having an arbitration clause did not resolve the fundamental issue of not reaching an agreement on the terms of the renewal ([para 19]). In dismissing the High Court's finding that the lease contained an implicit deadlock-breaking condition, the court clarified that the absence of clear, express terms had rendered it impossible for any meaningful contractual obligation to arise for the rental agreement in the renewal ([para 20]).
+
+The court also addressed the defenses raised by the respondent, including rectification and the assertion of a tacit term suggesting a reasonable rental escalation. It ruled that these defenses were not sustainable, as the rights arising from the agreement could not pivot upon unclear terms that had already been expressed in the written agreement. Instead, it emphasized the necessity for clarity in drafting such agreements to ensure enforceability ([para 22]).
+
+## C – Conclusion ([paras 1–25])
+
+The Supreme Court of Appeal upheld the appeal and ruled that the lease agreement could not sustain the renewal as it lacked a clear and enforceable clause concerning the rental costs. The notion of integrating a deadlock-breaking mechanism was insufficient in the context of a mutual rental agreement that did not materialize due to vagueness ([para 25]). 
+
+### Implications:
+This decision elucidated the crucial necessity for parties entering rental agreements to ensure that all terms, especially those pertaining to pricing, are explicit and complete to avoid disputes and potential unenforceability. It further underscored the significance of placing robust mechanisms within agreements to address potential points of deadlock.
+
+By voiding clause 6 due to its lack of decisiveness, the ruling serves as a cautionary tale to businesses and legal practitioners regarding the drafting of commercial contracts and lease agreements, insisting on clarity, specificity, and well-defined pathways for resolving disputes.
+
+This case therefore contributes meaningfully to contract law, emphasizing the extreme importance of certainty in commercial obligations and the enforceability of terms that may arise from ambiguously worded agreements.

@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+### FIRAC Case Note: *Lueven Metals (Pty) Ltd v Commissioner for the South African Revenue Service* [2023] ZASCA 144
+
+#### F - Facts
+Lueven Metals (Pty) Ltd (the appellant) is involved in the trade and refining of precious metals, primarily gold, and is registered as a Category C vendor under the Value Added Tax Act 89 of 1991 (the VAT Act) ([para 1]). The appellant obtains gold-containing material from preapproved suppliers, which is not of pure quality as pure gold is unsuitable for everyday uses ([para 2]).
+
+Over the tax periods from 2018 to 2020, the appellant zero-rated supplies of gold bars sent to Absa Bank, totaling R51,036,867.34 in refunds, which they sought from the respondent, the Commissioner for the South African Revenue Service (SARS) ([paras 6-8]). During a VAT and Income Tax audit, SARS indicated that the gold acquired had undergone a manufacturing process, making it ineligible for zero-rating under s 11(1)(f) of the VAT Act, leading to a proposed reassessment as standard-rated sales with an associated VAT liability ([paras 7-8]).
+
+On 2 June 2021, after SARS's audit findings, the appellant submitted a request for reconsideration to SARS and subsequently issued an application to the High Court for a declaratory order regarding the interpretation of s 11(1)(f) on 24 June 2021. The relief sought involved various interpretations concerning the definitions and requirements related to gold's tax treatment ([paras 11-12]).
+
+The High Court dismissed the appellant’s application, leading to this appeal ([paras 11, 31]). 
+
+#### I - Issues
+The primary legal issue before the Supreme Court of Appeal was whether the High Court correctly entertained the appellant's application for a declaratory order concerning the interpretation of s 11(1)(f) of the VAT Act in the absence of a final assessment from SARS as required under s 105 of the Tax Administration Act 28 of 2011 (the TAA) ([paras 12, 14, 21, 30]).
+
+Further, it examined whether a declaratory order was appropriate given the existing statutory framework and the discretion afforded to the courts in tax matters ([para 23]).
+
+#### R - Rules
+The legal framework governing this appeal primarily involves the interpretation of the VAT Act and TAA. Relevant provisions include:
+
+1. **Value Added Tax Act Section 11(1)(f)**: This section specifies the conditions under which the supply of gold may be zero-rated ([para 1]).
+   
+2. **Tax Administration Act Section 105**: This stipulates that a taxpayer may only dispute an assessment or decision as described in s 104 via the objection and appeal process unless directed otherwise by a High Court ([paras 12, 14]).
+
+3. **Superior Courts Act Section 21(1)(c)**: It allows the courts to grant declaratory orders at the instance of any interested party regarding existing, future, or contingent rights or obligations ([para 12]).
+
+The court also referenced related case law, including *Metcash Trading Limited v Commissioner for the South African Revenue Service* and related judgments that delineate the jurisdiction of courts to grant declaratory relief in tax matters ([paras 17-18]).
+
+#### A - Application
+The court analyzed whether the High Court had the jurisdiction to grant the requested declaratory relief. It clarified that the statutory scheme requires exhaustion of internal remedies through the TAA, which underscores the necessity for assessments to be issued before a declaratory order can be sought. Thus, the court concluded that the appellant’s application preemptively brought the matter to the High Court prior to allowing SARS to finalize its tax assessment process ([paras 14-15, 21, 24]).
+
+Despite arguments from the appellant that their application should proceed as no assessment had yet been issued, the court found that the absence of bestowing a directive in terms of s 105 did not render the declaratory relief appropriate. Furthermore, the complexity of the issues—intertwined facts and legal questions meant for resolution under the TAA—indicated the High Court should not have entertained the application ([paras 25-30]).
+
+Justice Ponnan, leading the majority opinion, further emphasized the discretionary nature of declaratory relief and noted that the appellant had not satisfied the court that the circumstances were exceptional to justify bypassing the standard objection and appeal procedure required under tax law ([paras 22-23, 29-30]).
+
+#### C - Conclusion
+The Supreme Court of Appeal dismissed the appeal, upholding the High Court's decision to refuse the declaratory order. The court held that the High Court had correctly assessed and applied the statutory provisions of the TAA, thereby dismissing the appeal with costs, including those of two counsel ([paras 31, 32]). 
+
+The judgment reinforces the principle that declaratory relief is an exceptional remedy in tax disputes and clarifies the importance of the statutory dispute resolution framework in the TAA. The decision serves as a significant reference point for future cases involving tax law and the parameters around seeking declaratory orders in matters where assessments have not been finalized.

@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Eskom Holdings SOC Limited v Babcock Ntuthuko Engineering (Pty) Ltd ([2024] ZASCA 63)
+
+**FIRAC Case Note**
+
+### F - Facts
+
+The case involves a procurement process initiated by Eskom Holdings SOC Limited (Eskom) through a Request for Proposals (RFP) for maintenance and outage repair services across its coal-fired power stations ([1]–[2]). The RFP, published in August 2018, specified that bidders were required to submit an ISO 3834 certificate as a mandatory returnable document; failure to comply would lead to disqualification ([2]).
+
+Babcock Ntuthuko Engineering (Pty) Ltd (Babcock) submitted its proposal but did not include the ISO certificate by the submission deadline and was subsequently disqualified ([4]–[5]).Esk om awarded the tender to two other bidders, Actom (Pty) Ltd and Steinmüller Africa (Pty) Ltd, leading Babcock to question the legality of that decision in the North Gauteng High Court ([3], [6]). The High Court sided with Babcock, declaring its disqualification procedurally unfair and calling for a fresh tender process ([5]).
+
+The appeal to the Supreme Court of Appeal (SCA) sought to overturn the High Court ruling, with the main arguments focusing on the clarity of the RFP’s requirements and the legality of Eskom's decision to split the tender award between multiple bidders ([7]).
+
+### I - Issues
+
+The primary legal issues presented to the court included:
+
+1. Whether Babcock was correctly disqualified from the tender process for its failure to submit the ISO 3834 certificate by the stipulated deadline ([34]).
+   
+2. Whether Eskom acted lawfully in splitting the tender award between multiple successful bidders and if such action complied with the requirements of the Preferential Procurement Policy Framework Act (PPPFA) ([49]–[50]).
+
+### R - Rules
+
+The SCA analyzed the issues in light of several key legislative and case law principles:
+
+- Section 217 of the Constitution of South Africa mandates public procurement be conducted in a manner that is transparent, fair, equitable, competitive, and cost-effective ([34]).
+  
+- The PPPFA outlines principles for awarding tender contracts, specifically emphasizing that tenders must generally be awarded to the highest scoring bidder unless objective criteria dictate otherwise ([49]).
+
+- The SCA also referenced previous case law, including *Allpay Consolidated Investment Holdings (Pty) Ltd v Chief Executive Officer of the South African Social Security Agency* ([38]), which emphasized evaluating material compliance based on the purpose of the requirements rather than strict adherence to formality.
+
+### A - Application
+
+In examining the facts, the SCA found that the RFP unambiguously required bidders to submit an ISO 3834 certificate and that Babcock’s failure to do so constituted a lawful basis for its disqualification ([35]–[47]). The court emphasized that a mere statement of certification could not substitute for the actual document required and that Eskom’s procurement policy did not allow discretion in this regard.
+
+As for the splitting of the tender award, the SCA concluded that Eskom's strategy to award the contract to multiple bidders was articulated in the RFP and accepted by Babcock and other bidders ([52]–[54]). The court noted that splitting the contract was a necessity driven by operational considerations and thus did not violate the provisions of the PPPFA.
+
+The SCA also elucidated that while Babcock contended the splitting should have been based on objective criteria, it established that the conditions set forth in the RFP for such decisions were adequate ([56]–[58]). The strategy was deemed rational, lawful, and aligned with Eskom's broader objective of risk management in servicing its power plants.
+
+### C - Conclusion
+
+The SCA upheld the appeal, overturning the High Court’s order and declaring Babcock’s disqualification lawful. The ruling emphasized that strict adherence to procurement regulations is essential for upholding competition and preventing corruption ([47]). The court ordered that Babcock pay the costs of the appeal, reinforcing the principle that successful parties in legal disputes should have their costs covered by the losing parties ([59]).
+
+In summary, the case clarifies the requirements for compliance with mandatory tender conditions and the legality of splitting tender awards, underscoring the balance between regulatory adherence and practical procurement needs in South Africa's public sector.

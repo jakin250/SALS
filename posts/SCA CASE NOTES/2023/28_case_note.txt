@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Commissioner for the South African Revenue Service v Rappa Resources (Pty) Ltd
+
+**Neutral Citation**: Commissioner for the South African Revenue Service v Rappa Resources (Pty) Ltd (Case no 1205/2021) [2023] ZASCA 28 (24 March 2023)  
+**Coram**: Ponnan, Molemela, Gorven, Meyer JJA and Mali AJA  
+**Heard**: 23 February 2023  
+**Delivered**: 24 March 2023  
+
+## F – Facts
+
+The case originated with the issuance of assessments by the appellant, the Commissioner for the South African Revenue Service (SARS), to the respondent, Rappa Resources (Pty) Ltd (Rappa), on 29 March 2021, concerning Value Added Tax (VAT), penalties, and interest ([1]). Rappa was informed that any objection it wished to lodge must comply with section 104 of the Tax Administration Act 28 of 2011 (TAA) ([1]).
+
+Instead of lodging an objection per the prescribed procedure, Rappa submitted an urgent application to the Gauteng Division of the High Court, Johannesburg on 28 April 2021 ([2]). The application sought to review the actions and assessments of SARS, arguing that they were unconstitutional and invalid, relying on the principle of legality ([2]). Furthermore, Rappa sought the disclosure of documents related to the assessments under Uniform Rule 53(1)(b), but when SARS denied this request, Rappa initiated a compelling application under Uniform Rule 30A ([3]) as well.
+
+SARS countered that Rappa’s review application was not competent, citing section 105 of the TAA, which stipulates that a taxpayer may only dispute an assessment through the objection and appeal process unless a High Court prescribes otherwise ([3]). The issues of jurisdiction and the High Court’s power to compel the disclosure of documents became a focal point of the proceedings. The High Court ruled in favor of Rappa, allowing the review and compelling SARS to produce the required records, leading SARS to appeal ([6], [7]).
+
+## I – Issues
+
+The central legal questions pertained to the jurisdiction of the High Court to compel the production of documentation by SARS in relation to a review application made by Rappa without first obtaining a directive under section 105 of the TAA. The specific issues included:
+
+1. **Whether the High Court had jurisdiction to compel SAR to produce the record in the absence of a directive under section 105 of the TAA. ([8])**
+2. **Whether Rappa's argument of legality allowed it to bypass the procedural requirements of the TAA outlined in sections 104 to 107. ([12])**
+
+## R – Rules
+
+The legal framework predominantly includes the following provisions:
+
+1. **Section 105 of the Tax Administration Act 28 of 2011**: This section restricts the ability of a taxpayer to dispute an assessment solely through objection and appeal procedures prescribed under sections 104 to 107 of the TAA, unless the High Court determines otherwise. The High Court has no jurisdiction to entertain a review unless a directive is issued ([3], [8]).
+
+2. **Uniform Rule 53**: This rule outlines the procedure for review applications, requiring the respondent to provide the applicant with the record of the decision under review ([3]).
+
+3. **Judicial Precedents**: The court drew on the precedental authority from *Competition Commission v Standard Bank of South Africa Ltd* ([9]) to elucidate that orders compelling the production of records are appealable. It underlined the precedent that a court must first establish its jurisdiction over a matter before ordering such production.
+
+4. **Concept of "Exceptional Circumstances"**: According to case law such as *ABSA Bank v Commissioner, SARS*, the High Court retains discretion to allow for deviations from the standard tax dispute procedures in exceptional circumstances ([21]).
+
+## A – Application
+
+The Court's analysis emphasized the critical importance of jurisdiction in administrative reviews. It established that Rappa, by not obtaining a directive per section 105, essentially failed to meet the jurisdictional prerequisites necessary for the high court to hear its review application. The Court reiterated that, under current law, tax disputes are primarily within the ambit of the tax court, and only in exceptional cases can a taxpayer approach the high court directly ([12], [20]).
+
+Furthermore, the Court clarified that Rappa's attempts to argue that its challenges to the tax assessments were based on legality and not merit did not allow it to circumvent the statutory procedures prescribed for tax disputes. The wide provisions for objections in section 104, permitting an aggrieved taxpayer to contest an assessment variably, did not permit a review of the legality outside the prescribed procedural mechanism established in the TAA ([10], [12]).
+
+In determining the jurisdictional challenges surrounding Rappa's review and the compelling application, the Court noted that the High Court's failure to address the jurisdictional question upfront was fatal. It ruled that the High Court's orders, which compelled the review and production of documentation, were nullities due to the lack of jurisdiction ([26]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal held that the appeal by SARS was upheld with costs, and the orders of the High Court compelling the production of records and permitting the review application were set aside ([27]). The Court's judgement emphasized the stringent adherence to statutory processes established under tax law, reinforcing the notion that the High Court's jurisdiction to intervene in tax matters is exceptional and requires explicit authorisation under the TAA.
+
+The implications of the ruling are significant as they underscore the importance of strict compliance with procedural requirements in tax disputes, further defining the landscape of taxpayer rights and administrative law within South Africa's tax regime. The judgement serves as a cautionary tale regarding the necessity for taxpayers to exhaust all statutory remedies before seeking judicial review, thereby ensuring appropriate administrative accountability while preserving the integrity of tax legislation.

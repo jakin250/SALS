@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+### FIRAC Case Note: SA Mohair Brokers Ltd v Louw (602/10) [2011] ZASCA 87
+
+#### F – Facts
+
+The appellant, **SA Mohair Brokers Ltd** (hereinafter "SA Mohair"), and **BKB Ltd** were engaged in the mohair brokerage industry and were competitors in the market ([1]). SA Mohair's principal asset comprised 66% of the issued share capital of its operating company, **CMW Operations (Pty) Ltd** ([1]). The appellant aimed to sell its shares in CMW to **Oos-Vrystaat Kaap Operations Ltd**, necessitating a special resolution as per **section 228 of the Companies Act 61 of 1973** ([1]). BKB desired to purchase those shares but was concerned about competition law implications and therefore sought to prevent the special resolution by acquiring shares from other shareholders of SA Mohair, supplemented by obtaining proxies to vote against the proposal ([1]).
+
+The shareholders submitted four documents to BKB to formalize their intention to sell their shares, including a sale agreement, a request for share issuance, a blank securities transfer form, and a signed blank proxy form ([2]). The sale agreement stipulated a payment of R2 for the shares and established a proxy for BKB to vote appropriately at the upcoming shareholders' meeting ([3]).
+
+However, when the proxies were presented at the meeting, the chairman, upon legal advice, declared them invalid, asserting that the shares' sale without prior approval of the directors violated the company's articles of association and thus rendered the entire transaction, including the proxies, void ([4], [5]). The chairman's rationale hinged on provisions from the company’s Articles of Association, which mandated prior approval from directors for any transfer of shares ([4]).
+
+The trial court originally ruled in favor of setting aside the resolutions made during the meeting on the grounds that the rejection of the proxies was unjustly prejudicial to shareholders, as per **section 252 of the Act** ([10]).
+
+#### I – Issues
+
+The primary legal issue before the Supreme Court of Appeal was whether the rejection of the proxies for being tied to an unauthorized sale of shares rendered the proxies void and whether such determination could result in setting aside the subsequent resolutions passed during the meeting ([6], [10]). Specifically, relevant questions included:
+
+1. What is the effect of an unauthorized share sale under the Articles of Association on the validity of proxies submitted for voting?
+2. Can an agreement regarding the sale of shares, lacking prior approval, be deemed null and void, or does it retain binding effect between the parties involved?
+3. Was the equitable remedy under section 252 applicable given the court's determination regarding the validity of the proposed transaction and proxies?
+
+#### R – Rules
+
+The case heavily relied on statutory interpretation pertaining to the **Companies Act 61 of 1973**, particularly:
+
+- **Section 228**: Concerning the procedures required for the sale of shares.
+- **Section 252**: Allowing courts to set aside acts or omissions by a company deemed unjustly prejudicial ([10]).
+
+Additionally, the Articles of Association of SA Mohair outlined specific requirements for the transfer of shares, including the necessity for prior approval from the directors ([4]). Key clauses included:
+
+- Clause 15.2: Stipulating that shareholders cannot sell shares without prior director approval.
+- Clause 15.3: Reiterating non-compliance consequences, specifically that shareholders would not be entitled to vote or receive dividends if the shares were sold contrary to the rules.
+
+#### A – Application
+
+The court examined the implications of the non-compliance with the Articles of Association while asserting that the failure to secure prior directors' approval did not render the sale void under the law. It pointed out that while the sale could be invalidated at the company level (i.e., the company was not required to register the purchaser as a shareholder), the transaction between seller and BKB remained valid and enforceable ([6], [7]).
+
+The court further reasoned that the rejection of the proxies was unwarranted. Since the sales and the proxies were legally separate, the existence of a valid proxy should not depend upon the validity of the sale agreement. The shareholders' intention to vote through proxies was regarded as an independent act which should have been honored, regardless of their sale agreements ([8]). The ruling thus clarified that a proxy validly executed by a shareholder prior to the meeting must be accepted, unless otherwise invalidated under statutory provisions, not mere company policy ([8]).
+
+Regarding the equitable ground for setting aside the resolutions under section 252, the court concluded that such grounds did not need consideration since it had already determined that the proxy rejection was unlawful. The inequitability perception relied more on the validity of the proxies than the subsection’s intended equitable relief ([10]).
+
+#### C – Conclusion
+
+The appeal was ultimately dismissed, with the court affirming that the rejection of the proxies was invalid. The resolutions taken during the contested meeting were set aside because the proxy holders were entitled, under the circumstances, to vote based on the valid proxy submitted by the selling shareholders. Furthermore, the decision reinforced that a sale without prior director approval does not equate to a termination of legal rights conferred by that sale inter partes ([11]).
+
+The implications of this case delineated a clearer understanding of how company provisions interact with shareholder rights, emphasizing the separation between internal compliance requirements and external contractual effects. The ruling thus contributes significantly to jurisprudence concerning shareholder agreements and the inherent rights of shareholders in corporate governance contexts, suggesting that companies cannot disregard proxies based solely on internal policy violations when such proxies conform to statutory requirements ([11]). 
+
+The order of costs awarded against the appellant reinforces the court's position that the unsuccessful rejection of legitimate shareholder actions incurs legal liabilities ([11]).
+
+---
+
+### References
+- **Companies Act 61 of 1973**, available [here].
+- **SA Mohair Brokers Ltd v Louw (602/10) [2011] ZASCA 87**.

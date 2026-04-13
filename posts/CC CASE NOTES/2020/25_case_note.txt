@@ -1,0 +1,44 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note
+
+## Case Title: 
+**Economic Freedom Fighters and Another v Minister of Justice and Correctional Services and Another** [2020] ZACC 25
+
+### F – Facts 
+The case arose from criminal charges against Julius Sello Malema, leader of the Economic Freedom Fighters (EFF), based on his public statements made during various addresses that were allegedly designed to incite unlawful land occupation. Specifically, during speeches in 2014, 2016, and 2016, he encouraged listeners to occupy land the State had not provided them access to. Malema's statements prompted the National Prosecuting Authority (NPA) to charge him under **Section 18(2)(b)** of the **Riotous Assemblies Act 17 of 1956**, which criminalises incitement to commit any offence, including the act of trespass delineated under **Section 1(1)** of the **Trespass Act 6 of 1959**.
+
+Malema and the EFF contested the constitutionality of section 18(2)(b) of the Riotous Assemblies Act and sought to quash the charges. The Gauteng Division of the High Court concluded that the impugned section limited the right to freedom of expression guaranteed under **Section 16(1)** of the South African Constitution but found that the limitation was reasonable under **Section 36**. However, the Court deemed the portion of the section concerning sentencing as unconstitutional, prompting Malema and the EFF to appeal this decision to the Constitutional Court ([paras 1–32]).
+
+### I – Issues
+The key legal questions revolved around:
+1. Whether **Section 18(2)(b)** of the Riotous Assemblies Act, which criminalises the incitement of any offence, is unconstitutional due to it being overbroad and infringing the right to freedom of expression ([para 7]).
+2. How the Trespass Act integrates with the Prevention of Illegal Evictions from and Unlawful Occupation of Land Act (PIE), particularly regarding the status of unlawful occupiers ([paras 38–55]).
+
+### R – Rules
+The Constitutional Court identified several key principles governing this case:
+1. **Freedom of Expression**: Section 16(1) of the Constitution guarantees the right to freedom of expression, which includes the freedom to receive and impart information ([para 60]).
+2. **Limitations**: Any limitations on rights must comply with **Section 36**, which outlines that limitations must be reasonable and justifiable in an open and democratic society ([para 62]).
+3. **Overbreadth Doctrine**: A statutory provision is overbroad if it penalizes a broader range of conduct than necessary to achieve its stated objective, potentially chilling protected speech ([para 69]).
+4. **Trespass and PIE**: The interpretation of the Trespass Act requires compatibility with the PIE, which aims to protect unlawful occupiers and supports a balance between respect for property rights and the necessity of housing provisions ([paras 83–95]).
+
+### A – Application
+The majority judgment, authored by Chief Justice Mogoeng, examined the implications of freedom of expression within a historically oppressive context. The Court agreed that while incitement to commit offences could be viewed as a limitation on freedom of expression, the breadth of criminalization under Section 18(2)(b) of the Riotous Assemblies Act extended beyond reasonable bounds by incorporating “any offence” without evaluating the nature or seriousness of the offence within its context.
+
+In conducting a **justification analysis** under Section 36(1), the Court considered:
+- The nature and importance of the freedom being limited.
+- The legitimate governmental purpose of crime prevention that the Act serves.
+- The extent of the limitation imposed on free expression.
+- The necessity for less restrictive means, concluding that a targeted approach to serious offences would suffice instead of criminalizing incitement for any offence ([para 100]).
+
+The judgment concluded that while the provision could contribute to crime prevention, its application was excessive and unnecessarily restricted citizens' exercise of free expression ([paras 112–130]).
+
+### C – Conclusion
+The Constitutional Court declared **Section 18(2)(b)** of the Riotous Assemblies Act invalid to the extent that it criminalises the incitement to commit “any offence,” viewing this as inconsistent with **Section 16(1)** of the Constitution. The Court invoked a reading-in remedy, modifying the provision to stipulate that incitement relates only to “serious offences.” Notably, the Court suspended the order for 24 months to allow Parliament to amend the legislation properly.
+
+On the matter concerning the Trespass Act, the Court found no immediate conflict with PIE and therefore dismissed Malema's request for a declaration that the Trespass Act does not apply to unlawful occupiers under PIE ([para 156]).
+
+This case has considerable implications for legislative reform concerning freedom of expression, the handling of incitement laws, and their alignment with constitutional mandates, marking a significant development in South African jurisprudence and civil rights protection ([paras 156–164]). 
+
+Overall, while the judgment safeguards free expression—important for vibrant democratic society—it reinforces the necessity to refine legislative instruments to protect constitutional rights effectively.

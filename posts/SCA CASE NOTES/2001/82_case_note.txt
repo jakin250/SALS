@@ -1,0 +1,35 @@
+Case Note: IN THE SUPREME COURT OF APPEAL
+Source Folder: 2001
+
+# FIRAC Case Note: Thoroughbred Breeders’ Association of South Africa v Price Waterhouse
+
+### F – Facts
+The case revolves around a statutory juristic person, the **Thoroughbred Breeders’ Association of South Africa (TBA)**, which is a non-profit organization comprised primarily of thoroughbred horse breeders ([para 2]). TBA appointed John Mitchell as its financial manager despite an undisclosed criminal history involving theft. During the initial probationary period, TBA discovered Mitchell's prior conviction but decided to retain him with a resolution that also stipulated monitoring his activities ([paras 3-5]). 
+
+From the early 1990s onward, TBA employed **Price Waterhouse (PW)** as its auditors ([para 6]). The audit conducted in October 1993 failed to uncover discrepancies indicating that Mitchell had been embezzling funds via a "teeming and lading" method ([paras 8-9]). After Mitchell’s thefts were later discovered in November 1994, TBA sought damages from PW, alleging negligence in their audit that led to further losses ([para 9]).
+
+In the High Court, TBA argued that PW's failure to detect irregularities constituted a breach of contract, while PW contended that TBA’s negligence in supervising Mitchell was the primary cause of its losses ([para 10]). Goldstein J ruled that both parties were negligent, attributing 80% of the fault to TBA, but allowed TBA's claim under the Apportionment of Damages Act, leading to a reduced damages award ([paras 11-12]).
+
+### I – Issues
+The key legal questions considered in this case included:
+1. **Whether PW breached its duty of care as auditors by failing to uncover discrepancies in TBA’s financial records during the audit conducted for the financial year ending October 1993** ([para 11]).
+2. **Whether the Apportionment of Damages Act was applicable to a breach of contract claim** ([para 13]).
+3. **Whether TBA’s own negligence contributed significantly to the loss, thereby affecting its recovery of damages** ([para 11]).
+
+### R – Rules
+The court relied on foundational principles of contract law and the legal standards governing auditor duties, including:
+1. The requirement that auditors exercise **reasonable care and skill** in the performance of their duties, as outlined in the **Public Accountants’ and Auditors’ Act 80 of 1991** ([para 20]).
+2. The **Apportionment of Damages Act 34 of 1956**, which provides for the reduction of damages based on the claimant's contributory negligence ([para 71]).
+3. The **Hadley v Baxendale** principles of remoteness and causation, establishing that damages should naturally flow from the breach of contract, and the test for causation where multiple parties are at fault ([para 46]).
+
+### A – Application
+The court analyzed the actions of both TBA and PW regarding the audit. TBA’s internal controls were considered lax, with insufficient oversight of Mitchell, whose deceptive practices went undetected ([paras 55-59]). The emphasis was on PW's failure to pursue anomalies evident in TBA’s financial accounts, specifically regarding the negligence of their staff in verifying a critical financial instrument—the promissory note—leading to a significant misrepresentation of TBA’s financial health ([paras 30-31]). 
+
+Rebuttal arguments from PW focused on the significance of the discrepancies and whether they represented material items warranting further investigation. Although PW relied on the defenses based on TBA’s own negligence, the court found that PW had indeed breached their duty by not adhering to the auditing standards that would have uncovered Mitchell’s embezzlement prior to further losses occurring ([paras 41-44]).
+
+Given the circumstances, the court established that both parties were negligent, but ultimately determined that TBA's negligence regarding the employment and supervision of Mitchell was a contributing factor to their losses ([para 22]). The court also clarified that the Act was not applicable to breach of contract claims, specifically urging that TBA was still entitled to recover due to PW’s negligence, as that negligence was significant enough to establish a causal link to TBA's damages ([paras 70-75]).
+
+### C – Conclusion
+The Supreme Court of Appeal ruled in favor of TBA, holding that PW was liable for a substantial portion of the losses that TBA incurred due to negligent auditing practices. The damages were to be apportioned due to TBA's contributory negligence, but not to the extent argued by PW. The court ultimately adjusted TBA's recovery to reflect a more equitable distribution of liability, thereby increasing the awarded amount due to the original incorrect deductions applied by the court a quo. 
+
+The case highlights the importance of due diligence and proper governance within organizations, particularly in terms of internal audits and the risks posed by employees with questionable backgrounds. Additionally, it clarifies the applicability of the Apportionment of Damages Act within contractual claims and sets a precedent for future cases involving shared fault within negligence claims ([paras 86-92]).

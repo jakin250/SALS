@@ -1,0 +1,28 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: Eskom Holdings v Hitachi Power Africa (139/2013) [2013] ZASCA 101
+
+**Facts**  
+The matter in question stems from an appeal by Eskom Holdings SOC Limited (the Appellant) regarding the interpretation of demand guarantees issued by Mizhuo Corporate Bank Limited of Japan in favor of Eskom to secure performance obligations by Hitachi Power Africa (Proprietary) Ltd and Hitachi Power of Europe GmbH (the Respondents) under a construction contract for the Medupi Power Station ([1]–[3]). The guarantees totaling over R600 million were drawn upon by Eskom following alleged breaches of the construction contract by Hitachi, which included delays in getting the first of six power generating units online by the agreed schedule ([4]). 
+
+Prior to attempting to present the guarantees for payment on 12 February 2013, Eskom and Hitachi engaged in numerous discussions regarding the alleged breaches, with Hitachi denying entitlement to the payment claims by Eskom. Hitachi subsequently filed for an urgent application in the South Gauteng High Court to interdict Eskom from demanding payment of the guarantees, claiming that Eskom had a contractual obligation to provide notice prior to doing so ([5]–[7]). The High Court ruled in favour of Hitachi, leading Eskom to appeal ([9]).
+
+**Issues**  
+The central legal issue raised in this appeal was whether Eskom was required to provide notice to Hitachi prior to demanding payment under the guarantees ([10]). This involved two specific points:
+1. Whether the terms of the construction contract, particularly sub-clause 2.5, required Eskom to notify Hitachi of its intention to call upon the guarantees ([8]).
+2. The interpretation of Eskom's undertaking not to call upon the guarantees prior to 28 February 2013 ([21]).
+
+**Rules**  
+The legal framework for this case included the terms of the construction contract specifically clauses 2.5 and 4.2 which outlined the conditions under which Eskom could demand payment from the guarantees. Additionally, the distinction between ‘conditional guarantees’ and ‘on demand guarantees’ in South African contract law was pivotal ([12]). According to prior judgements, a party claiming under an on-demand guarantee is typically not required to prove any underlying liability or provide notice to the guarantor, as exemplified in Minister of Transport and Public Works, Western Cape v Zanbuild Construction (Pty) Ltd [2011] (5) SA 528 (SCA) and Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd [2010] (2) SA 86 (SCA) ([12], [14]).
+
+**Application**  
+In deciding whether the demand guarantees constituted on-demand guarantees or conditional guarantees, the Supreme Court of Appeal found that the guarantees in question were, indeed, on-demand guarantees. The court asserted that the requirements under clause 3—whereby Eskom was obliged to merely submit a written demand specifying the amount—did not mandate prior notification to Hitachi ([15]). The court criticized the lower court's interpretation of clause 2.5, clarifying that the contract's provisions do not require Eskom to provide notice as part of its obligation to the bank ([19]).
+
+Moreover, the court addressed the undertaking made by Eskom regarding postponing the payment call until 28 February 2013, asserting that this did not equate to a waiver of Eskom's right to call for payment under the guarantees. The court argued that Hitachi's failure to engage directly with the aspects raised by Eskom indicated no acceptance of the grace period offered, precluding them from claiming prejudice from Eskom's demand ([21]).
+
+**Conclusion**  
+The Supreme Court of Appeal upheld Eskom's appeal, setting aside the High Court's order and confirming that Eskom was entitled to make a demand under the guarantees without prior notice to Hitachi. The court asserted that the demand guarantees were to be interpreted in line with their on-demand nature, reinforcing the notion that banks should avoid delving into underlying disputes between contracting parties ([24]). This ruling not only clarified the interpretation of demand guarantees in South Africa but also has broader implications for public contracts and the procurement processes involving government entities like Eskom. The court emphasized that despite concerns regarding the mootness of the appeal due to past deadlines, the public interest warranted a ruling to provide clarity on contractual obligations in such contexts. 
+
+---
+This case note is structured to provide a comprehensive overview, aligning with your request for a formal academic tone and adherence to the specified FIRAC methodology. Let me know if you need additional sections or further refinement!

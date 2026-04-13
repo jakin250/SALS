@@ -1,0 +1,37 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: **Marshall and Others v Commissioner, South African Revenue Service** [2018] ZACC 11
+
+## F – Facts
+The case, **Marshall and Others v Commissioner for the South African Revenue Service** ([1]), pertains to an appeal regarding the interpretation of specific provisions of the Value Added Tax Act (VAT Act). The First Applicant, Alan George Marshall N.O., alongside six other trustees (Applicants), appealed against a decision of the Supreme Court of Appeal (SCA) that upheld the South African Revenue Service's (SARS) assessment concerning the South African Red Cross Air Mercy Service Trust (Trust). The SCA ruled that the Trust was not exempt from paying VAT on payments it received for actual services rendered to provincial health departments, which led the Applicants to seek clarification on whether the interpretation employed by the SCA was aligned with proper statutory interpretation principles ([2]).
+
+The Supreme Court of Appeal, under Dambuza JA, took into account Interpretation Notes from SARS regarding VAT treatment, which have been consistently applied since 2013, despite being non-binding ([4]). The Trust opposed the relevance of these Notes, arguing that they could violate constitutional principles of equality and fair trial rights, asserting that the courts must independently interpret the legislation without regard for the Notes ([6]).
+
+## I – Issues
+The primary issues before the Constitutional Court were:
+1. Whether courts should defer to an administrative body’s interpretation of legislation, specifically concerning the Interpretation Notes issued by SARS ([3]-[4]).
+2. The correct interpretation of sections 8(5) and 11(2)(n) of the VAT Act concerning the Trust's tax obligations ([3]-[4]).
+
+## R – Rules
+The legal framework guiding this case includes:
+- **Value Added Tax Act 89 of 1991**, particularly:
+  - **Section 7**: Imposes VAT on supplies of goods and services ([17]).
+  - **Section 8(5)**: Deems certain payments to designated entities as taxable services, particularly those linked to government subsidies ([18]).
+  - **Section 11(2)(n)**: Provides for zero-rating of certain services provided by welfare organisations under specific conditions ([19]).
+
+Moreover, judicial precedents such as **CSARS v Bosch** ([7]) and **Rex v Detody** ([9]) establish principles regarding statutory interpretation, especially concerning administrative practice and legislative intent.
+
+## A – Application
+The court applied a two-fold analysis. Firstly, it examined whether it should consider the Interpretation Notes. The Applicants argued that the Notes should not influence judicial interpretation, asserting that doing so would compromise fair litigation principles and violate constitutional rights. Conversely, the Respondent maintained that consistent administrative interpretation can inform court interpretations, especially in ambiguous cases ([4]-[6]).
+
+In analyzing the VAT Act provisions, the Court underscored that section 7(1) imposes VAT on services supplied as part of an enterprise, while section 8(5) extends this to encompass cases of deemed supplies linked to subsidies. The Court concluded that the Trust’s operations fell within these obligations as it rendered actual services to health departments, thereby confirming VAT liability on such transactions. The interpretation aligned with the statutory framework, where subsidies did not translate into a non-taxable situation under the relevant provisions ([7]-[8]).
+
+The issue of late application arose, as the Trust filed for leave to appeal ten months post-deadline, citing financial constraints and changes in legal representation. The Court allowed condonation, assessing that the Respondent faced no prejudice ([7]).
+
+## C – Conclusion
+Ultimately, the Constitutional Court dismissed the application for leave to appeal against the SCA judgment, affirming that the SCA's interpretation of the VAT Act was legally sound and did not necessitate judicial re-examination ([8]-[9]). 
+
+The ruling emphasized the significance of consistent administrative interpretations while underscoring a shift towards a more context-sensitive interpretation aligned with constitutional values. The decision also carries broader implications for entities seeking exemptions under tax legislation, clarifying the limitations of judicial deference to administrative interpretations in the context of the South African legal landscape ([8]-[9]). It further highlights the potential impact of reliance on administrative notes in judicial interpretation, particularly concerning statutory obligations amid evolving constitutional interpretations. 
+
+The case reinforces the balance between the need for judicial independence in interpretation and the acknowledgment of established administrative practices, prescribing the weight such practices may hold under equitable legal reasoning.

@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+### Case Note: Asmal v Essa (38/2013) [2013] ZASCA 62
+
+#### F – Facts:
+The appeal involves the contractual relationship between the appellant, Asmal Ahmed (the borrower), and the respondent, Essa Mahamed Haroon Noor (the lender). Ahmed received loans from Noor for purchasing and reselling medical equipment and real estate, secured by undated blank cheques issued by Ahmed and drawn on his account ([1]–[2]). The loans included amounts for "participating profit shares," which Noor would determine when Ahmed instructed him ([2]–[3]).
+
+Disputes arose when the cheques were dishonored due to Ahmed countermanding payment. Noor, not registered as a credit provider under the National Credit Act 34 of 2005 (the Act), sought provisional sentence against Ahmed, leading to a significant legal question ([4]).
+
+The KwaZulu-Natal High Court held that the loans were not credit agreements under the Act, primarily due to the absence of secured loans as defined by the Act ([5]). Ahmed appealed that decision, questioning whether Noor needed to comply with sections 40(1), 129, and 130 of the Act before beginning provisional sentence proceedings based on the dishonored cheques ([1]).
+
+#### I – Issues:
+The central issue for the court was whether the provisional sentence proceedings brought by Noor against Ahmed required compliance with the provisions of ss 40(1), 129, and 130 of the Act, which govern credit agreements. Specifically, the court needed to determine if the loan arrangements between the parties constituted "credit agreements" as defined under the Act, implicating the necessity for the lender's registration and compliance with procedural safeguards intended to protect consumers ([1]–[6]).
+
+#### R – Rules:
+The relevant legal framework consists of the following:
+
+1. **Definition of Credit Agreements**: The National Credit Act defines a credit agreement broadly under sections 1 and 8. A credit agreement is defined as a loan or a credit facility requiring repayment and possibly including fees or charges ([8]).
+  
+2. **Secured Loans**: A secured loan is defined under section 1 of the Act, requiring that the lender retains some form of collateral as part of the agreement ([12]).
+
+3. **Registration of Credit Providers**: Section 40(1) mandates that a person must apply for registration as a credit provider if they meet specific thresholds concerning the number of credit agreements or total principal debt ([13]).
+
+4. **Provisional Sentence**: The procedural rules regarding provisional sentence and the obligations imposed on credit providers (sections 129 and 130) require that the lender provide notice before commencing legal action to collect debts due under a credit agreement ([14]).
+
+#### A – Application:
+The court analyzed the facts to determine the nature of the agreements. It noted that for a transaction to qualify as a credit agreement, it must involve a charge, fee, or interest ([8]–[9]). The court emphasized that the agreeing parties must specify these charges to ensure clarity, which serves the consumer protection objectives underlying the Act ([10]). 
+
+Notably, the indeterminate nature of the profit shares led the court to conclude that these arrangements did not constitute a valid charge under the Act, thus invalidating the notion that these were credit agreements ([11]). Furthermore, the court recognized that cheques issued as mere proof of loans rather than actual security did not meet the legal definition of secured loans ([12]).
+
+The court rejected Ahmed’s claim regarding Noor's non-compliance with the registration requirements of section 40(1), stating that since there were no qualifying credit agreements, Noor was not mandated to register ([13]). Furthermore, the court affirmed that the consumer protections in sections 129 and 130 do not apply in cases where no valid credit agreements exist, allowing Noor to pursue provisional sentence without adhering to those requirements ([14]–[15]).
+
+#### C – Conclusion:
+The Supreme Court of Appeal dismissed Ahmed's appeal, concluding that the loan agreements did not constitute credit agreements subject to the National Credit Act. It affirmed the lower court's ruling that Noor could seek provisional sentence under the dishonored cheques without compliance with the Act's notice requirements because the agreements did not trigger the protections designed for consumer credit transactions. The result underscored the Act’s intention to delineate which loan arrangements require regulatory oversight, emphasizing the need for clarity in financial transactions to protect consumer interests ([16]–[17]).
+
+The case illustrates the importance of proper contractual stipulations in defining the nature of loan agreements and reinforces the protections built into the National Credit Act to address consumer vulnerability while outlining the necessity of lender registration where applicable. The ratio decidendi establishes critical boundaries for interpreting the Act concerning informal loan arrangements and reinforces principles of contractual clarity in financial transactions.

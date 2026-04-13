@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Strix Limited v Nu-World Industries (20453/2014) [2015] ZASCA 126
+
+## F – Facts
+In this case, Strix Limited, an Isle of Man registered company (the "Appellant"), sought to appeal against the finding of the Court of the Commissioner of Patents (Preller J), which ruled that claim 1 of Strix's patent, Patent No. 95/4779, was not novel, and that Nu-World Industries (Pty) Ltd (the "Respondent") did not infringe the patent with its kettles, also containing thermally sensitive controls ([1-2]).
+
+The contested patent concerns a "Liquid heating vessel," particularly focusing on improvements to safety mechanisms involving multiple sensors to detect overheating. Specifically, it comprises at least two thermally responsive sensors arranged at spaced apart locations on the base of the container ([2-3]). Historically, these types of sensors were known, but Strix argued that their novel combination and arrangement provided an enhanced safety feature by mitigating the risks of overheating in situations where the kettle might be placed on an uneven surface ([5-6]).
+
+The litigation commenced when Strix accused Nu-World of infringing its patent through their kettles featuring Liang Ji and Sunlight thermally sensitive controls. The claim specifically demanded an interdict against Nu-World's purported patent violations, the return of infringing products, and compensation for damages ([8-9]).
+
+Initially, Preller J ruled in favor of Nu-World, emphasizing the idea that the concept of multiple thermally sensitive switches was non-novel and generally known in the art at the patent's priority date ([9-10]). This led to the current appeal, where Strix contested the judgment on several grounds regarding the validity of their patent and the alleged infringement ([10-12]).
+
+## I – Issues
+The core legal issues surrounding this appeal include:
+1. Whether Nu-World could invoke a defense of invalidity based on lack of novelty without seeking a revocation of the patent.
+2. Whether the details provided in the claims of the patent constituted a novel invention not previously disclosed in the prior art ([12-15]).
+3. Determining the proper interpretation of the phrase "at spaced apart locations" as described in the patent ([11-12]).
+4. Whether the judgment's conclusions regarding infringement were based on proper evidentiary analysis ([19-24]).
+5. Whether Nu-World should be allowed to argue obviousness as a defense, considering that it had explicitly abandoned this defense during the original trial ([25]).
+
+## R – Rules
+In assessing the above issues, the court relied on several key legal principles, including statutory provisions from the Patents Act, 1978, namely:
+- Section 65(4): which allows a defendant to raise grounds for revocation as a defense, even if not brought as a counterclaim.
+- Section 25: which outlines the criteria for patentable inventions, emphasizing the requirement of novelty ([12-13]).
+
+The court also cited precedents that differentiated between lack of novelty and obviousness, emphasizing that a defense based on lack of novelty could indeed arise without a formal counterclaim for revocation ([12-14]). Moreover, the effectiveness of the patent's claims rested on establishing that the alleged infringing kettles either embodied the patent or significantly deviated from its claims, requiring a clear discernment of existing art ([15-17]).
+
+## A – Application
+The Supreme Court of Appeal critically analyzed whether Nu-World's defense on the grounds of lack of novelty was adequately proved. The court deduced that the spacing requirement and the arrangement of the thermally sensitive sensors formed a crucial aspect of the claimed novelty ([17-22]).
+
+Nu-World had contended that its kettles did not infringe the patent because prior art included similar devices. However, the court evaluated the prior art on the 1985 Strix patent, concluding that it did not embody the entirety of the claimed features in a manner that rendered Strix's patent non-novel ([15-16]). Furthermore, it assessed the testing undertaken by Nu-World's own witnesses revealing that their kettles functioned effectively, thereby challenging pre-existing conclusions drawn by Preller J regarding the safety feature's ineffectiveness due to inadequate spacing ([19-22]).
+
+The court also noted that Nu-World's attempts to introduce obviousness as a defense were not justifiable under the current circumstances, especially after expressly stating it would not pursue that line of argument during the initial trial, thereby rejecting its late introduction ([25]).
+
+## C – Conclusion
+The Supreme Court of Appeal ultimately found in favor of Strix, upholding its appeal against the prior ruling ([26]). It held that the combination of features within claim 1 of the patent was novel and that the allegedly infringing kettles indeed fell within the scope of Strix's claims. The appeal led to an interdict against Nu-World forbidding further infringement, a directive for the delivery of infringing products, and the appointment of an inquiry regarding damages ([26]).
+
+This case clarifies the judicial interpretation of patent claims relating to novelty and the boundaries within which defendants can challenge the validity of a patent. The ruling reinforces that an inventive arrangement or combination of known elements may satisfy the novelty requirement, as long as it provides a practical enhancement to existing technology. Furthermore, defendants must adhere to the parameters of their claims and defenses as articulated during trial proceedings, lest they be precluded from raising them on appeal. The implications of this ruling extend to future patent litigation, particularly in the context of electronic or mechanical innovations where the distinction between prior art and new combinations may give rise to significant commercial interests.

@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note
+
+### Case Title
+**Road Traffic Management Corporation v Tasima (Pty) Limited; Tasima (Pty) Limited v Road Traffic Management Corporation** [2020] ZACC 21
+
+### Coram
+Mogoeng CJ, Cameron J, Froneman J, Jafta J, Khampepe J, Madlanga J, Mhlantla J, Mathopo AJ, Theron J, and Victor AJ
+
+### F - Facts
+The Road Traffic Management Corporation (RTMC) sought to appeal the decision of the Labour Appeal Court, which had found that section 197 of the Labour Relations Act (LRA) applied to the transfer of the electronic National Traffic Information System (eNaTIS) and related services from Tasima (Pty) Limited (Tasima) to RTMC ([1]–[9]). Both prior courts concluded that the transfer occurred as part of a business transfer governed by section 197, which automatically transferred the employment contracts of Tasima's employees to RTMC ([2], [5]).
+
+The Labour Court determined that the handover of eNaTIS was a transfer as conceived under section 197, affirming that the RTMC took control of the premises and continued the functions previously undertaken by Tasima ([6]–[9]). Following its review of the situation, the Labour Appeal Court altered the effective date of the transfer from the date of actual control (5 April 2017) to the date on which the High Court declared the Extension Agreement invalid (23 June 2015), reasoning that the confirmation of the High Court’s order had retrospective effect ([8]).
+
+The facts reveal a complicated outcome of ongoing disputes about the legality of the tender awarded to Tasima, the procedural issues surrounding its execution, and the implications of the subsequent judgments of the Constitutional Court ([6]–[9]).
+
+### I - Issues
+1. **Did a transfer of business occur under section 197 of the LRA, thereby automatically transferring the contracts of employment from Tasima to RTMC?**
+2. **If so, what is the effective date of the employment transfer? Should it be the date of physical handover (5 April 2017), the date the High Court declared the Extension Agreement invalid (23 June 2015), or the date agreed for the transfer (22 December 2016)?**
+3. **Is the RTMC, as a public entity, capable of receiving a business under section 197?**
+
+### R - Rules
+- **Section 197** of the LRA stipulates that when a business is transferred as a going concern from one employer (old) to another (new), all employees’ rights and obligations immediately transfer, unless agreed otherwise.
+- For section 197 to apply: 
+  - **A business** must be defined, which includes parts of any undertaking to be transferred.
+  - The transfer must occur as a **going concern**, retaining its operational identity ([1], [5]).
+- The *configuration of public and private entities* under the LRA suggests that the RTMC’s capacity as a statutory body does not exclude it from obligations and benefits under section 197 ([10], [11]).
+
+### A - Application
+- The majority judgment, authored by Theron J, upheld the Labour Court's findings that a business transfer had occurred, satisfying the requirements set out by section 197. The approach included a factual investigation into the RTMC’s control over the eNaTIS and its continued operations with the same employees and customers ([6], [12], [13]).
+- The cross-appeal raised the issue of effective date. The Court ultimately determined that the effective transfer date was the date when RTMC assumed actual control (5 April 2017), denouncing the Labour Appeal Court’s decision to fix it retrospectively to 23 June 2015. The judgment underscored that inequitable consequences could ensue if legal causes and physical facts were mismatched in establishing transfer dates ([10]–[12], [16]).
+- The dissenting judgment of Jafta J, Khampepe J, and Mhlantla J contended that the interpretation of section 197's applicability was fundamentally misapplied, asserting that Tasima’s operations did not amount to the transfer of a business as envisaged in the LRA. They maintained that the system was merely a product, not a business, diverging from the objective detail of Tasima as an enterprise ([14]–[15], [17]).
+
+### C - Conclusion
+The Constitutional Court dismissed RTMC’s application for leave to appeal concerning the application of section 197, affirming the lower courts' interpretations that a business transfer had indeed occurred with the effective date being 5 April 2017. The Court recognized that the RTMC, though a public body, is obliged to adhere to the same regulations under the LRA as private entities, indicating the inevitability of public interest demands for workers’ rights amidst changes in employer identity ([1]–[2], [12]–[14]).
+
+The outcome strengthened the interpretation of section 197 as it pertains to statutory bodies and set a significant precedent regarding the enforcement of employee protections during corporate transitions, reflecting a balance between commercial viability and worker security ([10], [12]). The case directs future employers and public entities to prepare proactively for potential implications under the LRA in contracting and outsourcing arrangements ([9]–[14]).

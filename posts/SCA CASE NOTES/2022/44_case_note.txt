@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: WK Construction (Pty) Ltd v Moores Rowland and Others [2022] ZASCA 44
+
+## F - Facts 
+
+This case arose from a significant instance of fraud perpetrated by Mr. Maartens, the financial director of WK Construction (Pty) Ltd from 2006 to 2013, which involved fraudulent transactions that defrauded the company of R80,132,548. WK Construction managed to recover R26 million from him but faced a net loss of R54,132,548 ([1]). WK Construction's auditors, operating under different partnerships—referred to collectively as Mazars—failed to report the fraudulent activities throughout their auditing years from 2007 until February 2015, issuing unqualified audit reports during this period ([1]).
+
+WK Construction instituted legal proceedings against Mazars in the KwaZulu-Natal Division of the High Court, claiming breaches of contract related to the audits ([2]). Mazars raised a special plea of prescription, asserting that the claim was barred by the provisions of the Prescription Act 68 of 1969 ([4]). The High Court, presided over by Phillips AJ, upheld the special plea, ruling that WK Construction's claim had been extinguished by prescription ([3]). WK Construction subsequently appealed this decision ([3]).
+
+The key date in question was when WK Construction had the knowledge or could reasonably have acquired knowledge of the facts leading to its claim against Mazars. Notably, this aligned with the principle that a debt is deemed due when the creditor has knowledge of the debtor's identity and facts giving rise to the claim ([4]).
+
+## I - Issues 
+
+The case raised the following primary legal issues:
+
+1. **Commencement of Prescription**: The central issue was whether WK Construction had the requisite knowledge of the facts giving rise to the claim against Mazars before the three-year prescription period lapsed.
+2. **Interpretation of Prescription Act**: Specifically, the application of Section 12(3) of the Prescription Act, which delineates the conditions under which a debt is considered due ([4]–[5]).
+3. **Criteria for Knowledge**: Whether WK Construction had sufficient knowledge of the facts that would establish a claim of professional negligence against Mazars ([22]).
+
+## R - Rules 
+
+The court primarily relied on the following legal authorities and principles:
+
+1. **Prescription Act 68 of 1969**: The relevant sections include:
+   - **Section 10(1)**: Establishes that a debt shall be extinguished by prescription after the expiration of the statutory period.
+   - **Section 11(d)**: Clearly specifies a three-year period for prescription applicable to the type of debt.
+   - **Section 12(3)**: Defines when a debt shall be deemed due, hinging on the creditor's knowledge of the debtor and the facts giving rise to the debt ([4]).
+
+2. **Legal Precedents**:
+   - The case referred to *ATB Chartered Accountants (SA) v Bonfiglio* and *Thoroughbred Breeders’ Association of South Africa v Price Waterhouse* concerning the burden of knowledge necessary for triggering the prescription ([25]–[28]).
+   - *Links v Department of Health, Northern Province* underscored that knowledge of fault (or negligence) is not a prerequisite for prescription to begin ([35]).
+
+## A - Application 
+
+The court’s analysis focused on several aspects:
+
+1. **Determining WK Construction's Knowledge**: The evidence presented by Ms. De Coster, the former financial manager, highlighted that by August 22, 2013, WK Construction was aware that significant fraudulent transactions had occurred. It was established that they had taken actions reflecting knowledge of wrongdoing, including revocation of Mr. Maartens’ user certificate and contacting legal counsel to investigate ([20]–[21]).
+
+2. **Understanding the Definition of 'Debt Due'**: The court evaluated whether the knowledge possessed by WK Construction met the criteria of facts necessary to trigger the commencement of prescription as laid out in the Prescription Act. The court affirmed that possession of knowledge that could lead to a reasonable suspicion of negligence sufficed to start the running of prescription, aligning with precedents that differentiate between mere suspicion and actionable knowledge ([36]).
+
+3. **Expert Evidence Considerations**: The argument by WK Construction that expert evidence was necessary to establish Mazars' negligence was dismissed. The court clarified that while expert evidence may be needed to prove negligence at trial, it’s not a requirement for the running of prescription ([32]–[33]). The mere factual circumstances that arose prior to the expiration of the three-year period sufficed ([41]).
+
+## C - Conclusion 
+
+The Supreme Court of Appeal concluded that WK Construction had acquired sufficient knowledge to suspect negligence on the part of Mazars by August 22, 2013, which commenced the prescription period. The High Court’s decision to uphold the special plea of prescription was therefore deemed correct, leading to the dismissal of WK Construction’s appeal with costs ([42]).
+
+The implications of this ruling reaffirm the necessity for vigilance in financial oversight and reporting by auditors and establish a clear precedent regarding the knowledge requirement under the Prescription Act in claims of professional negligence. The judgment also underscores the distinction between suspicion and actionable knowledge, essential for determining when a claim arises, with significant ramifications for future cases involving similar legal contexts.

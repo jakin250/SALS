@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+### FIRAC Case Note: **Chater Developments (Pty) Ltd v Waterkloof Marina Estates (Pty) Ltd & Another** (1025/2013) [2014] ZASCA 198
+
+#### F – Facts
+The case revolves around *Chater Developments (Pty) Ltd (in liquidation)* ('Chater Developments'), which was placed into final liquidation on **30 July 2002**. Mr. Hendrie Andries Marais was appointed as the sole liquidator on **28 October 2002**. A significant development occurred on **30 January 2003**, when the second meeting of creditors endorsed the liquidator's authority to sell the company's assets, although there were no contributories present ([paras 2–3]).
+
+On **18 August 2004**, *Waterkloof Marina Estates (Pty) Ltd* ('Waterkloof Marina') entered into an agreement with Chater Developments, purchasing 40% of the shares in *City Lake Marina (Pty) Ltd* and its claims against the latter for **R6 million**. Mr. Marais represented Chater Developments during the agreement, acting under the powers granted at the creditors' meeting. 
+
+However, Chater Developments later contested the validity of this agreement, asserting that it was unenforceable because Marais had not secured a shareholders' resolution as mandated by Section 386(3)(a) of the 1973 Companies Act. Consequently, Waterkloof Marina sought declaratory relief in the North Gauteng High Court for the transfer of shares. The high court ruled in favor of Waterkloof Marina, determining the agreement was valid. Chater Developments appealed the ruling ([paras 4–7]).
+
+#### I – Issues
+The primary legal issue in this appeal is whether Section 82(8) of the Insolvency Act 24 of 1936 is applicable to a company liquidated due to inability to pay its debts, particularly in the context of the governing framework provided by Section 339 of the Companies Act 61 of 1973. The case specifically questions the validity of the sale conducted by the liquidator without proper authorization from the company's members, raising concerns over the balance of protections for third-party purchasers against non-compliance with legislative requirements ([para 1, 8]).
+
+#### R – Rules
+The legal framework governing this case includes the following:
+
+1. **Insolvency Act 24 of 1936**, particularly Section 82(8), which protects the validity of transactions made in good faith from an insolvent estate even when those transactions contravene specific legal requirements ([paras 13–14]).
+  
+2. **Companies Act 61 of 1973**, specifically:
+   - **Section 339**: It mandates that insolvency laws apply to companies unable to pay debts in matters not specifically provided for by the Companies Act, enabling Section 82 of the Insolvency Act to take effect ([paras 11–12]).
+   - **Section 386(3)(a)**: It requires liquidators to have clear authority from shareholder meetings to sell company assets ([para 10]).
+   - **Section 386(5)** and **387(4)**: These sections provide certain protective measures for stakeholders but are subject to the court's discretion ([paras 14–16]).
+
+#### A – Application
+The court analyzed whether the provisions under the Insolvency Act, especially Section 82(8), offered a blanket protection to innocent third parties like Waterkloof Marina, against the invalid actions of liquidators lacking proper authorization. The court emphasized that Section 82(8) applies since the transaction was executed in good faith, notwithstanding the liquidator's lack of authorization ([paras 11–18]).
+
+The court also scrutinized the arguments regarding the applicability of Sections 386(5) and 387(4) of the Companies Act. It underscored that these provisions do not override the protective measures afforded to third-party buyers under the Insolvency Act, particularly in scenarios without explicit legislative mention of invalidity for sold assets. Thus, the court concluded that the lack of a second meeting of members did not invalidate the transaction, allowing the protections of the Insolvency Act to apply ([paras 15–17]).
+
+#### C – Conclusion
+The Supreme Court of Appeal concluded that the agreement between Waterkloof Marina and Chater Developments was valid and enforceable under the protections afforded by **Section 82(8)** of the Insolvency Act, even in the face of the liquidator's unauthorized actions. The application of the provisions of insolvency law was reinforced by **Section 339** of the Companies Act, which allows the insolvency framework to provide protections in winding-up scenarios. Therefore, the appeal was dismissed with costs, solidifying the standing of good faith transactions in insolvency contexts, and demonstrating the courts' commitment to safeguarding third-party purchasers from the adverse effects of a company's liquidation ([paras 18]).
+
+---
+
+This case note is structured under the FIRAC method to ensure clarity and thoroughness for legal study or citation in professional contexts, maintaining adherence to the OSCOLA referencing style throughout.

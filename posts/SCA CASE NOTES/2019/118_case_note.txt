@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Pieters NO v Absa Bank Ltd (979/2018) [2019] ZASCA 118
+
+## F – Facts
+The case arises from the winding-up proceedings of Cell F Services (Pty) Ltd (Cell F). On 9 October 2001, Cell F was placed under provisional winding-up, and Rynette Pieters was appointed as the provisional liquidator on 26 October 2001. A final winding-up order was issued on 13 November 2001, and Ms. Pieters became the liquidator effective 7 March 2002. On 3 July 2003, the Master of the High Court confirmed an amended First and Final Liquidation Distribution Account, which was published in the Government Gazette on 18 July 2003. 
+
+Subsequently, the Master certified on 14 August 2003 that Cell F had been fully wound up and issued a certificate that allowed Ms. Pieters to reduce the bond of security to nil ([1], [2]). However, in January 2008, Ms. Pieters wrote to the Master requesting a "re-issue" of her appointment certificate, arguing that there might be further assets to recover for Cell F, as she believed the company had not been dissolved due to the absence of the Registrar’s recording of this dissolution in the Companies Register. The Master complied with her request on 5 March 2008 ([5], [6]).
+
+When she initiated a claim against Absa Bank Ltd (ABSA) for damages, ABSA raised a special plea challenging Ms. Pieters’ standing, arguing that her appointment as liquidator had been terminated due to the dissolution of Cell F on 14 August 2003. This issue was dealt with as a preliminary matter in the Gauteng Division of the High Court, leading to Van der Linde J upholding ABSA's plea ([6], [7]).
+
+## I – Issues
+The core issues before the Supreme Court of Appeal pertain to:
+1. Whether Ms. Pieters’ claim that the company was not dissolved holds legal standing and justifies her re-instatement as liquidator ([6], [20]).
+2. The legal implications of the Master's certificate and whether it sufficed for declaring the company dissolved as per section 419 of the Companies Act 61 of 1973 (the Act) ([20], [24]).
+
+## R – Rules
+The applicable legal framework is primarily established by section 419 of the Companies Act 61 of 1973, which outlines the conditions for the dissolution of a company following winding-up. Of particular importance are:
+- **Section 419(1)**: The Master issues a certificate after confirming the affairs of a company have been completely wound up, which is then sent to the Registrar.
+- **Section 419(2)**: The Registrar must record the dissolution and publish notice thereof ([8]).
+- **Section 419(3)**: The dissolution date is the date the Registrar officially records it.
+- **Section 385**: Details the discharge of the liquidator’s duties upon confirmation of the liquidation account ([24]).
+
+The court also considered previous case law such as *Standard Bank v The Master*, where distinctions between being wound up and completely wound up were emphasized ([19], [24]).
+
+## A – Application
+The court meticulously analyzed the facts surrounding the dissolution of Cell F. It noted that the Master’s certification and the issuing of the s 419(1) notice indicated that the company was completely wound up. The pivotal point concerned whether or not the Registrar had recorded the dissolution.
+
+The argument that dissolution only occurs with the publication in the Government Gazette was found invalid, as section 419(3) clearly states that dissolution is contingent upon the Registrar's record, not the publication date ([12], [14]). The Court highlighted the absence of evidence to substantiate Ms. Pieters' claim that Cell F had not been recorded as dissolved, enumerating numerous gaps in the factual basis for her assertions about non-dissolution ([18], [19]). The presumption of accuracy in the Registrar’s records weighed heavily against her contentions.
+
+Furthermore, even assuming the company had not been dissolved at the time Ms. Pieters sought reinstatement, the court posited that her original liquidator appointment had effectively ended when the company was completely wound up, necessitating a fresh appointment to pursue any remaining assets ([25], [27]).
+
+## C – Conclusion
+The Supreme Court of Appeal concluded that the appeal must be dismissed. It held that Ms. Pieters failed to prove that Cell F was not dissolved, and consequently, her reinstatement as liquidator was unlawful, thus depriving her of standing to sue ABSA. The court's ruling implied a firm interpretation of the statutory provisions regarding company liquidation and dissolution, reinforcing the importance of formal processes in corporate law.
+
+The final order affirmed the decision of the lower court, dismissing the appeal with costs, including the costs associated with employing two counsel, which highlights the complexities involved in corporate law matters ([28]). The case underscores the significance of maintaining accurate records and adhering to statutory requirements in the winding-up of companies, and the potential consequences of misapprehensions surrounding such processes.

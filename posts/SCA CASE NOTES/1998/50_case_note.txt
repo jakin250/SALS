@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 1998
+
+# FIRAC Case Note: Pfeiffer v First National Bank of Southern Africa Ltd, Case No: 230/96
+
+## 1. Facts
+The appellant, Shirley Ann Pfeiffer, provided surety for the debts of a principal debtor, Wilson, who operated a current account with the First National Bank of Southern Africa Ltd (the Bank). Following the execution of a deed of suretyship on July 25, 1986, which limited Pfeiffer's liability to R175,000, the account experienced fluctuation due to overdrafts and subsequent payments ([paras 2-3]). 
+
+The case revolves around whether Pfeiffer would be liable for compound interest on the R175,000 beyond a certain period, specifically starting from October 25, 1990, when the overdraft limits were exceeded, through to September 1, 1993, when she paid the full amount owed to the Bank ([paras 6-11]). The court had to determine the correct legal basis for calculating interest and the effect of payments made on the principal debtor’s account on the surety’s liability ([paras 4-6]).
+
+## 2. Issues
+The primary legal questions that arose in this case included:
+- Whether Pfeiffer was liable for compound interest on R175,000 from the date the overdraft first exceeded that cap (October 25, 1990) or from a later date when the Bank made a formal demand for payment ([paras 6-7]).
+- Whether the Bank's calculation of interest while accounting for various payments made by the principal debtor would affect the surety's liability ([paras 8-10]).
+
+## 3. Rules
+The court looked to several principles of contract and suretyship law:
+- **Suretyship Doctrine**: A surety remains liable for debts incurred by the principal debtor, limited by the terms set out in the deed of suretyship ([para 2]).
+- **Compound Interest**: Interest can be compounded, and under banking practices, the principal debtor is liable for compound interest which the surety must also cover when liability is established ([[para 13]).
+- **Appropriation of Payments**: Payments made by the principal debtor must be credited first to interest before capital. This general rule applies to obligations owed to the same creditor ([paras 18-20]).
+- **Liability to Creditors**: The creditor can generally enforce the suretyship irrespective of the need for demands against the principal debtor; however, the surety’s liability must align with the conditions established in the surety agreement ([para 30]).
+
+## 4. Application
+In applying the above rules to the case, the court undertook a meticulous analysis of the deed of suretyship and the banking practices surrounding the account in question ([paras 4-6]). 
+
+The contract indicated a clear limitation on the surety's liability up to R175,000 and specified that if Wilson exceeded this limit, the surety's liability for interest was restricted to the calculated amounts on this principal sum only. The Bank’s insistence on compound interest calculated from October 25, 1990, clashed with the appellants' interpretation, which contended that no interest was due until formal demand was made ([paras 11-13]). 
+
+The court, noting the continuous nature of the surety's obligation, demonstrated that Pfeiffer was liable for interest on the principal amount only from the date when the overdraft exceeded R175,000. Additionally, payments in Wilson's account were to be evaluated in light of the surety’s limited liability, maintaining that a payment made by Wilson did not directly reduce Pfeiffer’s interest obligations. This was pivotal, as it preserved the Bank’s right to enforce the surety’s limited liability without being affected by the principal debtor's payments ([paras 25-30]). 
+
+The importance of proper computing methodologies for accruing interest on accounts, including the correct treatment of capitalisation of interest, was underscored. The court ultimately found that the need for precise calculation processes did not allow for the type of appropriation championed by the appellant ([paras 20-23]).
+
+## 5. Conclusion
+The Supreme Court of Appeal concluded that Pfeiffer’s liability for interest commenced from October 22, 1991, rather than October 25, 1990, upholding her objection that no compound interest was due prior to a formal demand. It was determined that interest payable would be calculated on the established principal sum from this later date until full payment on September 2, 1993. The judgment affirmed that both contractual interpretation and established banking practices support the limitations set in the deed of suretyship and protect the rights of the creditor without exceeding the surety’s obligations ([paras 10-11]).
+
+Consequently, the appeal was upheld with costs, and the court provided a clear understanding of the balance of responsibilities arising from suretyship agreements, showing the necessity for exact adherence to contract terms and the implications of debtor payments on surety liabilities ([paras 11-12]).

@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note
+
+## Case Title: 
+**SA National Roads Agency SOC Limited v Fountain Civil Engineering (Pty) Ltd and Another** (395/2020) [2021] ZASCA 118 (20 September 2021)
+
+## F – Facts
+The case concerns a contract concluded on 30 September 2016 between the **South African National Roads Agency SOC Limited** (SANRAL) and **Fountain Civil Engineering (Pty) Ltd** (FCE) for the improvement of the R23 Freeway near Standerton, valued at approximately R352 million ([2]–[3]). FCE was required to secure a performance guarantee amounting to 10% of the contract value, provided by **Lombard Insurance Company Ltd** ([3]).
+
+FCE failed to complete the contract and issued a termination notice on 15 October 2018, citing community unrest and SANRAL's misrepresentation of site conditions as the reasons ([6]–[7]). Following failed negotiations about the resumption of work, FCE confirmed its termination on 6 November 2018 ([8]). SANRAL contested this termination, asserting it duly terminated the contract on 15 May 2019 due to FCE's abandonment of the site and non-performance of its obligations.
+
+In June 2019, FCE applied to the Gauteng Division of the High Court for an interdict to restrain SANRAL from claiming under the performance guarantee, arguing that such a claim was unlawful unless it complied with specific contract clauses ([9]–[10]). The high court accepted FCE's position, citing a prima facie right to termination based on force majeure ([14]).
+
+However, the high court's order referred disputes to arbitration, contrary to the contract stipulations that mandated mediation and court proceedings ([17]). SANRAL appealed the decision, questioning both the grounds for the interdict and the appropriateness of the court’s referral to arbitration.
+
+## I – Issues
+The primary issue before the Supreme Court of Appeal was whether the high court erred in granting an interdict prohibiting SANRAL from claiming on the performance guarantee while disputes were allegedly being resolved through arbitration, which contradicts the express terms of the contract ([1]). 
+
+Additionally, the Court needed to ascertain whether SANRAL had a lawful entitlement to demand payment from the performance guarantee, considering the circumstances surrounding FCE's termination of the contract ([10]).
+
+## R – Rules
+The legal principles invoked included the interpretation of performance guarantees and the specific dispute resolution mechanisms set forth in the FIDIC Red Book, which governed the contract. Relevant clauses included:
+
+1. **Clause 4.2**: Outlines the circumstances under which SANRAL could make a claim on the performance guarantee ([10]).
+2. **Clause 15.2**: Specifies conditions for contract termination by the employer, including abandonment of works ([8]).
+3. **Dispute Resolution Clauses**: Stipulating mediation followed by litigation, which the high court improperly sought to amend to arbitration ([17]).
+
+The Court also referred to the judgement in *Aveng* where it was established that a performance guarantee is unconditional, allowing the beneficiary to claim without proving entitlement under the main contract ([18]).
+
+## A – Application
+The Supreme Court of Appeal examined the high court's rationale. It determined that the high court lacked the authority to compel arbitration as the intended dispute resolution mechanism was mediation followed by litigation, making the referral to arbitration an unauthorized amendment to the contract ([17]).
+
+The Court reiterated that FCE could not prevent SANRAL from accessing the performance guarantee because the guarantees were designed to secure SANRAL’s position regardless of any disputes that may arise. FCE's reliance on claims of unlawful demand being contingent on the provisions of clause 4.2 was dismissed, maintaining that SANRAL's right to demand payment was not negated by any assertion of force majeure by FCE ([18]–[24]).
+
+The Supreme Court emphasized that FCE failed to establish a prima facie right to the interdict as the high court’s order could not hide behind disputes under the main contract when it was clear that SANRAL was entitled, per the performance guarantee, to call for the funds being disputed ([23]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld SANRAL's appeal, setting aside the high court's decision for lack of jurisdiction and entitlement based on the contract's terms. It concluded that the high court had erroneously prevented SANRAL from making a claim on the performance guarantee, which was unconditional ([25]).
+
+The key ratio decidendi established that performance guarantees operate independently of the underlying contractual disputes, thus safeguarding SANRAL’s rights and affirming the proper application of the dispute resolution mechanisms as articulated in the contract. The implications of this ruling reinforce the principle that parties must adhere strictly to agreed dispute mechanisms, underscoring the imperative of contractual fidelity in construction law.
+
+**Order:**
+1. The appeal is upheld with costs.
+2. The order of the court below is set aside and replaced with the dismissal of FCE's application, with costs ([25]).

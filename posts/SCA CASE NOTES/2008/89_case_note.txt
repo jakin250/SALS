@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note: **Afrisure CC v Watson NO and Another** (522/07) [2008] ZASCA 89
+
+## F – Facts
+
+The case involves Afrisure CC ("Afrisure") and Ettienne de Villiers ("De Villiers") as appellants and Brian James Watson NO ("Watson") and the Publiserve Healthcare Scheme ("Publiserve"), now in liquidation, as respondents. Before its winding up on May 30, 2001, Publiserve operated as a medical scheme under the Medical Schemes Act 131 of 1998. Watson was appointed liquidator following the provisional winding-up order.
+
+Afrisure, an insurance broker, was effectively controlled by De Villiers, a trustee of Publiserve until May 28, 2001. Between October 26, 2000, and January 31, 2001, Publiserve made five payments totaling R5,454,636.50 to Afrisure. Initially, Watson sought repayment from both Afrisure and De Villiers on the grounds of unjustified enrichment, arguing that the payments violated the Medical Schemes Act. He contended that the payments constituted "broker's commission" made without compliance with statutory requirements, thus rendering them illegal.
+
+In an alternative claim against De Villiers, Watson argued that he breached his fiduciary duties by facilitating these unauthorized payments. The High Court ruled in favor of Watson, leading to the appeal by Afrisure and De Villiers ([paras 1-3]).
+
+## I – Issues
+
+The primary legal issues are:
+1. Whether the payments made by Publiserve to Afrisure were legally recoverable under the principle of unjustified enrichment, specifically through the condictio ob turpem vel iniustam causam, given that they were purportedly made in violation of the Medical Schemes Act ([paras 4-9]).
+2. Whether De Villiers breached his fiduciary duty as a trustee when he allowed these payments to occur ([paras 54-56]).
+3. The applicability of the par delictum rule and its implications on the claims ([paras 39-43]).
+
+## R – Rules
+
+The legal principles applicable to this case include:
+1. **Unjustified Enrichment**: The condictio ob turpem vel iniustam causam addresses cases where a payment is made under an illegal agreement, dismissing the validity of the receipt. This principle is supported by the rulings in *First National Bank v Perry NO* and *McCarthy Retail Ltd v Short Distance Carriers CC* ([paras 4-5]).
+   
+2. **Medical Schemes Act**: Sections 65 and 58 impose restrictions on broker commissions and administration fees, rendering payments not compliant with these sections illegal ([paras 6-9]).
+   
+3. **Fiduciary Duties**: The duties of a trustee, which include acting in the best interests of the trust and avoiding conflicts of interest. The breach of these duties leads to liability for losses suffered by the trust due to the actions of the trustee ([paras 54-56]).
+
+4. **Par Delictum Rule**: This common law principle suggests that a party involved in an illegal agreement does not typically have recourse against the other party. Exceptions to this rule were noted in *Jajbhay v Cassim*, allowing for the relaxation of this rule under equitable grounds ([paras 39-43]).
+
+## A – Application
+
+The Supreme Court of Appeal upheld the High Court's decisions regarding the claims against Afrisure for unjustified enrichment. The court found that the payments, comprised of purported broker's fees and additional service fees, were made in clear violation of the Medical Schemes Act due to the lack of written agreements and exceeding the statutory commission limits. It concluded that the payments were effectively made in fraudem legis, confirming their illegality and thus supporting the application of the condictio ob turpem vel iniustam causam ([paras 4-34]).
+
+De Villiers was found to have intentionally disregarded his fiduciary responsibilities by not taking steps to stop illegal payments, rendering him liable for breach of trust. His argument that the payments were lawful based on the agreements made was rejected, as the payments were never compliant with the Act ([paras 54-59]).
+
+The court effectively positioned that the structure of the payments aimed to evade statutory limitations and thus justified the rejection of the appellants' claims, reconciling both the breach of fiduciary duty and principles of unjust enrichment ([paras 39-63]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeals by both Afrisure and De Villiers, confirming that the payments made by Publiserve were illegal and unenforceable due to their deliberate circumvention of legal requirements. Furthermore, the court held that De Villiers' inaction constituted a breach of his fiduciary duties, substantiating the claims against him.
+
+The intriguing aspect of the case lies in how it reconciles the principles of unjust enrichment against the par delictum rule, ultimately illustrating the court's willingness to relax strict legal doctrines in favor of broader notions of justice and protection against unethical conduct within fiduciary relationships ([paras 1-3, 54-63]). Thus, the judgment affirms the integrity of medical scheme administration in South Africa while also marking important precedents concerning illegal agreements and fiduciary responsibilities.
+
+The final holding required the appellants to bear the costs incurred by the respondents, emphasizing the court’s support for accountability in fiduciary duties ([paras 1-3]).

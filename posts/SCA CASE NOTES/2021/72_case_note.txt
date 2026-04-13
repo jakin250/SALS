@@ -1,0 +1,30 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: The Minister of Police v Underwriters at Lloyds of London [2021] ZASCA 72
+
+## FIRAC Method Analysis
+
+### Facts
+The case arises from a significant robbery that occurred on the night of 27-28 April 2014, during which a group of robbers, including two police officers—Warrant Officer Khubeka and Detective Constable Lekola—and SBV Services employee, Ms. Gift Nkosi, orchestrated a scheme to steal approximately R100 million from SBV Services (Pty) Ltd (SBV). The investigation revealed collusion between the police officers and the SBV employee, with Ms. Nkosi providing crucial information to facilitate the crime. Following the robbery, Underwriters at Lloyds of London (the Underwriters) compensated SBV for the loss under their insurance policy and subsequently took cession of the banks' claims against SBV and third parties, including the Minister of Police (the Minister), initiating a delictual claim for damages exceeding R100 million against the Minister based on alleged vicarious liability ([1]–[3]).
+
+The Minister raised several defenses, arguing that the Underwriters had no claim since SBV’s contractual limits on liability barred recovery and asserting denial of vicarious liability for the actions of the police officers. Prior to the trial set for 7 October 2019, the Minister sought to amend its plea to introduce defenses based on the maxims *ex turpi causa non oritur actio* and *in pari delicto potior est conditio defenditis*. This proposed amendment faced opposition from the Underwriters, leading the trial court, presided by Judge Mavundla, to deny the amendment, which prompted the Minister to appeal ([4]–[7]).
+
+### Issues
+The primary legal issues before the Supreme Court of Appeal (SCA) were whether the proposed amendments to the Minister's plea introduced a triable issue and whether the maxims of *ex turpi causa* and *in pari delicto* were applicable in the context of a delictual claim. Additionally, the court addressed whether SBV could be considered a joint wrongdoer and whether vicarious liability could be attributed to the Minister based on the actions of SBV's employee ([8]–[9]).
+
+### Rules
+The SCA relied on established principles and legal maxims pertaining to delictual liability:
+- The principle of *ex turpi causa non oritur actio*, which states that a plaintiff cannot pursue a claim if it arises in connection with illegal conduct.
+- The principle of *in pari delicto potior est conditio defenditis*, meaning where both parties are at fault, the law favors the defendant. The application of these maxims was discussed predominantly in the context of **Jajbhay v Cassim**, which set the precedent for assessing illegality in contractual obligations and tortious claims ([10]–[12]).
+- Vicarious liability principles, particularly that a principal cannot be held liable for the wrongful actions of an agent if the agent's conduct is unlawful and exceeds the scope of employment ([24]–[25]).
+
+### Application
+The SCA examined the proposed amendment, concluding that the Minister's plea misconstrued the nature of vicarious liability. The court emphasized that while SBV could potentially be found liable to its clients, it cannot be deemed liable to itself in the context of a claim for damages from the robbery. The court rejected the notion that SBV could be classified as a co-perpetrator along with the police and Ms. Nkosi given the distinct legal foundations of SBV's obligations (contractual) versus those of the Minister (delictual). The court cited that liability cannot be shared when one party (SBV) is a victim and another (the police) is a perpetrator ([20]–[23]).
+
+Moreover, the court highlighted the implications of allowing such an amendment; it would not introduce any additional triable issues as it rested on a flawed legal basis that misrepresented the relationship between the parties' negligent and unlawful actions. The absence of vicarious liability was reinforced by the consideration that the employees’ conduct, in fact, did not extend claims against SBV into a joint wrongdoer context with the Minister's liability ([28]–[29]).
+
+### Conclusion
+The SCA affirmed the trial court's dismissal of the Minister's application to amend its plea, concluding that the amendment was legally excipiable—both in its substance and due to procedural issues surrounding the timing of its submission. Consequently, the appeal was dismissed with costs, including those for employing two counsel. This decision underscores the intricate interplay between the principles of vicarious liability, the maxims relating to illegality, and the correct identification of wrongdoers in delictual claims ([30]). 
+
+The ruling additionally clarifies the boundaries of liability amongst entities involved in unlawful acts, reinforcing that one cannot evade responsibility through claims of co-participation in illegal conduct when such participation contradicts basic principles of tort law and public policy.

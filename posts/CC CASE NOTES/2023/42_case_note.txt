@@ -1,0 +1,51 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: One Movement South Africa NPC v President of the Republic of South Africa and Others [2023] ZACC 42
+
+## FIRAC Structure
+
+### F – Facts
+One Movement South Africa NPC (the Applicant) applied for direct access to the Constitutional Court to challenge the constitutionality of Section 31B(3) of the Electoral Act 73 of 1998 as amended by the Electoral Amendment Act 1 of 2023 (the EAA). This provision imposes a 15% signature requirement of the previous election’s regional quota, which is argued to constitute an unjustifiable barrier for independent candidates looking to contest elections ([1]-[3]). The parties involved include the President, the Minister of Home Affairs, the Independent Electoral Commission (IEC), the Speaker of the National Assembly, and the Chairperson of the National Council of Provinces, with Rivonia Circle NPC participating as amicus curiae ([3]).
+
+The backdrop to the case involves a constitutional judgment from 2020, *New Nation Movement*, which found that the previous Electoral Act unconstitutionally inhibited individuals from standing for public office and mandated Parliament to amend the Act to align with constitutional rights ([9]-[10]).
+
+### I – Issues
+The primary issues before the court are:
+1. Whether Section 31B(3) of the EAA constitutes a limitation of rights, specifically the rights to freedom of association and the right to stand for public office, as protected under Sections 18 and 19 of the Constitution ([21]-[22]).
+2. If the provision does limit constitutional rights, is such a limitation reasonable and justifiable under Section 36 of the Constitution? ([230]-[231]).
+
+### R – Rules
+The rules surrounding the matter pertain to an evaluation framework established in precedents such as *New Nation Movement*, *Democratic Party*, and *Richter*, which guide the determination of potential limitations on rights protected under the Constitution ([9], [126]). According to Section 36(1) of the Constitution, a limitation of rights is justifiable if it is lawful, serves a legitimate government purpose, and is reasonable and proportional in impact. 
+
+Specifically, the following constitutional imperatives must be considered:
+- The nature of the rights involved;
+- The purpose of the limitation;
+- The extent of the limitation;
+- The relation between the limitation and its purpose;
+- Whether there are less restrictive means to achieve the same purpose ([302]).
+
+### A – Application
+#### Direct Access
+The court initially granted direct access based on urgent considerations, recognizing that if the constitutionality of the signature requirement were not addressed promptly, independent candidates might be unfairly disenfranchised in upcoming elections ([4]-[8]).
+
+#### Rights Limitation Analysis
+The court determined that the signature requirement indeed limited the rights enshrined in Section 19 of the Constitution. The statutory requirement to gather between 10,000 to 14,000 signatures was characterized as a barrier that significantly dissuades participation, especially for independent candidates. The court noted that this burden creates a legal precondition that exceeds mere regulation ([222]-[239]).
+
+The majority judgment emphasized that the requirement to secure a percentage of signatures relates primarily to logistical concerns about who may contest elections rather than facilitating the electoral process ([302]-[304]). This contradicts the intended purpose of providing universal suffrage, resulting in an excessive obstacle for interested independent candidates.
+
+#### Justification Analysis Under Section 36
+The court concluded that the state failed to adequately justify the limitation imposed by the signature requirement. While the government sought to present the signature collection as a mechanism to filter serious candidates, the court found the requirement arbitrary. The initial reasons for its establishment lacked empirical support, as historical participation data demonstrated that insufficient candidates had not previously been a pressing issue ([303]-[331]).
+
+### C – Conclusion
+The Constitutional Court found Section 31B(3) of the Electoral Act unconstitutional due to its irrational association of a candidate's viability with the sheer number of signatures required to contest elections. The order declares this provision invalid and suspends the declaration of invalidity for 24 months to allow Parliament the opportunity to amend this provision. During this period, a temporary provision is read in, effectively requiring only 1,000 signatures for independent candidates ([3], [344]).
+
+The court’s ruling serves as a critical reminder of the imperative for a regulatory framework that empowers candidates rather than erects obstacles, reinforcing South Africa's commitment to free and fair elections. The judgment balances the need for effective electoral governance with the constitutional rights of individual candidates, thereby ensuring the preservation of a vibrant democratic process ([356]-[360]). 
+
+### References
+- *One Movement South Africa NPC v President of the Republic of South Africa and Others* [2023] ZACC 42.
+- *New Nation Movement NPC v President of the Republic of South Africa* [2020] ZACC 11.
+- *Democratic Party v Minister of Home Affairs* [1999] ZACC 4.
+- *Richter v Minister of Home Affairs* [2009] ZACC 3.
+
+This analysis utilises the FIRAC method, providing detailed insights into the legal implications of this important case, while preserving the rigor expected in professional legal documentation.

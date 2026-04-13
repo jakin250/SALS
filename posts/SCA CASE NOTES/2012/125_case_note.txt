@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# Case Note: FIRAC Analysis of Bester and Others NNO v Schmidt Bou Ontwikkelings CC
+
+## F - Facts
+
+In the case of **Bester and Others NNO v Schmidt Bou Ontwikkelings CC** (696/11) [2012] ZASCA 125, the appellants were liquidators of Innova Holdings (Pty) Ltd, with Absa Bank Limited as the fifth appellant. The respondent, Schmidt Bou Ontwikkelings CC, sought several orders concerning property ownership and rectification of a deed of transfer ([1]–[3]).
+
+The pertinent facts indicate that Schmidt Bou was the initial registered owner of a property, erf 3117 in Sedgefield. On October 2, 2003, Schmidt Bou sold a portion of the property (the Portion) to Innova, which was clearly defined in the deed of sale as requiring a subdivision that would result in a separate title for the Portion ([2]). After necessary subdivision, an attorney mistakenly transferred the entire mother erf, rather than just the Portion, to Innova ([4]). This error stemmed from a power of attorney allowing for the total transfer, which was signed without proper consent or clarity on the intentions of Schmidt Bou and Innova. The evidence showed that both parties intended only the Portion to be transferred; thus, the transfer of the Remainder was unauthorized ([5]).
+
+Innova established a bond over the incorrectly transferred property in favor of Absa ([6]). Subsequently, Schmidt Bou sought a declaratory order recognizing its rightful ownership of the Remainder and requested rectification of the deed to reflect the true ownership ([1]). The High Court initially ruled in favor of Schmidt Bou, leading to the appeals presented ([1]).
+
+## I - Issues
+
+The core legal issues raised in the appeal were: 
+
+1. **Ownership and Rectification**: Whether Schmidt Bou retained ownership of the Remainder despite the registered deed transferring it to Innova and if the deed should be rectified ([7]).
+   
+2. **Prescription**: The appellants contended that Schmidt Bou's claim had prescribed under the **Prescription Act 68 of 1969** ([9], [10]).
+   
+3. **Estoppel**: Whether Absa could successfully claim estoppel based on the misrepresentation that Innova was the owner of the Remainder within the deed of transfer ([16], [20]).
+
+## R - Rules
+
+The Court relied on several legal authorities, key among them being:
+
+- **Legator McKenna v Shea** 2010 (1) SA 35 (SCA), particularly the aspects concerning real agreements necessary for transferring ownership ([7], [8]).
+- The **Deeds Registries Act 47 of 1937**, which provides the legal framework for rectification of property deeds ([8]).
+- The **Prescription Act 68 of 1969**, defining a 'debt' and its prescription periods ([9], [10]). 
+- The legal principles surrounding estoppel as previously established in cases such as **Union Government v Vianini Ferro-Concrete Pipes (Pty) Ltd** 1941 AD 43, which outlines the requirements for establishing estoppel based on representations ([17]).
+
+## A - Application
+
+The Supreme Court of Appeal concluded that Schmidt Bou remained the true owner of the Remainder, as there was no valid real agreement to transfer ownership due to the mutual intention that only the Portion be sold ([8], [12]). The potential prescription of Schmidt Bou's claims was dismissed, following the ratio in **Boundary Financing Ltd v Protea Property Holdings (Pty) Ltd** 2009 (3) SA 447 (SCA), which clarifies that a claim for rectification does not constitute a 'debt' as described in the Prescription Act ([10], [12]).
+
+The Court carefully analyzed the implications of the factual background concerning estoppel. It was concluded that Absa had failed to establish that it suffered a detriment due to a reliance on any misrepresentation stemming from Schmidt Bou ([20], [21]). The cause of Absa's advance of funds was not directly linked to any misrepresentation by Schmidt Bou but rather the fraudulent actions of Innova’s directors, which absolved Schmidt Bou of liability ([22]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal dismissed both appeals, affirming that Schmidt Bou rightfully owned the Remainder and was entitled to rectification of the deed. It ruled that the claims were not extinguished by prescription, precluding the liquidators' assertions ([23]). The court's decision underscores the legal principle that ownership is not solely dictated by registry documents but must align with contractual intentions and rectification claims that do not alter previously established rights. Furthermore, it clarified the threshold for estoppel in cases of property misrepresentation, reinforcing the importance of demonstrating detrimental reliance for such claims to succeed ([23]).
+
+The final outcome thereby reinforced the need for accurate conveyancing practices and the significant impact of intentionality in property transactions, echoing broader implications for future property law matters in South Africa. The appellants were ordered to jointly and severally bear the costs of the appeal, further illustrating the court's alignment with Schmidt Bou's rightful claims ([23]).

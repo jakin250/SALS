@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: Pretorius NO v Stanlib Wealth Management Ltd [2007] SCA 77 (RSA)
+
+## F – Facts: Relevant background and procedural history ([paras 1–40])
+
+The appellants, Hermanus Dempers Pretorius NO, Susan Ann Pretorius NO, and Eduard Brand NO, are the trustees of two trusts: the Seca Trust and the Tableau Trust. They initiated a legal action against Stanlib Wealth Management Ltd (formerly known as Liberty Specialised Investments (Pty) Ltd), alleging an investment of R5 million was made on behalf of the trusts (R2.5 million each), which was repayable on demand ([para 1]).
+
+The Cape High Court, presided over by Griessel J, ruled in favor of the appellants, finding that an oral agreement had been established between the trusts and the respondent through authorized representatives. The court awarded the appellants the claimed amount along with interest and legal costs ([paras 2–3]). Stanlib sought to appeal, arguing errors in the lower court’s judgment regarding the existence and authorization of a contract via oral agreement. 
+
+Griessel J granted leave for appeal only on the issue of whether the oral contract was proven ([para 4]). The full court upheld Stanlib's appeal, concluding no oral contract existed and dismissed the claims, leading to the current appeal ([para 5]).
+
+## I – Issues: Legal or constitutional questions ([paras 23–39])
+
+The central legal issue scrutinized in this appeal was whether an enforceable oral contract had been established between the appellants (acting on behalf of the trusts) and Stanlib, particularly focusing on:
+1. Whether the evidence sufficiently supported the existence of an oral agreement on the terms as pleaded by the appellants ([paras 25, 39]).
+2. Whether Mr. Jaco Cloete, the representative from Stanlib, had the authority to bind the company in this context ([para 30]).
+
+The full court’s decision on the non-existence of the oral contract and implications of authority by Cloete raised further questions on how the elements of a contract were fulfilled and recognized in these interactions ([paras 33–34]).
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 1–39])
+
+In determining the presence of an oral contract, the court relied upon general contract law principles, which necessitate mutual agreement, lawful consideration, and intention to create legal relations. Key considerations included:
+- **Evidence of Agreement**: An oral agreement must show a clear intention to contract and specific terms recognized by both parties. The court analyzed the behaviors and statements of Pretorius and Cloete preceding and following the investment ([paras 15, 39]).
+- **Agent Authority**: The law of agency was pivotal in determining whether Cloete had the requisite authority to act on Stanlib’s behalf. The court explored varying degrees of authority—actual, apparent, and implied authority—and the implications of Stanlib’s acknowledgment of Cloete’s actions in context to their computer systems and investment allocations ([paras 30–31]).
+
+The court also sought to address discrepancies in the evidence concerning the nature of the investment and the terms of the purported agreement ([paras 33–34]).
+
+## A – Application: Analysis of how the court applied the law ([paras 1–39])
+
+The Supreme Court of Appeal focused on several key pieces of evidence to address the main issues:
+
+1. **Establishment of Contract**: The trial court found the intention to invest was “abundantly clear”, leading to the conclusion that the appellants intended to invest R5 million on the terms discussed ([para 14]). The appellants had submitted cheques, and the processes that followed indicated a level of agreement between the representatives ([paras 12, 39]).
+
+2. **Cloete’s Authority**: The primary dispute hinged on whether Cloete had the authority to represent Stanlib. Despite Stanlib’s assertions that Cloete lacked authorization, evidence presented illustrated Cloete’s involvement in generating policy documents and deposit slips within Stanlib’s systems ([para 31]). The court deemed such actions as indicative of implied authority.
+
+3. **Rejections of Full Court’s Findings**: The full court's conclusion emphasized inconsistencies in Pretorius’s understanding of the nature of investment through Stanlib, which contradicts standard contract principles stating comprehension is not strictly required for enforceability. Thus, the attention turned toward what was intended by the parties at the time of forming the agreement, ultimately deciding that uncertainties around proper procedures did not eliminate the parties' agreement on the investment ([paras 34–39]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 1–40])
+
+The Supreme Court of Appeal reversed the full court’s judgment, holding that a valid oral contract had indeed been consummated between the appellants and Stanlib, determining that the capital invested was owed by Stanlib upon request ([paras 39-40]). 
+
+The ratio decidendi established:
+- The comprehensive evaluation of evidence regarding the parties’ intentions to contract negated the full court's viewpoint on inconsistency regarding the nature of the product and comprehension of the investment process.
+- Cloete’s functional participation and access to Stanlib’s proprietary application systems evidenced sufficient authority, effectively binding Stanlib to the terms of the oral investment agreement.
+
+The holding underlines the critical nature of implied authority in agency relationships and sets a precedent regarding the evidentiary standards required to establish contracts through oral means ([para 39]). This outcome reinforces the principle that the existence of a contractual agreement can prevail despite procedural anomalies, thus ensuring the upholding of parties' rights under implied agreements within financial transactions.

@@ -1,0 +1,59 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# FIRAC Case Note: Schlumberger Logelco Incorporated v. Coflixip SA
+
+## F – Facts
+
+[1] In this case, the appellant, Schlumberger Logelco Incorporated, installed an apparatus designed to transfer oil from a sub-sea deposit to the sea surface within the Soekor Field Development Project near Mossel Bay. The Commissioner of Patents (Southwood J) found that the appellant infringed Patent 89/1418 (“the patent”) by its actions, consequently issuing an interdict against the appellant from infringing claims 1, 8, and 9 of the patent. Additionally, the court dismissed the appellant’s counterclaim for the revocation of the patent. With requisite leave, the appellant appealed the findings from the lower court under Southwood J.
+
+[2] The patent at issue pertains specifically to an apparatus utilizing at least one hose that facilitates the transfer of fluids—particularly oil—between the seabed and the sea surface. The apparatus includes configurations of flexible risers that permit significant amplitude deflections while maintaining structural integrity. Several riser configurations—namely, Free Hanging, Lazy S, Steep S, Lazy Wave, and Steep Wave—were known and utilized prior to the priority date of the invention, which was established as 24 February 1988.
+
+[3] The patent distinguishes itself by aggregating various features that aim to improve the efficiency and cost-effectiveness of existing technology concerning the transfer of oil. In its specification, the patent describes a holding means for at least one zone of the lower hose connected to a stationary point on the seabed, designed to maintain tension within the hose and impart a specific curvature aimed at directing the flow towards the wellhead.
+
+[4] The relevant claims of the patent include apparatus specifications characterized by features that set them apart from existing technology. Claim 1 emphasizes the use of a holding mechanism that not only supports the hose but also imparts a predetermined curvature to facilitate the upward transfer of oil.
+
+## I – Issues
+
+[7] The legal issues arising from this case include:
+
+1. **Infringement of Patent Claims**: Did Schlumberger Logelco Incorporated's apparatus constitute an infringement of claims 1, 8, and 9 of Patent 89/1418?
+2. **Validity of the Patent**: Was the patent invalidated on grounds of:
+   - **Lack of novelty (Section 61(c) of the Patents Act 57 of 1978)**: Did the claimed invention constitute a new and distinct invention?
+   - **Obviousness (Section 25(1) of the Patents Act)**: Was the invention sufficiently innovative to warrant patent protection?
+   - **Lack of clarity (Section 61(1)(f) of the Patents Act)**: Were the patent claims clearly articulated?
+
+## R – Rules
+
+[8] The legal rules applicable to this case stem from various statutory provisions under South African patent law, particularly the Patents Act 57 of 1978. According to Section 61 of the Act, a patent may be revoked if it fails novelty, inventive step, or clarity criteria. Additionally, Section 25 states that a patent must exhibit a novel invention involving an inventive step.
+
+[9] Precedent cases serve to elucidate these statutory elements, including *Netlon Ltd and Another v Pacnet (Pty) Ltd* 1977 (3) SA 840 (A) which emphasizes that anticipation for lack of novelty must be determined in accordance with the claims of the invention, not merely its description.
+
+[10] In assessing obviousness, the key test revolves around whether the invention was apparent to a person skilled in the art at the time of its priority date, as articulated in *Mölnlycke AB and Another v Procter & Gamble Limited and Others (no 5)* [1994] RPC 49 (CA).
+
+## A – Application
+
+[11] In addressing the **infringement** claim, the court analyzed whether the appellant’s apparatus contained the elements defined in claims 1, 8, and 9 of the patent. The court acknowledged that while the apparatus could effectively impart curvature through its configuration and use of holding means, clarity on how these mechanisms operated in conjunction with the entire apparatus was crucial. It concluded that the essential holding means, connected to a deadman on the seabed, was sufficiently present to affirm that the apparatus was indeed infringing.
+
+[12] Regarding the **validity** of the patent, the court examined three critical areas:
+
+- **Novelty**: The appellant contested the novelty of the patent based on earlier configurations illustrated in prior art (specifically the Rauma-Repola drawing and GB Patent 2 163 403 A). However, the court disallowed the argument, noting the relevant integers of the patent were not present or did not manifest in the prior art in the same manner.
+
+- **Obviousness**: The court weighed expert evidence, noting significant distinctions between existing technologies and the claimed invention—where the inventive step overcame prevalent practical problems without being readily detectable to skilled practitioners. It emphasized that while the technology combined features from previously known configurations, it offered solutions that had not been previously conceptualized.
+
+- **Clarity**: The court concluded that references to "at least one zone" within the claims did not obscure the identification of the structural parameters in question. The overlapping terms did not pose ambiguity concerning the invention as articulated in the patent.
+
+## C – Conclusion
+
+[13] The court ultimately dismissed the appeal, upholding the findings of infringement while affirming the validity of Patent 89/1418. Its rationale underscored that the configuration described in the patent provided a novel solution to existing technical drawbacks present in the state of the art as of the priority date. The ruling thus reinforced the importance of innovation within patent law, particularly emphasizing the nuanced interpretations skilled individuals must accord to terms and claims articulated in patent specifications.
+
+[14] The court’s decision serves to clarify the boundaries of patent law concerning claims of novelty, obviousness, and clarity in the context of complex technological advancements, particularly relevant in the field of marine engineering and fluid transfer systems.
+
+[15] Overall, the court effectively emphasized that each patent claim must be adjudicated thoroughly, considering not only the components of the apparatus but the embodied inventive processes that contribute to industry advancements in technology. 
+
+--- 
+
+**References:**
+- *Netlon Ltd and Another v Pacnet (Pty) Ltd* 1977 (3) SA 840 (A).
+- *Mölnlycke AB and Another v Procter & Gamble Limited and Others (no 5)* [1994] RPC 49 (CA).
+- Patents Act 57 of 1978, South Africa.

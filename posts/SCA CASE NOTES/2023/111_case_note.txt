@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: PFC Properties (Pty) Ltd v Commissioner for the South African Revenue Services and Others [2023] ZASCA 111
+
+### F – Facts
+The case involves two interrelated appeals stemming from the winding-up order of PFC Properties (Pty) Ltd (PFC) in favour of the Commissioner for the South African Revenue Services (SARS) ([1]). The appeal in case number 543/2021 focuses on the winding-up order issued by the Gauteng Division of the High Court, while case number 409/2022 concerns a subsequent business rescue application initiated by the De Robillard Family Trust (DRFT), the sole shareholder of PFC ([2]). 
+
+PFC was engaged in property development but faced substantial tax assessments from SARS, amounting to over R52 million in VAT and R5 million in income tax ([4]-[5]). Paul De Robillard, a director until 2011, and his wife Britta De Robillard, a director until 2020, were implicated in a series of actions leading to allegations of fraudulent conduct, including the improper claiming of VAT inputs. The financial distress culminated in SARS's winding-up application based on PFC's inability to pay its debts, which included substantial tax liabilities ([12]-[17]).
+
+Subsequently, the DRFT trustees filed a business rescue application after the winding-up proceedings commenced, asserting that the business rescue would provide a viable recovery route for PFC ([2]). However, PFC's activities, such as transferring significant assets to avoid creditor claims, suggested collusion and a lack of genuine intent for rehabilitation ([15]-[16]).
+
+### I – Issues
+The primary legal issues presented include:
+1. Whether the business rescue application launched by the DRFT trustees served as a legitimate effort to rehabilitate PFC or as a stratagem to delay winding-up proceedings ([25]).
+2. Whether the winding-up application could proceed in light of the ongoing business rescue proceeding, specifically considering the provisions of section 131(6) of the Companies Act 71 of 2008 ([19]-[21]).
+3. Whether the conduct of the DRFT trustees amounted to an abuse of process warranting non-suit of the application for business rescue ([25]).
+
+### R – Rules
+The legal framework applicable to the case revolves around the Companies Act 71 of 2008, particularly sections:
+- **Section 131(6)**: Automatically suspends liquidation proceedings when a business rescue application is filed until the application is adjudicated upon.
+- **Section 133(1)**: Establishes that legal proceedings against a company in business rescue cannot proceed without court permission.
+- **Section 128(1)(b)(iii)**: Defines "business rescue" as proceedings meant to facilitate the rehabilitation of financially distressed companies.
+
+The court also drew on precedents regarding the purpose of business rescue proceedings and the doctrine of abuse of process, notably referencing *Villa Crop Protection (Pty) Ltd v Bayer Intellectual Property GmbH [2022] ZACC 42* to explore whether the business rescue was being exploited ([25], [28]).
+
+### A – Application
+The Supreme Court of Appeal analyzed the motives behind the filing of the business rescue application by the DRFT trustees, assessing whether it was a genuine attempt to rehabilitate PFC or merely a tactic to prolong the inevitable winding-up ([25]-[29]). It was revealed that the trustees had not adequately addressed the inaccuracies in PFC's financial disclosures, notably the questionable claims made about asset values and the existence of debts ([30]), which indicated a lack of good faith.
+
+The Court emphasized that the essence of business rescue is to genuinely offer a company a path towards solvency and to maximize returns for creditors. The history of fraudulent asset dissipation undermined the viability of the rescue application, leading the Court to conclude that the trustees were not only aware but willfully ignoring the futility of the rescue efforts ([35]-[36]). Thus, the application for business rescue did not meet the criteria of being "just and equitable" nor demonstrating a reasonable prospect of successful rehabilitation ([26], [39]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld the winding-up order against PFC, dismissing the appeals in both cases ([40]). The judgment reinforced the notion that business rescue procedures cannot serve as vehicles for delaying creditor rights or avoiding legitimate financial obligations. The Court's decision to non-suit the trustees in the business rescue application reflects a rigorous application of the abuse of process doctrine, safeguarding the integrity of judicial proceedings while ensuring that mechanisms designed for financial rehabilitation are not misused ([37]).
+
+The case highlights significant implications for the understanding of business rescue in South African law, reiterating that the bona fides of parties seeking rescue are paramount and that courts will intervene where abuse of legal processes is evident.

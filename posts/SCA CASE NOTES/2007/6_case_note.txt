@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# Case Note: Insamcor (Pty) Ltd v Dorbyl Light & General Engineering (Pty) Ltd [2007] SCA 6 (RSA)
+
+## FIRAC Method
+
+### F – Facts ([1]–[32])
+The case involves two appeals heard together concerning a contractual dispute over royalties and the restoration of a deregistered company. 
+
+1. **Parties**: Insamcor (Pty) Ltd is the appellant in the first case, while Dorbyl Light & General Engineering (Pty) Ltd ('DLG') is the appellant in the second case. DLG brought claims against Insamcor for unpaid royalties and sought an interdict to prevent Insamcor from manufacturing diaphragm valves, a claim upheld by Meyer AJ in the Johannesburg High Court ([1]).
+
+2. **Background**: The relationship between the parties originated from a tripartite agreement established on 11 September 1985, involving Insamcor, S&L, and Saunders. DLG took over S&L's rights and obligations in 1988 ([3]).
+
+3. **Licensing Agreement Provisions**: The agreement stipulated that Insamcor was to pay royalties on certain products manufactured under a sublicense from DLG, with specific royalties owed quarterly ([5]–[6]).
+
+4. **Dispute Overview**: DLG claimed Insamcor had not made any royalty payments since September 2001 and alleged the license agreement had been cancelled due to this breach ([7]). Insamcor asserted it was entitled to royalties only if DLG had fulfilled its contractual obligations ([8]).
+
+5. **Deregistration of DLG**: A pivotal development arose when Insamcor discovered that DLG had been deregistered in 1996 due to a corporate restructuring within the Dorbyl Group ([10]). This deregistration was formalized under Section 73(5) of the Companies Act 61 of 1973.
+
+6. **Restoration Application**: DLG sought to be restored to the register under Section 73(6) of the Companies Act ([12]), leading to a ruling on 2 March 2004 by Cachalia J that restored DLG’s registration, which included assets initially considered bona vacantia ([13]).
+
+7. **Discovery of Relevant Documents**: Prior to the hearing, Insamcor discovered two documents that revealed critical aspects regarding DLG's deregistration and its subsequent transactions with Dynamic Fluid Control (Pty) Ltd ([11]–[12]). 
+
+8. **Setting Aside the Restoration Order**: Following the revelation of these documents, Insamcor sought to set aside the restoration order, arguing it was granted without proper parties being joined or a rule nisi issued. Meyer AJ ruled against the stay of the royalties proceedings, compelling Insamcor to appeal ([15]).
+
+### I – Issues ([16]–[28])
+1. **Joinder of Necessary Parties**: The primary issue concerned whether Insamcor had a direct and substantial interest in the restoration proceedings, necessitating its joinder as a party ([16]). 
+
+2. **Misrepresentation of Facts**: A secondary issue revolved around allegations of DLG’s failure to disclose material facts in the restoration application ([17]).
+
+3. **Prejudice to Third Parties**: The case examined whether the restoration of a deregistered company can prejudice third parties who had rights affected by the company's deregistration ([24]).
+
+4. **Discretionary Power of the Court**: Whether the court's power to restore a company under Section 73(6) is purely discretionary and involves consideration of potential prejudice to third parties ([26]).
+
+### R – Rules ([18]–[24])
+1. **Section 73 of the Companies Act**: The relevant statutory framework governing the deregistration and restoration of companies. Section 73(6) provides that a court may restore a company if it was in operation at the time of deregistration or if it is just to do so ([21]).
+
+2. **Legal Precedents**: Reference was made to previous case law, notably *Ex Parte Varvarian* and *Ex Parte Sengol Investments*, which established that restoration applications should be preceded by a rule nisi and that affected parties should have the opportunity to present their interests ([19]).
+
+3. **Judicial Discretion**: The exercise of discretion by the court in restoration matters highlights the necessity for considering the interests of third parties who might suffer prejudice as a result of restoration ([26]).
+
+### A – Application ([30]–[33])
+1. **Locus Standi**: The apex court endorsed Blieden J’s ruling that Insamcor should have been formally joined in the restoration proceedings due to its clear interest in the outcome. This was critical because the restoration order affected Insamcor's legal position regarding the royalties claim, given DLG's non-existence at the time of the original claim ([30]).
+
+2. **Material Disclosures**: The court noted that the restoration application was based on misrepresented circumstances that did not fully disclose DLG's transactions with DFC. It found that failure to disclose vital information influenced the validity of the restoration order ([30]).
+
+3. **Retrospective Effect of Restoration**: The Supreme Court emphasized that the restoration order carried retrospective implications, indicating that any claims made post-restoration were on behalf of an entity that, at the material time, did not exist. Thus, any judicial findings regarding royalties could not hold ([32]).
+
+4. **Overall Ruling**: The court affirmed the appeals by Insamcor, highlighting that since the restoration order was improperly granted, the royalties judgement was likewise invalid since DLG, as a claimant, had effectively ceased to exist until restored correctly ([33]).
+
+### C – Conclusion ([32]–[33])
+The Supreme Court of Appeal concluded that the restoration order granted to DLG was invalid due to the failure to join necessary parties and disclose pertinent facts. As a result, the appeal against the setting aside order was upheld, thereby nullifying the royalties claim made by DLG against Insamcor.
+
+The implications of this decision underscore the vital nature of procedural integrity in corporate matters, particularly regarding the need to ensure that all parties affecting the restoration of a company be duly notified and afforded the opportunity to participate. The ruling also serves as a critical reminder of the potential consequences of deregistration, not only for the entity itself but for third-party rights that may emerge in the interim.
+
+### References
+- Ex Parte Varvarian: *In re Constantia Pure Food Co (Pty) Ltd* 1965 (4) SA 306 (W).
+- Ex Parte Sengol Investments (Pty) Ltd 1982 (3) SA 474 (T).
+- Mouton v Boland Bank Ltd 2001 (3) SA 877 (SCA).
+- Blackman, J., Jooste, R., & Everingham, A., *Commentary on the Companies Act*.

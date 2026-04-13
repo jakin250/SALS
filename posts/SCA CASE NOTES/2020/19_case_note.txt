@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Telkom SA SOC Limited v The Commissioner for the South African Revenue Service (2020) ZASCA 19
+
+**F – Facts**: Relevant background and procedural history ([paras 1–7])
+
+The dispute arises from a significant investment by Telkom International (Pty) Ltd, a subsidiary of Telkom SA SOC Limited (Telkom), in Multi-Links Telecommunications Ltd (Multi-Links), a Nigerian company. In May 2007, Telkom acquired 75% of Multi-Links, and in March 2009, it obtained the remaining 25%. To support Multi-Links, Telkom provided shareholder loans totaling approximately USD 877 million, a substantial portion of which was denominated in US dollars ([paras 1–2]).
+
+By 2009, Multi-Links was struggling to repay these loans. In October 2011, Telkom sold its equity and loan rights in Multi-Links to HIP Oils Topco Ltd for a mere USD 100 during the 2012 tax year. In its financial statements, Telkom noted a foreign exchange gain of R247 million from this realisation but sought to claim a deduction of nearly R3.96 billion as a foreign exchange loss on its income tax return for the same year ([para 4]). This created a taxable loss of R106 billion, shifting Telkom from a taxable profit to a refund claim from the South African Revenue Service (SARS) ([para 5]).
+
+The Commissioner of SARS, however, disallowed the foreign exchange loss claim and assessed Telkom for a foreign exchange gain, leading to an additional tax assessment ([para 6]). Furthermore, the Commissioner contested a separate claim by Telkom concerning cash incentive bonuses to Velociti (Pty) Ltd, allowing only a fraction of Telkom's claimed deductions for these bonuses ([para 6]).
+
+Following an unsuccessful appeal in the Tax Court regarding the foreign exchange issue, Telkom appealed again to the Supreme Court of Appeal, where the Commissioner cross-appealed on the cash incentive bonuses issue ([paras 6–7]).
+
+---
+
+**I – Issues**: Legal or constitutional questions ([paras 8–19])
+
+The primary issues for determination in this appeal include whether Telkom's reported foreign exchange loss should be deductible under section 24 I of the Income Tax Act 58 of 1962, and whether the interpretation of the provision aligns with commercial realities ([paras 8–9]). The court also needed to assess if the application of the contra fiscum rule should influence the interpretation of the fiscal statutes in question ([para 18]).
+
+Additionally, the court had to resolve whether SARS was entitled to limit the deductions claimed by Telkom with respect to cash incentive bonuses under section 23H of the Act, which pertains to the timing of when an expenditure’s benefits are realised and enjoyed ([para 45]).
+
+---
+
+**R – Rules**: Legal authorities and precedents relied upon ([paras 20–22])
+
+The court turned primarily to the Income Tax Act 58 of 1962, particularly section 24 I, which governs the treatment of gains and losses from foreign exchange transactions. The relevant definitions detailed exchange items and ruling exchange rates, with specific allowances made for how gains and losses arising from currency fluctuations are to be calculated ([paras 23–24]).
+
+For the foreign exchange issue, the pleading invoked the longstanding contra fiscum rule, which dictates that fiscal laws must be interpreted in favour of the taxpayer where ambiguity exists ([para 18]). The court reviewed the purpose of section 24 I ensuring that currency values for tax purposes reflect actual foreign exchange changes ([para 30]).
+
+For the cash incentive bonus issue, section 23H was scrutinized to determine whether Telkom legitimately incurred the expenditure related to benefits enjoyed within the same taxable period. The statutory provisions detailed criteria for evaluating expenses deductible in the year incurred versus those extending beyond the current assessment ([para 44]).
+
+The ruling also referenced case law, including *Natal Joint Municipal Pension Fund v Endumeni Municipality* [2012] ZASCA 13, to inform the interpretation approach and applicable contextual rules ([para 8]).
+
+---
+
+**A – Application**: Analysis of how the court applied the law ([paras 23–42])
+
+In interpreting section 24 I, the court noted that Telkom's claim of a foreign exchange loss failed because it conflated the concepts of transactional loss with that of tax-deductible currency fluctuations. The transaction characterized by the sale to HIP Oils was viewed as realization rather than mere currency translation, meaning the income must reflect actual market conditions when realized ([paras 33–35]). 
+
+Consequently, the court firmly rejected Telkom's assertion that its interpretation reflected commercial realities; rather, it highlighted how diminishing currency value alone did not justify a deduction under the provisions intended for actual exchange gains and losses. The court maintained that the statute’s purpose was not to provide a blanket mechanism for commercial losses, and the lack of ambiguity in the statutory language disqualified the application of the contra fiscum rule ([para 38]).
+
+Regarding the cash incentive bonus deductions, the court determined that the real benefit to Telkom extended beyond the immediate connection of subscribers and into the sustained value generated through subscription fees. The expenses’ deduction was rightly based on the ongoing contractual benefits rather than the unambiguous connection achieved in the taxable year, thus rendering the Commissioner’s limits on deductions appropriate under section 23H ([paras 56–57]).
+
+---
+
+**C – Conclusion**: Court’s holding, ratio decidendi, and implications ([paras 57–57])
+
+The Supreme Court of Appeal dismissed Telkom's appeal concerning the foreign exchange dispute and upheld the Commissioner’s cross-appeal regarding cash incentive bonuses, concluding that the Tax Court correctly applied section 24 I of the Act. The statute did not permit deductions based on non-exchange rate fluctuations which characterise ordinary business losses ([para 57]).
+
+This ruling reinforced existing interpretations of the Income Tax Act regarding foreign exchange provisions and emphasized that fiscal regulations do not extend to accommodate commercial interpretations outside their legislative intentions. The decisions confirmed the rigid boundaries of statutory deduction applications, asserting the necessity of clarity and alignment with the explicit language of legislation. This case significantly impacts how corporates may strategize tax deductions linked to foreign investments and exchange rate treatments, necessitating closer compliance with statutory definitions and interpretations moving forward.

@@ -1,0 +1,41 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: Diener N.O. v Minister of Justice and Correctional Services and Others [2018] ZACC 48
+
+### F – Facts: Relevant background and procedural history ([paras 1–16])
+The case concerns Mr. Ludwig Wilhelm Diener, the applicant, who was appointed as a business rescue practitioner for JD Bester Labour Brokers CC, a company that owned only one immovable property and faced significant financial distress due to a breach of contract with its sole creditor, FirstRand Bank Limited (FRB) ([para 3]). A sale in execution was scheduled for this property, leading to a resolution being adopted on 13 June 2012 to place JD Bester in business rescue without the consultation of FRB. Following the initiation of business rescue, Mr. Diener was appointed two weeks later ([paras 10–11]). 
+
+Subsequently, Mr. Diener determined that the company could not be rescued due to lack of viable operations and initiated a conversion of the business rescue proceedings into liquidation, which the court granted ([para 13]). Disputes arose regarding the ranking of claims for Mr. Diener’s remuneration and expenses as a business rescue practitioner against the claims of other creditors following JD Bester’s liquidation. The Master of the High Court sided with Mr. Murray, one of the joint liquidators, who believed that the practitioner could not claim preferential treatment in payment over secured creditors, leading to this appeal after the Supreme Court of Appeal dismissed Diener's application for a super preference ([paras 15–16]).
+
+### I – Issues: Legal or constitutional questions ([paras 2, 17–19])
+The central issue concerns the interpretation of sections 135(4) and 143(5) of the Companies Act regarding the practitioner’s claim to remuneration and whether such claims are entitled to a "super preference" over all other creditors upon conversion from business rescue proceedings to liquidation. Specifically, the questions are:
+1. Whether the respective sections afford practitioners a preference over secured and unsecured creditors when the business rescue transitions to liquidation ([paras 2, 17]).
+2. The implications of such a preference on the rights of creditors, highlighting the potential legal and financial ramifications ([para 19]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 21–29])
+The court primarily engaged with statutes, particularly the Companies Act 71 of 2008, especially Chapter 6, which governs business rescue. 
+
+1. **Section 135(4)** allows certain claims to remain preferential but states this is subject to the expenses of liquidation.
+2. **Section 143(5)** confers priority to a practitioner’s remuneration during business rescue proceedings.
+3. **Insolvency Act 24 of 1936**, specifically sections 89(1) and 97, which detail the ranking and payment of claims during liquidation. Section 97 dictates that costs of liquidation should be paid out of the free residue after satisfying secured claims, complicating the assertion of a super preference ([paras 24–25]).
+
+The Supreme Court of Appeal previously ruled that provisions in the Companies Act do not inherently provide for a super status for practitioners over secured creditors, emphasizing the distinction between post-commencement finance and other secured claims ([paras 21–22]).
+
+### A – Application: Analysis of how the court applied the law ([paras 30–60])
+In examining the case, the court took a plain reading approach to statutory interpretation, asserting that terms should be understood in their ordinary usage and context ([paras 36–38]). The court found that the wording of both sections suggests that a practitioner’s claim ranks before other creditors during the ongoing business rescue but does not extend this preference into the liquidation phase.
+
+Regarding Mr. Diener's arguments sustaining a super preference, the court emphasized the legislative intent behind the Company Act, which focuses on facilitating the rescue of viable companies while balancing the interests of all parties involved. In particular:
+- The court highlighted that sections communicate a clear distinction in treatment of claims during the ongoing business rescue as compared to claims during liquidation ([paras 55–57]).
+- The interpretation that practitioners could be paid from the proceeds of secured assets when there is no free residue was dismissed as contrary to the express provisions of both the Companies and Insolvency Acts ([paras 63–68]).
+
+The judicial reasoning ultimately reiterated the balance intended by the legislative framework, cautioning against overextending a preferential claim to protect against risks associated with business rescue proceedings that may undermine secured creditor rights ([para 60]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 71–73])
+The Constitutional Court dismissed the application for leave to appeal on the basis that:
+1. The Supreme Court of Appeal's interpretation of the relevant sections of the Companies Act was correct and served to maintain the balance intended between creditors within the context of liquidation ([para 71]).
+2. The potential for practitioners to misuse a super preference system further emphasized the need to protect secured creditors from undue disadvantage.
+
+The implications of the ruling reinforce the established structure and limitations in preferential claims within insolvency proceedings, thereby striking a balance not only between creditors and practitioners but also upholding the foundational principles underpinning business rescue as a legislative mechanism intended to aid financially distressed entities. The court did not impose any costs due to the importance of the issues at stake ([para 73]). 
+
+The decision marks a significant interpretation of the Companies Act, clarifying the roles and rights of creditors and practitioners within the business rescue and insolvency frameworks and emphasizing the need for a cautious approach to the interpretation of preferential claims in a way that carefully considers the varied interests of all stakeholders.

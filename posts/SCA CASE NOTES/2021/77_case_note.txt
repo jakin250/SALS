@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Blendrite (Pty) Ltd and Another v Moonisami and Another [2021] ZASCA 77
+
+## FIRAC Method Analysis
+
+### F – Facts
+
+The case presented to the Supreme Court of Appeal of South Africa, **Blendrite (Pty) Ltd and Another v Moonisami and Another**, centers on corporate governance disputes between the directors of Blendrite. The first appellant, **Blendrite**, is a company owned by two directors: **Manivasan Palani** (second appellant) and **Dhramalinkum Moonisami** (first respondent). In 2008, both directors jointly funded the establishment of Blendrite, where Mr. Moonisami served as the managing director and Dr. Palani as the financial director ([para 1–2]).
+
+Tensions arose leading to a deadlock between the two directors, prompting Mr. Moonisami to initiate a liquidation application against Blendrite, claiming that it was just and equitable due to their ongoing disputes ([para 1]). However, the liquidation application was not finalized at the time of the current proceedings.
+
+Amidst these disputes, Dr. Palani alleged that Mr. Moonisami had resigned, a claim that was contested. As a result, Dr. Palani instructed **Global Network Systems (Pty) Ltd** (the second respondent), a web hosting company, to terminate Mr. Moonisami’s access to Blendrite’s server and email ([para 2]). Following this directive, Global terminated Mr. Moonisami's access on July 17, 2019, which led him to seek legal remedy.
+
+Mr. Moonisami filed an urgent application in the KwaZulu-Natal Division of the High Court for a spoliation order, seeking restoration of access to his email and company network, claiming he was in peaceful possession of such access before being denied ([para 3]). The High Court ruled in favor of Mr. Moonisami, granting him relief and imposing costs on the opposing parties. Blendrite and Dr. Palani's subsequent application for leave to appeal was dismissed, leading to the appeal at the Supreme Court of Appeal ([para 4]).
+
+### I – Issues
+
+The primary legal issue before the Supreme Court was whether Mr. Moonisami's prior access to an email address and company network constituted quasi-possession of incorporeal property warranting protection under the doctrine of **mandament van spolie** ([paras 19–20]). Specifically, the court had to determine whether spoliation could be successfully claimed despite the personal nature of the rights involved.
+
+### R – Rules
+
+The Supreme Court of Appeal clarified the principles pertaining to the **mandament van spolie**, a remedy designed to restore possession to a dispossessed person without delving into underlying ownership rights:
+
+1. **Definition of Possession**: Possession comprises both a factual situation (corpus) and a mental state (animus possidendi), meaning control of a thing coupled with the intention to possess it ([para 5]). 
+
+2. **Nature of Spoliation**: Spoliation encompasses any unlawful deprivation of possession, and the remedy is available regardless of the underlying rights involved ([paras 6–7]).
+
+3. **Scope of Quasi-possession**: The court asserted its position regarding quasi-possession, indicating it includes rights to certain incorporeals, loosely defined as possession that does not involve physical things but still merits protection, particularly when linked to the possession of corporeal property ([para 9]).
+
+4. **Personal Rights vs. Incidents of Possession**: The Supreme Court has delineated that spoliation orders do not cover personal contractual rights; they are specifically intended to protect quasi-possessions that arise as incidents of property possession ([para 16]).
+
+### A – Application
+
+In applying the aforementioned legal principles, the Supreme Court of Appeal found it imperative to distinguish Mr. Moonisami’s claim concerning access to the email and server from instances of possessio iuris. They referenced the precedent set in **Telkom SA v Xsinet (Pty) Ltd**, where it was held that disconnection of services based on contractual disputes did not equate to spoliation due to the personal nature of the right involved ([para 20]).
+
+The court emphasized that Mr. Moonisami’s claim did not arise from possession of corporeal property nor was it related to any legal right to use such resources that could be described as occurring within the ambit of property possession. Rather, it was tied to conflicts over the status of his directorship and the terms of his employment with Blendrite ([para 20]). Therefore, the court concluded that his prior use of the email address and server did not constitute quasi-possession protectable by the mandament van spolie. 
+
+### C – Conclusion
+
+Concluding its analysis, the Supreme Court upheld the appeal, overturning the High Court's decision. The court emphasized that Mr. Moonisami lacked the requisite quasi-possession of incorporeal property to warrant spoliatory protection. It stated unequivocally that the access terminations did not adhere to the necessary characteristics for the mandament to apply ([para 21]).
+
+**Final Order**: The appeal was granted with costs, including those for two counsel where applicable, effectively setting aside the previous spoliation order and dismissing Mr. Moonisami's application ([para 21]).
+
+This decision reaffirms critical aspects of property law with implications for how spoliation claims regarding incorporeal property rights may be approached in South Africa. The ruling serves as a reminder of the stringent requirements for establishing quasi-possession and the limitations of the mandament van spolie to situations fundamentally rooted in possession rather than personal rights.

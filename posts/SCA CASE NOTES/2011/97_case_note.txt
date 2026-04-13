@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Absa Bank Limited v Kernsig 17 (Pty) Ltd
+
+## F - Facts
+The matter of **Absa Bank Limited v Kernsig 17 (Pty) Ltd** [1] revolves around a dispute regarding six covering mortgage bonds that were registered against a property owned by Kernsig (the respondent). Kernsig, represented by its sole directors and shareholders, the Greyling brothers, sought to cancel the bonds held by Absa Bank (the appellant), which had initially granted loans to a farming partnership (Karoovlakte Boerdery) on the strength of this security. The partnership was comprised of the Greyling brothers, operating on the property Karoovlakte farm in the Western Cape. 
+
+Absa provided an overdraft facility to the partnership, which was subsequently secured by six covering mortgage bonds amounting to R1.11 million [3-4]. Legal tensions arose when the Greyling brothers discussed selling Karoovlakte farm to the Barnards, requiring extraordinary measures to address existing debts through a new loan from Absa to Kernsig, which was secured by the same bonds [7-12]. 
+
+As the circumstances evolved, the Barnards vacated the farm without fulfilling their purchase obligations, leading Kernsig to contend that the mortgage bonds, which secured the partnership's debts, should be cancelled since those debts were claimed to have been liquidated after taking a loan from Absa [13-14]. Absa insisted that Kernsig had entered into a valid loan agreement and that the mortgage bonds remained in force as security for this new loan.
+
+Initially, the Western Cape High Court dismissed Kernsig's application, stating that the loan agreement was valid and enforceable [15]. However, in appeal before the full bench of the Western Cape High Court, Kernsig was successful, leading to the current appeal by Absa [2].
+
+## I - Issues
+The primary legal issue before the Supreme Court of Appeal (SCA) was whether the loan agreement contravened Section 38 of the Companies Act 61 of 1973 ([20]). Specifically, the court needed to address whether financial assistance was improperly rendered either directly or indirectly to facilitate a share purchase, and whether sufficient facts were before the court to substantiate such contravention [19]. 
+
+The questions raised included:
+1. Did the transaction constitute financial assistance in violation of Section 38?
+2. Were all relevant facts presented to the court to enable proper adjudication regarding the matter of contravention?
+
+## R - Rules
+Section 38 of the Companies Act stipulates:
+
+> "No company shall give, whether directly or indirectly, and whether by means of a loan, guarantee, the provision of security or otherwise, any financial assistance for the purpose of or in connection with a purchase or subscription made or to be made by any person of or for any shares of the company." 
+
+This legal provision aims to safeguard the interests of creditors and prevent potential depletion of a company's resources for share acquisitions, which could compromise the settleable debts owed to creditors [21].
+
+The court extensively referenced previous case law, emphasizing that Section 38 must be interpreted based on the direct purpose of the transaction [22]. In essence, a loan could be deemed non-compliant only if its immediate aim was to facilitate the purchase of shares rather than simply serving another financial purpose [23].
+
+Furthermore, the SCA reiterated that in motion applications, affidavits represent both evidence and pleadings, and thus all facts necessary for a determination must be presented for the court's consideration [24].
+
+## A - Application
+The SCA scrutinized the lower court's decision and identified a key deficiency in the factual basis upon which the contravention of Section 38 was alleged. The court underscored that the lower court did not possess a complete factual matrix necessary to responsibly determine whether or not the loan agreement in question breached Section 38.
+
+Notably, the SCA found that Kernsig had not clearly articulated or relied upon the alleged Section 38 contravention in its founding affidavit. The court highlighted that the argument about the loan agreement's invalidity on Section 38 grounds was not adequately presented until the leave to appeal stage, thus rendering it inappropriate for the court to make a determination based on an incomplete factual submission ([18], [13]).
+
+As such, because the relevant factual context surrounding the loan's purpose and conditions remained underdeveloped, the court could not uphold the decision of the court a quo, which asserted the loan contravened Section 38 ([25]).
+
+## C - Conclusion
+The Supreme Court of Appeal concluded that the earlier ruling of the Western Cape High Court was not supported by a necessary factual basis, leading to the quashing of the lower court's determination regarding the contravention of Section 38. 
+
+The SCA upheld the original decision of the court of first instance, thus finding in favor of Absa Bank. The court ordered that the appeal be successful with costs, including compensation for employing two counsel [27]. The implications of this ruling reaffirm the necessity for complete factual submissions in motions surrounding allegations of company law contraventions, particularly when involving financial assistance and potential liability under Section 38 of the Companies Act.
+
+In summary, this judgment underscores the importance of clarity and specificity in legal pleadings, particularly in company law cases where statutory compliance is in question, and emphasizes that courts must have an adequate factual basis to adjudicate on contraventions of significant corporate statutes.

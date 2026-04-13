@@ -1,0 +1,49 @@
+Case Note: SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: GCC Engineering & Others v Lawrence Maroos & Others ([2018] ZASCA 178)
+
+## F – Facts ([paras 1–4])
+
+This case arose from an appeal against the Gauteng Division of the High Court's decision, which ruled on an application concerning business rescue proceedings for GCC Engineering (Pty) Ltd ("the first appellant"). The first respondent, Lawrence Maroos, was the sole director and shareholder of the first appellant. After years of financial difficulties, GCC Engineering was placed under business rescue in 2016. Mr. Gerhard Vosloo was appointed as the provisional business rescue practitioner.
+
+Subsequently, Vosloo applied to terminate the business rescue proceedings and sought a winding-up order, asserting that there was no reasonable prospect of rescue. The High Court granted a provisional winding-up order on 3 May 2017 and appointed provisional joint liquidators on 15 May 2017. A crucial aspect of the case arose when the first respondent sought urgent orders for the appointment of a manager to control the company's affairs while the business rescue application was pending. The appellants countered this application, asserting their powers as provisional liquidators and opposition to the first respondent's requests. 
+
+The High Court's ruling, which included orders concerning the role and powers of the provisional liquidators and the appointment of a manager, became the focus of this appeal.
+
+## I – Issues ([paras 9–22])
+
+The Supreme Court of Appeal was tasked with resolving several pertinent legal questions:
+
+1. Whether the appointment and powers of the provisional liquidators were suspended by section 131(6) of the Companies Act 71 of 2008.
+2. Whether control and management of the property of a company already placed in liquidation can legally be re-vested in its directors.
+3. Whether the Master of the High Court has a relevant role in business rescue proceedings when liquidation has been ordered.
+
+These issues arise from the interpretations of statutory provisions regarding business rescue and liquidation.
+
+## R – Rules ([paras 10–19, 20–21, 22])
+
+### Statutory Provisions
+- **Section 131(6) of the Companies Act 71 of 2008**: This provision indicates that if liquidation proceedings have commenced, those proceedings are suspended pending adjudication on a business rescue application.
+- **Section 361(1) and (2) of the Companies Act of 1973**: These sections state that all property of a company under winding-up is in the custody of the Master until a provisional liquidator is appointed.
+  
+### Case Law
+- **Jansen van Rensburg NO & another v Cardio-Fitness Properties (Pty) Ltd & others** [2014] JOL 31979 (GSJ): It was emphasized that provisional liquidators remain essential to supervise the administration of the company’s property.
+- **Knipe & another v Noordman NO & others** [2015] (4) SA 338 (NCK): The court maintained that provisional liquidators should not be disempowered by business rescue applications.
+- **Richter v ABSA Bank Ltd** [2015] ZASCA 100: Here, it was established that "liquidation proceedings" encompass actions to dissolve a company and manage its assets.
+
+## A – Application ([paras 12–19, 20–21, 22])
+
+In its deliberation, the Supreme Court determined that the powers of the provisional liquidators were not suspended by the initiation of business rescue proceedings. The court grounded its reasoning on the interpretation of "suspend" in section 131(6), clarifying that while liquidation proceedings are indeed suspended, the status of the company remains and the appointed liquidators must continue protecting the company's assets for its creditors.
+
+Moreover, the court examined the implications of a winding-up order on the management of the company. It held that, upon a winding-up order, the directors lose their control over the company, which is transferred to the Master or liquidators. The ability to re-vest management authority in the company's directors was not found to be supported by any statutory provision, reinforcing the principle that directors cannot reclaim control once liquidation has been ordered.
+
+Lastly, concerning the role of the Master in business rescue proceedings, the court underscored that the Master has statutory authority primarily linked to the liquidation processes. Given that the sixth appellant (the Master) was not a party to the original motions and that the orders made impacted it significantly, the court deemed the original order incorrect.
+
+## C – Conclusion ([paras 24–26])
+
+The Supreme Court of Appeal upheld the appeal, setting aside the High Court's ruling which had previously expanded the role of the Master's capacity in business rescue proceedings and permitted an interim manager with director-like powers. The apex court clarified that the powers of provisional liquidators were not terminated by the business rescue application and that control over a company under liquidation cannot revert to its directors.
+
+Consequently, the appeal's outcome reinforces the legal clarity surrounding the operation of business rescue versus liquidation, emphasizing the need for consistent application of statutory provisions in managing corporate distress. The implications for creditors, directors, and practitioners involved in insolvency and business rescue are significant, as these rulings delineate the respective roles and authority during such transitions. The court's decision also serves as guidance for future proceedings regarding the intersection of business rescue and liquidation, likely contributing to more coherent jurisprudence in these complex areas. 
+
+The appeal was upheld with costs awarded to the appellants, reinforcing the judicial position against the dilatory conduct of the respondents during the appeal process.

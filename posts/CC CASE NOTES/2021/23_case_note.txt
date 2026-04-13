@@ -1,0 +1,33 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: BE obo JE v MEC for Social Development, Western Cape [2021] ZACC 23
+
+## FIRAC Method
+
+### Facts
+[1] The case revolves around an incident occurring on 12 August 2008 at Babbel and Krabbel play school, where a five-year-old girl, JE, suffered a severe traumatic head and brain injury when a dislodged beam from a wooden swing structure collapsed onto her. This incident left JE permanently disabled, shattering her parents’ hopes of raising a healthy child. The applicant, BE, acting on behalf of JE, sought damages from the respondent, the Provincial Minister of the Western Cape Department of Social Development, claiming delictual liability for the injuries sustained by JE ([1]).
+
+[3] Following the accident, the applicant filed a delictual claim against the Minister, who subsequently joined the Overberg District Municipality and the school as third parties based on contributory negligence, leading to a consolidation of this action with a separate lawsuit against the school ([3]). The main trial considered the issue of liability, leading to a finding by the High Court in favor of the applicant, concluding that the Minister was liable for damages as a result of the incident ([5]).
+
+[6] The Minister appealed this judgment, and the Supreme Court of Appeal overturned the High Court's ruling, determining that the applicant had failed to prove the delictual element of wrongfulness, thus dismissing the applicant’s claims with no order as to costs ([6]). The applicant then sought leave to appeal this decision.
+
+### Issues
+[9] The core issue before the Constitutional Court was to determine whether the Minister had a legal duty to take reasonable steps to prevent harm to children in Early Childhood Development (ECD) centres, specifically in terms of the constitutional framework and relevant legislation. The Court was tasked with assessing the correctness of the Supreme Court of Appeal’s conclusion that the delictual element of wrongfulness had not been established by the applicant. Additionally, the Court would consider whether the other elements of delictual liability—negligence and causation—had been sufficiently proven ([9]).
+
+### Rules
+[10] The legal framework for assessing delictual liability in South African law comprises three elements: (1) wrongfulness; (2) negligence; and (3) causation. For a plaintiff to succeed, the existence of a legal duty to act in a non-negligent manner must first be established ([10]). In **Country Cloud Trading CC v MEC, Department of Infrastructure Development, Gauteng** [2014] ZACC 28, the Court articulated that the concept of wrongfulness involves evaluating societal norms and the legal convictions of the community, particularly whether inflicting harm legally justifies redress ([10]).
+
+The Court also referenced the legal obligation derived from statutory provisions, as defined in **Olitzki Property Holdings v State Tender Board** [2001] ZASCA 51, explaining that statutory interpretation plays a crucial role in determining the existence of a legal duty ([11]) and that regulatory frameworks must be scrutinized to discern if they impose such a duty ([12]).
+
+### Application
+[19] The Court's analysis began with the regulatory duties as outlined in the **Child Care Act** and relevant regulations. The applicant contended that regulation 30(4), requiring biennial reviews of ECD centres, imposed a legal obligation on the Minister to maintain safety standards. However, the Court emphasized that this regulatory framework primarily ensured compliance for registration purposes and did not extend to day-to-day operational control or direct oversight of safety at the facilities ([20], [22]).
+
+The respondent maintained that the Minister's role was regulatory, involving oversight rather than operational responsibilities, which further supported the argument that the duty alleged by the applicant lacked a basis in law. The Court concurred that placing operational responsibilities on the Minister would contradict the nature of his duties and potentially hinder effective governance in managing ECD centres ([25]). Moreover, referencing **CB**, the Supreme Court of Appeal’s prior assessment indicated that similar legislative frameworks emphasized a corrective rather than punitive approach, favoring systemic support over individual liability ([23]).
+
+The Court further established that cases of delictual obligation assess whether imposing liability could create disincentives for executing regulatory duties. In this case, the potential burden of liability on the Minister for every accident occurring at numerous ECD centres across South Africa would indeed have a ‘chilling effect’ on the performance of statutory duties ([24]). Thus, the public policy considerations leaned against imposing liability under these circumstances ([26]).
+
+### Conclusion
+[35] The Constitutional Court determined that the Supreme Court of Appeal was correct in concluding that the applicant had not established the requisite element of wrongfulness necessary for delictual liability. The nature of the duties attributed to the Minister did not translate into a private law duty to ensure the safety of children at ECD centres beyond the specified regulatory framework. Consequently, the Court dismissed the appeal with costs. The decision reaffirmed the delineation of responsibilities between regulatory oversight and operational control, clarifying the extent of the legal duties owed by public officials in the context of child care safety ([35]).
+
+This case illustrates the complexities involved in addressing the intersection of statutory obligations, public policy, and the inherent limitations of liability in the context of protecting vulnerable populations, specifically children in ECD environments.

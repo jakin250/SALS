@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Nohour and Another v Minister of Justice and Constitutional Development (1136/2018) [2020] ZASCA 27
+
+## FIRAC Case Note
+
+### F – Facts
+The matter involves an appeal by Mr. Vishnu Nohour and Mr. Neville Michael Charles against a dismissal of their claim for damages for wrongful conviction ([paras 1–2]). The appellants, together with three accomplices, were convicted in 1994 of the kidnapping and rape of a complainant referred to as RM. They argued that their sexual encounter with RM was consensual; however, RM disputed this, claiming she had not consented and was not a prostitute. The KwaZulu-Natal High Court initially upheld their conviction and subsequently increased their sentences ([para 1]).
+
+The convictions were overturned by the Supreme Court of Appeal on 13 May 2003, after the appellants had served significant prison terms. Central to the appeal for damages was the conduct of the state prosecutor, Ms. Monique Holzen, who allegedly failed to disclose crucial evidence regarding the complainant's prior admission of being a prostitute. The appellants contended that had this information been revealed, they would likely have been acquitted ([paras 2–6]).
+
+The trial regarding the claim for damages focused solely on the issue of liability. The trial court found that while the prosecutor's omission was gross, the appellants failed to demonstrate a causal link between the wrongful act and their conviction ([para 7]). 
+
+### I – Issues
+The primary legal questions arising from this case are:
+
+1. **Causation**: Did the prosecutor's withholding of critical evidence lead to the appellants’ wrongful conviction and imprisonment?
+2. **Application of Ex Turpi Causa**: Should the principle of ex turpi causa non oritur actio (no action arises from a base cause) be applied to bar the appellants from recovery on the grounds of the original criminal conduct?
+
+These aspects of the case focus on the legal duties of prosecutors and the balance between public policy considerations and individual rights ([para 8]).
+
+### R – Rules
+The court relied on established principles of tort law, especially concerning delictual liability for omissions. The test of negligence was grounded in *Kruger v Coetzee*, which articulates that a defendant is negligent if:
+
+1. A reasonable person would foresee the possibility of their conduct causing harm.
+2. They fail to take reasonable steps to prevent such harm ([para 12]).
+
+Causation is bifurcated into factual and legal causation wherein the sine qua non (but-for) test and considerations of public policy govern whether the wrongful act was sufficiently connected to the harm suffered ([para 15]).
+
+The principle of ex turpi causa was also discussed, which suggests that no legal remedy should arise from immoral or illegal acts, asserting the notion that individuals should not benefit from their wrongdoing ([para 26]).
+
+### A – Application
+The court meticulously analyzed the underlying facts, focusing on whether the appellants could affirmatively demonstrate that their conviction would have been avoided "but for" the prosecutor's failure to disclose vital evidence. The trial magistrate had been made aware, to some degree, of the complainant's alleged profession, undercutting the appellants’ argument that they would have been acquitted otherwise ([paras 24–25]).
+
+Despite the gravity of the prosecutorial misconduct, the court noted the complexity surrounding the legal causation. Since the magistrate had already highlighted the issue of consent and had been aware of the allegations against the complainant, it followed that the failure to disclose this information was not the decisive factor in the conviction ([paras 26–27]). 
+
+Thus, the appellants failed the factual causation test. The court emphasized that speculation could not stand in place of factual evidence, notably regarding how the complainant would have responded under aggressive cross-examination regarding her alleged profession ([paras 26-27]).
+
+### C – Conclusion
+The Supreme Court of Appeal concluded that the appellants had not established the requisite causal connection between the prosecutor's failure to disclose evidence and their conviction. Although the conduct of the prosecutor was deemed egregious, it was not sufficient to render the appeal successful ([para 28]). The court dismissed the appeal with costs, thereby affirming the importance of established legal standards in determining causation and liability in delict, ultimately reflecting a balanced approach of individual protection within the framework of public policy ([para 28]).
+
+This case exemplifies the perennial tension between the rights of the accused and the duties of the state within the criminal justice system, providing key insights into the elements of tortious liability arising from prosecutorial misconduct in South Africa.

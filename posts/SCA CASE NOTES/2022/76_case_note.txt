@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Exxaro Coal Mpumalanga (Pty) Ltd v TDS Projects Construction and Newrak Mining JV (Pty) Ltd and Another ([2022] ZASCA 76)
+
+## F – Facts [1-4]
+
+This case arose from a dispute between Exxaro Coal Mpumalanga (Pty) Ltd (hereinafter "Exxaro") and TDS Projects Construction and Newrak Mining JV (Pty) Ltd (hereinafter "TDS") concerning the enforcement of a performance guarantee provided by ABSA Bank Ltd ("ABSA"). On 12 July 2018, Exxaro and TDS entered into a contract for various construction services at Exxaro's Matla Coal Mine project. As per the contract, TDS obtained a performance guarantee amounting to R32,082,012.90 from ABSA, which stipulated specific conditions under which Exxaro could demand payment.
+
+On 9 June 2020, Exxaro terminated the contract, claiming TDS had committed breaches. Subsequently, on 10 June 2020, Exxaro made an initial demand on the guarantee, asserting TDS’s non-performance. ABSA deemed this demand unfit for processing, prompting Exxaro to suspend it. On 19 June 2020, Exxaro submitted a second demand for a reduced amount of R22,165,055.66, which ABSA was yet to process.
+
+On 25 June 2020, TDS sought an interim court order, interdicting Exxaro from demanding payment under the guarantee and ABSA from making any payments. TDS contended that the demands were fraudulent, did not comply with the guarantee terms, and would cause it severe financial prejudice. It also claimed that no other satisfactory remedy was available.
+
+## I – Issues [5-8, 12-13]
+
+The primary legal issues in this case were:
+
+1. Whether TDS was entitled to a final interdict preventing Exxaro from invoking its demand under the performance guarantee.
+2. Whether TDS had established the requisite elements for granting an interdict, namely a clear right, injury, and the absence of an adequate remedy.
+3. Examination of whether fraud was substantiated in TDS's claims against Exxaro’s demands.
+
+## R – Rules [9-10, 15]
+
+In assessing the requisite elements for a final interdict, the court referenced established legal principles that require:
+- A clear right, demonstrated through legal standing.
+- An actual or reasonably apprehended injury.
+- The absence of any alternative remedy.
+
+Furthermore, the court discussed principles governing demand guarantees, emphasizing the established independence of such guarantees from the underlying contract. The burden of proof for establishing fraud lies with the party making the allegation. The case law cited included *State Bank of India and Another v Denel SOC Limited and Others* and *Loomcraft Fabrics CC v Nedbank Ltd and Another*, which clarify that banks must honor guarantees unless fraud is proven.
+
+## A – Application [11-15]
+
+The court found that TDS did not meet the burden of demonstrating an injury. The assertions about a "fraudulent call" were unfounded as TDS conceded that no fraud was established. The injury claimed was primarily speculative and based on assumptions about future financial harm that were not sufficiently evidenced.
+
+Moreover, the reasoning highlighted that even if ABSA acted inappropriately in processing the demand, TDS would have a defense against any claim from ABSA if compliance with the demand terms was not met. Thus, no legal right of TDS would be violated should ABSA honour the demand, as the legitimacy of that demand was grounded on non-compliance by Exxaro.
+
+The court also noted that allowing TDS to interdict the guarantee payments would undermine the robust protection that the law affords to banks. A precedent existed that discouraged meddling in the payment processes of guarantees except in exceptional circumstances, which the court distinguished this case from.
+
+## C – Conclusion [16-17]
+
+The Supreme Court of Appeal ultimately upheld the appeal by Exxaro, setting aside the High Court's prior order which had granted TDS the interdict. The court concluded that TDS failed to establish a clear right or the requisite injury and found that adequate alternative remedies existed for TDS should the guarantee be honoured. The judgment articulated the principles governing demand guarantees and reinforced the strong public policy concerns aimed at preserving the integrity of such financial instruments.
+
+Consequently, the court ordered costs against TDS, emphasizing the need for legal actions to be grounded in substantiated claims rather than speculative assertions.
+
+---
+
+### Implications
+
+This case serves as significant precedent regarding the enforcement of demand guarantees, emphasizing the independent nature of guarantees relative to the underlying contractual obligations and reinforcing strict standards for establishing fraud or injury in cases seeking interdicts against such financial instruments.

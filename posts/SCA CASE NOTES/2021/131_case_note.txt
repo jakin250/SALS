@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: UPS SCS South Africa (Pty) Ltd v Hendrik Cornelis van Wyk t/a Skydive Mossel Bay
+
+**Neutral Citation**: UPS SCS South Africa (Pty) Ltd v Hendrik Cornelis van Wyk t/a Skydive Mossel Bay (421/20) and (422/20) [2021] ZASCA 131 (1 October 2021)
+
+**Coram**: PONNAN, WALLIS, SALDULKER, MOKGOHLOA, MABINDLA-BOQWANA JJA
+
+## F – Facts: Relevant background and procedural history ([paras 1–10])
+
+In the present case, the respondent, Hendrik Cornelis van Wyk, operates a skydiving business under the name Skydive Mossel Bay. In 2012, he sought to transport an aircraft engine from America's Aircraft Engines Inc in the United States back to South Africa after its overhaul. He initiated communications with UPS SCS South Africa (Pty) Ltd (UPS) for transporting the engine, resulting in a series of emails between the parties ([paras 1–3]).
+
+Van Wyk’s first email addressed to UPS requested a quotation for the conveyance of the engine. Subsequently, UPS provided an estimate and requested further details for shipping ([paras 2–4]). During these exchanges, UPS indicated the need for a credit application, which Van Wyk signed but believed was merely a formality to establish an account with UPS. He did not seek credit, and he filled out the application under the impression that it was necessary for the transaction but not that it would impose terms significantly affecting his rights ([para 3]).
+
+The aircraft engine was later damaged in transit and was declared a total loss ([paras 5–6]). Van Wyk then initiated legal action against UPS for the loss, claiming damages amounting to R386,140.30, equivalent to the price of a replacement reconditioned aircraft engine in South Africa. He contended that the provisions in the credit application, which limited UPS's liability, were inapplicable due to non-compliance with the Consumer Protection Act 68 of 2008 (CPA) and were not adequately brought to his attention ([para 6]).
+
+The Western Cape Division of the High Court ruled in favor of Van Wyk, dismissing UPS’s special plea concerning the liability limitations and ordering UPS to compensate Van Wyk for the loss ([para 10]). UPS appealed this judgment ([para 11]).
+
+## I – Issues: Legal or constitutional questions ([paras 11–12])
+
+The core issues presented before the Supreme Court of Appeal (SCA) were: 
+
+1. Whether Van Wyk had successfully proven his claim against UPS, mainly because of the alleged non-compliance by UPS with the provisions of the CPA ([para 11]).
+   
+2. The quantum of Van Wyk's claim and whether he substantiated the amount sought in damages for the loss of the aircraft engine ([paras 11–12]).
+
+Additionally, the appeal examined the enforceability of the exemption clauses contained in the credit application and whether they constituted part of the contract between UPS and Van Wyk.
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 12–18])
+
+The SCA’s analysis revolved considerably around the CPA, primarily sections 49(3) to 49(5), which govern the requirements for terms and conditions that limit a supplier's liability in consumer agreements ([para 7]). Specifically, these provisions mandate that such clauses must be brought to the consumer's attention in a manner likely to alert an ordinarily alert consumer and must be in plain language ([para 8]).
+
+The SCA also referenced relevant case law, notably *Mercurius Motors v Lopez* [2008] ZASCA 22 and *Spindrifter (Pty) Ltd v Lester Donovan (Pty) Ltd* 1986 (1) SA 303 (A), highlighting the necessity for clearly presenting exemption clauses so that consumers are made aware of the limitations on their rights ([para 18]). Furthermore, the inconsistency between the terms allegedly binding Van Wyk and the actual contract formation based on the email exchanges was crucial in establishing the hierarchy of communications between the parties.
+
+## A – Application: Analysis of how the court applied the law ([paras 19–20])
+
+The SCA determined that the facts indicated that UPS had not sufficiently incorporated the exemption clauses into the contract, as they were neither presented in a conspicuous manner nor adequately drawn to Van Wyk’s attention ([para 20]). The emails between the parties demonstrated that Van Wyk had understood the credit application solely as a prerequisite for account opening, and any onerous terms associated with it were not explicitly communicated until after the contract had allegedly been formed ([para 20]).
+
+Further, the court stated that UPS’s presentation of the terms in small print, coupled with the lack of an explanation regarding those terms, rendered the liability limitations unenforceable as they violated CPA provisions ([para 19]).
+
+Regarding quantum, the court validated Van Wyk's claim for the replacement value of the engine, accepting his evidence regarding the costs involved and referring to expert testimony to substantiate the damages claimed. The lack of contrary evidence from UPS on this issue further supported Van Wyk's assertions ([para 19]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 21])
+
+The SCA upheld the ruling of the High Court, concluding that the appeal by UPS should be dismissed on the basis that the evidence did not establish a binding incorporation of the limitation clauses into the contract. The court reinforced the principle that terms limiting a supplier's liability must be clearly communicated and cannot be relied upon if inadequately presented ([para 21]).
+
+The decision has broader implications for consumer rights, particularly in commercial contracts where significant liability limitations are involved. It highlights the essential need for suppliers to ensure transparent communication regarding contract terms, focusing on conditions that might infringe on a consumer's rights under statutory protection laws, such as the CPA. Furthermore, the ruling reiterates the importance of evidenced professional practices in presenting contractual terms in a manner that is reasonable and comprehensible to consumers.
+
+In conclusion, the court reaffirmed the doctrine of protecting the consumer against unjust contracts, thereby dismissing UPS's claims for exemption from liability, holding UPS responsible for the total loss of the aircraft engine, and mandating compensation of R386,140.30, including related interest and costs.

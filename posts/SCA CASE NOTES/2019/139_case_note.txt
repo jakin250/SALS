@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note on Afrisam (SA) (Pty) Ltd v Maleth Investment Fund (Pty) Ltd [2019] ZASCA 139
+
+## F – Facts
+This case involves a dispute regarding the winding-up of Cemlock Cement (Pty) Ltd (Cemlock), which found itself in financial distress leading to its inability to pay debts. The procedural history began when Maleth Investment Fund (Pty) Ltd (Maleth), a creditor, initiated an application for the compulsory winding-up of Cemlock on 31 October 2013 ([para 3]). Cemlock opposed this application but subsequently entered voluntary winding-up on 12 March 2014, coinciding with a resolution passed by its sole shareholder, Scarab Investment Holdings (Pty) Ltd ([paras 6-7]).
+
+On 4 December 2015, the High Court (Windell J) ordered Cemlock's winding-up, citing a commencement date of 31 October 2013, retroactively linking the original application to this date ([para 2]). Subsequent to this order, Afrisam (South Africa) Pty Ltd (Afrisam), another creditor, sought to intervene in the winding-up proceedings and had its application for rescission of the December 2015 order dismissed ([paras 8-9]). The case was appealed to the Supreme Court of Appeal to clarify complex issues regarding the interplay between voluntary and compulsory winding-up processes.
+
+## I – Issues
+The principal issues before the court included:
+
+1. Whether the cancellation of the December 2015 winding-up order was warranted under circumstances where a voluntary winding-up was ongoing.
+2. The proper designation of the commencement date of the compulsory winding-up and its ramifications for impeachable dispositions under the Insolvency Act 24 of 1936.
+3. The implications of alleged procedural deficiencies related to notification of interested parties and the discretionary powers of the court in granting winding-up applications ([paras 12, 32]).
+
+## R – Rules
+The decision relied upon several legal principles as governed by the Companies Act 61 of 1973 and principles surrounding voluntary versus compulsory winding-up, effective dates, and the setting aside of dispositions. Key statutory provisions included:
+
+- **Section 340(2)(a) of the Companies Act**: stipulates that if a compulsory winding-up supersedes a voluntary winding-up, the commencement date of the compulsory winding-up is the registration of the special resolution for voluntary winding-up.
+- **Sections 29 and 30 of the Insolvency Act**: outline the framework for setting aside dispositions made before winding-up regarding voidable and undue preferences, differentiating the burden of proof on creditors versus liquidators ([paras 16, 19-20]).
+
+## A – Application
+The court explored various statutes concerning the commencement of the winding-up process. It underscored that a compulsory winding-up application does not extinguish a pending voluntary winding-up application and that the relevant commencement date determines how assets and liabilities are managed ([paras 21, 30]).
+
+The court detailed the application of the law to this case. The voluntary winding-up initiated by Cemlock did not undermine Maleth's original application; thus, section 340(2)(a) of the Companies Act played a pivotal role in establishing that the deemed commencement date for insolvency-related actions was 12 March 2014—the date of registration for voluntary winding-up—rather than the earlier date sought by Maleth ([paras 24-25]). 
+
+Additionally, the court dismissed Afrisam's claims regarding alleged procedural deficiencies concerning notification, as the factual backdrop presented showed that Cemlock was clearly incapable of servicing its debts, which justified journeying through the winding-up process regardless of notification ([para 32]).
+
+## C – Conclusion
+The Supreme Court of Appeal concluded by upholding Afrisam’s appeal against the High Court's dismissal of its application. The court set aside the December 2015 winding-up order and referred to the appropriate statutory framework, affirming that the effective winding-up date was the registration date for the voluntary winding-up resolution ([para 34]). 
+
+The implications of this ruling emphasize the legal intricacies surrounding company financial distress and affirm that the interaction between voluntary and compulsory winding-up processes can significantly impact creditor claims under insolvency law. Moreover, it highlights the necessity for courts to adhere strictly to statutory provisions governing these situations and the implications for the potential recovery of distributions among creditors.
+
+### References
+- Companies Act 61 of 1973
+- Insolvency Act 24 of 1936
+- Afrisam (SA) (Pty) Ltd v Maleth Investment Fund (Pty) Ltd [2019] ZASCA 139
+- King Pie Holdings (Pty) Ltd v King Pie (Pinetown) (Pty) Ltd [1998] 4 All SA 179D
+- Ward & another v Smit & others: In re Gurr v Zambia Airways Corporation Ltd 1998 (3) SA 175 (SCA)
+
+The decision elucidates vital points about creditor rights and the avenues available for challenging winding-up orders, clarifying an area of law that is pivotal during financial crises in corporate entities.

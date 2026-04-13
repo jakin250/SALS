@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Ledwaba v Minister of Justice and Constitutional Development and Others [2024] ZASCA 17
+
+## FIRAC Case Note
+
+### F – Facts
+The appellant, **Malala Geophrey Ledwaba**, was appointed as the Deputy Head of the Directorate of Special Operations (DSO) on 1 March 2003, a specialized unit within the National Prosecuting Authority (NPA). The DSO had access to a Confidential Fund, designed for operational necessities that could not be satisfied through regular funding channels ([1]–[4]). However, allegations of misappropriation of this fund against Ledwaba emerged in 2004, leading to an internal investigation by the Integrity Monitoring Unit (IMU) ([7]). Following this investigation, Ledwaba was placed on special leave in May 2005, and his eventual resignation occurred on 31 July 2005 before formal charges of misconduct could be laid against him ([8]).
+
+Criminal charges for fraud and theft were subsequently brought against him on 13 October 2006, based on allegations that he had fraudulently claimed funds from the DSO Confidential Fund ([9]). Initially tried between 2008 and 2010, the trial was discontinued, leading to the re-institution of charges under a new indictment with a fresh trial beginning on 31 October 2012 ([10]–[14]). Ultimately, Ledwaba was convicted on certain counts and sentenced to ten years in prison, but this conviction was largely overturned on appeal in January 2018 ([16]).
+
+On 10 December 2018, Ledwaba initiated a civil suit for malicious prosecution against the NDPP and the head of the Specialised Commercial Crimes Unit, alleging that they had set the law in motion without reasonable cause and with malice ([17]–[19]). The Gauteng Division of the High Court dismissed his claim, focusing primarily on the requirement of demonstrating the element of malice, which Ledwaba failed to do ([20]).
+
+### I – Issues
+The principal legal questions in this case were:
+1. Did the respondents (NDPP and the head of the SCCU) exhibit **malice or animus injuriandi** in initiating the prosecution of Ledwaba?
+2. Was there **reasonable and probable cause** for the prosecution, thereby negating the claim of malicious prosecution? ([21]–[22]).
+
+### R – Rules
+To establish a claim for **malicious prosecution** under South African law, the plaintiff must demonstrate the following criteria ([20]):
+1. The defendant set the law in motion by instigating or instituting the proceedings.
+2. The defendant acted without reasonable and probable cause.
+3. The defendant acted with malice or animus injuriandi.
+4. The prosecution has failed.
+5. The plaintiff has suffered damages. 
+
+Significantly, the court referenced **Minister of Justice v Moleko**, indicating that inquiries into **reasonable and probable cause** must precede the consideration of malice in malicious prosecution claims ([22]).
+
+### A – Application
+Upon appeal, the court examined Ledwaba’s assertions that the high court erred by first addressing malice rather than reasonable cause. The Supreme Court of Appeal (SCA) clarified that while **malice** is a crucial aspect, it becomes relevant only if a lack of reasonable cause is established ([22]). The SCA emphasized that reasonable cause is determined by the information available to the prosecuting authority at the time of decision-making, specifically on the date when arrest warrants were issued ([24]).
+
+Ledwaba's claim was assessed against a backdrop where the prosecution had relied upon a substantial evidentiary framework, including thorough investigations conducted by the IMU and corroborative testimonies against him. The ruling emphasized that reasonable cause exists if an investigator has a genuine belief based on available information that a case stands merit ([23]).
+
+In evaluating the counts against Ledwaba as delineated in the original and amended indictments concerning fraud, it was found that each charge prominently featured corroborative evidence that a reasonable prosecutor would endorse. The assessment indicated that reasonable and probable cause did, in fact, underpin the prosecution’s actions ([27]–[66]). Thus, Ledwaba’s attempts to contest the validity of the state’s case against him primarily aimed at demonstrating his innocence rather than invalidating the prosecutorial rationale, which further underlined the existence of reasonable cause ([24]–[25]).
+
+Regarding malice, the evidence suggested that the initial decisions to proceed with prosecution were not predicated on any vindictive motives. While Ledwaba presented a narrative of conspiracy from those within the prosecutorial ranks, the SCA dismissed this theory, observing that multiple independent agents within the NPA had evaluated the decisions to pursue litigation and found them justified ([84]–[94]).
+
+### C – Conclusion
+The SCA dismissed Ledwaba’s appeal, reiterating the high court’s conclusion that he failed to prove the absence of reasonable and probable cause or that the respondents acted with malice. The court hence favored the notion that the NPA had a prima facie basis to initiate prosecution based on the thorough investigation and available evidence at the time ([96]). This case reinforces the requisite standards that must be met in claims of malicious prosecution and delineates the situational understanding of **reasonable and probable cause** in the South African judicial context. The dismissal of the appeal indicates not only the robustness of the prosecution’s case but also the necessity for plaintiffs in similar situations to adequately substantiate claims of malice alongside the lack of reasonable cause. 
+
+### References
+- Ledwaba v Minister of Justice and Constitutional Development and Others (947/2022) [2024] ZASCA 17.
+- Minister of Justice and Constitutional Development v Moleko [2008] ZASCA 43; [2008] 3 All SA 47 (SCA). 
+- Beckenstrater v Rottcher and Theunnissen 1955 (1) SA 129 (A).
+- Groenewald v Minister of Justice 1973 (2) SA 480 (O). 
+- Spilhaus Property Holdings (Pty) Ltd v MTN [2019] ZACC 16.

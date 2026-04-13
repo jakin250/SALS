@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Orica Mining Services v Elbroc Mining Products [2017] ZASCA 48
+
+## F - Facts
+
+The appeal arose from a judgment delivered by the Court of the Commissioner of Patents (Mabuse J), which dismissed Orica Mining Services South Africa (Pty) Ltd's (Orica) action for an interdict against Elbroc Mining Products (Pty) Ltd (Elbroc) for alleged patent infringement ([1]). On 19 December 2001, Orica had been granted South African patent number 2001/10382 for a "Portable Drilling Apparatus", specifically designed to enhance safety during mining operations by securing the drilling apparatus against the hanging wall of a mine ([3]).
+
+Orica claimed that Elbroc was monopolizing the same technology by selling roof bolter rigs that performed the same functions as those covered by Orica’s patent. The primary allegation from Orica was that Elbroc had infringed several specific claims of the patent, specifically concerning the arrangement of the “drill carriage” in a manner that was described as being “between” two telescopic props ([6]).
+
+Elbroc countered with a request for the patent’s revocation based on claims of obviousness, although this counterclaim was separated from the infringement issues ([2]). The dispute pivoted upon the interpretation of the word “between” in the claims of the patent, with Elbroc contending that the drill carriage in their rig was not situated linearly between the props and, therefore, not infringing ([7]). The Commissioner ruled in favor of Elbroc, interpreting "between" literally as "linearly between", leading to Orica's appeal to the Supreme Court of Appeal ([8]).
+
+## I - Issues
+
+The central legal issue in this case revolves around the interpretation of patent claims under South African patent law, specifically concerning the meaning of "between" in the context of the technology described in Orica’s patent. Key issues include:
+
+1. Does the term “between” in the context of the patent claims require the drill carriage to be positioned linearly between the props, or can it reasonably be interpreted to allow for a three-dimensional arrangement where the carriage may not be perfectly linear? ([9]).
+2. What standard of purposive interpretation, if any, should the court adopt in assessing whether Elbroc’s rig infringed upon Orica’s patent by making use of an essential integer of the claimed invention? ([21]).
+
+## R - Rules
+
+The court relied on several pivotal legal rules and precedents to guide the interpretation of the patent claims:
+
+1. **Interpretation of Claims**: The core principle established in cases like *Gentiruco AG v Firestone SA (Pty) Ltd* and *Harrison v Anderson Foundry Company* emphasizes that a claim should clearly define the invention to establish the scope of protection and that the language in claims must prevail over the specification to ascertain if infringement occurred ([11]).
+
+2. **Purposive Interpretation**: As supported by the judgment in *Catnic Components Limited v Hill and Smith Limited*, purposive construction is a method used to understand the practical implications of patent language rather than adopting a strict literal interpretation ([22]). The objective is to ascertain whether the essence of the invention — rather than its textual description — was appropriated ([30]).
+
+3. **Role of Experts**: The court noted that expert testimony could provide insights into the understanding of terminology used within the industry, guiding the court on how terms like “between” might be interpreted under the context relevant to skilled persons ([20]).
+
+4. **Differentiating Between Essential and Non-essential Features**: As articulated in both *Gentiruco* and related cases, courts must differentiate whether any variation from the patent’s claims relates to essential or mere non-essential features ([12], [24]).
+
+## A - Application
+
+In considering Orica's appeal, the Supreme Court of Appeal aimed to interpret the language used in the patent claims contextually rather than literally. Orica argued that the drill carriage could still be considered "between" the props, even if not in a strictly linear alignment, emphasizing the spatial relationships over strict positional accuracy. They emphasized that the advantages of the invention were derived from its functionality rather than strict adherence to the linear arrangement primarily posited by Elbroc’s argument ([9], [21]).
+
+The court highlighted the importance of both the intrinsic and extrinsic evidence presented, where the arrangement of Elbroc’s rig was discussed. The parties presented expert opinions on the understanding of the term “between” within the relevant technical community. Courts often consider expert opinions to understand how language functions in the field and to assess the meanings applied by skilled practitioners ([17], [20]).
+
+Ultimately, the court indicated that the interpretation of "between" did not need to be confined to a linear position, particularly as it could impose an undue limitation on the scope of Orica’s patent rights. The court appreciated the flexibility inherent in patent interpretation under purposive construction, suggesting that the nature of the invention benefits from an understanding that encompasses various arrangements, further reflected in the specifications that suggested broader interpretations ([18], [30]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal upheld Orica's appeal, concluding that the Commissioner of Patents had misinterpreted the scope of protection afforded to the patent claims by adhering too strictly to the linear interpretation of "between". The court emphasized that the contextual definition of “between” should allow for reasonable variations consistent with functionality ([31]).
+
+The order of the court a quo was set aside, granting Orica the requested interdict against Elbroc for infringing patent number 2001/10382 by selling their drill rig, as the parties were found to perform similar functions without a significant deviation that affected the operation of the rigs ([31]). This ruling not only reaffirmed the importance of purposive interpretation in patent law but also highlighted the courts' acknowledgment of the practical complexities of technological advancements in the mining industry. 
+
+This case serves as a crucial precedent for future disputes concerning patent infringement interpretations in South Africa, showcasing the delicate balance between textual interpretation and the realities of technological functionality within the legal framework of patent rights. 
+
+--- 
+
+*References:*
+
+- *Gentiruco AG v Firestone SA (Pty) Ltd* 1972 (1) SA 589 (A)
+- *Harrison v Anderson Foundry Company* (1876) 1 AC 574 (HL)
+- *Catnic Components Limited v Hill and Smith Limited* [1982] RPC183
+- *Marine 3 Technologies Holdings (Pty) Ltd v Afrigroup Investments (Pty) Ltd & another* [2014] ZASCA 208
+- *Kirin-Amgen Inc & others v Hoechst Marion Roussel Ltd* [2005] 1 All ER 667.

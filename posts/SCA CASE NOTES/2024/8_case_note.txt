@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Rabinowitz v Levy and Others (Case no 1276/2022) [2024] ZASCA 8
+
+## FIRAC Method
+
+### F – Facts
+[1] The appeal arises from a dispute stemming from a sale agreement dated 30 June 2017, whereby Gary Rabinowitz (the appellant), sold shares in SDK Agencies (Pty) Ltd, a cosmetics company, to Colin Levy and Daniel Mpande (the buyers). The sale price included adjustments for stock value, which became contentious [2]. Triton Pharmacare (Pty) Ltd was also part of the agreement, ensuring the buyers’ performance of obligations under the contract.
+
+[3] In the case of disputes, the sale agreement stipulated arbitration as the method for resolution. Subsequently, the buyers raised counterclaims, predominantly alleging fraudulent misrepresentation by the seller, thereby disputing the purchase price and demanding reparations, which the seller contested [4].
+
+[5] An arbitration hearing took place, and on 10 July 2019, arbitrator Hilton Epstein SC issued an award, dismissing the buyers’ fraud claims but allowing partial claims relating to a stock valuation error, ultimately determining that the buyers owed R11,071,809.04 [6]. The buyers challenged this award claiming gross irregularities, particularly regarding the arbitrator's alleged failure to convene a further hearing for quantifying the claims and misinterpretation of the agreed-upon terms related to the value of the stock [9].
+
+### I – Issues
+[10] The primary legal questions posed before the court involve:
+1. Whether the arbitrator committed a gross irregularity by not convening a further hearing to assess the quantification of the stock claim as allegedly required by a prior email exchange between parties.
+2. Whether the arbitrator exceeded his jurisdiction by relying on an innocent misrepresentation when determining the stock valuation, a basis that was not originally pleaded.
+3. Whether the arbitrator failed to adjudicate the buyers’ claims regarding missing assets, which constitutes a denial of fair hearing [13].
+
+### R – Rules
+[14] The governing legal framework comes primarily from the Arbitration Act 42 of 1965, specifically section 33, which delineates grounds for setting aside an arbitration award, including:
+- Gross irregularities in the proceedings (s 33(1)(b)).
+- Exceeding the arbitrator's powers.
+  
+Related case law establishes that a gross irregularity must relate to the conduct of the proceedings, not the outcome itself, and that merely improper or mistaken application of law or fact will not suffice to challenge the merits of an award ([15]-[19]).
+
+The South African Constitutional Court has emphasized the necessity for fairness in arbitration, postulating that all parties deserve a fair hearing, further supporting less judicial intervention in private arbitration processes ([16]).
+
+### A – Application
+[20] The court began by noting that a requirement for convening a further hearing was not explicitly stated in the email correspondence deemed critical by the buyers, indicating that such procedural requirements need to be formally documented and agreed upon by all parties [23]. The court highlighted that the arbitrator exercised discretion aligned with both the sale agreement and the outlined arbitration act regulations.
+
+[24] The interpretation of the email correspondence revealed ambiguous language suggesting further hearings were conditional, thus implying that the arbitrator’s determination on this issue was not inherently flawed [27]. On the issue of misrepresentation, the court concluded that despite reference to "innocent misrepresentation," the arbitration decisions did not pivot to a cause of action based solely on it; rather, the arbitrator correctly identified a breach of the sale agreement as the basis for the claims [36].
+
+[38] Regarding the missing assets claim, the court noted the arbitrator did, in fact, address this issue, and merely found the buyers had not pursued the claim with sufficient rigour, thus dismissing it as unsupported by requisite evidence [42]. The court reiterated that findings on the merits are generally not grounds for review, thus making the arbitrator’s decision firm in the absence of procedural unfairness [42].
+
+### C – Conclusion
+[44] The Supreme Court of Appeal concluded that the full court erred in finding grounds to review the arbitrator's award, which had not committed a gross irregularity or strayed beyond his jurisdiction. The appeal was upheld, reversing the full court's order and dismissing the buyers' claims with a cost order against them for both the review and the appeal processes. Consequently, the judgment affirmed the principle of respecting arbitration as a fair and final resolution method, underscoring the diligence required to displace an arbitrator’s award [45]. 
+
+---
+
+In summation, the ruling reinforces critical arbitration principles emphasizing limited grounds for judicial intervention and the necessity for notable procedural inaccuracies to successfully annul an arbitration award.

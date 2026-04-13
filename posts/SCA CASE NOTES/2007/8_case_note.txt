@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# Case Note: **Dream Supreme Properties 11CC v Nedcor Bank Limited [2007] SCA 8 (RSA)**
+
+## FIRAC Method
+
+### F – Facts
+The case arises from an appeal by Dream Supreme Properties 11CC (the appellant) against Nedcor Bank Limited (the first respondent) regarding the attachment and execution sale of property owned by Christos Costas (the third respondent). The property, located in Camps Bay, was subject to a judgment debt owed by Costas which led to an attachment of the property by Nedcor Bank on 14 March 2002 ([1]).
+
+Prior to the judgment, the third respondent had expressed financial difficulties and purportedly sold the property to his wife, Elizabeth Costas, on 15 November 2001, for R860,000. The sale included provisions for a deposit of R210,000 upon signing and the balance upon transfer. However, the deposit was not paid until October 2002, after the attachment ([5]).
+
+Despite this sale, Nedcor Bank proceeded with its writ of execution, leading to an execution sale of the property on 12 November 2002. The second respondent, Tanja Michelle Kirkham, acquired the property at this sale for R1,175,000, unaware of the prior agreement between Costas and the appellant ([10]-[11]).
+
+The appellant's application to the Cape High Court aimed to set aside the attachment and the subsequent sale in execution based on the doctrine of notice, asserting that Nedcor Bank should have been aware of the pre-existing personal right to the property ([13]). The Court dismissed the initial application, leading to the present appeal ([1][27]).
+
+### I – Issues
+The primary legal question is whether Nedcor Bank, as the judgment creditor, could validly attach and sell the property despite its knowledge of the prior sale to the appellant, thereby invoking the doctrine of notice. The court needed to determine whether a prior personal right could prevail against a subsequent real right acquired through execution, specifically addressing:[13][14].
+
+1. **Applicability of the Doctrine of Notice**: Does a judgment creditor's knowledge of a prior personal right (here, the sale to the appellant) affect the validity of a real right acquired through judicial attachment and sale?
+2. **Impact of Equitable Considerations**: Should the equities favor the bona fide purchaser (the second respondent), given the nature of the alleged prior sale being questioned as a sham intended to frustrate creditors?
+
+### R – Rules
+The court's analysis relies on common law principles differentiating between personal and real rights. The doctrine of notice, established in cases like **Hassam v Shaboodien** [1996] (2) SA 720 (C), suggests that knowledge of a former right may undermine the validity of a later-acquired right ([23]).
+
+Key statutory provisions include:
+- **Rule 45 of the Uniform Rules of Court**, governing execution procedures.
+- **Section 36 of the Supreme Court Act 59 of 1959**, clarifying the powers of the sheriff in executing judgment orders.
+
+The ruling restates the foundational legal maxim *'qui prior est tempore potior est jure'* ("the priority rule"), noting that prior personal rights generally take precedence over later claims, subject to equitable considerations ([13]).
+
+### A – Application
+The Supreme Court of Appeal meticulously examined both the statutory provisions and the precedential cases. In upholding the lower court's decision, it stressed that Nedcor Bank acted within its rights as a judgment creditor to attach and sell the property under the Uniform Rules.
+
+The court found that the appellant's claim lacked sufficient merit, determining that:
+1. The sham allegation regarding the sale between Costas and the appellant cast doubt on the authenticity of the purchase agreement, as it was structured to evade the creditors ([11]).
+2. The appellant's delay in seeking to enforce its rights contributed to the dismissal, as it failed to act promptly to prevent the execution sale ([14][26]).
+3. The doctrine of notice does not apply as broadly as argued, particularly in execution sales, to prevent uncertainties and protect bona fide purchasers such as the second respondent ([27]).
+
+The appeal was further supported by a historical review of case law, demonstrating a reluctance by courts to extend the doctrine of notice to prejudicially handicap creditors executing judgment claims against debtors ([24]-[26]).
+
+### C – Conclusion
+The court ultimately upheld the decision of the Cape High Court, affirming that the execution sale was valid and that the knowledge of the first respondent about the sale to the appellant did not negate the right to execute the attachment ([27]). The application for leave to appeal was dismissed with costs, indicating a reaffirmation of creditors' rights in the face of personal rights claims.
+
+The implications of this decision highlight a tension between protecting creditors and recognizing prior personal rights, establishing a precedent on the limitations of the doctrine of notice in attachment cases and emphasizing the importance of bona fide transactions in the realm of property law.

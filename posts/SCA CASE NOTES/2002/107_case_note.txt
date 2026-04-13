@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# FIRAC Case Note: The Standard Bank of South Africa Limited v Glen William Harris NO and Another (Case No 359/2001)
+
+**F – Facts**  
+[1] The case centers on the Aquilian liability of a collecting bank, specifically The Standard Bank of South Africa Limited (the "bank"). The respondents are the joint liquidators of Demodig Plant (Pty) Ltd ("Demodig"), a company that was in liquidation. Prior to the liquidation, the bank collected a cheque for R397,657.82 drawn in favor of Demodig. The liquidators alleged that the cheque’s proceeds never reached Demodig, leading them to seek recovery from the bank in the Transvaal Provincial Division.  
+
+[2] The basis of the liquidators' claim was established in *Indac Electronics (Pty) Ltd v Volkskas Bank* [1992 (1) SA 783 (A) at 797A-D], asserting that a collecting bank can be liable for negligence under the extended lex Aquilia, provided the necessary elements for Aquilian liability are met.  
+
+[3] Following the collection, the bank credited the proceeds to an account held in the name of “JA du Toit Inc Trust - Demodig Plant (Pty) Ltd”. Du Toit, the attorney whose office processed the cheque, denied liability to the bank and claimed he only acted on behalf of Demodig.
+
+[4] The trial court found for the liquidators, concluding that all elements of the bank's liability were satisfied, which prompted the bank to appeal. During the appeal, Du Toit sought to intervene, given that the outcome of the case would directly affect his liability to the bank. The application was granted as it did not prejudice any party involved.
+
+**I – Issues**  
+[6] The issues to be determined in this case include:
+
+1. Whether the liquidators established that Demodig was the 'true owner' of the cheque.
+2. Whether the bank acted unlawfully by collecting the proceeds of the cheque for an account that was not directly in the name of Demodig.
+3. Whether the bank could be held liable in its capacity as a collecting bank while simultaneously acting as a paying bank for the same cheque.
+
+**R – Rules**  
+[10] Liability under Aquilian principles requires demonstration of (i) receipt of payment on behalf of someone not entitled, (ii) negligence and unlawfulness in receiving such payment, (iii) causation of loss to the true owner, and (iv) a proper claim for damages.
+
+[12] The case of *Eskom v First National Bank of Southern Africa Ltd* [1995 (2) SA 386 (A)] is pivotal, establishing that a bank can act as both a paying and collecting bank and may invoke the protections of the Bills of Exchange Act, even when acting in two roles. Section 79 of the Bills of Exchange Act provides a bank with protection against liability when it acts without negligence in its capacity as a paying bank.
+
+**A – Application**  
+[13] The application of the aforementioned rules focuses initially on whether Demodig can be regarded as the 'true owner' of the cheque, as established in *First National Bank of SA Ltd v Quality Tyres (1970) (Pty) Ltd* [1995 (3) SA 556 (A)]. The evidence indicated that the cheque was delivered to Demodig for a legitimate debt, implying ownership transfer occurred when a director of Demodig accepted the cheque.
+
+[15] Despite the trial court suggesting that the cheque was processed as part of an asset-stripping scheme involving Du Toit, the court concluded that Du Toit acted on behalf of Demodig. Thus, the liquidators not only proved ownership of the cheque but established that the bank’s collection process aligned with the directions given by Du Toit, as an agent of Demodig.
+
+[17] On the issue of whether the bank acted unlawfully by collecting the cheque for deposit in a trust account rather than directly into Demodig’s account, the court acknowledged that while cheques marked "not transferable" are technically non-negotiable, the payee retains the right to authorize another party to collect proceeds. Thus, as long as the bank complied with the directions from the payee’s agent, its conduct could not be deemed unlawful.
+
+**C – Conclusion**  
+[18] The appeal was allowed, with the court concluding that the bank acted lawfully and without negligence in its role as a collecting bank. The findings of the trial court were set aside, dismissing the claims made by the liquidators. Importantly, this case underscores the principle that a bank acting on the instructions of a duly authorized agent of the payee can mitigate liability, regardless of the technicalities regarding cheque transferability under the Bills of Exchange Act.
+
+The court ruled that the application for intervention by Du Toit was appropriate, reinforcing the intricate connections among parties in financial transactions and the implications of bank liability in collecting cheques. This case serves as a significant reference point for the balance between statutory provisions and commercial practices surrounding cheque transactions, emphasizing that liability must always be assessed in the context of the factual circumstances and the authority granted to agents in financial dealings.

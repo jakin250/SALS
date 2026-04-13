@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: Brookstein v Brookstein (20808/14) [2016] ZASCA 40
+
+## F – Facts
+The matter arises from a divorce settlement agreement between the appellant, Andrew Charles Brookstein, and the respondent, Jeanette Brookstein. The couple, married out of community of property under the accrual system on 14 February 1987, faced a divorce initiated by Jeanette on 30 November 2006 ([paras 2–3]). Following a settlement agreement made an order of court on 5 May 2008, Andrew was to pay Jeanette R8,007,340 in respect of her portion of the accrual. However, two months later, rumors emerged concerning a substantial interest in the Patula Group of Companies, prompting Jeanette to investigate the true value of Andrew's shares ([para 3]). 
+
+She discovered that the actual value of these shares was over R167 million, far exceeding Andrew’s claims of R20,712,527 ([paras 3–4]). In light of this revelation, Jeanette instituted a delictual claim in 2010 for R83.9 million, arguing that Andrew's negligent misrepresentation induced her to settle for a lower amount ([para 4]). 
+
+Despite initially obtaining default judgment, the case proceeded to arbitration after the parties entered into an arbitration agreement. During arbitration, Jeanette’s misrepresentation claims were dismissed, but a claim regarding Andrew's nondisclosure was upheld, awarding her R3.9 million ([paras 6–7]).
+
+Following arbitration, Andrew appealed the tribunal's decision, contending that the claim was a matrimonial cause and thus impermissible for arbitration under section 2 of the Arbitration Act ([para 8]). He also argued that the tribunal incorrectly assessed the accrual as of the date of divorce rather than at the date of litis contestatio ([para 8]).
+
+## I – Issues
+The court was tasked with addressing two primary issues: 
+
+1. Whether Jeanette’s delictual claim for damages constituted a “matrimonial cause or matter incidental to such cause” as per Section 2 of the Arbitration Act, thereby precluding it from arbitration ([para 1]).
+  
+2. Whether the arbitrators erred in determining the value of the accrual at the date of dissolution of the marriage instead of at the date of litis contestatio, potentially resulting in an erroneous legal finding and an irregularity in the arbitration's conduct ([para 1]).
+
+## R – Rules
+The case referenced legislative provisions from the Arbitration Act 42 of 1965 and the Matrimonial Property Act 88 of 1984. Specifically, Section 2 of the Arbitration Act governs the scope of matters eligible for arbitration, stating that matters must not be matrimonial causes or related to such causes ([para 1]). The Matrimonial Property Act, particularly Sections 3, 4, and 8, outlines the accrual system and the timing for determining the value of accrual, establishing that spouses acquire rights to claim accrual upon the dissolution of marriage, except in certain specified circumstances ([paras 16–17]).
+
+Relevant case law included *Eke v Parsons* and previous divergent decisions within the High Court regarding whether accrual assessments should be determined at dissolution or at the litis contestatio moment ([paras 9, 20]).
+
+## A – Application
+In applying these rules, the court held that once the settlement agreement was made an order of court, it terminated any live matrimonial cause, thereby rendering Jeanette's delictual claim separate from any matrimonial context ([paras 11–12]). This reasoning emphasized that all matrimonial disputes had been resolved through the court order, categorizing the subsequent delictual claim as arising independently from any matrimonial cause and consequently appropriate for arbitration ([paras 12–13]). 
+
+Regarding the date for assessing the accrual, the court found the provisions of the Matrimonial Property Act unambiguous in stating that accrual should be calculated at the dissolution of marriage ([paras 16–20]). This interpretation aligned with the view upheld by Sutherland J in *JA v DA*, rejecting the arguments that favored the litis contestatio date as the definitive point for calculation ([para 19]).
+
+## C – Conclusion
+The Supreme Court of Appeal ultimately dismissed the appeal, reinforcing the independence of delictual claims from matrimonial causes, and affirmed that the accrual's valuation should appropriately occur at the point of divorce rather than at litis contestatio ([paras 23]). This decision clarifies the scope of arbitration under the present legislative framework and sets a precedent regarding the timing of accrual determination in matrimonial disputes, potentially influencing future cases involving financial disclosures during divorce settlements. The court ordered costs against Andrew, emphasizing the losses incurred by Jeanette in her pursuit of fair compensation ([para 23]). 
+
+Thus, the judgment signifies a pivotal interpretation of both the Arbitration Act and the Matrimonial Property Act, elucidating their applications in matrimonial disputes and reinforcing the principles of transparency and equity in divorce proceedings.

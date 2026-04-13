@@ -1,0 +1,45 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: **Competition Commission of South Africa v Media 24 (Pty) Limited** [2019] ZACC 26
+
+## F – Facts
+The case arises out of a complaint initiated by Gold Net News (GNN) against Media24 (Pty) Limited for alleged predatory pricing strategies that resulted in the closure of GNN. Media24, a dominant player in the Welkom community newspaper market after acquiring its competitors, drastically cut advertising rates from 2004 to 2009 to a level below what had been considered the market price. This pricing strategy allegedly forced GNN to cease operations in April 2009, followed by the closure of one of Media24's own newspapers, Forum, in January 2010. GNN's complaint led the Competition Commission to investigate, resulting in the referral of a predatory pricing case against Media24 to the Competition Tribunal ([2]–[4]).
+
+The Tribunal determined that Media24 had not priced below the average avoidable costs but had acted with anti-competitive intent sufficient to find a violation of section 8(c) of the Competition Act. This was subsequently appealed to the Competition Appeal Court, which ruled against the Competition Commission, concluding that it could not be established that Media24 had violated the applicable laws ([5]–[9]). 
+
+The Competition Commission argued that the situation raised constitutional issues regarding market access and competitive fairness, attributing part of the legislation's intention to advancing equality and economic inclusion for previously disadvantaged groups ([3], [36]). The Constitutional Court was thus asked to determine the nature and breadth of predatory pricing within the Competition Act, specifically focusing on the interpretation of section 8 ([10]–[12]).
+
+## I – Issues
+1. **Legal Status of Predatory Pricing**: Does pricing above average avoidable cost, yet below average total cost, constitute predatory pricing under section 8(c) of the Competition Act?
+2. **Jurisprudential Authority**: Can the Constitutional Court directly address this matter without prior approval from the Competition Appeal Court due to procedural stipulations in the Competition Act?
+3. **Evidence and Standards**: What cost standards should apply for establishing predatory pricing, and ought the intention behind pricing strategies factor in the legal determination of predatory pricing?
+4. **Impact on Competition Regulation**: How do findings or interpretations regarding cost benchmarks influence enforcement of laws against abuses of dominance in the context of South Africa's historical inequalities?
+
+## R – Rules
+1. **Competition Act 89 of 1998**:
+   - Section 8(c): Prohibits dominant firms from engaging in exclusionary acts if the anti-competitive effects outweigh any countervailing pro-competitive benefits.
+   - Section 8(d)(iv): Specifically prohibits pricing below marginal or average variable cost without justification.
+   
+The decision of the Tribunal, referenced in the context of **Senwes** ([56]), posited a necessity for evidence beyond cost benchmarks to substantiate claims of predatory pricing. 
+
+2. **International Jurisprudence**:
+   - The court examined precedents, particularly from EU law, such as **AKZO** and **Brooke Group**, which recognize economic intent but caution against reliance on subjective intent alone to define predatory actions ([80], [85]).
+
+## A – Application
+### Jurisdiction and Procedural Matters
+The Court found it had jurisdiction based on the assertion that the case involves a constitutional issue, as section 8(c) connects directly with equality goals enshrined in the Constitution (Section 9) ([31]–[35]). The Court dismissed arguments that necessitated prior applications for leave to appeal to the Competition Appeal Court, emphasizing the constitutional allowance for direct access when in the interests of justice ([63], [66]).
+
+### Legal Standards for Predatory Pricing
+The Court recognized that while competition law encourages low prices and deters high ones, a balance must be struck against artificially low prices that might harm competition ([1], [56]). It maintained that pricing strategies should not fall below a certain cost threshold, yet the method of calculating that threshold—whether average total cost, average avoidable cost, or another measure—should incorporate a broader ambit of evidence demonstrating intent and resultant market impact ([80], [144]). 
+
+The application of the **equally efficient competitor** test was scrutinized, with the court finding that it narrowly oversimplifies competitive dynamics. The precedent set in **Nationwide** reinforced that excluding competitors may occur even if the competitor is less efficient, aligning with broader anti-monopoly perspectives ([123], [124]).
+
+## C – Conclusion
+The Constitutional Court ultimately dismissed the appeal against Media24, emphasizing that the Competition Appeal Court had appropriately interpreted the law concerning exclusively economic standards and intent. The ruling underscored that dominant firms must not be unduly penalized for engaging in competitive pricing strategies, even when such prices might edge below specified cost measures, provided the firm's pricing practices can be justified within an acceptable competitive context ([187]–[189]).
+
+### Ratio Decidendi
+The Court established that predatory pricing must be evaluated not purely on cost standards but also with a nuanced understanding of competitive implications, intent, and historical contexts of market dominance abuses. Consequently, it provided a framework for future cases to navigate the complexities of predatory pricing while aligning with the aims of the Competition Act in promoting fair competition and economic inclusion.
+
+### Implications
+This case reflects the ongoing need for regulatory clarity in South Africa's evolving market landscape, addressing complexities around predatory pricing and enforcing fair competition while considering historical injustices. The rulings also signal an opportunity for lawmakers to refine frameworks guiding competition law enforcement, ensuring that they facilitate rather than inhibit competitive growth and economic fairness.

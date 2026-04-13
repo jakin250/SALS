@@ -1,0 +1,53 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Samsung Electronics SA (Pty) Ltd v The Commissioner for the South African Revenue Service
+
+**Neutral Citation**: Samsung Electronics SA (Pty) Ltd v The Commissioner for the South African Revenue Service (Case no 764/2021) [2022] ZASCA 126 (28 September 2022)
+
+**Coram**: Ponnan, Plasket, and Hughes JJA, Molefe and Siwendu AJJA
+
+## F – Facts
+
+This case revolves around the classification of the Samsung Galaxy S7, referred to as a smartphone, under the Customs and Excise Act 91 of 1964 (the Act) for customs duty purposes. The procedural history includes a determination made by the Commissioner for the South African Revenue Service (the Commissioner) on 27 September 2017, classifying the smartphone under TH 8517.62.90 as "machines for the reception, conversion and transmission or regeneration of voice, images or other data." This classification attracted no ad valorem duty upon importation ([paras 2, 4]).
+
+Subsequently, the Commissioner retracted this classification on 11 April 2018, determining that the smartphone fell under tariff heading 8517.12.10, classifying it as a "telephone for cellular networks." Upon failing to overturn this determination in the Gauteng Division of the High Court, Samsung Electronics SA (the appellant) appealed the decision in the Supreme Court of Appeal ([paras 4, 5]).
+
+The core of the dispute was whether the smartphone was to be classified as a "telephone for cellular networks" or as "other apparatus for the transmission or reception of voice, images or other data" ([paras 1, 5]).
+
+## I – Issues
+
+The central issue for determination in this appeal is the appropriate classification of the Samsung Galaxy S7 under the Customs and Excise Act 91 of 1964. Specifically, the query revolves around whether the smartphone should be categorized as:
+
+1. A "telephone for cellular networks" under tariff heading 8517.12.10.
+2. Or as "other apparatus for the transmission or reception of voice, images or other data" under TH 8517.62 ([paras 1, 5]).
+
+Additionally, the legal questions pertain to the interpretation principles of tariff headings under the Act as governed by relevant international conventions, primarily the Harmonised System ([para 6]).
+
+## R – Rules
+
+### Legal Authorities and Precedents
+
+1. **Customs and Excise Act 91 of 1964**: Section 47(9)(a)(i)(aa) empowers the Commissioner to determine tariff headings for imported goods. Section 47(9)(d)(i)(bb) allows for the amendment or withdrawal of determinations if made in error ([paras 2, 3]).
+
+2. **Harmonised System**: The interpretation of tariff headings must adhere to the International Convention on the Harmonized Commodity Description and Coding System. This system comprises general rules for classification, which provide a framework to ascertain the appropriate classification of goods ([para 6]).
+
+3. **General Rules for Interpretation**: Particularly, Rules 1, 3, and 6 were pivotal in the interpretation process. Rule 1 emphasizes that headings govern classification, while Rule 3 dictates that, in cases of overlapping headings, the most specific description prevails ([para 8]).
+
+4. **Judicial Precedents**: Cases such as *Commissioner for the South African Revenue Service v Toneleria Nacional RSA (Pty) Ltd* and *Commissioner, SARS v Komatsu Southern Africa (Pty) Ltd* articulate the principle that customs classification hinges upon the objective characteristics of the goods, not the subjective intention of the importer ([paras 7, 12]).
+
+## A – Application
+
+The court conducted a thorough analysis of both competing tariff headings. The appellant argued that the Samsung Galaxy S7 functions primarily as a multifunctional device and, therefore, should not be classified strictly as a telephone. The appellant sought to isolate a "principal function" for classification, suggesting that additional functionalities detracted from its identity as a cellular telephone ([para 14]).
+
+Contrarily, the court emphasized a contextual interpretation of the term "telephone for cellular networks," arguing that it represents a composite concept encompassing modern technological advancements in telephony. The ability of the smartphone to transmit not only voice but also data and images—functions integral to telecommunications—reaffirmed its classification under TH 8517.12.10 ([paras 20, 21]).
+
+The definition of a smartphone was examined, revealing that advancements have merged traditional voice communication with data services seamlessly. Notably, the court rejected the appellant's reliance on historical definitions of "telephone," underscoring the evolution of telecommunications technology and the resulting necessity to adapt classification practices ([paras 16, 19]).
+
+Additionally, the division of the tariff heading into mutually exclusive categories underscored that a product could not be classified under both 8517.1 (phones) and 8517.6 (other apparatus) simultaneously. This principle negated the appellant's argument for classification under 8517.62.90, as the characteristics of the Galaxy S7 aligned more closely with those of a telephone than of another apparatus ([paras 24, 25]).
+
+## C – Conclusion
+
+Ultimately, the Supreme Court of Appeal dismissed the appellant's appeal, affirming the lower court's conclusion that the Samsung Galaxy S7 is correctly classified as a "telephone for cellular networks" under tariff heading 8517.12.10. The court's ruling underscores the significance of objective characteristics and the evolution of technology in statutory interpretation, fostering a more nuanced understanding of modern communication devices. The decision reinforces the importance of contextual interpretation in customs classification and aligns with international principles of tariff classification ([paras 27, 28]).
+
+Thus, the appeal was dismissed with costs, including those of two counsels, further emphasizing the court's unwavering stance on the necessity of precise and context-aware classification in customs law ([para 28]).

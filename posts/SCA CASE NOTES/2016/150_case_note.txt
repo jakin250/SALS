@@ -1,0 +1,65 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: Eskom Holdings Limited v Halstead-Cleak
+
+**Neutral Citation**: Eskom Holdings Limited v Halstead-Cleak ZASCA 150 (30 September 2016)  
+**Coram**: Lewis and Willis JJA, Schoeman, Fourie, and Makgoka AJJA  
+**Heard**: 13 September 2016  
+**Delivered**: 30 September 2016  
+**Case No**: 599/2015  
+
+
+## F - Facts
+
+The case revolves around an incident that occurred on 11 August 2013, when the respondent, Mr. Derek Anthony Halstead-Cleak, was cycling with a group of peers and came into contact with a low-hanging live power line owned by the appellant, Eskom Holdings Limited (Eskom). The electrical burns he sustained led to the issuance of a summons against Eskom for damages stemming from the incident ([paras 2–3]).
+
+In the legal proceedings, Halstead-Cleak contended that Eskom was liable under Section 61 of the Consumer Protection Act 68 of 2008 (the Act), claiming that their role as the sole supplier of electricity granted them strict liability for the harms caused. Alternatively, he sought damages based on delict, alleging Eskom's negligence in maintaining the power line ([paras 3–4]). The high court ruled in favor of Halstead-Cleak, determining that Eskom was 100% liable under the provisions of Section 61 of the Act ([para 5]).
+
+Following the high court's ruling, Eskom appealed the decision, contesting their liability as a supplier in this specific incident ([para 5]).
+
+## I - Issues
+
+The principal issue was whether Eskom could be held strictly liable under Section 61 of the Act for the damages incurred by Halstead-Cleak, specifically focusing on the interpretation of consumer status and the relationship between the parties within the legal framework provided by the Act ([paras 1, 22]). 
+
+Additionally, the court had to determine whether the separation of issues addressed during the trial was appropriately utilized to resolve the primary liability question ([para 26]).
+
+## R - Rules
+
+The relevant legal framework includes:
+
+1. **Consumer Protection Act 68 of 2008**: 
+   - Section 61 establishes liability standards for producers or suppliers concerning damages resulting from unsafe goods or services, specifying:
+     - Liability is not contingent upon negligence ([para 17]).
+     - A consumer is defined broadly under Section 1, including “a person who is a user of the goods” ([para 15]).
+     - Section 5 stipulates that the Act applies to every transaction within South Africa concerning the supply of goods or services ([para 13]).
+
+2. **Common Law**: The position prior to the enactment of the Act indicated that manufacturers were not held strictly liable in delict for any harm caused, suggesting that an extension of liability must come from legislation, which the Act subsequently accomplished ([paras 8, 17]).
+
+3. **Case Precedents**: Interpretation principles from cases such as *Natal Joint Municipal Pension Fund v Endumeni Municipality* and *Novartis SA (Pty) Ltd v Maphil Trading (Pty) Ltd* guide the judicial understanding of legislative intention ([paras 9, 10]).
+
+## A - Application
+
+### Interpretation of the Act
+
+The court examined whether the respondent fit the definition of a consumer as outlined in the Act. It determined that a supplier-consumer relationship is necessary for strict liability to arise. Specifically, Halstead-Cleak did not enter into a transaction with Eskom; hence he could not be categorized as a consumer vis-à-vis Eskom, which fundamentally negates the application of Section 61 ([paras 22, 23]). 
+
+The court indicated that electric goods were indeed the subject matter within the definition of goods in the Act. However, it asserted that Halstead-Cleak did not utilize electricity at the time of injury, nor did he have any contractual relationship with Eskom regarding that supply ([paras 21, 24]).
+
+Furthermore, the interpretation of "unsafe goods" under Section 61 presupposes a sale and tangible transaction, which was absent in this case. The harm was not derived from any defect in the electricity itself but rather from the physical condition of the power line, which does not qualify under the strict liability framework established in the Act ([paras 24, 25]). 
+
+### Rule Regarding Separation of Issues
+
+The court also analyzed the procedural undertaking to separate issues per Rule 33(4) of the Uniform Rules of Court. It emphasized that while courts may agree to separate issues, it is vital that the necessity and convenience of addressing them independently are thoroughly justified. In this case, the court expressed that critical issues of delict should have been resolved in conjunction with the strict liability question ([paras 26, 27]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal concluded that Eskom was not strictly liable to Halstead-Cleak under Section 61 of the Consumer Protection Act as he did not maintain a supplier-consumer relationship with Eskom concerning the supply of electricity. The court highlighted that interpreting the Act strictly necessitated both transactional and utilization criteria that were not met in this scenario. 
+
+The appeal was upheld, and the previous judgment of the high court was overturned, asserting that Eskom did not bear the liability prescribed under the Act. The case was remitted to the trial court for resolution of any remaining issues, continuing to underscore the importance of appropriate legislative interpretation alongside procedural integrity in adjudicating consumer protection disputes ([paras 28]).
+
+Overall, this ruling clarifies the applicability and scope of Section 61 within the consumer protection framework, highlighting the significance of the consumer's status in establishing liability for damages stemming from the supplier's actions. It serves as a critical case in the realm of South African consumer law, reiterating the need for a coherent, practical understanding of consumer relationships in legal contexts.
+
+---
+
+*This case note is prepared for academic publication and citation purposes, adhering to the formal requirements of legal scholarship.*

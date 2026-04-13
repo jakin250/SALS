@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Special Investigating Unit and Another v Engineered Systems Solutions (Pty) Ltd
+
+**Neutral Citation**: Special Investigating Unit and Another v Engineered Systems Solutions (Pty) Ltd (Case no 216/2020) [2021] ZASCA 90 (25 June 2021).
+
+---
+
+## F – Facts
+
+The appeal arose from a decision by the Gauteng Division of the High Court, which dismissed a review application initiated by the Special Investigating Unit (SIU) and the Acting National Commissioner of the National Department of Correctional Services ([1]). The SIU, established under the Special Investigating Units and Special Tribunals Act 74 of 1996 (SIU Act), was mandated to investigate allegations of unlawful conduct within state institutions, including the Department of Correctional Services ([2]–[3]).
+
+The context of the review involved allegations that the Department failed to properly follow procurement processes in awarding tenders to Engineered Systems Solutions (Pty) Ltd (ESS) for the development of an Electronic Monitoring System (EMS) ([4]–[5]). The review application was lodged on March 28, 2018, more than four years after the awarding of the final tender ([19]).
+
+The core issues related to:
+1. The alleged illegality of the Department's procurement processes, specifically breaches of the State Information Technology Agency Act 88 of 1998 (SITA Act) ([12]).
+2. The validity of the service level agreement (SLA) with ESS, which was put in place to oversee the EMS project awarded in 2014 for R301,611,772 ([10]–[20]).
+3. Allegations concerning non-compliance with the Private Security Industry Regulation Act 56 of 2001 (PSIR Act) ([13]).
+4. Claims of "fronting" related to misrepresentations made during the tender process ([15]).
+
+The high court dismissed the SIU’s application, primarily on the grounds of unreasonable delay in bringing the review ([21]). The appellants sought to appeal this dismissal with costs, including the use of two counsel ([22]).
+
+## I – Issues
+
+The primary legal and constitutional questions at stake included:
+1. Whether the SIU had standing to seek judicial review of an award made by the Department of Correctional Services against ESS when it was not an organ of state making its own decision ([24]).
+2. The assessment of the unreasonableness of the delay in bringing the application, and whether such delay should nonetheless be overlooked in the pursuit of justice ([26]).
+3. The interpretation and applicability of statutory and regulatory provisions governing procurement by public bodies, particularly concerning the SITA Act and the PSIR Act ([58]).
+
+## R – Rules
+
+Several key legal principles and statutory provisions played a role in the Court's decision:
+1. **Irregularities in Procurement**: Under both the SITA Act and the PSIR Act, specific procedures must be adhered to when procuring goods and services from the state ([12]–[50]).
+2. **PAJA (Promotion of Administrative Justice Act 3 of 2000)**: Though its applicability was debated, the Court confirmed that an organ of state cannot apply for review under PAJA concerning its own decision, but an organ can challenge another organ's decision ([24]).
+3. **Legal Precedents**: The assessment of delays followed several key cases, including Govan Mbeki Municipality v New Integrated Credit Solutions (Pty) Ltd and Buffalo City Metropolitan Municipality v ASLA Construction (Pty) Ltd, which provided frameworks for determining unreasonable delays and the conditions under which they could be overlooked ([26]–[30]).
+
+## A – Application
+
+The Court carefully analyzed the timeline of events leading to the review application. The key findings included:
+- The **unreasonable delay** came from the fact that the SIU waited approximately seven years to launch the review after the pilot tender was awarded and over four years after the final tender ([32]).
+- The SIU's explanation for the delay, focusing on the extensive investigation and discovery of irregularities, was deemed insufficient given the considerable time lapse and the need for prompt legal action ([34]–[45]).
+- On the substantive legal claims, the Court engaged with three specific allegations of illegality—the SITA issue, the PS issue, and the fronting issue. The Court found that:
+  - The procurement did not necessarily fall under the SITA Act's requirements, as the Department had treated the EMS services as not being classified within the ambit of "information technology" services ([48]–[56]).
+  - The claims regarding PSIR Act violations were unsubstantiated, with ESS's responses detailing compliance that was not sufficiently countered by the appellants ([58]–[66]).
+  - The fronting allegations lacked merit, as the contractual relationship with Ekasi was shown to be participatory, aligning with lawful tender processes ([68]–[76]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded that the high court had correctly dismissed the review application due to the unreasonable delay. The SIU and the Department of Correctional Services failed to provide an adequate justification for their extensive delay in bringing the review after being aware of the allegations against ESS ([81]). The Court also held that even if there was some minor statutory non-compliance, it did not rise to a level of egregiousness that would warrant invalidating the entire procurement process ([82]).
+
+Thus, the appeal against the high court's dismissal was dismissed with costs, including costs for the employment of two counsel, reinforcing the principle that state entities must act with urgency and in accordance with legal standards when addressing potential irregularities ([83]).
+
+---
+
+**Note**: This case showcases critical elements of procurement law, administrative justice, and the responsibilities of public bodies in South Africa's legal framework. It underscores the importance of timely actions in legal disputes involving public entities, as well as the nuanced interpretations of statutory compliance and accountability in government contracting.

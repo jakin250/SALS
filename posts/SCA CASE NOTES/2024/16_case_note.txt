@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+### FIRAC Case Note: **Cohen v Absa Bank Limited (Case no 1280/2021) [2024] ZASCA 16 (9 February 2024)**
+
+---
+
+#### F – Facts ([paras 1-36])
+
+The case of **Cohen v Absa Bank Limited** involves Mr. Chaim Cohen (the Appellant) contesting his liability as a surety under a deed of suretyship he executed in favor of Absa Bank Limited (the Respondent). The primary debtor, A Million Up Investments 105 (Pty) Limited (AMU), was liquidated after failing to meet its obligations under a loan agreement with Absa due to ongoing delays and cost overruns in the construction of a hotel (15 on Orange) that it was developing. Mr. Cohen, a key figure in AMU, invoked Section 31(2) of the Insolvency Act 24 of 1936 (the Insolvency Act), arguing that Absa and AMU colluded to prefer one creditor over others, thereby prejudicing AMU’s creditors and releasing him from liability.
+
+The high court determined that Cohen's plea for relief under Section 31(2) was unmeritorious, allowing Absa to claim R40 million, including accrued interests and costs, from him. Following the rejection of his appeal, Mr. Cohen sought condonation for the late filing of the appeal record, which was opposed by Absa. His application for the condonation was dismissed alongside the appeal.[1]
+
+#### I – Issues ([paras 1-36])
+
+The central legal issue presented in this case is whether a surety like Mr. Cohen has the standing (locus standi) to invoke Section 31(2) of the Insolvency Act to avoid liability post-liquidation of the primary debtor. Further, the court needed to address whether the interpretation of Section 31(2) allows a surety to challenge a collusive disposition that has not been set aside by a liquidator.
+
+#### R – Rules ([paras 1-36])
+
+The relevant legal provisions include:
+
+1. **Section 31(2) of the Insolvency Act 24 of 1936**, which addresses the consequences of collusive dispositions, establishing that any individual involved in such a disposition may be held liable for losses incurred by the insolvency estate.
+2. **Section 32**, which specifies procedures for the setting aside of improper dispositions, indicating that only the trustee or a creditor in the trustee's name can take action under these sections.
+3. **Judicial authorities** in previous cases, particularly **Gert de Jager (Edms) Bpk v Jones NO & McHardy NO** and **Louw NO and Another v Sobabini CC and Others**, serve to clarify the criteria for establishing collusion and the liabilities that ensue when collusive dealings are identified.
+
+#### A – Application ([paras 1-36])
+
+The Court undertook a detailed interpretative analysis of Section 31(2) using the principles of language, context, and purpose. It agreed with the high court's findings, emphasizing that Section 31 does not provide a surety with a shield against liability based solely on allegations of collusion between the primary debtor and creditor.
+
+Meyer JA noted that Section 31(2)'s applicability is contingent upon the transaction being set aside, which establishes a clear distinction between the roles of the liquidator—who acts on behalf of all creditors—and individual creditors or sureties. Therefore, Mr. Cohen, as a surety, lacked the necessary locus standi as he was neither a creditor in the liquidator's name nor the liquidator himself, reaffirming that the statutory provisions serve as tools for the liquidator rather than individuals seeking personal defenses against creditor claims.
+
+The Court also addressed the commercial context, reiterating that the restructuring efforts and communicated sales transactions did not constitute collusion as defined within the statutory framework. The analyses illustrated that even if Mr. Cohen held a substantive argument regarding collusion, the procedural limitations established by the Insolvency Act negated his capacity to invoke those statutory remedies as a surety post-factum of a primary debtor's liquidation.
+
+#### C – Conclusion ([paras 1-36])
+
+Ultimately, the Supreme Court of Appeal dismissed Mr. Cohen’s application for condonation and the reinstatement of his appeal, confirming the high court’s ruling. The decision underscored the imperative that, under the Insolvency Act, only a liquidator or a creditor acting in that capacity possesses the standing to invoke the remedies outlined in Section 31. This case emphasizes the limitations placed upon sureties following the liquidation of a primary debtor and the necessity for statutory compliance covering insolvency law proceedings.
+
+---
+
+This comprehensive case note captures essential aspects of **Cohen v Absa Bank Limited** through the FIRAC method, maintaining fidelity to the facts and legal principles derived from the case's context.

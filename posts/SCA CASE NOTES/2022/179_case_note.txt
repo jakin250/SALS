@@ -1,0 +1,63 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Constantia Insurance Company Limited v The Master of the High Court, Johannesburg and Others ([2022] ZASCA 179)
+
+## F – Facts: Relevant background and procedural history ([1–10])
+
+In the case of **Constantia Insurance Company Limited v The Master of the High Court, Johannesburg and Others**, the appellant, Constantia Insurance Company Limited (hereinafter referred to as "Constantia"), filed a claim against Protech Khuthele Property Investments (Pty) Ltd (in liquidation) (hereafter "Protech Investments"), a company that was subjected to liquidation due to its inability to meet its debts ([1]–[3]). Protech Investments belonged to a group of eight companies, with Protech Khuthele Holdings Limited as the sole shareholder, and operated under the leadership of CEO Mr. Antony Page ([2]).
+
+Constantia had previously provided performance guarantees for the obligations of the operating companies within the group, in exchange for premiums and indemnities from these related companies ([4]–[5]). The indemnity agreement executed on 25 January 2013 included both Protech Holdings and its subsidiaries as indemnitors, essentially covering any guarantees made by Constantia to third parties ([6]).
+
+When Protech Investments was placed in liquidation, Constantia successfully proved three claims amounting to approximately R182 million at a meeting of creditors ([7]). However, the joint liquidators (the second and third respondents) disputed these claims, leading them to report to the Master of the High Court ([8]). The liquidators argued that the indemnity constituted financial assistance under section 45 of the Companies Act 71 of 2008, lacking the necessary board resolution for compliance. Consequently, the Master expunged Constantia's claims on the ground that there was reasonable suspicion of invalidity due to non-compliance with statutory requirements ([9]). Constantia's subsequent application for review in the Gauteng Division of the High Court was dismissed, but the court granted leave to appeal ([10]).
+
+## I – Issues: Legal or constitutional questions ([10])
+
+The appeal presented several critical issues concerning the legal validity of the indemnity, including:
+
+1. **Whether the indemnity constituted financial assistance by Protech Investments to Protech Khuthele, as per section 45 of the Companies Act**.
+2. **Whether Protech Investments complied with the statutory requirements laid out in section 45 for the provision of financial assistance**.
+3. **The applicability of section 20(7) of the Companies Act to Constantia's case in the event of non-compliance**.
+4. **Whether section 45(6) of the Companies Act could be declared unconstitutional**.
+
+The High Court found in favor of the liquidators across all these issues, leading to the appeal by Constantia ([10]).
+
+## R – Rules: Legal authorities and precedents relied upon ([11–24])
+
+The relevant legal framework encompasses provisions from both the Companies Act 71 of 2008 and the Insolvency Act 24 of 1936. Key sections discussed by the court include:
+
+1. **Section 45 of the Companies Act**: This section defines "financial assistance" and stipulates conditions under which companies may provide financial assistance to directors, corporations, or related companies ([21]). It requires that resolutions must be adopted by the board, demonstrating compliance with solvency and liquidity tests ([28]).
+
+2. **Section 45(6) of the Companies Act**: This section categorically voids any resolution or agreement that contravenes the provisions of section 45, further detailing the consequences of failure to comply with statutory requirements ([35]).
+
+3. **Section 20(7) of the Companies Act**: This provision protects third parties dealing in good faith with companies, which cannot assert non-compliance with procedural requirements without the contracting party having knowledge of such irregularities ([32]–[34]).
+
+4. **Insolvency Act**: Key provisions include sections 45(2) and 45(3), which empower the Master to examine and either confirm or disallow claims against insolvent estates based on established facts instead of mere suspicion ([14]–[12]).
+
+The court also referenced _Caldeira v The Master and Another_ 1996 (1) SA 868 (N) to clarify the standards required for claims to withstand expungement based on reasonable suspicion ([15]).
+
+## A – Application: Analysis of how the court applied the law ([18–30])
+
+The court critically reviewed the Master’s decision and the High Court’s subsequent conclusions. The primary focus was whether the Master had misapplied the statutory test for expungement detailed in section 45(3) of the Insolvency Act. The court concluded that the Master erred by relying on mere suspicion rather than concrete evidence to substantiate the claim’s expungement ([19]).
+
+Next, on the issue of whether the indemnity constituted financial assistance per section 45, the court found that the guarantee provided to Protech Khuthele was indeed a form of indirect financial assistance. Constantia's provision of guarantees meant that Protech Investments had effectively placed its assets at risk, falling squarely within the definition of "financial assistance" given under section 45 ([26]).
+
+However, the court highlighted a crucial compliance failing; there was no evidence that Protech Investments’ board had adopted a resolution authorizing the indemnity agreement, which contravened the requirements outlined in section 45(3). The only documentation demonstrated a resolution from Protech Holdings, which did not satisfy the direct requirements concerning Protech Investments ([29]–[31]).
+
+Furthermore, the court parsed through the implications of section 20(7), determining that it could not assist Constantia as substantive compliance issues overshadowed any procedural reliance on this section. The substantive requirements mandated by section 45(3) were not met, making the indemnity void ([34]).
+
+Lastly, when considering the constitutionality of section 45(6), the court deemed that Constantia failed to establish a reasonable case for declaring the provision unconstitutional, primarily due to insufficient evidence provided in their arguments ([37]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([38])
+
+The Supreme Court of Appeal dismissed Constantia's appeal, upholding the decision of the High Court that had favored the liquidators. The court confirmed the finding that the indemnity constituted financial assistance but was void under section 45 due to non-compliance with procedural requirements for such provisions ([38]).
+
+The ratio decidendi firmly establishes that:
+
+1. **Financial Assistance Definition**: The definition of financial assistance under the Companies Act is exhaustive; non-compliance with the statutory requirements renders such provisions void. 
+2. **Board Resolutions**: Companies must adhere strictly to procedural compliance in adopting resolutions for financial assistance to ensure such arrangements are legally enforceable.
+3. **Insolvency Provisions**: The roles of the Master and liquidators carry significant weight; mere suspicion is insufficient to undermine established claims without substantive proof.
+
+The implications of this judgment extend into corporate governance, emphasizing the necessity for meticulous compliance within corporate decision-making. The case serves as a cautionary tale for corporations regarding their obligations under the Companies Act, with potential repercussions for failing to maintain statutory compliance in financial arrangements. 
+
+The appeal was dismissed with costs, including the costs of two counsel, reinforcing the financial and legal liabilities faced by corporate entities in neglecting statutory mandates ([38]).

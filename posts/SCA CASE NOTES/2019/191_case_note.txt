@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: *Contango Trading SA v Central Energy Fund SOC Ltd* (533/2019) [2019] ZASCA 191
+
+## F – Facts
+
+The Supreme Court of Appeal (SCA) dealt with an appeal emanating from the Western Cape High Court's dismissal of applications brought by Contango Trading SA, Natixis SA, and Glencore Energy UK Limited (collectively referred to as "the appellants") that sought the disclosure of certain documents. The respondents in this matter included the Central Energy Fund SOC Limited (CEF) and its parent body, the Strategic Fuel Fund Association NPC (SFF), which were involved in a review application aiming to annul several of their own decisions related to the disposal of approximately 10 million barrels of crude oil reserves ([1–3]). 
+
+The appellants had issued notices under Rule 35(12) of the Uniform Rules of Court requesting the production of documents they claimed were referenced in the founding affidavit of the respondents. Specifically, these documents included a legal review, two legal opinions from counsel, and financial reports from KPMG and PwC ([3–4]). The respondents denied the existence of a 'legal review' as a document and claimed legal privilege over the opinions and reports. The High Court dismissed the applications by the appellants except concerning the KPMG and PwC reports, which were ultimately ordered to be disclosed ([5–7]).
+
+During the proceedings, the appellants argued that the documents were essential for them to counter the legal review submitted in the main application by the respondents. The respondents' stance was that the legal review process did not produce a singular document but rather constituted a series of investigations into the legality of contracts related to the oil reserves ([10–22]). The substantive legal and procedural dynamics of the case revolved around issues of disclosure and privilege, particularly whether the privilege had been waived by the respondents ([19–22]).
+
+## I – Issues
+
+1. Whether the appellants were entitled to the disclosure of the 'legal review' referenced in the founding affidavit.
+2. Whether the appellants were entitled to disclosure of the legal opinions from counsel.
+3. Whether the KPMG and PwC reports were privileged and whether privilege had been waived ([8, 27–32]).
+
+## R – Rules
+
+The applicable legal rules in this case stemmed from the Uniform Rules of Court, specifically Rule 35(12), which mandates that any party referring to a document in their affidavits must produce it upon receipt of a notice calling for it unless it is deemed irrelevant or privileged. The concept of legal advice privilege also featured prominently, defined as a protection for communications between a lawyer and their client that are made in the context of seeking legal advice ([9]).
+
+Furthermore, the court referenced the judicial standard for litigation privilege enunciated in *Arcelormittal*, which requires the document in question to have been produced for seeking legal advice in light of anticipated litigation ([29]). It was also noted that the determination of whether privilege had been waived could hinge on whether the document's content was disclosed or its substance was incorporated into the case ([39]).
+
+## A – Application
+
+The SCA applied the aforementioned rules in a detailed examination of the claims made by the appellants against the respondents' assertions of privilege. 
+
+1. **Legal Review**: The court concluded that the reference to the 'legal review' in the founding affidavit did not qualify as a document but rather described a process of review and investigation. The court held that the mere invocation did not trigger an obligation for disclosure under Rule 35(12), meaning the disclosure application concerning the legal review was properly dismissed ([10–23]).
+
+2. **Legal Opinions**: In assessing whether the privilege over the legal opinions was waived, the SCA examined the context in which the opinions were referenced in the founding affidavit. The court found that, while a peripheral disclosure had occurred (asserting that counsel agreed with the legal review's outcome), the terms were nuanced enough not to signify a complete waiver of privilege. The privilege remained intact as it was not a matter of pressing relevance needing rebuttal by the appellants ([39–66]).
+
+3. **KPMG and PwC Reports**: The SCA found that the KPMG and PwC reports were sought post-facto to assess the financial implications surrounding the unlawful contracts, opposed to being generated for the purpose of seeking legal advice. As such, litigation privilege could not apply, and the respondents’ claims of privilege were rejected, resulting in orders for the disclosure of these documents ([28, 32, 35]).
+
+## C – Conclusion
+
+The SCA issued the following azrder:
+
+1. Dismissed the appeals by Contango Trading SA and Natixis SA regarding the legal review and legal opinions.
+2. Upheld the appeals regarding the KPMG and PwC reports, mandating these be disclosed to the appellants.
+3. Ordered each party to bear its own costs on appeal but provided for the appellants to claim costs in the High Court for their successful portions ([36–37]).
+
+In essence, the ruling delineates the nuanced interplay between legal privilege and the rights to disclosure under procedural rules, particularly in contexts involving state entities. The judgment reinforces the principle that merely referencing a process does not singularly constitute a document calling for disclosure, nor does the mention of advice necessarily defeat legal privilege when appropriately asserted. Nevertheless, it underscores that documents generated for purposes distinct from litigation or legal advice must be disclosed if they relate to the substantive issues of the case at hand.

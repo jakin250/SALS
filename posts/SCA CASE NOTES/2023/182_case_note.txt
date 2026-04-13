@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: South African Municipal Workers’ Union National Medical Scheme (SAMWUMED) v City of Ekurhuleni and Others (1297/2022) [2023] ZASCA 182
+
+## F – Facts
+The appellant in this case is the South African Municipal Workers’ Union National Medical Scheme (SAMWUMED), a self-administered medical scheme registered under the Medical Schemes Act 131 of 1998. The respondent, City of Ekurhuleni (COE), had previously entered into a collective agreement with the South African Local Government Association (SALGA) and two trade unions, including SAMWU[1]. This collective agreement stipulated that the SALGBC must accredit medical schemes eligible for employer contributions, allowing employees to elect to switch schemes annually within a designated window period[2]. SAMWUMED had successfully been accredited multiple times since 2015 and had a history of marketing its services directly to employees through its consultants.
+
+In January 2020, COE appointed Alexander Forbes Health (AFH) as exclusive broker for its employees, requiring SAMWUMED to rescind existing brokerage contracts and ensure that broker fees were paid to AFH. Subsequently, Moso Consulting Services (Pty) Ltd replaced AFH as broker, further complicating SAMWUMED's operational landscape. SAMWUMED contested the unilateral imposition of Moso and sought to continue its marketing efforts outside of this broker’s control[3].
+
+After unsuccessful attempts to engage with both COE and Moso regarding their decisions, SAMWUMED filed an application in the Gauteng Local Division of the High Court for relief, claiming breaches of the collective agreement and unlawful interference with its contractual relationships[4]. The high court dismissed the application, agreeing with COE that SAMWUMED was not a party to the collective agreement and thus had no grounds for enforcement[5].
+
+## I – Issues
+The primary legal questions in this appeal concern whether SAMWUMED has enforceable rights under the collective agreement and whether COE's actions constituted unlawful interference with SAMWUMED’s contractual relations with SALGBC and Moso. Specifically, the court had to determine:
+
+1. Whether SAMWUMED, although not a signatory to the collective agreement, can claim rights based on its benefits.
+2. Whether COE's negotiation practices with respect to broker engagement amount to unlawful interference with SAMWUMED's established marketing and operational rights[6].
+3. The enforceability and implications of a territorial limitation contained within the broker agreement between SAMWUMED and Moso[7].
+
+## R – Rules
+The legal framework governing this case primarily consists of the Labour Relations Act 66 of 1995, specifically relating to collective agreements and binding entities involved in the bargaining council. Section 23 defines the binding nature of collective agreements, while Section 213 dictates the interpretation of what constitutes a collective agreement. The Medical Schemes Act 131 of 1998 and its associated regulations, particularly Regulation 28, articulate the requirements and restrictions surrounding broker agreements and compensation[8][9].
+
+The court relied heavily on precedent relating to statutory construction, particularly the case of Total South Africa (Pty) Ltd v Bekker NO, which delineates the requirements for a stipulation in the context of third-party agreements[10]. Other influential cases regarding unlawful interference include Lanco Engineering CC v Aris Box Manufacturers (Pty) Ltd and Masstores (Pty) Ltd v Pick n Pay Retailers (Pty) Ltd, which frame the tort of unlawful interference within contractual relationships[11][12].
+
+## A – Application
+The court evaluated SAMWUMED's arguments by first establishing whether it could assert any rights under the collective agreement. It determined that a collective agreement, as defined in the LRA, is binding only on the parties involved[13]. Since SAMWUMED was not a signatory nor within the statutory definition of parties, it could not claim rights directly under this agreement[14].
+
+The court then examined COE's actions in light of the contractual obligations and whether those actions resulted in unlawful interference with SAMWUMED's rights. It noted that COE's requirement for SAMWUMED to utilize Moso and pay brokerage fees constituted interference in SAMWUMED's contractual obligations with SALGBC, therefore meeting the criteria for unlawful interference as outlined in previous cases. The interference was found to be intentional and unlawful due to COE's knowledge of SAMWUMED's accreditation and its established rights[15][16].
+
+In relation to Moso's appeal, the court analyzed the argument surrounding the territorial limitation in their broker agreement. It concluded that the territorial limitation did not contravene Section 65 of the MSA or any public policy implications, thus affirming its enforceability[17][18].
+
+## C – Conclusion
+The Supreme Court of Appeal upheld SAMWUMED's appeal against COE, recognizing that while SAMWUMED could not enforce the collective agreement directly, it had valid claims based on unlawful interference. The actions of COE constituted a breach of SAMWUMED's rights to conduct its operations effectively and fairly in the market[19].
+
+Consequently, the court ordered COE to accept applications directly from SAMWUMED, prohibited it from enforcing Moso as an exclusive broker, and clarified that Moso was not entitled to brokerage fees without a valid agreement. Cost implications were directed jointly against COE and Moso, emphasizing the need for both respondents to bear the financial repercussions of the unlawful actions taken against SAMWUMED[20].
+
+This case highlights the nuanced interactions among contractual rights, labour relations, and regulatory frameworks within the context of medical schemes and broker agreements in South Africa, underlining the court's commitment to protecting fair competitive practices in the healthcare sector.
+
+---
+
+**References:**
+1. South African Labour Relations Act 66 of 1995.
+2. Medical Schemes Act 131 of 1998.
+3. Total South Africa (Pty) Ltd v Bekker NO 1992 (1) SA 917 (A).
+4. Lanco Engineering CC v Aris Box Manufacturers (Pty) Ltd 1993 (4) SA 378 (D).
+5. Masstores (Pty) Ltd v Pick n Pay Retailers (Pty) Ltd 2017 (1) SA 613 (CC).
+6. Country Cloud Trading CC v MEC, Department of Infrastructure Development 2015 (1) SA 1 (CC).

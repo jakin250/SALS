@@ -1,0 +1,58 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Samancor Chrome Limited v Bila Civil Contractors (Pty) Ltd ([2022] ZASCA 163)
+
+## FIRAC Method Case Note
+
+### F – Facts
+The case revolves around a dispute concerning alleged contempt of court related to two court orders imposed by the Gauteng Division of the High Court (the High Court) prohibiting Bila Civil Contractors (Pty) Ltd (Bila) from conducting mining operations on RE Portion 2 of the Elandskraal farm. The appellant, Samancor Chrome Limited (Samancor), argued that Bila had disobeyed these orders over various dates, prompting legal action ([paras 1–5]).
+
+1. **Background of the Parties**:
+   - **Samancor**: A co-owner and holder of a converted mining right regarding RE Portion 2, with responsibilities under the Mine Health and Safety Act (MHSA) to ensure environmental protection ([para 2]).
+   - **Bila**: Holds a prospecting right for chrome ore over the same area, allowed to conduct certain prospecting activities only ([para 3]).
+
+2. **Court Orders**:
+   - The first order, granted by Neukircher J on 1 July 2019, banned Bila from any mining operations outside the scope of its prospecting rights ([para 9]).
+   - The second order, given by Janse van Niewenhuizen J on 10 December 2019, further interdicted all operations by Bila pending the outcome of an appeal ([para 19]).
+
+3. **Legal Proceedings**:
+   - Samancor alleged that Bila had conducted unlawful mining activities, resulting in significant extraction of chrome ore from RE Portion 2. Evidence of these activities was presented (including photographs and calculations) to the High Court.
+   - The High Court ultimately found in favor of Bila, dismissing Samancor's contempt application and ruling that the elements of wilfulness and mala fides had not been proven in respect of the alleged offenses ([paras 32–36]).
+
+### I – Issues
+The primary legal issues addressed include:
+
+1. **Contempt of Court Standards**: Whether Bila’s alleged disobedience of the court orders constituted contempt, specifically focusing on:
+   - The requirement to prove contempt beyond a reasonable doubt.
+   - Whether Bila acted wilfully and mala fide ([paras 1, 30, 57]).
+
+2. **Operational Status of Court Orders**: Whether the orders remained operational and enforceable while appeal processes were pending, particularly given Bila's claims of having received legal advice that they were not operational ([para 27]).
+
+### R – Rules
+The legal frameworks and precedents relied upon in the judgment include:
+
+1. **Contempt of Court Criteria**: To establish contempt, the following elements must be proven:
+   - Valid order of the court.
+   - Knowledge of the order by the alleged contemnor.
+   - Breach of the order ([para 38]).
+   
+2. **Burden of Proof in Contempt Cases**: The appellant bears the burden of proving that the contempt occurred beyond a reasonable doubt, adhering to standards akin to criminal proceedings ([paras 54, 56]).
+
+3. **Interlocutory Orders and Appeal Procedures**: The Superior Courts Act, particularly s 18(1) and (2), outlines the status of orders pending appeal, with interlocutory orders remaining operative unless explicitly suspended ([para 31]).
+
+### A – Application
+The court applied the law to the facts as follows:
+
+1. **Evidence Analysis**: The court scrutinized the evidence presented by Samancor regarding Bila's alleged mining activities. Important to this was the lack of specificity in Samancor’s accusations, particularly the failure to establish that additional ore was mined during the relevant period defined by the court ([paras 41, 46, 50]).
+
+2. **Bila’s Defense and Good Faith**: Bila successfully argued that they acted under a reasonable belief—based on legal advice—that the orders were inoperative pending appeal. Evidence presented indicated that the purported illegal mining operations were part of activities that fell within permissible prospecting limits ([para 70]).
+
+3. **Judicial Findings and Reasoning**: 
+   - The court found insufficient evidence to indicate beyond a reasonable doubt that there had been unlawful mining activity in contravention of Neukircher J’s order ([para 56]).
+   - For Janse van Niewenhuizen J’s order, while the court recognized that there was some non-compliance, it determined that the defense regarding what constituted wilful and mala fides was credible and reasonable, considering the legal context ([paras 36, 70]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed Samancor’s appeal, affirming the findings of the High Court. The ruling underscored the necessity of meeting high evidential standards in contempt proceedings, particularly in establishing both the breach of court orders and the intent behind such actions ([paras 72–72]).
+
+The implications of this decision highlight the significance of clarity in legal orders and the necessity of precise evidentiary support in allegations of contempt. This case serves as a critical reference point for future disputes involving contempt proceedings, particularly within the context of mining and environmental law in South Africa.

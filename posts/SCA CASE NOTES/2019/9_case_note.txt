@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Twende Africa Group (Pty) Ltd t/a Tag Marine v MFV Qavak (476/2018) [2019] ZASCA 9
+
+## FIRAC Method
+
+### F – Facts
+
+The case arises from a dispute over the entitlement to a broker's commission associated with the sale of the fishing vessel MFV Qavak. The vessel was registered under Fisherman Fresh CC, the owner, which had acquired it from C & M Donohue Fishing Ltd on 18 August 2017 ([1]). On 26 January 2018, Twende Africa Group (Pty) Ltd (operating as Tag Marine) initiated in rem proceedings against the Qavak, claiming a broker’s commission based on services allegedly rendered in negotiating the sale ([2]).
+
+Following TAG’s claims, the High Court set aside the vessel's arrest on the grounds that no valid contractual relationship existed between TAG and Fisherman Fresh. Despite this, TAG also put forth alternative claims that implied exclusive engagement and alleged unlawful interference with an existing nominee contract between TAG and Donohue Fishing ([3]-[4]). The conflict escalated to include questions of maritime claims under section 3(4)(b) of the Admiralty Jurisdiction Regulation Act 105 of 1983 (AJRA), necessitating a thorough analysis of TAG's entitlement to commission and associated damages against both Fisherman Fresh and Donohue Fishing ([6],[27]).
+
+### I – Issues
+
+1. **Was there a contractual relationship that entitled TAG to claim commission from Fisherman Fresh for the sale of the MFV Qavak?** 
+2. **Did TAG have an agreement with Donohue Fishing that Fisherman Fresh interfered with, thereby justifying a claim for damages?**
+3. **Did TAG’s actions and communications imply an exclusive brokerage agreement or create a tacit understanding between the parties? ([14]-[24])**
+
+### R – Rules
+
+The court's determination rested on established principles concerning brokerage agreements and statutory maritime claims. The key rules include:
+
+1. **Contractual Basis for Commission Claims**: A broker must establish a valid agreement for commission, either express or implied ([8]). The court emphasized that the absence of such an agreement negates entitlement to commission, as informed by precedents from South African Agency Law ([8]-[9]).
+
+2. **Maritime Claims Definition**: As per section 1(p)(ii) of the AJRA, TAG’s claim for commission would qualify as a maritime claim if it proved a direct connection to brokerage services related to the vessel's sale ([6]).
+
+3. **Unlawful Interference with Contractual Relations**: A third party can be liable for inducing a party to breach their contract by demonstrating that a valid contract existed between two original parties and that the third party acted unlawfully ([26]).
+
+### A – Application
+
+The SCA scrutinized the interactions and communications that purportedly constituted a contractual agreement between TAG and Fisherman Fresh.
+
+- **Allegations of Agency**: TAG's assertions were founded on purported actions indicating that it had been engaged by Fisherman Fresh as a broker; however, substantial evidence demonstrated that TAG was acting as an intermediary for Donohue Fishing ([10]-[14]). The offer produced in negotiations explicitly recognized the separation of roles, undermining TAG's claim of a direct agency relationship with Fisherman Fresh.
+
+- **Commission Rights**: The court determined that TAG failed to present a prima facie case for a commission claim, as no explicit terms for commission were provided in the offer to purchase nor were they implied from the negotiations ([13]-[17]). Thus, TAG's essential requirement of demonstrating an appointment leading to commission was unsatisfied.
+
+- **Damages Claims and Contractual Interference**: The court also addressed the nature of the claims for damages due to perceived unlawful interference. TAG argued that Fisherman Fresh unlawfully intercepted its opportunity to earn commission against Donohue Fishing. The judgment emphasized that since there was no foundational agreement between TAG and Donohue Fishing for commission, the claim for damages on the premise of undue interference fundamentally failed ([24]-[39]).
+
+Overall, the court concluded that the communications between TAG and both Fisherman Fresh and Donohue Fishing did not establish a sufficient basis for either a direct commission claim or indirect claims through alleged tortious interference.
+
+### C – Conclusion
+
+The Supreme Court of Appeal dismissed TAG’s appeal, concluding that TAG did not have a valid contractual relationship with Fisherman Fresh to claim a brokerage commission, nor did it demonstrate that Fisherman Fresh unlawfully interfered with any contract between TAG and Donohue Fishing. The ruling underscores the importance of establishing clear agreements in brokerage contexts and affirms that mere interactions or unsuccessful negotiations do not suffice to infer tacit contracts ([40]). This case serves as a crucial reference point in maritime law regarding the rights and limitations of brokers in commission claims, reinforcing contractual clarity essential for safeguarding business interests in maritime transactions.
+
+### References
+- *The Law of Agency in South Africa* – De Villiers and Macintosh
+- Maritime law cases such as *Thalassini Avgi* and precedents cited in local statutes reflect the foundational principles applied here.

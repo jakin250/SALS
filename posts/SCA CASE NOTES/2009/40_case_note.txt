@@ -1,0 +1,78 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note: Silouette Investments Ltd v Virgin Hotels Group Ltd ([2009] ZASCA 40)
+
+**Citation**: Silouette Investments Ltd v Virgin Hotels Group Ltd (116/08) [2009] ZASCA 40 (31 March 2009) 
+
+**Court**: The Supreme Court of Appeal, Republic of South Africa
+
+**Coram**: FARLAM, NAVSA, MTHIYANE, MLAMBO, et CACHALIA JJA
+
+**Heard**: 17 February 2009
+
+**Delivered**: 31 March 2009
+
+---
+
+## F - Facts
+
+The appellant, Silouette Investments Ltd, initially filed a claim in 2001 against the respondent, Virgin Hotels Group Ltd, in conjunction with Ajubatis Properties Pty Ltd, for the recovery of R561,308.41 owed under a share sale agreement pertaining to a company known as Investment Facility Company Forty Pty Ltd ([2]). Notice of an amendment to the particulars of claim was given on 16 November 2004, to substitute Mr. John Brook Dyer as the plaintiff, which was subsequently effected on 15 April 2005. The appellant and Ajubatis Properties alleged that Mr. Dyer had acquired their claims by cession ([3]).
+
+The respondent’s defense included a contention that the original plaintiffs were not entitled to cede any rights under the sale agreement, prompting a re-amendment to the particulars of claim on 10 November 2006, reintroducing the appellant as the plaintiff ([4] - [5]). The respondent subsequently raised a special plea of prescription, asserting that the debt had already prescribed as it became due before 30 September 2001. They claimed that prescription was interrupted only during Mr. Dyer’s tenure as plaintiff and that it resumed after the appellant was substituted back into the proceedings ([6] - [7]).
+
+The trial court ruled in favor of the respondent, validating their special plea of prescription on the basis that the appellant had failed to prosecute its claim to final judgment under the original summons, as required by section 15(2) of the Prescription Act 68 of 1969 ([14]). The appeal was primarily based on two grounds: the interpretation of "debtor outside the Republic" in relation to section 13(1)(b) of the Prescription Act and the applicability of section 15(2) concerning interruption of prescription ([15] - [16]).
+
+---
+
+## I - Issues
+
+The case presents two significant legal issues:
+
+1. **Whether the Respondent can be classified as "outside the Republic" under section 13(1)(b) of the Prescription Act, thereby delaying the completion of prescription**. This hinges on the interpretation of "outside the Republic" in the context of the respondent’s connection to South African jurisdiction ([31]).
+
+2. **Whether the interruption of prescription, as enacted by the original summons, lapsed due to the amendment that substituted the plaintiff, implicating section 15(2) of the Prescription Act**. This evaluates whether the original process remained in continuous prosecution through various amendments ([15] - [22]).
+
+---
+
+## R - Rules
+
+The applicable legal rules in this case are derived from the Prescription Act 68 of 1969. Key provisions include:
+
+- **Section 11(d)**: Establishes a three-year prescription period for claims of this nature ([10]).
+  
+- **Section 12(1)**: States that prescription commences to run once the debt is due ([11]).
+  
+- **Section 13(1)(b)**: Delays the running of prescription if the debtor is outside the Republic ([12]).
+  
+- **Section 15(1)**: Interrupts the running of prescription by the service of any process claiming payment of the debt ([13]).
+  
+- **Section 15(2)**: Outlines that if the creditor does not successfully prosecute their claim to final judgment, the interruption of prescription lapses ([13]).
+
+The court may further consider common law principles regarding the prosecution of actions and the necessity to prevent prescription.
+
+---
+
+## A - Application
+
+### Issue 1: "Outside the Republic"
+
+The court examined whether the respondent, as a company incorporated in the UK with a specified address in London, could be deemed "outside the Republic" under section 13(1)(b). The appellant argued the respondent's absence, relying on the fact that it had not established a physical presence within South Africa ([18] - [20]).
+
+However, the court found that the respondent had consented to South African jurisdiction and accepted service via local attorneys. The presence of a representative for service countered the assertion of being "outside the Republic," meaning the appellant had practical access to enforce its claim, negating the impedimental nature described in section 13([31] - [36]). The court concluded that the legislative intent did not contemplate an interpretation allowing for unending prescription due merely to a debtor's foreign status when they are amenable to local jurisdiction.
+
+### Issue 2: Application of Section 15(2)
+
+Regarding the application of section 15(2), the appellant contended that the original summons' service interrupted prescription and remained valid notwithstanding the amendments to the actors in the case. The court agreed with the respondent’s position stating that the process that commenced in 2001 had been interrupted but not successfully prosecuted to final judgment ([41]).
+
+The key to this determination centered on whether the amendments reflected a new process that would restart the prescription period. The amendment substituting Mr. Dyer as plaintiff and the later substitution back to the appellant did technically alter the plaintiff during the proceedings. Hence, the initial interruption did not carry through to the latest amendment, leading the court to determine that such lapsing was in accordance with section 15(2) ([42]).
+
+---
+
+## C - Conclusion
+
+The Supreme Court of Appeal ultimately dismissed the appeal with costs, affirming the lower court's ruling on the basis that neither the original interruption of prescription was sustained past the amendments made (conclusively voiding the arguments regarding the respondent’s foreign status) nor that the submissions fulfilled requirements that would allow for the prescription period to be interrupted beyond what had been established ([43]). The implications of this judgment highlight the importance of maintaining consistent prosecution of claims under South African law and the necessity for amendments not to disrupt the process of enforcing claims, which could result in prolonged legal insecurity. The ruling also clarifies the interpretation of "outside the Republic" in a manner valuable for future cases involving foreign entities engaged in business within South Africa. 
+
+---
+
+This case note encapsulates critical issues surrounding the interplay of procedural amendments and the prescription of claims, illustrating the highly technical nature of prescription legislation within South African law.

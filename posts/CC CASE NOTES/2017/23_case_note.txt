@@ -1,0 +1,38 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Swart v Starbuck and Others 2017 ZACC 23 (CCT 153/16)
+
+## FIRAC Method
+
+### F – Facts: Relevant background and procedural history ([paras 1–9])
+The case revolves around Mr. Nicolaas Johannes Swart, a rehabilitated insolvent who challenged the dismissal of his claim for damages against the trustees of his insolvent estate, specifically Mr. Conrad Alexander Starbuck, Mr. James Henry van Rensburg, and Mr. Tsiu Vincent Matsepe, all of whom were designated as trustees. Swart’s estate was sequestrated on November 1, 2005, leading to the sale of certain immovable properties by the trustees. On December 1, 2005, even before their official appointment, Starbuck (the lead trustee) accepted three offers to purchase the properties, contingent upon the Master’s approval, which was granted after the trustees were appointed on January 24, 2006, and the sales were finalized on June 14, 2006.
+
+Swart filed for damages amounting to R11,410,000, arguing that the trustees acted without the necessary authority, primarily failing to comply with sections 80bis and 82 of the Insolvency Act 24 of 1936. The High Court dismissed his claim, concluding the sales were properly authorized and that no financial loss had occurred due to the sales. Swart appealed to the Supreme Court of Appeal (SCA), which upheld the High Court's ruling, leading to his application for condonation and leave to appeal in the Constitutional Court.
+
+### I – Issues: Legal or constitutional questions ([paras 20–21])
+The legal queries at the heart of this case include:
+1. Whether Swart’s claims based on sections 80bis and 82 of the Insolvency Act were appropriately rejected.
+2. The validity and consequence of the Master’s authorization for the sale and the trustees' actions prior to their official appointment.
+3. Whether constitutional challenges against sections 18(3) and 80bis of the Act could be raised at this stage, given their absence in earlier proceedings.
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 27, 31, 32, 45, 46, 100–104])
+The decision is anchored on several pivotal legal principles and statutes, most notably:
+- **Insolvency Act 24 of 1936**, specifically sections 80bis (governing sales prior to the second meeting of creditors) and 82(1) and (8) (regulating the power and duties of trustees regarding the sale of estate property).
+- **Promotion of Administrative Justice Act 3 of 2000**, governing administrative action.
+- The principles from cases like **Oudekraal Estates (Pty) Ltd v City of Cape Town** ([2004] ZASCA 48; 2004 (6) SA 222 (SCA)) that affirm the legal validity of administrative acts until set aside.
+- The constitutional interpretation surrounding the nature of property rights, as enunciated in **section 25 of the Constitution**, alongside the due process principles espoused in **section 33**.
+
+### A – Application: Analysis of how the court applied the law ([paras 25–27, 33, 92–104])
+The Court found that Swart's claims were rooted in section 82, which was not applicable as the sales conducted by the trustees took place before the creditors' second meeting and under valid authorization from the Master after their formal appointment. Importantly, the Court emphasized that the conditions precedent as specified under section 80bis had not been met because the trustees acted without legitimate authority when they submitted their recommendation to the Master prior to their official appointment.
+
+In examining the alleged losses, courts underscored that the claims for damages arising from dispossession were fundamentally flawed. Since the approvals by the Master had not been set aside, the legal presumption of their validity stood. Therefore, the consequential actions taken by the trustees remained lawful unless proven otherwise.
+
+Additionally, the Court dismissed the newly introduced constitutional claims, asserting that constitutional challenges must be raised at the outset of proceedings, underscoring procedural propriety.
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 48–49, 97–104])
+Ultimately, the Constitutional Court granted condonation but refused leave to appeal based on the lack of merit in Swart's claims and the significant procedural defects in raising constitutional challenges at this stage. The judgment underscored the venerable principles of administrative law whereby the validity of administrative actions persists until annulled, thereby affirming the trustees' actions under the explicit authority granted by the Master.
+
+The implications of this decision highlight critical considerations regarding the authority of trustees in insolvency proceedings, solidifying the procedural requirements necessary for accountability in the administration of insolvent estates. Furthermore, litigants are cautioned on the implications of failing to properly challenge administrative actions within established legal frameworks. 
+
+This case serves as a salient reminder of the complexities inherent in insolvency law and administrative justice, influencing future litigation concerning administrative actions and property rights in South Africa's legal landscape.

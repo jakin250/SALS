@@ -1,0 +1,69 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: *Nu-World Industries (Pty) Ltd v Strix Ltd*
+
+**Citation:**  
+Nu-World Industries (Pty) Ltd v Strix Ltd (Case no 1349/18) [2020] ZASCA 28 (26 March 2020)
+
+**Court:**  
+The Supreme Court of Appeal of South Africa
+
+**Coram:**  
+MAYA P, MBHA, VAN DER MERWE, MOKGOHLOA JJA, GORVEN AJA
+
+**Heard:**  
+12 November 2019
+
+**Delivered:**  
+26 March 2020
+
+---
+
+## F – Facts
+
+The appellant, **Nu-World Industries (PTY) Ltd** (hereafter referred to as "Nu-World"), was engaged in the import and sale of domestic kettles which incorporated patented technologies. The respondent, **Strix Ltd** (hereafter "Strix"), held South African Patent 95/4779, which included a claim specifically for a thermally sensitive overheat control mechanism within domestic kettles ([1]).
+
+In April 2011, Strix initiated legal proceedings against Nu-World in the **Court of Commissioner of Patents**, alleging infringement of the patent by several kettle models distributed by Nu-World, specifically listing four control types, including the Liang Ji LJ-06A and the Sunlight SLD-105A IL ([2]).
+
+The case was divided into two distinct phases. The initial phase was to determine whether Nu-World's kettle controls infringed Strix's patent, which resulted in a dismissal of the infringement claims by the court of first instance, citing a defense of lack of novelty ([4]). In a subsequent appeal, the Supreme Court of Appeal held that three of the models did infringe the patent rights, while one did not ([4]).
+
+Following this judgment, Strix moved to amend its declaration to include additional claims related to those infringements, particularly concerning the nature of damages or reasonable royalties owed under Section 65(6) of the **Patents Act 57 of 1978** ([3], [6]). While some paragraphs of the amendment were accepted, others faced objection from Nu-World, primarily because they sought to introduce controls not previously adjudicated in the infringement phase ([7]).
+
+## I – Issues
+
+The primary legal issues arising from this case include:
+
+1. Whether Strix was permitted to amend its claims to introduce new infringement issues in the context of a damages inquiry, despite a previous judgment that separated the issues of infringement and damages ([8]).
+
+2. The proper interpretation of the Court’s previous order concerning infringement and its implications for the current damages inquiry ([11], [19]).
+
+3. Whether the finality of the initial judgment on infringement allows for the introduction of new infringing controls in the damages phase ([16]).
+
+## R – Rules
+
+The legal rules relevant to the case include:
+
+1. **Patents Act 57 of 1978**, specifically Sections 65(3) and 65(6), which outline the remedies available to a plaintiff in patent infringement actions ([13]).
+
+2. The principle of finality in judicial orders, which dictates that once an issue has been properly adjudicated and a judgment rendered, it generally cannot be reopened in subsequent phases of the same case ([17]).
+
+3. **Interpretation of judicial orders**, guided by established principles that prioritize the manifest purpose of the order, as framed in *Finishing Touch 163 (Pty) Ltd v BHP Billiton Energy Coal South Africa Ltd and Others* ([11]).
+
+## A – Application
+
+The court's application of the law involved several key considerations:
+
+1. **Finality and Separation of Issues:** The court emphasized that the separated issue regarding infringement had been definitively decided and could not be revisited. The decision noted that allowing Strix to introduce additional infringement claims would effectively challenge the finality of the earlier judgment ([16], [19]).
+
+2. **Interpretation of the Previous Order:** The court indicated that while the interdictory relief was broadly framed to prevent any future infringement, the resultant damages inquiry was explicitly limited to those infringements already determined, namely the three identified controls ([14], [15]). Consequently, Sections 65(3) and 65(6) were also read in conjunction to ensure clarity on what constituted actionable infringement for purposes of damages ([13]).
+
+3. **Mudability of Claims:** The court concurred with Nu-World’s objections, reasoning that Strix's attempted amendment inadvertently introduced novel issues of infringement that were not part of the initial adjudication. This was deemed impermissible as it diluted the focused inquiry on damages ([8], [19]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal held that Strix's application to amend its declaration should not have been granted in part due to the finality of judgments concerning the separated infringement issues. It effectively ruled that the original determination, which allowed only the inquiry into damages related to the three infringing controls identified, barred the introduction of any additional claims or modifications that were not previously adjudicated.
+
+In doing so, the court underscored the importance of judicial economy and the principle that once an issue of law or fact is adjudicated and a final judgment rendered, it is replete with implications for future proceedings related to that matter ([19]).
+
+Thus, the appeal was upheld, and the matter was remitted with distinct directions concerning the stipulated recovery of damages, as clarified in the prior judgment ([20]). The implications of this decision reinforce the boundaries of procedural amendments in patent law, emphasizing the sanctity of final judgments as fundamental to maintaining judicial integrity and procedural fairness.

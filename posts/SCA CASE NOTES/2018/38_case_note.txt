@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: **Commissioner for the South African Revenue Service v Danwet 202 (Pty) Ltd** ([2018] ZASCA 38)
+
+## Facts
+The matter involves a dispute between the South African Revenue Service (SARS) and Danwet 202 (Pty) Ltd (Danwet) regarding the late filing of an appeal against a tax assessment. In 2013, SARS conducted an audit of Danwet's business and issued an additional assessment for the tax year 2012 amounting to R1,208,919, a significant increase from the initial assessment of R19,915 ([paras 2–3]). Danwet objected to this additional assessment on 7 October 2013, and on 7 November 2013, SARS partially upheld the objection, resulting in a partial reduction of the assessment amount ([para 3]).
+
+On 9 December 2013, Danwet's tax consultant submitted a notice of appeal via SARS's e-filing platform against the partial disallowance. However, this appeal was not recorded on SARS's e-filing system. After a lengthy period with no communication from SARS, Danwet's consultant contacted SARS on 30 June 2014 and learned that the appeal had not been processed. Following advice from a SARS representative, Danwet resubmitted the appeal on 2 July 2014 along with a request for condonation for the late filing, attributing the delay to issues with telecommunications ([paras 4–6]).
+
+SARS refused the condonation request, asserting that under sections 107(2)(a) and (b) of the Tax Administration Act 28 of 2011 (TAA), it had no discretion to extend the time beyond 75 days for lodging an appeal. This interpretation was challenged by Danwet in the Tax Court, which ruled on 1 February 2017 to allow Danwet to file its notice of appeal within ten days. SARS then appealed this decision, arguing that the Tax Court lacked jurisdiction to grant such condonation ([paras 6-8]).
+
+## Issues
+The case presented three primary legal issues for determination:
+1. Does the Tax Court have the jurisdiction to consider and grant an application for the condonation of late filing of an appeal?
+2. If so, does SARS possess the discretion to extend the period for filing an appeal beyond the statutory limits prescribed in the TAA?
+3. Was there sufficient justification (good cause) presented by Danwet for the late filing of the appeal? ([para 1]).
+
+## Rules
+The relevant legal framework consists of:
+- **Section 107** of the TAA, which outlines the procedural requirements for lodging an appeal against an assessment along with limitations on the period for doing so.
+- **Section 104(3)** of the TAA, which mandates that a taxpayer must object to an assessment decision by lodging an objection within a specified period.
+- **Section 129(2)**, which delineates the powers of the Tax Court to confirm, alter, or refer assessments back to SARS ([paras 9, 10, 12, 20]).
+
+In addition, the common law principle that statutes do not contain purposeless provisions emphasizes the need for a meaningful interpretation of legislation ([para 18]).
+
+## Application
+The court analyzed the jurisdiction of the Tax Court under the TAA, concluding that the Tax Court indeed had jurisdiction to hear applications for condonation based on the definition of "decision" under the Act. This interpretation was bolstered by the recognition that a decision not to extend the time for lodging an appeal is itself a "decision" under section 104(2) ([para 12]). However, the court stressed that Danwet had failed to adhere to the provisions of section 104(3) by not lodging an objection against SARS's refusal to allow an extension for the filing of the appeal. Thus, by not following the mandated procedure, Danwet's application lacked a valid basis in the eyes of the court.
+
+Additionally, the court noted that while the nature of the refusal by SARS might appear straightforward, there have been scenarios in which the taxpayer might have valid grounds to contest a denial of extension. It concluded that the lack of an objection from Danwet necessarily deemed the Tax Court devoid of jurisdiction to render a decision on the condonation application, leading to the assertion that the procedural requirement was not just a formality but a critical component of the appeal process ([paras 15–20]).
+
+## Conclusion
+The Supreme Court of Appeal ultimately upheld the appeal by SARS, concluding that the Tax Court lacked the necessary jurisdiction to entertain Danwet’s application for condonation due to the latter's failure to file an objection as mandated by section 104(3) of the TAA. Therefore, the order of the Tax Court was set aside, and the matter was struck from the roll ([paras 20–21]). The ratio decidendi of this judgment underlines the importance of compliance with statutory procedural requirements in tax appeals, thereby reinforcing the structure and clarity necessary for the functioning of tax administration in South Africa.
+
+This judgment holds significant implications for taxpayers, emphasizing the necessity of adhering to procedural timelines and the requirements for objections to decisions made by SARS, stressing that failure to meet such prerequisites may lead to the dismissal of appeals even in the presence of substantive merits. 
+
+**[Neutral Citation: CSARS v Danwet (399/2017) [2018] ZASCA 38 (28 March 2018)]**

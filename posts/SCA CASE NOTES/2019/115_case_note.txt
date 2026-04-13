@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+### FIRAC Case Note: Sandvik Intellectual Property AB v Outokumpu OYJ & Another (879/2018) [2019] ZASCA 115
+
+#### F – Facts
+The case revolves around an appeal regarding the validity of **South African Patent No. 2002/58267**, entitled ‘Belt for the thermal treatment of a continuously operated material bed’ ([1]). The patent pertains to a conveyor belt utilized within a sintering process, where metal powders with varying melting points are heated and transformed into solids ([2]). 
+
+**Appellant**: Sandvik Intellectual Property AB, a Swedish corporation ([3]), initiated the application for revocation of this patent on **6 May 2013**, contending that the invention lacked novelty and did not involve an inventive step as defined by the **Patents Act 57 of 1978** (the Act) ([7]). 
+
+Key claims of the application targeted claim 1, which described the belt's unique features, specifically its perforated construction designed to allow gas flow for heating or cooling purposes during the thermal treatment ([4], [6]). 
+
+The **respondents**, Outokumpu OYJ and its assignee Outotec OYJ, opposed the revocation, asserting that the challenges related to clarity, novelty, and inventiveness were unfounded ([8], [11]). 
+
+At trial, the argument shifted from novelty to a focus on the lack of an inventive step, with the lower court dismissing Sandvik’s claims based on the evidence presented ([11], [12], [13]). 
+
+#### I – Issues
+The principal legal issue confronting the appeal was whether the lower court's refusal to accept the application for patent revocation was justified, particularly regarding:
+1. The determination of a lack of an inventive step as required by **sections 25(1) and 25(10)** of the **Patents Act 57 of 1978**, which requires that an invention must be non-obvious to a person skilled in the relevant art based on existing prior knowledge of the art ([7], [11]).
+2. The effectiveness of the evidence presented relating to the state of the art and its prior disclosures concerning the claimed invention ([12], [14]).
+
+#### R – Rules
+The court relied upon the provisions outlined in the **Patents Act 57 of 1978**, particularly:
+- **Section 25(1)** stipulates that a patent may be granted for any new invention that involves an inventive step and is applicable in trade or industry.
+- **Section 25(10)** defines that an invention is considered to involve an inventive step if it is not obvious to a person skilled in the art based on prior public disclosures ([7]). 
+
+In assessing the inventive step, the court followed the structured approach established in **Ensign-Bickford (South Africa) (Pty) Ltd v AECI Explosives and Chemicals Ltd** ([12]). The four key steps outlined in this case include:
+1. Identifying the inventive step involved in the patent.
+2. Understanding the state of the art as of the priority date of the patent.
+3. Determining how the inventive step goes beyond the established state of the art.
+4. Analyzing whether this step would have been obvious to the skilled person.
+
+#### A – Application
+The appeal pertained specifically to the inventive step concerning the patent’s claim of unique perforated elements of the belt:
+- The original claims were emphasized to ascertain their clarity and distinctiveness, especially regarding elements **D, E, and F** ([13], [14]). 
+- Sandvik’s expert witness, Mr. Anders Bodin, asserted that the relevant integers had been disclosed in prior art, including patents from **Hartwig**, **Drugge**, and others, which clearly illustrated alternating perforated and non-perforated elements, thus indicating that the claimed invention was merely an obvious evolution ([20], [22], [24]).
+  
+Conversely, the respondents' expert, Mr. Pekka Santala, argued that the particular arrangement of perforated areas in the context of thermal efficiency provided a distinct inventive step that could not be directly traced to any prior art ([19], [20]).
+
+The appeal court assessed the evidence of both experts against the established definitions and principles set by the earlier cited cases and the statutory provisions. Ultimately, the appeal court found that the broad percentage range of 20-60% for perforated areas, while ostensibly distinctive, constituted an obvious choice available to any skilled person examining the prior art ([25]).
+
+#### C – Conclusion
+The Supreme Court of Appeal determined that the findings of the court below were flawed, particularly regarding the absence of a rigorous analysis on the inventive step associated with the claimed patent ([26]). Consequently, the court concluded that Sandvik had successfully demonstrated that the claimed invention was indeed non-novel and lacked an inventive step, thereby revoking **South African Patent No. 2002/58267** ([26]).
+
+The court's order not only affirmed the revival of Sandvik’s initial claims but also established a pertinent precedent regarding the standard of inventive steps required under South African patent law, emphasizing the need for distinct and non-obvious advancements in patented inventions ([26]).
+
+### References
+1. Sandvik Intellectual Property AB v Outokumpu OYJ & another (879/2018) [2019] ZASCA 115.
+2. Patents Act 57 of 1978.
+3. Ensign-Bickford (South Africa) (Pty) Ltd & another v AECI Explosives and Chemicals Ltd 1999 (1) SA 70 (SCA).
+4. Schlumberger Logelco Inc v Coflexip SA 2003 (1) SA 16 (SCA).

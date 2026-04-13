@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Minister for Safety and Security v Van der Merwe [2011] ZACC 19
+
+## F – Facts
+The case centers around the validity of search and seizure warrants issued under section 21 of the Criminal Procedure Act 51 of 1977 (CPA). The applicant, the Minister for Safety and Security, was challenged by respondents Gary Walter Van der Merwe, his family members, and multiple businesses allegedly involved in financial irregularities ([paras 1–2]). The South African Revenue Service (SARS), suspecting criminal activities including tax fraud and money laundering, issued warrants for searches of Van der Merwe's home and businesses ([para 3]). 
+
+The warrants were granted by a magistrate but notably did not specify the offences that justified the searches. They prepared affidavits detailing the suspected crimes, yet the warrants themselves failed to mention these offences ([paras 8–9]). Following the execution of the search and seizure operations, the respondents contested the warrants at the Western Cape High Court, claiming they were invalid for lacking detailed specification of the offences ([paras 10–11]). The High Court found in favor of the respondents, declaring the warrants invalid ([paras 12–14]).
+
+The Minister subsequently appealed to the Supreme Court of Appeal, which affirmed the High Court's decision regarding the Cape Town warrants, although it disagreed with the reasoning that required an offence to be specified in the warrant ([paras 16–18]). The Minister sought leave to appeal at the Constitutional Court, which was granted on the grounds of significant constitutional issues raised by the case ([paras 19–23]).
+
+## I – Issues
+The main legal question was whether the common law intelligibility principle necessitates that an offence be specified in search and seizure warrants issued under the CPA. Several subsidiary questions arose from this main issue:
+- Does the absence of specified offences in the warrants render them invalid? ([para 19])
+- Are the warrants vague or overbroad? ([para 19])
+- Should the order of invalidity apply retrospectively? ([para 19])
+- Are costs to be awarded against any party? ([para 19])
+
+## R – Rules
+The Constitutional Court relied on established legal principles surrounding the intelligibility of warrants. The intelligibility requirement ensures a warrant must clearly convey the authority it confers and the reasons for its execution to both the officers conducting the search and the individuals whose premises are being searched. Key rulings cited included Magajane v Chairperson, North West Gambling Board [2006] ZACC 8, which stressed that exceptions to the warrant requirement should not be the norm, and Thint (Pty) Ltd v National Director of Public Prosecutions [2008] ZACC 13, which established that warrants must specify offences to ensure intelligibility ([paras 11, 27–30]).
+
+## A – Application
+The Court analyzed whether the failure to specify offences in the CPA warrants fell short of the intelligibility requirement. It elaborated on the historical context, pointing to decades of legal uncertainty regarding the specification of offences in warrants, ultimately concluding that clarity promotes respect for individual rights and enhances the warrant's effectiveness. The majority view in Pullen, which suggested that specification was not a requirement, was contrasted with the minority that firmly held that the absence of an offence specification rendered warrants invalid. The court emphasized that a properly intelligible warrant must include specific offences to inform the searched party adequately and to limit state power judiciously ([paras 43–54]).
+
+The Court reaffirmed that the intelligibility principle demands a specific mention of the offence, stating, “a warrant can thus not be reasonably intelligible if the empowering legislation and the offence are not stated in it” ([para 52]). Therefore, the Cape Town warrants were declared invalid due to this omission ([para 57]).
+
+## C – Conclusion
+The Constitutional Court concluded that the appeals regarding the Cape Town warrants were dismissed and the High Court's ruling, which declared them invalid, was upheld. This case underscored the necessity of clearly articulating the nature of the offences in search warrants to maintain the balance between law enforcement and individual constitutional rights ([paras 62–63]). The implications of this case extend to law enforcement practices in South Africa, emphasizing the importance of due process in terms of the intelligibility requirement, which must now be adhered to in future warrant applications. Consequently, the Minister was ordered to pay respondents' costs, including two counsel's fees, reflecting the unsuccessful outcome of the appeal ([para 62]).
+
+### References
+- Minister for Safety and Security v Van der Merwe [2011] ZACC 19.
+- Magajane v Chairperson, North West Gambling Board [2006] ZACC 8.
+- Thint (Pty) Ltd v National Director of Public Prosecutions [2008] ZACC 13.
+- Pullen, N.O., Bartman, N.O. & Orr, N.O. v Waja. 1929 TPD 838.
+- Hertzfelder v Attorney-General. 1907 TS 403.
+- Powell NO and Others v Van der Merwe NO and Others [2005] ZASCA 42. 
+
+These citations must adhere to OSCOLA guidelines per the context of academic and legal usage.

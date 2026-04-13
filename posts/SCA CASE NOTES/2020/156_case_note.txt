@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: SA Airlink v South African Airways (SOC) Limited and Others (238/2020) [2020] ZASCA 156
+
+## FIRAC Method
+
+### F – Facts: Relevant background and procedural history ([2]–[12])
+
+In the case of **SA Airlink (Pty) Ltd v South African Airways (SOC) Limited and Others**, the appellant, Airlink, appeals a decision by the Gauteng High Court regarding the recovery of moneys owed to it by the first respondent, South African Airways (SAA), which was placed under business rescue on 5 December 2019. This relationship was governed by an Alliance Agreement that further delineated operational agreements, including a Commercial Agreement central to this dispute.
+
+For nearly two decades prior to SAA entering business rescue, Airlink and SAA collaborated on air transportation services. The Commercial Agreement specified that SAA was to remit revenues collected from Airlink ticket sales, less commissions owed to SAA and other fees. In practical terms, after tickets were sold, SAA would transfer the due revenue to Airlink on specified payment dates—a practice that included both monthly and advance payments ([2]–[5]).
+
+Upon SAA’s transition into business rescue, a preliminary payment owed to Airlink for the month of November 2019 became contentious. SAA had transmitted a statement indicating the revenue it collected for ticket sales up until 5 December 2019, but the subsequent business rescue proceedings triggered a legal moratorium under section 133 of the Companies Act, which prohibits legal claims against a business in such a state without specific consent from practitioners or court approval ([6]–[9]).
+
+Airlink contended that the revenues constituted its property, claiming that SAA merely acted as its agent in collecting this revenue, hence it sought direct recovery of these amounts as they were not debts incurred prior to the business rescue ([11]–[12]).
+
+### I – Issues: Legal or constitutional questions ([14]–[15])
+
+The appellate court was to resolve several significant issues:
+
+1. **Agency Relationship**: Did SAA hold the revenue from Airlink ticket sales as an agent, thereby making it Airlink's property rather than a debt owed?
+   
+2. **Timing of Debt**: Was the revenue a pre-commencement or post-commencement debt regarding the business rescue, which would govern whether recovery was permissible under s 154(2) of the Companies Act?
+
+3. **Moratorium Effect**: Did SAA’s choice to abide by the terms of the Alliance Agreement preclude it from invoking the moratorium protections afforded by section 133 of the Companies Act during the business rescue process? ([15]).
+
+### R – Rules: Legal authorities and precedents relied upon ([16]–[22])
+
+The primary statutory provision at issue was **section 133 of the Companies Act 71 of 2008**, which establishes a general moratorium on legal proceedings against entities in business rescue. It stipulates that no legal proceedings shall be initiated or persisted with without the consent of the business rescue practitioner or the court, except under very limited circumstances ([16]).
+
+Additionally, **section 154(2)** of the same Act governs the enforcement of debts, specifically stating that if a business rescue plan is approved, a creditor cannot enforce any debts owed by the company before the commencement of business rescue ([22]). The court also referenced established case law, such as **Murray NO and Another v FirstRand Bank Ltd t/a Wesbank** and **Cloete Murray and Another**, which highlighted the importance of the moratorium for allowing businesses to stabilize during recovery efforts ([18]).
+
+### A – Application: Analysis of how the court applied the law ([23]–[32])
+
+The Supreme Court of Appeal opted to affirm the High Court's decision. It found that the relationship articulated through the Contracts did not amount to a principal-agent setup; rather, it characterized SAA as a debtor to Airlink. The court cited **Clause 12.2 of the Commercial Agreement**, which explicitly denied the agency relationship between the parties, supporting the conclusion that SAA had no obligation to treat the funds as Airlink's property or to segregate them from its other revenue ([23]–[24]).
+
+On the issue of whether the debt was pre- or post-commencement, the court concluded that the obligation for SAA to remit payment arose immediately upon collection of the revenue—before the onset of business rescue. By the time SAA entered business rescue, the funds owed were already deemed a debt under the Contracts, as SAA held the revenue but had not yet transferred it as per their agreement ([26]–[29]).
+
+Regarding Airlink’s argument concerning SAA's alleged election to abide by the Alliance Agreement post-business rescue, the court dismissed this as well. It noted that since Airlink purported SAA was in breach of the agreement, the reciprocal nature of their arrangement meant that Airlink could not selectively enforce parts of the agreement against SAA while it was undergoing business rescue ([31]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([32])
+
+The appeal was dismissed with costs. The court reaffirmed the High Court's ruling that the revenue collected by SAA constituted a debt owed to Airlink before the commencement of business rescue, hence was subject to the moratorium outlined in section 133 of the Companies Act. The distinction between who holds the property and the nature of debts was clarified, emphasizing that funds derived from ticket sales were indeed a debt that could not be claimed during the business rescue period without following the proper legal channels.
+
+The decision underlines the complex interplay between contractual obligations and the protections afforded during corporate rescue proceedings. It illustrates the judicial emphasis on preserving the business rescue process, which is grounded in allowing companies the necessary space to rehabilitate without being encumbered by pre-existing debts being enforced haphazardly. 
+
+---
+
+This case note encapsulates the critical legal reasoning and outcome in **SA Airlink v SAA** and serves as a substantive resource for practitioners and scholars exploring company law and the intricacies of business rescue in South Africa.

@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: **Ibex RSA Holdco Ltd and Another v Tiso Blackstar Group (Pty) Ltd and Others** [2024] ZASCA 166
+
+## FIRAC Case Note
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–24])
+The case concerns the right of access to a report on a forensic investigation into significant fraud and accounting irregularities by Steinhoff International Holdings NV (Steinhoff), a public company with origins in South Africa. Following a tumultuous scandal leading to severe financial downturns and estimates of over R200 billion (approximately USD 12 billion) in investor losses, Steinhoff commissioned PricewaterhouseCoopers Advisory Services Proprietary Limited (PwC) to investigate these irregularities ([paras 1–6]).
+
+On March 15, 2019, Steinhoff published an overview of the PwC Report but refrained from fully disclosing its detailed findings citing legal privilege under section 67 of the Promotion of Access to Information Act 2 of 2000 (PAIA) ([paras 7–12]). In 2019, Tiso Blackstar Group (Pty) Ltd, its editor, and the amaBhungane Centre for Investigative Journalism requested access to the full report. Steinhoff’s continued refusals prompted the media respondents to approach the Western Cape High Court, leading to an order for Steinhoff to disclose the report. Steinhoff appealed this decision, and the cross-appeal was filed against specific paragraphs deemed as hearsay ([paras 20–24]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 25–26])
+The appeal presented the following legal questions:
+1. Should Steinhoff be permitted to adduce further evidence on appeal?
+2. What is the appropriate test under PAIA that upholds the constitutional right of access to information?
+3. Has Steinhoff established legal privilege under section 67 of PAIA for the report?
+4. If the report is privileged, has that privilege been waived by Steinhoff due to the publication of an overview?
+5. Does the public interest override in section 70 of PAIA apply?
+6. Should the media respondents’ cross-appeal regarding hearsay evidence succeed? ([paras 25–26]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 37–73])
+The court relied on several statutory provisions and principles:
+- **Promotion of Access to Information Act (PAIA)**: Specifically, sections 50 (right of access), 67 (privilege), and 70 (public interest override).
+- **South African Constitution**: Section 32, which guarantees the right of access to information, was foundational in interpreting PAIA's provisions ([paras 37–39]).
+- **Common Law**: The legal principles surrounding legal professional privilege were reviewed, emphasizing both litigation privilege and legal advice privilege. The dominant purpose test was underscored, distinguishing between documents created for legal purposes versus operational ones ([paras 41–73]).
+  
+The judgment also drew upon precedents like *Contango Trading SA v Central Energy Fund SOC Ltd* [2019] ZASCA 191, which addressed waiver of privilege through disclosure of parts of privileged material ([para 40]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 74–103])
+The court evaluated the role of privilege in withholding the report. It concluded that Steinhoff did not effectively demonstrate that the report enjoyed litigation privilege. The evidence submitted indicated that the purpose for commissioning the report was primarily for operational remediation, intended to finalize the company’s financial statements, not primarily for legal advice or litigation ([paras 74–75]).
+
+It was also found that the publication of the overview constituted an implicit waiver of any claimed privilege since the overview detailed the principal findings of the report, undermining Steinhoff's assertion that communications remained confidential ([paras 76–91]). The court established that transparency regarding the pervasive fraud was in the public interest, especially given the vast impact on shareholders and the public who had lost substantial investments ([paras 92–102]).
+
+In evaluating the cross-appeal concerning hearsay evidence, the court held that since the core issues had already been addressed, the hearsay claim did not warrant further consideration and thus struck the cross-appeal from the roll due to lack of practical effect ([paras 104–106]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 107–107])
+The Supreme Court of Appeal ruled against Steinhoff, emphasizing the importance of public interest in disclosure over claims of privilege. It held that Steinhoff failed to substantiate its claims that the report was privileged while simultaneously waiving any privilege by disclosing significant aspects through the overview. The court stated that the media had a constitutional right to access information that ensured accountability, particularly in matters of public importance such as corporate governance failures.
+
+The implications of this judgment extend to enhancing transparency in corporate practices and ensuring that shareholders and the public are adequately informed about corporate irregularities that have substantial financial implications ([para 107]).
+
+### References
+1. Promotion of Access to Information Act 2 of 2000.
+2. Constitution of the Republic of South Africa, 1996.
+3. *Contango Trading SA v Central Energy Fund SOC Ltd* [2019] ZASCA 191.
+4. *Qoboshiyane NO and Others v Avusa Publishing Eastern Cape (Pty) Ltd and Others* [2013] ZASCA 106.
+
+---
+
+This case note provides a structured FIRAC analysis of the Ibex RSA Holdco Ltd v Tiso Blackstar case suitable for academic or legal professional reference.

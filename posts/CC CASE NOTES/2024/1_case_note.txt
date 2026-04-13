@@ -1,0 +1,50 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Capitec Bank Limited v Commissioner for the South African Revenue Service [2024] ZACC 1
+
+## FIRAC Method
+
+### F – Facts: Relevant background and procedural history ([paras 1–14])
+
+The case involves an appeal from the Supreme Court of Appeal of South Africa, which itself was an appeal from a Tax Court ruling favoring Capitec Bank Limited (Capitec). Capitec sought to challenge the South African Revenue Service (SARS) decision that disallowed a deduction it claimed regarding Value-Added Tax (VAT) in relation to "loan cover" provided to borrowers. This loan cover, provided in connection with credit extensions, was free of charge according to Capitec’s contracts with borrowers. SARS contended that since there was no consideration for the loan cover, it could not be classified as a taxable supply under section 16(3)(c) of the Value-Added Tax Act 89 of 1991 (VAT Act) ([para 2]).
+
+The crux of the dispute lies in determining whether the supply of the loan cover constituted a taxable supply, and whether the deduction claimed by Capitec was valid under the VAT provisions ([paras 5–9]). Initially, Capitec deducted R71,520,812 as input tax based on the loan cover payments made during the period ([para 12]). SARS rejected this claim, prompting Capitec to appeal the additional assessment in Tax Court, where it was successful ([paras 15–21]). The Supreme Court of Appeal overturned this ruling, leading to Capitec’s appeal to the Constitutional Court ([paras 22–25]).
+
+### I – Issues: Legal or constitutional questions ([paras 46–48])
+
+The case addresses several key issues regarding VAT laws, including:
+
+1. **Was the loan cover supplied free of charge?**
+2. **Does a free-of-charge supply disqualify it from being classified as a taxable supply?**
+3. **Was the loan cover provided exclusively in furtherance of an exempt activity, or was there a mixed activity involving taxable components?**
+4. **Can apportionment of VAT deductions be claimed if the loan cover is both a taxable and exempt supply?**
+5. **Should previous claims of apportionment be permissible given that it was not raised in lower courts?**
+
+These questions tie into broader legal principles regarding the treatment of mixed supplies under VAT law ([paras 46–48]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 3–14], [49–56])
+
+The court relied on various provisions of the VAT Act, particularly section 16(3)(c), which stipulates the conditions under which input tax can be claimed. This section allows for deductions where a vendor incurs amounts in indemnifying another through a taxable contract of insurance ([para 13]).
+
+The definitions of "enterprise" and "taxable supply" found in the VAT Act were pivotal in the court's reasoning. A taxable supply under section 7(1)(a) requires that services be supplied in the course or furtherance of an enterprise.
+
+Capitec cited **Interpretation Note 70** from SARS, which outlined the conditions under which supplies made for no consideration could still be treated as taxable, provided they advance the vendor's business ([paras 18, 22]). Precedents such as **Commissioner for the South African Revenue Services v Tourvest Financial Services (Pty) Ltd** ([2021] ZASCA 61) were also referenced to elucidate the characterisation of supplies for VAT purposes ([para 25]).
+
+### A – Application: Analysis of how the court applied the law ([paras 55–76], [100])
+
+The court examined whether the loan cover was truly supplied free of charge and ruled that, despite not having a direct charge for the cover, the commercial rationale behind it suggested it was not entirely "free" ([para 55]). However, the court affirmed that the explicit language in Capitec's contracts indicated that the service was provided without charge, thus necessitating an interpretation that did not unduly infer a charge for the loan cover.
+
+The court sought to clarify that the notion of “consideration” does not strictly preclude supplies made for no direct price from being classified as taxable if they align with a broader enterprise ([para 54, 60]). It further reasoned that just because the loans were associated with exempt interest does not mean the supply of insurance could not also involve a taxable supply of services relating to fees ([paras 65–69]).
+
+As to apportionment, the court concluded that section 16(3)(c) requires a taxable supply for deductions to apply, and thus the lack of sufficient pleading on apportionment by Capitec did not prevent the court from addressing the fairness of refinements post facto ([paras 92–93]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 100–100])
+
+The Constitutional Court concluded that the Supreme Court of Appeal erred in its interpretation that a free supply could not qualify as a taxable supply. The court held that Capitec’s provision of loan cover could be seen as a mixed supply, both exempt and taxable, and the degree of taxable versus exempt elements could necessitate apportionment.
+
+The judgment remitted Capitec’s assessment back to SARS for further examination, emphasising that both entities need to adhere to the principles articulated in the ruling about the applicability of the VAT regime, thus allowing for a potential deduction that would finally reflect a fair treatment under the law.
+
+The decision carries significant implications for how mixed activities and dual-purpose supplies are treated under VAT law, reinforcing the necessity for a balanced and equitable approach to tax liability determinations, while also highlighting the need for clear articulation of claims during tax assessments ([para 100]). 
+
+This judgment is expected to provide clarity for financial institutions and taxpayers regarding mixed supplies and VAT deductibility going forward, particularly stressing the importance of proper pleading and documentation in tax disputes.

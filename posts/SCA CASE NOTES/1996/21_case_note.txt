@@ -1,0 +1,43 @@
+Case Note: IN THE SUPREME COURT OF SOUTH AFRICA
+Source Folder: 1996
+
+# **Case Note: Frankel Max Pollak Vinderine Inc v Menell Jack Hyman Rosenberg & Co Inc**
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 2–6])
+The case under consideration is an appeal regarding the enforcement of an arbitrator's award involving the parties Frankel Max Pollak Vinderine Inc ("Frankel") and Menell Jack Hyman Rosenberg & Co Inc ("Menell"). Both companies were engaged in independent stockbroking activities on the Johannesburg Stock Exchange (JSE) until a merger was formed on 28 May 1988.
+
+The merger agreement specified that the business of Menell would be absorbed by Frankel, retaining the Menell name. Importantly, the agreement contained provisions for termination that required six months written notice after 31 August 1990. On 21 August 1990, Menell issued a termination notice which, while slightly premature, initiated disputes leading both parties to arbitration under the agreement's Clause 20.
+
+The arbitration occurred between January and February 1991, culminating in an award issued on 25 February 1991. Following this, both parties sought legal action; Frankel aimed to enforce the award while Menell sought to have it set aside for allegedly exceeding the arbitrator's authority. The Witwatersrand Local Division sided with Frankel, granting the enforcement and denying Menell's application.
+
+Subsequent to these rulings, Frankel moved to declare Menell in contempt of court for failing to adhere to the arbitrator's award. Over time, disputes led to multiple contempt proceedings, with the central contention revolving around the interpretation of the arbitrator's award, particularly regarding “unclaimed dividends” and “current written mandates” as per the JSE Rules.
+
+### I – Issues: Legal or Constitutional Questions ([paras 2–3])
+The principal issues in this case include:
+1. Did Menell comply with paragraph 4 of the arbitrator's award, specifically concerning the obligation to render an account of all dividends received during the merger period?
+2. Was the interpretation of "pursuant to current written mandates" limited in such a way that excluded any unclaimed dividends arising from sales made during the merger?
+3. Was Menell guilty of contempt of court for not complying with the award as alleged by Frankel?
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 4–5])
+Key legal rules and precedents referenced in this ruling include the interpretation of contracts as established in *Firestone South Africa (Pty) Ltd v Gentiruco AG* 1977 (4) SA 298 (A), where it is emphasized that the intent of a court’s order or judgment should be derived from its clear wording and context. Notable points include:
+- The necessity of reading the entire judgment or order to determine intent.
+- The application of the "current written mandate" to establish whether dividends are owed based on the relationship between clients and the brokerage firm.
+- The standards for establishing contempt of court, where the non-compliance must be proven to be willful and mala fide, as iterated in cases such as *Clement v Clement* (1961) and *Putco Ltd v T V & Radio Guarantee Co (Pty) Ltd* (1985).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 6–29])
+The court primarily analyzed whether Menell's interpretation of the term "current written mandates" validly excluded unclaimed dividends from the ambit of the arbitrator’s order. The judge dissected Paragraph 4.1 of the award, which required Menell to account for dividends received during the merger, evaluating the terms "held" and "current written mandates."
+
+The court found that unclaimed dividends—which arose from sales when shares were in Menblack's name—were indeed to be accounted for, arguing that these dividends fulfilled the criteria set by the arbitrator for rendering an account. 
+
+Menell's assertion that once shares were sold, the relationship with the client terminated, thereby nullifying the mandate, was scrutinized. The court reasoned that the mandate persisted for unclaimed dividends until a formal claim was made by the rightful party. Thus, even when dividends were deemed unclaimed, the obligation to account remained active.
+
+On the question of contempt, the court evaluated Menell's belief regarding compliance with the award. It noted that the position taken by Menell, while ultimately incorrect, appeared to be held in good faith, thus precluding any findings of willful disobedience or mala fide intentions.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 30–44])
+The Supreme Court of Appeal concluded that Menell was obligated to render an account including unclaimed dividends based on the interpretation of the arbitrator's award. The court allowed Frankel's amendment to the notice of motion, declaring that the terms in paragraph 4.1 encompassed securities registered in Menblack's name, regardless of physical possession, thus expanding the understanding of “current written mandates” to include these dividends.
+
+The ruling held significant implications for financial institutions engaging in similar agreements, reinforcing the notion that mandates can be interpreted broadly to ensure accountability. Additionally, it reaffirmed that good faith misunderstandings regarding contractual obligations do not equate to contempt, thereby providing a safeguard for parties involved in complex financial transactions.
+
+The court ordered the appeal to be granted, amending the existing motion in favor of Frankel while affirming the costs order against Menell. No order was made regarding the costs of the appeal. This decision underscores the intricate balance between contractual obligations and compliance in financial service provisions while clarifying previously ambiguous terms in arbitration awards.

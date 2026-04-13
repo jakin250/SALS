@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# Case Note: Tristar Investments v The Chemical Industries National Provident Fund (455/12) [2013] ZASCA 59
+
+## FIRAC Method
+
+### Facts
+The case concerns a dispute between **Tristar Investments (Pty) Ltd** (the appellant) and **The Chemical Industries National Provident Fund** (the respondent). The Fund challenged an agreement signed by its purported representatives with Tristar, claiming that it was not bound by this agreement for three primary reasons: first, that the signatories lacked proper authorization; second, that the agreement was void due to illegality; and third, that if bound, the agreement was subsequently canceled ([1]). The Fund sought declaratory relief from the South Gauteng High Court, which separated the issue of illegality for consideration.
+
+The trial court (Judge Lamont) found that the agreement was indeed unlawful, reasoning that it involved services that contravened the **Financial Advisory and Intermediary Services Act 37 of 2002** (FAIS Act) due to the absence of a requisite license for certain services. This led Tristar to appeal the decision ([1], [2]). 
+
+Central to the case is the allegation that the services rendered by Tristar fell within the definition of "intermediary service" as prohibited by the FAIS Act, which restricts such services to licensed providers ([3]).
+
+### Issues
+The primary legal question addressed by the Supreme Court of Appeal was whether the services outlined in the agreement between Tristar and the Fund constituted an unlawful "intermediary service" under the FAIS Act ([2], [3]). Additionally, the case touched on whether the trial court’s interpretation of the agreement and the statutory definitions were correct ([4], [5]).
+
+### Rules
+The FAIS Act defines a "financial services provider" as someone who regularly provides "advice" or "intermediary services" ([4]). Specifically, an **'intermediary service'** is an act performed on behalf of a client or product supplier that enables a client to engage in transactions concerning financial products ([9]).
+
+The relevant sections of the FAIS Act state:
+- **Section 7**: Prohibits any person from acting as a financial services provider without a license.
+- **Definition of 'intermediary service'**: This involves actions beyond mere advice that facilitate a transaction between a client and a product supplier. 
+
+The court analyzed whether the services provided by Tristar effectively constituted "intermediary services" or were merely advisory in nature ([6], [14]).
+
+### Application
+The appeal court critically evaluated the lower court's interpretation. The key distinction drawn was that while Tristar was duly licensed to furnish advice, it could not provide an intermediary service without the correct license ([4]). The court emphasized that the FAIS Act does not categorically restrict all services by unlicensed individuals but specifically targets only those classed as intermediary services.
+
+The court found that much of what Tristar had committed to professionally managing was indeed advisory in nature—aimed at outlining investment strategies—as opposed to acting as a direct go-between facilitating transactions, which would require a specific license ([10], [11], [15]). 
+
+In particular, the services involved drafting mandates for asset managers and monitoring performance rather than executing transactions on behalf of the Fund or managing financial products directly, which are core elements of what the Act defines as "intermediary services" ([12], [14]). 
+
+### Conclusion
+The Supreme Court of Appeal held that the agreement between Tristar and the Fund was not unlawful under the provisions of the FAIS Act. The court reversed the earlier decision from the trial court, declaring that the services offered by Tristar did not fall within the ambit of 'intermediary services' requiring a license. The appeal was upheld with costs, indicating that the objection raised by the Fund against the contractual validity was unfounded ([16]).
+
+This ruling not only reinforces the importance of properly interpreting statutory definitions but also clarifies the boundaries between advisory and intermediary services under the FAIS Act. It underscores the necessity for a comprehensive understanding of the regulatory framework governing financial services in South Africa, thereby providing significant guidance for future contractual agreements within financial advisory contexts. 
+
+### References
+1. Financial Advisory and Intermediary Services Act 37 of 2002.  
+2. Tristar Investments v The Chemical Industries National Provident Fund (455/12) [2013] ZASCA 59.  
+
+(Note: The case note would typically include additions such as extensive citations and cross-references to relevant jurisprudence or legal principles depending on the depth and number of references needed in the final published document. The above FIRAC method provides a concise template suitable for academic and professional use.)

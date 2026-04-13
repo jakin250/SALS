@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Absa Bank Ltd v Eksteen (81/10) [2011] ZASCA 40
+
+### F – Facts
+
+The case revolves around a series of transactions involving a Toyota Land Cruiser and presents significant issues concerning the warranty against eviction in the context of unlawful possession. The vehicle changed hands among several parties as follows: Ms. Wilton sold the vehicle to Nedbank (the second appellant), which subsequently sold it to Absa Bank (the first appellant). Absa Bank then sold the vehicle to Mr. Marius Eksteen (the respondent), who later sold it to Mr. Hugo [paras 2–3].
+
+The pivotal event in this case was the seizure of the vehicle by the police, who established that its chassis and engine numbers had been tampered with. Investigations revealed the vehicle had been stolen from its original owner in Japan. Upon learning about the seizure, Mr. Eksteen refunded the purchase price to Mr. Hugo and sought legal recourse against Absa Bank, asserting a breach of the warranty against eviction inherent in his purchase contract [paras 3–5].
+
+Mr. Eksteen's legal challenge was grounded on the claim that he lacked the legal ability to possess the vehicle due to statutory prohibitions under s 68(6) of the National Road Traffic Act 93 of 1996, which states that possession of a vehicle with tampered identification is illegal [paras 5–10]. His lawsuit was successful in the Free State High Court, where he was awarded the purchase price, plus interest and costs [para 8].
+
+In response, Absa Bank appealed, contesting Mr. Eksteen’s claim on several procedural and substantive grounds, including the assertion that Mr. Eksteen had no valid basis for his claim without pursuing action against the police to reclaim the vehicle [para 10]. 
+
+### I – Issues
+
+The legal issues presented were as follows:
+1. Did Mr. Eksteen introduce a new cause of action by invoking the statutory prohibition against possession in his replication?
+2. Should Absa Bank have relied upon the warranty against eviction given the allegations of the vehicle being stolen?
+3. Did Absa Bank adequately fulfill its obligations as a seller to shield Mr. Eksteen from eviction consequences?
+4. What implications do statutory prohibitions have on the implied warranty of a seller in a contract of sale? [paras 10–14].
+
+### R – Rules
+
+Key legal principles at play in this case include:
+- **Warranty against eviction:** It is an established principle in South African law that a seller implicitly warrants the buyer against eviction from the purchased property. This warranty extends beyond physical dispossession by the true owner to include dispossessions by a statutory authority (see Lammers & Lammers v Giovannoni [1955] 3 SA 385 (A) at 392F-G) [paras 12–14].
+- **Statutory prohibition against possession:** As per s 68(6) of the National Road Traffic Act 93 of 1996, a person may not possess a vehicle that has tampered identification numbers. This provision, therefore, cannot be circumvented and impacts the buyer’s rights [paras 10–11].
+
+Relevant case law includes Marvanic Development (Pty) Ltd v Minister of Safety and Security 2007 (3) SA 159 (SCA), where the court established that possessors could not claim possession rights when legal restrictions were in place [para 1].
+
+### A – Application
+
+In its analysis, the Supreme Court of Appeal addressed the arguments raised by Absa Bank regarding the introduction of a new cause of action. The Court noted that although there was a procedural issue, Mr. Eksteen's reliance on the statutory prohibition was firmly rooted in the circumstances of the case and that it had been fully canvassed during the trial. The Court rejected Absa Bank’s argument that the issue had not been properly pleaded, emphasizing that the substance of the prohibition had been explored and was immaterial to the appeal [paras 11–12].
+
+Further, in assessing Absa Bank's attempt to shift liability based on the need for Mr. Eksteen to have pursued legal options against the police to reclaim the vehicle, the court found this to be unavailing. The precedent in Lammers underscored that a seller is bound to protect the buyer from eviction, and Absa Bank had failed to undertake any action to assist Mr. Eksteen against the claims of the true owner or law enforcement [paras 12–14].
+
+Finally, regarding the arguments rooted in Marvanic, the court pointed out that the ability of a seller to regularize possession through obtaining new identification numbers did not negate the eviction's unassailability, as the critical issue was the buyer’s immediate legal status at the time of the eviction [paras 11–12].
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately dismissed the appeals brought forth by both Absa Bank and Nedbank, upholding the lower court's ruling that they were liable for breaching the warranty against eviction. The Court's decision emphasized that the statutory prohibition against possession and the facts surrounding the unlawful alteration of the vehicle's identification numbers eliminated any grounds for the sellers to defend against the claim. The judgment solidified the principle that sellers have a duty to protect buyers from evictions, underscoring the implications of statutory prohibitions in sales contracts. The appellants were ordered to pay the costs of the respondent, reinforcing the accountability of financial institutions in transactions involving goods whose legality may be in question [paras 15].
+
+In conclusion, this case illustrates the complexities involved in the intersection between statutory law and contract law, particularly in the realm of warranties and the implications of unlawful possession. It serves as a crucial precedent for future cases involving similar issues in the realm of sales, warranties, and evictions in South African law.

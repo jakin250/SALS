@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Smith N O and Others v Master of the High Court, Free State Division, Bloemfontein and Another (1221/2021) [2023] ZASCA 21
+
+### FIRAC Analysis
+
+#### F – Facts
+The appeal arises from the Free State Division of the High Court's decision to set aside an enquiry convened under section 417 of the Companies Act 61 of 1973. The appellants, Elrich Ruwayne Smith N O, Karen Fortein N O, and Mpoyana Lazarus Ledwaba N O, were joint liquidators of BZM Transport (Pty) Ltd, a company that had been liquidated following unsuccessful business rescue proceedings (at [3]). The liquidators sought to investigate the company’s affairs, particularly the actions of its former Chief Executive Officer, Wilhelm Frederik Engelbrecht, who had allegedly obstructed their access to crucial documentation, including financial records and agreements related to the company’s debts (at [4]).
+
+The enquiry, presided over by the Assistant Master of the High Court, encountered legal contention when Engelbrecht’s legal representative argued that only the Master was entitled to interrogate witnesses at such an enquiry. This objection was dismissed by the Assistant Master, leading Engelbrecht to apply for a judicial review of the enquiry (at [5]). The High Court accepted Engelbrecht’s argument, declaring the enquiry null and void ab initio, resulting in the current appeal by the liquidators (at [7]).
+
+#### I – Issues
+The primary issue focuses on the interpretation of section 417 of the Companies Act, specifically whether the statute permits parties other than the Master to interrogate witnesses during an enquiry (at [1]). The court also needed to address the implications of conflicting judgements in previous case law regarding this interpretation, particularly the decisions in *Swart v Master of the High Court* and *Garcao v Majiedt N O* (at [8]).
+
+#### R – Rules
+Section 417(1) of the Companies Act grants the Master or the High Court the authority to summon any person capable of providing pertinent information regarding a liquidated company. Crucially, section 417(2)(a) allows for the examination of summoned persons, while section 418 articulates the role of commissioners in such enquiries (at [6]). The previous case law, including *Swart* and *Garcao I*, hinted at a restrictive interpretation of who could interrogate witnesses under section 417, suggesting that only the Master or the court retained this power (at [8]).
+
+The judgement reviews legal interpretative principles, underscoring the need for a purposive approach rather than a strictly textual one, as highlighted in cases like *African Christian Democratic Party v Electoral Commission* and *Bernstein v Bester N O* (at [12]).
+
+#### A – Application
+The court scrutinized the language and historical context of sections 417 and 418, emphasizing that both provisions should be read together rather than as isolated regulations (at [16]). The judgement noted that section 417 did not explicitly limit who might interrogate witnesses, thus challenging the High Court's interpretation that effectively restricted this right to the Master alone (at [18]).
+
+Further analysis by the court revealed that the practice in South Africa historically allowed creditors and liquidators to conduct interrogations, paralleling English common law where the discretion was vested in the presiding authority (at [22][24]). This historical interpretation reinforced the conclusion that the absence of explicit authorization for liquidators in section 417 should not negate their right to interrogate witnesses, as the discretion to allow such questioning remained with the Master (at [36]).
+
+In contrast, the majority opinion contended that interpreting the provisions of sections 417 and 418 as complementary respects the legislative intent, thereby empowering not only the Master but potentially also liquidators in conducting effective enquiries (at [16][30]).
+
+#### C – Conclusion
+Ultimately, the Supreme Court of Appeal upheld the liquidators' appeal, emphasizing that the restrictions imposed by the High Court and previous interpretations misconstrued the purposive nature of the relevant provisions in the Companies Act (at [19]). The Court ruled that both the Master and the liquidators possess the authority to interrogate witnesses summoned for enquiry, confirming the essential role of such investigations in the broader context of corporate liquidation. The appeal was granted with costs, reflecting the importance of addressing this significant legal question (at [20]).
+
+This decision influences company law practice by clarifying the powers of liquidators in conducting enquiries, thus enhancing their ability to fulfill their statutory duties and uphold creditors’ interests effectively. The court’s judgement advocates for an interpretation that supports procedural efficacy and justice in corporate liquidation scenarios, reinstating the intended utility of the Companies Act (at [14]).

@@ -1,0 +1,36 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+### FIRAC Case Note: Kapa v The State [2023] ZACC 1
+
+#### F – Facts
+In **Kapa v The State** ([1]–[2]), the applicant, Makhi Kapa, was convicted of murder and sentenced to 15 years’ imprisonment by the High Court of South Africa, Western Cape Division. The case arose from a series of violent incidents in Khayelitsha, where Kapa and six other individuals faced charges related to vigilante actions. Kapa was convicted of the murder of Makhuze Bungane, following a trial wherein he maintained his innocence and preferred not to testify. His applications for leave to appeal against both conviction and sentence were previously denied by lower courts.
+
+A critical issue in the case was the admission of hearsay evidence – specifically, the statement of Bomikazi Dasi, the deceased's girlfriend, who died prior to the trial. Dasi’s statement described the events leading to the assault on Bungane, linking Kapa to the crime. The High Court ruled that this hearsay evidence met the "interests of justice" standard established by the Law of Evidence Amendment Act 45 of 1988, thus admitting it as part of the trial ([3]–[4]). This admission was pivotal in Kapa’s conviction.
+
+#### I – Issues
+The primary legal question in this case was whether the High Court was justified in admitting Ms Dasi’s hearsay statement under section 3(1)(c) of the Hearsay Act ([3]–[5]). The broader implications of this ruling engage essential constitutional rights, particularly the right to a fair trial as enshrined in section 35 of the Constitution of South Africa. Furthermore, the case raised issues surrounding the admissibility of hearsay evidence in criminal proceedings, particularly when such evidence forms the sole basis for conviction.
+
+#### R – Rules
+The court primarily relied on the provisions of the Hearsay Act, specifically section 3(1)(c), which allows for the admission of hearsay evidence if it serves the interests of justice, taking into account several factors: 
+1. The nature of the proceedings;
+2. The nature of the evidence;
+3. The purpose for which the evidence is tendered;
+4. The probative value of the evidence;
+5. The reasons why the evidence is not given by the person upon whose credibility it depends;
+6. Any prejudice to a party from the admission of such evidence;
+7. Any other relevant factors ([31]–[32], [56]).
+
+The relevant legal framework draws from precedents such as **Savoi v National Director of Public Prosecutions** ([3]hpn], **S v Ndhlovu**, and **S v Mthetwa**, stressing the necessity for careful scrutiny in the admission of hearsay evidence.
+
+#### A – Application
+In assessing the merits of admitting Dasi’s statement, the High Court considered multiple factors. It deemed the context—vigilantism and community self-help—as raising the public interest in resolving the matter and upholding community justice ([6]). Nonetheless, it failed to apply the cautionary rule adequately, which is essential when evaluating hearsay evidence, especially given Ms Dasi was the sole eyewitness.
+
+The court acknowledged the potential prejudice to Kapa by not allowing cross-examination of Dasi, which compounds the concerns of fairness ([26]). Majiedt J in the majority opinion emphasized the necessity for corroboration and the reliability of such hearsay evidence, pointing out deficiencies such as lack of cross-examination and potential biases from Ms Dasi due to her relationship with the deceased ([82]–[106]).
+
+The majority judgment ultimately concluded that sufficient corroborative evidence, including forensic evidence and Dasi’s statement, supported the conviction ([78]–[89]). However, dissenting opinions highlighted shortcomings in the evidence's reliability, particularly that it did not sufficiently prove Kapa's direct involvement in Bungane's death, questioning the integrity of the trial proceedings ([69], [108]).
+
+#### C – Conclusion
+The Constitutional Court dismissed Kapa's appeal, concurring with the High Court's initial ruling regarding the admissibility of hearsay evidence. However, significant dissent exists regarding the implications of this decision on fair trial rights, with concerns raised about excessive reliance on a single, uncorroborated hearsay statement leading to a conviction of such gravity ([5]–[6], [107]).
+
+The court tempered its conclusion with the recognition of systemic issues around vigilantism, marking an advantageous judgment for the State while simultaneously opening avenues to challenge the reliability and fairness of trials heavily dependent on hearsay in the future. Importantly, this case may serve as a precursor for reevaluating how hearsay evidence is treated, especially in contexts where defendants face significant criminal allegations ([70]–[109]).

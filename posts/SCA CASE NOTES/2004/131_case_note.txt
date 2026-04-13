@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2004
+
+# Case Note: J Z Brink v Humphries & Jewell (Pty) Limited
+
+**Reportable Case No:** 516/03  
+**Court:** Supreme Court of Appeal of South Africa  
+**Date Heard:** 9 November 2004  
+**Judgment Delivered:** 30 November 2004  
+**Coram:** Mpati AP, Farlam, Navsa, Cloete JJA, Jafta AJA  
+
+---
+
+## FIRAC Case Note
+
+### F – Facts
+
+In this matter, respondent Humphries & Jewell (Pty) Limited (hereafter "the respondent") initiated a legal action against the appellant, J Z Brink (hereafter "the appellant"), and the company Guzto Log Homes (Pty) Limited (hereafter "the company") for the recovery of debt owed under a suretyship agreement. The appellant, who was a director of the company, signed a credit application form, which, unbeknownst to him, contained a clause imposing personal suretyship obligations. The application was necessitated by the company’s need for increased credit facilities while the appellant was on holiday. 
+
+The respondent claimed the appellant was bound by the "caveat subscriptor" rule, which posits that by signing a document, a party assents to its contents ([para 1]). The appellant, however, contended he was under a justifiable mistake (iustus error), having been misled into signing the document without the requisite knowledge of its suretyship obligations.
+
+The trial court ruled against the appellant, confirming the enforceability of the suretyship and refusing leave to appeal ([para 1]). The appellant subsequently sought relief in the Supreme Court of Appeal.
+
+### I – Issues
+
+The primary legal issue revolved around whether the appellant's claim of iustus error, or justifiable mistake, was valid in this context, particularly considering the implications of the caveat subscriptor doctrine and whether the respondent’s conduct misled the appellant ([para 7]). Additional considerations included:
+
+1. Was the appellant misled regarding the nature and effect of the credit application form?
+2. Would a reasonable person in the appellant's position have been misled by the document?
+3. Did the respondent bear responsibility for the appellant's misunderstanding of the document's contents?
+
+### R – Rules
+
+The court referred to established principles regarding the caveat subscriptor rule and the doctrine of quasi-mutual assent. The leading authority in this domain is the case of *George v Fairmead (Pty) Limited*, which elaborates on the nature of iustus error: a signatory may escape liability if they can demonstrate they were misled into understanding the terms of the contract differently from what was intended ([para 2]).
+
+Additionally, in *Sonap Petroleum (SA) (Pty) Limited v Pappadogianis*, it was emphasized that not only must a misrepresentation be established, the signatory's mistake must also be justifiable, which is assessed through the lens of reasonableness ([para 8]).
+
+### A – Application
+
+Cloete JA critically examined the factual circumstances surrounding the signing of the credit form and acknowledged that although the appellant had the opportunity to read the document, the fundamental issue hinged upon whether the form itself was misleading in its presentation ([para 11]). 
+
+The court found evidence that:
+- The document’s prominent heading merely labeled it as a credit application and did not clearly denote any personal suretyship obligations. This, alongside the way the clauses were organized, contributed to a misleading impression for the appellant, who had assumed he was signing solely on behalf of the company ([para 10]).
+- The appellant consistently expressed in his testimony that he did not expect any suretyship obligations to arise from his signature based on his past experiences ([para 6]). The court found that the contradictory statements by the respondent’s witnesses did not significantly undermine the appellant’s credible assertion that he was misled by the form ([para 10]).
+
+The court therefore concluded that, despite the appellant's failure to read the document carefully, it was unreasonable for the respondent to assert that he would not have been misled had he done so. The form's misleading nature, indicative of a common practice wherein suretyships are explicitly laid out in separate documents, led to the conclusion that the appellant was under a justifiable misunderstanding regarding his obligations ([paras 11-12]).
+
+### C – Conclusion
+
+Cloete JA's judgment ultimately favored the appellant, determining that the suretyship obligation was void ab initio due to the misapprehension induced by the misleading structure of the credit application form. Thus, the appeal was granted, the lower court's decision was set aside, and the respondent's claim was dismissed with costs ([paras 13-12]).
+
+This case illustrates the necessity for clarity and transparency in contractual documents, particularly where personal liability is concerned. The implications of the ruling reinforce that parties cannot merely rely on the caveat subscriptor doctrine to enforce agreements that are misleading by design, thereby providing essential guidance for drafting and engaging in contractual obligations in commercial contexts.

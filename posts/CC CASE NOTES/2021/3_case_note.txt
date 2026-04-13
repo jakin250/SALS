@@ -1,0 +1,35 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: AmaBhungane Centre for Investigative Journalism NPC and Another v Minister of Justice and Correctional Services and Others; Minister of Police v AmaBhungane Centre for Investigative Journalism NPC and Others [2021] ZACC 3
+
+## FIRAC Analysis
+
+### F – Facts
+The matter before the Constitutional Court of South Africa involved a constitutional challenge by the AmaBhungane Centre for Investigative Journalism NPC and Stephen Patrick Sole against several government officials, including the Ministers of Justice, Police, State Security, and others. The case pertained to the **Regulation of Interception of Communications and Provision of Communication-Related Information Act 70 of 2002** (RICA), which allows for the interception of private communications under certain conditions. The applicants argued that RICA, in its existing form, fails to provide adequate safeguards that protect the constitutional right to privacy, leading to unreasonable and unjustifiable infringements of this right ([1]–[5]).
+
+The High Court found RICA unconstitutional in several respects, specifically failing to ensure the independence of the designated judge who issues interception directions, lacking provisions for notifying individuals post-surveillance, and inadequately safeguarding the privacy of journalists and lawyers. As a temporary fix, the High Court read in provisions prescribing these safeguards and issued a declaration of invalidity, which was suspended for two years to allow Parliament time to amend the legislation ([13]–[15]).
+
+### I – Issues
+The core legal questions were:
+1. Whether RICA unreasonably and unjustifiably limited the right to privacy as enshrined in section 14 of the Constitution and if its provisions regarding surveillance were unconstitutional ([3]–[5]).
+2. The legality of bulk surveillance practices used by state agencies without adequate legal authorization.
+3. The legality of the High Court's reading-in provisions as interim relief and its implications for the legislative framework ([24]).
+
+### R – Rules
+The relevant constitutional provisions invoked included:
+- **Section 14**: Right to privacy, which includes the right to not have one's communications infringed ([2]).
+- **Section 36(1)**: Provides for the limitation of rights; any limitation must be reasonable and justifiable in an open and democratic society ([27]).
+- **Case Law**: The judgments considered historical precedents regarding privacy, surveillance, and the principles of constitutional interpretation, particularly the necessity and proportionality tests present in cases such as **Bernstein v Bester N.O.** and **Thint v National Director of Public Prosecutions** ([27], [29]).
+
+### A – Application
+The Court, led by Madlanga J with concurrence from other Justices, held that the provisions of RICA permitting surveillance without sufficient independent oversight contravened the right to privacy. The majority opinion elaborated that the existing legal framework allowed for intrusive surveillance that imposed undue burdens on individual rights without adequate justification, thus failing the test outlined in section 36 of the Constitution. Specifically, it lacked the necessary mechanisms to protect the confidentiality of communications, especially for sensitive categories such as lawyers and journalists ([3]–[123]).
+
+The Court also scrutinized the process for appointing the designated judge who authorizes interception directions, finding that the lack of a transparent and accountable mechanism undermined the independence essential for judicial authorizations ([56]).
+
+Additionally, the ruling affirmed that bulk surveillance was not adequately authorized under existing laws, thus concluding that such practices were unlawful and invalid ([126]–[134]).
+
+### C – Conclusion
+The Constitutional Court confirmed the High Court's declaration of unconstitutionality regarding various sections of RICA, granting specific interim measures to safeguard privacy rights until Parliament could amend the legislation within 36 months. The order also specified procedural safeguards and recognized the need for significant legislative amendments to ensure compliance with constitutional standards ([6], [157]).
+
+The implications of this ruling are profound. The ruling asserts the necessity of upholding privacy rights in a democratic society while emphasizing the need for transparent judicial oversight in matters impacting fundamental freedoms. The decision mandates urgent legislative reform to address the constitutional shortcomings in RICA and underscores the Court's role in protecting citizens' rights against state overreach ([13]–[156]).

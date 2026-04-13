@@ -1,0 +1,45 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: Airports Company South Africa v Big Five Duty Free (Pty) Limited and Others [2018] ZACC 33
+
+## F – Facts
+
+The dispute originates from a procurement process led by Airports Company South Africa (ACSA), which awarded a ten-year contract to Big Five Duty Free (Pty) Limited (First Respondent) for operating duty-free shops at its international airports ([paras 1-3]). The unsuccessful bidders, DFS Flemingo SA (Pty) Limited (Second Respondent) and Tourvest Holdings (Pty) Limited (Third Respondent), contested the contract award, leading to Flemingo’s application for judicial review of the tender award granted to Big Five. On 17 May 2012, the High Court (Phatudi J) declared the tender invalid and set aside the award ([paras 3-4]).
+
+Big Five appealed the Phatudi J order, but during the appeal, a settlement agreement was reached between Big Five and Flemingo, whereby Flemingo abandoned its review application and withdrew the challenge to the Phatudi J order. The Full Court subsequently made this settlement an order of court without providing reasons for the decision ([para 5-6]). However, ACSA subsequently announced that it did not recognize the Full Court order, asserting it remained bound by the original Phatudi J order and would initiate a new tender process ([paras 3, 5]).
+
+Big Five then sought confirmation from the High Court that ACSA was bound by the Full Court order. This application was dismissed, leading to an appeal at the Supreme Court of Appeal, which ruled in favor of Big Five stating that ACSA had to abide by the Full Court order ([paras 6, 10]). Following this outcome, ACSA sought leave to appeal to the Constitutional Court ([para 10]).
+
+## I – Issues
+
+The case raises several critical legal and constitutional questions ([para 12]):
+1. Whether a settlement agreement made between private parties can effectively set aside a judgment in rem without a court's assessment of the appeal’s merits.
+2. Whether ACSA is bound by the Full Court's order which, albeit derived from a settlement agreement, allegedly contradicts a prior in rem judgment made by Phatudi J.
+3. The implications of Section 217 of the Constitution regarding state procurement processes and the necessity for such processes to adhere to principles of fairness, equity, and transparency.
+
+## R – Rules
+
+The pertinent legal rules and precedents upon which the court relied include:
+1. **Judgments in Rem**: A judgment in rem, as established in previous case law (Tshabalala v Johannesburg City Council 1962 (4) SA 367 (T)), determines the legal status of a person or thing and is not merely subject to private settlement ([para 1]).
+2. **Eke v Parsons [2015] ZACC 30**: This case established that settlement agreements can only be made orders of court if they conform to constitutional and legal standards, underscoring that court approval is necessary when the agreement seeks to set aside an earlier judgment in rem ([paras 28-30]).
+3. **Public Procurement Principles**: Section 217 of the Constitution necessitates that state procurement processes must be fair, equitable, transparent, competitive, and cost-effective ([para 4]).
+4. **Objective Theory of Invalidity**: The court's stance on an objective approach to public power invalidity was underscored in Shoprite Checkers (Pty) Ltd v MEC for Economic Development, Eastern Cape [2015] ZACC 23 ([para 4]).
+
+## A – Application
+
+The majority judgment, delivered by Froneman J, emphasized that while the Full Court approved the settlement agreement, it failed to analyze the merits of the Phatudi J order. It concluded that for the Full Court’s order to stand, it should have involved a principled assessment of whether the agreement justified setting aside a judgment in rem, which it did not ([paras 18-22]). 
+
+The court then critically assessed the clauses of the settlement to determine whether they indeed had the effect of setting aside the Phatudi J order. Clauses stating withdrawal of the review application and abandonment of the order were interpreted in light of their legal implications, which did not suffice to set aside a prior ruling without judicial assessment. The Full Court's order was therefore deemed lacking as it did not demonstrate a competent and proper assessment of the legality of abandoning the judgment in rem ([paras 63-66]).
+
+Froneman J ultimately determined that although there was ambiguity in the language of the settlement agreement and its subsequent judicial endorsement, the mere act of settlement could not displace the legal standing of the pre-existing judgment ([paras 50-54]).
+
+Jafta J's concurrence focused on the more fundamental question of whether it was competent for the Full Court without a reasoned judgment to make a settlement agreement an order of court in light of existing constitutional mandates ([para 4]). Caching the necessity for judicial review, he argued that the settlement agreement's terms were inconsistent with constitutional requirements, particularly Section 217, rendering the Full Court's order unconstitutional and ineffective in overturning the Phatudi J judgment ([paras 6-10]).
+
+Conversely, Cachalia AJ dissented, positing that the Full Court correctly attributed intent to set aside the Phatudi J order, interpreting the procedural conduct and the emergent agreement as aligned with the legislative framework, thus sustaining the appeal ([para 34-36]).
+
+## C – Conclusion
+
+The Constitutional Court concluded by granting leave to appeal, upholding the Supreme Court of Appeal's decision, and restoring the High Court's dismissal of Big Five's application concerning ACSA's authority to maintain the original contract award ([para 72]). The decision reinforces the doctrine that judgment in rem cannot be overridden by mere settlements, and affirms the necessity for comprehensive court evaluations when resolving agreements with substantive legal impact, especially in public procurement contexts. Consequently, this judgment delineates the boundaries of private settlement agreements in the public law arena, emphasizing judicial oversight within state procurement processes to uphold constitutional integrity. 
+
+This case profoundly impacts how legal settlements involving public entities are structured and interpreted, enhancing accountability and transparency in state dealings and underpinning the rule of law as mandated by the Constitution of South Africa.

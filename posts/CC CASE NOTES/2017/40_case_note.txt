@@ -1,0 +1,47 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: State Information Technology Agency SOC Limited v Gijima Holdings (Pty) Limited [2017] ZACC 40
+
+## FIRAC Case Note
+
+### F – Facts 
+The applicant in this matter was the **State Information Technology Agency SOC Limited (SITA)**, an organ of state responsible for providing IT services to various State departments by contracting private service providers such as the respondent, **Gijima Holdings (Pty) Limited (Gijima)**. Their relationship was governed by a series of agreements, the most significant being the **DoD agreement** which was to last from **1 April 2012 to 31 July 2012**. This agreement was established following a settlement of an earlier dispute when SITA terminated a different contract with Gijima.
+
+The DoD agreement underwent several extensions, but the payment disputes arose in May 2013, leading Gijima to seek arbitration due to an outstanding payment of approximately **R9.5 million**. SITA contended that the agreement, along with its extensions, was invalid due to non-compliance with **section 217 of the Constitution**, which mandates a fair, equitable, transparent, and competitive procurement process ([paras 3–10]).
+
+SITA approached the High Court to set aside the DoD agreement and the associated addenda, but the High Court ruled that such decisions constituted administrative action per the **Promotion of Administrative Justice Act** (PAJA) and noted SITA’s failure to meet the 180-day limit for judicial reviews established by PAJA ([paras 10–11]).
+
+Subsequently, SITA appealed to the **Supreme Court of Appeal (SCA)**, asserting that PAJA did not apply when an organ of state sought to review its own decisions. The SCA dismissed the appeal, confirming that SITA's actions qualified as administrative actions under PAJA. In dissent, Bosielo JA argued that legality review could be an alternative avenue for SITA's claims ([paras 11–12]).
+
+### I – Issues 
+1. **Applicability of PAJA**: The primary issue before the Constitutional Court was whether SITA, an organ of state, could invoke PAJA to review its own administrative decisions regarding the award of the DoD contract ([para 1]).
+2. **Principle of Legality**: Alternatively, if PAJA did not apply, could SITA seek relief through the principle of legality, and what would the implications of such a decision entail ([paras 1–2])?
+3. **Impact of Delay**: Would the substantial delay in seeking to declare the DoD agreement invalid affect the merits of SITA's application? ([para 46]).
+
+### R – Rules 
+1. **Constitution of South Africa (1996)**:
+   - **Section 33**: Guarantees the right to lawful and procedurally fair administrative action and the right to be provided reasons for such actions, asserting that these rights are primarily for “everyone” whose rights have been adversely affected ([para 27]).
+   - **Section 217**: Requires a system of procurement that is fair, equitable, transparent, competitive, and cost-effective ([para 41]).
+  
+2. **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**: 
+   - **Section 6(1)**: Allows "any person" to institute judicial reviews of administrative actions.
+   - **Section 7(1)**: Poses a 180-day limitation for instituting reviews and outlines conditions under which courts may extend this period ([para 30]).
+
+3. **Principle of Legality**: Denotes that governmental actions must comply with the law and the Constitution itself, acting as an underpinning of the rule of law, as affirmed in South African jurisprudence ([para 39]).
+
+### A – Application 
+The Court started by examining whether PAJA applied to SITA’s circumstances. The majority opinion was that, given the constitutional mandate and design of PAJA, the right to administrative justice, particularly in section 33, does not extend to organs of state seeking to review their own decisions. Therefore, PAJA does not afford SITA the necessary legal framework to challenge its contractual decisions ([paras 27–30]).
+
+The Court recognized that providing a mechanism such as PAJA for state entities to review their own decisions could lead to a conflict of interests, raising questions about accountability and systemic integrity. Hence, SITA’s reliance on PAJA was found to be misplaced.
+
+In terms of legality review, the Court determined that SITA acted outside of its legitimate authority since the DoD agreement and its extensions did not adhere to the constitutional mandates of public procurement as stipulated in section 217. Thus, acknowledging that SITA did not follow a competitive bidding process, the Court concluded that SITA acted unlawfully and that the DoD agreement should be declared invalid ([paras 41–53]).
+
+Moreover, the delay by SITA in seeking relief played a significant role. The Court emphasized that a lengthy delay could undermine the legitimacy of the review process. They highlighted that SITA was inherently aware of the possible invalidity issues during the prior arbitration and failed to act promptly, exacerbating this situation. This history of assurances given by SITA to Gijima further complicated their case, as no adequate justification was provided for the inaction over nearly 22 months ([paras 43–46]).
+
+### C – Conclusion 
+The Constitutional Court held that SITA could not invoke PAJA to review its own decision and that the appropriate course was a legality review, leading to a declaration of the DoD agreement's invalidity. The judgment emphasized a strict adherence to the constitutional principles governing procurement and administrative actions, reflecting a robust commitment to accountability and legality within public governance.
+
+The Court ensured that the declaration of invalidity did not divest Gijima of any accrued rights from the contract, recognizing the importance of protecting the rights of private entities against state actions ([paras 54–56]). Additionally, SITA was ordered to bear the costs of the proceedings, acknowledging its significant role in the historical context of delay and unjust representations that affected Gijima directly ([paras 55–56]).
+
+In summary, this case underlines the delicate balance in ensuring governmental accountability while highlighting the need for adherence to lawful processes in public contract management, setting a critical precedent regarding the interpretation of administrative law principles in South Africa.

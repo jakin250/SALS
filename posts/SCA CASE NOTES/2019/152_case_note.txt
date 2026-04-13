@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Murray & Others NNO v African Global Holdings (Pty) Ltd & Others (306/2019) [2019] ZASCA 152 
+
+## FIRAC Method
+
+### F – Facts 
+
+This case revolves around the decision of the Supreme Court of Appeal regarding the voluntary winding-up of a group of companies known as African Global Holdings (Pty) Ltd. The group, formerly known as the Bosasa Group, had experienced significant reputational damage following revelations in the Zondo Commission hearings, leading two major banks (First National Bank and ABSA) to terminate their banking relationships with the Group ([paras 1–2]). 
+
+Faced with the urgency of their situation, the Group's directors resolved to place their companies, including its wholly-owned subsidiary African Global Operations (Pty) Ltd, in voluntary winding-up on February 12, 2019, with requisite documentation filed on February 14, 2019. The Deputy Master of the High Court in Pretoria appointed provisional liquidators on the same day ([para 3]). However, internal conflict arose as the directors of African Global Holdings later claimed that the voluntary winding-up process was defective and subsequently filed an urgent application in the High Court ([para 4]).
+
+The High Court ruled in favor of the directors on March 14, 2019, declaring the winding-up resolutions null and void and ordering the liquidators to cover the costs of the application in their personal capacities ([para 5]).
+
+### I – Issues 
+
+The core legal issues the Supreme Court was tasked with addressing included:
+
+1. **The validity of the voluntary winding-up process** initiated under section 351 of the Companies Act 61 of 1973, in light of its inconsistency with the provisions of the Companies Act 71 of 2008 regarding solvent companies ([paras 6–10]). 
+2. **The appointment jurisdiction of the liquidators**, with particular emphasis on whether the Deputy Master in Pretoria had the authority to appoint liquidators for companies registered in Johannesburg ([paras 11–19]).
+3. **Subclass consideration of the companies' solvency**, specifically whether the companies could be classified as solvent under the definition provided in relevant case law ([paras 20–34]).
+
+### R – Rules 
+
+The Court relied on the following legal provisions and precedents:
+
+1. **Companies Act 61 of 1973** and **Companies Act 71 of 2008**: Section 351 of the 1973 Act allows for voluntary winding-up, while sections 79 and 80 of the 2008 Act govern the winding-up of solvent companies. The interplay between these statutes was crucial in determining the compliance and legality of the resolutions ([para 6]).
+   
+2. **Definition of Commercial Solvency**: The Court's analysis was informed by precedents such as *Boschpoort Ondernemings (Pty) Ltd v ABSA Bank Ltd* [2013] ZASCA 173 which clarified that a company is deemed solvent not solely based on the balance of its assets and liabilities, but also on its ability to meet current liabilities in the ordinary course of business ([paras 23–24]).
+
+3. **Jurisdiction under the Administration of Estates Act 66 of 1965**: The jurisdictional authority of the Deputy Master in appointing liquidators from Pretoria was examined in light of the area of registration of the companies ([paras 12–19]).
+
+### A – Application
+
+The Supreme Court carefully examined the issues raised. 
+
+1. **Winding-Up Procedure**: The Court held that while the resolutions for winding-up were executed under the 1973 Act, the legality hinged on whether the companies were solvent. Given that the Act permits winding-up of solvent companies only if it is under the 2008 Act, it was critical to establish the companies' financial status ([para 34]).
+
+2. **Solvency Determination**: The Court found that the Group was commercially insolvent despite claims of solvency made by Mr. Gumede, one of the directors. Evidence suggested that the Group was unable to pay debts and faced significant liabilities that were not adequately addressed in the application. Observations noted that the companies had not provided sufficient or credible evidence substantiating their claims of financial health ([paras 20–34]).
+
+3. **Liquidation Appointment Validity**: The Court determined that the Deputy Master’s appointment of the liquidators was valid under section 2(1)(a)(ii) of the Administration of Estates Act, given the concurrent jurisdiction between the Masters in Pretoria and Johannesburg. This aspect was critical in upholding the liquidators’ authority despite Holdings' claims ([paras 11–19]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal concluded that the companies were commercially insolvent at the time of their voluntary winding-up, thereby negating Holdings' claims against the validity of the resolutions passed. Consequently, the appeal was upheld, reversing the High Court's decision, which had incorrectly accepted the claims of solvency ([para 34]). 
+
+The liquidators’ appointments were reaffirmed, and the court held that personal costs orders against the liquidators lacked justification. The court emphasized that liquidators should generally not be held personally liable for costs unless there is evidence of impropriety, which was absent in this case ([paras 45–46]). 
+
+The judgment thus not only secured the integrity of the winding-up process but also clarified important aspects of corporate insolvency law, reinforcing the necessary scrutiny concerning the claims of solvency in winding-up proceedings, ultimately asserting the necessity of financial transparency in corporate governance.
+
+This case highlights critical elements of corporate law, the intersection between different statutes governing companies, and underlines the judiciary's role in upholding legal obligations amid corporate crises. 
+
+--- 
+
+**References**  
+- *Murray & Others NNO v African Global Holdings (Pty) Ltd and Others* (306/2019) [2019] ZASCA 152.  
+- *Boschpoort Ondernemings (Pty) Ltd v ABSA Bank Ltd* [2013] ZASCA 173.  
+- Companies Act 61 of 1973.  
+- Companies Act 71 of 2008.  
+- Administration of Estates Act 66 of 1965.  

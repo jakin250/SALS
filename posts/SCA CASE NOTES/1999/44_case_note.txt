@@ -1,0 +1,35 @@
+Case Note: REPORTABLE
+Source Folder: 1999
+
+### FIRAC Case Note: *Belfry Marine Limited v. Palm Base Maritime SDN BHD* (1999)
+
+**F – Facts**
+In the case of *Belfry Marine Limited v. Palm Base Maritime SDN BHD* [1]-[2], the appellant, Belfry Marine Limited ("Belfry"), and the respondent, Palm Base Maritime SDN BHD ("Palm Base"), were involved in a maritime dispute concerning the arrest of the vessel MV "Heavy Metal." The claim arose from a breach of contract related to the sale of another vessel, MV "Sea Sonnet," which was sold by Dahlia Maritime Limited ("Dahlia"), a company also incorporated in Cyprus. Palm Base sought the arrest of the Heavy Metal as an "associated ship" to secure its claim for damages amounting to approximately $2.7 million, which was the result of alleged contractual breaches by Dahlia. Both vessels were owned by companies with shares controlled by Emilios Lemonaris, who was a nominee director and shareholder for various entities involved in the shipping sector [3]-[5].
+
+The court a quo, led by Thring J, found that the Heavy Metal was an associated ship of the Sea Sonnet, permitting Palm Base to arrest it based on sections 3(6) and 3(7) of the Admiralty Jurisdiction Regulation Act 105 of 1983 ("the Act") [30]. The respondent's position rested on the claim that Lemonaris controlled the companies which owned both vessels, a determination that became contentious during proceedings due to the complexities involving nominee shareholders, beneficial owners, and assertions of control [10][11].
+
+**I – Issues**
+The Supreme Court of Appeal identified several key issues necessary for adjudication ([23]-[24]):
+1. Whether a claimant must have a presently enforceable claim against the guilty ship to utilize the associated ship provisions.
+2. The timing of the claim's emergence in relation to the ownership of the Sea Sonnet.
+3. Whether Lemonaris or another individual had the relevant control over the companies owning the vessels.
+4. Whether the deeming provision under section 3(7)(b)(ii) of the Act creates an irrebuttable presumption of control.
+
+**R – Rules**
+The court's interpretation hinged upon statutory provisions and legal precedents concerning the control of companies under South African law:
+- **Section 3(6)** and **Section 3(7)** of the Admiralty Act stipulate that an associated ship is one that is owned by a person controlling the company that owned the "guilty ship" at the time of the maritime claim's origin [21]-[22].
+- Control can be defined by a "direct" or "indirect" basis. Section 3(7)(b)(ii) states that "a person shall be deemed to control a company" if they have power, directly or indirectly, to do so [10]-[11].
+- The case *Dole Fresh Fruit International Ltd v. MV Kapetan Leonidas* 1995 (3) SA 112 (A) reinforces that one can control a company without a majority shareholding [4]-[5].
+- The plurality of control was discussed in *Barclays Bank Ltd v. Inland Revenue Commissioners* [1961] AC 509 (HL), which revealed nuances in understanding "control" in corporate structures.
+
+**A – Application**
+The court applied these rules to the facts presented, particularly focusing on Lemonaris' role and the legitimacy of claims regarding control:
+1. It affirmed the position of the court a quo that Palm Base did not require an immediate enforceable claim against the Sea Sonnet to arrest the Heavy Metal, given the provisions allowing for alternative claims against associated ships ([24]–[31]).
+2. The court concurred with the judge below that the claim arose when there was a failure to notify regarding defects in the Sea Sonnet, solidifying its connection to the breach despite ownership changes ([30]-[31]).
+3. On the issue of control, the court scrutinized the affidavits from both sides. It opined that the mere existence of Lemonaris as a nominee shareholder does not negate his capacity to control the companies holding the relevant shares. Evidence pointed toward a circumstantial matrix of control that argued Lemonaris was indeed compliant with directions from beneficial owners, thus not absolving the presumption of control ([57]-[58]).
+4. The court also engaged with the interpretation of "deeming provisions." It suggested the legislative intent was to ensure that companies could not obscure true ownership behind nominee structures, thereby allowing credible evidence of control irrespective of the façade established by share structures ([10]-[11]).
+
+**C – Conclusion**
+Ultimately, the Supreme Court of Appeal dismissed the appeal. It upheld that Palm Base established the requisite statutory nexus to assert the Heavy Metal as an associated ship to the Sea Sonnet due to Lemonaris' direct control and subsequent legal presumptions arising from the associated ship provisions. The court concluded that allowing the arrest was congruent with the Act's purpose to protect maritime creditors while arguing against notional ownership and towards the factual control of the entities in question ([23]-[24][80]-[81]).
+
+While the outcome may appear adverse to the interests of the appellant, the real implication of the ruling emphasizes the importance of transparency in ship ownership and management within maritime law, potentially shaping future legal interpretations of control in corporate structures and maritime claims in South Africa.

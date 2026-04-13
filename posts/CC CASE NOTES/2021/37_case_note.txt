@@ -1,0 +1,56 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2021
+
+### FIRAC Case Note
+
+#### Case Title: 
+Residents of Industry House, 5 Davies Street, Johannesburg and Others v Minister of Police and Others [2021] ZACC 37
+
+---
+
+### F – Facts:
+The case arises from a series of warrantless searches conducted on 11 properties in the Johannesburg inner city, affecting approximately 2,852 residents, described as poor and vulnerable individuals ([1]–[4]). The searches were conducted by members of the South African Police Service (SAPS), assisted by the Johannesburg Metropolitan Police Department and officials from the Department of Home Affairs, between June 2017 and May 2018. The searches, conducted under section 13(7) of the South African Police Service Act 68 of 1995 (SAPS Act), were aimed at apprehending undocumented immigrants, but resulted in significant psychological and property damage to the applicants ([5]–[18]).
+
+The applicants claimed that the raids were intrusive and degrading, with police employing excessive force and causing significant disorder in their lives. They ultimately sought a declaration of invalidity of section 13(7) of the SAPS Act, arguing that it violated their rights to dignity and privacy as guaranteed under the South African Constitution ([19]).
+
+The High Court found section 13(7)(c) to be unconstitutional as it allowed warrantless searches that violated the right to privacy but upheld paragraphs (a) and (b) of the same section, contending they served legitimate purposes related to public safety ([20]–[22]). The High Court's ruling was appealed to the Constitutional Court for confirming the invalidity of section 13(7)(c) and addressing the entirety of section 13(7).
+
+---
+
+### I – Issues:
+1. Is section 13(7) of the SAPS Act, which includes provisions for warrantless searches, unconstitutional ([29][20])?
+2. If found unconstitutional, should the declaration of invalidity be retrospective or prospective ([77])?
+3. Should there be an interim reading-in to mitigate the effects of severing portions of section 13(7) ([30])?
+4. Was the High Court's refusal to grant a final interdict appropriate ([29][80])?
+5. Did the High Court err in dismissing the claim for constitutional damages ([89])?
+
+---
+
+### R – Rules:
+- **Right to Privacy:** Section 14 of the South African Constitution guarantees the right of every individual to privacy, which includes protection against searches of persons and homes ([38]).
+- **Limitations Analysis:** Section 36 of the Constitution allows for the limitation of rights only if the limitation is reasonable and justifiable in an open and democratic society based on human dignity, equality, and freedom ([37]).
+- **Constitutional Damages:** In Fose v Minister of Safety and Security, the Constitutional Court established that constitutional damages can serve as appropriate relief for the violation of constitutional rights ([32][92]).
+- **Procedural Safeguards:** The Criminal Procedure Act provides a framework for lawful search and seizure operations, requiring reasonable suspicion and warrants, which starkly contrasts with the unfettered discretion granted under section 13(7)(c) ([60]).
+
+---
+
+### A – Application:
+The Court found that section 13(7)(c) permits warrantless searches that infringe upon individuals' most private spaces without sufficient constraints, thus failing the limitation analysis set forth in section 36 of the Constitution. The overreach of authority, as demonstrated by the previous unauthorized searches, exemplified a greater societal issue regarding vulnerability and respect for human dignity ([22][39]–[40]). 
+
+The Constitutional Court upheld the High Court's declaration of invalidity of section 13(7)(c) while severing it to impose a reading-in that would regulate searches to ensure compliance with sections 21 and 22 of the Criminal Procedure Act ([73]). The majority also discussed the social implications, emphasizing that systemic violations of rights echoed broader concerns about governance, especially towards marginalized communities ([123]).
+
+On the issue of constitutional damages, the Court concurred with the High Court's dismissal of the application, asserting that the available alternative remedies—namely, delictual claims—sufficiently address the violations without overburdening the state ([121]) and that punitive or constitutional damages would not rectify public liability merely benefitting individual subjects ([128]).
+
+---
+
+### C – Conclusion:
+The Constitutional Court confirmed the High Court's declaration of invalidity of section 13(7)(c) of the SAPS Act, finding it unconstitutional due to its allowance of warrantless searches which violate the right to privacy. The Court imposed a reading-in to mitigate the void left by severing the unconstitutional provisions ([126]). The appeals surrounding the interdict for the seventh and eleventh applicants were upheld whereas the claims for constitutional damages were dismissed based on the adequacy of existing delictual remedies ([88][221]). 
+
+This judgment underscores for the protection of vulnerable communities from state abuses, ensuring that legislative frameworks uphold human dignity and preserve constitutional rights while balancing state interests in maintaining public order. 
+
+---
+
+#### References
+- **Constitution of the Republic of South Africa, 1996.**
+- **Fose v Minister of Safety and Security [1997] ZACC 6.**
+- **Residents of Industry House v Minister of Police [2021] ZACC 37.**

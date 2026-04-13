@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note - Richard Du Plessis Barry v Clearwater Estates NPC & Others [2017] ZASCA 11
+
+### F - Facts
+
+In the matter before the Supreme Court of Appeal of South Africa, Richard Du Plessis Barry, as a director of Clearwater Estates NPC (the first respondent), initiated proceedings in the Gauteng Division of the High Court, Pretoria. He sought an order declaring the resolutions and business transacted at a special general meeting held on 27 September 2014 as unlawful and void ([1]).
+
+The second respondent, Kevin Olivier, is the Chairperson of the Board of Clearwater Estates, while the third respondent, the Commissioner of the Companies and Intellectual Property Commission, was included for potential rectification of the register concerning the first respondent ([2]). The special general meeting addressed critical internal governance matters, including a proposed increase in monthly levy payments for residents. The proposed increase, from R451.50 to R724, was deemed necessary for Clearwater to meet its obligations and financial commitments ([3], [7]).
+
+The dispute arose over the validity of shareholder proxies submitted on the day of the meeting, which were claimed to contravene articles 13.7.10 and 13.7.11 of Clearwater's Memorandum of Incorporation (MOI). These articles mandated that proxies be submitted 48 hours prior to the meeting; therefore, the proxies submitted on the meeting day were deemed invalid ([4], [5]). The board moved to condone these late submissions, which passed by majority vote, allowing the contested resolutions—including the levy increase—to be considered and eventually passed ([5]).
+
+Barry contended that the meeting lacked the requisite quorum as mandated by article 13.3.2 of the MOI, and thus the special resolutions were improperly passed ([5], [8]). Conversely, Clearwater Estates argued that the articles about proxy submission times were inconsistent with section 58(1) of the Companies Act 71 of 2008 and therefore void as stipulated in section 15(1) of the Act ([6], [8]).
+
+The High Court ruled that the provisions of the MOI were inconsistent with section 58(1) of the Act, affirming that the proxies submitted at the meeting were valid, which led the case to be appealed ([8]).
+
+### I - Issues
+
+The key legal issues in this case include:
+
+1. Whether the proxies submitted on the meeting day were valid under the provisions of the Companies Act, given the articles of the MOI setting a 48-hour notice requirement for proxy submissions ([4], [8]).
+2. Whether the articles of Clearwater Estates' MOI were inconsistent with section 58(1) of the Companies Act, which allows for proxies to be appointed at any time ([6], [8]).
+3. The implications of the distinction between the appointment of a proxy and the exercise of a proxy, as set forth in sections 58(1) and 58(3)(c) of the Act ([14], [15]).
+
+### R - Rules
+
+The legal framework central to the case includes:
+
+1. **Companies Act 71 of 2008**:
+   - **Section 58(1)**: Grants shareholders a right to appoint a proxy ‘at any time’.
+   - **Section 58(3)(c)**: Requires that proxies must be delivered to the company before exercising rights at a meeting ([9]).
+   - **Section 15(1)**: Asserts that company articles contradictory to the Act are void ([12]).
+
+2. **Articles of Clearwater Estates' MOI**:
+   - **Article 13.7.10**: Stipulates that proxies must be deposited no less than 48 hours before the designated meeting ([10]).
+   - **Article 13.7.11**: States that proxies not submitted timely shall not be valid ([10]).
+
+### A - Application
+
+The court's analysis hinged on the interpretation of section 58 of the Companies Act, particularly distinguishing between unalterable and alterable provisions as outlined in paragraphs [11] and [12]. The court concluded the right of a shareholder to appoint a proxy at any time (section 58(1)) is an unalterable provision that could not be modified by the MOI ([13]).
+
+The court noted that while section 58(3)(c) permits the MOI to stipulate conditions regarding the delivery of proxy instruments, it does not extend to restricting the time of appointment itself ([14], [15]). The argument from the appellant suggested that the distinction between appointment and exercise justified the MOI's provisions, which the court found was an artificial distinction. The court emphasized that the purpose of the proxy appointment was to enable participation in the meeting; therefore, any barriers to its effective execution rendered the appointment void ([16], [17]).
+
+In contrast, the respondent argued that the provisions within the MOI directly conflicted with the key protection provided to shareholders in sections 58 and 15 of the Act, asserting the articles' time constraints undermined shareholders' rights to participate in meetings ([15]). Ultimately, the court aligned with this interpretation, concluding that the time limitation imposed by the MOI was void, reinforcing the right to appoint proxies on short notice as mandated by the Act ([23]).
+
+### C - Conclusion
+
+The Supreme Court of Appeal upheld the High Court's determination that the articles of Clearwater Estates NPC were inconsistent with the provisions of the Companies Act, ruling them void under section 15(1). As a result, the proxies submitted—albeit late—were considered valid, allowing the contested resolutions to stand ([23]).
+
+The implications of this decision highlight the precedence of statutory provisions over company articles, particularly in interpreting shareholder rights. This ruling elucidates the fluidity of proxy appointments in corporate governance, emphasizing the legislative intent to facilitate shareholder participation without undue restrictions. Consequently, corporate entities may need to reassess their internal governance frameworks to ensure compliance with statutory mandates, safeguarding shareholders' rights to representation and participation in decision-making processes. The appeal was dismissed with costs, underscoring the court's support for legislative integrity and shareholder rights ([24]).

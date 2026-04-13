@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+### FIRAC Case Note: **Cape Empowerment Trust Ltd v Fisher Hoffman Sithole (200/11) [2013] ZASCA 16**
+
+#### F – Facts
+The case centers on the appeal of Cape Empowerment Trust Limited (CET), a black economic empowerment entity listed on the Johannesburg Stock Exchange, against Fisher Hoffman Sithole (FHS), a partnership of auditors. CET claimed delictual damages amounting to just under R17 million due to an alleged negligent misstatement by a partner at FHS, Mr. Justin Nield, which purportedly induced CET to enter into a disadvantageous business transaction ([1]).
+
+The proceedings began in the Western Cape High Court where CET sought a separation of issues under Rule 33(4), and the court approved this, determining initially only the liability of FHS. The court ruled partially in favor of CET on 28 January 2005, establishing that FHS would be liable for 70% of the damages should legal causation be proven subsequently ([2]). However, in the subsequent judgment delivered by Davis J on 2 March 2010, CET’s claim was dismissed for failing to prove any actual loss as a result of the misstatement ([3]).
+
+CET had entered a sale agreement in August 1999, purchasing a business from Paradigm Interactive Media Ltd. During negotiations, assurances regarding the business’s profitability were made, which were later shown to be unfounded, based largely on a falsified debt owed to CET by a third party ([4], [5], [6]). The contract had specific suspensive conditions, including the need for shareholder approval, which was only achieved after the due date, ultimately leading to the agreement lapsing ([7]). Despite this, CET entered a settlement agreement in July 2000, reinstating the contracts retrospectively to obtain certain financial benefits ([15]).
+
+#### I – Issues
+The legal issues presented in this case include:
+1. Whether CET established the requisite element of legal causation in its claim against FHS ([34]).
+2. Whether CET suffered any actual damages attributable to the misstatement ([34]).
+3. The applicability of the principles surrounding negligent misstatements and the conditions under which liability may be imposed, specifically concerning FHS's actions ([21], [22]).
+
+#### R – Rules
+The court assessed the matter under the principles of delictual liability, particularly the **Aquilian action**, which requires establishing the elements of wrongfulness, fault (negligence), and causation. 
+
+- **Fault** (negligence) was partially established, as Nield's conduct was characterized as grossly negligent, given that he issued a profit certificate despite serious doubts raised by another partner about the information used ([9], [20]).
+
+- **Legal causation** involves determining whether the losses claimed arose from the negligent conduct, requiring considerations of legal policy and whether it is reasonable to impose liability ([34].
+
+- **Wrongfulness** in cases of pure economic loss is not presumed and must demonstrate that it would be reasonable to impose liability. It is affected by policy considerations (see *Telematrix (Pty) Ltd v Advertising Standards Authority of SA* 2006 (1) SA 461 (SCA) and *Axiam Holdings Ltd v Deloitte & Touche* 2006 (1) SA 237 (SCA)) ([21], [22]).
+
+#### A – Application
+The court analyzed the liability stemming from Nield's misstatement. While gross negligence was affirmed, the court questioned the imposition of liability given CET's conduct. **Binns-Ward AJ** posited that despite the presence of gross negligence, the element of wrongfulness must also be satisfied, referencing whether FHS should bear liability as a matter of policy ([22], [25]).
+
+In applying these principles, the court found that CET had encumbered itself with significant legal complexities that shielded them from any adverse effects of Nield’s misstatement, such as express warranties in the sales agreement guaranteeing profitability and allowing for the completion of a due diligence investigation ([29], [30]). This entails that CET's loss, rooted in its failure to adhere to contract stipulations, originated from its own conduct in allowing the agreement to lapse, thus mitigating FHS's liability ([34],[37]).
+
+Furthermore, the court noted that the profit reported in CET's financial statements contradicted the claim of loss, supporting Davis J's judgment that any wasted expenses claimed might have been offset by perceived profits from the same transaction ([18]). 
+
+#### C – Conclusion
+The Supreme Court of Appeal ultimately dismissed CET’s appeal and upheld FHS’s cross-appeal, leading to a dismissal of CET’s claim with costs, including those related to two counsel ([40]). The court’s ruling underscored the necessity of aligning the principles of liability with public and legal policy considerations, particularly in cases of negligent misstatements. The judgment illustrated the complexities of establishing causation and wrongfulness, especially when defendant’s conduct must be evaluated alongside the plaintiff’s responses to alleged negligent acts. The outcome emphasizes the importance of fulfilling contractual obligations and the repercussions of failing to act upon available protective measures, thus reflecting broader implications for corporate governance and accountability in similar contexts. 
+
+This case sets a precedent in emphasizing the thresholds required for claiming damages in instances of economic loss and negligent misrepresentation, while clarifying the obligations that entities must fulfill in contractual scenarios.

@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: The Body Corporate of Marsh Rose v Steinmuller and Others (149/2022) [2023] ZASCA 143
+
+## F – Facts
+This case arose from a dispute surrounding a property transaction involving a unit within a sectional title scheme, specifically the Marsh Rose complex ([paras 1–3]). On January 30, 2018, Arno Steinmuller purchased unit 24 of the Marsh Rose scheme at a sale in execution conducted by the Sheriff of Halfway House, following a judgment obtained by the Standard Bank of South Africa against the previous owner of the unit ([paras 3–4]). At the time of sale, the Body Corporate of Marsh Rose had a judgment debt against the previous owner amounting to R43,380.09 that was still outstanding ([para 3]).
+
+Following the purchase, the Body Corporate provided Steinmuller with clearance figures amounting to R312,903.21 for various charges, including levies and legal fees, which needed to be settled before a clearance certificate could be issued—a requirement under the Sectional Titles Act 95 of 1986 ([paras 4–5]). Steinmuller contested these charges, demanding documentation and objecting to payments beyond levies, leading to his eventual application to the Gauteng Division of the High Court for an order compelling the Body Corporate to issue the clearance certificate ([paras 6–7]).
+
+The High Court initially granted Steinmuller’s application, stating he could proceed with the transfer provided he paid R250,000 into his attorney’s trust account as security against any claims by the Body Corporate ([para 7]). The Body Corporate appealed this decision, which was subsequently dismissed by the Full Court ([paras 8–9]).
+
+## I – Issues
+This appeal raised several crucial legal questions regarding the interpretation of the Sectional Titles Act and the rights of the parties involved:
+
+1. **Interpretation of the embargo provision:** Is the Body Corporate entitled to refuse to issue a clearance certificate based solely on the amounts alleged to be due, including judgment debts against a previous owner? ([paras 1, 16]).
+2. **Rights of the purchaser:** Does the statutory right of the Body Corporate override the contractual obligations of the sheriff and the purchaser, specifically regarding obligations under the sale in execution? ([paras 23–24, 26]).
+3. **Nature of the intervention:** Does the National Association of Managing Agents have an adequate direct and substantial interest to intervene in the appeal? ([paras 9–12]).
+
+## R – Rules
+The determination of these issues hinged primarily on the interpretation of section 15B(3)(a)(i)(aa) of the Sectional Titles Act 95 of 1986, which stipulates that a registrar of deeds shall not register a transfer without confirmation from the Body Corporate that all amounts due have been paid or satisfactory arrangements made ([para 1]). Precedents such as *Willow Waters Homeowners Association (Pty) Ltd v Koka NO and Others* ([paras 18]) further clarify the intended protective scope of such embargo provisions for bodies corporate to recover outstanding debts without resorting to litigation.
+
+In addressing the matter of intervention, the Constitutional Court has articulated the "direct and substantial interest" test for parties wishing to intervene: An applicant must demonstrate a legal interest in the case which could be adversely affected by the court's decision ([paras 11–12]). 
+
+## A – Application
+The court interpreted section 15B in light of its purpose—to ensure that bodies corporate can effectively recover amounts owed by unit owners. The Justices acknowledged that while the Body Corporate is not party to the sale agreement between Steinmuller and the sheriff, it retains a statutory right to enforce clearance requirements prior to transfer ([para 26]). Consequently, obligations that arise under a sale in execution do not diminish a Body Corporate’s statutory rights, ensuring that the requirements for securing payment of outstanding levies are robustly maintained.
+
+The decision of the High Court to order the Body Corporate to facilitate the transfer was deemed erroneous; it conflated the responsibilities between the sheriff and the Body Corporate concerning ownership and transfer rights ([para 32]). The court reaffirmed that Steinmuller could not compel the Body Corporate to issue a clearance certificate as long as amounts remained outstanding. Furthermore, the Body Corporate’s rights to refuse clearance issuance were not undermined by the conditions laid out in the sale agreement.
+
+Regarding the intervention application from NAMA, the court found that their interest as a representative body for property managing agents was sufficiently valid. This part of the judgment recognized the implications that the outcome of the appeal would have on the broader community, addressing how bodies corporate function in handling debts attached to properties within their schemes ([paras 12–14]).
+
+## C – Conclusion
+The Supreme Court of Appeal ultimately upheld the appeal by the Body Corporate, emphasizing that the statutory rights embodied within section 15B allow for stringent requirements to be enforced regarding the payment of levies before the issuance of a clearance certificate ([para 38]). The Full Court's decision was set aside, and the Body Corporate was not mandated to provide clearance for transfer until full payment or satisfactory arrangements were established. 
+
+The judgment highlighted both the need for clarity in statutory provisions governing sectional titles and the maintained integrity of bodies corporate in managing common interests, as well as validating the role of interventions from organizations dedicated to supporting property management. The implications of this decision reaffirm the legal standing of bodies corporate in executing their financial rights against unit owners, particularly during transactions resulting from sales in execution. This case is significant for property law, particularly within the context of sectional titles, as it redefines creditor rights and owner obligations in property management schemes.

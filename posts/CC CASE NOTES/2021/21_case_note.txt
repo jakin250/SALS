@@ -1,0 +1,49 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Minister of Water and Sanitation v Sembcorp Siza Water (Pty) Ltd and Another [2021] ZACC 21 
+
+## FIRAC Methodology
+
+### F – Facts
+This case arose from a dispute about the tariff imposed by Umgeni Water (Umgeni) on Sembcorp Siza Water (Siza) for the bulk supply of potable water. The Minister of Water and Sanitation (Minister) approved a 37.9% tariff increase on Siza while imposing only a 7.8% increase on other bulk customers, which were predominantly municipalities ([1]–[3]). Umgeni, established under the Water Services Act No 108 of 1997, provides bulk water services and initially had similar tariff increases for all customers until a differentiation was adopted in 2014 due to financial pressures and drought conditions ([8]–[9]).
+
+Siza challenged this tariff increase in the High Court of South Africa, claiming it was irrational and discriminatory as it subjected Siza, a private entity, to a higher rate compared to municipalities. The High Court ruled in favor of Siza, declaring the decisions by Umgeni and the Minister irrational and unfairly discriminatory ([11]–[16]). Umgeni and the Minister subsequently appealed to the Supreme Court of Appeal (SCA), which agreed that the decisions were indeed administrative actions reviewable under the Promotion of Administrative Justice Act (PAJA) and emphasized the necessity of rationality in administrative decisions ([17]–[21]).
+
+The case culminated in an appeal to the Constitutional Court, where the focal issues were the legality of the Minister’s decision, the rationality of the tariff increase, and whether the Minister had the authority to approve such tariffs ([32]).
+
+### I – Issues
+The significant legal questions in this case included:
+
+1. Was Umgeni's decision to impose a 37.9% tariff on Siza irrational?
+2. Did this decision amount to unfair discrimination against Siza compared to other water service providers?
+3. Was the Minister’s decision to approve Umgeni's tariff legally valid given the provisions of the Water Services Act and Local Government Finance Management Act? ([32])
+
+### R – Rules
+The Constitutional Court relied on several legal principles:
+
+1. **Water Services Act**: This act empowers water boards like Umgeni to set and enforce tariffs, but it does not explicitly grant the Minister the power to approve such tariffs ([10]).
+2. **Promotion of Administrative Justice Act (PAJA)**: Decisions that affect rights or interests are subject to PAJA scrutiny to ensure they are rationally connected to their purpose and are lawfully made, particularly focusing on the principles of legality and fairness ([13]–[14]).
+3. **Judicial Review Standards**: The case emphasized the need for decisions to meet a rationality standard as established in precedents like *Pharmaceutical Manufacturers Association* and *Democratic Alliance*, which mandate that administrative actions must be rationally connected to their purposes and follow a rational procedure ([13]–[14]).
+
+### A – Application
+The Constitutional Court reviewed how the decisions of Umgeni and the Minister aligned with the rules and principles established by law. 
+
+1. **Rationality of the Tariff Increase**: The Court determined that Umgeni did indeed have the statutory authority to set the tariff for Siza at 41.4%, which was intended to eliminate cross-subsidization afforded to Siza as a private entity. However, the disparity in tariff increases compared to municipal clients raised questions about whether this differentiation was rational. The Court found that the reasons for charging Siza more did not sufficiently justify the disparity and that this led to an irrational and discriminatory outcome ([62]–[66]).
+   
+2. **Minister's Authority**: Concerning the Minister's role, the Court highlighted the lack of express powers within the Water Services Act and argued that while the Minister could set norms and standards for water services, these did not extend to approving tariff increases. Therefore, the Minister's decision to approve a reduced tariff from Umgeni was unlawful, rendering her administrative action invalid and contrary to the principles of legality ([76]–[82]).
+
+### C – Conclusion
+The Constitutional Court ultimately dismissed the Minister's appeal while upholding Umgeni's authority to set tariffs. However, the Minister's approval was deemed unlawful due to a lack of statutory basis. The Court held that the decisions should have been considered separate, distinguishing between Umgeni’s legitimate tariff-setting power and the Minister’s erroneous approval, which did not conform to legal standards ([91]–[92]). 
+
+### Implications
+The judgment underscores the importance of maintaining clear legal frameworks with respect to authority in administrative decision-making, particularly in public service entities such as those involved in water supply. The case affirms that differentiation in treatment among consumers must be substantiated by rational grounds and that administrative actions are subject to judicial review to ensure compliance with fundamental legal principles.
+
+### Bibliography
+- Water Services Act No 108 of 1997.
+- Local Government Finance Management Act No 56 of 2003.
+- Promotion of Administrative Justice Act No 3 of 2000.
+- *Pharmaceutical Manufacturers Association of South Africa: In re Ex parte President of the Republic of South Africa* [2000] ZACC 1; 2000 (2) SA 674 (CC); 2000 (3) BCLR 241 (CC).
+- *Democratic Alliance v President of South Africa* [2012] ZACC 24; 2013 (1) SA 248 (CC). 
+
+This analysis, adhering to the FIRAC method, emphasizes critical components of the ruling and its wider relevance concerning administrative law and public governance in South Africa.

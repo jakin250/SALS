@@ -1,0 +1,64 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2010
+
+# FIRAC Case Note: Rossouw v First Rand Bank Ltd (640/09)
+
+**Case Reference**: Rossouw v First Rand Bank Ltd (640/09) [2010] ZASCA 130 (30 September 2010)  
+**Court**: Supreme Court of Appeal of South Africa  
+**Coram**: Mpati P, Navsa, Cloete, Maya JJA et Ebrahim AJA  
+**Heard**: 07 September 2010  
+**Delivered**: 30 September 2010  
+
+---
+
+### Facts ([1–9])
+
+The appellants, Benjamin and Sandra Wilson-Rossouw, entered into a loan agreement with First Rand Bank, a registered credit provider under the National Credit Act 34 of 2005 (NCA) ([2]). This loan, amounting to R1,030,000, was secured by a mortgage bond over their property, valued at R1,800,000. The mortgage stipulated that should the appellants default on payments, the bank had the right to demand full payment and seek the execution of the mortgaged property ([3]).
+
+In September 2008, the appellants fell into arrears. The bank issued a notice under section 129(1)(a) of the NCA informing them of the default. The appellants underwent debt counselling and proposed a debt restructuring plan, which they later abandoned ([4]). By March 2009, they had made a partial payment of R20,450, which did not meet their obligations ([5]). 
+
+In April 2009, the bank served another notice under section 129(1)(a) and proceeded to issue summons claiming R1,117,180.65 and an order for the property’s execution ([5]).
+
+The appellants responded by contesting the bank’s claims on three key grounds: the applicability of section 130(2) (asserting it prevented the bank from claiming a shortfall), the alleged non-receipt of the statutory notices, and the incorrect calculation of the arrears ([6]). These defenses were rejected, leading to the bank being granted summary judgment in the lower court ([9]).
+
+---
+
+### Issues ([10–10])
+
+The primary legal issues for appeal were:
+1. Whether the court could grant summary judgment, given that a mortgage agreement does not fall within the purview of section 130(2) of the NCA ([10a]).
+2. Whether the bank complied with the notice requirements under sections 129(1) and 130(1) of the NCA ([10b]).
+3. Whether the appellants had adequately asserted a defense sufficient to contest the application for summary judgment ([10c]).
+
+Furthermore, an application to admit further evidence regarding notice delivery also arose ([11]).
+
+---
+
+### Rules ([15–16, 21–28])
+
+The key legal provisions in question included:
+- **National Credit Act 34 of 2005**: Particularly sections 129(1) and 130, which regulate notice requirements and procedures for enforcing credit agreements.
+  
+  Section 130(1) permits a credit provider to approach the court for enforcement of a credit agreement if certain conditions are met, including that the consumer has been in default for at least 20 business days ([15]). Section 130(2) identifies limitations on claims related to shortfalls in certain types of credit agreements, notably excluding mortgage agreements from its scope ([16]).
+
+- **Legal Presumptions Regarding Notice**: The court relied on the established interpretation that 'delivery' of a document occurs upon sending to the address specified in the agreement, as inferred from section 65 of the NCA and related regulations ([21–23]).
+
+- **Uniform Rule 32(4)**: This rule restricts the admissibility of evidence to the affidavit submitted in support of a summary judgment application, making any additional evidence generally inadmissible unless it falls under specific exceptions ([35]).
+
+---
+
+### Application ([14, 16, 21–37])
+
+The Court of Appeal first examined the interpretation of section 130(2) in response to the appellants’ assertion. It concluded that section 130(2) does not extend to mortgage agreements, thereby allowing the bank’s claim for the remaining debt beyond the sale of the mortgaged property ([20]).
+
+Next, the Court addressed the question of whether the bank had complied with the statutory notice requirements. The key determination hinged on whether the notices issued were delivered per statutory stipulations. The appellants contested receipt, and the Court found that the bank did not adequately prove that notice was delivered according to the legal requirements. The mere assertion of compliance in their affidavit without supporting documentation was insufficient to meet the obligations prescribed in sections 129 and 130 ([34]–[36]).
+
+The Court also considered the procedural error whereby the lower court relied on evidence submitted outside the permissible scope of Uniform Rule 32, indicating that such evidence related to delivery should have been excluded from consideration ([36]).
+
+---
+
+### Conclusion ([38–38])
+
+The Supreme Court of Appeal upheld the appeal, concluding that the bank failed to establish compliance with the notice requirements mandated by the National Credit Act, rendering the summary judgment inappropriate. As a result, the earlier ruling by the North Gauteng High Court was overturned, with the appeal affirmed, thereby dismissing the bank's application for summary judgment with costs ([38]).
+
+This case underscores the stringent requirements under the NCA for compliance in statutory notices prior to pursuing legal remedies, particularly emphasizing the importance of precise evidential support in credit enforcement actions. It solidifies the standing interpretation that mortgage agreements are excluded from certain limitations under the Act, reaffirming the creditor's rights to recover debts properly documented and communicated. The ramifications extend to ensuring strict adherence to procedural guidelines in credit enforcement, balancing consumer protections while recognizing the rights of financial institutions.

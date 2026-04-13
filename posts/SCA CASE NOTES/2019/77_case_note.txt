@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+### Case Note: Atakas Ticaret VE Nakliyat AS v Glencore International AG (768/2018)
+
+#### FIRAC Method
+
+##### F – Facts:
+In this case, Atakas Ticaret VE Nakliyat AS (Atakas), a Turkish company, had purchased a consignment of coal from Glencore International AG (Glencore). To transport this coal from Richards Bay, South Africa, to Turkey, Atakas chartered the MV ‘Cecilia B’ from EFE Shipping and Trading Limited of Istanbul. After the loading of coal was completed, an explosion occurred in the ship's cargo hold on October 30, 2013, caused by the heating of the coal, which ignited after the hold was sealed. This incident led Atakas to abandon the voyage and unload the cargo. Subsequently, on June 26, 2014, Atakas initiated a delictual action against the Richards Bay Coal Terminal (Pty) Ltd (RBCT) in the KwaZulu-Natal Division of the High Court, asserting liability for damages arising from the explosion. RBCT denied liability and raised several defenses, including a special plea claiming that the plaintiff was entitled to contractual remedies against the seller of the coal rather than delictual claims against it. [paras 1–4]
+
+On February 23, 2016, Atakas sought to join Glencore as a co-defendant in the action pursuant to s 5(1) of the Admiralty Jurisdiction Regulation Act 105 of 1983 (AJRA). In response, Glencore claimed that the sale contract included an arbitration clause and thus the dispute should be referred to arbitration rather than adjudicated in court. Initially, Glencore also raised defenses regarding the prescription of the claim and remoteness, but later withdrew those defenses. The High Court, however, dismissed the joinder application based on Glencore's submission that the International Arbitration Act 15 of 2017 (IAA) necessitated a stay of the proceedings for arbitration. [paras 3–4]
+
+##### I – Issues:
+The central issue in this case was whether the High Court had the discretion to permit or refuse the joinder of Glencore—who was not directly amenable to the jurisdiction—given the presence of the arbitration clause in the sale contract. Was the exercise of discretion regarding joinder affected by the provisions of the IAA? Furthermore, did the court err in determining that joinder would be futile without considering the merits of Atakas's claims? [paras 4–7]
+
+##### R – Rules:
+The legal framework governing this case includes:
+- **Admiralty Jurisdiction Regulation Act 105 of 1983 (AJRA)**, specifically s 5(1), which permits the court to allow the joinder of any party against whom a claim exists.
+- **International Arbitration Act 15 of 2017 (IAA)**, which codifies the law regarding international arbitration in South Africa, including stating that issues subject to an arbitration agreement must be referred there unless the agreement is null, inoperative, or incapable of being performed (Art 8 of the Model Law).
+
+The Act's provisions regarding joinder offer the court significant discretion aimed at preventing multiple proceedings in different jurisdictions regarding similar issues, thus promoting judicial economy. The interpretation of these provisions must therefore weigh the necessity of joining parties against the operational impacts of agreements to arbitrate disputes. [paras 5–7]
+
+##### A – Application:
+The Supreme Court of Appeal found that the IAA does not implicitly repeal or limit the discretion conferred by the AJRA regarding the joinder of parties. The court cited the principle that statutes should be harmonized unless a clear conflict exists. It noted that the IAA expressly allows for other laws governing disputes, such as the AJRA, to remain in effect, thus upholding the discretion afforded to the admiralty courts.
+
+On considering the merits of the case, the court observed that Joinder under s 5(1) presupposes a prima facie case and relevance to the disputes at hand. Notably, Glencore conceded that Atakas had established a prima facie case regarding the heating of coal. This acknowledgment, combined with Glencore's failure to maintain its other defenses during court proceedings, effectively supported Atakas's claim for joinder. The High Court had failed to exercise its discretion correctly and thus contributed to an unfair denial of Atakas's right to a complete legal remedy. [paras 6–9]
+
+##### C – Conclusion:
+The Supreme Court of Appeal upheld Atakas's appeal, asserting that the High Court incorrectly interpreted the implications of the IAA on joinder provisions contained within the AJRA. Consequently, Glencore was ordered to be joined as the third defendant, allowing Atakas to amend its particulars of claim against it. The decision emphasizes the need for courts to adequately consider statutory provisions regarding joinder and the discretion they encompass in the context of maintaining judicial economy and ensuring full access to justice for parties involved in admiralty matters. The implications of this judgment reaffirm that arbitration agreements do not preclude the joinder of parties under the AJRA, preserving the interest of litigants in having claims adjudicated within the same proceedings. [paras 8–9]
+
+---
+
+**Keywords**: Admiralty Jurisdiction, Joinder, International Arbitration, Section 5(1) AJRA, Section 7(1) AJRA, Legal Discretion, Appeal Decision.
+
+---
+
+*Note: This case note has been generated based on the provided case details and is structured in accordance with the FIRAC method for clarity and academic use.*

@@ -1,0 +1,50 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2018
+
+# FIRAC Case Note
+
+**Case Title:** Life Healthcare Group (Pty) Ltd v Dr Abdool Samad Suliman (529/17) [2018] ZASCA 118
+
+---
+
+### F – Facts
+
+The case pertains to a medical negligence claim initiated by Mr and Mrs S, the parents of a son diagnosed with cerebral palsy post-birth. On July 12, 2008, Mrs S was admitted to Crompton Hospital, part of the Life Healthcare Group, where Dr Abdool Samad Suliman was to act as the covering obstetrician due to the unavailability of the primary physician, Dr Maise.  
+
+Upon admission, the nursing staff, under the supervision of Sister Savage, were tasked with monitoring Mrs S’s labour. At 18h35, it was reported to Dr Suliman that Mrs S exhibited a concerning deceleration in foetal heart rate, at which point he authorized a transfer to the labour ward and subsequent actions. However, he did not attend to the patient in person until 21h20, missing several critical moments where intervention could have altered the outcome for the baby. The child was eventually born "flat," indicating severe distress, and further examinations confirmed a diagnosis of cerebral palsy due to asphyxia at birth ([paras 1–8]).
+
+The original court, led by Judge Ploos van Amstel, dismissed the Life Healthcare Group’s claim against Dr Suliman, concluding that while negligence was found, it was not causally linked to the resulting injury. The hospital subsequently appealed the decision, asserting that Dr Suliman’s conduct warranted financial contribution due to his negligence ([para 3]).
+
+### I – Issues
+
+The appeal raised several key legal issues, primarily concerning:
+
+1. **Causation**: Was Dr Suliman's failure to attend the patient earlier causally linked to the injuries sustained by the child?
+2. **Establishment of Legal Duty**: Did Dr Suliman assume a legal duty toward Mrs S that was subsequently breached?
+3. **Negligence Analysis**: How should the respective liabilities of Dr Suliman and the hospital be assessed under the Apportionment of Damages Act, particularly regarding their contributions to the negligence leading to the child's injuries? ([paras 10–16]).
+
+### R – Rules
+
+The applicable legal standards are grounded in the tort of negligence, particularly regarding medical professionals. To establish liability, the claimant must demonstrate that a legal duty existed, that this duty was breached, and that the breach caused the resultant harm:
+
+1. **Legal Duty and Breach**: It was established that once Dr Suliman agreed to cover for Dr Maise, he assumed a professional duty towards Mrs S ([para 10]). Expert testimony highlighted that standard practice required a covering doctor to attend to the patient, thereby affirming the expectation that Dr Suliman should have seen Mrs S shortly after her admission ([paras 11–14]).
+
+2. **Causation**: The 'but for' test was pivotal in determining whether Dr Suliman’s actions—specifically his delayed attendance—directly contributed to the cerebral palsy diagnosis. A probability assessment was essential to establishing whether an earlier intervention could have prevented harm ([paras 12–14]).
+
+3. **Apportionment**: In accordance with the Apportionment of Damages Act 34 of 1956, joint wrongdoers are liable based on their respective contributions to the negligence. The court's role involves a discretionary exercise to determine apportionment in a manner that reflects the degree of fault ([para 18–20]).
+
+### A – Application
+
+In its application of the law, the appellate court considered several facets:
+
+1. **Legal Duty and Breach**: The court affirmed the lower court's conclusion that Dr Suliman had a legal duty after he provided instructions regarding Mrs S’s care. The absence of timely intervention was criticized as a significant breach of standard medical practices ([paras 10–11]).
+
+2. **Causation**: The court ultimately found that the lower court erred in framing the causation question. The earlier admission of a causal link was substantiated by expert opinion suggesting probable prevention of injury had the doctor attended sooner. The court decisively concluded that had Dr Suliman acted after receiving the 18h35 report, the birth injuries would most likely have been avoided ([paras 16–18]).
+
+3. **Contributory Negligence and Apportionment**: The respective contributions to negligence from both Dr Suliman and the hospital were evaluated. The court held that while both parties exhibited negligent behavior, Dr Suliman’s failure to act was more egregious. Thus, a 60% liability was assigned to him, while the hospital bore 40% of the responsibility, with framework insights grounded in the supporting evidence and testimony from experts ([para 20]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal upheld the appeal, thereby overturning the lower court’s ruling and ordering an apportionment of damages where Dr Suliman was found to be 60% liable and the hospital 40%. The findings underscore the importance of medical professionals adhering to standards of practice, particularly in instances of dual responsibility. In this case, Dr Suliman's failure to act in a timely manner was deemed significantly contributory to the tragic outcome for the child ([para 21]). This ruling reflects a crucial precedent in the assessment of medical negligence and the accompanying notions of legal duty and causation within South African law. 
+
+In summary, the case illustrates the complexities inherent in medical negligence claims and reinforces the principle that legal duty and breach must be evaluated stringently to safeguard patient outcomes within the healthcare framework ([paras 1–21]).

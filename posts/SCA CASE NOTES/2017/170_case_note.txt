@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Wierda Road West Properties (Pty) Ltd v SizweNtsalubaGobodo Inc (1156/16) [2017] ZASCA 170
+
+## F – Facts
+Wierda Road West Properties (Pty) Ltd (the appellant) initiated action against SizweNtsalubaGobodo Inc (the respondent) claiming R7,867,548.78 for unpaid rentals and municipal charges under a lease agreement dated 3 August 2012 for property located at 41 West Street, Houghton, Johannesburg. The High Court dismissed the appellant's claims with costs, prompting this appeal ([1]).
+
+The lease, originally lasting five years, was initiated after extensive refurbishments of the property, which had been acquired at auction in 2009. The refurbishing emerged from Gobodo's requirements, the predecessor to the respondent. Occupancy commenced in August 2010; however, it was later discovered that no occupancy certificate had been issued for part of the property due to incomplete approvals on building plans, violating sections 4(1) and 14(1) of the National Building Regulations and Building Standards Act 103 of 1977 (the Act) ([5], [6]).
+
+The respondent raised several alternative defenses claiming that the lease agreement was void ab initio for contravening the aforementioned Act sections. Initially, the respondent sought repayment through a counterclaim but later withdrew that claim, retaining only the declaration that the lease was void due to legal non-compliance ([3], [4]).
+
+## I – Issues
+The appeal surfaced several pivotal legal questions:[5]
+1. **Validity of the Lease**: Whether the lease agreement was rendered void ab initio due to contraventions of sections 4(1), 4(4), 14(1), and 14(4)(a) of the Act.
+2. **Suitability of Occupancy**: Whether the absence of an occupancy certificate indicated the property was unsuitable for the intended use under the lease.
+3. **Cross-Appeal Validity**: Whether the High Court erred in finding the lease unenforceable rather than invalid, as suggested by the respondent’s cross-appeal.
+
+## R – Rules
+The legal principles derived from the relevant statutes include:
+
+1. **Sections of the Act**:
+   - **Section 4(1)** mandates that no construction may occur without prior local authority approval regarding plans and specifications.
+   - **Section 14(1)(a)** stipulates that occupancy certificates are only issued if the local authority deems the completed building compliant with statutory provisions.
+   - **Sections 4(4) and 14(4)(a)** impose penalties for violations of these provisions, including fines for continued non-compliance ([15], [17]).
+
+2. **Case Law**:
+   - **Hubbard & another v Cool Ideas 1186 CC**: Established that non-compliance with statutory prerequisites can affect enforceability, but lacks direct prohibitive effects akin to those established under the Housing Act ([13], [14]).
+   - **Schierhout v Minister of Justice**: Asserts that acts contrary to statutory prohibition often face nullification. However, it is essential to consider legislative intent ([17]).
+
+## A – Application
+The court critically evaluated the relevance of the asserted non-compliance with the Act to the lease's validity. Notably, the judgment highlighted that the appellant did not 'erect' the building as interpreted under section 4(1). Therefore, it was arguable whether the penalties in sections 4(4) and 14(4)(a) applied to the appellant ([15], [16]).
+
+Analyzing the parties' actions and knowledge regarding the occupancy certificate revealed that both the appellant and respondent were cognizant of the discrepancies surrounding the occupancy permit but proceeded without complaint until post-eviction ([9], [11], [30]). The court underscored the principle that tenant consent, with knowledge of conditions surrounding occupancy, undermined the argument for declaring the lease void. The absence of the occupancy certificate alone did not render the property unfit for occupation based on the respondent's acquiescence to occupation under known circumstances ([29]).
+
+The court distinguished the context of this case from **Berg River Municipality v Zelpy**, which substantially relied on the restrictions implied by the Act. It articulated that unless explicitly stated in the law, it should not infer a prohibition against use, thus suggesting that non-compliance with the Act while penalties existed did not invalidate contract enforceability ([24], [27]).
+
+## C – Conclusion
+The Supreme Court of Appeal held that the lease agreement remained valid and enforceable despite technical statutory violations. The court concluded that the legislative intent behind the Act did not seek to invalidate contracts due to non-compliance with its provisions when penalties existed ([30]).
+
+The respondent’s reliance on the alleged invalidity of the lease as a defense was consequently dismissed. The court ordered restitution in favor of the appellant, thereby reversing the High Court’s dismissal of the claim for outstanding rentals while also dismissing the respondent’s cross-appeal, affirming a decisive acknowledgment of the allowing of private contractual relationships to operate even amidst public regulatory deficiencies ([30]). 
+
+This decision has vital implications for lease agreements in South Africa, emphasizing that issues of statutory compliance do not inherently nullify contractual obligations unless specified by the law, ultimately promoting upholding of lawful agreements amidst procedural oversights. 
+
+---

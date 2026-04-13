@@ -1,0 +1,77 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Freddy Hirsch Group (Pty) Ltd v Chickenland (Pty) Ltd
+
+**Case Title**: Freddy Hirsch Group (Pty) Ltd v Chickenland (Pty) Ltd  
+**Neutral Citation**: (20/10) [2011] ZASCA 22 (17 March 2011)  
+**Bench**: Harms DP, Ponnan, Maya, Shongwe and Tshiqi JJA  
+**Heard**: 14 February 2011  
+**Delivered**: 17 March 2011  
+
+---
+
+## F – Facts
+The case concerns a dispute between Freddy Hirsch Group (Pty) Ltd (Appellant) and Chickenland (Pty) Ltd (Respondent) about the supply of contaminated spice packs. The core facts are as follows:
+
+1. Chickenland, part of the Nando’s Group, initially sourced spices from Hirsch due to problems with their supplier ([1]–[3]).
+2. A credit agreement was formed on 29 August 1994, with conditions regarding liability listed on the reverse of the credit application form. Notably, Ms. Smith, a Chickenland representative, stated that the "standard conditions [were] not checked" before signing ([5]–[6]).
+3. In January 2004, Chickenland discovered that their peri-peri sauce was contaminated with Sudan 1 dye, a banned substance, after the UK health authority’s investigation ([7]–[8]).
+4. A recall ensued, costing Chickenland approximately R12 million. Hirsch was approached for compensation but declined further negotiations ([9]).
+5. Chickenland subsequently refused payment of approximately R1.36 million owed to Hirsch, leading to Hirsch initiating legal action for payment on goods delivered but was counterclaimed for damages by Chickenland due to the contaminated products ([10]–[11]).
+
+Procedurally, the South Gauteng High Court ruled in favor of Chickenland, which prompted Hirsch’s appeal to the Supreme Court of Appeal ([13]).
+
+---
+
+## I – Issues
+The appeal raises key legal questions:
+
+1. Whether the standard conditions of sale included in the credit agreement were part of the contract, particularly given Chickenland's claim that the conditions were not accepted ([14]).
+2. Regarding the tort claim for pure economic loss, whether Hirsch’s conduct was actionable and wrongful towards Chickenland and its distributors ([14]).
+
+---
+
+## R – Rules
+Several legal principles govern this case:
+
+### Contractual Parameters
+- **Exemption Clauses**: The validity and applicability of the liability waiver in the sale contract are critical. The standard conditions stipulate that Hirsch is not liable for consequential damages unless defects were reported within seven days of delivery ([5]).
+- **Interpretation of Contracts**: The approach to contract interpretation focuses on expressed intentions rather than subjective understandings ([15]), as stated in Worman v Hughes 1948 (3) SA 495 (A).
+
+### Delictual Liability
+- **Pure Economic Loss**: Generally, claims for economic loss require a demonstration of actionable wrongdoing ([37]). Courts have indicated that the imposition of liability for economic loss depends on public policy ([39]).
+- **Negligence**: Wrongfulness in delict is based on whether the defendant owed a legal duty to the claimant, and a breach of this duty constitutes wrongful conduct ([35]).
+
+Relevant case law includes:
+- Durban's Water Wonderland (Pty) Ltd v Botha & Another 1999 (1) SA 982 (SCA) for contractual interpretations.
+- Fourway Haulage SA (Pty) Ltd v SA National Roads Agency Ltd 2009 (2) SA 150 (SCA) for pure economic loss considerations.
+
+---
+
+## A – Application
+### Contractual Issues
+The court assumed the applicability of the standard conditions despite the wording "not checked" inscribed by Ms. Smith, concluding that some binding conditions were likely in place given the nature of the commercial transaction ([17]).
+
+The interpretation of the non-liability clause illustrates key ambiguities. The terms focused on defects but failed to accommodate the provision of goods unfit for consumption, as affirmed by case precedents, which recognize that non-performance (i.e., supplying contaminated goods) implicates liability beyond mere defects ([20], [24]). 
+
+### Delictual Analysis
+Hirsch’s role as a supplier inherently included an obligation to ensure that goods sold were not harmful. The presence of a banned substance—Sudan 1—rendered the spices illegal and consequently the products manufactured unsaleable. This direct causation established wrongfulness and placed them liable for the economic losses incurred by Chickenland and its distributors, thereby allowing claims for damages beyond what was stipulated in the standard conditions.
+
+Factual causation was supported; had Hirsch not supplied the contaminated spices, Chickenland would not have faced significant economic loss ([44]).
+
+---
+
+## C – Conclusion
+The Supreme Court of Appeal dismissed Hirsch's appeal, affirming the lower court's ruling. Chickenland was entitled to its counterclaims due to Hirsch’s negligent conduct in supplying unsafe goods. The court underscored that the contract's terms did not absolve Hirsch from liability for the supply of illegal and harmful foodstuffs, which signifies a broader judicial recognition of public policy concerns in product liability contexts. This case illustrates the legal complexities surrounding commercial contracts while reinforcing the importance of product safety within the food supply chain.
+
+*The judgment reflected a commitment to enforce legal accountability among suppliers, especially concerning food safety—critical due to potential health implications for consumers.*
+
+---
+
+### References
+- Worman v Hughes 1948 (3) SA 495 (A).
+- Durban's Water Wonderland (Pty) Ltd v Botha & Another 1999 (1) SA 982 (SCA).
+- Fourway Haulage SA (Pty) Ltd v SA National Roads Agency Ltd 2009 (2) SA 150 (SCA).
+- Schierhout v Minister of Justice 1926 AD 99.
+- Wagener v Pharmacare Ltd; Cuttings v Pharmacare Ltd 2003 (4) SA 285 (SCA).

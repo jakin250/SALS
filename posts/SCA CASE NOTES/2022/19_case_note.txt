@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Makhala & Another v The State (438/2020)
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–8])
+In **Makhala & Another v The State** (438/2020) [2021] ZASCA 19, the first and second appellants, Mawanda Makhala and Velile Waxa, were convicted in the High Court on three counts: murder, possession of an unlicensed firearm, and unlawful possession of ammunition, with life sentences for the murder and concurrent five-year sentences for the remaining counts ([1]). The convictions stemmed from the fatal shooting of Mr. Molosi, a councillor associated with the African National Congress (ANC), following a governing body meeting at Concordia High School on July 23, 2018 ([2]). 
+
+The police investigation identified Mawanda Makhala as a person of interest after confirming a sequence of events involving his brother, Luzuko Makhala, who made incriminating statements against both appellants ([3]–[8]). Following his statements implicating himself and the appellants, Luzuko recanted his testimony in court, leading the prosecution to have him declared a hostile witness ([9]–[10]). The trial court, however, admitted Luzuko’s earlier statements into evidence, which became central to the convictions.
+
+### I – Issues: Legal or Constitutional Questions ([paras 15–20])
+The core issue on appeal was whether the trial court properly admitted Luzuko Makhala's statements after his recantation, given that the appellants argued the statements were obtained improperly and could not be relied upon ([15]–[16]). Specifically, the appellants raised several related challenges:
+1. **Legality Challenge**: Whether the statements were obtained lawfully under the rights enshrined in the Bill of Rights.
+2. **Hearsay Challenge**: Whether the trial court improperly admitted the hearsay evidence of an accomplice.
+3. **Hostile Witness Challenge**: The appropriateness of declaring Luzuko a hostile witness.
+4. **Cautionary Challenge**: The trial court's failure to adequately apply the cautionary rule concerning accomplice evidence.
+5. **Onus Challenge**: Insufficient corroboration of the testimonies provided by the State.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 21–24])
+The legal framework addressed in this case includes the **Law of Evidence Amendment Act 45 of 1988**, especially Section 3(1), which governs the admissibility of hearsay evidence ([21]). Furthermore, the provisions of Section 35(5) of the **Constitution** mandate that evidence obtained in violation of the rights in the Bill of Rights must be excluded if it would render the trial unfair ([22]). 
+
+Precedents such as **S v Tandwa** and **S v Mthembu** clarify the criteria for the admissibility of evidence obtained from individuals who may not be suspects but provide statements that bear on the case ([23]–[24]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 22–102])
+**Legality Challenge**: The court found that Luzuko Makhala was not a detained suspect at the time of making the statements. Thus, his alleged rights under Section 35 were not engaged because the statutory protections apply solely to arrested, detained, or accused persons ([25]–[27]).
+
+**Hearsay Challenge**: The court analyzed the two statements provided by Luzuko through the Hearsay Act's regime, specifically considering whether they were admissible in light of the nature of the evidence and the interests of justice. The ruling established that the cross-examination of Luzuko provided sufficient safeguards against any hearsay content ([38]–[39]).
+
+**Hostile Witness Challenge**: The determination that Luzuko was a hostile witness was justified by his manifestly disparate testimony in comparison to his prior statements. The court held that the trial judge correctly ascertained that a hostile witness does not need to have a subjective intention to prejudice ([86]–[90]).
+
+**Cautionary Challenge**: The trial court was acknowledged to have appropriately evaluated the cautionary rule regarding accomplice evidence, considering corroborative elements of the testimony provided, which solidified the reliability of the earlier statements ([96]–[98]).
+
+**Onus Challenge**: The court reaffirmed that the corroborative evidence was robust enough to meet the State’s burden of proof. Witness accounts corroborated the timeline and actions described in Luzuko's statements, reinforcing their validity ([100]–[102]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([103]–[107])
+The Supreme Court of Appeal dismissed the appeal, affirming the trial court's decisions on all challenges presented by the appellants. The ruling confirmed that the earlier statements made by Luzuko Makhala were admissible, thereby justifying the convictions of both appellants. The court elucidated that no rights had been infringed that would have rendered the trial inequitable, and that the decision was thoroughly grounded in statutory provisions as well as established legal precedents. This case underscores the applicability of evidentiary standards concerning witness reliability and the legal treatment of extrajudicial statements, with wider implications for the treatment of accomplice evidence in South African criminal law.
+
+---
+This case note has been organized using the FIRAC method to present a comprehensive understanding of the legal principles at play. Please note that further division based on nuances in individual challenges could provide deeper insight into specific areas of law as required.

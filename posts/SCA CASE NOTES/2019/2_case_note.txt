@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: MV Seaspan Grouse: Seaspan Holdco 1 Ltd v MS Mare Traveller Schiffahrts GmbH (376/18) [2019] ZASCA 02
+
+## FIRAC Method
+
+### F – Facts
+
+The facts of this case involved a dispute between the appellants — **Seaspan Holdco 1 Limited**, **Seaspan Corporation**, and **MV Seaspan Grouse** (together the "appellants") — and the respondents, **MS Mare Tracer Schiffahrts GmbH & Co KG** and **MS Mare Traveller Schiffahrts GmbH & Co KG** (together the "respondents") concerning the arrest of the vessel MV *Seaspan Grouse* under the Admiralty Jurisdiction Regulation Act 105 of 1983 (AJRA) ([paras 4–8]).
+
+1. The appellants were the owners of the vessel MV *Seaspan Grouse*, acquired from **J O O Shipping SA**, which had been under the control of **Hanjin Shipping Co Ltd**, a company undergoing rehabilitation proceedings ([paras 5–6]). 
+2. The respondents had claims for unpaid charter hire against **Hanjin Shipping**, and subsequently issued summonses in rem and warrants of arrest in various High Court divisions against associated ships, including *Seaspan Grouse* ([paras 5–6]).
+3. After acquiring *Seaspan Grouse*, the appellants were unaware of the protective writs and the arrests were initiated based on claims arising before they purchased the vessel ([paras 4–8]). The High Court initially dismissed the appellants' application to set aside the arrest of the vessel, leading to the present appeal ([paras 8]).
+
+### I – Issues
+
+The primary legal issue was whether the arrest of the MV *Seaspan Grouse* was valid under sections 3(4) and 3(7) of the AJRA, given a change in ownership of the vessel between the issuance of protective writs and its actual arrest ([para 9]). Specifically, the court had to determine:
+
+1. When precisely an admiralty action in rem commences for the purposes of section 3(7) concerning associated ships and whether the commencement date is the issue of the protective writs or the service of the summonses ([paras 12–13]).
+2. Whether the intervention of the bona fide change of ownership affected the validity of the arrest and the enforceability of the claims against the vessel under the AJRA ([paras 10–13]).
+
+### R – Rules
+
+The judgment heavily referenced the provisions of the AJRA, particularly:
+
+1. **Section 3(4)** allows for an action in rem to be enforced if the claimant has a maritime lien over the property or if the owner would be liable in personam ([para 10]).
+2. **Section 3(6)** provides that an action in rem may be pursued against an associated ship ([para 11]).
+3. **Section 3(7)** defines what constitutes an associated ship and specifies that the ship must be owned by the person liable at the time when the action is commenced ([para 11]).
+4. **Section 1(2)** establishes under what circumstances an admiralty action commences in relation to prescription and limitation ([paras 13–14]).
+5. Precedent was set by the case *The Monica S*, which discussed the impact of changes in ownership on an in rem action ([paras 2, 3]).
+
+### A – Application
+
+The court analyzed section 1(2) of the AJRA to elucidate when an action in rem commences, thus determining its implications on the associated ship's arrest. It concluded that the commencement date directly affects the ownership requirement under section 3(7) ([paras 46–47]).
+
+1. The court favored **Seaspan's** interpretation that an action commences upon the service of process (as per section 1(2)(a)(i)), ensuring that the vessel is owned by a person liable at the time the action was served, devoid of the protective writs’ period ([paras 49–50]).
+2. The judgment emphasized that this approach not only aligns with the textual interpretation of the AJRA but also fits the broader objectives of maritime law, which seeks to promote accountability regarding ship ownership during the context of maritime claims ([paras 51–52]).
+3. The court ultimately distinguished between a protective writ and the actual liability arising upon the commencement of the action, asserting that the protective nature of the writ does not grant rights against a bona fide purchaser ([paras 63–64]).
+
+### C – Conclusion
+
+The court upheld the appeal, determining that the MV *Seaspan Grouse* should not have been arrested under the given circumstances because it was no longer owned by a person or entity liable in personam at the time of the summons’s service ([para 64]). The implications of this ruling underscore the importance of understanding ownership dynamics within maritime law, the limitations on actions in rem, and the necessity for clear statutory guidelines regarding the commencement of admiralty actions. The outcome potentially enhances the protections for bona fide purchasers, reinforcing the importance of due diligence in understanding existing maritime claims against vessels in the process of change in ownership ([paras 64–66]).

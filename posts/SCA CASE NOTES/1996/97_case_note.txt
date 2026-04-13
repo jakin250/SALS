@@ -1,0 +1,70 @@
+Case Note: IN THE SUPREME COURT OF SOUTH AFRICA
+Source Folder: 1996
+
+**Case Note: City Council of Johannesburg v Television & Electrical Distributors (Pty) Ltd (371/93)**
+
+---
+
+### F – Facts
+The present case arises from a delictual claim brought by Television and Electrical Distributors (Pty) Ltd ("Tedelex") against the City Council of Johannesburg ("JCC"). Tedelex alleged that it suffered damages due to flooding caused by the inadequacy of a drainage system installed by the JCC. This system was designed to handle stormwater in the West Turffontein Valley area, where Klip River Drive is situated ([para 2]).
+
+The JCC undertook a project to replace the existing Klip River Road with a new high-capacity road and constructed a new drainage system. The construction was completed in 1981, leading to the development of an open concrete canal that transitions into a culvert ([paras 3–4]). On December 7, 1986, a heavy rainstorm, with a recurrence interval of 13 years, led to the overflow of the new drainage system, which subsequently inundated Tedelex's basement ([para 5]).
+
+Tedelex's property was situated adjacent to the canal and its basement was vulnerable to flooding. The water overflowed at the transition section of the culvert due to insufficient drainage capacity, which was identified as a result of a design flaw that underestimated the necessary flow capacity ([para 6]).
+
+The initial trial in the Witwatersrand Local Division of the Supreme Court concluded with the court ruling favorably for Tedelex, attributing negligence to the JCC without any liability being placed on Tedelex Properties, the second respondent. The JCC subsequently appealed the decision regarding liability and costs ([paras 2, 6]).
+
+---
+
+### I – Issues
+The main legal issues considered by the Appellate Division revolve around:
+1. **Negligence**: Whether the JCC was negligent in designing and maintaining the drainage system, thus causing Tedelex's damages ([para 7]).
+2. **Causation**: Whether the flooding damage to Tedelex's property was a direct result of the JCC's negligence ([para 30]).
+3. **Contributory Negligence**: Whether Tedelex and its properties exhibited any negligence that contributed to the damages claimed ([para 37]).
+4. **Exclusionary Clause**: Whether the notes provided in the building approval process exempted the JCC from liability for any damages arising from stormwater ([para 42]).
+
+---
+
+### R – Rules
+The court relied on established principles of delictual liability particularly under the *lex Aquilia*, which requires proof of:
+1. **Wrongfulness**: An infringement of another's rights leading to damages.
+2. **Fault (negligence)**: The conduct must be assessed against the standard of the reasonable person, considering both the selected measures and their execution ([para 11]).
+
+The court referred to judicial precedents regarding statutory authority and negligence, emphasizing that reliance on statutory immunity for damages caused is contingent upon demonstrating that the work was executed without negligence ([para 11]).
+
+In cases of statutory authority, the court cited that two requirements must be satisfied for a successful claim of immunity:
+- Reasonably practicable measures must have been adopted for the works.
+- The execution of these works must be free from negligence ([para 12]).
+
+---
+
+### A – Application
+In applying the rules, the court examined the design flaws present in the drainage system. The design engineer responsible had planned for a drainage capacity to accommodate a flood of a difference recurrence interval, but the system built only managed a lesser capacity of 62.5 cumecs, which was inadequate under the circumstances of the flood ([paras 14–15]). 
+
+The JCC's employees were identified as having made fundamental mistakes in the design and failing to act on alerts regarding the inadequacy of the drainage system. These failures were determined to constitute negligence【15】【18】. 
+
+In evaluating causation, the court rejected the JCC's argument that the flooding would have occurred regardless if the old drainage system were still in place. The court ruled that direct causation was established due to the negligence attributed to the JCC's failure to design an adequate drainage system and that this negligence was foreseeable. The court held that it was incumbent to foresee that such negligence could cause flooding to properties in the area, irrespective of whether the Tedelex building was built or not ([para 30]).
+
+With respect to contributory negligence, the court concluded that Tedelex should not have foreseen that the newly constructed canal would not cope with a storm of reasonable capacity, thereby rejecting the JCC's claims that Tedelex Properties' decisions concerning basement specifications contributed to the flooding incident ([para 38]).
+
+The exclusionary clause presented by the JCC was also dismissed by the court. The reasoning was based on the premise that such a condition could not functionally restrict liability for negligence in the statutory duty of the City Council to ensure compliance with municipal building regulations ([para 42]).
+
+---
+
+### C – Conclusion
+The Appellate Division upheld the court a quo's ruling that the JCC was liable for the damages suffered by Tedelex. The JCC was found negligent due to poor design and oversight in training construction plans that failed to allow for the necessary drainage capacity. The argument of contributory negligence was negated since no reasonable expectation existed that a newly-installed drainage system would perform inadequately for common rainfalls, nor did the exclusionary clause exempt the JCC from delictual liability.
+
+In conclusion, the appeal was dismissed with costs awarded to Tedelex and Tedelex Properties, reinforcing the legal standing that local authorities must act with due diligence in public works to prevent foreseeable harm【50】【51】. 
+
+--- 
+
+### References
+- *Cornation Brick (Pty) Ltd v Strachan Construction Company (Pty) Ltd* 1982 (4) SA 371 (D).
+- *Lillicrap, Wassenaar and Partners Pilkington Brother SA (Pty) Ltd* 1985 (1) SA 475 (A).
+- *New Heriot Gold Mining Company Limited v Union Government* 1916 AD 415.
+- *Johannesburg Municipality v African Realty Trust Ltd* 1927 AD 163.
+- Additional statutes and cases referenced throughout the judgment. 
+
+--- 
+
+By constructing the FIRAC analysis of the *City Council of Johannesburg v Television & Electrical Distributors (Pty) Ltd* case in such detail, the complexities of negligence, causation, and duty within statutory frameworks are illuminated. This case serves as an essential touchstone for local authorities regarding stormwater management and liability in South Africa.

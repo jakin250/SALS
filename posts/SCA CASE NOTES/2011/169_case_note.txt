@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Zietsman v Electronic Media Network (771/2010)
+
+## F – Facts
+
+The present case, **Zietsman v Electronic Media Network Ltd & Multichoice Africa (Pty) Ltd** [2011] ZASCA 169 (SCA), revolves around an appeal concerning a second application for security for costs initiated by the respondents against the appellant, David Wallace Zietsman. The procedural backdrop dates back to December 2004, when Zietsman filed a legal action alleging infringement of his South African patent (No. 92/9925) against the first and second respondents and three other entities ([para 3]). 
+
+In February 2005, the respondents demanded security for costs under Uniform Rule 47(1), leading to the first application where the appellant was ordered to furnish security of R250,000 each to the respondents ([paras 4-5]). Zietsman’s subsequent appeal was successful, culminating in a judgment reported as *Zietsman v Electronic Media Network Ltd & others* 2008 (4) SA 1 (SCA), where the SCA dismissed the respondents' initial security application based on a lack of merits on their defense ([paras 6-8]).
+
+In June 2008, the respondents reasserted their request for security for costs, citing good prospects of success in the ongoing main action ([para 8]). The appellant rejected this second request, prompting the respondents to launch a second application on 28 August 2008. The crux of the matter at hand was whether the second application was precluded by the res judicata doctrine or issue estoppel, given the prior ruling by the SCA ([paras 10-12]).
+
+## I – Issues
+
+The critical legal questions presented to the Supreme Court of Appeal were whether the second application for security for costs should be barred due to the operation of res judicata or issue estoppel ([para 10]). The court was tasked with determining:
+
+1. **Res Judicata**: Whether the earlier SCA judgment constituted final and definitive adjudication relative to the appellant's obligation to furnish security for costs.
+2. **Issue Estoppel**: Whether the respondents had produced new evidence substantiating their claims in the second application that differentiated it from the first, thereby bypassing prior determinations ([paras 10-14]).
+
+## R – Rules
+
+The legal concepts of **res judicata** and **issue estoppel** form the core rule framework for adjudicating the case. 
+
+- **Res Judicata** requires that: (a) there has been an earlier judicial decision, (b) it is final on the merits, (c) the same parties are involved, (d) the cause of action is identical, and (e) the same relief is sought ([para 10]).
+  
+- **Issue Estoppel** similarly necessitates: (a) an earlier judicial decision, (b) finality on the merits, (c) the same parties, and (d) a directly relevant issue of fact or law previously adjudicated ([para 11]).
+
+The court also considered Section 17(2) of the **Patents Act 57 of 1978**, which endows the Commissioner with discretion to consider a party's prospects of success in determining whether security for costs should be furnished. The court underscored that merely dispelling a request does not preclude subsequent applications if new evidence is introduced ([paras 21-22]).
+
+## A – Application
+
+The court meticulously examined the foundational aspects of the res judicata and issue estoppel doctrines as applied to the case. 
+
+Zietsman's primary assertion was that the SCA's earlier ruling rendered the respondents' request for further security moot, based on a perceived final and comprehensive resolution concerning the substantive issues of the costs application ([para 12]). The court, however, clarified that the prior judgment merely resulted in an **absolution from the instance** rather than a definitive ruling on the merits, thus refraining from addressing the underlying issues ([para 16]).
+
+Conversely, the respondents presented compelling counterarguments, demonstrating that since the SCA's judgment, they had procured new evidence reflecting their improved prospects of success in the main action ([para 17]). This new evidence pertained to potential grounds for invalidating Zietsman's patent, establishing a substantive shift from the claims made in the first security application. The court emphasized that this distinction constituted a new cause of action, thereby rendering the defenses of res judicata and issue estoppel inapplicable ([paras 19-23]).
+
+## C – Conclusion
+
+Ultimately, the Supreme Court of Appeal dismissed the appeal with costs, affirming the lower court’s ruling that there was no justification to hinder the hearing of the respondents’ second application for security for costs on the grounds of res judicata or issue estoppel. The court's holding clarified that the SCA's previous resolution did not represent a determination on the substantive merits, thereby allowing the new evidence to be duly considered in the second application ([para 25]). This outcome reinforces the importance of judicial discretion in assessing applications for security for costs, acknowledging evolving evidential landscapes and prospects of success in ongoing litigation. 
+
+The case highlights significant constitutional implications concerning access to justice and the balance between ensuring litigants fulfill their cost responsibilities while preserving the right to fair adjudication in patent disputes under the Patents Act.

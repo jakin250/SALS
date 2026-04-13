@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Krok v CSARS (20230/2014 and 20232/2014) [2015] ZASCA 107
+
+## F – Facts
+
+The case centers around an appeal involving Mark Krok (the first appellant) and Jucool Enterprises Inc. (the second appellant) against the South African Revenue Service (SARS). The initial proceedings commenced when SARS secured a preservation order against Krok's assets to satisfy an alleged tax debt owed to the Australian Tax Office (ATO) for income periods spanning 30 June 2004 to 30 June 2009, summing approximately AUD $25,361,875.79 (around R235,705,169.19) ([1]–[3]).
+
+The preservation order was grounded in provisions of the Tax Administration Act 28 of 2011, specifically sections 163 and 185, which empower SARS to assist foreign governments in tax recovery. The ATO had requested assistance from SARS under the double taxation agreement (DTA) between South Africa and Australia ([1], [2]). The ATO’s requests were fueled by allegations of Krok's substantial offshore transactions and potential concealment of assets in South Africa. These accusations asserted that Krok had engaged in schemes to misrepresent his income and asset ownership through a network of trusts and offshore companies ([4]–[10]).
+
+SARS obtained the preservation order on an ex parte basis, asserting that Krok's South African assets were at risk of dissipation ([1], [17]). The assets involved included considerable investments, real estate, and cash, which were purportedly under Krok’s control but linked to offshore entities ([17]).
+
+## I – Issues
+
+The appeal raised several critical issues, primarily concerning:
+
+1. **The correctness of the preservation order** granted by the High Court, including whether SARS proved its case regarding the alleged tax liability and risk of dissipation of Krok’s assets.
+2. **The applicability of the DTA and Protocol** involving Australia and South Africa, especially the interpretation of Article 25A and its temporal scope, which determines whether the taxes claimed by the ATO fall within the scope of the DTA and the Protocol ([18], [22]).
+3. **The legal standing of Jucool Enterprises Inc.** in claiming beneficial ownership of the assets, thus contending that SARS had disregarded its claimed rights ([19], [42]).
+
+## R – Rules
+
+The judicial interpretation involved several legal frameworks:
+
+1. **Tax Administration Act 28 of 2011:** Particularly sections 163 and 185, which facilitate the preservation of assets in cases where foreign tax claims are involved.
+2. **Double Taxation Agreement (DTA):** The DTA between South Africa and Australia, particularly Article 25A of the Protocol amending the DTA, which addresses mutual assistance in tax collection ([24], [31]).
+3. **Common Law Principles of Taxation and Sovereignty:** Earlier cases emphasized the revenue rule that traditionally precluded one state from enforcing another state’s revenue laws without a permissive framework ([26]), which was subsequently modified by treaties like the DTA.
+
+## A – Application
+
+The court meticulously analyzed whether SARS established a sufficient case under the provisions of the Act to warrant the preservation order. The court upheld the High Court’s findings that SARS did demonstrate a reasonable apprehension of asset dissipation by Krok, given Krok’s history of asset management and his actions during the relevant periods ([21], [28]).
+
+The interpretation of Article 25A was pivotal in the case. The appellants contended that the taxes claimed were beyond the scope of the DTA since they pertained to income from periods before 1 July 2009. However, the court held that the DTA's expansive interpretation, as articulated in articles 2 and 25A, encompassed these prior tax claims without limitation concerning the time of accrual, thereby allowing for mutual assistance in recovery ([34], [41]).
+
+Further, concerning Jucool's claims of beneficial ownership, the court ruled that regardless of the agreements in place under British Virgin Islands law, the effective transfer of ownership of assets situated in South Africa was contingent on compliance with South African law ([42], [45]). The court found that no such transfer of ownership had occurred as required by the Deeds Registries Act 47 of 1937 and other applicable laws.
+
+## C – Conclusion
+
+The Supreme Court of Appeal upheld the High Court's decision, confirming the preservation order and dismissing the appellants' claims. The court articulated that the efforts to construe the DTA and the Protocol in a manner that would retrospectively exclude liability would not align with the objectives of international tax cooperation, particularly in this instance of alleged tax evasion.
+
+The judgment underscores a legal framework where international tax obligations are enforceable within South African jurisdiction, elucidating the rationale for intergovernmental cooperation in tax recovery. The case reinforces the applicability of the DTA in contexts previously considered outside its provisions, thereby influencing future interpretations and applications of tax treaties in South Africa. The appeal was dismissed with costs, reinforcing the stance taken by SARS regarding rigorous enforcement of tax claims ([46]).
+
+---
+
+This case note provides a comprehensive analysis suitable for citation, highlighting significant constitutional and tax law principles relevant to international tax cooperation and asset preservation within South Africa's legal framework.

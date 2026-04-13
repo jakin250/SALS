@@ -1,0 +1,40 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2022
+
+# Case Note: Cloete Murray N O and Others v Humansdorp Co-operative Limited (1274/2021) [2022] ZASCA 187 (30 December 2022)
+
+### F – Facts
+The Supreme Court of Appeal (SCA) dealt with an appeal regarding the payment of R22,268,848.85 made from the trust account of Pagdens Incorporated Attorneys (Pagdens) to Humansdorp Co-operative Limited (the Co-op) ([1]). The appellants were joint liquidators of Cape Concentrate (Pty) Ltd (in liquidation) and the core issue was whether this payment constituted a "disposition without value" under section 26 of the Insolvency Act 24 of 1936 ([1], [2]). 
+
+Cape Concentrate faced multiple financial challenges leading up to its eventual liquidation, experiencing liabilities surpassing R133 million ([5]). The company's financial troubles prompted it to enter business rescue in May 2013, with procedures aimed at reviving its operations. To secure a loan from the Africa Agriculture and Trade Investment Fund (AATIF), the Co-op required stringent security, including bank guarantees ([6]). 
+
+On 8 May 2015, the Co-op demanded payment on the issued guarantees, triggering the payment from Pagdens’ trust account, which utilized funds deposited by Cape Concentrate ([14]-[15]). The appellants contended that this payment was essentially made "for Cape Concentrate's money," asserting it was a disposition without value due to the company’s insolvency ([2], [18]).
+
+The court conducted a detailed examination of testimony regarding the nature of the payment and its implications under the Insolvency Act. The original High Court found the payment intentional and valid under the guarantees issued ([2], [18]).
+
+### I – Issues
+The principal legal questions before the SCA involved:
+1. Whether the payment to the Co-op constituted a disposition made without value, as defined by section 26 of the Insolvency Act ([1], [2]).
+2. If the payment was indeed made "not for value," whether such a disposition could be set aside by the court ([1], [28]).
+3. The determination of the circumstances under which the appellant could argue that the funds were not truly available for the payment made ([1], [14]).
+
+### R – Rules
+The SCA relied on various provisions of the Insolvency Act, specifically:
+- **Section 26(1)**: This section enables a court to set aside any disposition of property not made for value, subject to the time-dependent criteria stipulations ([1], [4]).
+- The definition of "disposition" encompasses transfers, payments, and any cessions pertaining to property ([4]).
+- The established precedent indicating that if a payment is made under a valid demand guarantee, it does not constitute a disposition within the ambit of the Insolvency Act ([29]).
+
+Furthermore, the SCA referenced numerous prior cases concerning bank guarantees and the nature of financial guarantees in insolvency contexts, which reinforced the principles such as the obligation of the bank to pay when conditions precedent are met ([36]).
+
+### A – Application
+The Court's analysis largely centered around the nature of the payment and the obligations arising from the demand guarantees issued by the Standard Bank in favor of the Co-op. The SCA affirmed that:
+- The funds in Pagdens' trust account were subject to a pledge and cession in favor of Standard Bank upon deposit, thereby negating any assertion that Cape Concentrate could reclaim these funds for its own purposes ([31], [33]).
+- While the appellants argued that the payments were directed from Cape Concentrate's funds, it was ruled that the transaction operated within the confines of the bank guarantees. Standard Bank had a binding obligation to honor the demand guarantee on receipt of valid payment requests ([37]).
+- The Court underscored the importance of distinguishing between mere availability of funds and the legal constraints imposed by the nature of guarantee transactions. The guarantees were indeed binding, and whether the funds belonged to Cape Concentrate became substantively irrelevant once they were pledged ([36]-[38]).
+
+The Court also addressed the oral and affidavit evidence, favoring the versions of certain witnesses over others, as the context of business rescue and the fiduciary duties of the liquidators were investigated ([21]-[22]).
+
+### C – Conclusion
+Ultimately, the SCA dismissed the appeal, concluding that the payment was executed in satisfaction of the obligations established under the demand guarantees provided by Standard Bank. Therefore, the payment could not be construed as a disposition without value, as it constituted a legitimate settlement of the Co-op's claim ([39]). 
+
+The ruling reinforces the legal interpretations surrounding dispositions in insolvency, emphasizing that actions executed under the umbrella of valid financial guarantees do not inherently constitute dispositions subject to challenge under insolvency laws. The implications of this ruling underscore the inviolability of bank guarantees in insolvency proceedings and clarify the legal frameworks governing such transactions. Consequently, Cape Concentrate's liquidators were burdened with the costs of the appeal, reflecting the failed challenge to the High Court's findings ([39]).

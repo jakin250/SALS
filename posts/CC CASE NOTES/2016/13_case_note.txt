@@ -1,0 +1,55 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: Makate v Vodacom (Pty) Ltd [2016] ZACC 13
+
+## F – Facts 
+
+The case concerns a contractual dispute between Kenneth Nkosana Makate (the applicant) and Vodacom (Pty) Limited (the respondent) regarding compensation for Makate's idea which led to the creation of the successful "Please Call Me" service ([1]). Makate, a former trainee accountant at Vodacom, conceived the idea in late 2000 during a personal communication crisis with his girlfriend. After documenting his concept, he sought approval from his superior, who advised him to present it to Philip Geissler, Vodacom’s Director of Product Development ([2]–[4]).
+
+Following negotiations, Geissler and Makate reached an agreement allowing Vodacom to develop the idea for commercial use, with a promise that Makate would be compensated from the product's revenue ([5]–[6]). Vodacom launched the "Please Call Me" service in February 2001, which quickly became immensely profitable, generating billions in revenue. However, Vodacom did not compensate Makate, and instead, senior executives misattributed the idea to themselves ([7]–[11]).
+
+The appellant filed a claim in the Gauteng Local Division of the High Court in 2008, seeking enforcement of the purported oral agreement and sought an order for negotiations toward compensation ([14]). Vodacom resisted the claim, alleging prescription (i.e., that claims had expired under the Prescription Act) and contesting that Geissler lacked authority to bind the company ([15]–[17]).
+
+The trial court ruled against Makate, leading to multiple appeals, culminating in the Constitutional Court grant of leave to appeal ([28]). 
+
+## I – Issues 
+
+The primary legal issues before the Constitutional Court included:
+
+1. **Ostensible Authority**: Whether Geissler had the authority to enter into a binding agreement with Makate on behalf of Vodacom, which involved determining whether ostensible authority had been duly pleaded and established ([31]).
+
+2. **Prescription**: Whether Makate's claim had prescribed under the provisions of the Prescription Act, implicating an interpretation of the term "debt" ([32]).
+
+## R – Rules 
+
+The Court examined several legal principles:
+
+1. **Ostensible Authority**: The concept of ostensible authority is distinct from estoppel but closely related; it arises where a principal represents to a third party that an agent has the authority to bind the principal. In such cases, the principal may be bound to the contract despite the agent lacking actual authority ([41], [42]).
+
+2. **Prescription Act**: Under Section 10(1) of the Prescription Act 68 of 1969, a debt must be due and capable of being enforced for prescription to commence. Material interpretations of "debt" can stem from cases like *Desai NO v Desai* and *LTA Construction v Minister of Public Works* ([85], [82]).
+
+3. **Constitutional Mandates**: Section 39(2) of the South African Constitution requires courts to interpret legislation following the Bill of Rights, incorporating constitutional values into the interpretation of judicial provisions ([29], [33]). 
+
+## A – Application 
+
+### Ostensible Authority
+The Constitutional Court critically analyzed the trial court's stance on the need for a precise pleading of ostensible authority. The court concluded that the applicant had sufficiently established that Geissler had ostensible authority based on his senior position and the representative acts he performed. The trial court had misapplied the legal standard by incorrectly conflating estoppel with ostensible authority, failing to recognize that representations made by a principal must influence a third party's perception ([60]–[79]).
+
+The judgment dissected Vodacom's organizational structure and the role of its executives, concluding that Geissler's actions indicated to external parties, including Makate, that he possessed authority to negotiate remuneration ([66]–[67]). Additionally, the court found that Vodacom's conduct demonstrated a representation that was reasonable for Makate to rely upon, thereby binding Vodacom to Geissler’s agreement to negotiate in good faith ([182]).
+
+### Prescription
+Concerning the issue of prescription, the Constitutional Court scrutinized the interpretation of "debt" within relevant provisions of the Prescription Act, concluding that the obligation to negotiate was not a debt cognizable under the Act. The court reasoned that there was no amount or service owed by Vodacom until an agreement on remuneration had been reached, reflecting a different nature of obligation that could not prescribe ([93]–[100]). Consequently, the court found that Makate's claim had not prescribed and emphasized that the negotiations he sought to enforce were properly governed by the oral agreement to negotiate good faith compensation for his idea ([87]).
+
+## C – Conclusion 
+
+The Constitutional Court ruled in favor of Makate, overturning the decisions of the trial court and Supreme Court of Appeal. The Court declared that Vodacom was bound by the agreement concluded with Makate through Geissler and ordered that Vodacom must commence negotiations in good faith regarding reasonable compensation for the use of Makate's idea. Furthermore, it required the parties to escalate disagreements over remuneration to Vodacom's CEO if necessary ([106]-[107]). 
+
+The case underscored the importance of clear communication of authority and the protection of employee innovations within corporate structures, while also reinterpreting aspects of the Prescription Act to align with constitutional principles. The implications of this judgment resonate in the broader context of corporate governance and contractual relationships, especially in light of protecting intellectual property within organizations in South Africa. 
+
+---
+
+**References**: 
+- Makate v Vodacom (Pty) Ltd [2016] ZACC 13; 
+- Prescription Act 68 of 1969; 
+- Constitution of the Republic of South Africa, 1996.

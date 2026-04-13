@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Strydom N.O. and Another v Snowball Wealth (Pty) Ltd and Others (356/2021) [2022] ZASCA 91
+
+**F – Facts: Relevant Background and Procedural History** ([paras 1–3])
+
+In *Strydom N.O. and Another v Snowball Wealth (Pty) Ltd and Others*, the case arises from the liquidation of DexGroup (Pty) Ltd, where the appellants serve as joint liquidators. Prior to its liquidation, DexGroup sold shares in Trustco Group Holdings Limited to the respondents, including Snowball Wealth (Pty) Ltd and others. After the liquidation began on 26 October 2016, the appellants sought to reclaim these shares, alleging that the sales constituted dispositions not made for value under section 26(1) of the Insolvency Act 24 of 1936.
+
+They contended that the sales were voidable because the appellants claimed that the payments made for the shares were illusory or nominal, given that they were significantly below the reasonable market value of the shares at 67 cents per share. The respondents excepted to the allegations, arguing that since they paid over 70% of the market value, the dispositions could not be set aside as not made for value. The high court accepted these exceptions, prompting this appeal.
+
+**I – Issues: Legal or Constitutional Questions** ([paras 6–9])
+
+The central issue in this case revolves around the interpretation of "not made for value" in section 26(1) of the Insolvency Act. More specifically, the court needed to resolve whether this phrase encompasses cases where the consideration paid is insufficient (inadequate value) versus cases where no value at all was exchanged.
+
+**R – Rules: Legal Authorities and Precedents Relied Upon** ([paras 10–20])
+
+The court examined several precedents, including *Estate Wege v Strauss* and *Estate Jager v Whittaker*, which addressed similar statutory language regarding dispositions for "value." These cases indicated that the term "value" is not legally technical but instead refers to benefits received as quid pro quo. Previous rulings hinted at a possible distinction, although no definitive conclusion had been made regarding inadequate versus no value.
+
+The court noted context from the Insolvency Act, describing its multiple remedies designed to protect creditors, particularly sections relating to voidable preferences and collusive dealings. Specifically, the phrase "not made for value" was analyzed within this broader statutory framework, suggesting that the law aimed to mitigate undue concealment of assets during insolvency proceedings.
+
+**A – Application: Analysis of How the Court Applied the Law** ([paras 21–36])
+
+In interpreting the phrase "not made for value," the court emphasized an ordinary meaning aligned with the statutory purpose, concluding that the legislation is intended to prevent gratuitous dispositions. The definitions derived from *Estate Wege* and *Estate Jager* reinforced the understanding that a disposition must have some tangible benefit in return to avoid being characterized as "not made for value." 
+
+Against this backdrop, the court deemed the appellants' arguments—that receiving less than reasonable market value constituted not receiving value at all—as unfounded. The court found no prior legal foundation suggesting that underpayment constitutes a disposition without value. It also underscored absurdities in the appellants’ interpretation, such as potential liability for recovering the purchase price alongside a requirement to return the property.
+
+Ultimately, the court interpreted that "not made for value" refers explicitly to no value received whatsoever, rather than inadequate consideration. The lack of consideration engendered scenarios where prior intentions to enrich creditors over others were necessary for setting aside transactions—conditions not applicable in the current factual scenario of an arm's-length sale.
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications** ([paras 36–37])
+
+The Supreme Court of Appeal dismissed the appeal, maintaining that the phrase "not made for value" explicitly denotes a transfer in which no consideration is exchanged rather than inadequate value. The judgment solidified the understanding that for the purposes of the Insolvency Act, underpayment or receiving less than fair market value does not equate to no value received. This decision has considerable implications for insolvency practices, affirming a narrow interpretation that may restrict liquidators from reversing transactions based solely on insufficient compensation. Thus, the ruling underscores the legislative intent to only contest transactions that fall substantially short of meeting the threshold of mutual benefit in insolvency cases. 
+
+---
+
+This case note summarizes the salient elements of the *Strydom N.O. and Another v Snowball Wealth (Pty) Ltd and Others* judgment through the FIRAC method, highlighting both the legal framework and the implications stemming from the court's interpretation of the law.

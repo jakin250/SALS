@@ -1,0 +1,40 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 1997
+
+# FIRAC Case Note: The State v. Abraham Liebrecht Coetzee and Others
+
+## F – Facts
+The case concerns a constitutional review of certain provisions in the Criminal Procedure Act 51 of 1977, specifically sections 245 and 332(5), as challenged by the applicants who were on trial for twelve counts of fraud in the Witwatersrand Local Division of the Supreme Court. Following the prosecution's case, they requested the trial judge, Marais J, to suspend the trial and refer the constitutionality of these provisions to the Constitutional Court ([1]–[2]). The referral was deemed appropriate given the likelihood of a constitutional breach being found ([3]).
+
+Section 245 establishes a presumption of guilt: if it is proven that the accused made a false representation, they are assumed to have known that it was false unless they can prove otherwise ([4]–[5]). This provision is categorized as introducing a "reverse onus," infringing on the presumption of innocence set forth in section 25(3)(c) of the Constitution ([6]–[8]). Section 332(5) similarly places the burden on directors or servants of a corporate body to prove they did not participate in the commission of an offence, allowing convictions despite a reasonable doubt about their guilt ([19]–[20]).
+
+## I – Issues
+The primary legal issues before the Constitutional Court revolve around:
+1. Whether section 245 of the Criminal Procedure Act violates the constitutional right to be presumed innocent.
+2. Whether section 332(5) infringes the same right by imposing a burden on accused individuals to prove their innocence regarding participation in an offence.
+3. If these provisions are unconstitutional, can their invalidation be justified under section 33(1) of the Constitution, which allows for limitations on rights if they are reasonable and justifiable in an open and democratic society ([8], [17]).
+
+## R – Rules
+The Court relied on several constitutional provisions and precedents:
+- Section 25(3)(c) of the Constitution, ensuring the right to a fair trial and the presumption of innocence ([6], [186]).
+- Section 33(1) of the Constitution, which allows for rights to be limited by law only if such limitations are reasonable and justifiable ([10], [133]).
+- The standard requiring proof beyond a reasonable doubt in criminal cases ([8], [12]). 
+
+The Court’s previous rulings emphasized the importance of the presumption of innocence in a fair trial and established that any reversed burden of proof constitutes a direct infringement of this right ([11], [20]).
+
+## A – Application
+### Section 245
+The Constitutional Court evaluated section 245 and concluded that it indeed violates the presumption of innocence as it places the burden on the accused to prove they did not know the representation was false. The Court highlighted that such a presumption is incompatible with the long-standing principle that the prosecution must prove guilt beyond a reasonable doubt ([8], [17], [52]).
+
+### Section 332(5)
+For section 332(5), the Court examined whether the shift of the burden of proof onto the accused to establish their innocence could be justified. The Court determined that this reverse onus creates a situation where an accused could be convicted despite reasonable doubt regarding their guilt, infringing on fundamental rights guaranteed under the Constitution ([19], [21]). 
+
+The objectives of promoting accountability in corporate governance do not outweigh the impermissible impact on the rights of the accused. The Court emphasized that such a broad provision cannot simply be categorized as a necessary measure to combat corporate crime when it undermines the protected right to a fair trial ([12], [20]). 
+
+### Justification under Section 33(1)
+The test for justification under section 33(1) was not met as the Court concluded that the infringement of rights is not reasonable or justifiable, particularly in a democratic society where the right to a fair trial and presumption of innocence are fundamental [41], [212].
+
+## C – Conclusion
+The Constitutional Court declared both sections 245 and 332(5) unconstitutional as they violate the right to a fair trial and the presumption of innocence guaranteed in the Constitution ([50]). The Court concluded that even though there may be compelling state interests in managing corporate crime, these interests do not justify such severe limitations on individual rights. Furthermore, no provision or amendment could be reasonably crafted to salvage these sections, leading to their complete invalidation effective immediately ([52]).
+
+The implications of this decision reaffirm the judiciary's commitment to upholding constitutional rights even in the face of significant public policy challenges, thus maintaining a balance between effective law enforcement and individual liberties.

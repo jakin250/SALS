@@ -1,0 +1,48 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2022
+
+### FIRAC Case Note
+
+**Case Title:** The National Director of Public Prosecutions v Moyane (474/2021) [2022] ZASCA 79 (31 May 2022)
+
+**F – Facts**: 
+
+The case concerns an appeal by the National Director of Public Prosecutions (NDPP) regarding the forfeiture of a 2010 Volkswagen 364 Scirocco motor vehicle, registered in the name of Albert Mathews Sithole, who did not actively defend the forfeiture application ([1]–[2]). The NDPP initiated the forfeiture proceedings under the Prevention of Organised Crime Act 121 of 1998 (POCA), claiming that the vehicle was either an instrumentality of an offence or the proceeds of unlawful activities ([1]).
+
+In September 2011, the NDPP obtained a preservation order for the vehicle based on allegations that it had been acquired through funds derived from illegal activities such as money laundering ([2]). During subsequent proceedings, it was established that a substantial portion of the vehicle's purchase price, amounting to R538 320, had been financed through payments from various individuals, many of whom were alleged to be associates of the respondent, Timothy Moyane. These payments lacked proper documentation, leading to suspicions surrounding their legitimacy ([11]–[19]).
+
+Moyane transferred the vehicle to Sithole shortly after its acquisition, claiming it was a gesture of compassion. However, the court noted concerns regarding the economic viability of this claim, as Sithole, a person with severe disabilities, lacked the means to have contributed financially to the vehicle’s purchase ([21]–[25]). Ultimately, the NDPP sought to establish that the proceeds used to finance the vehicle were linked to unlawful activities, with the intention of forfeiting it under POCA’s provisions ([5], [28]).
+
+**I – Issues**: 
+
+The primary legal questions before the court were:
+
+1. Whether the vehicle constituted 'proceeds of unlawful activities' or an 'instrumentality of an offence' under section 50 of the POCA ([1], [4]).
+2. Whether the NDPP had established, on a balance of probabilities, that Moyane's acquisition and subsequent transfer of the vehicle involved funds from unlawful sources ([4], [29]).
+
+**R – Rules**: 
+
+The court’s interpretation relied heavily on the definitions provided in the POCA. Under Section 50(1):
+
+- The NDPP must show, on a balance of probabilities, that the property in question is an instrumentality of an offence or the proceeds of unlawful activities ([4]).
+- "Proceeds of unlawful activities" are defined as any property or benefit derived from unlawful actions ([5]).
+
+The Plascon-Evans rule, as stated in National Director of Public Prosecutions v Zuma, governs the resolution of disputes in motion proceedings, asserting that if disputes arise, the court should primarily rely on the facts presented by the applicant that have not been materially contested by the respondent ([8]).
+
+Supplementary to this, the court touched upon the Wightman principles to highlight that genuine disputes must be substantiated, and mere denial or vague accusations do not suffice ([9]).
+
+**A – Application**: 
+
+In applying these principles, the Supreme Court found significant shortcomings in Moyane's arguments. It noted that the NDPP provided substantial evidence indicating that substantial portions of the vehicle's purchase money were unaccounted for or derived from dubious sources. 
+
+For instance, a critical review of the cash transactions demonstrated that a R20,000 cash deposit supposedly withdrawn from Moyane's bank account was incorrectly reported ([14]). The court also highlighted the absence of supporting documentation from Moyane that would validate his claims about the alleged legitimate sources of the funds. Additionally, the convenience of transferring the vehicle to Sithole shortly after its purchase was interpreted as a tactic to obscure ownership ([31]).
+
+The court concluded that the overwhelming circumstantial evidence supported the NDPP's claims, and Moyane's failure to provide credible explanations for the funds further weakened his position. The mere assertion by Moyane that the funds were legitimate did not suffice to create a bona fide dispute of fact ([30]).
+
+**C – Conclusion**: 
+
+The court found in favor of the NDPP, establishing that the vehicle was indeed the proceeds of unlawful activities due to its questionable financing and Moyane's lack of credible defense ([32]). The full court's previous ruling that favored Moyane without adequately addressing the NDPP’s evidence was deemed incorrect, leading to the reversal of that decision. 
+
+The appeal was upheld, and the Supreme Court ordered the forfeiture of the vehicle to the state, mandating that it be controlled by the Asset Forfeiture Unit, with costs awarded to the appellant ([34]). This decision underscores the stringent requirements for disputing claims in forfeiture proceedings and reinforces the efficacy of POCA in addressing proceeds and instrumentalities of crime. 
+
+In conclusion, the case exemplifies the judicial system's stance against the use of illicitly obtained funds in asset acquisition and sets a precedent for future forfeiture applications, emphasizing the need for concrete evidentiary support from defendants to raise valid challenges.

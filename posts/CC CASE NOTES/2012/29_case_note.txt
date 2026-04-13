@@ -1,0 +1,43 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2012
+
+# FIRAC Case Note: National Credit Regulator v Opperman and Others
+
+## F – Facts
+The case at hand involves the interpretation of section 89(5)(c) of the National Credit Act 34 of 2005 (NCA), particularly its compatibility with section 25(1) of the South African Constitution, which protects against arbitrary deprivation of property. The dispute began when Fillippus Albertus Opperman (the first respondent) lent R7 million to his friend, Jacobus Boonzaaier, for property development, without being registered as a credit provider as mandated by the NCA ([1]–[2]). 
+
+In 2009, when Boonzaaier defaulted on repayment, Opperman sought to sequestrate Boonzaaier’s estate. The High Court raised concerns about the legality of the credit agreement and eventually declared the provisions governing unregistered credit providers unconstitutional ([4]–[6]). The contention was that section 89(5)(c), which mandates that rights of recovery for unregistered credit providers are either cancelled or forfeited to the state without discretion, resulted in arbitrary deprivation of property. The NCR appealed the High Court’s decision, and the case was heard before the Constitutional Court ([2], [11]).
+
+## I – Issues
+The key legal questions are:
+1. What is the correct interpretation of section 89(5)(c) of the NCA?
+2. Does section 89(5)(c) relate to property as defined in section 25(1) of the Constitution?
+3. Is the provision an instance of arbitrary deprivation of property?
+4. Can the limitation be justified under section 36(1) of the Constitution?
+5. If the provision is unconstitutional, what is the appropriate remedy? ([3]).
+
+## R – Rules
+The constitutional provisions in question include:
+- **Section 25(1)**: "No one may be deprived of property except in terms of law of general application, and no law may permit arbitrary deprivation of property." 
+- **Section 36(1)**: Allows limitations of rights under the Bill of Rights, provided they are reasonable and justifiable in an open and democratic society ([3]).
+- **Common law** principles around unlawful agreements and unjustified enrichment, which historically allowed a degree of judicial discretion ([13]–[14]).
+
+The NCA, particularly section 89(5), states:
+- **Section 89(5)(a)**: A credit agreement is void from inception unless registered.
+- **Section 89(5)(c)**: Rights of the credit provider to recover are either cancelled or forfeited to the state unless doing so would unjustly enrich the consumer ([1]).
+
+## A – Application
+The Court’s analysis began with the interpretation of section 89(5)(c). The High Court concluded it effectively removes the right to restitution for unregistered credit providers, leading to arbitrary deprivation of property under section 25(1) ([9], [10]). This was reiterated by the Constitutional Court, emphasizing the necessity for judicial discretion to evaluate each case’s specific context—such as potential turpitude or lack of intention to violate the NCA ([18]–[19]).
+
+The ruling also considered whether "purported rights" as defined under subparagraph (c) are property. The Court found that such rights have economic value and meet the definition of property under section 25 ([25]–[28]). It then examined whether the deprivation under section 89(5)(c) was arbitrary and concluded that no substantial justification had been provided for it as either punitive or regulatory, emphasizing that the impact is disproportionate to the stated aims of the NCA ([65]–[71]).
+
+## C – Conclusion
+The Constitutional Court upheld the High Court’s declaration of constitutional invalidity for section 89(5)(c) of the NCA on the grounds of arbitrary deprivation of property, confirming that the legislation did not provide sufficient reasons or justifications to limit the rights under section 25(1) of the Constitution ([91]). The NCR's request for a reading-in to include judicial discretion was rejected; the Court emphasized that such legislative gaps should be addressed by Parliament, and not patched by judicial interpretation ([84]–[86]).
+
+The ruling reaffirmed the necessity for legislation to balance the interests of consumers and credit providers, while ensuring that any deprivation of rights is supported by proper justification. This judgment is crucial as it sets a precedent regarding the interpretation of financial regulatory frameworks in alignment with constitutional protections ([90]).
+
+---
+**References:**
+- **Constitution of the Republic of South Africa, 1996**.
+- **National Credit Act 34 of 2005**.
+- Case Law: National Credit Regulator v Opperman [2012] ZACC 29; FNB v CSARS [2002] ZACC 5; Cherangani Trade and Invest v Mason [2011] ZACC 12.

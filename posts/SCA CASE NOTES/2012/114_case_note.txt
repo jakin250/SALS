@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# Case Note: Donald & Richard Currie (Pty) Ltd v Growthpoint Properties Ltd (572/11) [2012] ZASCA 114
+
+## FIRAC Analysis
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–6])
+
+The case revolves around an offer extended by **Growthpoint Properties Ltd** to holders of equities in **Paramount Property Fund Ltd**. Richard Currie, an owner of equities and director of **Donald & Richard Currie (Pty) Ltd**, intended to accept this offer both personally and on behalf of his company. On 18 December 2006, Growthpoint circulated a proposal to exchange Paramount units for either linked units or cash. Richard Currie completed the acceptance forms incorrectly, resulting in a request for cash instead of linked units.
+
+Despite receiving cash payment, he sought to revert to his original intention of accepting linked units once he had received the correct certificates, claiming that the acceptance forms were filled with errors. His actions led to an initial claim that the acceptances were invalid due to these errors, which the **South Gauteng High Court** ultimately dismissed, asserting that Currie was bound by his election to accept cash.
+
+Upon appeal to the **Supreme Court of Appeal**, the court evaluated whether Currie's acceptance was valid, focusing on the nature of his errors and the responsibility of the parties concerned.
+
+### I – Issues: Legal or Constitutional Questions ([paras 5–6])
+
+The primary legal issue on appeal was whether Currie's acceptance of Growthpoint's offer could be deemed void due to errors made in filling out the acceptance form. Specifically, the concerns were:
+
+1. **Was Currie’s acceptance of the offer made with a clear and unequivocal intent?**
+2. **Was the basis for Currie's claim of error reasonable, allowing him to avoid a binding contract?**
+3. **Should Computershare, the processing agent, have identified that an error had occurred based on the flawed completion of the forms?**
+
+These issues center around the application of contract law principles, particularly concerning mistake and acceptance, and whether Currie's errors constituted valid grounds to escape the binding nature of the acceptance.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 24–25])
+
+In considering the case, the court referenced established legal principles surrounding contract acceptance, particularly the doctrine of mistake. The leading case cited was **Sonap Petroleum (SA) (Pty) Ltd v Pappadogianis** 1992 (3) SA 234, which outlined the criteria for determining whether a mistake could void an acceptance, emphasizing:
+
+- The nature of the mistake (is it a unilateral mistake by the accepting party?),
+- The reasonable belief of the non-mistaken party based on the mistaken party’s actions,
+- Whether there was a misrepresentation of intention by the mistaken party.
+
+The court’s rationale was also supported by provisions within the **Companies Act 61 of 1973**, specifically section 440K, which governs affected transactions, and the terms of Growthpoint’s offer document that outlined how elections were to be clearly made.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 24–31])
+
+The court meticulously examined the series of errors alleged by Currie during his completion of the acceptance forms. It noted that:
+
+1. **Mistake and Its Reasonableness**: Currie’s claim of a mistake was rooted in his confusion over whether he or the company held debentures or linked units, leading to improper completion of the forms. The court found Currie’s actions, including his choice to fill in the cash option, to be deliberate, as evidenced by the clear articulation of his initial actions on the forms. The court opined that simply stating an error or misunderstanding does not suffice in avoiding a binding acceptance; the mistake must be reasonable.
+
+2. **Role of Computershare**: On the question of whether **Computershare** ought to have known that Currie's selections were erroneous, the court ruled that no ambiguity existed in the acceptances received. Since Currie completed the sections of the forms indicating a choice for cash consideration, the processing agent was justified in accepting those submissions at face value without requiring further inquiry.
+
+3. **Equivocal Acceptance**: The court established that the aim of the acceptance form was unequivocal and that Growthpoint had no obligation to probe into Currie's intention beyond what was presented in the form itself. The criteria for invalidating an acceptance due to alleged mistakes did not satisfy the requisite standard, maintaining that Currie's acceptance was binding regardless of his post hoc assertions regarding intentions.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 31–32])
+
+The **Supreme Court of Appeal** ultimately dismissed Currie and his company’s appeal with costs, confirming that their acceptance of the Growthpoint offer was valid. The court’s ratio decidendi highlighted that:
+
+- The completion of the acceptance form, despite errors, constituted a binding acceptance of the offer as indicated by Currie's clear terms in the forms.
+- Currie’s post-acceptance attempts to alter his election did not constitute a reasonable or legitimate basis to invalidate the contract.
+
+This case underlines the importance of precision and clarity in the acceptance of contractual offers and reinforces the principle that parties are generally bound by the terms of their own conduct, even when mistakes occur. It serves as a significant reminder for corporate entities and individual investors to carefully review documentation and ensure completeness in dealings involving financial instruments. Additionally, it clarifies the limits of a processing agent's responsibility in ascertaining a client's intent beyond what is presented in contractual agreements. 
+
+The implications of this case extend not only within corporate law but set a precedent in contract law regarding acceptance, mistakes, and the obligations of parties in contractual negotiations.

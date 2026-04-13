@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2010
+
+# Case Note: FIRAC Method - CSARS v Colgate-Palmolive (Pty) Ltd (528/09) [2010] ZASCA 98
+
+## F – Facts
+The case concerns an appeal brought by the **Commissioner for South African Revenue Services** (applicant) against **Colgate-Palmolive (Pty) Ltd** (respondent) regarding the classification and taxation of a chemical product imported by Colgate known as **tetranyl L1-905** ([1]). Tetranyl is primarily used in the manufacture of fabric softeners and conditioners, particularly **StaSoft**, and is imported in paste form combined with isopropanol solely for handling and transport purposes. The Commissioner alleged that customs duties were applicable under tariff heading **3402.12** of the **Customs and Excise Act 91 of 1964**. This duty amount to arrears of **R3 377 732** which Colgate vigorously contested ([1]).
+
+Upon Colgate's appeal against the Commissioner's determination, the **KwaZulu-Natal High Court** ruled that tetranyl should be classified under tariff heading **3809.91**, leading to a dismissal of the Commissioner’s claims regarding customs duties ([2]). The high court's application of existing legal principles in making its determination, influenced by expert testimony regarding the chemical properties and primary functions of tetranyl, was fundamental to its decision ([3]).
+
+## I – Issues
+The key legal issue was whether tetranyl is correctly classified for customs duties under tariff heading **3402.12** as contended by the Commissioner or under tariff heading **3809.91** as claimed by Colgate ([2],[4]). Specifically, the legal questions arising from this issue included:
+1. What are the applicable criteria for the classification of goods under South African tariff law, particularly concerning the definitions and characteristics of the respective tariff headings?
+2. Is the surface-active function of tetranyl primary or subsidiary compared to its primary function as a fabric softener?
+
+## R – Rules
+The legal analysis regarding tariff classification follows established principles as articulated in prior cases such as **Secretary for Customs and Excise v Thomas Barlow and Sons Ltd 1970 (2) SA 660 (A)** and **IBM SA (Pty) Ltd v Commissioner for Customs and Excise 1985 (4) SA 852 (A)** ([6]). The classification approach requires a three-stage process:
+1. Understanding the language and definitions pertinent to tariff headings.
+2. Assessing the characteristics and intended uses of the product.
+3. Determining the most appropriate tariff classification based on the findings above.
+
+Tariff heading **3402** pertains specifically to organic surface-active agents and related preparations, while **3809** involves miscellaneous chemical products applicable to finishing agents used in textile applications ([4],[5]). The explanatory notes for heading **3402** clarify that products where the surface-active function is not the primary or a critical function shall be excluded from this classification ([10]).
+
+## A – Application
+The court found that both parties agreed the tetranyl functions as a finishing agent and is best suited for domestic textile treatment, being a **quaternary ammonium compound** with softening properties ([7]). The primary dispute was the extent to which its surfactant properties influenced its classification. The Commissioner contended that since tetranyl exhibits some surface-active properties, it should automatically fall under heading **3402.12**.
+
+However, the court upheld the lower court's findings that the main function of tetranyl is to condition and soften fabric, a function dominated by its properties as a finishing agent and not its surface activity. Given that surfactancy was deemed subsidiary, the decision to classify under **3809.91** was appropriate ([11]). Moreover, the appellate court concurred that it was the nature and intended use of tetranyl as established in expert testimonies that justified its classification under **3809.91**, aligning with the high court's ruling ([12]).
+
+## C – Conclusion
+The **Supreme Court of Appeal** upheld the high court's ruling, thereby dismissing the Commissioner's appeal. The court concluded that tetranyl, having a primary function as a finishing agent in textile applications, should be classified under tariff heading **3809.91** rather than the organic surface-active agents group. This decision sets a precedent concerning the classification of chemical products under South African tariff law, emphasizing the importance of product function over generic characteristics in tariff determinations ([12]). The implications for customs duty assessment are significant, potentially affecting the revenue implications for similar products in the industry and reinforcing the need for accurate classification based on intended use and functional characteristics. The court ordered costs to be paid by the Commissioner, including those for two counsel ([12]).
+
+---
+
+### References
+- Secretary for Customs and Excise v Thomas Barlow and Sons Ltd 1970 (2) SA 660 (A).
+- IBM SA (Pty) Ltd v Commissioner for Customs and Excise 1985 (4) SA 852 (A).
+- Customs and Excise Act 91 of 1964.

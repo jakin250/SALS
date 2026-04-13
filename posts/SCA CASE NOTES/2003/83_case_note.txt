@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2003
+
+# FIRAC Case Note
+
+**Case Title: Certain Underwriters of Lloyds of London v. Theresa Harrison**  
+**Court: Supreme Court of Appeal of South Africa**  
+**Case No: 24/2003**  
+**Date Heard: 9 September 2003**  
+**Date Delivered: 18 September 2003**  
+
+---
+
+### F - Facts
+
+The appellants, Certain Underwriters of Lloyds of London, issued a motor insurance policy to the respondent, Theresa Harrison, on 20 September 1999, which was renewed in 2000. The policy insured a Toyota Land Cruiser against loss, theft, or damage ([para 1]). The claim arose when the vehicle was damaged on 23 September 2000 while driven by Mr. Xaba, at the request of Harrison's husband. The appellants rejected Harrison's claim, prompting her to sue in the High Court at Pretoria for indemnity. The trial, presided by Basson J, led to a ruling that the appellants were liable, resulting in a declaratory order in favor of Harrison ([paras 2–3]).
+
+The crux of the dispute was an alleged failure by Harrison or her husband to disclose that the vehicle had been unlawfully imported into South Africa. The appellants argued that this non-disclosure entitled them to avoid the insurance contract, thereby disentitling Harrison from claiming indemnity. This issue, while not explicitly stated in the pleadings, was introduced at the pre-trial conference and thoroughly examined during trial ([paras 4–5]).
+
+Evidence revealed that Harrison had arranged the purchase of the vehicle through J&H Holdings, involving a payment of £15,000 directly to the manufacturer in Japan. Following this, the vehicle was registered in Swaziland before being brought into South Africa, during which guidelines regarding import permits were allegedly violated ([paras 6–10]).
+
+The core legal question became whether the fact of unlawful importation was material to the insurance risk and whether it should have been disclosed. The court a quo found that the mere registration of the vehicle in South Africa constituted a prima facie case of lawful entry, neglecting the importance of the import permit requirement ([paras 11–13]).
+
+### I - Issues
+
+1. **Disclosure of Material Facts**: To what extent does a non-disclosure of unlawful importation affect the validity of the insurance policy?
+2. **Knowledge Attribution**: Was the respondent, through her husband, aware of the material facts regarding the vehicle’s unlawful importation and did this affect the duty of disclosure?
+3. **Implications of Unlawful Goods**: How does the concept of public policy apply to insurance contracts involving unlawfully imported vehicles?
+
+### R - Rules
+
+The fundamental rules governing non-disclosure in insurance are encapsulated in the case of **Mutual and Federal Insurance Co Ltd v Oudtshoorn Municipality** 1985 (1) SA 419 (A), which mandates that insured parties must disclose all material facts known to them that would affect the insurer's assessment of risk ([para 4]). A breach of this duty permits insurers to void the contract. 
+
+Further, as per **Randbank Bpk v Santam Versekeringsmaatskappy Bpk** 1965 (4) SA 363 (A), an agent’s knowledge is imputed to the principal—in this case, Harrison's husband’s knowledge during the application process is significant ([para 4]).
+
+The test for materiality is objective; it aims to ascertain whether undisclosed facts could influence an insurer’s decision to accept a risk, as articulated in the case **Oudtshoorn Municipality** ([para 17]). The case **Geismar v Sun Alliance and London Insurance Ltd** [1977] 3 All ER 570 (QBD) illustrates that insuring smuggled goods raises public policy issues, prompting a risk assessment beyond mere contractual obligations ([para 18]).
+
+### A - Application
+
+The court below erroneously relied on the presumption that registration of the vehicle indicated lawful entry, without addressing the unequivocal legal requirement for an import permit, which could invalidate the registration itself ([para 13]). The appellant evidence established that no import permit was issued for the vehicle and thus deduced that it had been unlawfully imported, a fact that the respondent’s husband likely knew due to his prior experience in vehicle importation ([para 15]).
+
+This knowledge directly impacts the duty of disclosure. Since applying for the insurance was facilitated by the husband, any knowledge he had regarding the unlawful status of the vehicle should have been disclosed to the appellants. The court’s failure to account for the husband’s role in the acquisition and registration process was a pivotal error ([para 16]).
+
+The court a quo’s position that registration implied lawful importation overlooked comprehensive evidence from the Department of Trade and Industry confirming the absence of an import permit. This lacking piece was critical and was not discussed in the judgment of the court a quo, undermining its conclusions ([paras 15, 20]).
+
+Moreover, the unlawful status of the vehicle was undoubtedly relevant to the insurer's risk assessment. It was material because it could lead to the vehicle’s forfeiture, thus undermining the insurers’ rights to salvage. The public policy rationale, as seen in **Geismar**, stressed that insuring unlawfully imported goods contravenes fundamental principles of legality and public trust in insurance contracts ([para 19]).
+
+### C - Conclusion
+
+The Supreme Court of Appeal concluded that the appellants were justified in denying the claim due to the respondent's failure to disclose material facts about the unlawful importation of the vehicle. The appeal was upheld, dismissed the claims against the insurers, and indicated that the principles of public policy and material non-disclosure support the ruling ([paras 21, 20]). The outcome reinforces the crucial role of accurate risk assessment in insurance contracts and emphasizes the legal weight of knowledge attributed to agents in contractual agreements. The ruling carries implications for future forums regarding the enforceability of contracts where unlawful actions underpin the insured risk.

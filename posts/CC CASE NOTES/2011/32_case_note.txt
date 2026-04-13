@@ -1,0 +1,35 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: President of the Republic of South Africa v M & G Media Limited [2011] ZACC 32
+
+## F - Facts 
+On 17 May 2011, the Constitutional Court of South Africa heard a case concerning the refusal by the Presidency to disclose a report prepared by two judges sent to observe the 2002 presidential election in Zimbabwe. The Mail & Guardian (M & G) sought access to this report under the Promotion of Access to Information Act (PAIA), but the request was denied on two grounds: (1) that disclosing the report would reveal confidential information from another state, as per section 41(1)(b)(i) of PAIA; and (2) that the report was intended to assist the President in forming executive policy, as described in section 44(1)(a) of PAIA ([1]-[2]).
+
+M & G contested the refusal in court, and both the North Gauteng High Court and the Supreme Court of Appeal ruled against the state, finding that the refusal was not justified under the cited exemptions. The High Court ordered the state to release the report in full. The state appealed to the Constitutional Court, arguing that it had not been able to adequately justify its refusal due to the constraints of PAIA ([3]-[4]).
+
+## I - Issues 
+The key issues in this case revolved around: 
+1. How the state discharges its burden, under section 81(3) of PAIA, in justifying its refusal to disclose a record.
+2. The circumstances under which a court may call for additional evidence, particularly the contested record itself, as provided under section 80 of PAIA ([5]).
+
+## R - Rules 
+The relevant legal framework consists of the Constitution of South Africa, particularly section 32, which affirms the right of access to information held by the state. This constitutional right is operationalized through PAIA, which sets procedural requirements for requests and specifies grounds for refusal.
+
+Key sections of PAIA pertinent to the case include:
+- **Section 11**, which mandates access if procedural requirements are met and no valid grounds for refusal exist.
+- **Section 41(1)(b)(i)** and **Section 44(1)(a)**, which provide limited circumstances under which disclosure may be refused based on confidentiality and policy formulation.
+- **Section 81(3)** details that the party claiming a right of refusal bears the burden of proof in civil proceedings.
+- **Section 80** allows courts to examine contested records to determine the legitimacy of claimed exemptions without being influenced by privacy or confidentiality concerns ([6]-[14]).
+
+## A - Application 
+In applying these legal principles, the Court emphasized that the burden of proof to justify the refusal lay with the state and was to be established on the balance of probabilities—a standard commonly used in civil proceedings ([23]-[25]). The Court noted the insufficiency of the state's evidence. The mere repetition of statutory language without demonstrating how the report fell within the claimed exemptions was inadequate. Furthermore, the state officials’ affidavits, which did not provide substantive details on how the information was confidential, could not satisfy the standard required ([26]-[33]).
+
+Additionally, the Court recognized that the limitations of PAIA, specifically the inability to reference the contents of the record when providing reasons for refusal, hampered the state’s ability to justify its position ([57]-[60]). The potential constraints imposed by sections 25(3)(b) and 77(5)(b) did warrant consideration for invoking section 80, as it may allow for additional judicial examination to clarify the claims made by the state ([55]-[61]).
+
+Given the discrepancies and inadequate evidence from the state, the Court found that the case warranted a fresh evaluation of the contested record under section 80. It asserted that such an examination would serve the interests of justice and fulfill the function of promoting transparency essential for a democratic society. This would involve a thorough review of the report to assess whether any parts could be reasonably severable and disclosed, despite the exemptions asserted by the state ([66]-[70]).
+
+## C - Conclusion 
+The Constitutional Court ultimately held that the appeal by the state should succeed, but it remitted the matter back to the High Court for proper examination of the contested record and determination of the merits of the claimed exemptions. The rationale was that the High Court had erred in not invoking section 80 to examine the report, acknowledging that the circumstances warranted a judicial inquiry into its contents ([72]). The court ordered no costs, underlining its commitment to the principle of access to information as a foundation of accountability in a democratic society ([71]). 
+
+This case reaffirms the crucial balance between governmental confidentiality and the public's right to information, emphasizing that mere assertions of confidentiality must be backed by credible evidence able to withstand judicial scrutiny.

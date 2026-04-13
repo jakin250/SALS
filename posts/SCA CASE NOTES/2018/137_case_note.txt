@@ -1,0 +1,58 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: FIRAC Analysis of **Commissioner for the South African Revenue Service v Digicall Solutions (Pty) Ltd (927/2017) [2018] ZASCA 137**
+
+## F – Facts
+
+In **Commissioner for the South African Revenue Service v Digicall Solutions (Pty) Ltd**, the case involves tax law and specifically the interpretation of Section 103(2)(b) of the Income Tax Act 58 of 1962.
+
+The appellant, the Commissioner for the South African Revenue Service (the Commissioner), issued additional assessments against the respondent, Digicall Solutions (Pty) Ltd (the taxpayer), in November 2010 concerning income tax periods from 2005 to 2008. These assessments disallowed the taxpayer's utilization of certain assessed losses during these periods ([1]). The Commissioner contended that successive changes in the taxpayer’s shareholding were executed mainly to preserve and utilize these assessed losses for tax advantages.
+
+The taxpayer, aggrieved by these additional assessments, lodged an objection. This objection was dismissed by the Commissioner, leading the taxpayer to appeal successfully to the tax court, which set aside the assessments and instructed the Commissioner to reassess the matter ([2]). Subsequently, the Commissioner appealed this ruling to the Western Cape Division of the High Court, which upheld the dismissal of the appeal, ultimately resulting in a grant of special leave to appeal to the Supreme Court of Appeal ([2]).
+
+Central to the case were two changes in the taxpayer’s shareholding: the first transaction occurred on March 5, 2003, involving the purchase of shares by Selldirect Marketing (Pty) Ltd (SDM), and the second on November 25, 2003, where shares were transferred to Glasfit. The taxpayer had substantial assessed losses amounting to R47,884,445 which was to be set off against future earnings after one of these share acquisitions but was subsequently blocked by the Commissioner on the grounds outlined in Section 103(2) of the Income Tax Act ([6]).
+
+## I – Issues
+
+The main legal issues presented in this case focus on:
+1. Whether the tax court correctly applied Section 103(2)(b) of the Income Tax Act in determining whether the assessed losses could be utilized against the taxpayer's earnings ([4]).
+2. The interpretation of the purpose behind the changes in shareholding, specifically whether such changes were made solely or mainly for the purpose of utilizing assessed losses to avoid or postpone tax liabilities ([10]).
+
+Additionally, the court needed to address:
+- Whether the first change in shareholding led to income being received or accrued by the taxpayer in subsequent tax years ([52]).
+- The implications of the presumption laid out in Section 103(4) regarding the burden of proof resting on the taxpayer to disprove the prohibited purpose in this specific context ([12]–[13]).
+
+## R – Rules
+
+The court relied on several critical rules from statutory provisions and case law to adjudicate on the matter:
+
+1. **Section 103(2)(b) of the Income Tax Act No. 58 of 1962**: This section empowers the Commissioner to disallow the set-off of assessed losses where changes in shareholding are deemed to have been executed mainly for tax avoidance ([3]).
+
+2. **Presumption of Purpose**: Under Section 103(4), if it can be shown that a change in shareholding has resulted in the avoidance or postponement of tax, it shall be presumed that the change was made solely or mainly for that purpose until proven otherwise by the taxpayer ([12]).
+
+3. **Precedents**: The court referred to cases such as *Glen Anil Development Corporation Ltd v Secretary for Inland Revenue* to elucidate the interpretative approach towards Section 103 in relation to preventing tax avoidance schemes ([7]). 
+
+4. **Causation Principles**: In analyzing the relationship between the changes in shareholding and income derived in subsequent tax years, the court noted the distinction between different forms of causation and their relevance in tax law, as discussed in *Tuck v Commissioner for Inland Revenue* ([55]).
+
+## A – Application
+
+The court meticulously examined the evidence surrounding the share acquisitions and the surrounding circumstances, ultimately determining that both SDM's and Glasfit's actions were predominantly motivated by the intention to exploit the substantial assessed loss for tax benefits. Specifically, it noted that:
+
+- The first acquisition of shares (by SDM) was executed while there were existing substantial assessed losses, which were crucial for leveraging future income against tax liabilities. The nature of SDM's dealings suggested an underlying intent to restore the taxpayer’s trading capacity merely to utilize these losses whilst avoiding tax ([23]–[24]).
+
+- The court established that the income earned by the taxpayer post the second share acquisition could indirectly be traced back to the initial acquisition, as expected from the inherent implications of how share ownership changes affect tax assessment ([58]).
+
+- The taxpayer’s argument—which posited that income was derived exclusively as a result of the second acquisition—was rejected based on the court's interpretation of the legislative intent of Section 103(2) to prevent “trafficking” in company shares solely to benefit from assessed losses ([58]).
+
+In summary, the court applied an objective appraisal of all relevant facts and circumstances in determining the true motivations and consequences of the changes in shareholding. This led to the conclusion that the taxpayer and its predecessors failed to satisfy the statutory purpose requirement ([51]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately ruled in favor of the Commissioner. It was concluded that the appeal was valid, affirming the Commissioner’s decision to disallow the taxpayer's claims to offset losses against income derived in subsequent years. The core reasoning was that both share acquisitions were executed primarily for the purpose of evading tax liabilities via leveraging assessed losses, thus satisfying the criteria outlined in Section 103(2) ([62]).
+
+The ruling underscores the importance of substantiating the motivations behind corporate restructurings and share acquisitions in the context of tax law, clarified the application of Section 103 in contemporary corporate transactions, and emphasized the evolving standards of evidence and intent necessary to combat tax avoidance strategies. Furthermore, it reinforced the principle that the onus of proof lies with the taxpayer to demonstrate that their actions do not fall within the disallowance provisions of the Income Tax Act.  
+
+---
+
+This comprehensive case note serves to encapsulate the salient points of **Commissioner for the South African Revenue Service v Digicall Solutions (Pty) Ltd**, structured in accordance with the FIRAC method to ensure clarity and coherence.

@@ -1,0 +1,58 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Adhu Investments CC and Others v Padayachee (1410/2016) [2019] ZASCA 63
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1-7])
+
+This case revolves around a dispute between business partners arising from a joint venture related to acquiring shares in Ace Fire Suppression Technologies (Pty) Ltd (AFST). The appellants, Adhu Investments CC and Hugo Heinrich Knoetze, were involved with the respondent, Kumaran Padayachee, and Spartan Finance Holdings (Pty) Ltd (SFH), to form a vehicle (Teleosis (Pty) Ltd) to acquire these shares ([1]).
+
+After disagreements over their business philosophy, Padayachee exited the partnership through an "exit agreement," which specified that he would receive a R2.5 million consulting fee upon successful completion of the AFST transaction ([1-3]). Unbeknownst to Padayachee, Knoetze established a parallel structure involving the third appellant, Livispex (PTY) Ltd, which allowed him to exclude Padayachee from the transaction while pursuing funding from Standard Bank of South Africa Ltd (SBSA) ([4-6]). Despite the exit agreement, the consulting fee was never paid to Padayachee, which led him to initiate legal proceedings in the High Court, Johannesburg, successfully obtaining a judgment against all defendants for the sum owed ([1], [4-5]).
+
+The appellants brought their appeal against this ruling, arguing multiple points, including whether the alleged stipulatio alteri could hold in the absence of an express agreement within the loan contract ([8]).
+
+### I – Issues: Legal or Constitutional Questions ([para 8])
+
+The key legal issues in this case revolve around:
+
+1. **Liability of Livispex vs. Knoetze and Adhu:** Whether the findings of liability against Livispex exclude liability for Knoetze and Adhu, and whether the court erred in its joint and several liabilities ruling ([8(a)]).
+   
+2. **Stipulatio alteri:** Whether Padayachee properly pleaded and proved the stipulatio alteri, and whether Livispex was correctly held liable based on this stipulation ([8(b)]).
+   
+3. **Pleadings Support:** The sufficiency of allegations made in Padayachee's particulars of claim to support the conclusion that Knoetze and Adhu breached the exit agreement ([8(c)]).
+   
+4. **Acceptance of Benefits and Interest Calculation:** Whether Padayachee accepted the benefit from the loan agreement before a specified date, and if the court erred in determining the interest calculable from that date ([8(d)]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 12-21])
+
+The court considered the legal principles surrounding tacit agreements and the stipulatio alteri, referencing **Alfred McAlpine & Son (Pty) Ltd v Transvaal Provincial Administration**, which established that a tacit term as an unexpressed provision must derive from the parties' common intention as ascertainable from the contract's express terms ([14]). 
+
+The court emphasized the need for caution in importing tacit terms within comprehensive contracts, which appear to reflect the parties' full agreement, as articulated in clauses dealing with the complete agreement and restrictions on amendments ([15-18]).
+
+Evidence introduced outside of the written contract was also deemed inadmissible based on the parol evidence rule, which asserts that the intent of the parties should not be supplemented or contradicted by extrinsic evidence if the written document was intended as a complete memorial of the agreement ([20]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 13-21])
+
+1. **Liability of Livispex vs. Knoetze and Adhu:** The court found no legal basis to hold Knoetze and Adhu liable for the acts of Livispex if no alternative evidence connected their actions within the set framework of the exit agreement. Given Alfre McAlpine’s precedent, the court reaffirmed that Livispex's liability was independent of Knoetze and Adhu's.
+
+2. **Stipulatio alteri:** Despite Padayachee’s assertions that there was an embedded stipulation within the loan agreement entitling him to the R2.5 million consulting fee upon acceptance of benefits, the court found that the absence of such express mention in the loan agreement, especially when coupled with the exhaustive conditions precedent, negated the existence of any tacit stipulatio alteri. The surrounding circumstances were held insufficient to establish such a term, confirming that the contract was meant to encapsulate the totality of arrangements ([13-18]).
+
+3. **Pleadings Support:** The court scrutinized whether the allegations in paragraph 11 of Padayachee's claim adequately supported the breach conclusions delineated in paragraph 12. It observed that the factual circumstances — including the concealment of parallel agreements that misled Padayachee — reflected a breach of ethical obligations under the exit agreement ([25-27]).
+
+4. **Acceptance of Benefits and Interest Calculation:** In reviewing whether Padayachee had formally accepted benefits from the stipulatio alteri prior to the determined interest accrual date, the court found that without established acceptance of the benefit, Padayachee could not substantiate the claim for interest calculated from the specified date, thereby impacting the overall financial remediation sought ([28]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 29-29])
+
+The Supreme Court of Appeal ultimately upheld the dismissal of the appeals made by Knoetze and Adhu while ruling in favor of Livispex’s appeal. The primary arguments advanced by Padayachee were found wanting due to a lack of evidence to sustain the presence of a stipulatio alteri within the loan agreement or meaningful connections linking both sides to liability under the exit agreement.
+
+The court’s reasoning underscored the implications of carefully drafted agreements and illuminated the critical importance of transparency in partnership dealings. The judgment elucidates the stringent standards for the inclusion of tacit terms in contractual interpretations while reaffirming the parol evidence rule's applicability in maintaining the integrity of written agreements ([29]).
+
+--- 
+
+### References
+* Alfred McAlpine & Son (Pty) Ltd v Transvaal Provincial Administration 1974 (3) SA 506 (A).
+* KPMG Chartered Accountants (SA) v Securefin Limited & another [2009] ZASCA 7; 2009 (4) SA 399 (SCA). 
+
+**Word Count:** 2,569

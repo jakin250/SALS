@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Botha v Standard Bank of South Africa Ltd (445/2018) [2019] ZASCA 108
+
+## FIRAC Method
+
+### F – Facts
+The court case revolves around mortgage debt involving the appellant, Ms. Antoinette Botha, and the respondent, Standard Bank of South Africa Ltd. The relevant background starts with a home loan agreement on 20 November 2008 between the bank and Mr. Christoffel Theunis Botha, Ms. Botha's husband. As part of the agreement, a mortgage bond was registered over their property, and Ms. Botha agreed to act as surety. 
+
+By 28 November 2011, Mr. Botha's estate was sequestrated. The bank sought to recover debts through this estate, and on 26 January 2015, it was acknowledged that the debts owed by Mr. Botha became due. Prescription began under the relevant sections of the Prescription Act 68 of 1969 (the Act). Ms. Botha contended that with the cancellation of the mortgage bonds, the debt's character transformed from being secured by mortgage to unsecured, thus applying a shorter prescription period of three years under section 11(d) of the Act. The bank refuted this, asserting the debt remained a secured mortgage bond debt, hence retaining the 30-year prescription period under section 11(a)(i) of the Act.
+
+The High Court sided with the bank, dismissing her argument and reinforcing the character of the debt. This decision led Ms. Botha to appeal.
+
+### I – Issues
+The key legal question addressed by the court was whether the cancellation of the mortgage bond, occurring after the mortgage debt became due, altered the applicable prescription period from 30 years to three years. Additional issues included the interruption of prescription due to payments made by the estate's trustees, which was also resolved in favor of the bank ([paras 1–2]).
+
+### R – Rules
+The court relied on several legal principles established under the Prescription Act 68 of 1969:
+
+1. **Section 11** stipulates different periods of prescription based on the nature of the debt. Specifically:
+   - **Section 11(a)(i)** applies a 30-year prescription period to debts secured by mortgage bonds.
+   - **Section 11(d)** prescribes a three-year period for other debts unless specified otherwise in legislation.
+   
+2. **Section 12(1)** indicates that prescription begins to run once the debt is due.
+
+Furthermore, the decision from **Oliff v Minnie** was pivotal. Its precedent established that even if a mortgage bond was cancelled or ceased functioning as security, the debt remained classified as secured, and its original prescription period held ([paras 9–10], [12]).
+
+### A – Application
+In analyzing the facts, the Supreme Court of Appeal referred back to both **Oliff** and **Investec Bank v Erf 436 Elandspoort**. The court concluded that the classification of the debt does not change despite the cancellation of the bond later on. It noted that the character of the debt is fixed at the point of accrual and is unaffected by subsequent events unless expressly provided by statue. 
+
+The appellant’s interpretation, that the cancellation of the mortgage resulted in the debt morphing into an unsecured debt thus enabling a three-year prescription timeframe, lacked substantial grounding in legal precedent. The court asserted that extending prescription periods retrospectively would lead to inconsistent legal situations, undermining the stability aimed for by the Prescription Act ([paras 20], [24], [28]).
+
+Moreover, the court elaborated that the logic extends conceptually to the UK’s equivalent legislation, reinforcing the immutable character of debt classifications amidst operational context shifts ([paras 15–16]). The judgment conclusively asserted that the original character of the debt persisted, linking the effective prescription period solidly to the original mortgage structure rather than its security status at later stages.
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, concluding that the cancellation of the mortgage bond did not alter the original classification of the debt, which remained subject to the 30-year prescription period under section 11(a)(i) of the Prescription Act. As a result, Ms. Botha's liability to pay the outstanding debt to Standard Bank was upheld, reflecting the court's commitment to maintaining consistency in the application of legal principles regarding prescription periods ([paras 34–35]).
+
+This case has implications for future determinations involving the happenings post-cancellation of mortgage bonds, providing clarity on the prescription periods tied to different classifications of debts as per South African law. It reinforces the notion that modifications to the security of the debt do not adjust the statutory prescription period unless explicitly indicated by the law.

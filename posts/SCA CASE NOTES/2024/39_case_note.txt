@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Mhlari NO and Others v Nedbank Limited (251/2023) [2024] ZASCA 39
+
+## FIRAC Method
+
+### F – Facts
+[1] This case pertains to the appeal by the appellants against a judgment of the Gauteng Division of the High Court, which ordered them to pay Nedbank Limited (“Nedbank”) a sum of R12,316,632.37, along with a declaration of special execution against certain immovable property owned by the Patrick Malabela Family Trust (the “Trust”). The trustees of the Trust and sureties associated with it are the appellants here.
+
+[2] The first, second, and seventh appellants are the trustees of the Trust. The third to sixth appellants acted as sureties and co-principal debtors in relation to a loan agreement purportedly concluded on 7 May 2013, where Nedbank advanced R14 million to the Trust secured by a mortgage bond. Payments were made for a while, but the Trust defaulted after June 2018, prompting Nedbank’s action for recovery.
+
+[3] The appellants contested the legitimacy of the loan agreement, arguing that insufficient trustees were in place when the agreement was made, thereby rendering it void. Nedbank then amended its claim to include an alternative on the basis of unjust enrichment. In response, the appellants counterclaimed for the cancellation of the mortgage bond, asserting that Nedbank's claim was barred by prescription.
+
+### I – Issues
+[4] The primary legal issues facing the court were:
+1. Whether the loan agreement was indeed void due to the Trust’s lack of required trustees.
+2. Whether Nedbank’s unjust enrichment claim was subject to prescription, given the circumstances under which the loan was claimed.
+3. The interrelationship and applicability of the condictio indebiti versus condictio sine causa specialis to the claims made by Nedbank.
+
+### R – Rules
+[5] The court relied on various legal principles, including:
+- The *Prescription Act 68 of 1969*, notably section 12(3), which addresses when a debt is deemed due.
+- Principles relating to *unjust enrichment*, established in cases such as *Govender v Standard Bank of South Africa Limited* 1984 (4) SA 392, where the requisite elements for unjust enrichment are discussed: enrichment of the defendant, impoverishment of the plaintiff, logically at the plaintiff’s expense, and that such enrichment must be unjustified.
+- The concepts of *condictio indebiti* and *condictio sine causa*, as explored in *Willis Faber Enthoven v Receiver of Revenue* (1992), highlighting the differing requirements for claims based on mistaken belief versus claims unsupported by valid causa.
+
+### A – Application
+[6] The Supreme Court acknowledged that Nedbank’s concession regarding the nullity of the loan agreement effectively negated its specific contractual claim. Subsequently, focus shifted to the argued unjust enrichment.
+
+[7] On the issue of prescription, the court ruled that the appellants had not successfully demonstrated that Nedbank's knowledge of the Trust’s incapacity barred the unjust enrichment claim from proceeding. The court held that, given the circumstances, Nedbank could not reasonably have been aware of the Trust's incapacity at the time of contracting, an argument substantiated by the Trust's long-standing behaviour in servicing the loan.
+
+[8] In addressing the claim of unjust enrichment, the court acknowledged that while the Trust was enriched by the loan amount received from Nedbank, the essential inquiry was whether Nedbank's mistake in advancing funds was reasonable. The court found that the bank's reliance on the representations made by the Trust regarding its legal capacity and the documentation provided was justified under the circumstances.
+
+[9] Notably, Nedbank's choice to plead unjust enrichment via condictio indebiti—asserting that it advanced the loan under a mistaken belief of validity of the contract—was recognized. This assertion eliminated considerations of negligence in their claim, focusing instead on whether such enrichment was unjust given the context.
+
+[10] By underscoring the five years of acquiescence from the Trust and the provision of adequate trust documentation affirming the validity of the loan agreement, the court ruled that Nedbank’s reliance was reasonable.
+
+### C – Conclusion
+[11] Consequently, the Supreme Court upheld both the main appeal and the cross-appeal. It set aside the High Court's orders and replaced them with an order requiring the trustees of the Trust to pay the sum of R5,436,347.57 to Nedbank, plus interest. 
+
+[12] The court concluded that the appeal’s acceptance illustrated that the decision rested on the principles of unjust enrichment rather than on the viability of the loan agreement. Furthermore, the implications of this ruling emphasized the boundaries and responsibilities of trustees in contractual obligations and the relevance of due diligence on their part, as well as the principles governing unjust enrichment within the South African legal context.
+
+The decision ultimately indicates a nuanced understanding of the interplay between contractual capacity, unjust enrichment, and the reasonable expectations of parties in financial transactions, reinforcing the material need for clarity in trust operations and protection of financial institutions against undue risk.

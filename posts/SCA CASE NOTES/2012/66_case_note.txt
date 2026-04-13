@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# FIRAC Case Note: Northern Metropolitan Local Council v Company Unique Finance (Pty) Ltd [2012] ZASCA 66 (21 May 2012)
+
+## F - Facts 
+
+The case originated from disputes over three rental agreements signed on behalf of the Northern Metropolitan Local Council (the appellant) by Mr. Johannes Jacobus Du Plessis, who was a superintendent in the council's security services department ([1]). On October 30, 1998, Du Plessis executed an agreement to rent office equipment, including a photocopying machine and radio phones, from Company Unique Finance (Pty) Ltd (first respondent), later confirmed by communications with the second respondent, First National Bank of Southern Africa Limited, which was assigned the rights for the lease of radio equipment ([1–2]). 
+
+Despite equipment having been delivered, on March 19, 1999, the council formally disavowed the agreements, claiming no authority was given for their execution ([1]). The first and second respondents then initiated proceedings against the council, resulting in a claim for damages for breach of contract, later contested by the council's claim of lack of liability because Du Plessis lacked authority to bind the council through the agreements ([2–4]).
+
+In its defense, the appellant argued that the respondents were estopped from denying Du Plessis’s lack of authority ([3]). The first instance court ruled partially in favor of the respondents but dismissed claims against Du Plessis, determining he could not be liable for the representations that led to the agreements ([4]).
+
+## I - Issues 
+
+The primary legal issue concerned whether the appellant could be estopped from denying Du Plessis's authority based on the representations made by its officials ([3–4]). The crux of the legal dispute revolved around the question of ostensible authority. The court had to determine whether the appellant had created an impression that Du Plessis was authorized to act on its behalf, thus rendering it liable for the rental agreements signed by him.
+
+Moreover, the court examined whether the representations that led to the purported agreements could be attributed to the appellant rather than merely to Du Plessis and/or his immediate superior, Mr. Van Wyk ([5–9]).
+
+## R - Rules 
+
+The legal doctrines pertinent to this case included the principles of estoppel, specifically, **ostensible authority**, as outlined in cases such as *Hely-Hutchinson v Brayhead Ltd* and *NBS Bank Ltd v Cape Produce Co (Pty) Ltd* ([24]). Ostensible authority refers to the situation where a third party is misled into believing that an agent has authority to act on behalf of a principal, leading the third party to take action they would not have otherwise undertaken. To hold a principal accountable based on ostensible authority, the following elements need to be established:
+
+1. A representation by the principal (appellant) of the agent's (Du Plessis's) authority.
+2. That representation must have induced the third party (Compufin) to act.
+3. The third party's reliance on that representation must have been reasonable.
+4. The third party must suffer detriment as a result of the reliance ([28–29]).
+
+## A - Application
+
+The court examined the relationships and representations that arose from the interactions between officials of the council and the representatives of Compufin. It noted that Du Plessis's authority to bind the council was never established and, indeed, was disputed ([3–4]). 
+
+The court found no evidence suggesting that the council had made any specific representation that Du Plessis and Van Wyk had the necessary authority. No documentation was shown to confirm that their positions conferred such authority. Instead, the evidence indicated that both Stanwyck and Du Plessis were low-ranking officials within a complex administrative structure, without the authority to enter into agreements of such magnitude ([22–44]). 
+
+The respondents relied on macro-factors, like the hierarchical structure and the conduct of certain officials who had dealings with Compufin. However, the court emphasized that such circumstances do not per se imply that the appellant had given any formal authorizations or that the actions of its employees could reasonably lead third parties to believe they had authority ([25–32]). 
+
+Furthermore, the court noted that the resolution allegedly empowering Du Plessis contained errors and discrepancies that should have raised suspicion for those who executed the agreements ([46–49]). 
+
+Thus, the essence of its reasoning leaned heavily on the absence of actual authority for Du Plessis, combined with the respondents’ failure to satisfy the burden of proving that the appellant had misrepresented its position.
+
+## C - Conclusion 
+
+The Supreme Court of Appeal concluded that the appeal by the Northern Metropolitan Local Council should succeed ([51]). The court set aside the lower court’s judgment that had found liability against the appellant. It ruled that the claims against the council were dismissed, establishing that there had been no ostensible authority conferred upon Du Plessis to bind the council through the agreements. 
+
+This ruling highlighted the significance of clear and documented authority in organizational frameworks and reaffirmed that the presence of employees in lower ranks does not, in itself, confer the ability to legally bind an institution. The judgment serves as a reminder of the rigorous evidence required to establish agency through estoppel and the critical importance of verifying authority in contractual dealings. 
+
+This case is a pivotal reference point for future discussions on estoppel, authority, and the principles surrounding contractual liability, especially in the context of public institutions.
+
+---
+
+**References**:
+- *Hely-Hutchinson v Brayhead Ltd* [1968] 1 QB 549 (CA).
+- *NBS Bank Ltd v Cape Produce Co (Pty) Ltd* 2002 (1) SA 396 (SCA).
+- *Glofinco v Absa Bank Ltd t/a United Bank* 2002 (6) SA 470 (SCA).
+- *South African Broadcasting Corporation v Coop & others* 2006 (2) SA 217 (SCA).

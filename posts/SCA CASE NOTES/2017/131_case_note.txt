@@ -1,0 +1,55 @@
+Case Note: SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Kransfontein Beleggings (Pty) Ltd v Corlink Twenty Five (Pty) Ltd ([2017] ZASCA 131)
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–4])
+
+The Supreme Court of Appeal (SCA) considered the application for leave to appeal by Kransfontein Beleggings (Pty) Ltd (the applicant) against the decision of the court a quo, which had dismissed the applicant’s application on the grounds of non-joinder of creditors (the first to sixth respondents). The applicant claimed to be a secured creditor of Corlink Twenty Five (Pty) Ltd (the first respondent) through a notarial bond registered in accordance with the Security by Means of Movable Property Act 57 of 1993 ([para 2]). The notarial bond included a variety of movable assets and purported water rights concerning three farms.
+
+Due to Corlink’s financial distress, it sold the named farms and some movables to Gert Trust (seventh respondent) in a public auction on 28 August 2014, and the sale was executed on 1 October 2014. Following the sale, Corlink, via its sole director, resolved to enter business rescue proceedings under section 129(1)(b) of the Companies Act 71 of 2008 ([paras 3–4]). During the business rescue process, the applicant was initially omitted from the list of creditors in the business rescue plan, which was adopted on 22 April 2015.
+
+The applicant subsequently sought an urgent application to interdict the implementation of the business rescue plan and to have it declared invalid, citing only Absa Bank Ltd and GWK (fifth and sixth respondents) as respondents, ultimately leading to a court order postponing the application sine die ([paras 6–8]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 11–13])
+
+The central issue before the court was whether the applicant had properly joined all necessary parties (creditors) in its application for the business rescue plan to be amended in a way that would reflect its status as a secured creditor. The legal question was whether the omission of other concurrent creditors from the application process was fatal ([paras 11–12]). The court assessed whether a party has a "direct and substantial interest" in the matter, implicating others' rights to the extent that their non-joinder could prejudice them ([para 12]).
+
+Additionally, the court addressed the broader implications of the amendment of a business rescue plan and its capacity to be partially set aside for individual creditors ([para 18]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 17–20])
+
+The court invoked several pivotal legal principles:
+
+1. **Non-Joinder**: The principle of non-joinder, as articulated in *Absa Bank Limited v Naude NO & Others* ([2015] ZASCA 97), maintains that any party with a substantial interest in the subject matter must be joined to avoid prejudice ([para 12]).
+
+2. **Business Rescue Proceedings**: Under section 152 of the Companies Act 71 of 2008, a business rescue plan must be approved by a prescribed majority of creditors. The court highlighted that any attempts to alter the rights of creditors through the court must respect this majority's decision ([paras 18–19]).
+
+3. **Amendment of Plans**: The court emphasized that creditors must discuss and vote on any plan in which their rights and entitlements are to be altered; the court declared that it cannot impose an amendment without their consent ([para 18]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 14–20])
+
+The court a quo determined that the applicant’s failure to join other creditors was critical to the case. Although the applicant argued that its amended relief would affect only GWK, the SCA evaluated that the proposed change would nonetheless impact the concurrent creditors adversely. If GWK’s secured claim was reduced, as proposed by the applicant, the distribution among concurrent creditors would be affected, culminating in a slightly reduced dividend, thus prejudicing their interests ([paras 14–15]).
+
+Moreover, the applicant's effort to narrow the focus of its application post the original motion did not absolve it of the requirement to join all interested parties. The court underscored that significant modifications to a business rescue plan, necessitating creditor votes for approval, need to be fully inclusive of all potentially affected creditors ([para 18]). The applicant's dismissal of the non-joinder consequences was deemed insufficient as it did not contend any dispensability for the rights of GWK ([paras 12–16]).
+
+The court also rejected the applicant’s claim that GWK had acquiesced to a two-way allocation concerning the ringfenced amount, noting that the original context of the litigation emphasized a more substantial amendment rather than an acknowledgment of reciprocal claims ([paras 20–21]). 
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 21–22])
+
+The SCA dismissed the application for leave to appeal, concluding that the applicant had not demonstrated any prospects of success. The court affirmed that the non-joinder of other creditors was a decisive factor, rendering the application for relief invalid. Furthermore, the court reiterated that partial amendments to a business rescue plan could not be effectually implemented unless all affected creditors were involved in both discourse and vote during the plan's approval process ([para 16–21]).
+
+The ratio decidendi emphasizes the critical nature of inclusive participatory rights in business rescue proceedings, underscoring that creditors must have their interests protected comprehensively. This decision reinforced the imperative of procedural adherence in business insolvency contexts to uphold equitable rights among creditors ([para 22]). 
+
+Thus, the ruling has significant implications for future business rescue proceedings and creditor rights management, dictating that secure creditor rights cannot be altered without due process involving all stakeholders. 
+
+---
+
+**Cases Cited:**
+- *Absa Bank Limited v Naude NO & Others* [2015] ZASCA 97
+- *Golden Dividend 399 (Pty) Ltd & Another v Absa Bank Ltd* [2016] ZASCA 78 
+
+**Statutes Cited:**
+- **Companies Act 71 of 2008**
+- **Security by Means of Movable Property Act 57 of 1993**
+- **National Water Act 36 of 1998**

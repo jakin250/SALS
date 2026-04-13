@@ -1,0 +1,68 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Vela v Efora Energy Limited (385/2018) [2019] ZASCA 44
+
+## FIRAC Case Note
+
+### F – Facts: Relevant Background and Procedural History ([paras 1-4, 5-16])
+
+In this case, Robin Tendai Vela (the appellant), former Chief Executive Officer of Efora Energy Limited (the respondent), resigned on 31 May 2013 following a demand from the company. The appellant initially made three claims against the respondent: 
+
+1. **Outstanding Leave Pay**: Originally claimed at R280,749.15, later reduced to R172,786.80.
+2. **Unpaid Bonus Payment**: Claimed R2,784,948.23 for which the court a quo upheld his claim for R2,350,000 paid, with the balance still owed.
+3. **Damages for Loss of Share Options**: Initially claimed at R16,881,459.30, later reduced to R6,795,711.12, claiming that the respondent had breached its share incentive agreement with him.
+
+Concurrently, the respondent claimed for the reimbursement of PAYE (Pay As You Earn) taxes totaling R3,324,524.36 which should have been deducted from the appellant's remuneration. The court a quo upheld the respondent's PAYE claim and dismissed Vela's claims for leave pay and damages but granted the unpaid bonus claim. This prompted the appellant to appeal.
+
+### I – Issues: Legal or Constitutional Questions ([paras 4-5, 17-19])
+
+The key legal issues stemming from the case included:
+
+1. **Liability for PAYE**: Whether the respondent had a valid claim to recover the PAYE it had paid on behalf of the appellant due to an alleged failure to deduct it at the correct time.
+  
+2. **Leave Pay Claim**: Whether the appellant was entitled to any leave pay, considering the company's policies on leave accumulation.
+
+3. **Share Options and Damages**: Whether the conditions surrounding the forfeiture of share options and the appellant's claims for damages were legally substantiated in light of his resignation.
+
+4. **Bonus Payment**: Whether the appellant had waived his right to the unpaid balance of his bonus claim.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 26-29, 36-38, 40-45])
+
+The court relied on various statutes and principles of law:
+
+1. **Employment Tax**: Statutory provisions under the Income Tax Act 58 of 1962, particularly pertaining to PAYE, confirmed that it is the employer's legal obligation to withhold taxes on an employee's remuneration ([para 26]).
+
+2. **Basic Conditions of Employment Act**: Section 20 outlines the entitlement to annual leave and conditions under which employees can accumulate leave, which was integral in assessing the leave pay claim ([para 17]).
+
+3. **Waiver of Rights**: The court cited *Road Accident Fund v Mothupi* (2000), outlining that waiver is a factual question, and a party asserting waiver must prove it through clear evidence of intention, either express or implied ([para 28]).
+
+4. **Contractual Interpretation**: The terms of the share options scheme were interpreted in a purposive way, emphasizing the intention behind clause stipulations concerning the lapse of share options upon resignation for unapproved reasons ([para 40-45]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 25-35, 36-56])
+
+The court meticulously evaluated each claim:
+
+1. **PAYE Claim**: The appellant's argument that the respondent waived its rights regarding the recovery of PAYE was dismissed due to insufficient evidence. The minutes from board meetings and the context of the discussions did not substantiate a waiver. The appellant’s attempt to amend minutes to assert a waiver was seen as self-serving and lacking clarity ([paras 28-33]).
+
+2. **Leave Pay Claim**: In evaluating the leave pay claim, the court recognized that leave pay was contingent upon proper board approval for accumulation. As the appellant failed to demonstrate entitlement to the claimed leave days based on the available evidence and prior policy stipulations, the revised claim ultimately permitted only 12 days of leave pay, calculated at R103,661.28 ([paras 36-39]).
+
+3. **Share Options and Damages Claim**: The share options claim resulted in a dismissal. The court concluded that the options lapsed upon resignation since no approval was given by the board, consistent with the scheme's clauses ([paras 40-45]). 
+
+4. **Bonus Payment Claim**: The court upheld the appellant's right to the unpaid portion of the bonus. It was established that discussions regarding waiving the bonus did not substantiate an agreement on the partial payment. Testimonies and evidence supported the conclusion that the appellant's acceptance of a reduced payment did not equate to waiving the balance ([paras 46-56]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 56-57])
+
+The Supreme Court of Appeal dismissed the appellant’s appeal on the PAYE and damages claims while allowing the cross-appeal regarding the unpaid bonus. The court ordered the appellant to pay the outstanding PAYE, noting the unequivocal duty of the employer to remit such taxes, reinforcing the legal principle that obligations arising from employment contracts must strictly adhere to statutory provisions.
+
+The judgment further highlighted the substantial burden on a claimant to prove waiver and the importance of following contractual provisions or company policies regarding leave and remuneration. The court's findings emphasized that resignation without board approval has dire consequences on entitlement, particularly regarding share options, and clarified the conditions under which bonus claims could be asserted, paving the way for clearer contractual interpretations in future employment disputes.
+
+### References
+
+- *Road Accident Fund v Mothupi* 2000 (4) SA 38 (SCA).
+- Basic Conditions of Employment Act 75 of 1997.
+- Income Tax Act 58 of 1962.
+
+--- 
+
+This FIRAC case note serves as an academic analysis of Vela v Efora Energy Limited, detailing the circumstances of the case, the applicable legal principles, and the outcomes of the court's judgements.

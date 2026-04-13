@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# Case Note on Eveready (Pty) Ltd v Commissioner for the South African Revenue Service (2012) ZASCA 36
+
+## FIRAC Analysis
+
+### F – Facts
+The matter involves an appeal by **Eveready (Pty) Ltd** (hereafter "Eveready") against the **Commissioner for the South African Revenue Service** (hereafter "the Commissioner") regarding a tax deduction claim under the **Income Tax Act 58 of 1962**. The core issue surrounds whether Eveready acquired trading stock from Gillette Group South Africa (Pty) Ltd ("Gillette") "for no consideration" as defined in section 22(4) of the Act ([1], [2]).
+
+Eveready purchased Gillette's business, which included trading stock as of March 1, 2003. In its income tax return for the 2004 assessment year, it claimed a deduction of R103,532,179 for trading stock acquired from Gillette, asserting that it was entitled to this deduction based on the market value of the stock due to its acquisition "for no consideration" ([4], [5]). During an audit, the Commissioner initially disallowed the entire deduction but later permitted a partial deduction of R21,562,918, arguing that the stock was indeed acquired for consideration. The matter led to an appeal by Eveready against the disallowance and a cross-appeal by the Commissioner regarding the interest charged on unpaid tax due to the disagreement on the deduction ([6], [7]).
+
+### I – Issues
+The primary legal question addressed by the court was whether Eveready acquired the trading stock for "no consideration,” which would qualify for the market value deduction under section 22(4) of the Income Tax Act, or whether it was acquired for consideration, requiring it to be deducted at its cost price under section 22(2)(b) ([9]). Additionally, the case raised questions about the admissibility of oral evidence to interpret contractual terms ([10]).
+
+### R – Rules
+The relevant legal framework includes:
+- **Section 22** of the Income Tax Act 58 of 1962, which outlines the valuation of trading stock for tax purposes. Specifically:
+  - **Section 22(4)** stipulates that trading stock acquired "for no consideration" is deemed to be valued at its current market price at acquisition.
+  - **Section 22(2)** provides that if trading stock is acquired for consideration, deductions should follow the actual cost price.
+
+The case also touches on contract interpretation principles, particularly the context in which contractual agreements should be understood, as illustrated by prior rulings such as *Commissioner of Inland Revenue v Da Costa* and aims to ascertain the intentions of the parties as per their contractual obligations ([25]).
+
+### A – Application
+The court undertook a thorough analysis of the agreement between Eveready and Gillette, noting the significance of how the purchase price was structured. Eveready's argument stemmed from its interpretation of **Schedule 6** of the purchase agreement, which listed various assets and their maximum values. Eveready argued that the absence of a maximum value for trading stock indicated that it was acquired "for no consideration" ([11], [12]).
+
+However, the court rejected this argument, stating that clause 5.1 of the agreement indicated an overall purchase price of R80 million, which would be adjusted based on the calculation of working capital as stipulated in clause 8. This included provisions for determining the value of inventory, thereby underlining that part of the purchase price was indeed allocated to trading stock. The absence of a specific allocation did not equate to a gift of the trading stock or that no consideration had been paid ([21], [23]). The agreement's comprehensive nature and the mutual intention of the parties thus pointed to the conclusion that the trading stock had not been acquired "for no consideration" ([20], [24]).
+
+On the cross-appeal regarding the levying of interest, the court affirmed the Tax Court’s discretion, concluding that Eveready had acted in good faith based on professional advice, thus upholding the Tax Court's decision not to penalize with interest ([25]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed both the appeal and the cross-appeal, emphasizing that Eveready did not acquire the trading stock for "no consideration" and thus could not claim the deduction based on market value under section 22(4). The ruling clarified how the valuation of trading stock needs to be understood in its contractual context and affirmed the Tax Court's reasonable exercise of discretion in the matter of interest on unpaid tax. This case highlights the importance of precise contractual language and the implications of how trading stock is valued for tax purposes ([26]).
+
+Overall, the judgment provides critical insights into tax law interpretations and reinforces the necessity for clarity in contractual agreements facilitating subsequent compliance with tax obligations.

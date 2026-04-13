@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 1999
+
+# Case Note: The Supreme Court of Appeal of South Africa, Case No. 162/97
+
+## FIRAC Case Note
+
+### F – Facts
+
+The appellants, **Nampak Products Limited** and **H L & H Timber Products (Pty) Limited**, are the registered joint proprietors of South African Letters Patent No. 90/2427, which pertains to an invention titled “Pressure Resistant Bag” ([para 2]). They acquired this patent through an assignment from the original patentees. The respondent, **Man-Dirk (Pty) Limited**, manufactures and sells a product that is claimed to infringe upon this patent. 
+
+The appellants sought a permanent interdict to prevent the respondent from selling its product and to have all infringing bags delivered to the appellants ([para 2]). The initial application was dismissed by Roux J, sitting as Commissioner of Patents; however, leave was granted to appeal ([para 2]). The patent in question was granted effective from February 27, 1991, and was applied for in March 1990, claiming priority from three prior patent applications ([para 2]).
+
+The patent describes a flexible bag designed to resist damage from high internal pressure and external loads ([para 3]). In particular, the patent outlines two systems for these bags: a "weeping system" that allows fluid to pass through, and a "non-weeping system" that is impervious to fluids ([para 3]). 
+
+The main claim of the patent can be summarized into several integers, where integer (iv) specifically describes a second bag made of reinforced flexible material ([para 5]). The respondent's product is asserted to have features similar to the patented product; however, it utilizes a different method of reinforcement which the respondent argues does not fall under the definition of a "second bag" as provided in the patent ([para 6]). 
+
+### I – Issues
+
+The primary legal issue at hand is whether the respondent's product infringes upon the appellants' patent by failing to include all features as specified in the main claim, particularly the definition of the "second bag" ([para 6]). Secondary issues include the appropriate construction of the patent claims, especially concerning the application of the purposive construction doctrine in patent law, which is often invoked in cases of alleged patent infringement ([para 6], [para 11]).
+
+### R – Rules
+
+The court primarily relied on the principles set forth in past decisions relating to patent interpretation, such as **Gentiruco A G v Firestone SA (Pty) Ltd** ([1972] 1 SA 589 (A)), which provides guidelines on how to approach the construction of patent specifications ([para 8]). The doctrine of "purposive construction" as articulated in **Catnic Components Limited and Another v Hill and Smith Limited** [1982] RPC 183 (H.L.) plays a significant role in this context ([para 9]).
+
+In general, a patent claim must be construed strictly and in accordance with the ordinary meaning of the terms used within the claim. The Supreme Court has previously highlighted that any variant to the specific terms of a claim must represent the “pith and marrow” of the invention for that product to be considered an infringement ([paras 6, 9]).
+
+### A – Application
+
+In applying these rules, the court identified that the claim’s wording dictated a specific interpretation where the terms “first bag” and “second bag” must correspond to their ordinary meanings. The court noted that the terms were clear, unambiguous, and utilized in a straightforward manner ([paras 11–12]). 
+
+The court then evaluated the contention that the respondent's product, which utilizes a restraining sleeve, constituted a second bag. It found that the absence of a second complete bag, as stated in the claims, indicated non-compliance with the terms of the patent ([paras 11–12]). The court firmly held that even with the purported reinforcing characteristics of the respondent’s product, it does not substitute or equate to the proper definition of a second bag in the context of the claims ([para 12]).
+
+The court was wary of applying the purposive construction test, as it deemed that the language of the claims was suitable to convey their intended meanings without ambiguity or the need for external interpretation ([para 10]).
+
+### C – Conclusion
+
+In conclusion, the Supreme Court of Appeal dismissed the appeal, concluding that the respondent’s product did not infringe upon the appellants' patent due to the absence of a "second bag" as specified in the main claim ([para 12]). The judgment reaffirmed the principle that patent claims must be interpreted plainly and according to their express terms, emphasizing that the purposive construction doctrine was not necessary nor suitable for this case.
+
+The ruling carries significant implications for the patent law landscape in South Africa, particularly in reaffirming the strict adherence to claim language while addressing complexities surrounding patent infringement claims. The court’s caution regarding the application of purposive construction serves as a reminder that specificity in patent claims is paramount, potentially shaping future patent litigation strategies in the region.

@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Mukuru Africa (Pty) Ltd v Commissioner for the South African Revenue Service
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–10])
+
+The appeal concerns the apportionment of input value-added tax (VAT) under section 17(1) of the Value-Added Tax Act 89 of 1991 (the VAT Act). The appellant, Mukuru Africa (Pty) Ltd (Mukuru), is a registered vendor under the VAT Act, engaged in money transfer and bureau de change services, operating since 1 February 2014. Mukuru provides both taxable and exempt supplies, thus necessitating the apportionment of input VAT incurred in acquiring goods and services ([para 5]). 
+
+On 20 February 2017, Mukuru sought a ruling from the Commissioner for the South African Revenue Service (SARS) regarding the use of a 'transaction count (TC)' ratio to apportion its mixed-purpose input VAT deductions, applicable from 1 February 2014. SARS approved the TC method on 24 July 2018 but restricted its application to the tax period starting from 1 March 2016, citing that proviso (iii) of section 17(1) limited the approval's retrospective effect ([paras 6–7]).
+
+Mukuru objected to this ruling, arguing that it was unfair and unreasonable for SARS to apply the default standard turnover-based method (STB method), as dictated by Binding General Ruling 16 (BGR16), which was issued prior to Mukuru's request for an alternative ruling. The Tax Court dismissed Mukuru's appeal on 15 November 2019, leading to the current appeal ([paras 8–9]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 10–18])
+
+The primary legal issue in this appeal concerns whether SARS was precluded by proviso (iii) of section 17(1) from approving the use of the TC ratio for the period before 1 March 2016. Additionally, the court must resolve whether the conditions specified in BGR16 and the fairness of the STB method are applicable to Mukuru's circumstances, affecting its entitlement to an alternative method of apportionment ([paras 10-14]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 2–4, 11–12])
+
+Section 17(1) of the VAT Act stipulates the circumstances under which VAT incurred can be apportioned for mixed-purpose supplies. It necessitates a determination of a ratio by SARS, following the provisions outlined in Chapter 7 of the Tax Administration Act 28 of 2011 (the TAA) or section 41B of the VAT Act. Notably, proviso (iii) limits the retrospective application of any change to an approved method ([paras 3–4]).
+
+Binding General Ruling 16 (BGR16), effective from 25 March 2013, established the STB method for VAT apportionment as the default method applicable to vendors lacking an alternative ruling from SARS. The conditional clause within BGR16 emphasizes that this method may only be used if fair and reasonable, and any vendor contending otherwise must apply for an alternative ruling ([paras 11–12]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 11–20])
+
+The court examined whether the July 2018 ruling sought by Mukuru could apply retrospectively. It determined that section 17(1) does not inherently prescribe a ratio applicable to all vendors but rather allows for individualized determinations by SARS through official rulings ([para 11]). BGR16 clearly establishes that the STB method applies in the absence of an alternative ruling. Hence, from the date of its operation, Mukuru remained subject to this default method until the approval of the TC method restricted to future usage was granted ([paras 16-19]).
+
+The court also analyzed Mukuru's argument derived from the 'conditions' of BGR16, finding that the conditions do not relinquish the duty of Mukuru to adhere to SARS’s approved apportionment methods. Furthermore, the duties to apply for alternative rulings bolster SARS's authority to determine equitable methods ([para 18]). The court ruled that the legislative framework encompasses a clear restriction of retrospective applications beyond a defined timeline, thus validating the Tax Court's conclusion regarding the limitation imposed by the proviso ([paras 19-20]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 20])
+
+The Supreme Court of Appeal dismissed Mukuru's appeal, upholding the findings of the Tax Court. The ruling affirmed that SARS did not possess the authority to retrospectively apply the TC method to the periods before 1 March 2016 due to the clear stipulations set forth in section 17(1) and its governing provisions.
+
+The Court's decision reinforces the imperative for tax vendors to adhere to approved methods of apportionment. It delineates the boundaries of retrospective changes in tax rulings under the VAT Act, accentuating the necessity for vendors to preemptively seek alternative rulings if they believe that the prescribed methods are inappropriate for their business contexts. The outcome ultimately upholds the integrity of the tax system by preventing arbitrary changes to tax liabilities and upholding regulatory compliance ([paras 20]).
+
+---
+
+This case note comprehensively outlines the essential facts, legal issues, applicable rules, judicial application, and conclusions drawn from *Mukuru Africa (Pty) Ltd v Commissioner for the South African Revenue Service* using the FIRAC method in a formal academic tone suitable for publication.

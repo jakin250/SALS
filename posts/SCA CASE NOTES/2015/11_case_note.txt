@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: **Firstrand Bank Ltd v Kona & another** [2015] ZASCA 11
+
+## FIRAC Analysis
+
+### F – Facts:
+This appeal arises against an order by the North Gauteng High Court, Pretoria (Phatudi J) which discharged a provisional sequestration order against the joint estate of the respondents, married in community of property ([1]). The case reflects a dispute between Firstrand Bank Limited (the appellant) and its debtors Raymond and Amie Kona (the respondents) regarding a liquidated claim of R953,903.48, stemming from an overdraft facility secured by mortgage bonds on property owned by the respondents ([2]). 
+
+The respondents sought a debt review through a registered debt counsellor, Mr. Rael Zimmerman, leading to a debt re-arrangement proposal due to their declared over-indebtedness in 2008 under the National Credit Act 34 of 2005 (the NCA) ([3]). However, Firstrand did not consent to this proposal and later contended the respondents were in default of the debt re-arrangement order, therefore, invoking its rights in accordance with s 88(3) of the NCA ([6]).
+
+Initially, the appellant instituted action on 20 January 2011 for payment and an order to declare the immovable property executable ([7]). After lengthy proceedings and failed payment compliance from the respondents under the debt re-arrangement order, the appellant applied for the sequestration of the respondents' estate in March 2012, which the court provisionally granted in 2013 ([8]). The respondents later sought to overturn this provisional order, culminating in the High Court’s decision to discharge it on 7 March 2014 ([9]).
+
+### I – Issues:
+The core legal questions arising from this case focus on whether:
+1. The application for sequestration constitutes "other judicial process" as defined by s 88(3) of the NCA, thereby prohibiting the enforcement of rights under a credit agreement ([10]).
+2. The existence of a debt re-arrangement order issues a bar against compulsory sequestration ([10], [14]).
+3. The court properly interpreted its duty under precedent regarding the rights and obligations between the credit provider and consumer ([21]).
+
+### R – Rules:
+The applicable legal framework primarily revolves around the **National Credit Act 34 of 2005**, particularly sections 86(1), 86(4)(b), and 88(3). Section 88(3) stipulates that a credit provider may not enforce rights under a credit agreement unless the consumer is in default and specific conditions are met ([6]). 
+
+Precedent from earlier cases enunciates the non-enforcement capability of creditors under debt review but does not inherently bar creditors from seeking sequestration ([12], [14]). Not notable is the doctrine of *stare decisis*, which outlines that lower courts must follow decisions from higher courts, thereby maintaining legal consistency ([22]).
+
+### A – Application:
+In its judgment, the Supreme Court of Appeal engaged extensively with the purpose and interpretation of s 88(3) of the NCA. The Court concluded that sequestration proceedings initiated by a credit provider are not in themselves considered enforcement of a debt but serve to initiate legal proceedings to declare a debtor insolvent ([14], [18]). 
+
+The court differentiated between actions taken concerning the enforcement of rights under a credit agreement versus the initiation of insolvency proceedings, highlighting that the latter does not qualify as 'enforcement' per the definitions in the NCA. The judgment emphasized that the failure of the respondents to comply with the re-arrangement terms lifted the protective moratorium previously in place, thus enabling Firstrand to seek sequestration without prejudice from existing debt re-arrangement orders ([17], [20]).
+
+Furthermore, the Supreme Court noted the inappropriate interpretation of the High Court, which erroneously concluded that a debt re-arrangement order would serve as an absolute bar to sequestration proceedings ([16]). The failure of the respondents to demonstrate a viable plan for repayment to Firstrand provided additional grounds for the Supreme Court to exercise its discretion against their opposition to the sequestration order ([23]). 
+
+### C – Conclusion:
+The Supreme Court of Appeal ultimately ruled in favor of Firstrand Bank, concluding that there exists no bar in the NCA to prevent credit providers from initiating sequestration proceedings against consumers under debt review in default ([24]). The judgment reaffirmed the legal principles surrounding insolvency proceedings, asserting that seeking sequestration does not equate to enforcing a debt under the NCA.
+
+The decision carries significant implications regarding the operational dynamics between creditors and consumers under the NCA, reinforcing creditors' rights to pursue insolvency options despite existing debt arrangements. The case can additionally be interpreted as an assertion of the principle of *stare decisis*, illustrating the necessity for lower courts to align with established judgments from higher courts, ensuring legal certainty and uniformity in the application of credit and insolvency law. 
+
+---
+
+This case note encapsulates the essence of **Firstrand Bank Ltd v Kona & another** against the backdrop of South African credit law, capturing the interaction of statutory interpretation, judicial precedent, and the dynamics of creditor-debtor relationships.

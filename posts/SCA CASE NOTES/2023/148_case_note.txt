@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Chairperson of the Western Cape Gambling and Racing Board and Others v Goldrush Group Management (Pty) Ltd and Another (660/2022) [2023] ZASCA 148
+
+## F – Facts ([paras 1-10])
+
+The case at hand involves a review of a decision by the Western Cape Gambling and Racing Board (referred to as "the Board") to allocate a number of limited payout gambling machines (LPMs) to two existing licensed operators, namely Vukani Gaming Western Cape (Pty) Ltd and Grand Gaming Western Cape (RF) (Pty) Ltd. The background of the case traces back to the establishment of the limited payout gambling sector in the Western Cape, initiated by the Board in 2004, under the frameworks provided by the National Gambling Act 7 of 2004 and the Western Cape Gambling and Racing Act 4 of 1996 ([para 2]). 
+
+The Board, following a structured Request for Proposal (RFP) process, licensed only two operators, V-Slots and Grand Slots, and allocated a total of 2000 LPMs, leaving 1000 unallocated. In 2017, these operators petitioned the Board to allocate the unallocated LPMs, which culminated in the Board deciding to allocate the remaining machines equally ([paras 6-8]). However, Goldrush Group Management (Pty) Ltd, which had no involvement in the initial licensing process, challenged this allocation, arguing that it should have been subject to a competitive bidding process ([para 11]).
+
+Upon being denied a preliminary interdict and subsequently filing for a review in the Western Cape Division of the High Court, Goldrush contended that its expertise in the gambling industry warranted its right to compete for a route operator license. The High Court found that Goldrush lacked standing to review the decision as it did not demonstrate a direct interest affected by the Board's allocation ([paras 12-14]). 
+
+## I – Issues ([paras 17-18])
+
+The appeal raises several core issues:
+
+1. **Standing**: Whether Goldrush had the standing to challenge the Board's decision to allocate the remaining LPMs.
+   
+2. **Delay in Review**: Whether there was an unreasonable delay in bringing the review application by Goldrush.
+
+3. **Merits of the Review Challenge**: Whether the Board's decision was lawful and whether it was required to call for bids before reallocating the unallocated LPMs.
+
+## R – Rules ([paras 18-24])
+
+The applicable legal principles include:
+
+- **Standing Requirements**: As enunciated in *Giant Concerts CC v Rinaldo Investments (Pty) Ltd*, an applicant must demonstrate that the decision being attacked has the capacity to affect its legal rights or interests ([para 18]).
+- **Public Interest vs. Own-Interest**: Goldrush sought standing exclusively through an "own-interest" claim, without asserting broader public interest standing ([para 19]).
+- **Administrative Law Principles**: The process and requirements for administrative decisions must align with applicable statutory frameworks, such as the National Gambling Act and the RFP issued by the Board ([paras 20-24]).
+
+In the context of administrative reviews, the Constitutional Court has maintained that the exercise of administrative powers must adhere to procedural legality and transparency but also allows for an exception based on the interests of justice where broader accountability is at stake ([para 23]).
+
+## A – Application ([paras 17-36])
+
+### 1. **Standing**
+The Court scrutinized whether Goldrush had the standing to maintain the review. It held that Goldrush's asserted rights were speculative and not directly affected by the Board's decision, which focused on allocating LPMs to existing licensed operators rather than inviting applications for new licenses. Therefore, Goldrush's claim hinged solely on the right to apply for an operator license, which was not directly implicated by the Board's allocation decision ([paras 18-20]).
+
+### 2. **Delay in Review**
+The High Court had found Goldrush's delay in pursuing the review unjustified. However, the Supreme Court determined this additional issue was moot due to the lack of standing, rendering the delay irrelevant in the broader context of the appeal ([para 26]).
+
+### 3. **Merits of the Review**
+The appeal examined the substantive merits of the Board's allocation decision. Goldrush contested the Board’s allocation process, asserting that it departed from procedural norms by not calling for competetive bids. However, the Court noted that the Board acted in accordance with the provisions outlined in the RFP, which explicitly allowed for the allocation of LPMs to existing licensed operators without the need to re-advertise for new applications, provided that there were fewer than three qualified applicants ([para 28]). 
+
+The Court emphasized that Goldrush's argument mischaracterized the nature of the allocation decision which was permissible under the pre-established legal framework ([paras 30-32]). The Court ruled that the Board's actions were lawful, thus upholding the original decision regarding the allocation of the LPMs to V-Slots and Grand Slots ([para 34]).
+
+## C – Conclusion ([paras 33-34])
+
+In concluding its judgment, the Supreme Court found in favor of the appellants (the Board and the licensed operators), reversing the High Court’s decision. The ruling emphasized that Goldrush lacked the necessary standing to bring the review application, and even without that lack of standing, the Board's allocation decision was lawful and conducted in accordance with established criteria under the relevant gambling statutes. The Court set aside the High Court's order and substituted it with an order dismissing Goldrush's application with costs, reinforcing the principle that standing directly correlates with the tangible impact of a contested administrative decision on a litigant's rights ([para 34]).
+
+The decision holds significant implications for the regulatory framework within which gambling operations are licensed and illustrates the stringent requirements for establishing standing in judicial review within administrative law.
+
+---
+
+This case note has maintained the integrity of the original paragraphs while employing a structured FIRAC approach to facilitate understanding and comprehension in the context of South African constitutional and administrative law.

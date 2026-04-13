@@ -1,0 +1,60 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Absa Bank Limited v Moore and Another [2016] ZACC 34
+
+## FIRAC Method
+
+### F – Facts: Relevant background and procedural history ([paras 1–61])
+
+The case revolves around five mortgage bonds that Absa Bank Limited (the Applicant) formerly held over a residential property in Vereeniging, owned by Christina Martha Moore and Jacques Moore (the Respondents). The Bank sought to appeal a Supreme Court of Appeal (SCA) decision confirming the validity of the discharge of these bonds, a decision that followed the fraudulent Brusson scam that deceived numerous homeowners and banks ([1]–[2]).
+
+The fraudulent scheme orchestrated by Mike Brusson involved misleading homeowners, such as the Moores, into signing multiple documents that facilitated the fraud. Under the guise of a loan agreement, Brusson and associated fraudsters effectively transferred ownership of the property to a so-called investor, Mr. Sunnyboy Kabini, while promising that the homeowners would retain ownership ([3]–[5]). The Moores received a cash payment of R157,651, ostensibly their loan, but soon fell behind on repayments due to their worsening financial situation ([9]–[10]).
+
+After Kabini defaulted on the mortgage payments owed to Absa, the Bank initiated steps to reclaim the property ([12]). In their actions to regain their home, the Moores contended they had not intended to transfer ownership and that the agreements they signed were fraudulent and invalid ([13]). The High Court agreed and ruled in favor of the Moores, restoring their home but also imposing the condition that the original mortgage bonds should be reinstated, a condition later removed by the SCA ([14]).
+
+The Bank now sought to reinstate these bonds by contending that their discharge was part of the fraudulent scheme and, alternatively, that the Moores were unjustly enriched as they owed the Bank after the scheme ([16]–[19]).
+
+### I – Issues: Legal or constitutional questions ([paras 1–61])
+
+The central legal issues in this case include:
+
+1. **Whether the discharge of the Moores’ mortgage bonds was valid**, given the fraudulent scheme orchestrated by Brusson.
+2. **Whether the Moores were unjustly enriched due to the cancellation of their bond debt**, now that the conditions for reinstating the bonds have been removed.
+3. **Whether the Bank can seek a proprietary remedy to restore its security over the Moores’ property despite the fraudulent acts involved** ([16]–[19]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 1–61])
+
+The judgment relies on established principles of South African law regarding:
+
+- **Contractual validity in fraud**: Contracts induced by fraud may be voidable at the consent of the victim ([38]).
+- **Discharge of debt**: A debt may be discharged by a third-party payment, even if the debtor has no knowledge of it ([32]–[33]).
+- **Unjust enrichment**: The principles of unjust enrichment apply where one party has benefited at another's expense without just cause ([19], [49]).
+
+Additionally, significant case law is referenced, including:
+- *Radebe v Sheriff for the District of Vereeniging*, where contracts deemed fraudulent are reviewed for their validity ([14]).
+- *Legator McKenna Inc v Shea* to illustrate the nuances of property title transfer under fraud ([14]).
+
+### A – Application: Analysis of how the court applied the law ([paras 1–61])
+
+In analyzing the facts, the Court emphasized a few key points:
+
+1. The **fraudulent nature** of the transactions was undisputed. The Moores did not genuinely consent to the transfer of their property, thus rendering the contracts void. This determined the validity of the discharge of the mortgage bonds as they were accessory to the principal obligation ([38]).
+
+2. The Bank’s argument about unjust enrichment was weakened by the absence of clear evidence. The Court pointed out that the Bank failed to substantiate claims that the Moores' debt was repaid with funds provided by the Bank ([51]–[54]). 
+
+3. Furthermore, the Court underscored the generosity of South African law in permitting third-party payments to discharge a debt. Therefore, regardless of the fraudulent background, if Kabini’s alleged payment to settle Moores' debts were valid, the debt itself is extinguished, complicating the Bank’s position ([37]).
+
+4. The Court ultimately noted that the notion of "fraud unravels all" does not benefit the Bank because the Moores remained victims of the fraudulent scheme and did not initiate the fraud ([39]–[41]).
+
+5. The Bank’s requests to reconstitute the prior contractual relationship, in light of its prior loans and security developments, were found implausible as it would involve establishing new agreements not commensurate with the previous terms ([43]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 1–61])
+
+The Court unanimously dismissed the Bank’s appeal for the reinstatement of the mortgage bonds. The holding pointed to the precedence of the principle that fraud taints transactions and the rigorous evidential requirements the Bank failed to meet concerning unjust enrichment claims ([61]). 
+
+The ratio decidendi emphasized:
+- The **ineffectiveness of the discharge of debt** was recognized even in the context of fraudulent circumstances, shifting the onus onto the Bank to establish its claims more substantively.
+- The Moores were not unjustly enriched, as their financial benefactor (Mr. Kabini) owed the Bank, which the Bank chose to pursue over their claims against the Moores. 
+
+This ruling reaffirms and clarifies complex interactions between fraud, contractual obligations, and rights under unjust enrichment law in South Africa, establishing a vital precedent for subsequent cases involving fraudulent schemes and mortgage securities.

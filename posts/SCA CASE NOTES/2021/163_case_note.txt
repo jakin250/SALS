@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Canton Trading 17 (Pty) Ltd t/a Cube Architects v Fanti Bekker Hattingh N O [2021] ZASCA 163 
+
+### F – Facts
+
+This case concerns an appeal against an order from the Free State Division of the High Court regarding the enforcement of an arbitration agreement, following a protracted dispute between Canton Trading 17 (Pty) Ltd ("Canton Trading"), a firm of architects, and the Qwaha Trust ("the Trust"). The origin of the dispute arose in 2011 when the Trust commenced utilizing Canton Trading's professional services for various projects ([1–3]).
+
+In 2013, the Trust requested Canton Trading to assist with the expansion of the Itau Mill in Bloemfontein, leading to the negotiation of a building agreement designated as the Joint Building Contracts Committee Series 2000 Standard Building Agreement ("the JBCC agreement") ([4]). Although a document styled "Appointment of Professional Service Provider" (PSP) was prepared, it was left unsigned by both parties yet continued to govern their interaction ([5]). 
+
+By August 2014, the JBCC agreement was terminated, prompting the Trust to demand Canton Trading agree to mediation and arbitration regarding an alleged failure to perform its duties as principal agent ([6]). Following a series of correspondences, Canton Trading’s counsel expressed a willingness to enter arbitration yet subsequently denied the existence of an enforceable arbitration agreement, leading the Trust to initiate proceedings in the High Court to compel Canton Trading to arbitration based on the PSP ([11–12]).
+
+The High Court recognized Canton Trading’s denial of the arbitration agreement but adopted a "robust approach" to determine the existence of the agreement, ultimately concluding one existed and ordered Canton Trading to submit to arbitration ([12–13]). Canton Trading's subsequent appeal to the Free State full court was dismissed, prompting its appeal to the Supreme Court of Appeal ([2–3], [14–15]).
+
+### I – Issues 
+
+The primary legal issue is whether the High Court correctly ordered Canton Trading to submit disputes to arbitration when there was a substantial factual dispute regarding the existence and enforceability of the arbitration agreement ([1–2], [14–15]). The following sub-issues raised include:
+
+1. Did the High Court properly exercise its discretion in determining the arbitration agreement's existence when the parties did not request such a determination ([14–20], [46])? 
+2. Can the High Court adjudicate on the existence of the arbitration agreement in light of the principles of separability and competence-competence ([30], [34])?
+
+### R – Rules
+
+The case invokes provisions of the Arbitration Act 42 of 1965, emphasizing the necessity for arbitration agreements to be in writing but not necessarily signed ([14, 15], [50, 71]). The principles of "separability" and "competence-competence" are central to this case. "Separability" indicates that an arbitration clause can exist independently of the main contract, while "competence-competence" signifies that arbitrators may determine both their jurisdiction and the validity of the arbitration agreement ([34, 37]).
+
+Relevant case law cited includes:
+
+- **Fakie NO v CCII Systems (Pty) Ltd** [2006] ZASCA 52, which discusses the robust approach where a dispute of fact emerges ([12, 14]),
+- **Zhongji Development Construction Engineering Co Ltd v Kamato Copper Co Sarl** [2015] ZASCA 160, relevant for recognizing the authority of an arbitrator to rule on issues of existence and jurisdiction ([37]).
+- **North East Finance (Pty) Ltd v Standard Bank of South Africa Ltd** [2013] ZASCA 76, which affirms that parties may agree to submit jurisdictional disputes to arbitration ([29, 30]).
+
+### A – Application
+
+The Court highlighted that the High Court had erred by determining the existence of the arbitration agreement unilaterally without a proper evidentiary basis, particularly given the robust factual disputes claimed by Canton Trading ([12–14]). The High Court's approach deviated from the requisite principles allowing parties to determine jurisdictional matters through arbitration rather than court. The presence of conflicting versions regarding the PSP's enforceability mandated that oral evidence be considered rather than deciding the matter solely on affidavit evidence ([16], [40]).
+
+Additionally, the court illustrated that the PSP's clause permitting disputes to arise from it to mediation and subsequently arbitration aligned with the applicability of the AFSA rules, which grant arbitrators power to rule on their jurisdiction ([25–26], [36–38]). However, the existence dispute itself, because it involves the foundational premise of whether an agreement was formed, could not be resolved at the court level without due process ([40–42]).
+
+The decision ultimately rested on maintaining parties' autonomy in resolving their disputes through arbitration agreements, thus reinforcing the precedential emphasis on judicial restraint concerning arbitration matters ([31–32]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal upheld Canton Trading's appeal, determining that the High Court was incorrect in its findings and execution of jurisdiction over the existence of the arbitration agreement. Consequently, it set aside the orders of the High Court and remitted the matter back to the High Court to determine whether the application should proceed to evidence. 
+
+This ruling concisely illustrates the legal fraternity's commitment to ensuring arbitration upholds its intended efficacy and integrity, aligning with principles of contractual autonomy and the necessary procedural safeguards against unilateral judicial overreach ([44–45]). The implications of this decision reinforce the importance of correctly identifying when disputes should be adjudicated by courts versus arbitrators, profiling the legal landscape for future arbitration-related cases within South African jurisprudence. 
+
+### References
+
+- **Canton Trading 17 (Pty) Ltd t/a Cube Architects v Fanti Bekker Hattingh N O** [2021] ZASCA 163.
+- **Fakie NO v CCII Systems (Pty) Ltd** [2006] ZASCA 52.
+- **Zhongji Development Construction Engineering Co Ltd v Kamato Copper Co Sarl** [2015] ZASCA 160.
+- **North East Finance (Pty) Ltd v Standard Bank of South Africa Ltd** [2013] ZASCA 76. 
+
+---
+
+*This case note thoroughly examines the judgment, employing the FIRAC method to clarify the integral facts, issues, rules, application, and conclusion relevant to the appeal in the Canton Trading case.*

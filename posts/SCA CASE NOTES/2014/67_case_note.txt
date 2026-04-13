@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: Investec Bank Ltd t/a Investec Private Bank v Ramurunzi (445/13) [2014] ZASCA 67
+
+### F – Facts
+The case revolves around a credit agreement between Investec Bank Ltd (the Appellant) and Mr. Mavungu David Ramurunzi (the Respondent), who acquired a credit card in July 2003 linked to a vehicle purchase financed by the bank in December 2004. By February 2008, Ramurunzi was in default, which prompted the bank to send him a notice in terms of sections 129 and 123 of the National Credit Act 34 of 2005 (NCA) regarding his delinquent payments. This notice, which highlighted his debt of R20,987 and informed him of potential actions, was sent via ordinary and registered mail to his designated address.
+
+On 1 August 2008, the bank issued a summons for a total owed amounting to R120,588, which Ramurunzi contested on the grounds that he had changed his address and had notified the bank of such change. The bank initiated a summary judgment in September 2008, which met with opposition from Ramurunzi, who claimed no notice had been properly served under section 129 of the NCA before the legal proceedings began. After several adjournments and a pre-trial conference in April 2012, the bank complied by sending a new section 129 notice by email after the three-year prescription period had lapsed.
+
+By March 2013, when the matter was argued in the High Court, Ramurunzi maintained that the summons issued was ineffective due to the lack of a timely section 129 notice, thereby claiming that the debt had prescribed as per the Prescription Act 68 of 1969. The High Court upheld his argument and allowed his special plea, leading Investec Bank to appeal the decision ([paras 1–30]).
+
+### I – Issues
+The central issues addressed in this appeal are twofold:
+
+1. **Does the service of a summons interrupt the running of prescription if the service of a section 129 notice occurs after the prescription period has expired?**
+2. **Is the summons ineffective until compliance with the notice under the NCA has been fulfilled, making the debt subject to prescription?** ([paras 2–3], [9], [26]).
+
+### R – Rules
+The pertinent legal provisions at play in this case include:
+
+1. **Section 129 of the NCA**: This statute necessitates that if a consumer defaults, the credit provider must notify the consumer about the default and present options to rectify the situation. Section 130(3) elaborates that courts may only consider actions for recovery when there has been compliance with section 129.
+
+2. **Prescription Act 68 of 1969**: Particularly, Section 15(1) states that prescription is interrupted through the service of legal processes claiming payment of a debt. Furthermore, Section 16 clarifies how these provisions are inconsistent with other legislative requirements that govern debt claims.
+
+3. **Case Law References**:
+   - **Sebola and another v Standard Bank of South Africa Ltd** (2012) explored the dynamics of the obligation imposed by the NCA relative to procedural compliance, asserting that while action commenced without notice does not yield a void claim, it invokes a procedural pause until compliance is met.
+   - **Evins v Shield Insurance Co Ltd** emphasized that service improperly executed can render the summons ineffective, affecting prescription interruptions ([paras 1–2], [10–12]).
+
+### A – Application
+The Supreme Court of Appeal analyzed the implications of the above rules in the context of the facts presented. The court indicated that the summons issued by Investec Bank, despite the absence of a prior section 129 notice, was valid and its service constituted an interruption of prescription according to Section 15(1) of the Prescription Act. 
+
+Citing the decisions in **Sebola** and **Kubyana v Standard Bank of South Africa Ltd** ([2014] ZACC 1), the court highlighted the non-absolute nature of the prohibition on enforcement without first providing the section 129 notice. Instead, a summons without prior notice halts proceedings but does not invalidate the action itself. The court noted that the bank’s action remained valid until remedied with the required notice as prescribed by section 130(4).
+
+The court further differentiated this case from **Evins**, where actions were inherently void due to non-compliance. Here, the summons did not lack legal efficacy merely for its procedural misalignment regarding timely notice. Thus, the court concluded that prescription was indeed interrupted at the point of summons service, and this effect was not negated by later compliance with section 129 ([para 24–26]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld the appeal of Investec Bank Ltd, reversing the High Court’s ruling on the grounds that the service of the summons effectively interrupted the prescription period despite the subsequent delay in delivering the section 129 notice. The court dismissed the special plea raised by Ramurunzi, affirming that the proper procedural adherence by Investec Bank should not retroactively invalidate its claim under the NCA.
+
+The ruling signifies important implications for credit providers, confirming that compliance with section 129, while necessary, does not nullify earlier actions initiated by summons which serve to interrupt prescription. The decision reinforces the prevalent understanding that legislative frameworks around consumer credit are designed to favor compliance over technical dismissal in the pursuit of debt recovery ([para 29]). 
+
+In light of these considerations, the court found it appropriate for costs to follow the cause, declaring the matter settled with costs awarded to the appellant ([para 28–29]).

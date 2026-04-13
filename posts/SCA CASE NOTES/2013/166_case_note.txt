@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: Born Free Investments 364 (Pty) Ltd v Firstrand Bank Ltd (973/12)
+
+#### F – Facts: Relevant background and procedural history ([paras 1–5])
+
+In the case **Born Free Investments 364 (Pty) Ltd v Firstrand Bank Ltd** [2013] ZASCA 166, the appellant, Born Free Investments, brought an action against the respondent, Firstrand Bank, claiming damages following the alleged repudiation of loan agreements by the bank with two companies in liquidation: Summer Season Trading 49 (Proprietary) Limited and Central Lake Trading 256 (Proprietary) Limited. At the time of liquidation, these companies owed Firstrand Bank approximately R49.2 million and R25.1 million, respectively. Born Free alleged that the repudiation resulted in a total loss of R178.3 million.
+
+The claims against Firstrand Bank were ceded to Born Free by the liquidators of the two companies post-liquidation, after an initial set of cessions was invalidated by the North Gauteng High Court, which found them to be dispositions without value under section 26(1)(b) of the Insolvency Act 24 of 1936. Born Free initiated proceedings in the South Gauteng High Court but faced opposition from Firstrand Bank, which contended that the cessions were invalid due to a contradictory stipulation in the lending contracts prohibiting such transfers without prior written consent, known as *pactum de non cedendo* ([paras 1–3]).
+
+#### I – Issues: Legal or constitutional questions ([paras 6–8])
+
+The key issue for determination in this appeal was whether the liquidators of Summer Season and Central Lake had the authority to cede the claims to Born Free in light of the *pactum de non cedendo* stipulated in the agreements with Firstrand Bank. Specifically, the court was called upon to evaluate:
+
+1. Whether the prohibition against cession, as laid out in clause 15.1 of the contracts, rendered the cessions from the liquidators to Born Free invalid.
+2. The applicability of the *pactum de non cedendo* in situations where a liquidator transfers rights as part of their duties under insolvency law. ([paras 6–7])
+
+#### R – Rules: Legal authorities and precedents relied upon ([paras 9–10])
+
+The Supreme Court of Appeal of South Africa examined several pertinent decisions and legal principles. The court referred to the precedent established in *Lithins v Laeveldse Koöperasie Bpk* 1989 (3) SA 891 (T), which posited a general principle that a *pactum de non cedendo* does not bind a trustee or liquidator unless specifically indicated otherwise in the contractual stipulation.
+
+Contrastingly, in *Capespan (Pty) Ltd v Any Name 451 (Pty) Ltd* 2008 (4) SA 510 (C), a distinction was made between *pacta prohibiting cession* concerning existing rights and those created ab initio as non-transferable. The court noted the need for stricter adherence to the substance of contractual rights and obligations, underscoring that where a right is expressly non-transferable, it must retain that character in all contexts, including insolvency.
+
+Additionally, the established principle in *Trust Bank of Africa Ltd v Standard Bank of South Africa Ltd* 1968 (3) SA 166 (A) was cited, affirming that contractual stipulations limiting transferability are generally enforceable ([paras 9–10]).
+
+#### A – Application: Analysis of how the court applied the law ([paras 11–15])
+
+The court, in its interpretation, adhered to the ordinary meaning of the language in the agreements establishing the non-transferability of rights. The analysis pivoted on two key points:
+
+1. **Interpretation of Non-transferability**: The court held that the words in clause 15.1 of the contracts were unambiguous in expressing the intent that neither Summer Season nor Central Lake could cede any rights or obligations to a third party without Firstrand Bank's consent. This provision was determinative in establishing that the claims were intended to be non-transferable, thereby rendering any cession made in contravention of this clause invalid ([paras 14–15]).
+
+2. **Liquidators' Discretion**: The argument that liquidators' duties under insolvency law could override a *pactum de non cedendo* was carefully scrutinized. The court distinguished between the general powers granted to liquidators versus the explicit contractual limitations imposed by the original agreements. The judgment indicated that while the liquidators had a duty to maximize the value of the estate's assets, this could not undermine the explicit prohibitions established by the original contracting parties, especially where those prohibitions were grounded in the nature of the rights themselves ([paras 11–15]).
+
+#### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 16])
+
+As a result of this analysis, the Supreme Court of Appeal concluded that the liquidators of Summer Season and Central Lake had ceded rights that were legally incapable of valid cession due to the *pactum de non cedendo* in the agreements with Firstrand Bank. Therefore, the cessions to Born Free were invalid and of no force. Consequently, the appeal was dismissed with costs, including those for the employment of two counsel, thus affirming the High Court's decision on the first two contentions raised by Firstrand Bank ([paras 16]).
+
+This judgment underscores the importance of explicit contractual language in determining the enforceability of transfer prohibitions and highlights the challenges faced in navigating the interplay between insolvency law and contractual obligations. It poses significant implications for future liquidations and the weight of contractual agreements in insolvency proceedings, reinforcing that in the event of a conflict, the explicit terms of an agreement will govern the rights of parties involved.

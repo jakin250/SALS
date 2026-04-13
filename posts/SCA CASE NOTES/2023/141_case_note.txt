@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Knoop NO and Others v National Director of Public Prosecutions
+
+### F – Facts: Relevant background and procedural history ([paras 1–15])
+
+In the case of **Knoop NO and Others v National Director of Public Prosecutions**, the Supreme Court of Appeal addressed the appeal against a preservation order issued by the Gauteng Division of the High Court. This preservation order, granted on 23 March 2022, pertained to the shares and business assets of Optimum Coal Mine Pty Ltd (OCM), and its associated entities, Tegeta Exploration and Resources Pty Ltd and Optimum Coal Terminal Pty Ltd, all of which were under business rescue ([para 1]).
+
+The appellants included the business rescue practitioners of these entities, who opposed the preservation order on multiple grounds, including a belief that it infringed upon their statutory powers under the Companies Act 71 of 2008. The preservation order resulted from allegations made by the National Director of Public Prosecutions (NDPP), asserting that the assets in question were the proceeds of crime related to broader issues of state capture involving the Gupta family and their associates, thereby complicating the already initiated business rescue efforts ([para 5]).
+
+The NDPP’s stance was that allowing the business rescue plan to be executed would lead to further financial impropriety, as it could facilitate money laundering connected to the tainted funds originally used to acquire the shares in OCM and OCT ([para 13]). The NDPP endeavored to take a proactive stance in recovering assets linked to the alleged corruption, seeking to preserve the property pending a forfeiture application ([para 14]).
+
+### I – Issues: Legal or constitutional questions ([paras 19–21])
+
+The central legal issue in this case was whether the preservation order issued under section 38 of the Prevention of Organised Crime Act 121 of 1998 (POCA) was appealable ([para 21]). This question homed in on whether the precedents set in **Phillips and Others v National Director of Public Prosecutions** and **Singh v National Director of Public Prosecutions** were applicable to determine the appealability of preservation orders. The appellants contended the order was final and definitive in nature, thereby satisfying the Zweni test for appealability, while the NDPP contended it was not appealable ([para 21]). 
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 22–29])
+
+The case drew heavily on the **Zweni test** as established in **Zweni v Minister of Law and Order**, which requires three attributes for a decision to be appealable: (a) final effect; (b) definitiveness of rights between parties; and (c) substantial disposition of relief claimed in proceeding ([para 22]). Additionally, significant reliance was placed on prior decisions in **Phillips** and **Singh**, particularly concerning the nature of preservation and restraint orders under POCA. 
+
+The court noted the critical distinctions between Chapter 5 (restraint orders) and Chapter 6 (preservation orders) of POCA, emphasizing the legislative intention behind each. For instance, Chapter 5 is intrinsically linked to criminal proceedings and permits appeals, while Chapter 6 focuses on preserving property pending a determination on forfeiture, implicitly not designed to be appealable ([paras 27–29]).
+
+### A – Application: Analysis of how the court applied the law ([paras 30–54])
+
+Upon reviewing the arguments presented, the court concluded that preservation orders under Chapter 6 of POCA are not appealable. The court examined the unique procedural framework governing preservation and forfeiture under POCA, noting that these orders serve a time-sensitive function intended to secure assets for potential forfeiture. 
+
+The judges highlighted that unlike the authority granted in **Phillips**, which dealt with a restraint order in a similar context, a preservation order does not definitively resolve parties’ rights; instead, it acts as a mechanism to maintain the status quo while forfeiture proceedings are considered ([paras 46–47]).
+
+Furthermore, the court reiterated that the legislative framework and intent behind preservation orders do not support an appeal route. In particular, the court focused on the time-sensitive nature of preservation orders and their purposeful design to operate as provisional measures that would not internally resolve larger issues surrounding rights and property ownership before the forfeiture application is contemporaneously addressed ([paras 49–52]). 
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 54–55])
+
+The Supreme Court of Appeal ultimately held that the preservation order was not appealable. It emphasized the distinctive nature of preservation orders under POCA, attributing their procedural intricacies to a deliberate legislative decision isolating these orders from appeal processes. The ramifications of this holding suggest a reaffirmation of the statutory framework aiming to preclude disruptions that appeals may introduce within the context of asset forfeiture, thus prompting the NDPP’s efforts to maintain integrity in recovering state-related criminal assets ([para 55]).
+
+As a result, the court struck the appeal from the roll with costs, implying a significant, albeit controlled procedural consequence for parties involved in similarly complex asset forfeiture cases under POCA in future ([para 55]). The decision solidifies the judiciary’s approach to uphold statutory curbs on appealable orders, thereby drawing a clear line in corporate governance, asset preservation, and the overarching regulatory aim of POCA.

@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# Case Note: Van Reenen v Santam Ltd [2012] ZASCA 74 (29 May 2013)
+
+## FIRAC Method
+
+### F – Facts
+
+The central facts in **Van Reenen v Santam Ltd** ([1–4]) revolve around a commercial relationship involving the appellant, Lourens Wepener van Reenen, and the insurance company Santam Limited, concerning indemnification related to a third-party claim. The appellant operated a cattle feedlot business under the name ‘Beefmaster’ and entered into a contract with Abakor Ltd for the supply of tallow, with the arrangement tacitly extended until problems surfaced in 1997 regarding the quality of the supplied tallow.
+
+Between February and August 1997, the appellant alleged he suffered damages amounting to R1,917,924.71 due to latent defects in the tallow supplied by Abakor. Subsequently, he brought a breach of warranty suit against Abakor in January 2000, which was later impacted by Abakor’s provisional liquidation in October 2000 and eventual final winding-up on 31 October 2000.
+
+During the relevant period, Abakor was insured by Santam, which was obliged to indemnify Abakor against liabilities arising from its operations. The appellant was made aware of this insurance policy shortly before Abakor’s liquidation. Following Abakor’s winding-up, the appellant pursued his claim against Santam on 13 January 2004 for R1.5 million, based on the claim that the insurer was liable to indemnify under section 156 of the Insolvency Act 24 of 1936.
+
+Santam raised a special plea of prescription, arguing the appellant's claim was extinguished under the Prescription Act 68 of 1969 because he did not institute action within three years from the time the debt became due, initially contending that the debt was due upon Abakor’s liquidation. The appellant countered this by arguing that the claim only became due when Santam repudiated Abakor’s claim on 10 April 2001, which he believed interrupted the prescription period ([6–10]).
+
+### I – Issues
+
+The pivotal issue before the court was when Van Reenen's claim against Santam became due, thereby determining if it was extinguished by prescription ([10]). Specifically, the court needed to ascertain:
+
+1. **When did the debt asserted by the appellant become due, thereby starting the running of prescription?**
+2. **If the claim became due before the suit was instituted, was there any interruption of the prescription period due to Santam's actions?**
+
+### R – Rules
+
+This case pivots on the interpretation of several legal provisions:
+
+1. **Prescription Act 68 of 1969**: Section 11 (governing the extinction of claims by prescription) and Section 12 (regarding when a debt is deemed due) were critical. Section 12(1) indicates that a debt commences to run as soon as it is due, while Section 12(3) provides that a debt is not deemed due until the creditor has knowledge of both the debtor's identity and the facts from which the debt arises ([11]).
+
+2. **Insolvency Act 24 of 1936**: Particularly, Section 156 elucidates a third party's rights to recover from an insurer upon the sequestration of the insured's estate. The application of this section and its interaction with the Companies Act 61 of 1973 (especially sections relating to the winding-up of companies) was also significant ([13–15]).
+
+### A – Application
+
+The Supreme Court of Appeal (SCA) primarily applied the relevant statutory provisions to the facts at hand. It first established that the "debt" in question referred to the insurable liability of Abakor towards Van Reenen, which came into existence once Abakor was officially wound up on 31 October 2000, as articulated in Section 156 of the Insolvency Act ([18]).
+
+The SCA found that Van Reenen had the knowledge required to institute a claim against Santam as early as 27 November 2000 when he became aware of Abakor's final liquidation. Thereby, per Section 12(3) of the Prescription Act, the time for instituting action had already begun to run ([19]).
+
+The court further scrutinized the appellant's assertion that Santam’s engagement with attorneys to provide a defense in the claim against Abakor constituted an acknowledgment of liability, which would interrupt the running of prescription as outlined in Section 14 of the Prescription Act ([21–23]). The court determined that Santam had denied any liability to Van Reenen, thus negating the claim that it had acknowledged a debt that would interrupt the prescription ([24]).
+
+### C – Conclusion
+
+The SCA dismissed the appeal, affirming that Van Reenen’s claim had prescribed as he failed to act within the three-year period stipulated under the Prescription Act. The court clarified that the date from which the prescription period calculated was the final liquidation of Abakor, on 31 October 2000, rather than the later repudiation of claims by Santam ([25]). This ruling provided clarity on the interplay between claims against insurers in the context of insolvency—particularly how the rights of third parties come into effect and are governed by statutory frameworks.
+
+The implications of the decision underline the importance for creditors to act swiftly upon the recognition of their rights following insolvency proceedings, reinforcing the strict timelines imposed by prescription laws in South Africa.

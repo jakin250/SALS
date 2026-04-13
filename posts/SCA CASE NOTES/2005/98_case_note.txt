@@ -1,0 +1,41 @@
+Case Note: IN THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# FIRAC Case Note: Ethekwini Municipality v Verulam Medicentre (Pty) Ltd
+
+## F – Facts
+The case at hand arises from a contractual dispute between the Ethekwini Municipality (the appellant) and Verulam Medicentre (Pty) Ltd (the respondent). In December 1993, the parties entered into a written agreement for the sale of immovable property, with a purchase price of R1,592,000, payable via a 10% deposit followed by quarterly installments for two years ([2]). By October 1996, the respondent had paid R1,141,153.48 and sought to pay the outstanding balance. However, the appellant had not adhered to the necessary provisions of the Local Authorities Ordinance Act 25 of 1974, thereby invalidating the original agreement ([3]).
+
+Further negotiations led to a new agreement on April 1, 1999, where the initial payment would contribute to a new purchase price of R3,500,000, contingent on the success of a rezoning application ([4]). The new agreement included a clause (12.7) stipulating that if the rezoning was not successfully granted within a year, the respondent could either cancel the agreement or proceed with the sale, leading to a refund of amounts paid with interest at 15.5% compounded monthly in arrears ([5]-[6]).
+
+Despite delays, the respondent lodged the rezoning application only in July 2001 and was informed in August 2002 that it was unsuccessful. The respondent subsequently cancelled the agreement and claimed R4,049,369.96 from the appellant, which included the original payment and accrued interest ([6]). The appellant contested the claim under Uniform Rule 6(5)(d)(iii), arguing that the in duplum rule applied, limiting the interest recoverable to the capital amount ([7]).
+
+### Procedural History
+The Durban High Court ruled in favor of the respondent, stating that the in duplum rule did not apply, as the interest stipulated was not traditional interest meant to protect against exploitation, but was instead a means of restitution ([8]). 
+
+## I – Issues
+The main issue to be determined is whether the in duplum rule applies to the respondent’s claim against the appellant.
+
+1. Does the in duplum rule limit the interest recoverable by the respondent?
+2. Was the interest in question considered "arrear interest" under the in duplum rule, or did it serve a different purpose?
+
+## R – Rules
+The in duplum rule dictates that interest ceases to accrue once it equals the amount of the unpaid principal. It's designed to prevent creditors from exploiting debtors through excessive interest charges ([9]). The rule's application is grounded in public policy and applies broadly to contracts where there is an obligation to pay interest on capital ([10]).
+
+The Court indicated that the rule is confined to arrear interest, asserting that its protective function is focused on preventing charges that surpass the original capital owed ([10]-[11]). 
+
+### Relevant Precedents
+1. **Union Government v Jordaan’s Executor**: Defined the in duplum rule’s applicability within the context of public policy ([9]).
+2. **Sanlam Life Insurance Ltd v South African Breweries Ltd**: Clarified that the in duplum rule is applicable only to arrear interest and distinguished contractual interest from typical interest definitions ([10]).
+
+## A – Application
+In applying the law to the facts, the court examined the nature of the interest specified in the second agreement, particularly whether it constituted "arrear interest". The court concluded that since no debt was acknowledged until the rezoning application failed, the interest held was not in arrears—it was prospective based on a conditional future event ([12]-[18]).
+
+The terms of the agreement reflected that the parties intended for the interest to serve as a mechanism for restitution to the respondent in the event that the sale did not proceed, rather than typical loan interest that would invoke the in duplum rule ([15]). The concurrent findings of the court revealed that the purpose of the stipulated interest was aligned with fair restitution rather than a compensatory meant to burden a debtor ([8]-[20]).
+
+Furthermore, the court highlighted that the identity of the debt and the conditions under which the interest rate was agreed on indicated a clear departure from conventional interest definitions, avoiding traditional limitations imposed by the in duplum rule.
+
+## C – Conclusion
+In conclusion, the Supreme Court of Appeal dismissed the appeal, supporting the Durban High Court’s finding that the in duplum rule did not apply in this instance. The court decided that the interest provision served a purpose beyond standard interest terms and was not aimed at exploiting the debtor ([24]). This ruling underscores the importance of contractual intent and the specific language of agreements in determining the applicability of legal protections like the in duplum rule. The implications of this case suggest a nuanced understanding of contractual obligations and interest stipulations, particularly in scenarios where public policy seeks to balance protections for debtors while allowing fair restitution to creditors. 
+
+The appeal was thus dismissed with costs ([24]).

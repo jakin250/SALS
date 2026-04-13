@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: The Standard Bank of South Africa Ltd v 3MFuture Africa (47/2013) [2013] ZASCA 157
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–6])
+The case involves an appeal by The Standard Bank of South Africa Ltd (the first appellant), MTN Group Ltd (the second appellant), and Oltio (Pty) Ltd (the third appellant) against a decision from the North Gauteng High Court regarding South African Patent No. 2002/2337, entitled ‘Transaction Authorisation System’, owned by 3MFuture Africa (Pty) Ltd (the respondent) ([para 3]). The background reveals that Oltio operated a digital payment system called MTN Mobile Money until October 2011, when Standard Bank took over this operation ([para 2]).
+
+3MFuture alleged that the MTN Mobile Money system infringed its patent, claiming direct and indirect infringement and seeking an interdict and damages. The appellants contested these claims and counterclaimed for the revocation of the patent on three grounds: lack of novelty, lack of inventive step, and that the patent claimed methods that were not inventions as per section 25(2)(e) of the Patents Act 57 of 1978 ([paras 7–8]). A pivotal aspect of the trial was that by the time of the hearing, Standard Bank had ceased the allegedly infringing features, thus the claim for an interdict became moot ([para 4]).
+
+The Commissioner of Patents found in favor of 3MFuture, validating claims 17, 18, and 19 of the patent and issuing a declaratory order against the appellants. However, the appellants appealed against both the declaratory order and the ordering of costs, with leave granted by the Commissioner ([para 6]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 7–8])
+The central legal issue in this case revolves around the validity of claims 17, 18, and 19 of Patent No. 2002/2337, specifically whether they were anticipated by prior art, particularly United States Patent No. 5,513,250, referred to as McAllister ([para 8]). This leads to the broader questions of:
+1. Whether the claimed invention lacked novelty under section 25(1) of the Patents Act.
+2. Whether the patent comprised a method of doing business, making it unpatentable under section 25(2)(e) of the Act ([para 7]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 7–12])
+The court relied on several key legal principles and statutory provisions under the Patents Act 57 of 1978. Central to the ruling was:
+- Section 25(1), which states that an invention must be new and involve an inventive step to qualify for patent protection.
+- Section 61(1)(c), allowing for the revocation of a patent that does not meet these criteria.
+- The substantive case law interpreting these provisions, particularly the test for anticipation articulated in *Gentiruco AG v Firestone SA (Pty) Ltd* ([para 9]). This case set forth the requirement that prior art must describe the claimed invention or its essential characteristics sufficiently to qualify as anticipatory.
+
+Further, the principles of construction outlined in *Aktiebolaget Hässle v Triomed (Pty) Ltd* stressed a purposive approach to understanding the essential elements of the invention ([para 11]). The interpretation of claims, as a legal and technical matter, was established as not purely a matter of expert testimony, which made expert opinions on the matter inadmissible ([paras 13–14]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 17–31])
+The court engaged in a careful examination of the claims of the patent in light of the prior art, particularly focusing on the language and scope of the relevant claim 17. The feature allowing account holders to authorise transactions based on their designated account status was critically assessed against McAllister’s method for securing transactions ([para 20]).
+
+In deciding on the novelty of claim 17, the court considered the interpretation of “selectively designating a bank account status”. The appellants argued that the language implied a method confined to single transactions, thereby distinguishing it from McAllister, which allowed broader applications ([paras 26–30]). The court concluded that the word "selectively" did not limit the claim to single transactions but allowed for multiple authorisations, effectively rendering the claimed invention non-novel as it overlapped with the functionality of McAllister ([para 31]).
+
+The significance of this finding laid in the broad interpretation of what constitutes novelty in patent law, emphasizing that merely being more secure or narrowly defined compared to prior art does not confer patentability ([para 31]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 32–32])
+The Supreme Court of Appeal upheld the appeal brought by the appellants, concluding that the claims of the patent were invalid due to lack of novelty, as they were anticipated by the prior art ([para 31]). Consequently, the orders of the court below were set aside, with the court dismissing 3MFuture’s action and granting the counterclaims of the appellants to revoke the patent ([para 32]).
+
+The ratio decidendi of this case rests on the principle that an invention must be both new and inventive to qualify for patent protection, a threshold not met in this instance due to the anticipated claims highlighted by McAllister. This case reinforces the importance of not only the viability of individual claims in patents but also their relationship to existing technology and methods, dictating the contours of patent law on novelty and inventiveness within South Africa. The implications of this ruling underline the necessity for patent holders to ensure their innovations are clearly distinguishable from prior art to secure their intellectual property rights effectively.

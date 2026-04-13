@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: The Steve Tshwete Local Municipality v Fedbond Participation Mortgage Bond Managers (Pty) Ltd
+
+## F – Facts
+
+The Supreme Court of Appeal of South Africa heard the appeal of The Steve Tshwete Local Municipality (the Municipality) against a declaratory order issued by Prinsloo J in the North Gauteng High Court, Pretoria, which favored Fedbond Participation Mortgage Bond Managers (Pty) Ltd and Fedbond Nominees (Pty) Ltd (collectively referred to as Fedbond). The primary legal contention dealt with the applicability and interpretation of section 118(1) of the *Local Government: Municipal Systems Act 32 of 2000* and section 89 of the *Insolvency Act 24 of 1936* ([1-2]).
+
+The Municipality is a duly established local authority, while Fedbond operates a participation bond scheme lending funds secured by mortgage bonds over commercial properties. TNT Trading 23 CC (TNT), a close corporation, owned four immovable properties and was placed in final liquidation on December 3, 2008. Fedbond, a major creditor, secured a loan amounting to R16,125,136.18, which was proved in the liquidation process. The liquidators then commenced selling the properties, requiring certificates from the Municipality to confirm that municipal charges had been settled ([3-5]).
+
+A dispute arose concerning the calculation period for these municipal charges. The Municipality claimed that the period should align with the two years preceding TNT's liquidation as articulated in section 89 of the *Insolvency Act*, while Fedbond contended that it should reflect the two years before applying for clearance certificates in terms of section 118(1). This discrepancy meant that the Municipality demanded payment for municipal rates over a period exceeding one year compared to Fedbond's willingness to pay ([6-7]).
+
+Eventually, an agreement was reached where Fedbond would pay the Municipality's claimed amount, and a subsequent court application would seek clarification on the applicable period for the rates to obtain clearance certificates. The court ruled in favor of Fedbond ([7-8]).
+
+## I – Issues
+
+The primary legal issue in this case centered on the proper interpretation of section 118(1) alongside section 89 of the *Insolvency Act*. Specifically, it questioned whether the periods of liability for municipal rates as defined in these sections were cumulative or whether one superseded the other. The case also involved whether the court could deviate from its prior decision in *City of Johannesburg v Kaplan NO*. This earlier case established that the shorter period specified in section 118(1) applies in situations of insolvency where municipal debts constitute "tax" as defined in section 89(5) ([2-3]).
+
+## R – Rules
+
+The decision relied heavily on the statutory provisions in question and prior case law. Noteworthy rules include:
+
+1. **Section 118(1) of the *Local Government: Municipal Systems Act***: This section states that a registrar of deeds may not register the transfer of property without a certificate confirming that all municipal charges have been paid for the two years leading up to the application for that certificate.
+
+2. **Section 89 of the *Insolvency Act***: This section delineates the obligations surrounding the costs associated with maintaining and realizing properties in insolvency, specifically limiting tax obligations to a two-year period immediately preceding a sequestration and from that date until property transfer.
+
+3. **Stare Decisis**: Both the principles of precedent and the court's duty to adhere to its previous judgments were invoked, particularly the relevance of the *Kaplan* decision, which held that the embargo (i.e., limitations on transfers) and charges outlined in section 118 are subject to the time limits established in section 89.
+
+4. **Ratios from Previous Decisions**: Citing *Kaplan*, the court reinforced that the period of liability for municipal payments cannot exceed the established two years prior to the application for a certificate ([8-14]).
+
+## A – Application
+
+In applying these legal rules, the court dissected the legislative intent behind sections 118 and 89. It emphasized that the wording and structure of section 89 suggest that it was designed to limit the impediments imposed by section 118 when a trustee is looking to transfer property. The court scrutinized the arguments of the Municipality, which attempted to extend the period for payment beyond what section 118(1) stipulates ([10-21]).
+
+The judgment referenced the interpretations in *Kaplan*, which underscored that when an embargo period under a separate law is effectively shorter than that in section 89, the shorter period continues to apply post-sequestration. In contrast, if it is longer, the provisions of section 89 would take precedence ([18-21]).
+
+The court further distinguished the two provisions, wherein section 118(1) serves as a mechanism for municipalities to ensure they are paid for rates due at the time of transfer, while section 89 delineates the obligations within the realm of insolvency ([12-17]).
+
+## C – Conclusion
+
+The judgment concluded with the dismissal of the appeal brought by the Municipality, affirming the lower court's decisions. The court held that the liability for municipal charges due to the insolvency of TNT is indeed restricted to the two years before the application for clearance certificates as per section 118(1). Consequently, the ruling reaffirmed the precedent set in *Kaplan*, thereby reinforcing the principles of stare decisis within South African jurisprudence ([22]).
+
+This outcome has implications for future cases surrounding municipal debts in insolvency, clarifying the limitations imposed on local authorities and the method by which rates are to be calculated in such scenarios. It also underscores the relevance and binding nature of previous decisions to maintain legal consistency and predictability ([1-22]).

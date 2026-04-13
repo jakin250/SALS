@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: City of Tshwane Metropolitan Municipality v Nambiti Technologies (Pty) Ltd [2015] ZASCA 167
+
+## F – Facts: 
+The case involves a contractual dispute between the City of Tshwane Metropolitan Municipality (the "City") and Nambiti Technologies (Pty) Ltd ("Nambiti") regarding the cancellation of tender CB204/2012 for the provision of SAP support services. Nambiti held a contract with the City from 1 August 2009 until 31 December 2012 to provide these services. On 12 October 2012, the City issued the tender for continued services. However, on 11 December 2012, Nambiti was informed that the tender would be cancelled and a new one would be issued. Nambiti's services were effectively terminated on 20 December 2012, with EOH Mthombo Limited ("EOH") appointed as the new contractor. Dissatisfied, Nambiti initiated review proceedings on 1 March 2013, seeking to set aside the decision to cancel the tender and to compel the City to invite new tenders for SAP services ([paras 1-4]), [para 8].
+
+The High Court found that while the award of the contract to EOH was flawed, it did not set it aside. However, it ruled that the cancellation of tender CB204/2012 was unfair and ordered the City to resuscitate it and adjudicate the tender ([paras 4-18]). This order was appealed ([paras 6-7]).
+
+## I – Issues: 
+The primary legal questions were:
+1. Whether the cancellation of tender CB204/2012 constituted administrative action subject to the Promotion of Administrative Justice Act 3 of 2000 (PAJA).
+2. Whether the High Court's conclusion that the cancellation was unfair was justifiable.
+3. The implications of the High Court's order compelling the City to re-adjudicate the tender on constitutional separation of powers ([paras 21-34]).
+
+## R – Rules: 
+The court relied on several key legal principles and statutes:
+- PAJA, which governs the requirements for administrative action and judicial review, specifically sections pertaining to the definition of "administrative action" ([paras 22-24]).
+- The definition of administrative action includes criteria such as: a decision of an administrative nature made by an organ of State that adversely affects rights and has a direct external legal effect ([para 22]).
+- The procedural provisions of the Local Government: Municipal Finance Management Act 56 of 2003, particularly regarding the procurement process ([para 27]).
+
+The court also referenced precedents interpreting administrative action, notably *Grey’s Marine Hout Bay (Pty) Ltd & others v Minister of Public Works & others* and *Minister of Defence and Military Veterans v Motau & others* ([paras 22-24]).
+
+## A – Application: 
+The court concluded that the City’s decision to cancel the tender did not constitute administrative action under PAJA because it was not taken in a manner that had a direct, external legal effect on any rights. The cancellation was deemed consistent with the tender's terms, which allowed for the cancellation at any time before a contract was formed ([paras 25-34]).
+
+The court further held that the High Court's reasoning for labeling the cancellation as unfair was flawed. The judge's dismissal of the reasons for cancellation as "flimsy" did not adequately consider the City's genuine concerns about procurement and the necessity of internal capacity development, oversight, and changing technological needs ([paras 35-41]). The court emphasized that decisions regarding procurement inherently involve the evaluation of public resources and priorities, which are traditionally within the purview of elected representatives ([paras 42-44]).
+
+## C – Conclusion: 
+The Supreme Court of Appeal upheld the appeal, setting aside the High Court's order. The court concluded that the cancellation of tender CB204/2012 was valid and did not constitute administrative action subject to review under PAJA. The judgment reinforced the principle of separation of powers, highlighting that interventions by the judiciary into the procurement decisions of municipal authorities should be made with caution, recognizing the complex interplay between governance, resource allocation, and administrative autonomy ([paras 43-44]).
+
+### Implications:
+This ruling clarifies the boundaries of administrative action concerning tender cancellations within local government structures and underscores the need for judicial restraint in reviewing such decisions. It sets a significant precedent for future tender-related disputes in South Africa, emphasizing that not all decisions taken in the context of procurement will trigger the oversight mechanisms intended to ensure just administrative action. The court's decision affirms the importance of discretion exercised by public authorities in the management of municipal affairs ([paras 42-44]).

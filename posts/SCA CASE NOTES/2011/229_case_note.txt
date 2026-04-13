@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+**Case Note: FIRAC Analysis of Eskom Holdings Limited v National Union of Mineworkers (840/2010) [2011] ZASCA 229**
+
+---
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–15])**
+
+The appeal in **Eskom Holdings Limited v National Union of Mineworkers** arises from a dispute concerning a minimum services agreement under section 72 of the Labour Relations Act 66 of 1995 (LRA). The appellant, Eskom Holdings Limited (Eskom), is a large private company responsible for electricity generation, transmission, and distribution in South Africa. The respondents include trade unions representing Eskom's employees, specifically the National Union of Mineworkers (NUM), the National Union of Metalworkers of South Africa (NUMSA), and Solidarity. These unions had previously represented employees in negotiations over a minimum services agreement which had been unilaterally cancelled following a deadlock in negotiations since March 2004 ([paras 2–10]).
+
+In April 2007, following unsuccessful negotiations, the unions referred their deadlock regarding the terms of a new minimum services agreement to the Commission for Conciliation, Mediation and Arbitration (CCMA), classifying it as a mutual interest dispute. The unions sought either conciliation or arbitration should conciliation fail. Eskom contested the CCMA's jurisdiction to address the dispute under section 74 of the LRA, arguing that such matters should be handled by the Essential Services Committee (ESC) under section 73.
+
+The CCMA initially ruled that it had jurisdiction, which was subsequently challenged by Eskom in the Labour Court, resulting in a decision that the CCMA lacked such jurisdiction ([paras 11–14]). The Labour Appeal Court overturned this ruling, affirming the CCMA's jurisdiction, prompting Eskom to appeal to the Supreme Court of Appeal ([paras 15]).
+
+---
+
+**I – Issues: Legal or Constitutional Questions ([paras 1–12])**
+
+The primary issue for determination was whether the failure to agree on the terms of a minimum services agreement constitutes a dispute that could be referred to compulsory interest arbitration by the CCMA according to section 74 of the LRA. This question raised the critical inquiry into the jurisdictional boundaries between the CCMA and the ESC, specifically regarding the legislative framework governing essential services and the interpretation of "minimum services" ([paras 1–14]).
+
+Additionally, the case questioned the extent to which the right to strike, as enshrined in section 23(2)(c) of the South African Constitution, could be limited in essential services contexts, and whether the legislature intended the CCMA to have jurisdiction over disputes related to minimum services agreements ([paras 4–7]).
+
+---
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 4–24])**
+
+The legal framework principally governing the case revolves around the **Labour Relations Act 66 of 1995**, specifically sections 72, 73, and 74, which outline the roles of both the CCMA and the ESC in managing disputes related to essential services and minimum services agreements:
+
+1. **Section 72** provides that the ESC may ratify collective agreements that maintain minimum services in designated essential services, stipulating that such agreements shall be regarded as essential services for the employer and employees concerned ([paras 8–9]).
+   
+2. **Section 73** empowers the ESC to determine disputes regarding the designation of services as essential ([paras 5–6]).
+   
+3. **Section 74** allows parties barred from striking because of engagement in essential services to refer disputes to the CCMA for conciliation and potential arbitration ([paras 16–17]).
+
+The decision cites **South African Police Service v Police and Prisons Civil Rights Union & another** for the constitutional context regarding the right to strike and limiting rights under the Constitution ([para 4]). It also discusses the legislative intent as articulated in the LRA to balance the right to strike with operational necessities within essential services ([paras 29–32]).
+
+---
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 15–32])**
+
+The Supreme Court of Appeal analyzed the relevant statutory provisions alongside the legislative intent behind the LRA. The court examined the interrelationship between sections 72 and 74 to determine whether disputes over minimum services agreements could fall under the jurisdiction of the CCMA. 
+
+The court affirmed that while section 74 allows for disputes regarding terms of employment in essential services to be arbitrated, such arbitration cannot lead to conditions that negate the essential services designation made by the ESC. The appellant's argument that arbitration could not lead to a decision inconsistent with a prior essential services designation found sympathetic ground in the court's reasoning ([paras 18–32]). 
+
+The court also emphasized the critical role of the ESC, recognizing its statutory expertise in determining essential services. The conclusion drawn was that a dispute over the terms required to complete a minimum services agreement fundamentally concerned the designation of what constitutes an essential service, thus necessitating review and potential resolution by the ESC under section 73, rather than the CCMA under section 74 ([paras 20–32]).
+
+---
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 33])**
+
+The Supreme Court of Appeal concluded that the Labour Appeal Court erred in its determination that the CCMA had jurisdiction over the dispute concerning the minimum services agreement. The dispute regarding terms for a minimum services agreement should have been referred to the ESC for determination under section 73 of the LRA. Consequently, the appeal by Eskom was successful, and the earlier decision of the Labour Appeal Court was set aside, reaffirming the critical role of the ESC in managing disputes related to essential services and underlining the limitations of the CCMA's jurisdiction in such contexts ([para 33]).
+
+This judgment reinforces the legislative structure governing essential services in South Africa, highlighting the necessity of coordination between legislative intent and organizational protocols in the labour relations framework. The decision also affirms the protection of constitutional rights in the context of essential services, ensuring clarity in dispute resolution mechanisms and the jurisdictional boundaries of adjudicating bodies within labour law.

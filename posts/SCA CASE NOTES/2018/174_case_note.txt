@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: Malebane v Dykema (1054/2017) [2018] ZASCA 174
+
+## F – Facts: Relevant Background and Procedural History ([1]–[5])
+
+This case arises from a dispute between two farm owners, Arthur Pule Malebane (the Appellant) and Albert Dykema (the Respondent), both of whom own farms located within the jurisdiction of the Bela-Bela Local Municipality. The altercation began when Dykema, with the support of an oil company, applied for planning permission to establish a One Stop service station on his property on 10 February 2012. This application was lodged with the Limpopo Development Tribunal (the Tribunal) and involved a substantive change in land use from agricultural to special usage under the Bela-Bela Land Use Scheme of 2008.
+
+On 18 June 2010, the Constitutional Court declared Chapters V and VI of the Development Facilitation Act 67 of 1995 (the DFA) unconstitutional, but suspended the order for two years to allow for legislative amendments to rectify the constitutional defects. This suspension expired on 17 June 2012 without new legislation being enacted. Despite the declaration of invalidity coming into effect post-expiration, the Tribunal improperly granted approval to Dykema’s application on 1 November 2012.
+
+Upon learning of Dykema's approval, Malebane pursued his own application for a similar service station. Dykema responded by seeking an interim interdict from the high court to prevent the Municipality from processing Malebane’s application and demanding enforcement of the Tribunal's prior approval for his application. 
+
+The high court, presided by Cassim AJ, ruled against Dykema’s demands, citing the Tribunal's prior approval as invalid. However, the court nonetheless ordered the Municipality to process Dykema’s application under the provisions of the new Spatial Planning and Land Use Management Act 16 of 2013 (SPLUMA), which only became effective on 1 July 2015. The appeal stems from this determination regarding the processing of Dykema’s application.
+
+## I – Issues: Legal or Constitutional Questions ([6]–[10])
+
+The core issues presented to the Supreme Court of Appeal (SCA) are twofold:
+
+1. Whether the high court correctly concluded that Dykema's application was pending before the Tribunal at the time SPLUMA came into effect on 1 July 2015, notwithstanding the Tribunal's loss of jurisdiction due to the constitutional invalidity of the DFA, as affirmed in **Shelton** and **Patmar**.
+   
+2. Whether the high court had the authority to compel the Municipality to process Dykema’s application after the Tribunal’s authority had lapsed, given that the decision made by the Tribunal was invalidated and thus should have been disregarded in any subsequent legal or administrative proceedings.
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([11]–[29])
+
+The SCA relied upon several precedents and statutory provisions to determine the validity of the Tribunal's approval of Dykema’s application:
+
+- **Constitutional Court’s Decision in Johannesburg Metropolitan Municipality v Gauteng Development Tribunal**: This case concluded that the DFA’s Chapters V and VI were constitutionally invalid and imposed a two-year suspension of the invalidity declaration, which ended on 17 June 2012. This established principles regarding the retrospective application of declarations of invalidity and the operational limits of development tribunals.
+
+- **Section 60(2)(a) of SPLUMA**: This provision specifically addresses the handling of applications pending before a tribunal under the DFA at the commencement of SPLUMA. It mandates that such applications "must be continued and disposed of" according to the new Act if they were neither decided nor disposed of prior to the commencement of SPLUMA.
+
+- **Shelton and Patmar Cases**: These rulings underscored that all development approvals obtained after the expiration of the suspension period (17 June 2012) were deemed invalid automatically due to the lapse of statutory authority of the Tribunals to approve applications. 
+
+## A – Application: Analysis of How the Court Applied the Law ([30]–[60])
+
+The SCA, led by Wallis JA, meticulously analyzed whether Dykema’s application could still be deemed “pending” at the time SPLUMA came into effect, focusing on the meaning of "pending". It was concluded that for an application to be pending, it must be awaiting a decision from an authority that has the power to make that determination. Here, the Tribunal lacked authority following the declaration of constitutional invalidity, meaning Dykema’s application could not be considered pending.
+
+The court noted:
+
+- The definition of "pending", essentially tied to a decision-making body’s ability to exercise jurisdiction, further emphasized that once the Tribunal possessed no power to rule on Dykema's application post-17 June 2012, it could not realistically be classified as pending. Wallis JA referenced dictionary definitions and relevant case law supporting this position, underscoring that pending applications must have the capacity to be resolved.
+
+- Moreover, he addressed Dykema’s reliance on SPLUMA’s transitional provisions, arguing that even under the provisions set out in section 60(2)(a), his application was non-existent due to the lack of procedural validity earlier noted.
+
+Mothle AJA offered a dissenting opinion, arguing that the logical interpretation of SPLUMA and the prior Constitutional Court orders did accommodate pending applications, reaffirming the need for administrative bodies to address outstanding matters before them even after jurisdictional lapses due to legislative changes.
+
+## C – Conclusion: Court's Holding, Ratio Decidendi, and Implications ([61]–[61])
+
+In conclusion, the SCA upheld the appeal and dismissed the cross-appeal, invalidating the order made by the high court. It ruled that Dykema's application was not pending at the time SPLUMA came into effect and instructed the dismissal of Dykema’s application for a change in land usage. The decision reinforced the constitutionally entrenched principle that a statutory body must possess authority to adjudicate matters before it, thereby preventing invalid decisions from being recognized post humously within an updated legal framework.
+
+Through its ruling, the SCA delineated the boundaries of procedural validity and administrative authority under constitutional law, emphasizing the need for legislative compliance and clarity in matters of land development amidst evolving statutory landscapes.

@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+### Case Note: Lebashe Financial Services (Pty) Ltd v The Prudential Authority and Others (346/2021) [2022] ZASCA 141
+
+#### FIRAC Method
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–20])**
+
+The case revolves around the financial stability of Bophelo Life Insurance Company Limited (Bophelo) and Nzalo Insurance Services Limited (Nzalo), both of which were licensed insurers under the Insurance Act 18 of 2017. Following significant financial troubles, especially after Bophelo lost a substantial deposit due to the insolvency of VBS Mutual Bank, the Prudential Authority decided to intervene, placing both companies under provisional curatorship in November 2018. This decision was prompted by concerns over their financial soundness.
+
+Lebashe Financial Services (Pty) Ltd (Lebashe), which had previously provided capital to recapitalize Bophelo and Nzalo, contested the subsequent liquidation orders issued by the High Court, arguing for the reinstatement of the curatorship. Lebashe's appeal to the Supreme Court of Appeal was premised on two critical issues: its standing to appeal and the interpretation of section 54(5) of the Insurance Act, which it argued should prohibit liquidation orders while the insurers were under curatorship.
+
+While the High Court had observed the provisional curatorships, it ultimately deemed both insurers insolvent and proceeded with liquidation orders. The appeal solely involved Lebashe and the Prudential Authority, as the remaining respondents did not participate in the proceedings.
+
+**I – Issues: Legal or Constitutional Questions ([paras 21–22])**
+
+The central legal issues that the court was tasked with addressing included:
+
+1. Whether Lebashe had the legal standing (locus standi) to appeal against the High Court's liquidation orders.
+2. Whether section 54(5) of the Insurance Act precluded the issuance of liquidation orders while the insurers were under curatorship.
+3. Whether the curator was mandated to seek recapitalization of the insurers.
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 25–38])**
+
+The Supreme Court's ruling referenced critical aspects of the Insurance Act 18 of 2017, specifically sections 54(5) and the broader statutory framework governing curatorships and liquidations. 
+
+- **Section 54(5)** delineates that an insurer under curatorship cannot be wound up unless the curator applies for such action. This provision aims to protect the interests of policyholders by ensuring that insurers are not hastily liquidated without due process.
+- The Judgments referenced prominent cases concerning locus standi, such as *Gross & Others v Pentz* 1996 (4) SA 617 (A), emphasizing that a party must exhibit a direct and existing interest in the litigation to be granted standing.
+- Additionally, the concept of "generalia specialibus non derogant" was invoked to resolve the interplay between section 54(5) and related sections that allow for winding-up.
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 23–46])**
+
+The court's analysis began with the issue of standing. It determined that Lebashe's interest, primarily as a creditor of the holding company (BIG), was not sufficient to confer locus standi in the context of the liquidation of the insurers. This position is consistent with the principle that a litigant's interest in the outcome must be both direct and tangible, not merely financial or hypothetical.
+
+On the interpretation of section 54(5), the court concluded that the legislative intent clearly prohibits the liquidation of insurers under curatorship without curator involvement, reinforcing the protective purpose of such interventions. The court emphasized that the commencement of liquidation proceedings without following the requisite procedural protections, anchored in legislative intent, was improper.
+
+In addressing the curator's duties, the court reiterated that the role of the curator does not inherently include seeking recapitalization. The powers granted to curators focus on managing and investigating the insurer's affairs rather than acting as agents for financial recovery. As such, the curator acted within its mandate when acknowledging the financial status of the insurers without needing to orchestrate a recapitalization initiative.
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 47])**
+
+The court dismissed Lebashe's appeal, affirming the High Court's liquidation orders. The judgment reaffirmed the principle of standing in legal proceedings and clarified the application of section 54(5) of the Insurance Act, establishing that liquidation orders cannot be issued while insurers are under curatorship unless initiated by the curator.
+
+The decision has significant implications for stakeholders in the insurance business, emphasizing strict adherence to procedural protections intended to safeguard the interests of policyholders and creditors alike. Furthermore, it sets a precedent regarding the responsibilities of curators and the boundaries of intervention by parties with an indirect interest in liquidation proceedings, thereby enhancing the clarity of the procedural landscape within which financial regulatory bodies operate. 
+
+The court’s nuanced reading of the legislative framework demonstrates a careful balance between protecting financial institutions from insolvency and ensuring due diligence in the liquidation process, a vital consideration in the context of broader financial stability within the sector.

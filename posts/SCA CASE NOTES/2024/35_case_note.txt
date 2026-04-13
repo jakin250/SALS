@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: PRASA v Community Property Company (Pty) Ltd and Another (384/2023) [2024] ZASCA 35
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–11])**
+
+The dispute in **PRASA v Community Property Company (Pty) Ltd** arose from a contractual claim initiated by the Community Property Company (CPC) against the Passenger Rail Agency of South Africa (PRASA) for reimbursement of R3.2 million related to unpaid electricity consumption charges owed to the eThekwini Municipality (eThekwini) ([para 1]). The charges stemmed from electricity consumed by PRASA between October 2013 and June 2014, while CPC posited its claim on a sale of business agreement (SOB) established with Crowie Projects, which included provisions that CPC would be responsible for the payment of utilities and PRASA’s obligations under the coordination agreement ([paras 5–9]).
+
+The High Court initially ruled in favour of CPC, directing PRASA to pay R2,607,472.05 despite part of the claim being prescribed. PRASA appealed this judgment, focusing on the absence of a contractual relationship and disputing the unjustified enrichment claim ([para 2]). The legal proceedings hinged on whether CPC had a valid contract with PRASA, and, in the absence of a contractual relationship, whether CPC could successfully claim for unjustified enrichment ([paras 12–22]).
+
+**I – Issues: Legal or Constitutional Questions ([paras 12–22])**
+
+The Supreme Court of Appeal identified two principal issues for consideration:
+
+
+1. **Contractual Claim:** Whether CPC possesses a valid contractual claim against PRASA to recover costs for electricity consumed by PRASA for which CPC had paid to eThekwini ([para 12]).
+
+2. **Unjustified Enrichment Claim:** Whether CPC could advance an alternative claim for unjustified enrichment, given the absence of a contractual link between the parties ([para 12]).
+
+This required the court to examine the validity and interpretation of the clauses contained in the SOB and the coordination agreement, particularly concerning the rights and obligations pertaining to utility charges ([paras 13–22]).
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 12–22, 23–31])**
+
+The court relied on several legal principles governing contract law and unjustified enrichment. A significant aspect involved the interpretation of contractual agreements, particularly in the context of cession and the clear stipulations within the SOB ([paras 13–22]). 
+
+1. **Contractual Framework:** The court underscored that cessions, assignments, or delegations of rights must follow specific legal forms, as outlined in the SOB ([paras 16–21]). The court reaffirmed the principle that a contract is to be interpreted in accordance with its text and surrounding circumstances, supporting a strict view towards cessions not formally executed.
+
+2. **Elements of Unjustified Enrichment:** The requisites for an unjustified enrichment claim were elaborated as: (i) the defendant must be enriched, (ii) the plaintiff must be impoverished, (iii) the defendant’s enrichment must be at the plaintiff’s expense, and (iv) the enrichment must occur without justification (sine causa) ([para 27]). The precedents cited included **McCarthy Retail Ltd v Shortdistance Carriers CC** ([2001] ZASCA 78) and **First National Bank of Southern Africa Ltd v Perry NO and Others** ([2001] ZASCA 78), reinforcing the necessity for a thorough pleading of enrichment claims and the need for factual foundations ([paras 23, 24]).
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 12–31])**
+
+**Contractual Claim:**
+The court determined that CPC could not successfully claim based on the SOB or the coordination agreement as it had not been the assigned creditor with rights as defined under the relevant clauses (notably clauses 3.4, 25.15, and 25.16) ([paras 13–22]). The absence of a completed cession meant that CPC lacked standing to invoke the provisions of the coordination agreement against PRASA. The sufficiency of legal compliance regarding the transfer of rights was emphasized, demonstrating the court's strict adherence to formalism in contractual enforcement.
+
+**Unjustified Enrichment Claim:**
+In terms of enrichment, the court expressed skepticism about CPC’s claim, highlighting that it had failed to adequately explain the basis for its supply of electricity to PRASA and how this deviated from the prescribed contractual framework ([paras 23–29]). Additionally, the court scrutinized CPC’s assertions of impoverishment, determining that the indemnity provided by Crowie Projects within the SOB complicated CPC’s position. The court concluded that CPC had not sufficiently proved that its impoverishment was without recourse to Crowie Projects' indemnity, leading to the dismissal of the enrichment claim ([paras 29–31]).
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 32])**
+
+The Supreme Court of Appeal upheld PRASA's appeal, concluding that the High Court's ruling was incorrect ([para 32]). The court found that:
+1. CPC had no contractual claim against PRASA as it did not hold the rights necessary to invoke the relevant provisions from the coordination agreement.
+2. CPC's alternative claim for unjustified enrichment likewise failed, primarily due to inadequate evidence of impoverishment and failure to establish necessary foundations for enrichment liability.
+
+This judgment has implications for future claims involving complex interrelationships between corporate entities, particularly the need for clear contractual terms regarding the assignment of rights and obligations. It reinforces the requisite formalities in contract law regarding the cession of claims and the essential elements that must be articulated when advancing unjust enrichment claims, thereby shaping litigation strategies in similar disputes.
+
+---
+
+This case note employs the FIRAC method to encapsulate the arguments, issues, and conclusions evident in **PRASA v Community Property Company (Pty) Ltd** and provides a structured analysis suitable for academic use and legal citation.

@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Goldrush Group (Pty) Ltd v North West Gambling Board and Others (648/2021)
+
+## FIRAC Method
+
+### F – Facts
+This appeal arises from a dispute regarding the compliance of gambling licensees with certain provisions of the North West Gambling Act 2 of 2001 (the Act). The appellant, Goldrush Group (Pty) Ltd (Goldrush), held a 40% stake in several licensed gambling entities, alongside locally disadvantaged individuals (PDIs) as shareholders (specifically, the third to fifth respondents) ([1]–[2]). 
+
+The licenses initially granted under the 2009 Request for Applications (RFA) mandated that at least 60% of the equity ownership be held by local PDIs, who must reside in the North West Province ([2]–[3]). Goldrush encountered ongoing financial difficulties attributed to local PDIs failing to meet their financial commitments, which led to a decline below the requisite 60% local PDI ownership ([5]–[6]).
+
+In 2018, Goldrush exercised its pre-emptive rights to purchase additional shares, further reducing PDI ownership below the required threshold ([6]).
+
+The North West Gambling Board (the Board) responded to this share transaction by asserting a breach of the local PDI requirement and declining the renewal of the licenses ([9]). Goldrush's request for a declaratory order and subsequent application to the High Court for relief was dismissed, leading to the present appeal ([12]–[13]).
+
+### I – Issues
+The primary legal question revolves around whether Goldrush possessed the requisite locus standi to challenge the Board's decision regarding the local PDI requirement imposed on the licenses ([13]). The appeal raises complex issues, including whether a shareholder can assert standing in matters concerning the legality of conditions imposed on a corporate entity’s license ([13]–[14]).
+
+### R – Rules
+The court considered various legal principles regarding locus standi. Generally, it is established that the party seeking relief must demonstrate a direct and substantial interest. The rules are derived from constitutional provisions (notably s 38 of the Constitution), and case law, including **Giant Concerts CC v Rinaldo Investments (Pty) Ltd and Others** ([19]) and **Oudekraal Estates (Pty) Ltd v City of Cape Town** ([14]–[15]).
+
+The notion of own-interest standing is broader than traditional common law; nonetheless, the applicant must still exhibit that their rights or interests are directly affected—highlighting the necessity for more than mere financial interests ([20]–[21]). 
+
+### A – Application
+The court emphasized that Goldrush's claim was predominantly one of financial interest, which traditionally does not suffice to establish standing. The bench, referring to prior rulings, discussed the distinction between financial self-interest and genuine public interest claims, indicating that unless a case exemplifies exceptional circumstances, mere financial motives cannot justify court intervention ([20]–[28]).
+
+Goldrush contended that as a shareholder significantly affected by the local PDI requirement, it held locus standi. However, the court highlighted that any conceivable injury was abstractly financial, lacking the substantive connection required for standing ([20]–[26]). 
+
+Additionally, the court observed that local PDI shareholders could potentially contest the Board’s decision but chose not to support Goldrush’s application. This suggested a lack of consensus and undermined Goldrush's claims of representing broader interests ([24]–[27]).
+
+### C – Conclusion
+Ultimately, Goldrush’s appeal was dismissed on the grounds of lack of standing. The court reaffirmed that the primary decision-maker in licensing disputes rests with the licensees, not their shareholders. Since Goldrush could not establish that its interests exceeded mere financial concerns or presented broader public implications, the court declined to engage in a substantive review of the contested local PDI requirement ([28]–[29]).
+
+The implications of this decision reaffirm the boundaries of corporate litigation, particularly the qualifications necessary for standing in public law matters. The court’s ruling serves as a pivotal reminder of the nuances in claims leveraging financial interests versus those touching upon broader public responsibilities and rights.
+
+### References
+- Goldrush Group (Pty) Ltd v North West Gambling Board and Others (648/2021) [2022] ZASCA 164.
+- **Giant Concerts CC v Rinaldo Investments (Pty) Ltd and Others** [2012] ZACC 28; 2013 (3) BCLR 251 (CC).
+- **Oudekraal Estates (Pty) Ltd v City of Cape Town and Others** [2004] ZASCA 48; 2004 (6) SA 222 (SCA).

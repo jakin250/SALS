@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Standard Bank of South Africa Ltd v Miracle Mile Investments 67 (Pty) Ltd [2016]
+
+**FIRAC Method**
+
+---
+
+## F – Facts ([paras 1–10])
+
+The case arises from an appeal by Standard Bank of South Africa Ltd (Appellant) against the judgment of the Gauteng Local Division, Johannesburg, where it was ruled that the respondents, Miracle Mile Investments 67 (Pty) Ltd and Present Perfect Investments 116 (Pty) Ltd (First and Second Respondents, respectively), were entitled to cancel certain mortgage bonds in favor of the bank without payment of the secured debt, on the grounds that the bank's claim had prescribed.
+
+The debt originated from a facility agreement executed in August 2005, wherein Standard Bank provided a Line of Credit of R13,984,600 to Nicolas Chrysostomos Papachrysostomou (the principal debtor), with the respondents as sureties. The loan was secured by bonds over several immovable properties. The agreement allowed for the immediate repayment of the full amount upon default by Nicolas, particularly if he failed to remedy non-payment within a specified notice period.
+
+Nicolas defaulted on his payments, and a letter was sent to him on August 12, 2008, in accordance with section 129 of the National Credit Act 34 of 2005 (NCA), advising him of his arrears. However, this notice did not indicate the bank’s election to enforce the acceleration clause. His estate was provisionally sequestrated in February 2012, later becoming final.
+
+The respondents contended that because Nicolas had not made any payments after October 21, 2008, the debt had been extinguished by prescription on October 22, 2011. They sought a court order declaring that the bank's claim had prescribed and requiring the bank to agree to cancel the bonds.
+
+## I – Issues ([paras 2–3])
+
+The primary legal issue revolves around the commencement of prescription as it relates to the debt arising from the facility agreement. Specifically, the court was tasked with determining whether the debt became "due" upon the principal debtor's breach (the non-payment of instalments) or upon the bank's election to enforce the acceleration clause to claim the entire outstanding debt. 
+
+Consequently, the essential question was whether prescription began to run at the date of default (October 21, 2008) or at the time the bank elected to enforce the acceleration clause.
+
+## R – Rules ([paras 4–26])
+
+The governing statute is the Prescription Act 68 of 1969. Section 12(1) stipulates that prescription commences to run as soon as a debt is due. The court took into consideration precedents concerning acceleration clauses in installment agreements, which established that:
+
+1. Prescription may start to run from the point a creditor could first pursue a legal claim (typically upon default), unless an election is required by contractual terms to enforce an acceleration clause.
+2. The bank's right to claim the entire outstanding amount is conditional upon its election to invoke the acceleration clause, which transforms multiple arrears into a single claim for the total amount owed.
+
+In analyzing previous decisions, it was noted that if a creditor waits to exercise the right to accelerate, this does not preclude the operation of prescription under s 12(1) of the Act.
+
+## A – Application ([paras 12–26])
+
+The court examined the nature of the acceleration clause within the facility agreement, which distinguishes this case from previous applications of law. While the respondents argued that prescription ran from the date of Nicolas' default, the court emphasized that the bank had not exercised its rights to claim the outstanding balance, nor had it communicated such an election in accordance with the contract.
+
+In reviewing the facts, the court concluded that the critical condition precedent required by the acceleration clause (notifying the debtor of the breach and the intention to terminate the facility) had not been met. Therefore, while individual arrears may have accrued, the entire debt did not become immediately payable until the bank made its requisite election.
+
+The court distinguished this case from earlier rulings that involved similar principles under the previous Act, indicating that the current statutory provisions required a stricter interpretation of when a debt is deemed due.
+
+## C – Conclusion ([paras 27–28])
+
+The Supreme Court of Appeal ruled in favor of Standard Bank, setting aside the lower court’s decision. The court found that prescription did not commense, as the bank had not elected to enforce the acceleration clause necessitating a formal claim for the total debt. The appeal was upheld with costs awarded to the bank.
+
+The implications of this ruling underscore the importance of understanding the detailed procedural requirements in enforcement of mortgage agreements and highlight the necessity for debtors and creditors alike to be aware of when and how prescription may apply in contractual debts, especially those containing acceleration clauses.
+
+---
+
+**Citation:** Standard Bank of South Africa Ltd v Miracle Mile Investments 67 (Pty) Ltd [2016] ZASCA 91.

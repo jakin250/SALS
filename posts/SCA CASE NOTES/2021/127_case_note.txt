@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Pride Milling Company (Pty) Ltd v Bekker NO and Another
+
+**Neutral Citation:** Pride Milling Company (Pty) Ltd v Bekker NO and Another (Case no 393/2020) [2021] ZASCA 127 (30 September 2021)  
+**Court:** Supreme Court of Appeal of South Africa  
+**Judges:** Petse AP, Ponnan, Wallis, Mokgohloa, and Carelse JJA  
+**Heard:** 20 August 2021  
+**Delivered:** 30 September 2021  
+
+## FIRAC Case Note
+
+### **F – Facts:** [paras 1–6, 10–12, 32]
+
+The case revolves around the winding-up of Irfan Sohail Trading (Pty) Ltd ("Irfan"), which was placed under provisional winding-up on 29 June 2017 at the behest of Eendag Meule Bothaville (Pty) Ltd due to Irfan's inability to pay debts amounting to R144,165. The final winding-up order was granted on 14 September 2017. During the interim period between these two dates, Irfan made four significant payments totalling R295,000 to Pride Milling Company (Pty) Ltd, the appellant.
+
+The joint liquidators, Messrs Marthinus Jacobus Bekker and Edward Gnanapargarsum Sebastian NNO, challenged these payments, arguing they constituted void dispositions under section 341(2) of the Companies Act 61 of 1973. They claimed the payments were made after the effective date of the winding-up process (5 May 2017), making them automatically invalid unless the court decided otherwise.
+
+Pride Milling sought to have these payments validated, contending that they were made in good faith and did not derogate from the general body of creditors. The case was ultimately heard by Strijdom AJ in the High Court, which enforced the liquidators' claims but dismissed the counter-application by Pride Milling for validation.
+
+### **I – Issues:** [paras 1, 7, 9, 18-20]
+
+The primary legal question was whether the court could validate dispositions made by a company that has entered winding-up proceedings, specifically concerning transactions executed after a provisional winding-up order had been granted but prior to a final winding-up order. 
+
+Moreover, ancillary questions arose regarding the interpretation of section 341(2) of the Companies Act and how it should be applied in relation to the overarching principle of a concursus creditorum established upon winding-up. 
+
+### **R – Rules:** [paras 8, 12-14, 30, 35]
+
+The relevant legal principles derive from the Companies Act 61 of 1973, particularly sections 341(2) and 348:
+
+- **Section 341(2)** states that every disposition of a company’s property after the commencement of winding-up is void unless a court orders otherwise. This provides a presumption against any transaction that disposes of assets to protect the interests of creditors.
+  
+- **Section 348** establishes that a winding-up is deemed to commence at the presentation of the winding-up application to the court, hence rendering any transactions post this date subject to the void rule.
+
+Notable case law referenced includes *Natal Joint Municipal Pension Fund v Endumeni Municipality* [2012] ZASCA 13, which emphasizes the need for contextual and purposive statutory interpretation.
+
+### **A – Application:** [paras 18-27, 29-31]
+
+The court began by affirming that under section 341(2), the default position is that all payments made post the commencement of winding-up proceedings are void. The court reiterated that it retains discretion to validate dispositions made prior to a provisional order but not after its issuance.
+
+The payments made by Irfan to Pride Milling occurred after the effective commencement of the winding-up process, established as 5 May 2017. The court emphasized the importance of upholding the principle of equitable treatment of creditors, noting that any validation of the disputed payments would unfairly advantage Pride Milling at the expense of other creditors.
+
+Further, the court examined precedents, such as *Excellent Petroleum (Pty) Ltd v Brent Oil (Pty) Ltd*, which supported the notion that the court lacks authority to validate transactions post-provisional order.
+
+### **C – Conclusion:** [paras 41]
+
+The Supreme Court of Appeal affirmed the lower court's ruling, dismissing Pride Milling's application, thereby emphasizing that the statutory provisions under the Companies Act must be strictly adhered to. The court held that the payments made by Irfan to Pride Milling were deemed void, reinforcing the necessity of maintaining a fair distribution of assets among all creditors in insolvency situations.
+
+The court concluded that while Pride Milling made allegations of good faith, the overarching statutory framework aimed to prevent individual creditors from gaining undue advantage during winding-up proceedings. Furthermore, the matter underlined the importance of protecting the collective interests of creditors and the rule of law governing insolvency. 
+
+The appeal was thus dismissed with costs, including those for two counsel, validly recognized due to the complexity of the issue at hand. 
+
+---
+
+This case serves as a crucial precedent in understanding the limitations on the power to validate transactions by companies in liquidation, reiterating the primacy of creditor equality and the statutory framework governing insolvency.

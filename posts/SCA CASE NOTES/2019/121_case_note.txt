@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Telkom SA SOC Ltd v City of Cape Town [2019] ZASCA 121
+
+## FIRAC Case Note
+
+### F - Facts
+
+In 2017, Telkom SA SOC Ltd (hereinafter "Telkom") sought to expand its mobile electronic communication network through the establishment of 135 new sites for freestanding base telecommunication stations (FBTS) and rooftop base telecommunication stations (RBTS). The property of the estate of Mr. Birch Kalu (the second respondent) in Heathfield, Cape Town, was identified as one of the locations for the erection of an FBTS, although the property was zoned as Single Residential Zone 1 under the City of Cape Town’s (the first respondent) Municipal Planning By-Law, which prohibited such installations.
+
+To circumvent this zoning limitation, Telkom applied for the rezoning of a portion of the estate's property on January 18, 2016. However, it did not await the City’s approval and proceeded to erect the FBTS approximately two weeks later, prompting significant public backlash from local residents. The City subsequently informed Telkom of its breach of the by-law, requesting that Telkom seek an administrative penalty and obtain necessary approvals prior to pursuing its application.
+
+Telkom responded by challenging the constitutional validity of the by-law and the City’s Telecommunications Mast Infrastructure Policy (the Policy) and subsequently faced a counter-application from the City, which asserted that the erection of the FBTS was unauthorized. The High Court ultimately dismissed Telkom’s application and upheld the City’s counter-application, declaring the erection of the FBTS unlawful. This case reached the Supreme Court of Appeal (SCA) following the High Court's rejection of Telkom's claims.
+
+### I - Issues
+
+The main legal issues presented to the SCA included:
+
+1. Whether the provisions in the Municipal Planning By-Law and the Policy, which mandated municipal consent for the erection of telecommunications infrastructure, were unconstitutional due to conflict with national legislation, specifically s 22(1) of the Electronic Communications Act 36 of 2005 (the Act).
+  
+2. Whether Telkom, as a state-owned entity, was exempt from complying with the requirements of the National Building Regulations and Building Standards Act 103 of 1977 (the Standards Act).
+
+3. The implications of municipal zoning laws on Telkom’s ability to site telecommunications infrastructure without municipal consent.
+
+These issues necessitated a confrontation between local government planning competencies and national telecommunications regulations.
+
+### R - Rules
+
+The legal framework pertinent to the case included:
+
+1. **Electronic Communications Act 36 of 2005** (s 22(1)): This provision grants electronic communication network service licensees the right to enter any land and erect telecommunications facilities, with the stipulation in s 22(2) that 'due regard must be had to applicable law.'
+
+2. **National Building Regulations and Building Standards Act 103 of 1977**: Defines a "building" and sets forth requirements that must be adhered to when erecting structures.
+
+3. **Municipal Planning By-Law of the City of Cape Town**: This by-law categorizes zones with specific regulations regarding what structures or developments may occur within each zone, inclusive of telecommunications infrastructure.
+
+4. **Case Law**: The precedent set by the **Link Africa** case, where the Constitutional Court delineated the relationship between municipal by-laws and national legislation, asserting that licensees must comply with existing municipal regulations that govern land use.
+
+### A - Application
+
+In its application of the law to the facts, the SCA extensively deliberated on the intersection of municipal planning and national telecommunications regulations. It acknowledged the established principle that municipalities have the constitutional authority under s 156 of the Constitution to regulate local government matters, including municipal planning, which entails zoning and land use.
+
+The court found that the City’s by-law concerning the erection of telecommunications infrastructure was a legitimate exercise of its zoning authority and did not constitute an impermissible encroachment on national legislative powers. Telkom's assertion that the by-law excessively regulated telecommunications infrastructure was countered by the court, which reasoned that zoning was a core aspect of municipal planning and not merely an extension of the regulation of telecommunications, which remained under national jurisdiction.
+
+Moreover, the SCA held that Telkom's reliance on s 22(1) of the Act did not exempt it from complying with relevant municipal regulations regarding zoning and consent. The references to “applicable law” in s 22(2) meant that Telkom was required to adhere to the City’s by-laws, including those regulating the use and development of land.
+
+The argument by Telkom that it, as a state entity, was exempt from the Standards Act's provisions was also dismissed, particularly following Telkom’s concession during the proceedings that it was indeed bound to comply with building regulations. The court reiterated that failure to secure necessary approvals for construction amounted to unlawful development.
+
+### C - Conclusion
+
+The SCA ultimately dismissed Telkom's appeal, affirming the decision rendered by the High Court. The court concluded that municipal planning by-laws are essential for maintaining the orderliness and functionality of local governance. The judgment underscored the imperative that while national legislation facilitates telecommunications infrastructure, it must harmoniously coexist with municipal authority over land use and zoning.
+
+The ruling holds significant implications for the telecommunications sector, emphasizing the necessity for compliance with local regulations even when acting under the ambit of national legislation. It reaffirms the distinct but interrelated roles of national and local authorities within the multi-sphere governance framework established by the South African Constitution.
+
+**Order:** The Supreme Court of Appeal dismissed the appeal with costs, rendering Telkom liable for the expenses incurred therein, including costs associated with the employment of two counsel ([paras 54-55]).

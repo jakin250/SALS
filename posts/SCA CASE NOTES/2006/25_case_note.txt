@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2006
+
+## Case Note: City of Johannesburg v Debbie Investments CC [2006] SCA 29 (RSA)
+
+### FIRAC Analysis
+
+#### F – Facts
+
+Debbie Investments CC, a close corporation, initiated a delictual action against the City of Johannesburg, claiming damages for flood damage to its property located on Linksfield Ridge, Johannesburg ([1]). The appellant (City of Johannesburg) denied liability and filed a counterclaim for damages to a municipal road and wall adjacent to the property. Both parties agreed to separate the merits from the quantum of damages, resulting in a judgment from the Johannesburg High Court (Coetzee AJ) that found the appellant liable for the damage to the respondent’s property while dismissing the appellant's counterclaim. The appellant was then granted leave to appeal ([2]).
+
+The property sits on a steep slope (between 30° to 34°) and is accessed via Linksfield Drive, a road constructed in the 1950s ([3]). The road, designed without sufficient drainage, directs rainwater that typically flows down the slope. Above the respondent's property stands a substantial retaining wall, which had pre-existing cracks prior to the incident ([5]), with its stability remaining largely intact despite the flooding events ([11]).
+
+On February 10, 2000, after several days of heavy rainfall, the property experienced significant flooding, leading to damage in multiple rooms of the house ([9]). Expert testimony from both parties yielded competing theories regarding the cause of the damage: the ‘Top-down’ theory proposed by the respondent and the ‘Bottom-up’ theory posited by the appellant ([12], [20]).
+
+#### I – Issues
+
+The central issues in this case revolve around:
+
+1. Whether there exists a causal link between the water flow from the municipally maintained road and the damage to the respondent's property ([7]).
+2. Whether the court is justified in attributing liability to the appellant for failing to maintain adequate drainage systems ([27], [30], [34]).
+3. The admissibility and weight of expert testimony in establishing facts critical to determining liability ([29], [36]).
+
+#### R – Rules
+
+The applicable legal principles in this case are mainly drawn from delictual liability concerning negligence, which requires:
+
+1. A duty of care owed by the defendant to the plaintiff,
+2. A breach of that duty,
+3. Causation linking the breach to the plaintiff's damages, and
+4. Damages suffered by the plaintiff ([1], [29]).
+
+The legal authorities that frame this case include the principles established in *International Shipping Co (Pty) Ltd v Bentley* regarding the necessity of a factual connection between a defendant's actions and a plaintiff's damages ([29]).
+
+Additionally, the evidentiary standards concerning expert testimony are significant here, as this case placed reliance on conflicting expert analyses, underscoring the court's need to judiciously determine whose theory provided a more plausible explanation of causation ([18], [36]).
+
+#### A – Application
+
+In its analysis, the court found itself unable to reliably endorse either party's expert theories. The appellant’s experts insisted that the damage to the respondent’s structures stemmed from saturation and pressure from underground water and not from runoff on the road surface above ([20]). Conversely, the respondent's experts argued that the absence of proper drainage from the road allowed excessive water to infiltrate and destabilize the slope, leading to the damage ([12]).
+
+The court a quo concluded that while the volume of water from the catchment area above the property was undeniable, it could not ascertain how much of this flow was attributable to the road’s condition. It further implied that both parties had largely contributed to the circumstances resulting in the flooding through their maintained structures ([28], [36]). However, the Supreme Court of Appeal ultimately found fault with the lower court’s approach, asserting that the judge had speculatively filled gaps where the evidence was inconclusive. Instead of following the apparent lack of a clear theory of liability, the court opted to deduce liability based on presumed inadequacies in the municipal maintenance, which strayed from established legal standards regarding causation ([36]).
+
+#### C – Conclusion
+
+The Supreme Court of Appeal upheld the appeal, emphasizing that the lack of conclusive evidence to establish liability necessitated a verdict in favor of the appellant. By declaring both parties absolved from liability, the ruling highlighted the court's discretion to refrain from conjecturing where expert evidence did not provide a clear foundation for liability ([37]). The implications of this decision underscore the critical importance of rigorous evidentiary support in establishing legal causation in delictual claims, particularly within complex environmental contexts involving geology and civil engineering. The court’s ruling alleviated the appellant from liability while underscoring the necessity for clear and persuasive expert testimony in similar future cases.

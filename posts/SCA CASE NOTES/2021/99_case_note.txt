@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note  
+**Case Title**: Capitec Bank Holdings Limited and Another v Coral Lagoon Investments 194 (Pty) Ltd and Others  
+**Citation**: (470/2020) [2021] ZASCA 99 (09 July 2021)  
+
+## F – Facts 
+The first appellant, Capitec Bank Holdings Limited (Capitec Holdings), and the first respondent, Coral Lagoon Investments 194 (Pty) Ltd (Coral), entered into a subscription agreement in December 2006. Under this agreement, Coral subscribed for ten million ordinary shares in Capitec Holdings. Coral was required to allot shares to Ash Brook Investments 16 (Pty) Ltd (Ash Brook) to establish it as the sole ordinary shareholder of Coral ([1]). The agreement aimed to facilitate Capitec Holdings' compliance with black empowerment obligations, as articulated in its recitals ([1]).
+
+By August 2019, Regiments Capital (Pty) Ltd (Regiments Capital), which held a majority interest in Ash Brook, entered into a settlement agreement requiring payment of R500 million to the Transnet Second Defined Benefit Fund (the Fund) in settlement of alleged misappropriations. To finance this amount, Regiments Capital planned to sell 810,230 Capitec shares, contingent upon obtaining written consent from Capitec Holdings, defined in the settlement agreement as "Capitec Consent" ([2], [3]).
+
+Despite seeking the necessary consent through correspondence, Capitec Holdings refused to grant it, leading Coral and Ash Brook to file an urgent application in the Gauteng Division of the High Court in September 2019. They sought a declaratory order that the withholding of consent by Capitec Holdings was unreasonable and in breach of contractual and common law duties of good faith ([4]). The Fund countered, asserting that Capitec Holdings had no right to deny consent for the sale of shares ([5]).
+
+The High Court ruled in favor of Coral and Ash Brook, finding that Capitec Holdings had acted unreasonably in refusing consent and ordered it to provide the required approval within two days ([7]). Capitec Holdings contested this ruling, and the matter was subject to appeals, with an initial dismissal of the request for leave to appeal by the High Court ([8]).
+
+## I – Issues 
+The primary legal issues before the Supreme Court of Appeal (SCA) included:
+1. Whether Capitec Holdings’ consent was requisite before Coral could sell its shares to the Fund.
+2. If consent was necessary, whether Capitec Holdings owed duties of good faith and reasonableness to Coral, and whether it breached these duties by refusing to consent ([22]).
+
+Additionally, a threshold issue concerning the mootness of the appeal arose, considering events that unfolded after the High Court's decision ([10], [15]).
+
+## R – Rules 
+The rules governing this matter stemmed from principles of contract interpretation, good faith in contractual relations, and statutory obligations under the Broad-Based Black Economic Empowerment Act 53 of 2003 (BEE Act).
+
+### Contract Interpretation
+The interpretation of the subscription agreement was guided by established principles as espoused in **Natal Joint Municipal Pension Fund v Endumeni Municipality** which posits that courts should consider legislative intent, text, context, and purpose to reach a coherent understanding of contractual terms ([25],[26]).
+
+### Good Faith
+The obligations of good faith in contracts have been elaborated in cases like **Beadica 231 CC v Trustees, Oregon Trust** which assert that while good faith underpins contractual relationships, it does not serve as a standalone principle capable of altering explicit terms of an agreement ([63]).
+
+## A – Application 
+In addressing the matters of consent and good faith, the SCA began with a thorough examination of clause 8.3 of the subscription agreement, which governs the sale of shares by Coral. The SCA concluded that the plain language of clause 8.3 did not stipulate a requirement for Capitec Holdings’ consent for Coral’s demarcated sale of shares ([27], [29]) and that its interpretation must begin with the text itself as opposed to inferred meanings based on past conduct.
+
+The court scrutinized prior transactions where Capitec Holdings granted consent, analyzing whether this indicated an obligation was established under the subscription agreement. Despite acknowledging Capitec's past interpretations, the SCA ultimately favored a strict textual analysis that revealed a lack of requisite consent, rendering any prior understanding insufficient for altering the contract’s clear terms and obligations ([36], [52]).
+
+Further, the court revisited the High Court's reliance on good faith and found that it incorrectly linked this to a duty requiring Capitec Holdings to consent to share sales. The SCA elucidated that the necessity of consent was not explicitly codified in the agreement, thus denying any transactional obligation that could invoke good faith obligations ([66], [70]).
+
+## C – Conclusion 
+The SCA concluded that Capitec Holdings did not owe a duty to consent to the sale of shares by Coral as the subscription agreement, properly interpreted, did not impose such a requirement. Consequently, the High Court's obligations concerning good faith and reasonableness failed to align with extant contractual terms ([72]). 
+
+The appeal was upheld with costs, including two counsel fees, affirming Capitec Holdings’ position under the subscription agreement while dismissing claims that sought to impose obligations not present within the language of the contract ([71], [72]). 
+
+This judgment serves as a critical reaffirmation of the principles underlying contractual interpretation and the parameters within which good faith operates, delineating clear boundaries around consent and obligations within commercial agreements.

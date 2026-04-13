@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# Case Note: **Impala Platinum Limited v Koninklijke Luchtvaart Maatschappij NV and Northwest Airlines Inc** [2006] SCA 69 (RSA)
+
+## FIRAC Analysis
+
+### F – Facts
+The case emanates from an appeal by Impala Platinum Limited (hereinafter “Implats”) against a ruling by Goldstein J in the Johannesburg High Court ([1]). The appellant, a South African company located in Houghton, Johannesburg, entered into air carriage agreements with the first respondent, KLM, and the second respondent, Northwest Airlines Inc, for the transport of platinum and palladium from Johannesburg International Airport to Philadelphia, USA, via Amsterdam ([4]). The cargo was lost during transit, leading Implats to sue the carriers for the value of the lost goods, amounting to US$ 298,665.00 for platinum and US$ 155,116.00 for palladium ([8]).
+
+Implats was the named consignor on the air waybills but had no direct financial loss as it had already been indemnified by its insurers. The cargo had been sold to Delphi Automotive Systems LLC and Sumitomo Corporation Europe, respectively, and the losses were reported after payment had been made to those entities ([6]–[7]). The critical issue arose from the determination of whether Implats had the legal standing (locus standi) to sue for the lost cargo despite not suffering a financial loss ([9]).
+
+### I – Issues
+The central legal issue before the court was whether a consignor who has suffered no loss has the right to sue under the Warsaw Convention, which governs international carriage of goods by air ([1], [9]). Specifically, the court needed to consider whether the right to sue for loss of cargo is vested solely in those who have actually suffered damage or extends to all named consignors, regardless of actual financial loss incurred ([10], [42]).
+
+### R – Rules
+The ruling hinged on the interpretation of the Warsaw Convention, specifically Articles 12, 13, 30, and 24. Article 24 limits the right to bring actions for damages to the conditions and limits set forth in the Convention, while Article 30 addresses rights of action in cases of successive carriage. It clarifies that both consignors and consignees may initiate legal actions ([28], [31]). 
+
+Additionally, case law such as *Pan American Airways Incorporated v SA Fire and Accident Insurance Co Ltd* [1965] (the Panam case) was cited to support the traditional view that only those with actual financial loss have standing to sue ([10]). Notably, the court explored precedents and international jurisprudence surrounding the rights conferred by the Convention, the essence of which is to establish uniformity in international air transportation law ([15]–[20], [26]).
+
+### A – Application
+The Supreme Court of Appeal critically evaluated the reasoning of the lower court and the application of legal principles under the Warsaw Convention. It distinguished the factual context of the Panam case from the present circumstances, asserting that the lower court erred in its reliance on that judgment to deny standing to Implats ([10], [11]). It emphasized that the express terms of the Convention allow both consignors and consignees to sue for losses, suggesting that a rigid interpretation restricting the right to sue to those who suffered financial loss conflicts with the Convention’s purpose of fostering uniformity and facilitating international air cargo operations ([26], [42]).
+
+The court acknowledged the evolving landscape of international air law, pointing out that other jurisdictions have interpreted the standing to sue in a manner that permits claims by named consignors without requiring proof of actual financial harm ([15], [38]). The appeal court essentially argued that Implats, acting as the consignor, should retain the right to pursue a claim despite not directly suffering a loss, as various legal principles under the Convention support the facilitation of claims to uphold the operational integrity of international air transport systems ([40], [42]).
+
+### C – Conclusion
+In light of its findings, the Supreme Court of Appeal upheld Implats’ appeal, concluding that the company indeed has the standing to sue for the lost cargo under the Warsaw Convention. The court found merit in Implats’ argument that enforcing the right to sue is consistent with the Convention’s objectives of ensuring uniform legal standards and facilitating international commerce ([43]). Consequently, the initial judgment was overturned, establishing that the legal framework can accommodate the interests of parties like Implats who engage in international commerce, thereby reinforcing the applicability of the Warsaw Convention in defining the rights of parties engaged in air carriage.
+
+The decision not only clarifies the standing of consignors in air transportation law but also enhances the legal landscape surrounding international carriage, balancing commercial interests with the need for legal certainty and uniformity.
+
+### References
+- Impala Platinum Limited v Koninklijke Luchtvaart Maatschappij NV and Northwest Airlines Inc [2006] SCA 69 (RSA).
+- *Pan American Airways Incorporated v SA Fire and Accident Insurance Co Ltd* 1965 (3) SA 150 (A).
+- Morris v KLM Royal Dutch Airlines *[2002] 2 All ER 565 (HL)*.
+- Sidhu v British Airways plc *[1997] 1 All ER 193 (HL)*.
+- El Al Israel Airlines Limited v Tsui Yuan Tseng *[1999] 525 US 155*.
+- Western Digital Corp and others v British Airways plc *[2001] 1 All ER 109 (CA)*. 
+- Tasman Pulp and Paper Co Ltd v Brambles J.B. O’Loghlen Ltd *[1981] 2 N.Z.L.R. 225*.

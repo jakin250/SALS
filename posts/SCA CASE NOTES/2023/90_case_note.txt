@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Nemangwela v Road Accident Fund (437/2022) [2023] ZASCA 90
+
+## FIRAC Method
+
+### F – Facts
+The appeal arises from a decision of the Limpopo Division of the High Court, which ruled on whether a Hyster 250 forklift constitutes a 'motor vehicle' under the Road Accident Fund Act 56 of 1996 ("RAF Act") ([1]). The incident occurred on 4 November 2016, when Ndidzulafhi Nemangwela was struck by the forklift while working at Nzhelele Spar, Limpopo. Ms. Nemangwela subsequently filed a claim against the Road Accident Fund ("RAF") for damages due to her injuries ([2]). The RAF conceded the merits of the case at an 80/20 split in favour of Ms. Nemangwela, contingent upon the court's determination that the forklift was indeed a motor vehicle under the RAF Act ([2]).
+
+The RAF did not explicitly deny that the forklift involved was a motor vehicle but claimed ignorance of the event's circumstances, putting the onus of proof on Ms. Nemangwela ([3]). Key testimonies were provided by Ms. Nemangwela and the forklift operator, who testified about the operational use and design of the forklift. Ms. Nemangwela described how the forklift operated primarily within the premises, despite occasionally being driven outside ([4]). The driver asserted the forklift was used solely for internal purposes and specified training against using it on public roads ([5]).
+
+### I – Issues
+The central legal issue of this appeal is whether the Hyster 250 forklift is classified as a 'motor vehicle' within the definition provided by the RAF Act, particularly focusing on its design and intended use for propulsion or haulage on a road ([6]).
+
+### R – Rules
+The RAF Act defines a 'motor vehicle' as any vehicle designed for propulsion or haulage on a road through fuel, gas, or electricity, which includes trailers and other implements ([6]). Three specific requirements must be satisfied for a vehicle to qualify:
+1. It must be propelled by fuel, gas, or electricity.
+2. It must be designed for propulsion.
+3. It must be operated on a road ([7]).
+
+Relevant case law also guides the interpretation of these requirements. In **RAF v Vogel** ([9]), the court determined that use on a public road is a critical component, and in **RAF v Mbendera**, it was clarified that 'road' is not strictly limited to public roads ([10]). For a vehicle to be seen as a motor vehicle, its design and operational purpose must align with these statutory provisions.
+
+### A – Application
+The court's analysis began with the features of the Hyster 250 forklift. Evidence demonstrated that while the forklift is capable of transportation, its primary function is for loading and unloading goods within a confined area ([8]). The vehicle is powered by diesel and electricity but lacks essential features needed for roadworthiness like a speedometer and mirrors, which further underscores its private, commercial use ([8]).
+
+Counsel for the RAF argued that since the incident occurred in a private loading area of the business, the forklift was not used on a public road, thus rendering it not categorically a motor vehicle as per the RAF Act ([9]). The court referenced **Chauke v Santam Ltd**, where it was held that just because a vehicle can be used on a road does not imply it was designed for such use ([12]). In comparison to other cases like **RAF v Mbele**, where the court deemed the Reach Stacker a motor vehicle due to its design and intent for road use, the Hyster 250's design fundamentally limited its classification ([15]).
+
+Counsel for Ms. Nemangwela contended that the operational capacity of the forklift, including headlights and indicators, warranted its classification as a motor vehicle under the RAF Act. However, the court distinguished this case from Mbele, noting that the Hyster 250 forklift's primary operation did not extend beyond the private premises of the Spar ([16]). Therefore, while it may resemble a motor vehicle, the court emphasized that its intended use and functionalities did not align with the design specifications necessary under the RAF Act.
+
+Additionally, the concept of 'road' as used within the RAF Act, understood as a thoroughfare for public use, did not apply to the private receiving area of the Spar ([17]). This analysis pointed towards the conclusion that the forklift did not serve a purpose consistent with a vehicle designed for road usage.
+
+### C – Conclusion
+Ultimately, the Supreme Court of Appeal upheld the decision of the Limpopo High Court and determined that the Hyster 250 forklift does not meet the definition of a motor vehicle under the Road Accident Fund Act. Thus, the appeal was dismissed with each party bearing its own costs ([21]). This ruling underscores the importance of the statutory interpretation of 'motor vehicle' based on design intention and usage context, providing clarity on the classification of vehicles utilized in non-public settings. The implications of this decision may affect future claims under the RAF Act, particularly regarding vehicles primarily designed for specific commercial or industrial applications. 
+
+---
+
+*This case note serves as a comprehensive analysis suitable for citation and academic discussion regarding the intersection of statutory definitions and operational contexts within South African law.*

@@ -1,0 +1,49 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: City of Tshwane Metropolitan Municipality v Link Africa (Pty) Ltd and Others [2015] ZACC 29
+
+## FIRAC Method
+
+### F – Facts:
+The dispute in this case arises from the application of the **Electronic Communications Act 36 of 2005** (the Act) and concerns the rights of electronic communications network service licensees to install infrastructure within municipal areas. **Link Africa (Pty) Ltd** sought to utilize existing municipal infrastructure in the City of Tshwane for the rollout of its fiber-optic network ([1]–[6]). 
+
+In June 2011, Link Africa approached the City for permission to use its infrastructure, proposing to either provide fiber pairs in exchange for access or pay annual rental fees for the City’s infrastructure used for deployment ([6]–[7]). Despite some initial approvals from various municipal officials, the City Manager did not endorse the final agreement, leading to a halt in Link Africa's planned installation, which spurred subsequent litigation ([10]–[12]).
+
+After ongoing negotiations proved fruitless, the City initiated proceedings in January 2014 at the Gauteng Division of the High Court, Pretoria, seeking a declarator that the Act required landowner consent before actions authorized by section 22 could occur ([17]–[19]). The High Court ruled against the City, stating section 22 of the Act did not necessitate consent from landowners like the City of Tshwane but upheld that Link Africa's activities did not amount to arbitrary deprivation of property ([21]–[23]).
+
+The **Supreme Court of Appeal** upheld this decision, following which the City appealed to the **Constitutional Court**, contending that sections 22 and 24 of the Act were unconstitutional in that they authorized the arbitrary deprivation of property without requisite consent ([17], [32]).
+
+### I – Issues:
+The principal legal issues emerged as:
+1. Whether section 22 required consent from the landowner before a licensee could exercise the rights it grants ([32], [42]).
+2. The constitutional validity of sections 22 and 24 concerning sections 217(1) and 25(1) of the **Constitution** ([19]–[20]).
+3. Whether the deprivation of property was arbitrary as per section 25(1), especially given the context of rapid infrastructuregrowth in telecommunications facilities ([54]–[63]).
+
+### R – Rules:
+The court examined a series of legal provisions and underlying principles:
+1. **Electronic Communications Act 36 of 2005**: Sections 22 and 24 allow licensed electronic communications networks to enter public and private land and install necessary infrastructure without the consent of landowners, provided that there is due regard for applicable law ([42]–[44]).
+2. **Section 25(1) of the Constitution**: Protects against arbitrary deprivation of property, requiring that such deprivation not only have a lawful basis but also a justifiable reasoning ([58]–[60]).
+3. **Principles of Servitudes and Property Rights**: The common law dictates that servitudes must be exercised 'civiliter modo' — meaning they must be respectful and cautious in their execution, requiring notice in certain circumstances ([86]–[89]). 
+
+Judicial precedent from cases like *MTN* reiterated that the consent of landowners was not necessary, provided that due legal processes and rights were maintained ([11], [12]).
+
+### A – Application:
+The court discerned that:
+1. **Interpretation of Section 22**: The majority judgment posited that section 22 did not require landowner consent, aligning with the long-standing legal tradition reflected in the Act's provisions designed to facilitate rapid infrastructural expansion for public benefit ([44]–[45]).
+2. **Constitutional Challenges**: The majority asserted that the provisions were not substantively arbitrary as the benefits stemming from efficient telecommunications infrastructure outweighed the inconvenience or loss experienced by property owners. In this context, they found the City’s claims of deprivation unsupported by evidence, as installation via existing infrastructure mitigated disruption ([172]–[176]).
+3. **Protection Under Common Law**: The judgment also integrated common law principles regarding servitudes, emphasizing that the rights granted by section 22 must be exercised with due caution. This means that while the Act broadly allows installation, common law safeguards such as reasonable notice still apply. Thus, Link Africa was obligated to consult with and inform landowners, albeit without requiring consent ([144]–[148]).
+
+### C – Conclusion:
+The Constitutional Court ultimately dismissed the City of Tshwane's appeal, affirming the constitutionality of sections 22 and 24 of the Electronic Communications Act. The court held that:
+1. **Consent is Not Necessary**: Licensees may use land for installation of communications infrastructure without consent from landowners, provided they comply with relevant laws ([100]–[101]).
+2. **No Arbitrary Deprivation**: The Act legitimately aims to advance public interest in telecommunications without constituting arbitrary deprivation of property rights. Instead, it creates a framework for ensuring that any interference with property rights is reasonable and justifiable in the context of pressing public needs for broadband access ([181]–[184]).
+3. **Legal and Procedural Protections Exist**: The decision provided affirmation that statutory provisions must work in conjunction with common law to protect property rights while facilitating necessary infrastructural development.
+
+The holding implies strong support for expanding electronic communications access in South Africa, reinforcing the notion that statutes promoting public welfare can coexist with individual property rights, as long as there are appropriate checks in place ([191]). The costs of the application were awarded to Link Africa, further asserting the legitimacy of its claims under the Act and the economic imperatives driving the telecommunications sector's needs for swift expansion ([191]).
+
+This case has significant implications for local governments and private landowners alike, setting legal precedent for future disputes involving property rights, telecommunications infrastructure, and public interest consideration in South Africa.
+
+---
+
+*Note: This case note is based on a structured FIRAC approach, summarizing key elements to assist legal professionals and scholars in understanding the core aspects of the decision.*

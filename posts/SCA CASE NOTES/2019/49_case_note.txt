@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Ratlou v Man Financial Services (1309/2017) [2019] ZASCA 49
+
+## F – Facts
+
+The case arises from an appeal concerning a settlement agreement dated September 28, 2015, involving Phaswana Stephen Ratlou (the Appellant) and Man Financial Services SA (Pty) Ltd (the Respondent) ([paras 1-4]). The Respondent initiated proceedings related to the non-payment of a substantial debt, resulting from a series of rental agreements for heavy-duty trucks and trailers arranged through Phapho Nkone Transport (PNT), a company owned by Ratlou. The rental agreements and a suretyship executed by Ratlou for these leases were the focus of the litigation. 
+
+Due to defaults on payments, MAN repossessed the vehicles and sold them, leaving an outstanding amount of R4,400,000 ([paras 6-9]). Subsequently, the parties entered into a settlement agreement to resolve the debt, which stipulated monthly payments ([para 8]). In the Gauteng Division of the High Court, the Respondent’s application was postponed, requiring compliance with the National Credit Act 34 of 2005 (NCA) due to the court's finding that the settlement agreement qualified as a "credit agreement" under the NCA ([paras 12-13]).
+
+The Appellant challenged the high court's decision to declare the settlement agreement an order of court, claiming it was made without due process ([paras 14-15]). The Respondent sought a cross-appeal, contending the settlement agreement was outside the ambit of the NCA ([para 3]).
+
+## I – Issues
+
+The central issue on appeal was whether the settlement agreement constituted a credit transaction as defined by the National Credit Act ([para 1]). Specifically, the legal questions included:
+
+1. Did the high court err in finding that the settlement agreement fell under the provisions of the NCA, despite the underlying agreements not being governed by it?
+2. Should the Respondent’s compliance with the provisions of the NCA have been mandated before enforcing the settlement agreement?
+
+## R – Rules
+
+The court evaluated the provisions of the NCA, particularly section 8(4)(f), which outlines the criteria for an agreement to be classified as a credit transaction ([para 16]). The Act aims to promote consumer welfare and ensure responsible lending practices. It excludes agreements made with juristic persons that exceed a specified threshold, which was applicable in the original rental agreements ([paras 24-27]).
+
+Several relevant cases were cited to bolster the argument for a purposive interpretation of the NCA, emphasizing the legislature's intention to exempt settlement agreements from the Act's ambit when the underlying cause fails to qualify as a credit agreement ([paras 24-27]). 
+
+## A – Application
+
+The court critically analyzed the nature of the settlement agreement in relation to the underlying rental agreements. Although the settlement agreement involved deferred payments and interest, aligning it with the literal definition of a credit transaction, the court emphasized a purposive interpretation of the NCA as the more appropriate approach ([paras 21-22]). 
+
+The judges highlighted that applying the NCA to this settlement agreement would produce an absurd outcome, as the intention behind the legislation was not to regulate settlement agreements connected with non-credit arrangements. Ratlou’s argument that the settlement agreement constituted a new and independently enforceable contract was deemed disingenuous, as it lacked logical consistency when the underlying causa was integral to the settlement ([paras 19-20]). 
+
+This analysis leaned heavily towards the principle that the NCA should not apply to settlements of non-consumer relationships or agreements not rooted in lending or credit provisions. 
+
+## C – Conclusion
+
+The Supreme Court of Appeal overturned the high court’s ruling, concluding that the settlement agreement did not fall within the parameters of the NCA ([para 28]). Therefore, MAN was not obliged to comply with the NCA prior to enforcing the agreement. The cross-appeal succeeded, thereby dismissing Ratlou's appeal alongside costs, signaling a crucial interpretation of the NCA and its non-application to non-credit settlement agreements ([paras 28-29]). 
+
+This case underscores the necessity of distinguishing between types of agreements under the NCA, reaffirming that its protections are directed towards consumer relationships rather than business transactions. Consequently, the decision reinforces the importance of purposeful statutory interpretation in safeguarding the intent of legislative frameworks and ensuring the effective resolution of commercial disputes in South Africa.

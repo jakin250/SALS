@@ -1,0 +1,46 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2024
+
+# Case Note: V[...] J[...] v V[...] J[...] and Another (258/2023) [2024] ZASCA 92 (11 June 2024)
+
+## F – Facts:
+The case centers around a divorce dispute between the appellant, Mrs E[...] V[...] J[...], and the first respondent, Mr W[...] J[...] V[...] J[...]. The marriage was dissolved on 4 June 2015 through a decree of divorce, which incorporated a deed of settlement specifying several clauses. The critical clauses included clause 3.1 that stipulated the appellant’s entitlement to spousal maintenance, contingent upon events like remarriage or cohabitation with another man (the dum casta clause). Clause 11 mandated that any disputes arising from the deed of settlement be submitted to arbitration ([2]–[3]).
+
+In 2018, disputes over the deed of settlement arose, culminating in an arbitration agreement in August 2020 that permitted an arbitrator to determine their jurisdiction ([3]). However, the appellant did not file a statement of claim concerning these disputes. Instead, on 1 March 2021, she approached the maintenance court seeking enforcement of the maintenance order and recovery of arrear maintenance under section 26 of the Maintenance Act 99 of 1998 ([5]–[6]).
+
+The maintenance court granted the request on an ex-parte basis, leading to an interdiction of Capitec Bank Holdings Ltd from disbursing funds from the respondent’s account. The first respondent opposed this, arguing the maintenance court lacked jurisdiction due to the arbitration clause. Despite the respondent's objections, the maintenance court ruled in favor of the appellant, which was later overturned by the Free State Division of the High Court on appeal. The High Court concluded that only an arbitrator could resolve the dispute, given that the parties' intention was to refer such disputes to arbitration ([6]–[8]).
+
+## I – Issues:
+The pivotal legal question in this appeal was whether a dispute relating to arrear maintenance could be deemed arbitrable under section 2(a) of the Arbitration Act 42 of 1965 ([1], [8]). Specifically, this raises the question of whether such a dispute constitutes a "matrimonial cause" or is "incidental to" such a cause, thereby precluding it from arbitration ([12]).
+
+## R – Rules:
+The main statutory provision in question is section 2(a) of the Arbitration Act, which states that arbitration is not permissible regarding any matrimonial cause or matters incidental to it ([8]). Additionally, the Maintenance Act provides that magistrate courts have jurisdiction over all matters arising from it, thereby establishing a procedural framework for resolving maintenance disputes ([10]).
+
+Notably, the principle of party autonomy in arbitration was underscored in *Telecordia Technologies Inc v Telkom SA Ltd*, emphasizing the deference courts owe to arbitrators and minimizing judicial intervention in arbitral processes ([9]). However, the courts retain inherent jurisdiction over maintenance issues as per established legal precedents ([10], [11]).
+
+## A – Application:
+The Supreme Court of Appeal analyzed the maintenance dispute not solely as a contractual matter arising from the deed of settlement but rather as a continuation of enforcement of an existing court order. The court contrasted the current dispute—focused on the enforcement of a maintenance order—with the underlying settlement agreement, indicating that the failure to pay the stipulated amount constituted an actionable item under the Maintenance Act, not merely arbitration ([17]–[20]).
+
+The court also scrutinized the arguments regarding the characterization of the issue. The first respondent attempted to frame the dispute purely around the dum casta clause and the maintenance duties following the divorce. However, the court found this characterization unconvincing, emphasizing that the enforcement of maintenance order does not dissipate jurisdiction solely because of an arbitration clause ([16]–[30]). Thus, the court determined that arrear maintenance issues are intimately linked to the matrimonial cause and fall squarely into the ambit of section 2(a) of the Arbitration Act, rendering them non-arbitrable ([29]).
+
+The court also addressed claims regarding the costs and feasibility of arbitration raised by the appellant, which further indicated that enforcement procedures must remain accessible to the parties involved ([31]).
+
+## C – Conclusion:
+The Supreme Court of Appeal ultimately upheld the appeal, rejecting the High Court's assertion that the issue should be sent to arbitration. It ruled that the proceedings involving arrear maintenance relate directly to matters of a matrimonial cause, as articulated under section 2(a) of the Arbitration Act. This decision underscores the principle that maintenance disputes, particularly regarding enforcement of orders, remain under the exclusive jurisdiction of the courts due to their public interest nature. The enforcement of maintenance orders cannot be arbitrated away, thus maintaining access to judicial remedies for those entitled to maintenance ([32]).
+
+This ruling clarifies the scope of arbitration concerning matrimonial issues in South African law, reinforcing legislative intent behind both the Arbitration and Maintenance Acts. It depicts a clear divide between arbitral agreements and maintenance jurisdiction, protecting the rights of parties, particularly those entitled to spousal maintenance, from being undermined through arbitration agreements. 
+
+---
+
+**References:**
+1. *Lufuno Mphaphili and Associates (Pty) Ltd v Andrews and Another* 2009 (4) SA 529 (CC).
+2. *Telecordia Technologies Inc v Telkom SA Ltd* [2006] ZASCA 112; 2007 (3) SA 266 (SCA).
+3. *Crompton Street Motors CC t/a Wallers Garage Service Station v Bright Ideas Projects 66 (Pty) Ltd t/a All Fuels* [2021] ZACC 24; 2021 (11) BCLR 1203 (CC).  
+4. *Eke v Parsons* [2015] ZACC 30; 2015 (11) BCLR 1319 (CC).
+5. *Brookstein v Brookstein* [2016] ZASCA 40; 2016 (5) SA 210 (SCA).
+6. *Ressell v Ressell* 1976 (1) SA 289 (W).
+7. *Amabhungane Centre for Investigative Journalism NPC v President of the Republic of South Africa* [2022] ZACC 31; 2023 (2) SA 1 (CC).
+8. *Natal Joint Municipality Pension Fund v Endumeni Municipality* [2012] 2 All SA 262; 2012 (4) SA 593 (SCA). 
+9. *Bothma-Batho Transport (Edms) Bpk v S Bothma & Seun Transport (Edms) Bpk* [2014] 1 All SA 517; 2014 (2) SA 494 [2013 ZASCA 176].
+10. *Schierhout v Minister of Justice* 1925 AD 417. 
+11. *RMB Private Bank (A Division of Firstrand Bank Ltd) v Kaydeez Therapies CC (in liquidation)* 2013 (6) SA 308 (GSJ).  

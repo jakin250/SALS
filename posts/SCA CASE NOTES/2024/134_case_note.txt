@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: The Minister of International Relations and Co-operation NO and Another v Neo Thando/Elliot Mobility (Pty) Ltd and Another
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–10])
+
+This case originates from an appeal against the judgment of the Gauteng Division of the High Court, Pretoria. The first appellant, the Minister of International Relations and Co-operation, along with the Department of International Relations and Co-operation (DIRCO), contended that the arbitrator, Advocate M. C. Erasmus SC (the second respondent), lacked jurisdiction to arbitrate a dispute allegedly referred to him by the first respondent, Neo Thando/Elliot Mobility (Pty) Ltd (Neo Thando) ([para 1]). 
+
+The dispute revolved around a Service Level Agreement (SLA) signed on 20 and 26 January 2016, which governed the responsibilities of DIRCO and Neo Thando regarding the storage of government officials' household goods ([paras 5–7]). DIRCO, which had initially appointed AGS Frasers to store these goods, faced a deadlock when AGS Frasers refused to relinquish possession of the goods to Neo Thando. Following failed negotiations, Neo Thando issued a letter of demand on 12 September 2017, seeking payment of R53 258 416.90 for damages, while expressing a preference for arbitration rather than litigation if DIRCO did not respond adequately ([paras 10, 11]).
+
+On 2 November 2017, Neo Thando sought the appointment of an arbitrator without DIRCO’s consent, coinciding with a letter sent to the Chairperson of the Pretoria Bar Council. On 23 October 2018, the arbitrator concluded that he possessed jurisdiction, resulting in an interim award, followed by a final award on 28 July 2020 confirming DIRCO's obligations ([paras 18, 20]). DIRCO subsequently approached the high court to review the awards but was unsuccessful ([para 19]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 1–2, 21])
+
+The principal legal questions in this appeal include:
+
+1. Did the arbitrator have jurisdiction to entertain the claim referred to him by Neo Thando without DIRCO’s consent, which DIRCO argued contravened the terms of the arbitration clause?
+2. Was there a substantive arbitrable dispute at the time of the arbitration referral, consistent with the provisions of the Arbitration Act 42 of 1965 ([paras 1, 2])?
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 12–14, 22–35])
+
+The court relied heavily on principles established in previous case law regarding the requirements for arbitration:
+
+1. **Radon Projects (Pty) Ltd v NV Properties (Pty) Ltd**: Stated that an arbitrator must decide on their jurisdiction when challenged, thereby highlighting the concept of *kompetenz-kompetenz* ([para 12]).
+  
+2. **Canton Trading 17 (Pty) Ltd v Fanti Bekker Hattingh N O**: Emphasized that arbitrators have the competence to rule on their jurisdiction without needing to seek judicial guidance ([para 13]).
+  
+3. **Parekh v Shah Jehan Cinemas**: Affirmed the necessity of a dispute's existence prior to arbitration ([para 32]).
+
+4. **Durban City Council v Minister of Labour**: Defined a "dispute" as requiring conflicting views or claims between parties ([para 34]).
+
+The court also interpreted the arbitration clause (particularly clause 13 of the SLA) according to its ordinary grammatical meaning, emphasizing that both parties must consent to arbitration for it to be valid ([paras 22–29]). The absence of a defined "dispute" by Neo Thando was crucial in determining the arbitrability of the matter ([paras 30–35]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 21–36])
+
+Upon review, the Supreme Court of Appeal found that:
+
+1. **Jurisdiction**: The arbitrator's assumption of jurisdiction was premised on Neo Thando's unilateral referral to arbitration, which lacked the essential consent from DIRCO as stipulated in clause 13. The court determined this was contrary to the nature of the arbitration agreement enshrined in the SLA, requiring mutual consent for arbitration proceedings. Consequently, the arbitrator’s assumption of jurisdiction was deemed invalid ([paras 21, 35]).
+  
+2. **Existence of a Dispute**: The court assessed the letter of demand sent by Neo Thando and determined that while it expressed a desire to arbitrate, it failed to identify a clear dispute requiring resolution. The demand for payment and subsequent conditionality implicitly signaled no existing difference as defined by the Arbitration Act. The court upheld DIRCO’s argument that real contention was not evident, as opposed to mere disagreement, which is insufficient to establish an arbitrable dispute ([paras 30–34]).
+  
+3. **Interpretation of the SLA**: The court interpreted the SLA's grievance resolution mechanism to necessitate that both parties must recognize and agree on an existing difference or dispute before referring the matter to arbitration ([paras 22–29]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 36–38])
+
+The Supreme Court of Appeal ultimately upheld DIRCO's appeal, declaring that the arbitrator did not possess jurisdiction over the alleged dispute as it was submitted unilaterally by Neo Thando. It was further ruled that no arbitrable dispute existed at the time of referral, satisfying the conditions outlined in the Arbitration Act ([paras 36]). DIRCO's interpretation that mutual consent is required for arbitration was affirmed, stating that the language of the SLA, particularly the requirement “if the parties wish” underlined this necessity ([paras 36, 38]).
+
+The judgment was significant in reaffirming the principles governing arbitration agreements in South Africa, particularly the necessity of mutual consent and clearly articulated disputes, reinforcing the nature of arbitration as a consensual dispute resolution mechanism. The order also illuminated the costs implications, stipulating that Neo Thando would bear the costs of the proceedings, including those related to the review application ([para 38]).

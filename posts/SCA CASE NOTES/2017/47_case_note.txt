@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Neotel (Pty) Ltd v Telkom SA SOC Ltd & Ors ([2017] ZASCA 47)
+
+## F – Facts
+
+The case Neotel (Pty) Ltd v Telkom SA SOC Ltd & Others ([1]) arose from an approval by the Independent Communications Authority of South Africa (ICASA) concerning the transfer of certain electronic communication licenses and radio frequency spectrum licenses held by Neotel. This transfer was executed following Vodacom's acquisition of Neotel's entire issued share capital, with ICASA's decision made on 11 June 2015 and published on 2 July 2015 ([2]).
+
+Following this approval, Telkom SA SOC Ltd and several other parties filed applications in the Gauteng Division of the High Court, challenging the lawfulness of the ICASA decision. Their challenges primarily focused on the non-compliance of Neotel and Vodacom with the Black Economic Empowerment (BEE) ownership requirements stipulated in sections 9(2)(b) and 13(6) of the Electronic Communications Act (ECA) ([3]). Although ICASA acknowledged this non-compliance, it still approved the transfer, asserting future compliance would be required ([4]).
+
+The High Court ruled in favor of Telkom, stating that the ICASA’s interpretation of the BEE requirements was erroneous and that strict compliance was mandated at the outset ([6]). Neotel then sought leave to appeal against this judgment, especially concerning the BEE aspect. However, the transaction that necessitated the approval lapsed, rendering the order of the High Court moot ([7]).
+
+Neotel's appeal led to further complexities, specifically the Appellant seeking to address only the findings related to BEE after conceding that leave was not being sought against the order but rather against the content of the High Court's reasoning ([8]). Ultimately, this court struck the appeal from the roll, also rejecting an application by Huge Telecom and Huge Group to intervene ([1], [27]).
+
+## I – Issues
+
+1. **Appealability of High Court Decisions**: Can a party appeal against the reasoning provided in a judgment when the substantive order itself is not contested?
+2. **Black Economic Empowerment Compliance**: Did ICASA err in approving the transfer of licenses despite the lack of immediate compliance with the BEE requirements?
+
+## R – Rules
+
+The key legal authorities referenced in this case include:
+
+- **Electronic Communications Act 36 of 2005**: Particularly sections 9(2)(b) and 13(6) relating to BEE compliance requirements for ownership in licensed entities ([3]).
+- **Promotion of Administrative Justice Act 3 of 2000**: This Act deals with the principles of legality and reasonableness pertaining to administrative actions ([6]).
+- **Superior Courts Act 10 of 2013 and Supreme Court Act 59 of 1959**: This significantly discusses the appealability of judgments and the conditions under which a decision can be appealed ([11], [12]).
+
+Court precedents also played a crucial role, notably:
+
+- **S v Western Areas Ltd** and **Khumalo & others v Holomisa** which discuss the appropriateness of appeal principles based on the interests of justice ([20]).
+- **Zweni v Minister of Law and Order**, which emphasizes that appeals typically pertain to substantive orders rather than reasons for decisions ([21]).
+
+## A – Application
+
+The Supreme Court of Appeal meticulously analyzed whether the appeal against the reasoning was justifiable. The appellant's argument was grounded in the assertion that exceptional circumstances justified a departure from the principle that appeals only lie against substantive orders ([15], [17]). The court ultimately rejected this argument, emphasizing the traditional stance that appeals do not extend to reasons unless the substantive issue itself is also in dispute ([20], [25]).
+
+The Court reiterated that the limitation placed upon the appeal was important for maintaining the integrity of judicial processes and preventing the potential deluge of appeals stemming from judicial reasoning rather than the orders themselves ([24]). Moreover, it noted that the BEE interpretation issue could be revisited in future cases where it was properly raised.
+
+This case clarified that even if a judgment touches on a significant public issue, that alone does not permit an appeal against non-substantive reasoning. The appellant's hopes of having the court recognize the importance of its findings concerning BEE and allowing an appeal on those grounds were denied ([26]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded that it lacked jurisdiction to hear the appeal since the appellant had not contested the High Court's substantive order. The Court firmly established that appeals do not lie against the reasoning behind judgments or orders, reverting to traditionally established legal principles. Consequently, the appeal was struck from the roll, and the application to intervene was also dismissed ([27]).
+
+This judgment has broader implications, particularly in the context of administrative law, emphasizing the need for strict adherence to procedural compliance and clarifying the boundaries of appealability in South African law. The Supreme Court underscored that issues of public importance could not, in isolation, provide a basis for appellate jurisdiction; rather, they must arise within the contest of substantive orders.

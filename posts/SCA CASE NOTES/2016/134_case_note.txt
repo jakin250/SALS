@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Mbele v Road Accident Fund (799/15) [2016] ZASCA 134
+
+## FIRAC Method Analysis
+
+### F - Facts
+The case of **Mbele v Road Accident Fund** arose from a motor vehicle accident that occurred on **7 July 2006**, which left the appellant, **Luvuyo Nicolaas Mbele**, injured. Following the accident, Mbele initiated legal proceedings against the Road Accident Fund (the **Fund**) as per **section 17(1)** of the **Road Accident Fund Act 56 of 1996** (the **Act**), complying with the procedural requirements of **section 24** of the Act. The claim was settled in court on **21 April 2009**, with the Fund agreeing to pay over **R2 million** for general damages, which included an undertaking on **23 October 2008** for future medical expenses in accordance with **section 17(4)(a)(i)** of the Act.
+
+In **October 2010**, Mbele sent a letter to the Fund demanding payment for incurred hospital and medical expenses, which was received in **November 2010** without any response or payment from the Fund. Subsequently, on **10 April 2013**, Mbele filed a summons for **R94,063.28** pertaining to these expenses, asserting that proof of expenses was provided but that the Fund failed to honor its undertaking.
+
+The Fund responded with a special plea of prescription, asserting that Mbele's claim had prescribed under **section 11(d)** of the **Prescription Act 68 of 1969** (the **Prescription Act**) since the expenses were incurred around **June 2009**, and thus the prescription period of three years had elapsed by **July 2012**. Mbele maintained that his claim for future expenses was linked to the original claim and was exempt from prescription, arguing that the undertaking was part of an overarching unitary claim proceeding under section 17(1).
+
+### I - Issues
+The central legal issue in this appeal was whether the Fund's undertaking for future medical expenses, as outlined in **section 17(4)(a)(i)** of the Act, was subject to prescription under the provisions of the **Prescription Act** or whether the relevant prescription legislation was **section 23(3)**(as it read before its 2008 amendment) of the Act ([1-4]).
+
+Additionally, a related issue was whether the nature of the Fund’s undertaking created a new independent cause of action that could attract prescription, or whether it remained tied to the original claim under section 17 of the Act.
+
+### R - Rules
+The court referenced several legislative provisions in its assessment. **Section 17(4)(a)(i)** provides for an undertaking for future medical and hospital expenses, mandating the Fund to compensate for these costs provided proof of expenses is submitted. The relevant portions of the Act, especially **section 23(3)** prior to its amendment in 2008, stated that no claim lodged under section 24 could prescribe before five years from the date of the cause of action ([13-14]).
+
+Furthermore, the court utilized precedents highlighting the distinction between claims under the **Prescription Act** and those under the **Road Accident Fund Act**, pointing to cases such as **Road Accident Fund & another v Mdeyide** [2012] ZACC 18 and **Evins v Shield Insurance Co Ltd** 1980 (2) SA 814 (A), which argue against consistently applying the general rules of prescription to specialized claims under the Act.
+
+### A - Application
+In assessing the arguments, the court observed that the Fund's special plea was premised on its characterization of the undertaking as a separate contractual obligation that was subject to the general provisions of the **Prescription Act**. However, the court found that the undertaking was intrinsically linked to the original claim under section 17(1) of the Act and not an independent claim. It highlighted that the subsequent amendment of **section 23(3)** to incorporate references to **section 17(4)(a)** signified the legislature's intent that claims for future medical expenses should not be subject to the typical three-year prescription period applicable to contractual claims ([11-17], [21-22]).
+
+The court underscored that no complete cause of action could exist concerning future medical expenses until the costs were actually incurred, leading to the conclusion that Mbele had not exceeded the five-year period from the date these costs were incurred, thereby avoiding prescription ([16-20]).
+
+### C - Conclusion
+The appeals court ultimately concluded that Mbele’s claims for future medical expenses did not prescribe under the **Prescription Act**, but rather were appropriately governed by the specific provisions of the **Road Accident Fund Act**. It upheld the appeal, set aside the lower court's ruling, and dismissed the Fund's special plea of prescription with costs ([24]).
+
+This ruling reaffirms the legislative framework's intention to provide robust access to compensation for victims of motor vehicle accidents and delineates the boundaries between general prescription rules and those tailored specifically for claims under the Road Accident Fund Act.
+
+---
+
+This case holds significant implications for future claims under the Road Accident Fund Act, particularly in delineating the applicability and scope of prescription concerning undertakings issued for medical expenses, reinforcing the legislative commitment to safeguard accident victims' rights through detailed and accessible claims structures.

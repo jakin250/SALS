@@ -1,0 +1,35 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Liebenberg v The State [2023] ZACC 33
+
+### FIRAC Method
+
+### F – Facts
+The applicant, **Natasha Liebenberg**, was an estate administrator employed by **Amalgamated Banks of South Africa Limited (ABSA)**. She faced numerous charges stemming from alleged misconduct in administering deceased estates, specifically regarding the improper handling of funds. The **Northern Cape Regional Court** convicted her of several counts, including 86 counts of fraud, 84 counts of forgery, and 84 counts of uttering, leading to a six-year imprisonment sentence ([paras 1–4]).
+
+Following her conviction, Liebenberg appealed to the **High Court of South Africa, Northern Cape Division**, which acquitted her on some counts, reducing her sentence to four years. Her application for leave to appeal to the **Supreme Court of Appeal** was denied ([paras 18–19]). Ultimately, Liebenberg sought leave to appeal from the **Constitutional Court of South Africa**, raising questions about the admissibility of evidence from her employer’s disciplinary proceedings and her right to a fair trial ([para 2]).
+
+### I – Issues
+The case presents two central legal issues:
+1. Was the evidence obtained during the disciplinary processes of ABSA admissible in the criminal trial?
+2. If the evidence was inadmissible, was Liebenberg's right to a fair trial compromised, thus infringing her constitutional rights? ([paras 2, 23–24]).
+
+### R – Rules
+The relevant laws applicable to this case include:
+1. **Section 35(5) of the Constitution of South Africa**: This section stipulates that evidence obtained in violation of rights within the Bill of Rights must be excluded if its admission would render a trial unfair or harmful to justice.
+2. **Section 220 of the Criminal Procedure Act 51 of 1977**: This provision allows for admissions in criminal proceedings that constitute sufficient proof of the admitted fact ([paras 37–38]).
+3. Precedent established in **Key v Attorney-General** (1996), concerning the balance between state interests in conviction and the accused's right to a fair trial. It emphasizes the necessity to ensure justice manifests fairly ([para 38]).
+
+### A – Application
+Firstly, the Constitutional Court examined whether the disciplinary evidence that led to Liebenberg’s charges was obtained in a manner that violated her rights. The Court found significant that **no reliance** was placed on this evidence by the Regional Court in arriving at its conviction; rather, it was the admissions made under **Section 220** that served as substantial evidence ([paras 39–40]).
+
+Secondly, regarding whether the applicant’s trial was fundamentally unfair, the Court analyzed the context in which the admissions were made. The Regional Court’s determination confirmed that Liebenberg had made these admissions freely and voluntarily, negating claims of coercion or that her right to silence was infringed upon ([paras 22–33]). The High Court's findings of no bias on the part of the magistrate were deemed unassailable, leading the Constitutional Court to conclude that the alleged coercion did not manifest in the proceedings ([paras 41–44]).
+
+The Court pointed out that the concerns raised were speculative and lacked solid evidentiary support, with no indication that the admission of findings from the disciplinary hearings influenced the Regional Court’s verdict. It was established that the initial magistrate’s remarks did not indicate prejudice or unfair judgment ([paras 41–44]).
+
+### C – Conclusion
+The Constitutional Court ultimately ruled to **refuse the application for leave to appeal**, concluding that the issues raised did not adequately engage the court's jurisdiction. The Court emphasized that without a constitutional issue or an arguable point of law of public importance, the appeal lacked merit ([paras 45–47]). This case reaffirms the stringent requirements for establishing the admissibility of evidence and the safeguarding of a fair trial within South Africa's constitutional framework. The decision notably clarifies that procedural irregularities must significantly undermine trial fairness to engage constitutional scrutiny.
+
+#### Implications
+This case highlights important principles regarding evidence admissibility, especially in scenarios involving prior disciplinary actions by employers, and underscores the importance of maintaining a clear distinction between criminal procedure and administrative disciplinary hearings. Additionally, it solidifies the understanding that defendants must substantiate claims of unfair trials with relevant evidence, as mere claims of coercion or bias will not suffice without demonstrable proof.

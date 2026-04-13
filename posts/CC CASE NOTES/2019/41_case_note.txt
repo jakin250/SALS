@@ -1,0 +1,50 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Ascendis Animal Health (Pty) Limited v Merck Sharpe Dohme Corporation and Others [2019] ZACC 41
+
+### F – Facts: Relevant Background and Procedural History ([paras 5–26])
+
+This case concerns an appeal regarding a judgment from the High Court of South Africa, Gauteng Division, Pretoria, which dealt with the applications for amendments to pleadings in a patent infringement action. The applicant, Ascendis Animal Health (Pty) Limited (Ascendis), sought to appeal against a decision made by van der Westhuizen J, where leave to appeal was denied, and applications for amendments by both parties were addressed.
+
+The litigation revolves around South African Patent 1998/10975 (the 1998 patent) held by the first and second respondents, Merck Sharpe Dohme Corporation and Merial Limited (collectively, Merck). Ascendis challenged the validity of the 1998 patent through revocation proceedings, contending the patent lacked novelty and an inventive step under the Patents Act 57 of 1978. Simultaneously, Merck initiated infringement proceedings against Ascendis alleging unauthorized use of their patented anti-parasitic formulation.
+
+Initially, the High Court found in favor of Merck regarding the novelty of the patent, leading Ascendis to seek an amendment of its plea to include defenses based on two additional grounds—obviousness and inutility—after the Supreme Court of Appeal validated the novelty findings of the patent. However, the High Court dismissed Ascendis’s application for amendment, stating the issues were res judicata—having been previously adjudicated in the novelty claim. The applicant appealed to this Court for a reconsideration of that ruling.
+
+### I – Issues: Legal or Constitutional Questions ([paras 27–38])
+
+The key issues for determination include:
+
+1. **Jurisdiction of the Constitutional Court**: Whether the matter engages the Court's jurisdiction under section 167(3)(b) of the Constitution concerning constitutional issues or arguable points of law of general public importance.
+   
+2. **Nature of Causes of Action Under the Patents Act**: Whether the subsections under section 61 of the Patents Act constitute a single cause of action or separate, independent causes of action. 
+
+3. **Res Judicata Principle Application**: Whether the defense raised in the infringement action concerning novelty, obviousness, and inutility claims is barred by the doctrine of res judicata, given the High Court's prior ruling.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 43–67])
+
+The Court relied upon several statutory provisions and precedents:
+
+1. **Patents Act 57 of 1978**: The Court examined sections 61 and 74 regarding patent revocation and obligations during infringement proceedings. Section 61 provides the exhaustive grounds for revoking a patent.
+   
+2. **The Doctrine of Res Judicata**: Legal principles were defined, emphasizing that a final judgment by a competent court on the same cause of action precludes further litigation on the matter (Evins v Shield Insurance Co Ltd [1980] 2 SA 814 (A)).
+
+3. **General Legal Principles on Causes of Action**: Reference was made to McKenzie v Farmers' Co-Operative Meat Industries Ltd [1922] AD 16, outlining the definition of a "cause of action" in terms of necessary facts.
+
+### A – Application: How the Court Applied the Law ([paras 39–92])
+
+In deliberating the case, the Court acknowledged the dual proceedings structure established by the Patents Act, distinguishing between revocation and infringement actions. It concluded that each ground for revocation, namely novelty, obviousness, and inutility, are separate causes of action, not merely subsets of a single claim. This entails that an unsuccessful challenge based on one ground does not preclude a party from subsequently raising other grounds of potential invalidity, thus enabling Ascendis to amend its plea as it did not abuse the judicial process.
+
+The Court critically assessed the High Court's application of res judicata, determining that since not all grounds had been adjudicated previously, and specifically inutility had not been heard on merit, the earlier decision should not preclude further litigation on separate valid grounds. The reasoning emphasized that applying res judicata too expansively would undermine judicial fairness and the electorate’s access to appropriate legal recourse.
+
+### C – Conclusion: Court's Holding, Ratio Decidendi, and Implications ([paras 93–102])
+
+The Constitutional Court issued the following orders:
+
+1. Leave to appeal was granted.
+2. The appeal was upheld, thereby overturning the High Court's dismissal of the amendment application.
+3. The matter was remitted for re-evaluation after allowing the applicant to amend its plea.
+
+The majority judgment underscored that the separation of causes of action in patent law promotes fairness, judicial efficiency, and the integrity of the legal process. Ascendis emerged with the right to defend itself fully in the infringement proceedings, maintaining that all relevant defenses—regardless of prior litigation outcomes—could justifiably be presented independently. This ruling not only clarifies procedural obligations under the Patents Act but also emphasizes the critical nature of preserving access to courts as a tenet of constitutional democracy. 
+
+In essence, the judgment reinforces the legal principle that a party should not be precluded from raising valid defenses based on distinct causes of action, upholding the tenets of fairness and access to judicial remedy.

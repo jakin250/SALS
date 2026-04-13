@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Bilankulu and Another v The State [2020] ZASCA 114
+
+**F – Facts ([1]–[8])**
+
+The appellants, William Mzamani Bilankulu and Jansen Thapelo Mokoena, were convicted in the High Court of Limpopo for murder, unlawful hunting of rhinoceros, and unlawful possession of a firearm and ammunition. They were sentenced to a cumulative total of 50 years’ imprisonment, with a non-parole period of 25 years imposed on each. This conviction was based on their involvement in a poaching incident on 14 January 2013 when a game ranger named Mulalu Nemakhavhani was shot during a confrontation with poachers. Khosa, a police informant, coordinated the undercover operation, which led to the pursuit of poachers and resulted in the death of the game ranger. The trial court found sufficient evidence of malice (dolus) to support the murder charge, although it was unclear who fired the fatal shot. The appellants appealed both their convictions and their sentences, contesting the admissibility of certain evidence and the severity of their sentences.
+
+**I – Issues ([2]–[3])**
+
+The appeal raised several legal questions regarding:
+
+1. The admissibility of evidence obtained through the police informant (Khosa) and whether it violated Section 252A of the Criminal Procedure Act 51 of 1977.
+2. The admissibility of cell phone records that were disclosed after the trial commenced.
+3. The sufficiency of proof regarding the mental element of murder (dolus).
+4. The appropriateness of the imposed non-parole period and whether the trial court misdirected itself in not allowing the appellants to address this issue before imposing the non-parole order.
+
+**R – Rules ([9]–[15], [31]–[35])**
+
+The legal framework relevant to this case involves several important statutes and precedents:
+
+1. **Section 252A of the Criminal Procedure Act** - This section governs the use of traps and undercover operations. Evidence obtained under such operations is admissible unless the police conduct goes beyond simply providing an opportunity to commit an offence.
+2. **Section 35 of the Constitution** - Guarantees the right to a fair trial, which includes provisions on disclosure of evidence necessary for the defence.
+3. **Criminal Law Amendment Act 105 of 1997** - Dictates minimum sentences for serious crimes, particularly murder.
+4. Relevant case law, including *S v Lachman* and *Kotzé v S*, provides guidance on the application of the entrapment doctrine and the necessity for fair trial considerations, particularly in relation to the admissibility of evidence and non-parole orders.
+
+**A – Application ([17]–[39])**
+
+The court applied the law to the facts, affirming the admissibility of Khosa's testimony despite the appellants’ argument of entrapment. The court held that Khosa's conduct did not exceed the boundaries of merely providing an opportunity to commit the offense. Thus, the evidence was automatically admissible as per Section 252A. The court's analysis also focused on the principles surrounding the definition of entrapment and the role of police conduct—concluding that the prosecution adequately established that Khosa did not induce the appellants to commit the offenses.
+
+Regarding the cell phone records, the court noted that while disclosure issues arose, the delay did not infringe the appellants' rights to a fair trial as they had ample opportunity to refute the contents of the records after a six-week adjournment. The court noted that no actual trial prejudice was demonstrated, and all parties were able to adequately prepare their cases.
+
+On the issue of dolus, the court explained that the mental state required for murder must be established. It found that while it was unclear who fired the fatal shot, the evidence supported that both appellants acted with dolus indeterminatus, or the foreseeability of potential death, since they pursued an unlawful goal in a dangerous context.
+
+Lastly, concerning the sentence, the court found fault with the imposition of the non-parole order without allowing the appellants to address the court on this point, a procedural misstep that warranted the sentence’s reconsideration. The cumulative effect of the sentences was deemed excessively harsh, leading to a reduction of the effective sentence from 50 years to 25 years through concurrent sentencing.
+
+**C – Conclusion ([53])**
+
+The Supreme Court of Appeal ultimately concluded that:
+
+1. The appeal against the conviction was dismissed, affirming the trial court’s finding on the murder charge, based on the established evidence of dolus.
+2. The appeal against the sentence was upheld. The sentence imposed by the high court was set aside, and a new sentence of 25 years' imprisonment was substituted for the appellants.
+
+This judgment raises significant implications for the application of entrapment laws and procedural fairness in criminal trials, particularly in cases involving environmental crimes and the admissibility of evidence that may affect the rights of the accused under the Constitution.

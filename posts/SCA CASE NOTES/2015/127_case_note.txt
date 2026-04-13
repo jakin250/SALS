@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Mayo NO v De Montlehu (20504/14) [2015] ZASCA 127 
+
+---
+
+### F - Facts
+
+The case commenced with the respondent, Mr Alain Rivalz Chevreau de Montlehu, being the sole shareholder and director of the fourth appellant, Chevreau Construction (Pty) Ltd (the company in liquidation) during its winding-up ([1]). Mr Chevreau challenged a decision made by the Master of the High Court at a creditors' meeting on October 5, 2012, where claims by the fifth appellant, Starspan Investments (Pty) Ltd, amounting to R1,577,432.70, were admitted despite ongoing arbitration concerning the claims ([1], [5]). 
+
+The dispute arose from an earlier contract dated March 10, 2006, where the company in question was to complete a townhouse development in partnership with Starspan ([2], [3]). Following the company’s winding-up on September 6, 2011, an application was made by the joint liquidators to challenge prior property transfers by the company, leading to the counter-application from Mr Chevreau to stay the liquidation proceedings, highlighting that Starspan had yet to prove its claims against the company ([4], [6]).
+
+During the special meeting on October 5, 2012, although claims were admitted against the company, Mr Chevreau raised objections on the basis of locus standi as he was not an admitted creditor. Despite this, counsel conceded that Mr Chevreau qualified as an "aggrieved person" under section 151 of the Insolvency Act 24 of 1936 ([6], [7]). The critical question was whether the three-month limitation period as outlined in section 44(1) of the Insolvency Act applied to the admitted claims, a point of contention between the appellants and Mr Chevreau ([8], [10]).
+
+### I - Issues
+
+1. **Applicability of Time Limits**: Whether the time frame stipulated in section 44(1) of the Insolvency Act, restricting the lodging of claims to three months following the second meeting of creditors, is applicable to companies in liquidation, given the provisions of section 366(2) of the old Companies Act ([10], [18]).
+   
+2. **Locus Standi**: Whether Mr Chevreau had locus standi to contest the Master’s decision allowing Starspan’s claim ([6], [17]).
+
+### R - Rules
+
+1. **Section 44(1) of the Insolvency Act 24 of 1936**: It defines the period for proving claims against an insolvent estate, stating that no claims should be admitted after three months from the conclusion of the second meeting of creditors without leave from the court or the Master ([7]).
+
+2. **Section 366(2) of the Old Companies Act 61 of 1973**: It allows the Master to impose specific limits on when creditors must submit claims against a company in liquidation, potentially allowing for some discretion ([11], [12]).
+
+3. **Precedent in Judicial Interpretation**: Reference was made to cases like **Francis George Hill Family Trust v South African Reserve Bank** which established definitions for 'aggrieved persons' within insolvency contexts ([6]). Past interpretations in **Stone & Stewart v Master of the Supreme Court** also provided pivotal insights regarding claim submission terms in relation to companies ([16]).
+
+### A - Application
+
+The court analyzed the relationship between the two statutory provisions—section 44(1) of the Insolvency Act and section 366(2) of the Companies Act. The appellants argued that section 366(2) conferred upon the Master broad discretion that could effectively sidestep the strict time frames of the Insolvency Act, allowing claims to be considered outside the original three-month period ([8], [9], [18]).
+
+However, the court clarified that the expression “mutatis mutandis,” as used in section 366(1), requires necessary alterations to be made to apply insolvency laws to the context of company liquidations ([14], [19]). This interpretation aligns with the precedent that strictly defines time limitations to ensure creditor protection and orderliness in insolvency processes ([19], [26]). 
+
+The court also examined the implications of not applying the three-month rule, noting that this could lead to creditors delaying claims indefinitely, jeopardizing the insolvency resolution process ([19]). Ultimately, the court affirmed that Mr Chevreau, being a creditor by virtue of his shared ownership of the company, did possess the requisite standing to challenge the Master's decision ([27]).
+
+### C - Conclusion
+
+The Supreme Court of Appeal found that the three-month limitation in section 44(1) of the Insolvency Act applies to companies in liquidation as much as it does to individual sequestrations ([26]). Consequently, the claims submitted by Starspan were deemed improperly lodged due to non-compliance with this provision. The appeal by the appellants was dismissed with costs, which included the provision for two counsel, recognizing the legal complexities involved ([28]).
+
+This case underscores the necessity for creditors in liquidation proceedings to adhere strictly to statutory time frames for the submission of claims to ensure a fair and orderly distribution process. The decision highlights the intersection of company law and insolvency legislation, establishing critical precedent for future claim submissions in corporate liquidations.

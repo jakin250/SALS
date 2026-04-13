@@ -1,0 +1,50 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document in
+Source Folder: 2024
+
+# FIRAC Case Note: The Prudential Authority v Dlamini and Another (36/2023) [2024] ZASCA 133
+
+## F – Facts
+The case involves an appeal against the refusal of the KwaZulu-Natal Division of the High Court, which denied the Prudential Authority's application for the provisional sequestration of the joint estate of the first respondent, Mkhululi Noble Dlamini, and the second respondent, Nosipho Prudence Dlamini, in accordance with sections 83 and 84 of the Banks Act 94 of 1990 ([1], [2]). The Dlaminis were found to have operated a banking business unlawfully without registration or authorization, as confirmed by a finding from the Governor of the South African Reserve Bank ([4]).
+
+**Key Facts**:
+- The Dlaminis engaged in the Travel Ventures International scheme, obtaining money unlawfully through unregistered banking activities ([11]).
+- They received a repayment directive from the Prudential Authority, which they failed to comply with ([14]).
+- The Authority argued that the Dlaminis committed an act of insolvency under section 83(3)(b) and were factually insolvent as per section 84(1A)(c) based on a report from the appointed repayment administrator ([15], [21]).
+
+The High Court rejected the Authority's application primarily due to its skepticism about the solvency report's reliability, stating that it did not establish the Dlaminis were "prima facie" insolvent ([21]).
+
+## I – Issues
+The appeal raised significant legal questions: 
+1. Does the applicability of sections 83 and 84 of the Banks Act necessitate proof of factual insolvency for the court to grant a sequestration order?
+2. Can the Supreme Court of Appeal override the High Court's discretion to deny the sequestration application, given the circumstances of this case? ([3], [21]).
+
+The assessment of these issues is straightforward, hinging on interpretations of statutory provisions related to insolvency and the powers of the Prudential Authority in enforcing repayment directives.
+
+## R – Rules
+The legal framework underpinning this case is primarily derived from the Banks Act, particularly sections 83 and 84, and the general principles of insolvency as encapsulated in the Insolvency Act of 1936.
+
+### Relevant Statutes:
+- **Banking Act 94 of 1990**: Section 83(1) outlines the Authority's ability to direct repayment of unlawfully obtained money, and section 84(1A) outlines conditions under which sequestration can be sought.
+- **Insolvency Act 24 of 1936**: This Act establishes definitions and requirements for proving insolvency, emphasizing the differentiation between factual and commercial insolvency.
+
+### Relevant Case Law:
+- *Kalil v Decotex Pty Ltd* establishes precedents regarding the necessity of proving insolvency when applying for sequestration ([10]).
+- *Kruger v Joint Trustees of the Insolvent Estate of Paulos Bhekinkosi Zulu and Another*, which highlighted the illicit nature of the Dlaminis' banking activities ([12]).
+
+## A – Application
+In its consideration, the Supreme Court of Appeal rejected the High Court’s interpretation that both a deemed act of insolvency and actual insolvency were required to proceed with sequestration under the Banks Act. The Supreme Court posited that section 83(3)(b) alone, which directly links a failure to comply with a repayment directive to a deemed act of insolvency, sufficed to establish grounds for sequestration ([29], [25]).
+
+**Court Findings**:
+1. The Authority established prima facie grounds for the Dlaminis' sequestration simply through their non-compliance with the repayment directive, making the requirement for proving actual insolvency superfluous ([30]).
+2. The Authority successfully demonstrated that the Dlaminis’ joint estate was, in fact, insolvent, therefore meeting the requirements of section 84 ([40]).
+
+Furthermore, the Supreme Court analyzed the High Court's discretionary powers and found that its refusal to grant the provisional sequestration order was based on misinterpretations of evidence and an undue focus on the solvency report’s shortcomings rather than on actual compliance with statutory provisions ([41], [42]).
+
+## C – Conclusion
+The Supreme Court of Appeal ultimately overruled the High Court's denial, finding that:
+1. The Dlaminis’ failure to comply with the directive constituted a statutory act of insolvency under section 83(3)(b) of the Banks Act, enabling the Authority to seek sequestration without needing to additionally prove factual insolvency ([32]).
+2. There was reasonable cause to believe that sequestration would benefit creditors, as their liabilities exceeded their assets, qualifying under the terms set out in the Insolvency Act ([40]).
+
+The appellate court’s judgment signals a strong affirmation of the Prudential Authority's powers and emphasizes the enforceability of financial regulations under the Banks Act. The Court ordered that the Dlaminis’ joint estate be placed under provisional sequestration ([43]), highlighting the critical nature of regulatory compliance in the banking sector.
+
+*Overall, this case reinforces the importance of regulatory frameworks in protecting creditors and maintaining the integrity of financial systems.*

@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: **Commissioner for the South African Revenue Service v Glencore Operations SA (Pty) Ltd** [2021] ZASCA 111
+
+## F – Facts
+The case concerns an appeal by the Commissioner for the South African Revenue Service (SARS) against a decision rendered by the Gauteng Division of the High Court. The central dispute arises from an application by Glencore Operations SA (Pty) Ltd (Glencore) that sought a refund of the diesel fuel levy under the Customs and Excise Act 91 of 1964 (the Act) for the period between August 2011 and December 2013. Glencore, engaged in coal mining in Middelburg, Mpumalanga, claimed that the fuel used in its operations entitled it to a rebate under Item 670.04, which stipulates conditions for exemptions or refunds [[1]-[6]].
+
+The Commissioner disallowed Glencore's claim, asserting that the diesel fuel in question was not utilized for *own primary production activities in mining* as required by Note 6(f)(iii) of Part 3 of Schedule 6 to the Act. Instead, it was deemed to have been used for secondary production activities, which do not qualify for rebates [[7]-[8]]. Glencore contended that its activities fell within the ambit of the specified primary production activities listed in the rebate provisions, or, alternatively, that the list was not exhaustive [[8]-[9]].
+
+## I – Issues 
+The primary issue presented before the Court was whether the mining operations conducted by Glencore, for which diesel refunds were claimed, constituted *own primary production in mining* as articulated in Note 6(f)(ii) and (iii) of Part 3 of Schedule 6 to the Act [[9]]. Additionally, a subsidiary issue involved whether the list of activities outlined in Note 6(f)(iii) was exhaustive or if it included activities incidental to primary mining operations [[10]].
+
+## R – Rules
+The relevant statutory provisions included:
+1. **Customs and Excise Act 91 of 1964**: This governing statute imposes levies on diesel fuel and sets forth exemptions under specific conditions concerning mining activities [[1]].
+2. **Note 6(f)(iii) of Part 3 of Schedule 6**: This note defines the conditions under which fuel levies may be refunded, specifying that only activities directly related to primary production in mining qualify [[18]].
+3. **Case Law**: The Court referenced previous rulings, particularly NST Ferrochrome (Pty) Ltd v Commissioner for Inland Revenue, underscoring that ambiguous provisions should be construed favorably towards the taxpayer, which is a general principle in statutory interpretation [[18-19]].
+
+## A – Application
+The Court articulated the principles of statutory interpretation, emphasizing that context, the ordinary meaning of terms, and the legislative purpose must be considered holistically. The conflicting interpretations of the term "include" were central to the Court's deliberation [[19-20]].
+
+1. **Primary vs. Secondary Activities**: The Court underscored that the definition of primary production activities must align with the ordinary meanings as understood in the mining context. Activities conducted after extraction were categorized as secondary, disallowing Glencore's claims for diesel reimbursement [[18-19]].
+2. **Exhaustiveness of the List**: The judgment detailed a historical context highlighting that legislative amendments aimed to refine the definition of primary production activities. The necessity for a definitive list was paramount to prevent uncertainty while maintaining fiscal responsibilities [[10, 39-53]]. 
+
+Despite recognizing that some post-extraction activities could be indirectly related, the Court ultimately sided with the Commissioner, concluding that Glencore failed to provide sufficient evidence that its claimed activities fell within the qualified exemptions outlined in the Act [[10]].
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the appeal by SARS, reinstating the Commissioner's original determination that disallowed Glencore's diesel rebate claims. The Court firmly held that activities falling outside the clearly defined parameters of primary production did not qualify for rebate in accordance with the strict statutory interpretation of the Act [[54]]. 
+
+The judgment not only emphasized the importance of precise statutory language but also reinforced the need for compliance within the operational scope defined by tax law, ultimately safeguarding the fiscal interests of the state. The holding serves as a critical interpretation of the limits of tax rebates available to mining organizations, delineating a clear barrier between qualifying primary activities and non-qualifying secondary endeavors [[54-72]]. 
+
+References: 
+- Commissioner for the South African Revenue Service v Glencore Operations SA (Pty) Ltd (Case no 462/2020) [2021] ZASCA 111.
+- NST Ferrochrome (Pty) Ltd v Commissioner for Inland Revenue 2000 (3) SA 1040 (SCA).

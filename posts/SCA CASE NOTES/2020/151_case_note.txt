@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: CMC Di Ravenna (1325/2019) [2020] ZASCA 151
+
+### FIRAC Structure
+
+#### F – Facts: Relevant Background and Procedural History ([1–12])
+
+The case revolves around the appellant, **Cooperativa Muratori & Cementisi - CMC Di Ravenna Società Cooperativa a Responsabilità Limitata** (CMC), an Italian company registered in South Africa as an external company under the **Companies Act 71 of 2008 (the Act)**. CMC faced a severe cash flow crisis in late 2018, leading it to file for a preventive arrangement with creditors in Italy, which the Court of Ravenna approved on December 7, 2018 ([1]–[2]).
+
+Following this, CMC's board decided to pursue business rescue proceedings under South African law, as it determined that the company was financially distressed per **section 129(1)** of the Act. On December 14, 2018, business rescue practitioners were appointed. However, on February 15, 2019, the **Companies and Intellectual Property Commission (CIPC)** informed CMC that, as an external company, it could not initiate business rescue under South African law. Consequently, CMC submitted an urgent application on March 7, 2019, seeking a declaration that it was under business rescue as per South African law or alternatively, that the Italian court's order was enforceable in South Africa ([2]–[4]).
+
+The CIPC was the sole respondent in the initial application, with Esor Construction (Pty) Ltd, Absa Bank Ltd, and Stefcor Construction (Pty) Ltd subsequently intervening ([3]), leading to the eventual dismissal of CMC's application in the Gauteng Division of the High Court ([4]). The appeal followed ([5]).
+
+#### I – Issues: Legal or Constitutional Questions ([1–12])
+
+The central issue was whether an external company such as CMC could use the business rescue provisions under section 128(1)(b) of the Act. Specifically, the court needed to address whether the definition of a "company" as contained in section 1 of the Act included foreign companies and consequently if CMC was entitled to benefit from provisions meant for domestic companies ([1]–[5]).
+
+A secondary but significant issue arose concerning the recognition of the Italian court's order in South Africa. The legal implications of enforcing a foreign judgment raised questions of jurisdiction and the treatment of foreign insolvency proceedings under South African law ([13]–[34]).
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([5–34])
+
+The court primarily relied upon the **Companies Act 71 of 2008**, particularly sections 1 (definition of terms including "company"), 128, 129, and 23 (which specifically deals with external companies). The Act explicitly defines a "company" as a juristic person incorporated under the Act, excluding external companies ([6]–[11]).
+
+The interpretation of foreign judgments in South Africa is guided by common law principles, as established in **Jones v Krok** and other precedents that delineate when foreign judgments can be enforced domestically ([31]). The underlying principle is that foreign laws do not have extra-territorial effect unless recognized through appropriate legal channels, emphasizing the need for local recognition of foreign liquidators or proceedings ([32]–[34]).
+
+#### A – Application: Analysis of How the Court Applied the Law ([5–34])
+
+The court found that because CMC was defined as an external company, it did not meet the definition of a "company" capable of entering business rescue under South African law. The language of the Act was clear, and the court emphasized that CMC could not be considered to have been incorporated "in terms of this Act" as required for seeking business rescue ([10]–[12]).
+
+As for the alternative request regarding the recognition of the Italian order, the court analyzed the nature of the foreign proceedings and determined that they did not confer South African jurisdiction over creditors or local operations. Since no proper application for recognition of the Italian court's order was made by the judicial commissioners appointed in Italy, and given the absence of any enforceable or executable provisions from the Italian order in South Africa, the court ruled that the request was flawed ([20]–[34]). 
+
+The court was particularly critical of CMC's delay in submitting evidence regarding the later developments of its case in Italy, which would have been crucial to adjudicating the appeal ([18]–[24]). The dismissal of CMC's application to introduce further evidence was justified, reflecting the court's disapproval of CMC’s handling of its evidential responsibilities and the implications of their request for recognition of the Italian order ([19]).
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([35])
+
+In concluding, the Supreme Court of Appeal dismissed both the application to adduce further evidence and the appeal, producing significant implications for cross-border insolvency issues involving foreign companies. The court reiterated that foreign companies must follow proper legal procedures to gain recognition within South Africa, emphasizing the importance of protecting local creditors' rights ([35]).
+
+The ratio decidendi underscores the principle that South African law does not recognize foreign insolvency proceedings unless explicitly acknowledged through a formal legal process. This case serves as a critical reference point in relation to the handling of foreign companies and jurisdictions within South African law, highlighting the necessity for clarity and adherence to legal norms in processes of international business rescue. 
+
+---
+
+### References
+- Companies Act 71 of 2008.
+- Jones v Krok 1995 (1) SA 677 (A).
+- Other laws and cases referenced as appropriate.

@@ -1,0 +1,35 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: September and Others v CMI Business Enterprise CC [2018] ZACC 4
+
+## FIRAC Structure
+
+### F – Facts ([1]–[79])
+The case revolves around an application for leave to appeal against a decision by the Labour Appeal Court (LAC) that set aside a default judgment granted by the Labour Court in favor of the three applicants—Theo September, Dean September, and Roland Paulsen—against CMI Business Enterprise CC. The applicants were employed by CMI from August 2009 until their resignation on September 13, 2011, citing intolerable working conditions, including racial discrimination, physical and verbal abuse, and cultural bias.
+
+The applicants referred their case to the Commission for Conciliation, Mediation and Arbitration (CCMA), initially describing the dispute as unfair discrimination under Section 10 of the Employment Equity Act 55 of 1998. The conciliation hearing took place on October 10, 2011, during which the commissioner identified the true nature of the dispute as one of constructive dismissal. However, the certificate of outcome issued indicated the dispute as "unfair discrimination," and the applicants' claims of constructive dismissal were not explicitly articulated.
+
+The Labour Court granted default judgment on February 12, 2013, deeming the dismissals automatically unfair based on racial discrimination, awarding compensation totaling R432,000. Subsequently, CMI sought rescission of this judgment, arguing that it lacked jurisdiction since the constructive dismissal claim had not been referred to the CCMA.
+
+### I – Issues ([80]–[128])
+The principal legal issues revolve around:
+1. Whether the Labour Court had jurisdiction to entertain the matter given that the dispute of constructive dismissal was not expressly referred to the CCMA for conciliation.
+2. The interpretation and application of Rule 16 of the CCMA Rules, particularly regarding the admissibility of evidence from conciliation hearings at subsequent proceedings.
+3. Whether the Labour Appeal Court's interpretation did justice to the provisions of the Labour Relations Act 66 of 1995 (LRA) and section 10 of the Employment Equity Act, which preclude dismissal disputes from being included in discrimination claims.
+
+### R – Rules ([1]–[79])
+The framework for analysis involves:
+- The **Labour Relations Act 66 of 1995**, especially sections concerning the necessity of filing unfair dismissal disputes for conciliation (sections 191(5) and 195).
+- **Employment Equity Act**, particularly section 10, which specifies the parameters for addressing unfair discrimination and expressly excludes dismissal disputes from its ambit.
+- **Rule 16** of the CCMA Rules, emphasizing confidentiality and the inadmissibility of statements made during conciliation in subsequent court proceedings unless waived by mutual consent or court order.
+
+### A – Application ([1]–[79])
+The court's analysis hinged on the documentation submitted by the applicants during the CCMA proceedings. It was determined that the referral document explicitly indicated the dispute was one of unfair discrimination under section 10, with no mention of dismissal or resignation, which limited the applicability of the constructive dismissal claim. The majority opinion emphasized that merely discussing constructive dismissal during conciliation does not suffice to confer jurisdiction on the Labour Court for subsequent adjudication unless the dispute was formally referred.
+
+Theron J's majority opinion articulated a broad and contextual approach to interpreting the nature of the dispute. The majority emphasized that the commissioner at the CCMA must actively ascertain disputes' true nature, regardless of how parties initially categorize them. In contrast, Zondo DCJ's dissenting view advocated for a strict interpretation of procedural requirements, arguing against the majority's findings by emphasizing the clear statutory prerequisites established under the LRA.
+
+### C – Conclusion ([1]–[79])
+The Constitutional Court's final ruling granted leave to appeal, upheld the applicants' appeal, and restored the Labour Court's default judgment. The majority concluded that although the initial referral described the dispute as unfair discrimination, substantial evidence indicated that discussions surrounding the circumstances of constructive dismissal had occurred during conciliation, hence conferring jurisdiction upon the Labour Court.
+
+The case has notable implications for how courts interpret conciliation processes and the handling of confidential discussions therein, highlighting the importance of a nuanced understanding of the interaction between procedure and substantive labor rights. The decision underscores the critical nature of ensuring that disputes, particularly those involving allegations of discrimination and unfair dismissal, are adequately characterized and referred to conciliation to preserve the integrity of the dispute resolution mechanism established by the LRA.

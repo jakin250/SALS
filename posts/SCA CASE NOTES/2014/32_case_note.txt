@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note
+
+## Case Title: Gavin Cecil Gainsford NO & others v Tanzer Transport (Pty) Ltd & others (076/2013) [2014] ZASCA 32
+
+### F - Facts
+The case revolves around the winding-up of Costa Logistics (Pty) Ltd, which was placed into voluntary liquidation on 3 March 2009, following financial difficulties exemplified by losses, creditor claims, and troubling auditor assessments ([2]–[5]). The appeal in question arises from two applications: the first, a main application wherein the liquidators sought to declare certain payments made to Tanzer Transport (Pty) Ltd as voidable dispositions under section 341(2) of the Companies Act 61 of 1973, and the second, a setting aside application where Tanzer contested the winding-up of the company ([2]).
+
+The liquidators, citing their authority under section 386, claimed that payments made to Tanzer, totalling approximately R14.2 million, were made after the company had commenced winding-up. The resolution to wind-up was registered on 3 March 2009, indicating insolvency ([5]–[6]). Tanzer, in its response, challenged both the liquidators' locus standi—arguing that they should have acted in the company's name rather than their own—and the authority to initiate the claims against Tanzer ([9]–[10], [17]).
+
+The high court initially sided with Tanzer, ruling that the liquidators lacked standing and referred the setting aside application to trial. This decision led to the liquidators' appeal ([27]).
+
+### I - Issues
+The essential legal issues involved in this case include:
+
+1. **Locus Standi**: Whether the liquidators have the standing to sue in their capacity as liquidators rather than in the name of the company in liquidation ([9]–[12]).
+   
+2. **Authority**: Whether the liquidators had proper authority from the creditors to institute the main application to recover the allegedly voidable payments made to Tanzer ([17]–[20]).
+
+3. **Validity of Payments**: Whether the payments made to Tanzer can be declared voidable under section 341(2) of the Companies Act, and if so, whether Tanzer's defense—that the payments were made in the ordinary course of business—sufficiently challenges this ([27]–[30]).
+
+4. **Setting Aside of Winding-Up**: Should the winding-up order be set aside based on claims of solvency or fraudulent preference? ([31]–[32]).
+
+### R - Rules
+The legal framework governing this case includes:
+
+- **Companies Act 61 of 1973**: In particular, sections 341(2) and 386, which establish the authority and responsibilities of liquidators regarding legal proceedings and the treatment of payments made after the commencement of winding-up ([9], [27]–[28]).
+
+- **Locus Standi Principles**: Several precedents inform the requirement for liquidators to act in the company's name and the extent of their authority to initiate actions concerning the company's debts ([12]–[14], [15]).
+
+- **Insolvency Principles**: The purpose of the insolvency legislation, meaning the concourse of creditors, dictates that all creditors are treated equitably and that dispositions made after insolvency may be rendered void ([1], [28]–[29]).
+
+### A - Application
+The court meticulously examined the liquidators' claims and Tanzer's defenses. On the locus standi issue, the court referenced past judgments indicating a growing acceptance that liquidators, acting on behalf of the company, may litigate in their own names, provided they are recognized as acting in their official capacity ([12]–[16]). The court emphasized that refusing the liquidators standing would misapply form over substance.
+
+In regard to authority, the court found the resolution from creditors was sufficiently broad to encompass claims arising from voidable dispositions, thus affirming the liquidators' authority ([20]).
+
+On the merits of the main application concerning voidable dispositions, the court was unsympathetic to Tanzer's position that the payments were made in good faith or in the ordinary course of business. The court clarified that payments made after the commencement of liquidation are generally presumed void under section 341(2), irrespective of the intent behind them ([27]–[30]). The evidence presented indicated that the company was clearly insolvent, making the payments impermissible and detrimental to the collective interests of creditors ([25]).
+
+For the setting aside application, the arguments presented by Tanzer related to fraud and allegations of solvency were dismissed. The court asserted that the liquidation served the interests of creditors and reiterated that the previous payments made to Tanzer were dubious and effectively constituted undue preference ([32]).
+
+### C - Conclusion
+The Supreme Court of Appeal upheld the appeal, concluding that the liquidators did have the standing to pursue the matter in their capacity. The court ruled that the payments made to Tanzer were voidable dispositions under section 341(2) of the Companies Act and directed Tanzer to repay these amounts to the liquidators, which were to be redistributed among the company's creditors ([34]). This judgment not only clarified the powers and standing of liquidators in insolvency proceedings but set an essential precedent reinforcing equitable treatment for all creditors in the face of a company’s liquidation. 
+
+The implications of this decision emphasize the importance of maintaining a strict adherence to insolvency laws and ensure that any actions taken after the onset of winding-up do not prejudice other creditors, thereby fulfilling the ultimate purpose of insolvency legislation ([1]).

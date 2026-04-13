@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Premier Foods (Pty) Ltd v Manoim NO (20147/2014) [2015] ZASCA 159
+
+## F – Facts
+The dispute arises in the context of competition law, specifically under the South African Competition Act 89 of 1998. The appellant, Premier Foods (Pty) Ltd, was granted conditional immunity under the Corporate Leniency Policy (CLP) after self-disclosing its role as a member of a bread cartel operating in the Western Cape ([1-2]). This leniency allowed Premier to provide evidence against other cartel members without being subjected to prosecution.
+
+In December 2006, the Competition Commission initiated a complaint against Premier and other firms, leading to two separate referrals to the Competition Tribunal. However, Premier was not listed as a respondent in these complaints; it was granted immunity due to its cooperation ([2-3]). The Tribunal subsequently ruled that Premier, along with other respondents, had engaged in prohibited practices under s 4(1)(b) of the Act, declaring their conduct to be a prohibited practice ([5]).
+
+The core issue arose when claimants, allegedly harmed by the cartel's actions, sought to commence civil proceedings against Premier. To do so, they required a certificate from the Tribunal indicating that Premier’s conduct constituted a prohibited practice as mandated by s 65(6)(b) of the Act. The Tribunal, however, ruled that such a certificate could not be issued since Premier had not been included in the complaint referrals ([9-10]). The Gauteng High Court dismissed Premier's application, leading to the current appeal.
+
+## I – Issues
+The principal legal issue in this case concerns the authority of the Competition Tribunal to declare Premier's conduct as a prohibited practice when it was not cited as a respondent in the original referrals. Specifically, the court had to determine whether the Tribunal had the power to issue a declaration under s 58(1)(a)(v) regarding Premier in the absence of formal citation. If the declaration was invalid, it followed that neither the Tribunal nor the Chairperson could issue a certificate under s 65(6)(b) of the Act, rendering any such order a nullity ([2-3], [17-18]).
+
+## R – Rules
+The governing provisions are found in the Competition Act itself. Notably:
+- **s 4(1)(b)** prohibits anti-competitive agreements, including cartels.
+- **s 58(1)(a)(v)** allows the Tribunal to declare conduct as a prohibited practice for the purposes of issuing a certificate under s 65.
+- **s 65(6)(b)** stipulates the conditions under which a claimant may take civil action based on findings of prohibited practices.
+
+Additionally, the concept of corporate leniency is a critical aspect, where participants in anti-competitive behaviors can obtain immunity from prosecution by cooperating with the Commission ([1-2], [15-16]). The case further rests on precedents set in *Agri Wire (Pty) Ltd & Another v Commissioner of the Competition Commission & Others* ([19-20]), which emphasized that a Tribunal can only rule on matters properly introduced before it through formal referrals.
+
+## A – Application
+The Supreme Court of Appeal focused on whether the Tribunal had the jurisdiction to make a declaration against Premier given that it was not formally included as a respondent. In its analysis, the court underscored that jurisdictional facts are paramount; only entities cited as respondents in the complaints can be subject to declarations by the Tribunal ([18-25]).
+
+The court concluded that the absence of a citation meant that Premier’s conduct was not part of the complaint referrals, thus negating the Tribunal's power to issue a declaration regarding its conduct. The Commission had intentionally decided against citing Premier in its referrals, a decision acknowledged by all parties ([26]). Furthermore, the nature of the CLP meant that Premier's immunity effectively precluded it from being held accountable in the same manner as other respondents, concurrent with the court's rejection of the idea that the mere participation of a leniency applicant in proceedings sufficed to subject them to declarations. 
+
+The court also analyzed relevant case law, reinforcing the principle that judicial decisions made without jurisdiction or without proper citation are nullities ([34-39]). The majority found that the declaration made by the Tribunal was, therefore, invalid and did not require formal setting aside as it lacked legal standing from inception.
+
+## C – Conclusion
+The Supreme Court of Appeal upheld Premier's appeal, ruling that the Tribunal lacked the authority to declare its conduct as a prohibited practice due to non-citation in the referrals. The declaration was declared a nullity, meaning no valid certificate could be issued under s 65(6)(b) of the Act. Consequently, the court substituted the order of the lower court with one clearly stating that neither the Tribunal nor the Chairperson could issue the requested certificate, affirming Premier's position as a leniency applicant with no liability under the findings against it ([48-49]).
+
+This case emphasizes the importance of proper procedural adherence in competition law, reinforcing that any entity subject to declarations or penalties must first be appropriately included within formal complaint referrals. The judgment also underscores the implications for claimants seeking civil relief based on findings of prohibited practices within the ambit of the established competition frameworks.

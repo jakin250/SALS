@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note
+
+## Case Title: Botha v Giyose t/a Paragon Fisheries [2007] SCA 73 (RSA)
+
+---
+
+### F - Facts: Relevant Background and Procedural History ([paras 1–13])
+
+This appeal originates from a disputed sale transaction of a fast-food business located in Queenstown, Eastern Cape. The appellant, Mr. D B Botha, claimed to have sold the business, initially referred to as ‘Skippers’ but later known as ‘Food for Africa’, to the respondent, Mr. Giyose, for R90,000 in February 2003. However, Giyose denied the existence of such an agreement and contended that he merely took over the premises post-abandonment by the appellant ([para 1]).
+
+Botha initiated legal action against Giyose for the R90,000 in the Queenstown Magistrates’ Court. Giyose’s plea asserted there was no agreement and indicated the appellant had abandoned the business ([para 2]). Notably, Botha was the sole witness at the trial, with the respondent opting not to present any evidence. Ultimately, the magistrate accepted Botha’s evidence, ruling in his favor and issuing a judgment for the stated amount, including interest and costs ([para 5]).
+
+Giyose subsequently appealed, claiming the appellant lacked *locus standi in iudicio*, primarily asserting that the business was owned by a closed corporation, Dacawi Investments CC, and questioning the appellant’s authority to act as its agent. This matter surfaced during the trial, leading to Botha producing a resolution purportedly confirming his authority to sell on behalf of Dacawi ([paras 6-7]).
+
+In challenging the ruling of the magistrate’s court, Giyose’s appeal rested on whether Botha, as the purported agent for an undisclosed principal, had standing to sue in his name. The court a quo acknowledged the principles in *Cullinan v Noord-Kaaplandse Aartappelkernmoerkwekers Koöperasie Bpk* 1972 (1) SA 761 (A), but concluded that Botha could not sue due to a failure to establish appropriate authority at the time of the agreement ([paras 7-8]).
+
+The magistrate's oversight of the appellant's cancellation rights and the inconsistency in claiming both cancellation and damages further complicated the proceedings. Finally, the appeal court scrutinized not only the locus standi but also the substantive validity of the claims presented by the appellant ([paras 10-12]) 
+
+### I - Issues: Legal or Constitutional Questions ([paras 6–12])
+
+The primary issues in this case center on:
+
+1. Whether the appellant, acting as an agent for an undisclosed principal, Dacawi Investments CC, was entitled to maintain an action against the respondent in his own name ([para 7]).
+2. The validity of the claim for cancellation of the sale agreement alongside claims for damages, focusing on the legal conflict between these claims and the principle of approbation and reprobation in contract law ([para 11]).
+
+### R - Rules: Legal Authorities and Precedents Relied Upon ([paras 7–11])
+
+The court primarily referenced:
+
+- **Cullinan v Noord-Kaaplandse Aartappelkernmoerkwekers Koöperasie Bpk** 1972 (1) SA 761 (A): This case indicates that an agent representing an undisclosed principal can enforce a contract against a third party in their own name.
+- **Gravett NO v van der Merwe** 1996 (1) SA 531 (D): Cited to clarify the standing of an agent and the validity of actions taken on behalf of an undisclosed principal.
+- **Durity Alpha (Pty) Ltd v Vagg** 1991 (2) SA 840 (A): This authority states that authority to act must exist at the time of contract conclusion; subsequent ratification of the contract is invalid if based on a lack of authority.
+- General contract law principles highlight that an innocent party cannot simultaneously seek enforcement and cancellation due to the inherent incompatibility of these remedies ([para 11]).
+
+### A - Application: Analysis of How the Court Applied the Law ([paras 8–11])
+
+In applying these rules, the court evaluated the appellant's standing and authority to sue. It noted that although Botha initially positioned himself as the seller, the subsequent revelation of the close corporation raised critical questions about his formal authority to act. The reliance on the resolution dated 1 March 2004, created after the contract was concluded, was seen as inadequate to establish valid agency at the necessary time ([para 8]).
+
+On the matter of contract remedies, the court clarified that upon breach, an innocent party like Botha has the option to either seek enforcement of the contract or cancellation coupled with claims for restitution or damages. Botha’s dual claim for cancellation and for damages (asserting the purchase price was his claim for damages) was unwarranted and legally impermissible, violating principles established in contract law that prevent an innocent party from approbating and reprobating a single deal ([para 11]).
+
+### C - Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 14])
+
+Ultimately, the Supreme Court of Appeal upheld Giyose's appeal. The court concluded that the magistrate erred in affirming Botha’s standing and failed to grasp the complexities surrounding the undisclosed principal doctrine and the implications of the dual claims. The earlier ruling was set aside, leading to a determination that each party bear their own costs, and replaced the order of the magistrates' court with a focused remedy for the amounts demonstrably unpaid ([paras 14]).
+
+The court emphasized the importance of clarity in representation and the consequences of failing to meet the necessary legal thresholds for authority, underscoring broader implications for agents in commercial transactions and the need for proper legal structuring within business operations.
+
+---
+
+This case highlights fundamental principles regarding agency, the rights of undisclosed principals, and the principles governing contract claims, illustrating complexities often encountered in business transactions. It offers vital lessons for legal practitioners and business entities on the significance of establishing clear authority and the consequences of legal missteps in contract negotiations.

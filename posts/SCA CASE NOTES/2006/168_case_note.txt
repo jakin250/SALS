@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# Case Note: Crown Chickens (Pty) Ltd v Rieck [2006] SCA 127 (RSA)
+
+### FIRAC Case Note
+
+#### F – Facts
+The case involves Crown Chickens (Pty) Ltd, a poultry farmer located in the Uitenhage district, which also operates a retail shop. On June 13, 2003, a group of armed men entered this shop and conducted a robbery. During their escape, they held the cashier, Renette Rieck, hostage at gunpoint. As the robbers fled in a vehicle, a member of the appellant's loss control team, who had rushed to the scene, fired shots at the vehicle in an attempt to halt its escape, inadvertently striking Rieck on the arm ([paras 1-3]).
+
+Rieck subsequently filed a lawsuit in the South-Eastern Cape High Court against Crown Chickens for damages concerning her injury. Her claim was based on the premise that the employee who shot her acted negligently, and therefore the appellant was vicariously liable for his actions. The high court found in favor of Rieck, establishing the appellant’s liability for the damages incurred from the shooting ([paras 4-6]).
+
+After the trial concluded, but prior to the judgment, the appellant sought to amend its plea to argue that Rieck's claim was barred by Section 35(1) of the Compensation for Occupational Injuries and Diseases Act 130 of 1993 (COIDA). The court subsequently rejected this amendment, concluding that the evidence did not support the application ([paras 5-6]).
+
+#### I – Issues
+The case presents multiple legal questions: 
+
+1. Whether the conduct of the loss control officer who fired the shots at the fleeing vehicle was wrongful or negligent, considering the circumstances in which Rieck was shot.
+2. Whether the definition of "employer" under COIDA includes a labor broker's client, thereby exempting the appellant from liability for workplace injuries sustained by an employee of the labor broker ([paras 7-29]).
+
+#### R – Rules
+The relevant legal principles include:
+
+1. **Delictual Liability**: The law recognizes that causing bodily injury through a positive act generally leads to delictual liability. The test for wrongfulness revolves around public policy considerations, assessing whether the plaintiff should be compensated for losses caused by the defendant's negligent acts ([para 9]).
+   
+2. **Necessity Defense**: This allows for a justification of conduct that would otherwise be wrongful if it was undertaken in the face of a significant danger to an innocent party. The standard is objective, assessing if a reasonable person in the defendant's position would have acted similarly ([paras 10-11]).
+
+3. **Vicarious Liability**: Employers can be held liable for the wrongful acts of their employees if those actions occur within the scope of employment ([para 17]).
+
+4. **Compensation for Occupational Injuries and Diseases Act (COIDA)**: Provides that no employee can sue their employer for damages from occupational injuries. The interpretation of who constitutes an "employer" is crucial in this case ([paras 18-20]).
+
+#### A – Application
+In assessing liability, the court first analyzed whether shooting at the suspect vehicle could be deemed a reasonable act of self-defense or protection of Rieck. The appellant argued that this action was justified given the immediate danger posed to Rieck. However, the court noted that while there was potential for Rieck to be harmed, there was no concrete evidence at the time indicating she would be killed if the robbers escaped; therefore, the immediate risk of injury from firing a gun at the vehicle was significant and outweighed the perceived necessity of the shooting ([paras 15-16]).
+
+Consequently, the court concluded that a reasonable person would not have fired at the vehicle given the circumstances, thus upholding the finding of wrongful conduct and negligence ([para 17]). 
+
+Next, regarding the application for the amendment to introduce a defense under COIDA, the interpretation of the term "employer" was critical. The court examined the history of employment law in South Africa and concluded that Rieck's primary employer was the labor broker, TMS-Shezi, and as such, Crown Chickens was not her employer under the statute. The court determined that the statutory definition affirmed the long-held view that an employee has one primary employer, and consequently, the appellant was not exempt from the liability claimed by Rieck ([paras 20-28]).
+
+#### C – Conclusion
+The Supreme Court of Appeal dismissed Crown Chickens' appeal, affirming the lower court's ruling that the company was vicariously liable for the injuries sustained by Rieck due to their employee's negligent conduct in shooting at her while attempting to prevent a robbery. Furthermore, the court held that the claim was not barred by COIDA, emphasizing the established legal principle that an employee can only have one employer and that the labor client's relationship did not confer the protections against liability envisaged under the Act. The court’s decision reinforced the accountability of employers for the actions of their employees, particularly in situations where violence against individuals is concerned, with costs awarded against Crown Chickens ([paras 29]).
+
+---
+
+This case illustrates crucial aspects of delictual liability, the necessity defense, and the interpretation of labor laws with respect to employer-employee relationships, contributing significantly to legal precedents in South African private law.

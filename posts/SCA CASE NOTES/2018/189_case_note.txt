@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: Viziya Corporation v Collaborit Holdings (Pty) Ltd & Others
+
+**Court:** The Supreme Court of Appeal of South Africa  
+**Neutral Citation:** [2018] ZASCA 189  
+**Case No:** 1189/17  
+**Judgment Delivered:** 19 December 2018  
+**Coram:** Wallis, Saldulker, Mathopo and Van der Merwe JJA and Rogers AJA  
+
+### FIRAC Case Note
+
+## F – Facts
+The case arises from an agreement between the applicant, Viziya Corporation (Viziya) and the first respondent, Collaborit Holdings (Pty) Ltd (Collaborit), signed on 25 August 2014, wherein Collaborit was to facilitate the sale of Viziya’s products ([1]–[2]). Two specific clauses in the agreement prohibited Collaborit from disclosing Viziya’s proprietary information and from developing competitive products ([2]). 
+
+On 10 January 2016, following a notice of termination by Collaborit dated 10 November 2015, the agreement was ended. Viziya alleged that during the contract, Collaborit developed competing solutions, including a work scheduler and warranty tracker, using Viziya’s confidential information ([3]). Furthermore, Viziya contended that Collaborit engaged in unlawful competition by sabotaging its marketing efforts to Anglo American ([3]). 
+
+In response to these allegations, on 12 May 2016, Viziya sought an Anton Piller order from the Gauteng Division of the High Court, Pretoria, which was granted after an ex parte hearing ([4]). Following execution of the order and after an application by Collaborit and its directors/employees to set aside the order, the High Court discharged it on 3 August 2017, leading to Viziya’s application for leave to appeal ([4], [6]). 
+
+## I – Issues
+The main legal questions addressed by the court were:
+1. Should leave to appeal be granted based on the merits of the high court's ruling?
+2. Did the high court apply the correct legal standards in discharging the Anton Piller order (including the existence of a prima facie case, the identification of vital documents, and any reasonable apprehension of evidence destruction)? ([5], [6]).
+
+## R – Rules
+The requirements for an Anton Piller order are well-established:
+1. A prima facie case of a legitimate cause of action must be established.
+2. The respondent must possess specific documents constituting vital evidence.
+3. There must be a real and well-founded apprehension that such evidence might be hidden or destroyed before trial or discovery ([22]). 
+
+The distinction of the Anton Piller order as not being a tool for early discovery is crucial, with Corbett CJ emphasizing that the applicant must already have a cause of action upon the application ([22]). Precedential cases such as *Universal City Studios Inc. v Network Video (Pty) Ltd* and *Non-Detonating Solutions v Durie* reiterate these principles ([22], [23]).
+
+## A – Application
+The court found that Viziya did satisfy the first two requirements for an Anton Piller order concerning the prima facie case and the existence of vital evidence; however, it failed to establish the third requirement, which was the reasonable apprehension that this evidence could be destroyed or hidden ([6], [42]). 
+
+The court elaborated that Viziya’s claims of Collaborit’s dishonesty were not substantiated by the evidence presented, including testimonies from Former Collaborit employees. The court ruled that there was nothing that reasonably suggested Collaborit would destroy or conceal relevant documents given its open marketing of their competing products ([45], [46]). 
+
+Moreover, the court criticized the broad and unspecified nature of the search terms proposed by Viziya, noting that this amounted to a fishing expedition rather than a justified order to protect specific vital documents ([32], [33], [37]). Viziya failed to identify particular documents it sought to preserve, which the court ruled was necessary to justify the intrusive nature of an Anton Piller order. 
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the High Court's decision to discharge the Anton Piller order and subsequently dismissed Viziya's application for leave to appeal, concluding that Viziya's evidence was insufficient to justify the intrusive nature of the order ([46], [48]). The court emphasized the need for specific identification of vital evidence, stating that broad searches are impermissible under the Anton Piller regime. In so doing, the court reinforced the established principles governing the use of Anton Piller orders and emphasized the need for judicial balance between the rights of the applicant and respondent.
+
+The dismissive ruling on Viziya’s appeal highlights the serious implications of obtaining Anton Piller orders, suggesting that applicants must exercise caution and provide substantial evidence before seeking such invasive measures in the judicial process.

@@ -1,0 +1,66 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note: **Chartaprops 16 (Pty) Ltd v Advanced Cleaning Services CC and Michelle Silberman**
+
+**Court**: Supreme Court of Appeal of South Africa  
+**Case Number**: 300/07  
+**Neutral Citation**: Chartaprops 16 v Silberman (300/07) [2008] ZASCA 115  
+**Judgment Date**: 25 September 2008  
+**Coram**: Nugent JA, Ponnan JA, Scott and Maya JJA, Leach AJA  
+**Heard**: 14 May 2008  
+
+---
+
+## F - Facts
+[1] The respondent, Michelle Silberman, sustained injuries after slipping on a slippery substance located in a shopping mall in Johannesburg, owned by the first appellant, Chartaprops 16 (Pty) Ltd. Chartaprops had contracted with the second appellant, Advanced Cleaning Services CC, to maintain the cleanliness of the mall’s floors. Silberman sought damages from both appellants in the High Court of Johannesburg.
+
+[2] The manner in which the slippery substance came to be on the floor was unclear; it could have been spilled by either a cleaner employed by Advanced Cleaning or a member of the public. Silberman's claim was primarily based on the appellants' alleged negligence in failing to detect and remove the hazard.
+
+[3] Advanced Cleaning had a cleaning routine that should have patrolled the mall at intervals of no more than five minutes. Chartaprops was aware of this cleaning system and conducted regular checks on the cleaning service. However, a factual finding established by the court below indicated that the spillage had been on the floor for at least 30 minutes prior to Silberman's accident, demonstrating a failure by Advanced Cleaning to promptly address the spill.
+
+[4] The High Court rendered both appellants jointly liable for Silberman’s damages, prompting appeals by both parties to the Supreme Court of Appeal.
+
+---
+
+## I - Issues
+[5] The appeal primarily raises two legal questions:
+
+1. Whether Chartaprops can be held vicariously liable for the alleged negligence of Advanced Cleaning, an independent contractor.
+2. Whether Advanced Cleaning can be held liable for its employees’ negligence under the principle of vicarious liability or due to a breach of duty.
+
+---
+
+## R - Rules
+[6] The legal framework surrounding vicarious liability in South Africa establishes that a principal is liable for the wrongful acts of its servant but not for an independent contractor. In *Colonial Mutual Life Assurance Society Ltd v MacDonald* 1931 AD 412, it was observed that a principal's liability only arises from the actions of an employee and does not extend to those of an independent contractor.
+
+[7] Liability can arise from an independent contractor's negligence only if there exists a non-delegable duty owed by the principal to the injured party. This principle dictates that in certain relationships, where special vulnerability or dependence exists, a stronger duty of care necessitating active oversight might apply, as discussed in cases such as *Tarry v Ashton* 1876 1 QBD 314.
+
+[8] South African case law, including *Kruger v Coetzee* 1966 (2) SA 428, articulates the classic test for negligence, which considers whether the harm was foreseeable and if the requisite precautions were taken.
+
+---
+
+## A - Application
+[9] The court addressed the vicarious liability of Chartaprops. It determined that since Advanced Cleaning held an independent contractor status, the basis of liability against Chartaprops could not arise vicariously from Advanced Cleaning's negligence. The legal principle of vicarious liability typically excludes independent contractors unless a non-delegable duty or special relationship exists that imposes a higher duty of care, which, in this case, was not established.
+
+[10] The court held that the failure observed in the cleaning service likely stemmed from a breakdown in adhering to their cleaning system, rather than any inherent inadequacy of that system itself. Given the context where the spillage was present for a significant duration, it was concluded that the duty to ensure the safe condition of the mall ultimately resided with Chartaprops.
+
+[11] As for Advanced Cleaning's liability, the court noted that for reported negligence by an employee to translate into liability, the existence of a legal duty to the injured party must be established. Here, it did not find grounds for imposing such a duty, even if negligence was inferred from the employees' actions.
+
+[12] It was further reasoned that Advanced Cleaning was contracted for a specific service, which does not equate to a broader duty of care owed to third parties. Advanced Cleaning and its employees were engaged for a service that, while critical for safety, did not inherently create a legal obligation to prevent private harm unless specified by the law or public policy.
+
+---
+
+## C - Conclusion
+[13] The Supreme Court concluded that Chartaprops was liable for the negligence arising from its failure to ensure reasonable safety conditions due to the nature of its control over the premises and the expectations of the public. The appeal by Chartaprops was therefore dismissed. 
+
+[14] However, the court ruled in favor of Advanced Cleaning, reversing the ruling of the lower court regarding its liability. It concluded that the independent contractor relationship did not impose a direct legal duty owed to the public regarding the cleanliness of the shopping mall. Advanced Cleaning was accordingly relieved of liability given that no actionable legal duty towards the public had been established.
+
+[15] The implications of this decision reaffirmed the limitations of vicarious liability concerning independent contractors within South African tort law, underscoring the necessity for clear legal duties imposed on third parties in negligence claims.
+
+---
+
+**Footnotes**:  
+1 *Colonial Mutual Life Assurance Society Ltd v MacDonald* 1931 AD 412.  
+2 *Tarry v Ashton* 1876 1 QBD 314.  
+3 *Kruger v Coetzee* 1966 (2) SA 428.

@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# Case Note: mCubed International v Singer (118/08) [2009] ZASCA 6
+
+## FIRAC Method
+
+### F – Facts
+This case concerns a delictual claim for pure economic loss originating from alleged misrepresentations related to an offshore investment contract. The appellants, mCubed International (Pty) Ltd and mCubed Life Ltd (collectively referred to as "mCubed"), faced a lawsuit from the Leon John Singer Family Trust, represented by its trustees (the respondents). On 19 March 2002, the Trust entered into an investment agreement with mCubed Life, heavily influenced by advice from an employee of mCubed International ([paras 1-2]).
+
+The Trust's claims stemmed from two alleged misrepresentations: one before and one following the establishment of the contract. The primary claim asserted a capital loss of R3,884,958.53 and interest damages of R3,881,017.47 ([paras 2-15]). The alternative claim sought lesser amounts based on a misrepresentation occurring post-contract. Notably, the investment of R10 million had been borrowed under a complex structure initiated by Singer. The eventual outcome was that the Trust received only R6,115,071.74 upon canceling the ten linked endowment policies due to the strengthening of the Rand against the US Dollar, causing a perceived capital loss despite the Dollar payout being favorable ([paras 14-15]).
+
+### I – Issues
+The main issues at stake involved:
+1. Establishing whether mCubed made any misrepresentations, and if so, whether they were actionable under the requirements for delictual claims arising from negligent misrepresentation ([paras 17-18]).
+2. Determining whether the Trust established factual and legal causation, particularly using the 'but-for' test and understanding the concept of remoteness in damages ([paras 18-27]).
+3. Examining the elements of wrongfulness and negligence within the context of the alleged misrepresentations ([paras 21-22]).
+
+### R – Rules
+Key rules relevant to this matter are derived from established case law on delictual liability in South Africa:
+
+1. **Negligent Misrepresentation**: For a claim to succeed, a plaintiff must demonstrate that a misrepresentation was made, that it was actionable, and that causation (both factual and legal) exists ([para 17]).
+2. **Causation**: The ‘but-for’ test serves as the primary method to establish factual causation. If the plaintiff cannot demonstrate that the loss would not have occurred 'but for' the defendant's actions, the claim fails ([paras 23-24]).
+3. **Legal Causation (Remoteness)**: This considers public policy aspects and whether it would be fair to impose liability on the defendant. A 'flexible test' applies, meaning courts may not strictly adhere to traditional definitions, allowing for considerations of what is just and fair ([paras 27-31]).
+
+The relevant legal precedents include *Telematrix (Pty) Ltd v Advertising Standards Authority SA* 2006 (1) SA 461 (SCA), *Fourway Haulage SA (Pty) Ltd v SA National Roads Agency Ltd* [2008] ZASCA 134, and *International Shipping Co Ltd v Bentley* 1990 (1) SA 680 (A).
+
+### A – Application
+In analyzing the factual basis, the court assessed whether mCubed had made implied representations through conduct, particularly regarding the legality of the investment structure proposed by Cosgrove. The court found that there was indeed an implied representation that the structure was legal ([paras 18-20]).
+
+However, on factual and legal causation, the appeal court took a different view than the court a quo. The court found that while the Trust could establish that it relied on a misrepresentation related to the legality of the investment structure, it failed to prove factual causation. When applying the 'but-for' test, the court concluded that the Trust would likely have hesitated to invest significantly due to prevailing currency conditions and would have sought similar investment opportunities elsewhere even if mCubed had acted lawfully ([paras 24-27]).
+
+Furthermore, on the question of remoteness, the ultimate cause of the Trust's financial loss was the unforeseen appreciation of the Rand against the US Dollar, not merely the alleged misrepresentations by mCubed. The court emphasized that it would be inequitable to hold mCubed liable for losses attributable to external factors such as currency fluctuations ([paras 28-32]).
+
+The alternative claim then faced similar challenges regarding causation. Although the misrepresentation by mCubed on 27 May 2002 was found to be negligent, the subsequent inference that the Trust would have canceled the investment immediately was not convincingly established since the Trust continued to engage with mCubed even after the misrepresentation ([paras 33-37]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld mCubed's appeal, concluding that both primary and alternative claims should be dismissed due to insufficient proof of causation and an overarching remote connection between the alleged misrepresentations and the losses incurred by the Trust. The court overturned the lower court’s judgment, emphasizing the necessity of rigorously applying causation principles and public policy considerations in tort claims, particularly those involving economic losses [(Conclusion Order part 1a-b)].
+
+This case illustrates the intricate nuances of claims arising from economic losses due to misrepresentations and the judicial system's approach to causation, emphasizing the balance between legal accountability and equitable outcomes in financial dealings.

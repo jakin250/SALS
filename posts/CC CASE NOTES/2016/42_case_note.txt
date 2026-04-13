@@ -1,0 +1,44 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note - Masstores (Pty) Limited v Pick n Pay Retailers (Pty) Limited [2016] ZACC 42
+
+## FIRAC Method
+
+### F - Facts
+The case revolves around an alleged unlawful interference with contractual relations between the parties involved. The applicant, *Masstores (Pty) Limited*, operates as a tenant in the Capegate Shopping Centre, which is owned by *Hyprop Investments Limited*. The respondent, *Pick n Pay Retailers (Pty) Limited*, had a lease agreement with Hyprop which included an exclusivity clause, granting it exclusive rights to operate as a supermarket in the complex, thereby preventing other supermarkets from trading in the same space.
+
+The leases were structured as follows: Masstores entered its lease on 20 February 2006, agreeing not to operate as a general food supermarket unless no such supermarket had operated there for 90 consecutive days. Pick n Pay's lease, established later on 11 May 2006, explicitly prohibited Hyprop from allowing other supermarkets in the shopping centre. In 2013, Masstores began to operate a general supermarket, at which point Pick n Pay became aware of potential violations of its exclusive rights.
+
+After failing to secure a satisfactory response from Hyprop regarding this breach, Pick n Pay sought a final interdict against Masstores in the High Court to prevent further interference with its contract. The High Court granted this interdict, reinforcing Pick n Pay's claim of unlawful interference based on Masstores' breach of its own lease with Hyprop, which Pick n Pay argued effectively infringed upon its contractual exclusivity rights. However, both the High Court and Supreme Court of Appeal subsequently confirmed the validity of the interdict against Masstores ([1]-[6]).
+
+### I - Issues
+The issues central to this case include the following:
+
+1. Whether Pick n Pay's claim for an interdict against Masstores constitutes actionable interference with contractual relations, despite there being no direct contractual relationship between the two.
+2. Whether the requisite elements for obtaining a final interdict—clear right, injury, and absence of an alternative remedy—have been satisfied by Pick n Pay in its claim against Masstores ([11]-[12]).
+
+### R - Rules
+The primary legal principles governing this case derive from South African delictual law, particularly concerning unlawful interference with contractual relations. The key case law referenced includes:
+
+- **Setlogelo v Setlogelo:** This case sets forth the requirements for obtaining a final interdict, namely that the applicant must establish (a) a clear right, (b) injury either actual or reasonably apprehended, and (c) the absence of an adequate alternative remedy.
+  
+- **Country Cloud Trading CC v MEC, Department of Infrastructure Development:** This case explored the concept of wrongfulness in situations involving contractual interference and contributed to the broader understanding of delictual liability in South Africa. Two principal inquiries arise: whether wrongfulness must be established positively or can be assumed, particularly in cases of deprivation of contractual rights ([8]-[12]).
+
+### A - Application
+In determining the applicability of the law to the facts, the majority judgment, authored by Froneman J, distinguishes between unlawful interference rooted in contractual rights and that based on delict. Froneman J identifies that:
+
+1. There is no direct contractual relationship between Masstores and Pick n Pay, making it necessary to examine whether the failure of Masstores to adhere to Hyprop’s lease constitutes wrongful conduct actionable by Pick n Pay in a delictual sense.
+  
+2. The court re-evaluates the sufficiency of the existing legal framework for establishing clear rights. It finds that while contractual exclusivity exists, it does not automatically extend to a cause of action for interdictory relief against third parties by virtue of the nature of rights in contract (in personam) versus rights that exist against the world (in rem).
+
+3. Froneman J's analysis also highlights the necessity of demonstrating actual harm beyond mere interference; accordingly, he questions the degree of fault (culpability) required for establishing wrongfulness ([21]-[24]). The emphasis is placed on whether Masstores’s actions could be viewed as a usurpation of Pick n Pay's rights rather than mere deprivation of benefits.
+
+Meanwhile, Jafta J dissents, focusing on the discretionary nature of granting interdicts and positing that consideration should be given to the viability of alternative remedies. He emphasizes that Pick n Pay adequately established the conditions for interdicts grounded in violating contractual rights, whether they arise from delict or contract ([55]-[106]).
+
+### C - Conclusion
+Ultimately, the majority judgment concluded that Pick n Pay did not successfully demonstrate an actionable cause of action against Masstores given the absence of an enforceable right directly applicable to Masstores from Pick n Pay's lease with Hyprop. The appeal led to the decisions of the lower courts being overturned, with the Constitutional Court ruling in favor of Masstores.
+
+The implications of this judgment are significant for the interpretation of wrongful interference in contractual relationships, particularly where third-party rights are concerned. This decision emphasizes the importance of having enforceable rights in matters of exclusivity and underscores the limitations inherent in delictual claims in the absence of direct relationships. The judgment paves the way for further clarification on the thresholds necessary for establishing delictual liability in similar commercial disputes. 
+
+Froneman J's final order called for costs against Pick n Pay, reflecting the constitutional court's standpoint on the need for clarity in commercial dealings and protections against contractually created exclusivity that do not translate into actionable rights against third parties ([54]-[54]).

@@ -1,0 +1,35 @@
+Case Note: REPORTABLE
+Source Folder: 2013
+
+# Case Note: SANRAL v The Toll Collect Consortium (796/2012) [2013] ZASCA 102 (12 September 2013)
+
+## FIRAC Method
+
+### F – Facts
+In this case, the South African National Roads Agency Limited (SANRAL), responsible for national roads in South Africa, invited tenders for the operation of the N2 South Coast Toll Plaza ([1]). Four tenders were submitted, with the contract awarded to Tolcon Lehumo (Pty) Ltd, the second respondent. The first respondent, The Toll Collect Consortium, sought a review of the tender award in the KwaZulu Natal High Court, arguing that its bid was improperly disqualified due to a quality score of only 64.49 points, below the required threshold of 75 points ([1], [2]). The high court ruled in favor of the Consortium, ordering SANRAL to reconsider the tenders while disqualifying the original evaluators ([1]).
+
+### I – Issues
+The primary legal issues involved were:
+1. Whether The Toll Collect Consortium had standing to challenge the award ([3]).
+2. Whether SANRAL’s quality assessment process lacked transparency and objectivity, thus constituting unfair administrative action ([9], [12]).
+3. Whether the court had the jurisdiction to review the tender process under the applicable laws and constitutional principles ([3]).
+
+### R – Rules
+The legal framework included transparency and fairness in the procurement process as mandated by Section 217 of the South African Constitution. Relevant statutory provisions included the Supply Chain Management Policy and Procedure Manual and the Preferential Procurement Policy Framework Act (PPPFA) ([9], [10]). Precedent was set in *Minister of Environmental Affairs and Tourism & another v Scenematic Fourteen (Pty) Ltd*, where the court discussed the necessity of transparency in scoring and evaluative criteria within the tender process ([11]).
+
+### A – Application
+The court examined the nature of SANRAL's quality assessment process, which involved evaluating tender quality in two stages: initial quality assessment followed by price and BEE contributions. The Consortium's disqualification stemmed from not meeting the requisite quality score ([2], [6], [24]).
+
+The court assessed SANRAL's contention regarding the transparency of the scoring process. SANRAL argued that it had adequately outlined the required areas for tenderers without needing to disclose the detailed breakdown of points. Thus, it contended that the Consortium's claims of prejudice due to non-disclosure were unfounded ([10], [12]). The court evaluated the argument that a lack of transparency could render the process unfair, emphasizing that this would require evidence of actual prejudice ([16], [20]).
+
+The court noted that while transparency must enable public scrutiny, the mere lack of disclosure regarding nuanced scoring specifics did not render the entire evaluation process illegitimate. It distinguished between subjects requiring complete objective criteria and those relying on expert judgment, concluding that evaluators must possess discretion in weighing various assessment factors ([18], [20]).
+
+Moreover, the court indicated that the Consortium did not adequately substantiate its claims of prejudice stemming from the alleged lack of information. Its arguments centered around hypothetical scenarios rather than evidence of how additional information would have changed the tender's outcome ([16], [22], [24]).
+
+### C – Conclusion
+Ultimately, the Supreme Court of Appeal upheld SANRAL's appeal, overturning the high court's decision and affirming that the tender evaluation process complied with constitutional and statutory requirements. The court ruled that the principles of transparency and objectivity were satisfied and that the Consortium failed to prove that the lack of deeper disclosure constituted legal grounds for disqualification ([29]).
+
+#### Implications
+The judgment clarifies the obligations of public procurement entities to tenderers regarding the scope of information disclosure required for transparency, reaffirming the standards for compliance with objective evaluation criteria in the tender process. It also underscores the judiciary’s reluctance to interfere with administrative decisions absent evidence of substantial prejudice or misconduct, thus promoting stability and predictability in public procurement.
+
+**Key Takeaway:** The case affirms that the transparency required in the tender process does not extend to exhaustive pre-disclosure of scoring methodologies, emphasizing the role of discretion and expertise in evaluations while protecting the integrity of procurement processes from unwarranted judicial interference.

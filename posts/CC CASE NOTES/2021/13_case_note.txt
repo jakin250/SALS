@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: University of Johannesburg v Auckland Park Theological Seminary and Another [2021] ZACC 13
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–10])
+The case involves a dispute between the University of Johannesburg (Applicant, UJ) and Auckland Park Theological Seminary (First Respondent, ATS), along with Wamjay Holdings Investments (Pty) Limited (Second Respondent, Wamjay), concerning the cession of rights in a long-term lease agreement. The dispute arose from a 1996 long-term lease between UJ and ATS for premises intended for educational purposes. UJ, the owner of the premises, consented to lease them to ATS based on its commitment to provide higher education.
+
+ATS ceded its rights under the lease to Wamjay without notifying UJ or seeking its consent, which UJ argued constituted a repudiation of the lease agreement. UJ claimed that the rights under the lease were personal (delectus personae) to ATS, thus incapable of cession without UJ's approval. The High Court ruled in favor of UJ, affirming the personal nature of the agreement, but the Supreme Court of Appeal subsequently overturned this decision and dismissed UJ's claim, determining that the lease rights were transferable.
+
+## I – Issues: Legal or Constitutional Questions ([paras 21–24])
+The main legal issues to be determined include:
+1. Whether the Supreme Court of Appeal erred in its approach to delectus personae in relation to the rights conferred by the lease.
+2. If a contextual approach is required in assessing whether the lease rights are personal and therefore incapable of being ceded, considering the implications of the parol evidence rule.
+3. Whether the cession constituted a repudiation of the lease agreement, allowing UJ to rightfully cancel the contract.
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 57–59, 88–90])
+The court relied heavily on principles surrounding delectus personae established in prior rulings, including *Eastern Rand Exploration Co Ltd v A J T Nel* and *Boshoff v Theron*. The legal notion of delectus personae holds that where personal confidence is essential to a contract, rights cannot be ceded without the consent of the debtor. The court determined that the nature of rights in a lease agreement must be interpreted holistically, taking into account relevant statutory frameworks and contextual evidence surrounding the agreement's conclusion.
+
+Additionally, the parol evidence rule, which restricts the admissibility of extrinsic evidence contradicting a written agreement, was considered in determining whether UJ's evidence, which aimed to contextualize the nature of the lease rights, could be admitted.
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 63–110])
+The Constitutional Court found that the Supreme Court of Appeal erred in interpreting the lease consistently with the sole textual analysis approach and excluding contextual evidence necessary for proper interpretation. The court underscored the established need for a contextual interpretation in line with the principles established in *Endumeni* and subsequent cases, emphasizing that contractual interpretation is a dual process that requires looking at the text in its situational context.
+
+Upon consideration of the specific facts surrounding the lease, including the nature of the interrelations between the parties, the purpose of the lease, and the statutory approvals obtained, it was determined that the rights conferred by the lease were indeed personal to ATS. Thus, they could not be ceded to Wamjay without UJ’s consent. Accepting the cession’s terms led to the undermining of the primary purpose of the lease (establishing a theological college), indicating a clear repudiation by ATS.
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 121–123])
+The court concluded that UJ was entitled to have contextual evidence admitted for interpreting the lease agreement and that ATS was not permitted to cede its rights to Wamjay without UJ's agreement. Consequently, ATS's actions constituted a repudiation of the lease, thus justifying UJ in canceling the agreement. The judgment reversed the Supreme Court of Appeal's decision, reinstating the rulings of the High Court and Full Court in favor of UJ. This ruling reinforces the significance of both the contextual approach in contract interpretation and the principle that rights can be deemed personal, which enhances the legal understanding surrounding delectus personae in lease agreements.
+
+---
+
+### References
+1. *Eastern Rand Exploration Co Ltd v A J T Nel* 1903 TS 42 (Innes CJ formulation).
+2. *Boshoff v Theron* 1940 TPD 229.
+3. *Endumeni Municipality v Natal Joint Municipal Pension Fund* 2012 (4) SA 593 (SCA).
+4. *University of Johannesburg v Auckland Park Theological Seminary (Pty) Ltd* 2017 JDR 1991 (GJ).
+5. *Auckland Park Theological Seminary v University of Johannesburg* 2018 JDR 1631 (GJ).
+6. *KPMG Chartered Accountants (SA) v Securefin Ltd* [2009] ZASCA 7.
+7. *Datacolor International (Pty) Ltd v Intamarket (Pty) Ltd* [2000] ZASCA 81.

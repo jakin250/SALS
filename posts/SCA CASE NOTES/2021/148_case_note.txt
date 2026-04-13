@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: JP Markets SA (Pty) Ltd v The Financial Sector Conduct Authority
+
+**Court**: Supreme Court of Appeal of South Africa  
+**Neutral Citation**: JP Markets v FSCA (Case no 460/2021) [2021] ZASCA 148 (20 October 2021)  
+**Coram**: Petse AP and Van der Merwe, Mbatha, Hughes JJA, and Molefe AJA  
+**Heard**: 21 September 2021  
+**Delivered**: 20 October 2021  
+
+### F – Facts ([paras 1–19])
+
+In this case, the Financial Sector Conduct Authority (the Authority), empowered by the Financial Sector Regulation Act 9 of 2017, sought the winding-up of JP Markets SA (Pty) Ltd (JP Markets) under section 96 of the Financial Markets Act 19 of 2012 (FMA). The Gauteng Division of the High Court had previously granted the application, leading to JP Markets' appeal. The case primarily revolved around whether the Authority met the necessary statutory requirements to file for liquidation and whether it proved a case for winding-up.
+
+JP Markets held a Category 1 financial services provider (FSP) license but operated as an over-the-counter (OTC) derivative provider (ODP) without the necessary licensing. A significant volume of client complaints highlighted alleged failures by JP Markets to honor payment requests and maintain platform accessibility. An internal investigation conducted by the Authority indicated potential misconduct, primarily failing to hold an ODP license to transact in OTC derivatives ([paras 1–12]).
+
+The Authority's liquidation application was based on over one hundred client complaints and evidence of JP Markets operating as an ODP without a valid license. The court a quo concluded that the company’s persistent non-compliance was grounds for a winding-up order ([paras 17–19]).
+
+### I – Issues ([paras 19–24])
+
+The case presented several key legal questions:
+1. Did the Authority meet the statutory jurisdictional prerequisites for instituting a winding-up application under section 96 of the FMA?
+2. Was it just and equitable to order the winding-up of JP Markets given its solvent status and ongoing business operations?
+3. Did the ongoing investigation preclude the Authority from applying for winding-up due to the requirement of a concluded investigation?
+
+### R – Rules ([paras 20–29])
+
+The relevant legal framework involves the Financial Markets Act 19 of 2012 (FMA), specifically section 96, which provides the Authority the power to apply for the winding-up of a financial services provider after conducting an investigation or on-site inspection. Complementarily, section 38B of the Financial Advisory and Intermediary Services Act 37 of 2002 (FAIS Act) allows for similar applications to protect public interest.
+
+Key aspects include:
+- Section 96 of the FMA allows the Authority to seek court intervention without needing a concluded investigation. The legislative language indicates that "an investigation has been conducted," rather than requiring its completion.
+- The Companies Act 71 of 2008 (Companies Act) provides the grounds for winding-up in terms of 'just and equitable,' allowing courts to determine cases based on public interest considerations ([paras 20–22]; [29]).
+
+### A – Application ([paras 30–40])
+
+The Supreme Court of Appeal analyzed whether the Authority had the standing to apply for winding-up based on its investigation into JP Markets' operations. The interpretation of "an investigation has been conducted" was central to this determination. The court concluded that no requirement existed for the investigation to conclude before seeking liquidation as this requirement was absent from the statutory language. 
+
+The court also considered the question of whether winding-up was 'just and equitable.' Factors included JP Markets' solvent status, substantial cash equity, and extensive client engagement. It highlighted that the complaints from clients, although numerous, were not representative of a systemic risk given the scale of JP Markets' operations. Furthermore, JP Markets had applied for its ODP license and was awaiting approval, emphasizing the potential for alternative remedies rather than liquidation. The court underscored that winding-up would not serve the FMA's objectives—it wouldn't enhance the stability or integrity of the financial markets ([paras 30–41]).
+
+### C – Conclusion ([paras 41–42])
+
+The Supreme Court of Appeal found the decision of the court a quo to be in error, as winding-up was determined not to be just and equitable given JP Markets' solvent status, absence of systemic issues, and pending ODP license application. Therefore, the appeal was upheld, and the winding-up application was dismissed with costs.
+
+This case serves as a pivotal example of how regulatory frameworks are intended to function in the public interest, reinforcing the notion that alternative measures should be considered before resorting to the drastic step of liquidation. The judgment highlights the balance between regulatory compliance and the legitimate business operations of financial service providers, thereby setting a precedent for future cases involving the interpretation of statutory powers within the financial sector ([paras 41–42]).

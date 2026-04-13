@@ -1,0 +1,30 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: FIRAC Method for De Wet and Another v Khammissa and Others (358/2020) [2021] ZASCA 70
+
+### F - Facts
+The case revolves around two conflicting decisions made by the Master of the High Court, Gauteng Division, Johannesburg, regarding the appointment of liquidators for Duro Pressing (Pty) Ltd (in liquidation). On 31 August 2017, the Master refused to appoint Gert Louwrens Steyn De Wet and Johan Francois Engelbrecht (the appellants) as additional joint trustees of Duro. This first decision was communicated to the appellants and the relevant parties through an official letter and accompanying certificate of appointment, which reflected the respondents as the only joint liquidators. Under Section 371(1) of the Companies Act 61 of 1973, the appellants, aggrieved by this decision, had the right to request the Master to provide reasons for the refusal to appoint them, but they did not utilize this option. 
+
+Instead, after a request from attorneys acting on behalf of undisclosed creditors, the Master reconsidered the matter and on 25 October 2017 issued a second decision appointing the appellants as additional joint liquidators of Duro alongside the respondents ([paras 2–4]). This led to an application in the Gauteng High Court by the respondents seeking to review and set aside the second decision, asserting that the Master had exceeded her powers (ultra vires) and that the second decision was procedurally unfair ([paras 5–6]).
+
+### I - Issues
+The fundamental issues before the court included:
+1. Whether the respondents had the locus standi (legal standing) to challenge the second decision of the Master regarding the appointment of liquidators to Duro ([paras 7–10]).
+2. Whether the Master was functus officio, meaning whether her first decision was final and binding such that she lacked the authority to revoke it with a subsequent decision ([paras 11–15]).
+
+### R - Rules
+The legal framework governing the case includes:
+1. **Companies Act 61 of 1973**, particularly Section 371, which provides a mechanism for aggrieved persons to contest the appointment of liquidators, stipulating that any such person may request the Master to submit her reasons for her decision to the Minister of Justice ([para 1]).
+2. **Insolvency Act 24 of 1936**, particularly Section 151, which the court examined to assess the applicability for seeking review ([para 8]).
+3. The **principle of functus officio**, which indicates that once a decision has been made and communicated, it becomes final and cannot be revoked without specific statutory authority ([para 15]).
+
+### A - Application
+In determining the locus standi of the respondents, the court examined prior case law to discern who qualifies as an "aggrieved person" under Section 371. The court noted inconsistencies among different provincial court decisions on the interpretation of this term, ultimately adopting a broader interpretation to conclude that the respondents indeed qualified as aggrieved persons (citing Geduldt v The Master and Patel v The Master of the High Court) ([paras 8–10]).
+
+The critical aspect of the case lay in evaluating whether the Master was functus officio after the first decision. The court highlighted that the Master’s communication of the first decision and the issuance of the appointment certificate constituted overt administrative acts that fulfilled the requirement for finality. Consequently, the court found that the first decision had passed into the public domain and was thus irrevocable ([paras 11–18]). The second decision, which followed, was deemed invalid as it lacked any statutory basis for revoking the first order, leading to the conclusion that the Master had no authority to issue a second decision once the first was made ([paras 12–18]).
+
+### C - Conclusion
+The Supreme Court of Appeal dismissed the appeal by the appellants, thus upholding the decision of the Gauteng High Court. The court confirmed that the Master was functus officio and lacked the authority to issue the second decision, which it deemed a nullity. The ratio decidendi emphasized the importance of clarity in authority and decision-making processes in administrative law, while simultaneously indicating that the respondents had duly established their legal standing in contesting the Master’s actions. The appeal was dismissed with costs ([paras 18]).
+
+This case serves as a pivotal reference point regarding the application of administrative law principles within the context of liquidations and appointments in South Africa, highlighting the interplay between authority and the scope of review available to aggrieved parties under statutory provisions.

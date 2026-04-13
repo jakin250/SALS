@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: City of Cape Town v Aurecon South Africa (Pty) Ltd [2017] ZACC 5
+
+### Facts
+The case arises from a judicial review application initiated by the City of Cape Town (the City) against a tender awarded to Aurecon South Africa (Pty) Ltd (Aurecon) for the decommissioning of the Athlone Power Station. The City initiated the review based on alleged procedural irregularities occurring during the tender process, claiming violations of the Promotion of Administrative Justice Act 3 of 2000 (PAJA) ([1–2]). 
+
+The background situates the tender award within the context of a high-level pre-feasibility study conducted by a joint venture that included Aurecon. Despite initial plans to involve the joint venture in preparing tender documents, the City decided to proceed internally while creating an expectation that Aurecon would participate in tendering for project management ([3–4]). Aurecon submitted tenders for two subsequent invitations to tender, with its bid being the only responsive one after the others were declared non-responsive ([5–6]). 
+
+Invariably, the tender was awarded under the conditions set out in the Local Government: Municipal Finance Management Act 56 of 2003 (MFMA), which governs financial commitments extending beyond a single financial year ([6]). The City became embroiled in controversy when allegations arose concerning procedural irregularities, ultimately leading to an investigation by Ernst & Young; their findings indicated that Aurecon had gained an unfair advantage due to its previous involvement in the tender process ([8–9]). Consequently, the City sought to annul the tender award and instituted judicial review proceedings 532 days after the decision, citing a failure to comply with the 180-day limit set by PAJA ([11–12]).
+
+### Issues
+The primary legal issues involved:
+
+1. Whether the City’s application for review was brought within the 180-day time limit prescribed by section 7(1) of PAJA and the prerequisite for condonation under section 9 of PAJA ([18–24]).
+   
+2. Whether Aurecon’s prior involvement with the project for which it tendered constituted grounds for its disqualification under regulatory provisions ([40–41]).
+
+### Rules
+The court relied on various legal rules and statutory provisions:
+
+1. **PAJA** - Section 7(1) and Section 9(1): Require any judicial review to be instituted without unreasonable delay and within 180 days of the administrative action being aware of the action and its reasons ([17]). 
+
+2. **MFMA** - Governs the conducting of municipal financial affairs, requiring public transparency and involvement in all tendering processes ([6]).
+
+3. **Supply Chain Management Regulations** - Including clause 95 and Regulation 27(4), which disallow participants involved in preparatory work from subsequently tendering for that work ([27]).
+
+### Application
+In considering the issues, particularly the time frame for when the 180-day period commenced, the court rebuffed the City's argument that the period only began once it received knowledge of all irregularities from the Ernst & Young report. Instead, it highlighted that the decision by the Bid Adjudication Committee (BAC) was made with knowledge of the relevant events and challenges, thereby starting the time limit upon the BAC's decision ([38–40]). 
+
+Assessing the application for condonation, the court concluded that the City provided an unsatisfactory explanation for the significant delay of 532 days in bringing the application ([45–51]). The court pronounced that there is a higher duty upon the state to conform strictly to legal and procedural norms, particularly while handling public tenders, and that the rationale for condonation must be compelling. The lack of systematic justification leaned against granting the condonation request ([46–52]).
+
+A consideration of the merits regarding Aurecon's disqualification was curtailed as the case was dismissed based on procedural issues; thus, the intricacies of the interpretation of clauses governing tender disqualifications were left unresolved ([54]).
+
+### Conclusion
+The Constitutional Court ultimately refused to grant leave to appeal, upholding the ruling of the Supreme Court of Appeal that the City's application had been made beyond the legal time frame specified in PAJA. The Court found no adequate justification for the excessive delay and did not engage with the substantive issues of Aurecon’s prior involvement in the project, as it deemed the allegations of procedural irregularities insufficient to warrant judicial review ([56–57]). The ruling underscores the critical nature of adherence to statutory processes in public procurement and the weight afforded to timelines set out in legislative frameworks.
+
+**Order**: Leave to appeal is refused. The application is dismissed with costs, including the costs of two counsel.

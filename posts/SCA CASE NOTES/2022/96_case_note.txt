@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Alert Steel (Pty) Ltd v Mercantile Bank Ltd
+
+**Neutral Citation**: Alert Steel (Pty) Ltd v Mercantile Bank Ltd (case no 165/21) [2022] ZASCA 96 (21 June 2022)
+
+**Coram**: Van Der Merwe, Molemela, Schippers JJA and Musi and Matojane AJJA
+
+## F – Facts
+
+The core facts of the case revolve around the liquidation of Alert Steel (Pty) Ltd (the company), which previously operated as a wholesaler and retailer of steel and hardware products. In March 2014, Mercantile Bank Limited (the bank) granted the company an overdraft facility amounting to R104 million, secured by several securities, including a registered notarial bond over the company’s assets ([2]).
+
+Following the company's placement in voluntary business rescue in May 2014, the bank cancelled the overdraft facilities and demanded repayment. The situation escalated when CGIC, another creditor, initiated a court application to set aside the business rescue resolution, leading eventually to the company being provisionally wound-up by the High Court in July 2014 ([3]–[5]).
+
+On the same day as the liquidators' appointment, West Lake Trade and Investments (Pty) Ltd submitted an offer of R100 million for the company's assets, which eventually included stock, movable assets, and debts. Accepting this offer required agreement with the bank, which imposed conditions that would not benefit the insolvent estate ([6]–[8]).
+
+Following the sale of assets, there was a notable reduction in the company’s debt to the bank. Specifically, the amount owed, initially R106,138,295.35, was decreased substantially due to the transaction ([9]). The liquidators and the bank acted under the premise that the bank was a secured creditor throughout this process.
+
+Issues arose post-sale regarding the claim to revert funds, with Alert Steel alleging that the bank's retention of certain amounts was unlawful. The company sought repayment of R105,226,381.17 on the grounds of the condictio indebiti or condictio sine causa, asserting that the receipt of those funds by the bank was ultra vires due to its lack of a proven claim ([1], [14]).
+
+## I – Issues
+
+The primary issue on appeal was whether Alert Steel, as a liquidated company, was entitled to seek repayment of the funds received by the bank on the basis that such receipt was ultra vires due to the bank's failure to prove its claim in the insolvency proceedings ([1], [12]). This encompassed multiple sub-issues, including:
+
+1. Whether the actions of the liquidators exceeded their powers under the Insolvency Act, justifying a claim for enrichment.
+2. Whether the bank had been unjustly enriched at the expense of the company.
+3. The applicability and interpretation of the condictio indebiti or condictio sine causa in this context.
+
+## R – Rules
+
+The court relied on several legal principles, particularly those associated with claims for unjust enrichment, including the condictio indebiti (recovery of an amount paid by mistake) and condictio sine causa (recovery when a benefit is gained without a legal basis) ([17], [22]). 
+
+Key statutory provisions discussed include:
+
+- **Section 44 of the Insolvency Act 24 of 1936**: This section governs claims against an insolvent estate and circumstances under which secured creditors may enforce their security.
+- **Section 83(10)** of the Insolvency Act, which addresses the powers and limitations of liquidators, emphasizing the requirement that liquidators operate within their legally authorized powers when dealing with estate assets ([17]).
+
+Precedent cases referenced include **Bowman v Fidelity Bank Ltd**, which elucidated the conditions under which an ultra vires payment could be reclaimed, and **Van Wijk’s Trustee v African Bank Corporation**, addressing payment mismanagement by executors and trustees ([18]–[22]).
+
+## A – Application
+
+The court examined the factual context and legal framework of the case. Its analysis revealed that the liquidators did not act outside their powers, as the Master had authorized the sale of the assets. Consequently, the sale's validity was upheld, making the distribution of proceeds to the bank lawful under the provisions of the Insolvency Act ([18], [20]).
+
+In considering the condictio claims, the court found the following critical insights:
+
+1. **Lack of Enrichment**: The bank did not gain at the company’s expense because the funds received were, in effect, repayment for a valid debt. The liquidators acknowledged the company's existing debt to the bank and the legitimacy of the debt reduction resulting from the transaction ([23], [25]).
+   
+2. **Impoverishment**: As the company owed more than it received, it could not demonstrate impoverishment as required for a successful claim under the condictio ([25]).
+   
+3. **Unjust enrichment**: The company had not established that the bank's retention of the funds was unjustified. The court noted that their legal relationship was governed by enforceable contractual obligations which justified the payment ([26]).
+
+Ultimately, the court found that the conditions necessary for a successful claim for unjust enrichment were not met. The aspects of the alleged ultra vires payments were insufficient to override the validity of the transactions conducted under the proper legal framework ([22], [28]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed Alert Steel's appeal, affirming the lower court's ruling that the bank was not liable to repay the amounts in question. The court's findings underscored the principle that liquidators must operate within their prescribed legal authority and that any enrichment claims must meet stringent requirements of demonstrating both enrichment and impoverishment ([28]).
+
+This decision reinforces the importance of clarity in the roles and powers of liquidators within insolvency proceedings while emphasizing the obligations of creditors regarding claims against insolvent estates. It also highlights the complexities surrounding claims for formation of unjust enrichment under South African law.
+
+The appeal was thus dismissed with costs, including those for two counsel, reflecting the court’s endorsement of the prevailing interpretations of unjust enrichment within the context of insolvency ([28]).

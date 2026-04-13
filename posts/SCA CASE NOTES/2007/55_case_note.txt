@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: ER24 Holdings v Smith NO [2007] SCA 55 (RSA)
+
+### F – Facts: 
+The case revolves around an incident on 10 August 2003, where Ms. Romy Staracek (Romy) was seriously injured as a passenger in a vehicle driven by Ms. Natasha Swanepoel, whose negligence caused the accident. At the time, Natasha was acting in the course and scope of her employment with Emergency Room Company (Pty) Ltd, trading as ER24, an emergency service provider. Romy, a volunteer worker, was gaining vocational experience to qualify as a paramedic, thereby assisting in an operation-related task while on the way to an accident scene ([para 1]).
+
+Following the accident, Adv Irvin Smith was appointed as curator ad litem for Romy, who initiated a damages claim exceeding R7 million against ER24. ER24 raised two special pleas denying liability: first, asserting Romy qualified as an 'employee' under the Compensation for Occupational Injuries and Diseases Act 130 of 1993 ('the Act'), which would prohibit her claim; and second, positing a contractual exclusion of liability for injuries sustained by Romy ([para 2]).
+
+### I – Issues:
+The primary legal questions before the court were:
+
+1. Whether Romy was considered an 'employee' as defined under section 1 of the Act, thus precluding her from pursuing damages against ER24 for the occupational injury sustained ([para 3]).
+2. In the event the court determines Romy was an employee, whether the contractual clause signed by Romy serves as an effective exclusion of liability for ER24 ([para 11]).
+
+### R – Rules:
+The court applied various statutory and judicial interpretations to reach its conclusions:
+
+1. **Definition of Employee**: The Act defines 'employee' in section 1 as someone working under a contract of service regardless of remuneration form. The definition includes remuneration 'in kind' but requires it to have an objectively discernible value ([para 3]).
+   
+2. **Prohibition Against Waiver of Rights**: Section 33 of the Act voids any agreement where an employee relinquishes statutory benefits afforded by the Act ([para 4]).
+   
+3. **Contractual Exemption Clauses**: The applicability of exemption clauses was governed by principles outlined in previous case law, as established in Durban’s Water Wonderland (Pty) Ltd v Botha, which articulates the necessity for clarity in such clauses and the contra proferentem rule in case of ambiguity ([para 11]).
+
+### A – Application:
+1. **Analysis of Employee Status**: The court analyzed whether Romy's exposure to practical emergency service experiences constituted 'remuneration in kind'. It concluded that while ER24 provided Romy with opportunities to gain experience, it did not constitute remuneration having an objectively ascertainable value as per the Act ([paras 6-10]). Consequently, since Romy received no remuneration, she could not be classified as an employee under the Act, which was pivotal in denying her claim against ER24.
+
+2. **Contractual Exclusion of Liability**: Regarding the second plea, ER24 argued that Romy's signed contract indemnified them against claims. However, the court found that the language in the indemnity clause was ambiguous regarding whether it covered injuries to Romy herself or only to third parties. Given ER24's concession of ambiguity, the court applied the contra proferentem rule against ER24, effectively denying the effectiveness of the exclusion clause ([paras 11-13]).
+
+### C – Conclusion:
+The Supreme Court of Appeal ruled against ER24, affirming the lower court's dismissal of both special pleas and confirming that Romy was not classified as an employee under the Act due to the lack of remuneration. Consequently, ER24's argument for the contractual exclusion of liability was dismissed due to ambiguous terms favoring Romy ([paras 10, 14]). The court further ordered ER24 to pay costs, highlighting the implications of clarity in employment contracts and the strict interpretation of indemnity clauses in protective statutory contexts. This ruling underscores the importance of clearly defined terms in agreements, especially when concerning liability arising from workplace injuries.

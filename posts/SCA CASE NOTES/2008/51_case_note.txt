@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2008
+
+# FIRAC Case Note: Mthembu v The State (379/2007) [2008] ZASCA 51
+
+## F - Facts
+
+The appellant, Bongani Mthembu, was a former police officer charged with various criminal offenses, including the theft of two motor vehicles and robbery. He was initially convicted by the Verulam Regional Court in 1998 and sentenced to 23 years' imprisonment. Following an appeal, the Durban High Court confirmed the convictions but reduced the effective sentence to 17 years ([paras 2-3]). 
+
+Key evidence against Mthembu came from Mr. Sudesh Ramseroop, an accomplice, who provided incriminating testimony regarding the appellant's involvement in the thefts and the robbery of a post office. Importantly, Ramseroop disclosed during trial that he had been tortured by the police, which included beatings and electric shocks, before providing crucial evidence leading to the discovery of the stolen cars ([para 8-10, 17-19]).
+
+Mthembu disputed the claims against him, arguing that Ramseroop's testimony was unreliable due to the torture, and contended that the circumstances surrounding the identification parade were flawed and prejudicial to his case ([para 11-12, 14, 33-34]). The key legal question revolved around whether Ramseroop's evidence, particularly regarding the stolen Hilux and a metal box associated with the robbery, could be admitted in light of the torture he endured ([para 1-2, 20-22]).
+
+## I - Issues
+
+1. **Admissibility of Evidence**: Can evidence received from Ramseroop, obtained under duress through torture, be admitted against Mthembu?
+   
+2. **Constitutional Considerations**: How does the South African Constitution, particularly Section 35(5), which speaks to the exclusion of evidence obtained in violation of rights, impact the admissibility of evidence derived from torture?
+
+3. **Impact of Torture on Testimony**: Does the torture experienced by Ramseroop affect the reliability of his testimony, and, if so, should it also render the subsequent evidence inadmissible?
+
+## R - Rules
+
+The legal framework governing the admissibility of evidence in South Africa is primarily outlined in Section 35(5) of the Constitution, which states:
+
+> "Evidence obtained in a manner that violates any right in the Bill of Rights must be excluded if the admission of that evidence would render the trial unfair or otherwise be detrimental to the administration of justice."
+
+Prior to the constitutional era, South African common law allowed for the admission of evidence based on relevance, regardless of how it was obtained, with courts exercising discretion to exclude evidence if its admission would be unfair to the accused ([paras 22-24]). 
+
+Recent cases such as *S v Tandwa* and *S v Pillay* have emphasized the exclusion of improperly obtained evidence for principled reasons, asserting that public policy must guide judicial conduct in such matters ([paras 25-26]).
+
+## A - Application
+
+The court's analysis bifurcated the torturous circumstances surrounding Ramseroop's testimony into two main lines of evidence: that concerning the Hilux and the metal box, and that regarding the Corolla ([paras 35-37]). 
+
+1. **Evidence of the Hilux and Metal Box**: The court found an irrefutable connection between the torture endured by Ramseroop and the evidence he provided regarding these items. It held that this evidence was obtained as a direct result of the constitutional violations, specifically the torture inflicted on Ramseroop ([paras 34-37]). The court emphasized the long-term corrosive impact that accepting such evidence could have on the integrity of the criminal justice system ([para 36]).
+
+2. **Evidence of the Corolla**: In contrast, the evidence related to the Corolla was deemed independently admissible. The court noted that Ramseroop's spontaneous statements regarding this vehicle were made before any constitutional violations occurred. Thus, they were not considered tainted by the torture and could support a conviction on that count ([para 35]).
+
+Ultimately, the court found that admitting the evidence related to the Hilux and the metal box would compromise the integrity of the judicial process and dishonor the administration of justice ([para 36-37]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal concluded that the evidence obtained through torture was inadmissible, leading to the nullification of convictions on counts 2, 4, and 5, while affirming the conviction on count 3 (theft of the Corolla), yet reducing the sentence to four years ([paras 38-40]). 
+
+This case highlights the critical intersection of human rights and criminal law, underlining the judiciary's commitment to upholding constitutional values. The decision not only protected the rights of the individual but also served to reinforce public policy against the use of torture by police. It reflects a shift towards prioritizing human dignity over procedural convenience in the South African legal landscape. Consequently, while Mthembu's criminal activities were substantiated, the manner in which prosecutorial evidence was obtained rendered it inadmissible, safeguarding the integrity of the judicial process.

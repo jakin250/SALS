@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: Motala v The Master (313/13) [2013] ZASCA 185
+
+## F – Facts: Relevant background and procedural history ([paras 1–20])
+On 28 July 2003, Enver Mohammed Motala (first appellant) was appointed as one of four liquidators for Cement Board Industries (Pty) Ltd (CBI). The liquidation process initiated by the liquidators faced delays, continuing into August 2010. During this time, the liquidators were still engaged in litigation against Boake Incorporated (fifth respondent) and Mr. Kevin Wiles (sixth respondent). Subsequently, it was discovered that CBI had been dissolved under section 419 of the Companies Act 61 of 1973 (the Act) in September 2006, at which point Motala filed an application under section 420 of the Act to have this dissolution declared void ([paras 1–2]). 
+
+The application aimed to enable the continuation of the legal proceedings against Boake and Wiles after the unexpected revelation that CBI had been dissolved. The High Court, however, dismissed the application ([paras 2–4]). Motala's founding affidavit provided limited explanation regarding the dissolution despite ongoing litigation, leading to questions about the actions of the liquidators ([para 2]).
+
+## I – Issues: Legal or constitutional questions ([paras 4–20])
+The primary legal issue revolved around whether the court could declare the dissolution of CBI void under section 420 of the Act, effectively allowing the litigation against Boake Inc and Wiles to resume. Specifically, the legal questions included:
+
+1. Whether the declaration that a dissolution is void under section 420 revives prior legal actions that were ongoing at the time of dissolution.
+2. The exercise of the court's discretion in granting or denying such an application, taking into account the specific circumstances surrounding the dissolution ([paras 4–16]).
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 5–19])
+The court's examination of section 420 highlighted two critical components of the law:
+
+1. **Statutory Provisions**: Section 420 of the Companies Act states that the court can declare a dissolution void and allow proceedings against the company as if it had not been dissolved. This provision, unlike some predecessors, specifically permits proceedings *against* the company rather than *by* it ([para 5]).
+
+2. **Case Law**:
+   - In **Morris v Harris** [1927] AC 252 (HL), it was established that actions or awards made during a company's dissolution are void, emphasizing that declarations of dissolution do not retroactively validate steps taken in legal processes during the dissolution period ([paras 6–7]).
+   - Decisions from South African case law echoed this view, including **Pieterse v Kramer NO** 1977 (1) SA 589 (A) and **Ebrahim v Evans NO** 1990 (4) SA 424 (D), further supporting the understanding that legal proceedings are halted upon dissolution ([paras 8–9]).
+
+## A – Application: Analysis of how the court applied the law ([paras 8–19])
+In its deliberation, the court underscored the distinctions drawn by section 420. Reference to the law and persuasive international case law indicated a consensus that dissolution generally results in the cessation of legal proceedings. The court noted difficulties surrounding the interpretation of s 420, particularly regarding whether its application could revitalize prior proceedings.
+
+The court ultimately determined:
+
+1. Based on the case law examined, even if it accepted the appellants' interpretation—that a declaration of void can reinstate ongoing legal proceedings—the appellants would still face challenges due to **discretion** exercised by the court where numerous factors weighed against granting the application ([paras 11–16]).
+   
+2. Key points for the court’s refusal included:
+   - Lack of support from fellow liquidators in the application, raising concerns about legitimacy ([para 15]).
+   - The potentially substantial prejudice to respondents after years of uncertainty in litigation, which the court deemed significant ([para 16]).
+   - No satisfactory explanation of the error leading to the company's dissolution while litigation was ongoing ([paras 17–19]).
+
+This analysis highlighted the necessity for liquidators to act in the creditors’ interest, contending that speculative claims without the backing of creditors undermined the appellants' case ([para 14]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 19–20])
+The Supreme Court of Appeal dismissed the appeal, concluding that the court below properly exercised its discretion in rejecting the application to declare the dissolution void. The ruling indicated that considerations of creditor interests, the legitimacy of the liquidators' actions during the dissolution, and the absence of observable support for the application weighed heavily against the appellants.
+
+The implications of this decision underscore the necessity for liquidators to thoroughly seek the interests of creditors and provide consistent explanations for administrative actions impacting ongoing legal proceedings, as well as the importance of supporting affidavits from all parties involved in liquidation matters ([paras 19–20]).
+
+Hence, the court ordered the appellants to bear the costs associated with the appeal, affirming that such actions should accurately reflect the complexities and responsibilities liquidators face under the Companies Act.

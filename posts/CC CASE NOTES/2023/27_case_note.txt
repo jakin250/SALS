@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Koch & Kruger Brokers CC and Another v Financial Sector Conduct Authority and Others [2023] ZACC 27
+
+### F - Facts
+This case arose from a series of events concerning financial advice rendered by Koch & Kruger Brokers CC (the first applicant) and Deon Kruger (the second applicant) to Mr. George Baben and Mrs. Lucille Baben (the fifth and sixth respondents) regarding investment in property syndication schemes run by Sharemax Investment (Pty) Ltd ([paras 1–2]). In August 2008 and September 2009, the Babens invested R780,000 under the belief that it was a sound and risk-free proposition, based on advice from Kruger. Subsequently, in September 2010, the South African Reserve Bank (SARB) identified Sharemax's activities as unlawful, leading to the cessation of all investor payments and the collapse of the investment scheme ([paras 2–3]).
+
+Following this financial debacle, the Babens lodged a complaint with the Ombud for Financial Services Providers, alleging negligence and failure to provide requisite documentation regarding the investment ([paras 3–4]). The Ombud upheld the complaint and awarded the Babens R780,000 in compensation, a decision contested by the applicants on the grounds of bias, procedural unfairness, and failure to consider critical evidence ([paras 5–8]).
+
+The applicants sought a review of the Ombud's decision in the High Court, framing the matter as a separated issue of whether the Babens' losses were caused by the applicants' alleged negligence or by the SARB's intervention. The High Court ultimately found in favor of the Babens, leading the applicants to appeal the decision, alleging that the Court strayed beyond the separated issue ([paras 11–24]).
+
+### I - Issues
+1. **Causation**: Did the High Court correctly determine that the losses suffered by the Babens were caused by the alleged negligence of the applicants, or was the causative factor the SARB’s intervention?
+2. **Procedural Integrity of Separated Issue**: Did the High Court err in its handling of the separated issue, which was asserted to be strictly regarding causation?
+3. **Rights under Section 34**: Did the handling by the High Court violate the applicants' rights under Section 34 of the Bill of Rights, which guarantees the right to have disputes resolved reasonably and fairly?
+
+### R - Rules
+The following legal rules and precedents were pivotal in the Court's analysis:
+
+- **Financial Advisory and Intermediary Services Act (FAIS Act)**: Sections relevant to the Ombud's procedural conduct and authority, particularly the powers to award compensation ([para 4]), and the standards of care expected from financial service providers ([paras 3–5, 12]).
+  
+- **Promotion of Administrative Justice Act (PAJA)**: Grounds upon which administrative decisions can be reviewed by a court, particularly concerning procedural fairness and the lawful exercise of discretion ([paras 6, 8]).
+
+- **Rule 33(4) of the Uniform Rules**: Pertains to the separation of issues for adjudication, which requires that separated issues be clearly defined and agreed upon by the parties involved ([paras 1, 21]).
+
+- **Legal Precedents**: Previous cases regarding issues of negligence and causation, including *Symons N.O.* and *Oosthuizen*, which set frameworks for analyzing the relationship between advisor conduct and investor losses ([paras 12–13, 25]).
+
+### A - Application
+In its application of these legal rules, the Court scrutinized the procedural handling of the separated issue by the High Court. It noted the lack of a precise definition of the issue, leading to ambiguity and potential overreach by the High Court into areas not argued before them, particularly regarding the findings on negligence ([paras 21–28]). 
+
+The High Court's determination that the Babens’ loss was attributable to the applicants' breach of contract was found to be problematic. The Court emphasized that the nature of the separated issue should have confined the inquiry strictly to whether the Babens’ loss stemmed from the misconduct of the applicants or the SARB's intervention. However, the High Court appeared to extend its judgement to a determination of negligence and breach of contract, issues that had not been distinctly defined or argued as part of the separated issue ([paras 29–33]).
+
+Consequently, the Court highlighted that, even if the applicants believed the High Court’s conclusion on causation was incorrect, it did not merit an appeal as the substantive matter remained tied to the Ombud's authority to determine matters of negligence and causation, which the High Court could not usurp without valid grounds for review under PAJA ([paras 32–36]).
+
+### C - Conclusion
+The Constitutional Court ultimately refused the applicants' request for leave to appeal, concluding that the initial framing of the separated issue was misconceived, and any finding by the High Court on these matters was irrelevant to the review aspect ([paras 34–37]). The judgment served as a reminder of the necessity for clarity and precision in delineating issues for adjudication and the importance of adhering to statutory frameworks governing administrative processes. The consequences of the decision highlighted the imperative that parties involved in litigation maintain clear agreements about the issues at stake, as failure to do so can lead to costly irrelevancies in the adjudicative process.
+
+The implications of this ruling underline the challenges that arise in litigations involving intricate financial disputes, emphasizing the responsibilities of both legal practitioners and adjudicators in accurately defining the scope of issues before the court.

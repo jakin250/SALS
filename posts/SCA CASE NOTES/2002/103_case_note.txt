@@ -1,0 +1,29 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# FIRAC Case Note: Aktiebolaget Hässle and AstraZeneca Pharmaceuticals (Pty) Ltd v Triomed (Pty) Ltd
+
+### F – Facts 
+The case concerns Patent No. 87/2378, held by the first appellant, Aktiebolaget Hässle, and licensed for use by the second appellant, AstraZeneca Pharmaceuticals (Pty) Ltd. The patent pertains to a pharmaceutical preparation containing the active ingredient omeprazole, an effective treatment for gastric and duodenal ulcers, which is sensitive to acidic environments ([paras 2–4]). The respondent, Triomed (Pty) Ltd, imports and distributes a product known as Ulzec, which the appellants allege infringes their patent ([para 3]).
+
+In prior proceedings, the Commissioner of Patents (Southwood J) examined the infringement issue and ruled that Ulzec does not infringe the patent based solely on the interpretation of the patent's claims. The appellants were granted leave to appeal limited to the infringement aspect ([paras 3–4]). The central point of contention is the composition of the subcoating layer of the product; the appellants argue that Ulzec's single compound subcoating does not fall outside the patent's claims, which they argue should be interpreted broadly ([paras 6–10]).
+
+### I – Issues 
+The key legal issue is whether Triomed’s Ulzec product infringes Patent No. 87/2378 by failing to comply with the claims set forth in the patent specification, particularly whether the subcoating layer must consist of more than one excipient or compound ([paras 6–11]). The appeal raises questions of statutory interpretation regarding patent claims and the principles governing purposive construction in patent law ([paras 8–10]).
+
+### R – Rules 
+The legal standards for determining patent infringement were framed in *Letraset Ltd v Helios Ltd* 1972 (3) SA 245 (A) and reiterated in subsequent cases, stating that infringement occurs if the accused product falls within the scope of the patent claims as construed purposively ([paras 7–8]). Courts are required to look beyond a purely literal interpretation and consider the "pith and marrow" of the patent claims ([paras 8–10]). 
+
+In interpreting ambiguous terms or phrases within a patent specification, the court may refer to the broader context of the invention, including the description in the specification and other claims, to understand the inventor's intent ([paras 14–16]).
+
+### A – Application 
+In its analysis, the court applied purposive construction to claim 1 of the patent, noting that the claim defines the subcoating layer dimensionally, not compositionally; it does not specify that the layer must consist of "more than one excipient or compound," but refers instead to a quantity of excipient or compound ([paras 10–16]). The use of the plural form "excipients" and "compounds" was interpreted in light of the entire context of the patent, revealing no intention to exclude a formulation made with a single excipient.
+
+The court concluded that the essential function of the subcoating, as described in the claim, is to provide a water-soluble barrier—a requirement met by Ulzec's composition of polyvinyl pyrrolidone ([paras 11–16]). It also highlighted that the language of the patent and examples included in the specification supported the conclusion that multiple excipients were not a material distinction, and thus the respondent's product infringed the patent claims as structured ([paras 12–16]).
+
+### C – Conclusion 
+The Supreme Court of Appeal upheld the appeal, concluding that Triomed’s product does indeed infringe claim 1 of the patent. The court set aside the prior order of the Commissioner and declared that the respondent is liable for infringement, ordering that the matter of the temporary interdict be remitted back to the Commissioner of Patents for consideration of the remaining issues ([paras 17–18]). This case solidifies the significance of purposive construction in patent law and underscores that minor variations in claim language should not obstruct the core function and purpose outlined by the patent. The implications of this case emphasize a balanced approach to patent enforcement—ensuring that inventions are protected without unduly limiting technological progress through overly stringent interpretations of patent claims.
+
+---
+
+This FIRAC analysis provides a concise yet comprehensive understanding of the legal principles involved in this patent infringement dispute, suitable for academic and professional reference. Further details and a more extensive analysis can expand upon specific case law and statutory contexts as necessary.

@@ -1,0 +1,70 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+### FIRAC Case Note
+
+**Case Title:** Corub Property (Pty) Ltd v Barbuzano (427/2022) [2023] ZASCA 89 (8 June 2023)
+
+**Court:** The Supreme Court of Appeal of South Africa
+
+---
+
+#### F – Facts
+
+The case concerns a legal dispute arising from the interpretation of specific provisions of a lease agreement related to the lessee’s liability for municipal electricity and water charges at the Lindhaven Shopping Centre, Johannesburg ([paras 1–2]). The appellant, Corub Property (Pty) Ltd, as the lessor, initiated proceedings against the respondent, Paul Gancalves Barbuzano, who was the lessee of shop 9, seeking payment of arrear municipal charges. Initially, the Regional Court ordered the lessee to pay R400,000 plus costs. The lessee appealed, and the High Court partly upheld the appeal, failing to set aside the initial order. Subsequently, the Supreme Court of Appeal granted special leave to hear the lessor’s appeal against the High Court’s decision ([paras 3–4]).
+
+Evidence revealed that the shopping centre's utility account had transitioned from management by a previous utility company to Collective Utility Management (CUM), which handled meter readings and invoicing ([paras 4–5]). Key to the dispute were whether the lessee was liable for the kilovolt amp (KVa) charges in addition to the kilowatt hour (KWh) charges defined in the lease agreement and whether these charges had been properly documented and calculated ([paras 6–7]).
+
+The lease agreement contained provisions stipulating that the lessee was responsible for paying the cost of electricity consumed on the premises, calculated according to applicable municipal by-laws ([paras 10–11]). It emerged that the lessee operated a supermarket with significant electricity demands and that the electricity meter recorded both KVa and KWh ([paras 8–10]).
+
+The High Court ruled that the lessee was not liable for the KVa component; however, key issues persisted regarding whether this determination was grounded in the evidence presented, especially since the lessee had not formally contested specific aspects of the charges during trial ([paras 12–13]).
+
+---
+
+#### I – Issues
+
+The principal legal questions in this appeal were:
+
+1. **Interpretation of the Lease**: Did the lease agreement clearly establish the lessee's liability to pay for KVa charges alongside KWh charges?
+   
+2. **Burden of Proof**: Had the lessor successfully established the amount owed by the lessee for the charged municipal electricity and water services based on the agreement and the collected data?
+
+3. **Procedural Fairness**: Was the High Court correct in its assessment of the evidence and relevant claims, particularly considering the lessee's initial lack of pleading regarding the obligation for KVa charges?
+
+These issues encapsulate the contractual obligations under the lease, the admissibility and evaluation of evidence pertaining to utility charges, and the overarching principle of fair adjudication ([paras 1–20]).
+
+---
+
+#### R – Rules
+
+The Court relied on several foundational rules and legal principles:
+
+1. **Contract Interpretation**: The Supreme Court reiterated that contract interpretation prioritizes the ordinary meaning of the text and the intention of the parties, guided by context and purpose ([para 6]). Established jurisprudential principles, such as those articulated in *Capitec Bank Holdings Limited and Another v Coral Lagoon Investments 194 (Pty) Ltd and Others*, guide these interpretations ([para 11]).
+
+2. **Burden of Proof**: Courts have often held that the burden of proof lies on the party asserting a claim, in accordance with standard practices in civil litigation ([paras 16–20]). The precedential case of *Member of the Executive Council, Department of Education, Eastern Cape v Komani School and Office Suppliers CC* emphasizes that courts should only decide issues presented by the parties ([para 13]).
+
+3. **Credibility of Witnesses**: The adjudicating court's findings on the credibility of witnesses and the sufficiency of the evidence presented are paramount in ascribing liability and determining the validity of claims ([para 18]).
+
+---
+
+#### A – Application
+
+The Supreme Court assessed the lease provisions concerning the lessee's obligation to cover electricity and municipal charges. The clear language of clauses 18.1.1 and 18.2 indicated that the lessee was obligated to pay all costs associated with electricity consumed on the premises, calculated in adherence to municipal by-laws ([paras 10–11]).
+
+The Court critically evaluated the evidence presented by the lessor’s representatives from CUM and found strong corroboration of the claims regarding the accuracy of the meter readings and the methodology for calculating charges. The evidence demonstrated that the lessee's electrical usage warranted both KWh and KVa billing, particularly given the operational demands of the supermarket, especially prior to the closure of a bakery section ([paras 16–19]).
+
+Moreover, the principal determination that the lessee was not liable for the KVa component was deemed unfounded. The lessor had provided substantial evidence of compliance with statutory and contractual obligations, while the lessee failed to rebut or contest these claims satisfactorily during the initial proceedings ([paras 20–21]).
+
+Finally, the Supreme Court held that to allow the High Court's determination regarding the KVa charge would undermine the procedural integrity of the initial trial, as the lessee had neither put forth a claim of undue charges nor presented a compelling case disturbed by procedural irregularities ([paras 12–14]).
+
+---
+
+#### C – Conclusion
+
+The Supreme Court of Appeal upheld the appeal, emphasizing the appellant's right under the lease agreement and the adequacy of evidence presented concerning the municipal charges. The original Regional Court's order was partially restored, adjusting the claim amount to R308,167.22, while dismissing the review application ([paras 22]). 
+
+The Court’s ruling underscores the critical importance of contractual clarity and adherence to established legal frameworks in lease agreements. It also reinforces principles of evidential sufficiency and burden of proof, particularly where substantial financial implications are at stake in commercial leasing disputes. Consequently, this judgment serves as a crucial reference for future interpretations of contractual obligations regarding utility liabilities within lease agreements in South Africa ([paras 20–22]).
+
+--- 
+
+This case note aims to encapsulate not only the procedural and substantive issues at hand but also providing a detailed context for understanding the operational dynamics within South African property law as they pertain to lease agreements and municipal service obligations.

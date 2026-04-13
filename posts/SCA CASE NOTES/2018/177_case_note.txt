@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: Starways Trading 21 CC v Pearl Island Trading 714 (Pty) Ltd [2018] ZASCA 177
+
+**FIRAC Method**
+
+### F – Facts
+
+The first appellant, Starways Trading 21 CC (in liquidation) ("Starways"), was an importer of commodities including sugar and was placed in provisional liquidation shortly before the appeal hearing. The appeal was pursued by its provisional liquidators, who were added as additional appellants. The first respondent, Pearl Island Trading 714 (Pty) Ltd ("Pearl"), served as a wholesale supplier, while Shoprite Checkers (Pty) Ltd ("Shoprite") acted as a retailer ([1–2]).
+
+On 14 July 2016, Starways and Pearl executed a written agreement whereby Starways sold 25,000 metric tonnes of white refined sugar to Pearl, with the sugar destined for Shoprite. A dispute arose regarding payment under the sugar contract, with Starways claiming that Shoprite was contractually obligated to pay the purchase prices to Pearl. After the Western Cape Division of the High Court dismissed Starways’ application for enforcement of the sugar contract, this appeal was initiated ([2]).
+
+The sugar contract specified delivery of sugar in 50kg bags during defined periods, with terms set forth under clauses 7 to 10, explicitly mentioning that payment would be made against invoice ([3]). Notably, the parties were bound by the provisions of the Customs and Excise Act 91 of 1964 ("the Act"), particularly section 59, which deemed terms concerning variations in duty applicable unless an agreement to the contrary existed ([5–6]). 
+
+The crux of the dispute revolved around how a drastic reduction in import duty affected the pricing structure established in the sugar contract. Pearl contended that no contrary agreement existed, thus entitling it to pay reduced prices, while Starways argued that the term “ex warehouse” implied an agreement to the contrary that justified maintaining the original price ([7]).
+
+### I – Issues
+
+The primary issues for determination by the court were: 
+1. The interpretation of the sugar contract concerning the term “ex warehouse” and its implications on the application of section 59 of the Act ([8]).
+2. Whether Starways’ insistence on a certain interpretation constituted a repudiation of the sugar contract ([18]).
+3. The existence of contractual privity between Starways and Shoprite as alleged by Starways ([24]).
+
+### R – Rules
+
+The legal framework governing the dispute included:
+- Common law principles concerning risk and benefit regarding sale contracts, which dictate that the risk and benefit pass once a sale contract is perfected, with payment obligations remaining despite subsequent damage or destruction ([9–10]).
+- The stipulated provisions under section 59 of the Customs and Excise Act, which provide for variations in contract price due to changes in duty, in absence of contrary agreements ([6][13]).
+- Case law, including **Metalmil (Pty) Ltd v AECI Explosives and Chemicals Ltd** and **Datacolor International (Pty) Ltd v Intamarket (Pty) Ltd**, regarding definitions of repudiation and the necessity for unequivocal communication regarding performance obligations ([18]).
+
+### A – Application
+
+The court first addressed the interpretation of the term "ex warehouse." It found that Starways failed to show that the term either inherently excluded the application of section 59 or embodied a certain technical industry meaning contrary to ordinary understanding. The court highlighted that the term merely indicated the point of delivery and did not affect the application of price adjustment provisions under section 59 ([15–16]).
+
+The court also evaluated whether Starways’ actions amounted to repudiation. Starways insisted on the original purchase price despite Pearl's assertion that the price should be reduced due to the diminished import duty. Pearl reasonably interpreted Starways' strict adherence to its payment demands as a refusal to perform the contract per its terms. Starways' communication did not indicate willingness to perform in accordance with the true tenor of the contract, thereby confirming Pearl’s right to treat the contract as repudiated ([20–22]).
+
+Addressing the issue of privity, the court determined that there was no evidence supporting Starways' claim of an express or implied tripartite agreement that required Shoprite to pay the prices established in the sugar contract. The relationship between the parties was typical of separate contracts, where payment obligations flowed from Pearl to Shoprite and from Shoprite to Starways without necessitating a direct obligation from Shoprite to Starways ([24–26]).
+
+### C – Conclusion
+
+The court dismissed the appeal, thus affirming the lower court's ruling. It concluded that Pearl was rightly entitled to the benefit of the reduced prices per the provisions of section 59 of the Act. The interpretation and subsequent repudiation analysis confirmed that Starways’ insistence on original pricing, despite evident changes, repudiated the sugar contract. The absence of evidence for a direct obligation from Shoprite to Starways cemented the court’s position regarding the transactional nature of the deal. The judgment has implications for future contractual interpretations involving clauses related to pricing adjustments, and underscores the importance of clear agreement terms regarding any implied legal effects of legislative provisions in commercial contracts ([27]). 
+
+---
+
+This case note elaborates on the court's reasoning, analysis, and conclusions to provide a thorough understanding of the legal implications derived from the judgment. It emphasizes the importance of clarity in contractual terms and highlights the potential ramifications of contractual repudiation in commercial contexts.

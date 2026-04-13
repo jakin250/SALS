@@ -1,0 +1,58 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: Propell Specialised Finance (Pty) Ltd v Attorneys Insurance Indemnity Fund NPC
+
+**Neutral Citation:** Propell Specialised Finance v Attorneys Insurance Indemnity Fund NPC (1147/2017) [2018] ZASCA 142 (28 September 2018).
+
+## F - Facts
+
+The case arises from indemnification claims under a professional indemnity insurance policy issued by the Attorneys Insurance Indemnity Fund NPC (hereinafter "Attorneys Insurance"). The Appellant, Propell Specialised Finance (Pty) Ltd ("Propell"), had engaged in multiple bridging finance transactions with Burman Stemela Lubbe Incorporated ("BSL"), a law firm. Propell lent funds to BSL's clients, who were engaged in various property transactions. However, BSL did not repay these loans due to the misappropriation of funds by one of its employees, resulting in financial losses for Propell ([1][2]).
+
+BSL sought indemnification from Attorneys Insurance, which rejected liability based on clauses within the insurance policy that excluded coverage for the loss Propell incurred ([3]). Subsequently, BSL attempted to cede its indemnification rights under the insurance policy to Propell without Attorneys Insurance's consent. The cession included various stipulations about the abandonment of claims by Propell against BSL ([5]–[6]).
+
+Propell then initiated legal action against Attorneys Insurance in the High Court, citing the cession as the basis for its standing to claim indemnification. Attorneys Insurance raised several defenses, including lack of claimable locus standi due to the invalid cession of rights ([7][8]).
+
+The High Court dismissed Propell's action, concluding that the cession was legally void. It deemed BSL's rights under the insurance policy incapable of being ceded due to the nature of the contract, which involved delectus personae ([11][12]).
+
+## I - Issues
+
+The primary legal issue for determination by the Supreme Court of Appeal was whether the rights to indemnification under the professional indemnity insurance policy were capable of being ceded to Propell without the insurer's consent. The specific questions included:
+
+1. Can BSL's rights under the policy be ceded to Propell without Attorney's Insurance’s consent?
+2. Does the nature of the relationship between the parties, characterized as delectus personae, impact the validity of the cession?
+3. What implications arise for locus standi when the purported cession is invalid ([1][10])?
+
+## R - Rules
+
+The Supreme Court of Appeal relied on several legal principles and case law concerning the cession of rights and the nature of contracts governed by delectus personae. These included:
+
+1. **Cession and Delectus Personae:** Cession of rights is generally permissible unless the nature of the contractual relationship involves a delectus personae. This legal doctrine suggests that certain personal relationships, including insurance contracts wherein the identity of the parties is crucial, are not transferable ([18])[^4].
+
+2. **Insurance Law Provisions:** The policy at issue included clauses (6.6 and 6.8) restricting the insured's rights without the insurer's consent. Specifically, clause 6.8 stated that "nothing contained in this Policy shall give any rights against the insurer to any person other than the insured.” Such stipulations imply that the parties intended to restrict cessions ([16][30]).
+
+3. **Judicial Precedents on Cession:** The court cited prior cases outlining that the nature of the contractual obligations determines whether rights can be ceded, particularly emphasizing the need to preserve the original contractual intent ([19][32]).
+
+## A - Application
+
+The Court applied the relevant legal principles to the facts of the case. It highlighted that the nature of the professional indemnity policy established bounds on the transferability of the rights under the policy due to its statutory and personal nature, thereby qualifying as delectus personae. The cession was treated as invalid since it was executed without the required consent from Attorneys Insurance ([19][30]).
+
+The court also illustrated the impracticality of allowing Propell to step into BSL's shoes after a repudiation of liability. Doing so would create a scenario where an entity, not recognized under the terms of the policy, could claim indemnification against the insurer, undermining the contractual integrity and purpose of the insurance agreement ([32][40]).
+
+Additionally, the potential prejudice to Attorneys Insurance was deemed significant. The risk exposure could be unnecessarily broadened if third parties, like Propell, could enforce indemnification claims based on actions leading to the fraud, contrary to the insurer's controlled risk framework ([37][38]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal affirmed the High Court's judgment, ruling that BSL's rights to indemnification under the policy were not legally transferable to Propell. This conclusion underscored the court's recognition of the special nature of the insurer-insured relationship and the resultant limitations on assignment without consent.
+
+The court dismissed the appeal with costs, emphasizing the dangers of compromising the contractual stipulations and conditions under which the insurance was granted ([40][41]). This decision reinforces the principles surrounding the limits of cession within specific contractual relationships, particularly in the insurance domain, shaping the legal landscape for similar future disputes. 
+
+---
+
+**References:**
+1. Propell Specialised Finance v Attorneys Insurance Indemnity Fund NPC (1147/2017) [2018] ZASCA 142.
+2. Attorneys Act 53 of 1979, section 26.
+3. Legal principles from Scott on Cession and interpretations derived from case law like Densam and Northern Assurance ([18][30][31][32]).
+4. Case law references ([19][32]).
+
+(Note: The case citations above should follow OSCOLA style for legal documentation purposes.)

@@ -1,0 +1,35 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: *Association of Mineworkers and Construction Union and Others v Ngululu Bulk Carriers (Pty) Limited (In Liquidation) and Others* [2020] ZACC 8
+
+## F - Facts
+The case presents a legal dispute involving the Association of Mineworkers and Construction Union (AMCU) and its members against Ngululu Bulk Carriers (Pty) Limited (hereafter "Ngululu"), which was subsequently placed in liquidation. The procedural history reveals that in January 2016, Ngululu employees, including AMCU members, engaged in an unprotected strike which led to the dismissal of 476 employees. AMCU referred the first unfair dismissal dispute to the bargaining council, leading to a non-resolution certificate issued on 9 March 2016 ([para 3]).
+
+While Ngululu reinstated some dismissed workers, none were AMCU members, who alleged further unfair treatment, regarding selective re-employment as a subsequent dismissal. Conciliation for this second dispute failed, and another certificate of non-resolution was issued. Ngululu challenged the bargaining council’s jurisdiction in the Labour Court, prompting AMCU to file claims for unfair dismissal in that court ([paras 4–6]).
+
+The Labour Court upheld two preliminary points raised by Ngululu: lack of jurisdiction concerning the automatically unfair dismissal cause of action (asserted that it required separate conciliation) and lis alibi pendens, arguing the claim was too similar to a pending review ([paras 8–9]). The Labour Court dismissed AMCU's claims ([para 10]).
+
+AMCU sought to appeal to the Constitutional Court after its claims were denied, which raised constitutional issues pertaining to access to justice under the Labour Relations Act (LRA) ([para 11]). Subsequent to the appeal, Ngululu entered liquidation, leading to the liquidators being substituted as respondents ([paras 14–15]).
+
+## I - Issues
+The case raises critical constitutional and statutory issues:
+1. **Jurisdiction of the Labour Court**: Did the Labour Court have jurisdiction to adjudicate the automatically unfair dismissal claims when these had not been separately referred for conciliation?
+2. **Lis alibi pendens**: Did the Labour Court err in dismissing the current claims based on the defense of lis alibi pendens due to a pending review application ([paras 8–9, 11])?
+
+## R - Rules
+This case predominantly revolves around the interpretations of the Labour Relations Act 66 of 1995, particularly sections 191 and 187. Section 191 mandates referral of unfair dismissal disputes to conciliation before any court could adjudicate such matters ([para 16]). Additionally, section 186(1)(d) defines what constitutes an automatically unfair dismissal ([paras 7–8]). 
+
+The principle of lis alibi pendens functionally prohibits the same cause of action being litigated concurrently in different forums ([para 26]). The court also relied on the precedent set in *Intervalve* and *Driveline*, emphasizing that the essence of a dismissal can categorize as either unfair or automatically unfair, but both are inherently linked to the practice of resolving fairness through conciliation and subsequent adjudication ([para 22]).
+
+## A - Application
+The Constitutional Court clarified that although the Labour Court possesses the authority to adjudicate unfair dismissal disputes, this power is contingent upon prior conciliation. The court noted that the Labour Court misconstrued the nature of the disputes involved, incorrectly viewing them as discrete entities rather than recognizing their shared foundational issue: the fairness of the dismissal ([paras 16, 21]).
+
+Regarding lis alibi pendens, the court observed that not all prerequisites applied. Although the same parties were involved, the causes of action were distinct, as the review regarding the bargaining council's jurisdiction did not encompass the merits of the dismissal itself. Therefore, applying lis alibi pendens here was inappropriate ([para 29]).
+
+The Constitutional Court found that the Labour Court's interpretation of section 191 was flawed, and thus it was bound by higher court precedential rulings which affirmed a broader view of jurisdiction concerning unfair dismissals. The court underscored the necessity for the Labour Court to adhere to these authoritative interpretations and to respect the constitutional right of access to justice ([paras 24, 31]).
+
+## C - Conclusion
+The Constitutional Court ruled in favor of AMCU, granting leave to appeal and reversing the Labour Court's decision. It emphasized the need for the Labour Court to exercise its jurisdiction to adjudicate the unfair dismissal claims originally presented by AMCU. The ruling underscores the implications of judicial precedent and correct statutory interpretation within the realm of labor law, particularly emphasizing the right to access justice ([paras 33–34]).
+
+This case highlights the critical balance between procedural correctness in labor disputes and the fundamental rights afforded to workers to seek redress through appropriate legal channels. The court’s decision not only remits the case for determination of merits back to the Labour Court but also establishes important precedential authority regarding the interpretation of unfair dismissal provisions within the LRA. This has significant implications for labor relations practice going forward and the understanding of what constitutes an "unfair dismissal" in South African law.

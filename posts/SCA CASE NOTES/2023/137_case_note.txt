@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Ba-Gat Motors CC t/a Gys Pitzer Motoring and Another v Kempster Sedgwick (Pty) Ltd (511/2022) [2023] ZASCA 137
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–6])
+
+The case revolves around a dispute concerning a written sub-lease agreement between the first appellant, Ba-Gat Motors CC trading as Gys Pitzer Motoring, and the respondent, Kempster Sedgwick (Pty) Ltd. The sub-lease commenced on 15 March 2017 and was set to expire on 30 September 2020, with an initial rental payment of R100,000 plus VAT. Notably, Clause 13.3 of the agreement included a non-variation clause mandating that any changes to the agreement must be made in writing and duly signed. The second appellant, Gybertus Pitzer, acted as a surety for the first appellant.
+
+From May 2019 onwards, the first appellant ceased rental payments, leading to a claim by the respondent for R938,952 in arrear rentals. The appellants contested this claim, alleging that an oral agreement made during May/June 2018 led to the cancellation of the sub-lease, despite the written agreement stipulating a non-variation clause. The appellants further claimed that the respondent was estopped from denying this oral cancellation due to representations made by the respondent's representatives when soliciting the first appellant to vacate the premises.
+
+The High Court rejected the appellants' defense, asserting that the oral cancellation was invalid under the Shifren principle, which dictates that contracts with non-variation clauses cannot be altered orally. The High Court subsequently granted the respondent’s application for summary judgment, prompting the appeal.
+
+## I – Issues: Legal or Constitutional Questions ([paras 1–2],[14],[16])
+
+The primary legal issue is whether the High Court correctly rejected the defense of estoppel invoked by the appellants in resisting the summary judgment. It also examines whether the oral agreement alleged by the appellants constituted a valid cancellation of the sub-lease, considering the implications of the non-variation clause. The application of the Shifren principle as it pertains to the cancellation or variation of contracts with non-variation clauses serves as a critical point of inquiry.
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 1],[13],[16],[23])
+
+The foundational case in this appeal is *SA Sentrale Ko-op Graanmaatskappy Bpk v Shifren en Andere*, which enshrines the principle that variations to a contract with a non-variation clause must be executed in writing to be enforceable. This principle was reaffirmed in *Brisley v Drotsky* and further elaborated in subsequent cases like *HNR Properties CC v Standard Bank of SA Ltd*.
+
+The legal definition of estoppel is also considered, where it holds that a party may be precluded from denying the truth of a representation previously made if the other party acted based on that representation to their detriment. The court must assess if a reasonable person in the appellants' situation would have been misled by the conduct of the respondent’s representatives.
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 14–24],[30])
+
+The SCA endorsed the High Court's reasoning that the oral cancellation of the lease could not be legally valid due to the non-variation clause. The court emphasized that the oral agreement amounted to a variation and thus contravened the Shifren principle, reinforcing the requirement for written amendments. The court carefully examined the evidence presented to determine whether the representations by the respondent's representatives warranted an estoppel defense. 
+
+However, it concluded that the facts presented do not substantiate the appellants’ claim of a binding oral agreement. The actions taken by the second appellant in moving premises were viewed as insufficient to demonstrate reliance on any representation made by the respondent. The existence of the non-variation clause indicated that any assertions made by the respondent’s representatives could not have reasonably led the appellants to believe that the obligations under the sub-lease were terminated.
+
+The court also noted the failure to return the keys to the premises as indicative of continued obligations under the lease, undermining the appellants' argument that they acted to their detriment based on representations.
+
+In contrast, the dissenting opinion raised by Dambuza JA posited that the presence of factual disputes warranted further examination at trial, suggesting that the estoppel defense should be adequately considered under the circumstances.
+
+## C – Conclusion: Court's Holding, Ratio Decidendi, and Implications ([paras 30–31])
+
+Ultimately, the SCA dismissed the appeal, asserting that the High Court's decisions were justifiable and in alignment with the established legal principles surrounding non-variation clauses and estoppel. The court found that upholding the appellants' defenses would undermine the enforceability of non-variation clauses and set a precedent that could encourage circumvention of formal contractual obligations.
+
+The judgment affirms the stringent application of the Shifren principle while reaffirming the necessity of written documentation for contractual variations. It illustrates a cautionary stance towards oral representations in the context of binding agreements with specific procedural requirements. The dissenting view highlights the ongoing debate about the tension between strict adherence to contractual formality and equitable considerations in commercial dealings. 
+
+The dismissal serves to reinforce the critical nature of documenting variations to contractual agreements, thereby promoting legal certainty in contractual relations in South Africa.

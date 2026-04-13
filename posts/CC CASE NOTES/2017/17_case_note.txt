@@ -1,0 +1,38 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Electronic Media Network Limited and Others v e.tv (Pty) Limited and Others [2017] ZACC 17
+
+### FIRAC Method
+
+#### F – Facts
+This case arises from the ongoing legal disputes involving the Broadcasting Digital Migration Policy formulated by the Minister of Communications, Faith Muthambi. The policy amendment was published on 18 March 2015 and explicitly excluded the inclusion of decryption capabilities in government-supplied set-top boxes. The applicants include Electronic Media Network Limited (M-Net), the Minister of Communications, and South African Broadcasting Corporation SOC Limited (SABC). The respondents are e.tv (Pty) Limited, various industry associations, and regulatory bodies including ICASA and USAASA ([1]–[19]).
+
+The historical context leading to this case began in 2005, when the Minister of Communications initiated a consultative process aimed at migrating South African television from an analogue to a digital platform. Various policy proposals were put forth over the years, with e.tv initially opposing the inclusion of decryption technology in set-top boxes, then later supporting it under the proposal by Minister Yunus Carrim, which included provisions for encryption ([9]–[14]).
+
+Minister Muthambi's decision to exclude decryption capabilities, taken without e.tv's input, ignited a legal battle after e.tv sought to have the policy declared invalid due to the lack of consultation. The High Court dismissively ruled in favor of the Minister’s policy, but the Supreme Court of Appeal subsequently overturned that decision, prompting the current appeal to the Constitutional Court ([19]–[24]).
+
+#### I – Issues
+The court was tasked with resolving several critical issues: 
+1. Did Minister Muthambi lack the legal authority to amend the Broadcasting Digital Migration Policy?
+2. Was there a failure to consult mandated under section 3(5) of the Electronic Communications Act (ECA)?
+3. Could the Minister invoke the exemption under section 3(6) of the ECA which allows for amendments without further public consultation?
+4. Was the policy amendment irrational, constituting a violation of the principle of legality? ([20]–[22]).
+
+#### R – Rules
+In determining the validity of the Minister's actions, the court looked to multiple statutory and constitutional provisions, notably:
+- Section 85(2)(b) of the Constitution empowers the Executive to develop national policy.
+- Section 3 of the ECA governs the formulation of policies applicable in the ICT sector, specifying the requirement for consultation with stakeholders ([26]–[30]).
+- Previous case law, including *Doctors for Life International v Speaker of the National Assembly* and *Albutt v Centre for the Study of Violence and Reconciliation*, provided judicial authority on the bounds of rationality and legislative consultation ([5], [6], [7]).
+
+### A – Application
+The Chief Justice affirmed that the principle of separation of powers limits judicial intrusion into executive policymaking but also allows for judicial review when there is a breach of constitutional norms. The court found significant procedural shortcomings in the Minister's policy amendment process. Particularly, it emphasized the necessity for genuine stakeholder consultation, noting that simply omitting decryption capabilities without verifying e.tv's offer to fund additional costs lacked the rational basis required under the ECA.
+
+In not adhering to the consultative requirements mandated by section 3(5), the Minister's actions defied legislative intent and failed to maintain the necessary public accountability. The court criticized the lack of a rational connection between the decision to remove decryption capabilities and the purported cost-saving objective, as other alternatives had been presented by e.tv. The court concluded that the Minister's decision-making process was marred by irrationality, undermining the objectives of the ECA and the Constitution ([36]–[44], [119]–[134]).
+
+In a separate but concurring judgment, Justices Cameron and Froneman insisted that the Minister's failure to consult appropriately represented a violation of the principle of legality, suggesting that such failures taint the entire decision with irrationality and arbitrariness ([89]–[94],[126]–[136]).
+
+#### C – Conclusion
+The Constitutional Court ultimately upheld the appeal, concluding that Minister Muthambi's policy amendment was invalid due to a lack of consultation and irrationality in her decision-making process. It ordered that the amendment be set aside, thereby reaffirming the necessity of following legislative protocols and maintaining accountability in policymaking. The separation of powers doctrine was deemed inadequate to shield the Minister from judicial scrutiny when fundamental legal principles are breached ([3], [87], [163]).
+
+The implications of this ruling are significant. It fortified the importance of accountability and public participation in the policy-making processes governing the ICT sector. Future amendments to broadcasting policies must not only comply with statutory requirements but must also engage relevant stakeholders adequately to ensure legitimate democratic processes are respected. The ruling reinforces judicial oversight concerning executive decisions that impact public interests.

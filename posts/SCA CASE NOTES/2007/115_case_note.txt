@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: The Olympic Countess, [2007] SCA 115 RSA
+
+### F – Facts
+The case concerns the passenger liner *Olympic Countess*, which was arrested on 8 January 2004 at the port of Durban due to claims from various creditors, leading to a sale pursuant to s 9(1) of the Admiralty Jurisdiction Regulation Act 105 of 1983 (the Act) ([1]). A fund was subsequently established from the proceeds of the sale, and a referee was appointed to investigate claims made against this fund. The appellant, Fortis Bank (Nederland) N V (the Bank), held a mortgage on the vessel and contended that its claims ranked under s 11(4)(d) of the Act. In contrast, the respondent, Orient Denizcilik Turizm Sanayi ve Ticaret A S (Orient), asserted that its claims ranked under s 11(4)(c)(v), which, if accepted, would prioritize Orient's claim over the Bank's ([1]).
+
+Orient had entered into a written agreement with Royal Olympic Cruise Lines Limited (ROC) on 20 March 2003, whereby it was appointed as a port agent for ROC’s vessels. Orient claimed to have made payments on behalf of ROC concerning debts related to the *Olympic Countess*, which included payments to service providers for light services, port services, and sanitary services, amounting to a total of US$550,228.71 ([3]). After ROC failed to honor its payment obligations, Orient initiated the arrest of the vessel to claim reimbursement for these expenses ([3]).
+
+The High Court, Durban, decided in favor of Orient on two legal issues related to the maritime nature of Orient’s claim. The Bank opposed this ruling, arguing that Orient's claim did not qualify as a maritime claim and should therefore rank lower than its mortgage claim ([2]).
+
+### I – Issues
+The core issues before the court included:
+1. Whether Orient's claims constituted maritime claims within the meaning of the Act ([1]–[2]).
+2. The appropriate ranking of Orient’s claims under the relevant sections of the Act ([1]).
+
+### R – Rules
+The court primarily relied on several sections of the Admiralty Jurisdiction Regulation Act 105 of 1983:
+
+- **Section 11(1)** establishes how claims are ranked when property is sold in execution or when it constitutes a fund. It sets out specific claims under subsection (4) that should be considered ([4]).
+  
+- **Subsections (4) and (5)** detail the classifications of maritime claims. Specifically, subsection (4)(c)(v) covers claims for the repair of the ship or the supply of goods or rendering of services to the ship ([4]).
+
+- **Section 11(8)** stipulates that a person who pays any claim that would have ranked under section 11 is entitled to the rights of the claimant. This implies that such a payor cannot attain a superior claim than the original claimant ([10]).
+
+### A – Application
+The court analyzed the nature of the claims presented by Orient, considering the legislative framework governing maritime claims. Orient argued that its claims were maritime claims under s 11(4)(c)(v) because they related to services rendered to the *Olympic Countess*. The Bank countered that while some claims were maritime, the fourth claim, where Orient paid an entity that paid for services, did not satisfy the requirements of a maritime claim as defined in s 1(1)(m) of the Act ([5], [6]).
+
+In considering the legislative language, the court determined that the claims arose not merely from the payments made by Orient but from the nature of the services rendered. Importantly, it noted that claims must fall within the confines of the Act's provisions and that the claim of the payor (Orient), even if it were to qualify as a claim, would not rank higher than the claims of those who rendered the services. As a result, Orient's claims would rank under s 11(4)(f) because they arose outside the one-year window stipulated in s 11(4)(c) ([11], [12]).
+
+The court also emphasized that allowing Orient to rank higher simply because it paid those who rendered services would contradict the intention of the legislature as expressed in s 11(8), which been designed to avoid enabling one party to gain advantages over another through indirect means ([10]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld the Bank's position, ruling that Orient's claims did not rank as maritime claims under s 11(4)(c)(v). Consequently, the court dismissed Orient's application for relief from the fund, ranking its claims below that of the mortgagee. The court's decision reinforced the legislative intent that only those who directly provided services to the vessel would have prioritized claims, as defined by the Act. The appeal was therefore upheld with costs, and the original order by the High Court was set aside ([12]).
+
+This decision highlights the necessity of adhering to the specific definitions and hierarchies established by maritime law, ensuring that claimants cannot circumvent legislative restrictions by indirect payments.

@@ -1,0 +1,63 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: The South African History Archive Trust v The South African Reserve Bank and Another
+
+## FIRAC Case Note
+
+### F – Facts: Relevant Background and Procedural History
+
+The appellant, the South African History Archive Trust (henceforth "the Trust"), is a non-governmental organization dedicated to preserving historical records. It engages in research efforts that include the examination of public accountability and procurement practices during apartheid ([1]). On 1 August 2014, the Trust submitted a request to the South African Reserve Bank (SARB) under the Promotion of Access to Information Act 2 of 2000 (PAIA) for access to records related to various individuals involved in alleged significant breaches of the law associated with apartheid ([2]). Among these were records pertaining to the late Brigadier Blaauw, Mr. Robert Hill, and Mr. Vito Palazzolo.
+
+Despite an initial lapse in responding to the request, the SARB ultimately refused the request, citing an inability to find records for five of the individuals and a refusal to release information related to Blaauw, Hill, and Palazzolo ([3]). This prompted the Trust to apply to the Gauteng Division of the High Court. The Trust sought to declare the SARB's refusal unlawful, aiming to compel the Bank to disclose the requested records ([4]). The High Court dismissed the application, prompting an appeal by the Trust to the Supreme Court of Appeal ([4]).
+
+### I – Issues: Legal or Constitutional Questions
+
+The primary issues present in this case center around the interpretation and application of PAIA, particularly regarding the principles of access to information and procedural fairness. The key questions include:
+
+1. **Compliance with Procedural Requirements**: Whether the SARB complied with the procedural requirements set out in PAIA, particularly concerning the obligation to inform third parties as articulated in sections 47(1) and 49 ([5], [21]).
+   
+2. **Justification for Refusal of Access**: Whether the SARB's refusal to grant access was legally justified under the provisions of PAIA, specifically sections concerning exemptions to access ([6], [32]).
+
+3. **Joinder of Necessary Parties**: Whether the failure to join Messrs Palazzolo and Hill in the proceedings rendered the application fatally defective ([29]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon
+
+The case draws heavily from the provisions and principles laid out in PAIA, which operationalizes the constitutional right to access information held by the state as enshrined in Section 32 of the South African Constitution ([6]). Some key provisions include:
+
+- **Section 47**: Obligates information officers to take "all reasonable steps" to inform third parties when their information is requested ([8]).
+- **Section 49**: Outlines the decision-making process and considerations for granting or refusing access to records ([14]).
+- **Section 34(1)**: Protects against the unreasonable disclosure of personal information of individuals ([37]).
+- **Section 36(1)(b)**: Concerns the protection of financial and commercial information potentially causing harm if disclosed ([38]).
+- **Section 46**: Provides a public interest override under certain conditions ([46]).
+
+Court precedents from prior cases, such as *My Vote Counts NPC v Minister of Justice and Correctional Services* and *President of the Republic of South Africa and Others v M & G Media Ltd*, emphasize the principles of openness, transparency, and accountability that PAIA aims to uphold ([6]).
+
+### A – Application: Analysis of How the Court Applied the Law
+
+In its judgment, the Supreme Court of Appeal scrutinized the SARB's adherence to the procedural requirements of PAIA. It found that the SARB had not taken reasonable steps to inform the individuals affected by the request, namely Palazzolo and Hill, violating the mandatory obligations outlined in section 47([22]). The court underscored that the SARB's belief that it would be unreasonable to take such actions—based on a misunderstanding of the parties’ status—did not constitute compliance with the legal requirement ([22]).
+
+Moreover, the SARB's refusal of access was challenged on various grounds:
+
+1. **Failure to Justify Refusal**: The SARB's blanket assertions regarding "unreasonable" disclosures and the lack of proper evidence to back its claims about confidentiality and potential harm were deemed inadequate. The court highlighted that assertions must be supported by concrete facts to justify refusals under sections 34 and 36 ([37], [39]).
+
+2. **Inadequate Compliance with s 49**: It became evident that by not informing Palazzolo and Hill, the SARB acted beyond the scope permitted by section 49(2). The court concluded that the SARB could not invoke section 49(2) effectively without demonstrating that it had taken all reasonable steps to communicate the request to the third parties involved ([27]).
+
+3. **Joinder Issue Dismissed**: The responsiveness of the application did not necessitate the joinder of the affected parties, as it merely sought to restore procedural fairness through compliance with the audi alteram partem principle ([31]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications
+
+The Supreme Court of Appeal ultimately upheld the Trust’s appeal, overturning the High Court's decision and declaring the SARB’s refusal unlawful. The court ordered that the SARB grant access to the requested records concerning Blaauw and initiate the necessary process to inform Hill and Palazzolo about the request ([49]). 
+
+The ratio decidendi underscored the non-negotiable nature of transparency in governmental processes, reflecting a crucial reinforcement of the right to access information in line with constitutional imperatives. The implications of this case highlight the judiciary's role in ensuring adherence to lawful processes in public administration, emphasizing that refusal of access must be substantively justified within the framework of PAIA ([48]).
+
+This ruling not only reaffirms the public's right to access information but also insists on accountability among public bodies, which is particularly significant in a democratic context aiming for transparency post-apartheid. It serves as a precedent for future cases, ensuring that information held by state bodies is not unduly withheld, bolstering public trust in government institutions. 
+
+### Order
+
+In summary, the Supreme Court ordered:
+
+1. The appeal was upheld with costs incurred by the Trust, including costs for two counsel where used.
+2. The High Court's order was set aside, substituting it with an order directing the SARB to provide the requested records concerning Brigadier Blaauw and notify Hill and Palazzolo of the request within ten days ([49]). 
+
+This case exemplifies the enforcement of the right to access information as a critical tool for transparency and scrutiny within South Africa's governance framework.

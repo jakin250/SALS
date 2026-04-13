@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note: Zietsman v Electronic Media Network (11/07) [2008] ZASCA 4
+
+### F - Facts 
+In the case of *Zietsman v Electronic Media Network Ltd and Others*, David Wallace Zietsman (the appellant) initiated a lawsuit in the court of the Commissioner of Patents against Electronic Media Network Ltd (the first respondent), Multichoice Africa (Pty) Ltd (the second respondent), and Vodacom (Pty) Ltd (the third respondent) for alleged damages arising from patent infringement related to his South African patent no 92/9925 ([1]). Following the respondents’ notice of intention to defend, they failed to submit their pleas and subsequently applied to have the bar lifted and for an extension to file their pleas alongside a request for security for costs against the appellant.
+
+The Commissioner of Patents, De Vos J, ruled in favor of the respondents, ordering the appellant to secure costs of R250,000 for the third respondent and to pay the costs of the application ([1], [9]). This order, along with other costs orders, prompted the appellant to appeal ([1]).
+
+### I - Issues
+The key legal questions in this case involved:
+1. Whether the Commissioner of Patents had the authority under Section 17(2) of the Patents Act to require the incola plaintiff (the appellant) to furnish security for costs ([2]).
+2. The validity of the agreement purportedly made by the appellant to provide security to the third respondent ([5]).
+3. Whether the discretion exercised by the court a quo in ordering security for costs from the appellant was reasonable and justifiable under Section 36 of the Constitution ([12]).
+4. The appropriate costs orders against the appellant concerning the applications by the respondents ([23]).
+
+### R - Rules
+The legal framework for the case is primarily provided by Section 17(2) of the Patents Act 57 of 1978, which states:
+- The Commissioner may require ‘any party’ to furnish security for costs ([2]).
+- The commissioner may assess the bona fides or prospects of success of the party from whom security is demanded ([2]).
+
+The common law establishes that incola (resident) plaintiffs generally cannot be compelled to furnish security for costs, though exceptions exist, including cases where a plaintiff's financial reliability is in question or where actions are found vexatious ([4], [12]).
+
+The Constitutional framework, particularly Section 34, grants the right to fair access to court, with Section 36 permitting reasonable limitations on rights to ensure a balance of interests in a democratic society ([12], [16]).
+
+### A - Application
+In the application of these legal principles, the court analyzed whether the appellant's status as an incola could exempt him from furnishing security for costs and whether other factors justified security being required. 
+
+- The court acknowledged the general rule that an incola cannot be forced to furnish security and examined previous case law that emphasized aspects like financial capability and the potential for vexatious litigation ([4]). It concluded that the appellant’s financial history presented a reasonable concern regarding his ability to meet potential adverse costs, given previous instances of difficulty in payment ([14], [17]).
+- The court concluded that an agreement had been effectively made by the appellant to provide a form of security, albeit disputing its quantum ([5]). The communications between the parties suggested an intent to agree on security, even if the specific amount was contested ([5.4], [6]).
+- Ultimately, the court held that the Commissioner had failed to properly exercise discretion by not fully weighing the appellant's individual situation and the merit of the respondents’ claims ([12], [19]). Thus, the necessity to provide security was neither warranted nor justified, especially since it was unclear against what sort of defense the appellant had to prepare ([19]).
+
+### C - Conclusion 
+The Supreme Court of Appeal concluded by partially upholding the appeal. The order compelling the appellant to furnish security for costs to the first and second respondents was overturned due to the lack of evidence that their claims were defensible. However, the order to provide R250,000 in security to the third respondent was upheld as there was an agreed liability ([26]).
+
+The court also ruled that the costs orders against the appellant were incorrect insofar as they required payment for the third and subsequent applications, particularly the costs involving two counsels which were deemed unnecessary given the circumstances ([23], [26]).
+
+In discharging the security requirement against the first and second respondents but maintaining it with respect to the third respondent, the court balanced the need for access to justice with protecting the rights of defendants against potentially unfounded claims. This presents significant implications for the application of the Patents Act and the larger judicial approach towards security for costs in patent infringement cases. The decision reinforces the need for careful consideration of individual financial contexts and the bona fides of litigants.

@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note
+
+**Case Title:** *Commissioner for the South African Revenue Service v Volkswagen South Africa (Pty) Ltd*  
+**Neutral Citation:** [2018] ZASCA 116 (19 September 2018)  
+**Coram:** Navsa, Seriti, Wallis, Willis, and Mathopo JJA  
+**Date Heard:** 6 September 2018  
+**Date Delivered:** 19 September 2018  
+**Case No:** 1028/2017
+
+## F – Facts
+
+Volkswagen South Africa (Pty) Ltd (hereafter "Volkswagen"), a subsidiary of the global automobile manufacturer Volkswagen AG, holds unsold vehicles as trading stock at the end of its tax years 2008, 2009, and 2010. To determine its taxable income, Volkswagen employed the "net realizable value" (NRV) based on International Accounting Standard 2 (IAS 2) rather than the cost price as dictated by Section 22(1)(a) of the Income Tax Act 58 of 1962. This deviation from the statutory requirement led to a valuation of trading stock that was lower than the cost price.
+
+The South African Revenue Service (SARS), upon completing a comprehensive audit of Volkswagen’s tax stands, rejected the NRV as a valid representation of the diminished value of trading stock. As a result, SARS issued revised assessments resulting in additional tax liabilities amounting to R72,002,161, R24,778,855, and R5,294,643 for the years in question [1-3]. Volkswagen contested these assessments, and the Tax Court initially ruled in favor of Volkswagen by setting aside the revised assessments. However, SARS appealed to the Supreme Court of Appeal (SCA) for a final determination [4-3].
+
+## I – Issues
+
+The crux of the legal dispute revolves around whether Volkswagen was permitted under the Income Tax Act to calculate the value of its trading stock using NRV rather than the cost price prescribed by Section 22(1)(a) [9]. Specifically, the court needed to consider:
+
+1.  Whether the NRV, calculated in alignment with IAS 2, reflects a proper allowance for the diminished value of trading stock permissible under the Act.
+2.  What constitutes "diminished value" as referred to in Section 22(1)(a), particularly whether this encompasses only losses already incurred or if anticipated future losses could also justify a deduction [26-27].
+
+## R – Rules
+
+The relevant statutory framework is found in the Income Tax Act's Section 22(1)(a) and associated provisions, which dictate the methods for stock valuation and the allowable deductions for diminished value. This section requires that trading stock be valued primarily at cost but allows for deductions where the stock's value has diminished due to damage, deterioration, change of fashion, or market value decrease [8-9]. 
+
+The court also referenced IAS 2, which mandates that inventories must be measured at the lower of cost or NRV [33-34]. Notably, IAS 2 defines NRV as the estimated selling price in the ordinary course of business less any costs of completion and selling expenses [33]. A critical distinction arises between "fair value" (reflective of current market conditions) and NRV (which considers future costs) [51].
+
+## A – Application
+
+In interpreting the relevant laws, Wallis JA outlined that Section 22(1)(a) does not allow for future anticipatory deductive considerations. The language of the statute speaks clearly to the value diminishing before or during the tax year, with the court concluding that deductions for diminished value must rely on actual incurred losses or losses known to be impending [17-19]. 
+
+The court scrutinized Volkswagen's use of IAS 2's NRV and determined that while this accounting standard may serve for financial statements, it conflicted with legislative intent regarding tax liability—specifically that tax assessment is rooted in actual realizable value as of the end of the tax year, not future estimations.
+
+Moreover, the items Volkswagen included in its NRV calculation significantly involved expected future costs rather than losses that had been incurred. For example, costs such as warranty fees and refurbishment were future liabilities and not reflective of events that had already diminished the trading stock's value [42-45]. Consequently, the court found that Volkswagen had misapplied the statute by relying on NRV which inherently incorporates speculative elements.
+
+## C – Conclusion
+
+The SCA ultimately ruled that the appeal by SARS was successful; the previous ruling of the Tax Court was set aside and the additional assessments were reinstated. The court confirmed that Volkswagen was not justified in using NRV for valuing its trading stock under the Income Tax Act, as the statute endorses cost price as the baseline, with allowances available only for values diminished due to actual circumstances encountered prior to fiscal year-end [54-56]. 
+
+The implications of this ruling extend beyond Volkswagen, signaling a clear boundary between accounting practices and tax assessment protocols. The decision underscores the importance of using cost as the definitive metric for trading stock valuation, thereby mitigating potential tax avoidance through speculative forecasting methods.
+
+---
+
+#### References
+1. *Commissioner for Inland Revenue v Nemojim (Pty) Ltd* 1983 (4) SA 935 (A). 
+2. *Commissioner for Inland Revenue v Jacobsohn* 1923 CPD 221.
+3. International Accounting Standards Board, IAS 2, (2003, 2006).
+4. Income Tax Act 58 of 1962, s 22(1)(a).

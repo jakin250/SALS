@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Central Developments Tshwane (Pty) Ltd v Body Corporate of Twee Riviere Aftree Oord (635/2019) [2020] ZASCA 107
+
+## F – Facts  
+The appellants, Central Developments Tshwane (Pty) Ltd and Wilcoprop 202 (Pty) Ltd, were the developers of the Twee Riviere Aftree Oord, a retirement village consisting of 448 sectional title units. The Body Corporate, as the representative entity for the sectional title development, alleged defects in the design and construction of common property, specifically regarding the foundations of courtyard and patio walls. The Body Corporate instituted two actions in the Gauteng Division of the High Court, primarily framing the claim in delict for negligence against the developers, while also presenting alternative claims based on latent defects and misrepresentations concerning the units sold ([1]).
+
+Shortly before trial, the developers submitted an amended special plea asserting that the Body Corporate lacked standing because it had not secured a special resolution from its members as mandated by section 2(7)(e) of the Sectional Title Schemes Management Act 8 of 2011 (the Management Act) before instituting the action ([2]). The Body Corporate contended the procedural deficiency could be ratified after the fact. The High Court dismissed the special plea, allowing the action to proceed ([3]). The appellants sought leave to appeal, which was granted ([2]).
+
+## I – Issues  
+The central issues in the case revolved around the following legal questions:
+
+1. **Authority to Sue:** Whether the Body Corporate possessed the requisite authority under the Sectional Title Schemes Management Act to initiate legal proceedings against the developers without a special resolution of its members ([2]).
+   
+2. **Special Resolution Requirement:** Whether the requirement for a special resolution under section 2(7)(e) of the Management Act was a jurisdictional requirement that precluded the Body Corporate from pursuing its action ([2]).
+
+3. **Ratification of Procedural Deficiencies:** Whether the failure to obtain a special resolution could be subsequently ratified by the Body Corporate ([3]).
+
+## R – Rules  
+The legal framework relevant to this case primarily consists of the Sectional Title Schemes Management Act 8 of 2011 and its predecessor, the Sectional Titles Act 95 of 1986. 
+
+- **Section 2(7)(b) of the Management Act** states that the Body Corporate can sue in respect of damages to common property.
+  
+- **Section 2(7)(e)** requires that any claim against a developer in regard to the scheme must be determined by a special resolution. 
+
+Notably, the precedents reviewed include [Body Corporate of Greenwood Scheme v 75/2 Sandown (Pty) Ltd](#) and the principles discussed in *Oribel Properties* regarding the powers bestowed upon the Body Corporate under these legislative frameworks ([9], [12]).
+
+## A – Application  
+The court undertook a comprehensive analysis of the statutory provisions governing the powers of the Body Corporate. It distinguished between the powers conferred by section 2(7)(b) and the conditions precedent imposed by section 2(7)(e) of the Management Act. 
+
+1. **Authority Based on Section 2(7)(b):** The court determined that the Body Corporate had the authority to sue for damages caused to common property without the necessity of a special resolution. It reasoned that the design and construction defects directly affected the common property, rendering the developers liable under section 2(7)(b) ([10], [13]).
+
+2. **Misconception of Power Limits:** The court rejected the argument that the introduction of section 2(7)(e) limited the powers granted under section 2(7)(b). It emphasized that the legislative intent was to enhance the Body Corporate's powers rather than create additional restrictions ([16], [17]).
+
+3. **Implications of Ratification:** The court acknowledged the procedural challenge posed by the lack of a special resolution but concluded this deficiency was irrelevant as the Body Corporate had sufficient statutory authority to act in the interest of the common property ([19]).
+
+The court's reasoning effectively nullified the appellants' special plea and reaffirmed the Body Corporate's autonomy and authority to pursue claims against the developers without procedural impediments.
+
+## C – Conclusion  
+The Supreme Court of Appeal ultimately dismissed the appeal, affirming the High Court's dismissal of the special plea. It ruled that the Body Corporate had the authority to bring forth its claims against the developers as stipulated under section 2(7)(b) of the Management Act without needing to secure a special resolution ([22]). The court's findings carry significant implications for how bodies corporate may exercise their rights to protect common property against damage or defects attributed to a developer. This case clarified the legal landscape regarding the powers vested in bodies corporate and emphasizes the importance of statutory interpretation in ensuring that corporate entities can act effectively within their governance structures. 
+
+The judgment is instructive for similar entities navigating issues of governance and authority under the South African legislative framework governing sectional titles, providing a clear precedent that empowers bodies corporate in similar contexts ([20]).
+
+This decision brings to the forefront the essential balance between procedural compliance and substantive rights in the context of sectional title schemes, thereby impacting future litigation strategies for bodies corporate and developers alike.

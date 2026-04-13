@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Sasol South Africa (Pty) Ltd v Murray & Roberts Limited [2021] ZASCA 94
+
+## FIRAC Method
+
+### F – Facts
+[1] This case is grounded in a construction contract executed on 15 March 2015 between Sasol South Africa (Pty) Ltd (Sasol), as the employer, and Murray & Roberts Limited (Murray & Roberts), as the contractor. The contract delineated functions for a project manager and included a dispute resolution mechanism, mandating that disputes be reported and referred to an appointed adjudicator, whose decisions were enforceable until a dispute was escalated to arbitration ([1]).
+
+[2] Throughout the execution of the contract, numerous disputes arose primarily relating to payment assessments made by the project manager concerning claims made by Murray & Roberts. These assessments spurred referral to an adjudicator, who consistently sided with Sasol’s interpretations of the contract ([2]). The adjudicator confirmed Sasol's rejection of payment claims founded on PMC200, a guideline implying that hours worked did not guarantee payment unless certain conditions were met.
+
+[3] Upon dissatisfaction with the adjudicator’s ruling, which leveraged the principles established under the arbitration award in favor of Murray & Roberts, Sasol purported non-compliance with certain adjudicator findings, leading to a secondary adjudicator decision, referred to as Dispute 16 ([3]).
+
+[4] Consequently, Murray & Roberts sought the intervention of the Gauteng Division of the High Court to enforce the adjudicator’s decision dated 12 May 2019 regarding Dispute 16, which responded to discrepancies identified in Sasol's payment assessments ([5]). The High Court favored Murray & Roberts, prompting Sasol to request leave to appeal. 
+
+### I – Issues
+[6] The primary legal issue involved whether Sasol was bound to comply with the adjudicator’s decision that mandated immediate payment to Murray & Roberts. This raised questions about the validity and binding nature of the adjudicator’s awards given Sasol's contention that the adjudicator had acted beyond his jurisdiction, thus rendering his decision invalid ([18]).
+
+[7] Additional issues included:
+- Whether the adjudicator erred by revisiting prior decisions after an arbitrative award had been issued.
+- The legitimacy of Sasol's objections to the adjudicator's authority and decision timeline.
+- Assessment of whether principles established in the arbitration could be appropriately applied to the unresolved disputes.
+
+### R – Rules
+[8] The judgment established pertinent legal frameworks surrounding contractual obligations, particularly within the ambit of construction contracts upon which the NEC3 Engineering and Construction Contract is based. Key references included:
+- Clause W1.3 and W1.4 of the NEC3 Contract, outlining the dispute resolution process ([8]);
+- The South African Arbitration Act, 1965, regarding the finality and binding nature of arbitration decisions ([3]);
+- Prior precedents, including *Carillion Construction v Devonport Royal Dockyard Ltd* [220] EWCA Civ 1358, which articulated the parameters regarding an adjudicator's jurisdiction and the requirement to apply established principles consistently ([18]).
+
+### A – Application
+[9] The Supreme Court of Appeal (SCA) analyzed Sasol's arguments. The adjudicator’s rationale for enforcing principles stipulated in the arbitration award was upheld, as the contractual framework required the project manager to modify assessments aligning with adjudicator and tribunal findings ([22]). 
+
+[10] The court emphasized that the refusal by Sasol to implement the adjudicator’s decision was not justifiable. It found that the adjudicator was within his rights to apply the principles drawn from the arbitration ruling to the disputes at hand ([21]). Moreover, the court concluded that Sasol’s challenges regarding jurisdiction were unfounded as Dispute 16 was inherently a new inquiry distinct from prior adjudications, focusing instead on the correct application of adjudicator findings ([24]).
+
+[11] The SCA also addressed timing arguments related to the adjudicator's decision-making period, establishing that the adjudicator retained the mandate to deliver a decision post-deadlines through agreements stated in the contract. This rebutted Sasol's contention on jurisdiction cessation due to alleged delay ([40]).
+
+### C – Conclusion
+[12] The SCA dismissed Sasol’s appeal on the grounds that the adjudicator's decision was enforceable and binding, endorsing the notion that the project manager had a contractual obligation to adjust payments according to the arbitration award. The implications are significant; this case affirms the binding nature of adjudicator decisions in construction contracts, thereby reinforcing the framework within which disputes must be resolved, and ensuring adherence to established contractual obligations ([48]).
+
+[13] The court’s order mandated Sasol to pay specified amounts to Murray & Roberts from prior assessments, including interest from the date a payment default was identified, underscoring the accountability inherent within construction obligations ([49]). Overall, this case exemplifies robust enforcement of contractual dispute resolutions in the South African legal framework, particularly in the construction sector.

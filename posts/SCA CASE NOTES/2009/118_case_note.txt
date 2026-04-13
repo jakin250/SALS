@@ -1,0 +1,25 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note: McCarthy Ltd v Absa Bank Ltd [2009] ZASCA 118
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–8])
+The case arises from an action brought by McCarthy Ltd (Appellant) against Absa Bank Ltd (Respondent) in the South Gauteng High Court, concerning fraudulent cheque transactions. McCarthy, engaged in the motor vehicle trade, had an account with Absa. The dispute centers around a series of fraudulent cheques drawn by a former employee of McCarthy, Ms. Cordier, who was responsible for creating fictitious debts. From November 1994 to March 2003, Ms. Cordier created cheques payable to variations of "Fourie" and "Leathertech," with a total value of R14,947,258 being defrauded from McCarthy when Absa accepted these cheques for collection ([paras 3–4]). 
+
+Following the completion of McCarthy's case at trial, Goldstein J granted Absa an absolution from the instance, ruling that McCarthy had failed to establish a contractual relationship that included an implied duty for Absa to act without negligence in collecting cheques drawn by McCarthy. McCarthy appealed this decision ([paras 1–2]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 8–19])
+The primary issue was whether a bank has an implied duty of care towards its client when cashing cheques drawn on the client’s account, particularly under circumstances where it has notice of potential fraud. Specifically, the court needed to determine whether a bank, in this case, Absa, had breached its contractual obligations to act without negligence when accepting the cheques for payment. The secondary issue was the legal sufficiency of the claims made by McCarthy concerning the nature of the banking relationship alleged with Absa ([paras 13–14]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 19–23])
+The court noted that the relationship between a bank and its customer operates under principles of mandate law, wherein the bank has a duty to pay cheques properly drawn by its client only upon ensuring the legitimacy of the transaction ([para 19]). The court also referenced various key legal principles concerning bank liability, including references to the **Bills of Exchange Act 34 of 1964**, particularly s 79, which includes guidance on the duties of banks in safeguarding against fraud ([para 25]). Judicial precedents, such as **Indac Electronics (Pty) Ltd v Volkskas Bank Ltd** and **Eskom v First National Bank of Southern Africa Ltd**, were also cited to illustrate the complexities surrounding bank liability in simultaneous roles as collecting and paying agents ([paras 26–28]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 24–34])
+In assessing the case, the Supreme Court of Appeal emphasized the significance of the bank's knowledge at the time of payment. It found that Absa's staff had sufficient knowledge of factors indicating a potential fraud, and thus McCarthy's argument that negligence was attributable to Absa when paying the cheques was valid. The court critiqued the initial trial court's focus on absolution based solely on the notion of separate duties owed in the collection versus payment capacity, explaining that in this context, the dual role of Absa as both collector and payer meant that knowledge gained during the collection process was relevant when assessing its conduct at payment time ([paras 24–33]).
+
+Nugent JA articulated that consideration must be given to what the bank's employees knew during the collection process and how that knowledge should influence their actions while paying the cheques. He rejected the idea that negligence in one capacity could isolate the bank from liability in its other role, asserting that the two functions are inherently interconnected in practice ([para 30]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 35])
+The appeal was upheld, with the court concluding that the absolution from the instance had been inappropriately granted by the lower court. The evidence presented by McCarthy sufficed to support allegations of negligence on the part of Absa, which had dismissed critical indicators of fraud. Consequently, the court ruled that McCarthy’s case should proceed, and found that Absa had a binding obligation to exercise care in its dealings with McCarthy. The judgment serves to clarify the legal responsibilities of banks in maintaining vigilance against potential fraud in cheque transactions and emphasizes that banks cannot compartmentalize their responsibilities when interacting with clients ([para 35]).
+
+The implications of this case extend into banking law, specifically regarding the adjudication of fraud and negligence claims against financial institutions operating in dual capacities.

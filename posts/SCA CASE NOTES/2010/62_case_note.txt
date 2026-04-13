@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2010
+
+# FIRAC Case Note: AMI Forwarding (Pty) Ltd v Government of the Republic of South Africa (Department of Customs and Excise) [2010] ZASCA 62
+
+## F – Facts
+The appellant, **AMI Forwarding (Pty) Ltd (AMI)**, was a clearing and forwarding agent for goods exported from and imported into South Africa, operating from November 1990 to May 1998 before ceasing operations. In October 2000, AMI received a demand from the South African Revenue Service (SARS) to pay R331,352.84 concerning allegedly false acquittals for three bills of entry ([paras 1-2]). Subsequently, in May 2001, SARS demanded R11,488,613.16 for 68 other bills of entry, claiming they had not been acquitted ([para 3]). AMI contended that all bills had been properly acquitted but struggled to produce documentation due to business changes and document loss after merging with another company ([para 4]).
+
+AMI provided security through several bonds to cover potential liabilities. In March 2003, AMI initiated legal proceedings against SARS to declare it not liable for demanded duties, asserting that SARS could not call upon the bonds ([paras 5-6]). The KwaZulu-Natal High Court found against AMI, leading to the current appeal ([para 7]).
+
+## I – Issues
+The primary legal questions before the Supreme Court of Appeal were:
+1. Whether AMI had proven it was not liable for the customs duties demanded by SARS.
+2. The interpretation of statutory provisions under the Customs and Excise Act 91 of 1964, specifically sections 18 and 18A concerning liability for duties on goods exported in bond or transit ([paras 9-10]).
+3. Whether AMI bore the onus of proving acquittal of the goods in question given the reverse onus provision in section 102(4) of the Act ([para 14]).
+
+## R – Rules
+The relevant statutory provisions are defined in sections 18 and 18A of the **Customs and Excise Act 91 of 1964**, which establish the liability of clearing agents for customs duties. Under these provisions:
+- A clearing agent is liable for duties on goods removed in bond or for export unless it can prove such goods were duly acquitted ([paras 10-11]).
+- The amendments to these sections effective from January 1996 altered the onus of proof, eliminating the requirement that evidence of removal be satisfactory to the Commissioner ([para 12]).
+
+Judicial precedents also guided the appeal:
+- The principle established in **Standard General Insurance Company Ltd v Commissioner for Customs and Excise** underlines that agents are liable under section 18A as exporters and under section 18 as importers ([para 12]).
+
+## A – Application
+The court analyzed whether AMI had sufficiently demonstrated acquittal. Evidence submitted included:
+- Two registers documenting acquittals, with confirmations from customs officials about the credits associated with cleared goods ([paras 19-21]).
+- Testimonies asserting that SARS records were in disarray during the relevant period and that acquittals often went unrecorded or lost altogether ([paras 24-26]).
+- An overwhelming weight of circumstantial evidence suggesting that AMI complied with its duties, along with the fact that SARS could not provide contrary evidence challenging the legitimacy of AMI's claims ([paras 29-30]).
+
+Regarding the issue of the onus of proof, the Supreme Court found that once AMI established it had removed the goods, the presumption created under section 102(4) shifted the burden back to SARS to prove any falsification or non-acquittal. The inconsistent evidence led the court to conclude that SARS failed in its responsibility to substantiate its claims of false acquittals ([paras 32-34]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld AMI's appeal, concluding that AMI had adequately demonstrated that it was not liable for the payment of the customs duties demanded by SARS ([paras 31, 36]). The court emphasized that the chaotic state of record-keeping by SARS, along with the substantial evidence provided by AMI regarding the acquittals, left no reasonable basis for the claims against AMI. As a result, it concluded that the demands made by SARS lacked proper legal foundation, reinstating AMI's position and ordering SARS to bear the costs of the appeal ([paras 35-36]).
+
+This judgment clarifies the standards for proving customs duty acquittals and the implications of record-keeping deficiencies within SARS, further specifying the responsibilities of both customs agents and regulatory authorities in managing customs processes.

@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF
+Source Folder: 2010
+
+## Case Note: Simcha Properties v San Marcus Properties ([2010] ZASCA 54)
+
+### FIRAC Analysis
+
+#### F – Facts
+
+In the case of **Simcha Properties 6 CC v San Marcus Properties (Pty) Ltd** ([1]), the primary parties involved are Simcha Properties (the appellant) and San Marcus Properties (the respondent), with the judgment delivered on **31 March 2010** by Mlambo JA, supported by Lewis, Hurt, Griesel, and Seriti AJJA. The action arose from a sale agreement concerning the sole asset owned by the respondent, an immovable property located in Blue Hills. The negotiated sale price was **R12 677 517**, executed by the sole director of San Marcus, **Davis Marcus Harris** (Harris) on **11 September 2007** ([2]).
+
+Initially, the agreement was to be concluded with **Dynadeals Three (Pty) Ltd**. However, it was decided during negotiations that the appellant would replace Dynadeals as the purchaser. The sale agreement was conditioned upon confirmation through a final arbitration award allowing the respondent to cancel a prior sale agreement with another company, **JFS Properties No 10 (Pty) Ltd**. This agreement included a suspensive condition set to be fulfilled by **31 October 2007**, failing which the agreement would lapse ([3], [4]).
+
+Despite the lapse of the initial agreement due to the unfulfilled condition, a reinstatement agreement was signed on **27 November 2007**, which aimed to restore the effects of the initial September agreement, extending the deadline for the suspensive condition to **31 January 2008** ([5], [6]). However, the appellant contended that the reinstatement agreement was invalid as Harris had not been properly authorized under § 228 of the Companies Act 61 of 1973 to enter into such a transaction ([7]).
+
+#### I – Issues
+
+The central legal questions addressed in this case revolve around:
+1. Whether the reinstatement agreement was validly authorized under the provisions of the Companies Act, specifically s 228, where a director's authority to dispose of the company's sole asset is scrutinized ([1], [8]).
+2. The implications of the amendment to s 228 which took effect post-agreement conclusion on the legal standing of the transaction and whether any prior authorizations remained effective ([8], [18]).
+
+#### R – Rules
+
+In evaluating the legality of the director's actions, the court turned to **s 228** of the Companies Act which stipulates:
+- Directors cannot dispose of the whole or substantial part of a company's assets without approval from a general meeting of the company ([9], [30]).
+- Specific transactions must be expressly authorized or ratified by resolution to ensure compliance ([31]).
+
+The reliance on the principle of **unanimous assent** was also central to the ruling; in companies with a sole shareholder, the explicit consent of the shareholder is considered sufficient for authorizing transactions involving major assets ([12], [31]).
+
+#### A – Application
+
+The court began its analysis by establishing that the original sale agreement and its replacement were part of the same transaction, thereby scrutinizing the resolutions passed by the sole shareholder **Monica Harris**. The court found that the authorization provided via her signed resolution on **29 June 2007**, which explicitly conferred authority upon Harris to act on behalf of the company in regard to the sale, remained valid despite the apparent lapse of the agreement ([10], [13], [15]). 
+
+The argument that new authorization was required post-lapse of the initial agreement was dismissed. The court recognized that Harris’s representation remained under her prior authorization, which encompassed the broader powers to execute necessary actions to fulfill the company’s interests ([14], [16]). Furthermore, the additional resolution passed in October served to ratify Harris’s actions, further underscoring the validity of the original transaction ([12], [19]).
+
+On the point of the amended provisions of s 228 that required special resolutions post-December 2007, the court found that these changes did not retroactively apply to the initial agreement or its reinstatement, as the ratifications conducted prior to that amendment held legal standing ([34]-[36]).
+
+#### C – Conclusion
+
+Ultimately, the Supreme Court of Appeal dismissed the appeal, holding that the reinstatement of the sale agreement was valid under the pre-existing company law provisions, with the necessary authorizations having been adequately addressed by the sole shareholder. The court underscored the principle that even if an agreement lapses, existing authorizations remain operative as long as they have not been revoked ([19], [37]). This ruling reinforces the legal principle regarding the authority of directors acting for companies despite possible lapses in agreements, as long as prior resolutions are adequately comprehensive, a crucial aspect of corporate governance under South African law.
+
+### References
+
+**Simcha Properties 6 CC v San Marcus Properties (Pty) Ltd** [2010] ZASCA 54.
+
+**Companies Act 61 of 1973 (Consolidated)**, available online. 
+
+**Levy & others v Zalrut Investments (Pty) Ltd** 1986 (4) 479 (W).
+
+**Gohlke and Schneider & another v Westies Minerale (Edms) Bpk & another** 1970 (2) SA 685 (A).

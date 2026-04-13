@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Commissioner for the South African Revenue Services v Tourvest Financial Services (Pty) Ltd
+
+### FIRAC Analysis
+
+**F – Facts:**
+The central dispute in this appeal concerns the value-added tax (VAT) liability of Tourvest Financial Services (Pty) Ltd (the respondent) engaged in currency exchange operations across its 52 branches in South Africa ([1]). Previously, the respondent had calculated not all VAT paid on goods and services as deductible input tax but instead applied an apportionment method based on its mixed-use of goods for both taxable and exempt supplies, in accordance with section 17(1) of the Value-Added Tax Act 89 of 1991 (the VAT Act), until a change in its position was taken in September 2013 ([5]). Following tax advice, the respondent claimed a deduction of R24,389,036.58 as input tax, suggesting that its acquisitions were used wholly for taxable supplies ([6]). 
+
+The South African Revenue Services (SARS), represented by the appellant, issued an additional assessment effectively nullifying this claim, contending that the respondent made both taxable and exempt supplies, necessitating further apportionment. The Tax Court found in favor of the respondent, declaring that the margin between buying and selling prices was not considered part of the currency exchange transaction from a VAT perspective ([7]). The appellant appealed this ruling.
+
+**I – Issues:**
+The core legal issue for determination is whether Tourvest Financial Services, while conducting its currency exchange operations, makes both taxable and exempt supplies as contended by SARS, or whether it solely makes taxable supplies as claimed by Tourvest ([8]). This determination hinges on the correct interpretation of the VAT Act, particularly the definitions of "taxable supplies," "exempt supplies," and how tax treatment should be applied to the fees charged for currency exchange transactions ([9]).
+
+**R – Rules:**
+Relevant statutory provisions include:
+- Section 2(1)(a) of the VAT Act defines activities deemed as financial services, specifically including currency exchange but exempting them from VAT unless fees or commissions are charged ([12]).
+- Section 17(1) of the VAT Act mandates apportionment when goods or services are used for both taxable and exempt supplies ([5], [9]).
+- The concept of a taxable supply is defined in section 1 of the VAT Act where it highlights that services chargeable under VAT constitute taxable supplies ([11]).
+- The tax regulatory framework recognizes that financial services were initially largely exempt from VAT to ease implementation difficulties and establish value added, modified following the Katz Commission's recommendations ([13]).
+
+**A – Application:**
+The court applied the laws governing VAT and the definitions provided in the VAT Act to assess the nature of the respondent's transactions ([16]). It determined that while currency exchange activitities are essentially exempt, the inclusion of fees or commissions within those activities alters their classification. The proviso in section 2(1) delineates that activity associated with fees or commissions does not retain its exempt nature for that part of the transaction providing the fee ([15]). Thus, the court concluded that Tourvest's operation created a mixed supply where only the taxable component could generate an input tax credit.
+
+This part of the judgment underscores that while the currency exchange might inherently be an exempt supply, the assessment recognized that the commissions charged landscaped a portion of that service as taxable. Therefore, the input tax claim must adhere to the legislative intent behind the VAT Act using the apportionment formula to ensure compliance ([17]).
+
+**C – Conclusion:**
+Ultimately, the Supreme Court of Appeal upheld the appeal by SARS, concluding that the respondent's attempts to claim a full VAT deduction were impermissible. The proper approach necessitated apportionment given the dual nature of the supplies ([20]). The court emphasized that the evolution of VAT liability principles represents an ongoing adjustment within the financial sector, recognizing the complexities of financial transactions and their impact on tax law. The ruling reinforces the necessity for businesses to critically assess and apply VAT regulations consistently to avoid potential liabilities or undue claims. 
+
+The appeal was upheld with costs awarded to the appellant, and the earlier Tax Court's decision was set aside, marking significant jurisprudential clarification concerning VAT and the categorization of financial services within South African tax law ([20]). This ruling is expected to influence how similar enterprises engage with VAT, ensuring compliance and accurate reporting in the submission of input tax claims.

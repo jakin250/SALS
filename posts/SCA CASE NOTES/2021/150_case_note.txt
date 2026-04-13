@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Rand West City Local Municipality v Quill Associates (Pty) Ltd and Another (Case no 497/20) [2021] ZASCA 150
+
+## FIRAC Method
+
+### F – Facts
+
+This case arises from a dispute between the Rand West City Local Municipality (the appellant) and Quill Associates (Pty) Ltd (the first respondent) concerning the validity of a writ of execution issued against the Municipality. The matter dates back to 1998, when a predecessor of the Municipality entered into a software agreement with Quill for a program known as "BIQ", including maintenance and support for one year, with the option for annual renewal ([para 2]).
+
+In 2004, after a name change of the Municipality, a new agreement was formed allowing continued use of the BIQ program without additional purchase costs but required ongoing payment of license fees. By July 2011, the Municipality’s predecessor terminated this agreement, intending to continue using the software on a month-to-month basis ([para 2]).
+
+Disputes arose over the unpaid license fees, leading Quill to initiate legal action against the Municipality's predecessors citing copyright infringement under section 24(1) of the Copyright Act 98 of 1978. The trial court ruled in favor of Quill, recognizing their copyright infringement and awarding a monetary judgment that included interest at a rate of 15.5% per annum, as well as value-added tax (VAT) if applicable ([para 3]).
+
+Subsequently, a writ of execution was issued based on the remaining balance owed, including compounded interest and VAT, calculated from the date the summons was served ([paras 4–5]). The Municipality contested the writ, asserting that the terms of the trial court’s order did not permit compound interest or VAT, and sought to have the writ set aside. The court a quo dismissed this challenge ([para 4]).
+
+### I – Issues
+
+1. Whether the writ of execution issued was valid under the terms of the original trial court order.
+2. Whether a decision to issue a writ of execution is subject to review under the Promotion of Administrative Justice Act 3 of 2000 (PAJA).
+3. The correct calculation method for mora interest: whether it should commence from the date of summons or from the date of the trial court's award.
+4. The applicability of VAT to the monetary award made by the trial court pursuant to the Copyright Act ([paras 5–6]).
+
+### R – Rules
+
+The court’s ruling relied on various statutory provisions and established precedents:
+
+1. **Copyright Act 98 of 1978, Section 24(1)** – outlines the rights of copyright owners to seek relief for infringement.
+2. **Promotion of Administrative Justice Act 3 of 2000 (PAJA)** – governs the review procedures regarding administrative actions, although its applicability was ultimately dismissed in this context ([para 6]).
+3. **Prescribed Rate of Interest Act 55 of 1975** – governs interest rates on monetary judgments, pertinent to determining how and from when interest ought to be calculated ([para 7]).
+4. Relevant case law, including *Drake Flemmer & Orsmond Inc and Another v Gajjar NO* and *Davehill (Pty) v Community Development Bank*, which provide guidance on compound interest and statutory interest calculations in different legal contexts ([paras 8–12]).
+
+### A – Application
+
+The Supreme Court of Appeal critically analyzed the correctness of the trial court's understanding of interest calculations. It determined that the writ of execution incorrectly included provisions not explicitly authorized by the original order, particularly regarding compound interest. The court emphasized that compound interest had not been requested by Quill or granted by the trial court, and therefore, the high court's decision misapplied the law by assuming that it was acceptable without a formal request for such relief ([paras 9–10]). 
+
+The court underscored that interest ought to run only from the date when the trial court made its determination concerning the amounts owed—a principle which aligns with standard practices in similar cases. The distinction between simple and compound interest was crucial to the court's reasoning, as it recognized that the applicability of compound interest applies only under specific circumstances that were not present in the case ([para 14]).
+
+Further, the court noted the ambiguous issue of VAT, clarifying that it was not required to adjudicate on this matter, as it should have been resolved by the trial court. Herein resided the flaw of the high court’s approach in assuming VAT liability without a proper determination by the trial court ([para 13]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal held that the writ of execution was invalid as it did not align with the original trial court order, particularly concerning interest calculations and the inclusion of VAT. The court concluded that the initial proceedings had mishandled fundamental legal principles relevant to the calculation of damages and interest. Thus, the appeal was upheld, effectively setting aside both the writ of execution and the preceding order of the court a quo. The first respondent was ordered to bear the costs of the application ([paras 15]).
+
+This case underscores the significance of precision in legal drafting and the adherence to court orders when it comes to executing judgments. The implications are critical for public entities and municipalities, emphasizing the necessity for adherence to correctly delineated legal remedies and the dangers of misinterpreting or overreaching in executing judgments.

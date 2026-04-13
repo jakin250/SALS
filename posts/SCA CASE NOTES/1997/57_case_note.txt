@@ -1,0 +1,44 @@
+Case Note: In the matter between:
+Source Folder: 1997
+
+# Case Note: In the matter between: John Paul McKelvey v. Deton Engineering (PTY) Ltd [1997] ZASCA
+
+## FIRAC Case Note
+
+### F – Facts: Relevant background and procedural history ([paras 2-6])
+
+In **McKelvey v. Deton Engineering (PTY) Ltd**, the central contention arose from a patent infringement dispute involving a patent owned by the first respondent, Deton Engineering, referred to as the "Deton patent," which concerned methods of producing wear-resistant inner linings for pipes. The appellants, led by John Paul McKelvey, contended that the claims of the Deton patent lacked novelty due to prior art, specifically a patent held by the second respondent, Chemical, Mining and Industrial Services (PTY) Ltd, known as the "CMI patent" ([paras 5-6]).
+
+The core of the dispute hinged on the timing of disclosures related to both patents. Although the priority date of the CMI patent predated that of the Deton patent, the CMI patent became open for public inspection only after the priority date of the Deton patent. Van Dijkhorst J, sitting as the Commissioner of Patents, ruled in favor of Deton Engineering, interdicting the third appellant (McKelvey) from infringing upon the claims of the Deton patent. The appellants maintained that the claims of the Deton patent were not novel, given that the content of the CMI patent sufficiently disclosed the same invention, effectively precluding novelty under the South African Patents Act 57 of 1978 ([para 6]).
+
+### I – Issues: Legal or constitutional questions ([paras 5-8])
+
+The primary legal issue was whether the claims of the Deton patent could be considered novel under the provisions of the South African Patents Act, specifically in light of the earlier CMI patent, which was not publicly available at the time of the Deton patent's application. Central to the appeal were the interpretations of **Section 25(7)** of the South African Patents Act, which pertains to the conditions under which a later patent may be deemed novel in consideration of earlier applications that are not yet publicly available ([paras 5-8]).
+
+The case raised two specific questions:
+1. Did the prior art disclosed in the CMI patent invalidate the relevant claims in the Deton patent despite the timing of public availability?
+2. Was the interpretation of Section 25(7) consistent with the legislative intent to prevent "double patenting," and did it embrace a "whole contents" or a "prior claim" approach in determining novelty?
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 8-20])
+
+The court primarily engaged with principles derived from the South African Patents Act 57 of 1978, particularly Section 25, which defines an invention's notion of "new" against the backdrop of prior applications. The provisions under Section 25(5-8) detail the nature of the "state of the art" that must be considered when assessing novelty ([paras 8-10]).
+
+Key to the court’s analysis was reference to the **Banks Report**, which recommended that the "whole contents" approach be adopted in relation to the novelty of subsequent patent applications. The report suggested that public interest would be better served by denying a patent for material already disclosed in a prior application, regardless of the latter’s claims not being publicly available at the time of the former's application ([paras 2-4]).
+
+Additionally, the court referenced precedent cases, including **Gentiruco AG v. Firestone SA** and **Fundstrust (PTY) Ltd in Liquidation v. Van Deventer**, to elucidate the interpretative challenges surrounding novelty in patent law, especially concerning the distinctions between claimed inventions versus disclosed matters ([paras 4-5]).
+
+### A – Application: Analysis of how the court applied the law ([paras 20-22])
+
+In applying the relevant statutory provisions, the court scrutinized the definitions within Section 25, particularly the divergence between "matter" and "claims." It emphasized that novelty could only be destroyed if the claimed invention in the Deton patent was also found in the claims of CMI. Consequently, because the CMI patent claims only became accessible to the public after the priority date of the Deton patent, it could not serve as a definitive basis for determining lack of novelty against claims of the Deton patent ([paras 20-21]).
+
+Moreover, Van Dijkhorst J's interpretation positing that novelty could only be assessed against the claims of patents was contested and ultimately overturned. The approach held that the prior claim methodology, as argued by the appellants, could permit double patenting and create inconsistent applications of patent rights. This interpretation aligned with the philosophical standpoint recommended in the Banks Report, which favored assessing the overall contents of prior disclosures rather than rigidly focusing on formal claims ([paras 20-22]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 22-22])
+
+The ultimate conclusion reached by the court was that Section 25(7) indeed embraced the whole contents approach, invalidating the specific claims of the Deton patent. The ruling allowed for a clearer interpretation aiming to reinforce the integrity of patent rights by upholding the principle that no single invention may be monopolized by multiple patents if it has already been made public, thereby safeguarding against double patenting ([paras 22-22]).
+
+Consequently, the court upheld the appeal, annulled the interdict against the appellants relating to the claims already found invalid, and adjusted the cost orders associated with the appeal. The ruling implies a significant legal precedent in delineating the contours of patent novelty assessments within South African law, clarifying the ongoing judicial trends towards more public-oriented interpretations of patent validity and the implications of prior disclosures ([para 22]).
+
+---
+
+This FIRAC structure captures the essence of the case and provides a coherent framework for understanding its implications within the realm of patent law as interpreted under South African legislation.

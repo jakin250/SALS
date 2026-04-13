@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Van Wyk Van Heerden Attorneys v Gore NO and Another (828/2021) [2022] ZASCA 128
+
+## F – Facts
+This appeal arises from the insolvency proceedings involving Brandstock Exchange (Pty) Ltd (Brandstock). The appellant, Van Wyk Van Heerden Attorneys (the attorneys), received three deposits into their trust account from Brandstock, which were made on behalf of its director, Bruce Robert Philp, as follows: (1) R1,250,000 on February 23, 2018; (2) R75,000 on the same date; and (3) R200,000 on April 30, 2018. Brandstock was provisionally wound up on July 3, 2018, and subsequently finally wound up on August 20, 2018 ([1]-[2]).
+
+Following the liquidation, the liquidators, being the first and second respondents, applied to have the deposits set aside under Section 26(1)(b) of the Insolvency Act 24 of 1936, contending that these constituted dispositions without value to the attorneys. The High Court endorsed this view, declaring the deposits as dispositions to the attorneys and requiring them to repay R1,525,000 to the liquidators, along with interest and costs ([2]).
+
+The critical aspect at trial was the attorneys' relationship with the funds deposited and whether they benefited from the dispositions made by the insolvent Brandstock ([1]-[11]). The attorneys contended that the deposits into their trust account were not made for their benefit, but rather at the instruction of their client to facilitate a payment to Utexx Trust, thus not falling under impeachable dispositions as set out in Section 26(1)(b) of the Act.
+
+## I – Issues
+The court was tasked with determining the key legal question: 
+
+1. Did the deposits qualify as impeachable dispositions under section 26(1)(b) of the Insolvency Act, which defines dispositions that can be set aside if made by an insolvent entity without value and where the recipient fails to prove the solvency of the debtor immediately thereafter?
+  
+2. Did the attorneys benefit from the deposits, thereby bearing the onus to demonstrate the solvency of Brandstock at the time of the transactions? ([1]-[12]).
+
+## R – Rules
+The legal framework relevant to the appeal includes:
+
+1. **Insolvency Act 24 of 1936**: Section 26(1)(b) allows for the setting aside of dispositions not made for value if the recipient cannot establish that the insolvent's assets exceeded liabilities immediately after the disposition ([3]-[4]).
+   
+2. **Legal Practice Act 28 of 2014**: This Act governs the operation of attorneys’ trust accounts and asserts that funds collated in a trust account do not form part of the attorney's assets or liabilities, thereby outlining the fiduciary responsibilities of attorneys ([17]-[19]).
+
+3. **Case Law**: The Supreme Court has maintained that, in instances dealing with trusts, attorneys operate as principals rather than agents, impacting how dispositions are interpreted. Relevant cases include *Kaplan NO v De Villiers* and *Wypkema v Lubbe*, which bolster the interpretation of attorneys' roles concerning trust accounts ([12]-[24]).
+
+## A – Application
+The court undertook a thorough analysis of whether the deposits constituted dispositions benefiting the attorneys. It was noted that the attorneys had not acted as agents for the funds deposited, as they neither owned the funds nor had prior knowledge of the source from which they derived ([11]-[38]).
+
+1. **Deposit Analysis**: The R1,250,000 payment was directed to facilitate a transaction with Utexx Trust; thus, the court held that it constituted a disposition to Utexx and not the attorneys, affirming their role merely as conduits for the payment. This corroborated their argument that they were not liable for proving Brandstock's insolvency, as they did not benefit from that transaction ([39]-[40]).
+  
+2. **Payments of R75,000 and R200,000**: The attorneys did benefit from these amounts once they were appropriated to settle fees and disbursements. Consequently, the court noted that these were dispositions deemed to acknowledge the insolvency of Brandstock. The attorneys were unable to prove that Brandstock's assets exceeded its liabilities at the relevant times for these two deposits ([38]-[41]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the appeal regarding the R1,250,000 deposit, ruling that it was not a disposition to the attorneys but to Utexx, thereby relieving the attorneys of the onus to prove Brandstock's insolvency. However, the appeals concerning the R75,000 and R200,000 payments were dismissed as the attorneys were found to have benefited from those deposits without providing proof of solvency. 
+
+The attorneys were ordered to repay R275,000 to the liquidators, and the court made a clear statement to disassociate from any previously expressed negative sentiments towards the conduct of the attorneys, reinforcing the judiciary's commitment to fair legal practice ([46]-[48]). 
+
+In summary, the ruling established significant clarifications on the interpretation of dispositions within the framework of trust accounts operated by attorneys, epitomizing that beneficial ownership is pivotal in the assessment of insolvency-related claims.

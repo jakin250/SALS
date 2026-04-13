@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+### Case Note: Purlish Holdings (Proprietary) Limited v The Commissioner for the South African Revenue Service (76/18) [2019] ZASCA 04
+
+---
+
+#### F – Facts
+
+This case concerns an appeal by Purlish Holdings (Proprietary) Limited (the appellant) against the South African Revenue Service (SARS) regarding the imposition of understatement penalties for income and value-added tax (VAT) for the tax years 2011 to 2014. The appellant had filed provisional income tax returns asserting it had not yet commenced trading and was thus entitled to refunds for the taxes paid. However, it had not registered as a VAT vendor and did not submit the requisite VAT returns during that period ([2]).
+
+SARS conducted audits on the appellant’s tax returns for both corporate income tax (CIT) and VAT. SARS subsequently issued assessments for these taxes and imposed understatement penalties due to the appellant’s failure to declare actual income and the non-submission of VAT returns. The Tax Court upheld these penalties, initially imposing a 100% penalty for both CIT and VAT after having reduced them from the initial determinations ([3]–[11]). 
+
+Testimony from Mrs Porter, an operational specialist at SARS, revealed that the appellant had submitted "nil returns," which led to the penalties being deemed as arising from gross negligence rather than bona fide incorrect reporting. The appellant claimed the penalties were unjustified due to the substantial prepayments it had made ([4]–[10]).
+
+#### I – Issues
+
+1. Whether SARS was justified in imposing understatement penalties under s 222 of the Tax Administration Act 28 of 2011 (the TAA) based on the appellant's alleged misconduct.
+2. Whether the Tax Court exceeded its jurisdiction by increasing the initial understatement penalties without appropriate grounds and prior notice to the appellant ([12]–[16]).
+
+#### R – Rules
+
+The relevant statutory provisions include:
+- **s 221 of the TAA**: Defines "understatement" as any prejudicial act or omission concerning tax returns, which includes non-rendering or incorrect statements ([12]).
+- **s 222(1)**: Stipulates that if a taxpayer has understated tax, an additional understatement penalty must be paid unless the taxpayer can prove the understatement resulted from a bona fide inadvertent error ([13]).
+- **s 222(2)**: Outlines the calculation of the understatement penalty, dependent on the degree of negligence or intentionality behind the understatement as defined in the penalties table under s 223 ([14]).
+- **s 102(2)**: Places the burden of proof regarding the imposition of such penalties on SARS ([20]).
+
+The TAA outlines varying percentages for penalties based on taxpayer conduct ranging from 10% for substantial understatement to 150% for intentional tax evasion ([15]).
+
+#### A – Application
+
+The court assessed whether SARS had established any understatement as defined by the TAA. It found that the appellant's non-filing of VAT returns coupled with the submission of nil returns clearly indicated multiple forms of understatement which prejudiced SARS ([16]–[24]). The court ruled that the appellant’s conduct fell within the categories of negligence listed in the statutory definitions, specifically addressing the arguments made by the appellant that no substantive harm was done due to prepayments exceeding their liabilities ([22]). 
+
+Mrs Porter’s evidence regarding the implications of the appellant's returns was not contradicted by any evidence, reinforcing the court's finding of gross negligence. The failure to demonstrate bona fide inadvertence further justified the application of the penalties ([24]).
+
+Regarding the Tax Court’s authority to increase the penalties, the Supreme Court of Appeal found that such an increase was unconstitutional due to the absence of proper notice and the initial framework of adjudication provided by the SARS rules ([25]).
+
+#### C – Conclusion
+
+The Supreme Court of Appeal upheld the appeal to the extent of setting aside the increased penalties imposed by the Tax Court but confirmed that the original penalties imposed by SARS were justified owing to the demonstrated gross negligence and prejudice to SARS ([24]–[27]). The Tax Court's overreach in adjusting the penalties was thus corrected, reinstating the original penalties of 25% for income tax and 50% for VAT, leading to a significant legal precedent regarding the limitations of the Tax Court's authority in such disputes. Furthermore, the judgment emphasizes the importance of the procedural due process and the necessity for taxpayers to maintain accurate submissions in relation to their tax obligations. 
+
+In terms of costs, given that both parties had partial success, the court ordered that each party bear its own costs of the appeal ([26]).
+
+### References:
+- Tax Administration Act 28 of 2011.
+- Purlish Holdings v The Commissioner for the South African Revenue Service (76/18) [2019] ZASCA 04.

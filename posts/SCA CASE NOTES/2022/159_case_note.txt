@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: National Commissioner of Correctional Services and Another v Democratic Alliance and Others [2022] ZASCA 159
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–4])
+On 29 June 2021, Jacob Gedleyihlekisa Zuma (the second appellant), former President of South Africa, was sentenced to 15 months’ imprisonment by the Constitutional Court for contempt of court for failing to appear before a Judicial Commission of Inquiry. Zuma began serving his sentence on 8 July 2021 and was subsequently admitted to the hospital wing of the Estcourt Correctional Centre due to health concerns. On 5 September 2021, following submissions from medical professionals regarding his deteriorating health, the National Commissioner of Correctional Services (the first appellant) released Zuma on medical parole without the requisite recommendation from the Medical Parole Advisory Board (the Board). This led to three civil parties—the Democratic Alliance (the first respondent), the Helen Suzman Foundation (the second respondent), and Afriforum NPC (the third respondent)—seeking judicial review of this decision under section 6 of the Promotion of Administrative Justice Act 3 of 2000 (PAJA).
+
+On 15 December 2021, the Gauteng Division of the High Court reviewed and set aside the Commissioner's decision and directed Zuma's return to custody. The court found the Board to be the proper statutory body for making medical parole recommendations under section 79(1)(a) of the Correctional Services Act 111 of 1998 (the Act). Subsequently, the Commissioner and Zuma appealed this decision ([paras 1–4]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 16–20])
+The key issues in this case revolve around whether:
+1. The Commissioner was empowered to release an inmate on medical parole without a positive recommendation from the Board.
+2. The classification of Zuma as a "sentenced offender" under the Act, given that his incarceration was for contempt of court.
+3. The implications of these findings on the validity of the medical parole granted to Zuma and the subsequent decisions of the High Court.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 28–49])
+1. **Correctional Services Act 111 of 1998:** This Act regulates medical parole, particularly under sections 75(1) and 79, delineating the powers of the Commissioner and the procedural requirements for granting medical parole, which include a positive recommendation from the Board. 
+2. **Promotion of Administrative Justice Act 3 of 2000 (PAJA):** Provides a framework for the judicial review of administrative decisions, allowing courts to set aside decisions that are unlawful or unconstitutional.
+3. **Judicial Commission of Inquiry v Zuma** [2021] ZACC 18: Established key principles regarding contempt of court and the nature of the sanctions imposed, emphasizing the punitive rather than coercive character of the sentence imposed on Zuma.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 40–56])
+The court carefully analyzed the legislative requirements for medical parole:
+1. **Interpretation of Sections 75 and 79 of the Act:** The court concluded that both sections must be read together, establishing that while section 75(7) provides for the Commissioner to grant medical parole, it is contingent upon compliance with the substantive requirements outlined in section 79(1). These requirements include the necessity of a terminal illness or physical incapacity, a low risk of re-offending, and appropriate arrangements in the community for the inmate's care.
+
+2. **Role of the Medical Parole Advisory Board:** The court affirmed that the decision-making authority concerning the medical condition of inmates falls within the remit of the Board, which comprised medical professionals. The Commissioner's decision to override the Board's recommendation was deemed unlawful, with the court asserting that the Board’s expertise is critical to determining an inmate’s eligibility for medical parole.
+
+3. **Legal Classification of Zuma as a "Sentenced Offender":** The court established that Zuma, sentenced for contempt of court, fell within the definitions set forth in the Act. Therefore, he was entitled to seek medical parole under the same provisions applicable to other offenders despite the nature of his sentence.
+
+4. **Rejection of Irrelevant Considerations:** The court noted that the Commissioner’s rationale for Zuma's release included irrelevant factors such as Zuma's former presidential status and the public unrest following his incarceration, which did not pertain to the actual medical parole criteria.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 57–66])
+The Supreme Court of Appeal ultimately upheld the High Court's decision, finding that the Commissioner's actions were unconstitutional and invalid under the PAJA due to non-compliance with mandatory statutory requirements. The court removed the High Court's additional declaratory orders concerning whether time spent on medical parole should count toward Zuma's sentence and clarified that the authority over such issues lies with the Department of Correctional Services.
+
+The implications of this ruling are significant, reaffirming the structured nature of parole recommendations and the vital role of independent medical assessments in such decisions. It also underscores the principle that no individual is above the law—even a former head of state—reiterating the critical checks and balances inherent in the South African legal system. 
+
+The appeal was dismissed with costs, solidifying the judicial stance that adherence to established legal frameworks must prevail in administrative actions, especially in contexts involving sensitive matters such as parole ([paras 66]).

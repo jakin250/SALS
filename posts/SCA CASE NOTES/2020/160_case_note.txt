@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Zungu-Elgin Engineering (Pty) Ltd v Jeany Industrial Holdings (Pty) Ltd and Others (1138/2019) [2020] ZASCA 160
+
+## FIRAC Case Note
+
+### F – Facts
+The case revolves around the contractual and suretyship arrangements between Zungu-Elgin Engineering (Pty) Ltd (the Appellant) and Jeany Industrial Holdings (Pty) Ltd, along with two individuals, Mr. Ian Laverne Donjeany and Mr. Lee Spencer Donjeany (collectively, the Respondents). The Respondents, as sureties and co-principal debtors, guaranteed a debt owed by the Appellant to Hollard Insurance Company Limited (Hollard) arising from a performance guarantee related to the manufacturing of storage tanks for liquid petroleum gas ([1]–[2]).
+
+Hollard provided the guarantee to Sunrise Energy (Pty) Ltd, allowing for payment upon the first written demand indicating the Appellant's breach of contract. On 20 February 2015, following a breach by the Appellant, Sunrise demanded payment from Hollard, which made the payment of R33 951 466 between 17 to 31 March 2015. Before supervising the business rescue of the Appellant on 11 March 2015, Hollard demanded reimbursement from the Respondents on 5 March 2015. The Respondents subsequently paid R250,000 to Hollard in instalments from 5 October 2017 to 10 April 2018, after which they sought reimbursement from the Appellant in the KwaZulu-Natal High Court ([4]–[8]). 
+
+The Appellant's defense was based on the timing of the debt's incurrence relative to the commencement of business rescue, specifically invoking section 154(2) of the Companies Act 71 of 2008 ([9]). The Appellant asserted the Respondents could not enforce their claims due to this statutory framework.
+
+### I – Issues
+The primary legal issue presented in this appeal is whether the debt the Respondents sought to recover from the Appellant was due before the initiation of business rescue proceedings on 11 March 2015. Specifically, the court needed to ascertain whether the Respondents had the right of recourse prior to that date and the interpretation of section 154(2) of the Companies Act ([1]–[10]).
+
+### R – Rules
+The relevant legal principles involve the common law regarding the surety’s right of recourse, which is contingent upon the payment of the debt by the surety to the creditor. C F Forsyth and J T Pretorius Caney state that a surety's right arises when the surety has paid the creditor, thereby allowing claims against the principal debtor ([12]–[13]).
+
+Section 154(2) of the Companies Act stipulates that a creditor cannot enforce any debt owed by a company immediately before the commencement of business rescue unless provided for in the business rescue plan ([9]). The interpretation of statutory provisions must be made in light of common law principles unless explicitly stated otherwise, which was central to the Appellant's argument against the enforceability of the Respondents’ claims ([14]).
+
+### A – Application
+The court emphasized that the surety's right of recourse materializes only upon payment to the creditor, not upon the demand for payment or prior contention of breach. Although the Respondents were notified of Hollard's demand, the actual liability of the Appellant arose upon Hollard's payment to Sunrise. Therefore, since Hollard's payment occurred after the business rescue process started, the Respondents could not enforce their claim under the common law right of recourse ([11]–[15]).
+
+The court further noted that the Appellant's argument did not sufficiently demonstrate how section 154(2) altered the common law position, reiterating that the statutory provision did not create new debtor obligations but rather preserved the common law understanding that the right of recourse is contingent upon payment. As such, the Respondents’ claim did not arise until Hollard made the payment to Sunrise, postdating the business rescue initiation ([14]).
+
+### C – Conclusion
+The court found that the Respondents' claims against the Appellant were indeed not enforceable due to their arising after the commencement of business rescue proceedings. As such, the Appellant's appeal against the ruling of the KwaZulu-Natal High Court to grant summary judgment in favor of the Respondents was dismissed with costs. The judgment reaffirms the principle that a surety’s right of recourse arises only following payment to the creditor, hence maintaining the integrity of business rescue proceedings as upheld in section 154(2) of the Companies Act ([16]). 
+
+This case showcases the interplay between common law and statutory regulations concerning guarantees and business rescue, illustrating the necessity for creditors to comply with statutory frameworks during the corporate restructuring process.

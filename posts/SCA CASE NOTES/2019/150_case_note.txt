@@ -1,0 +1,33 @@
+Case Note: Supreme Court of Appeal of South Africa
+Source Folder: 2019
+
+# Case Note: Airports Company SA Ltd v Maziphuse Trading (Pty) Ltd and Others [2019] ZASCA 15
+
+## F – Facts ([paras 1–4])
+The matter at hand involved an appeal by Airports Company South Africa Ltd (ACSA) from the KwaZulu-Natal Division of the High Court, Durban, which had dismissed a claim against Mr. Ntavhanyeni Nemukula based on a deed of suretyship. The claims arose from a lease agreement concerning retail premises at King Shaka International Airport, meant for operating a Wimpy franchise. The lease required all directors of the lessee company, including Mr. Nemukula, to sign a deed of suretyship, which was completed and signed by the three directors.
+
+Subsequently, due to arrears in lease payments, ACSA cancelled the lease and initiated legal proceedings against both the lessee and the directors under the deed of suretyship. Mr. Nemukula presented two primary defences against the claim: first, he argued that the deed of suretyship was invalid as it failed to specify the sureties and principal debtor when he signed it, violating the requirements of section 6 of the General Law Amendment Act, 1956. Second, he contended that he had not been informed by his co-directors that he was signing a deed of suretyship, believing instead that he was merely executing the lease. The High Court accepted the first defence, leading to ACSA’s appeal.
+
+## I – Issues ([paras 5–6])
+The key legal issues identified in this case were: 
+
+1. Whether the deed of suretyship was valid, given that it was argued to be incomplete at the time of signing and thus did not meet the requirements stipulated by section 6 of the General Law Amendment Act, 1956.
+   
+2. Whether Mr. Nemukula had a valid defence based on justifiable error concerning the nature of the document he was signing, given his assertion that he believed he was signing the lease instead.
+
+## R – Rules ([paras 7–11])
+The applicable legal rules are primarily derived from the General Law Amendment Act, 1956, which stipulates that to be enforceable, a deed of suretyship must be in writing and must incorporate all material terms (s 6). 
+
+Precedent cases were also cited to elucidate the principles surrounding the identification of sureties and principal debtors in deeds of suretyship, asserting that if the sureties and the principal debtor can be reasonably identified through the deed itself, the statutory requirements are satisfied ([paras 9–10]). Additionally, the jurisprudence on justifiable error in the context of contractual obligations highlighted that mere misunderstandings arising from a lack of due diligence do not generally constitute a defence ([para 11]).
+
+## A – Application ([paras 12–23])
+The Supreme Court of Appeal (SCA) commenced its analysis by addressing Mr. Nemukula’s contention regarding the validity of the deed of suretyship. The Court concluded that the document sufficed in its identification of the sureties, as it explicitly stated that “the undersigned” were the sureties, and since all directors signed the document, their identities were apparent. The SCA noted that the principal debtor was identifiable as the lessee, referencing the lease document attached to the deed. Thus, the deed satisfied the statutory requirements demands under section 6 of the General Law Amendment Act, overturning the High Court’s finding.
+
+Turning to the issue of justifiable error, the SCA held that Mr. Nemukula's belief that he was signing the lease was a personal misconception, not a result of any misleading conduct by ACSA. The Court emphasized that it is the responsibility of individuals involved in commercial transactions to ensure they understand the documents they are signing. Consequently, any error claimed did not rise to the level of justifiable error, as Mr. Nemukula had failed to exercise due diligence by not reading the document prior to signing it.
+
+The Court ultimately declared that Mr. Nemukula was liable to ACSA under the deed of suretyship. It remitted the quantification of the claim back to the High Court for determination, indicating that while the liability was established, the specifics of the outstanding amounts required further evaluation ([paras 20–23]).
+
+## C – Conclusion ([paras 24–25])
+In conclusion, the SCA upheld ACSA's appeal, determining that the deed of suretyship was valid, thereby affirming Mr. Nemukula’s liability under it. The findings underscore the necessity for individuals entering commercial agreements to be attentive to the contents of the documents they execute, reinforcing the legal principle that ignorance or misunderstanding does not absolve one of contractual obligations. The remittance of the quantum of damages to the High Court suggests that the matter of financial reparation remains unresolved, while also reiterating the principles of diligence and accountability in commercial dealings ([para 25]). 
+
+The implications of this decision extend to the enforcement of surety obligations and the significance of clear communication among co-actors in corporate governance, as it establishes that inadvertent misapprehensions, absent of external misrepresentation, do not furnish a viable defence in contractual disputes.

@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2004
+
+# Case Note: FJS Painting CC v ABSA Bank Limited
+
+**FIRAC Method**
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–9])
+This case revolves around a claim brought by FJS Painting CC (the appellant) against ABSA Bank Limited (the respondent) in connection with the collection of cheques. FJS Painting CC, a close corporation founded by Frederick Beytell, operated a current account at ABSA Bank’s Springs branch ([para 1]). The appellant was engaged in contracting work, primarily for Sappi Manufacturing (Pty) Ltd. Following Beytell's death on October 22, 1994, Nicky Craythorne, who had been living with Beytell and managing the corporation’s bookkeeping, opened a new account titled ‘The Sole Owner FJS Painting Sheeting’ ([para 5]) and thereafter deposited four cheques from Sappi, issued in the name of FJS Painting, into this account ([paras 4–6]).
+
+The cheques, which were marked ‘Not Transferable for Account Payee Only,’ were subsequently collected by the bank ([paras 8–10]). After learning that Beytell was the sole member of the appellant, Sappi canceled all agreements with the corporation. Craythorne deposited the cheques into her new account before she died, leaving the new account without funds ([paras 7–8]).
+
+Initially, the appellant's claim succeeded in the magistrates’ court but was later overturned by the Pretoria High Court. The present appeal, with the leave of this court, addresses whether the bank acted negligently in collecting the cheques belonging to a party that had no valid ownership ([paras 1–10]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 9–11])
+The primary issues were:
+1. Whether the appellant could establish ownership of the cheques for the purpose of suing the bank under the lex Aquilia for losses due to the bank’s negligent action in collecting the cheques ([para 9]).
+2. If the bank’s liability extended to situations where the named payee of a cheque was not its lawful owner ([para 16]).
+3. Whether the relationship of agency existed between Craythorne and FJS Painting CC that would allow for an implied transfer of ownership of the cheques ([para 13]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 10–17])
+The court referenced the requirements for the transfer of ownership under the common law regarding corporeal movable property, as articulated in **First National Bank of SA Ltd v Quality Tyres (Pty) Ltd** 1995 (3) SA 556 (A), which necessitates both delivery and an agreement to transfer ownership ([para 10]).
+
+Additionally, the court considered **Indac Electronics (Pty) Ltd v Volkskas Bank Ltd** 1992 (1) SA 783 (A), which established the liability of banks under the lex Aquilia for collecting cheques that belong to third parties without proper authorization. It further examined sections of the **Bills of Exchange Act 34 of 1964**, particularly section 19(4), concerning the presumptions around the delivery of cheques ([para 11]).
+
+The judgment also cited **Absa Bank Bpk v Coetzee** [1998] 1 All SA 1 (A), where the applicability of ownership principles was discussed in relation to collecting banks' duties and negligence ([para 11]). This position was supported by references to **Strydom NO v Absa Bank Bpk** 2001 (3) SA 185 (T), which hinted at possible future debates regarding the legal duties of banks to named payees who may lack ownership of the cheque ([para 16]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 12–15])
+In determining whether the appellant established ownership of the cheques, the court focused on Craythorne's intentions and the nature of her authority when she received the cheques. The evidence indicated that Craythorne's claim that she was a 50% shareholder in the business was unsubstantiated ([para 12]). It was found that she acted with the intention to benefit personally from the funds without authority from the corporation or its executor ([paras 12–14]).
+
+The court dismissed the argument that Craythorne acted merely as a messenger. Rather, it concluded that her actions indicated she was assuming control over the cheques, with no clear mandate from the corporation to do so ([para 13]). Thus, the necessary intentions for the transfer of ownership not only failed to meet the ownership transfer criteria but also pointed away from any constructive trust that could have existed because of her role as caretaker ([para 15]).
+
+Moreover, the court affirmed that any claims based on negligence by the bank toward the appellant were unfounded, as the primary element of ownership was never adequately established. It noted that the appellant's claim was grounded entirely in its assertion of ownership of the cheques, which was effectively disproved ([para 17]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 18])
+Ultimately, the appeal was dismissed with costs, reinforcing the principle that ownership is central to a collecting banker’s liability in cases involving negligence. The court held that the appellant failed to demonstrate on a balance of probabilities that it had acquired ownership of the cheques. The ruling suggests significant implications for future claims involving banks and cheques, particularly surrounding the standards the banks are expected to uphold before crediting funds to customer accounts ([para 18]).
+
+In summary, **FJS Painting CC v ABSA Bank Limited** articulated critical notions concerning ownership transfer, the precise duties of banks in the collection of cheques, and reinforced the existing legal framework governing delictual claims stemming from negligent banking practices. The decision clarified that any extension of liability beyond owners must be carefully scrutinized to avoid unwarranted financial exposure for banks, thus ensuring potent safeguards against fraudulent behavior in commercial transactions.

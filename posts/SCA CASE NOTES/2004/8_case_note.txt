@@ -1,0 +1,62 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2004
+
+# FIRAC Case Note
+
+**Case Title**: *Man Truck & Bus (SA) (Pty) Limited v Dorbyl Limited t/a Dorbyl Transport Products and Busaf*
+
+**Court**: Supreme Court of Appeal of South Africa
+
+**Case Number**: 38/03
+
+**Judgment Date**: 25 March 2004
+
+## F - Facts
+
+The central facts of this case revolve around a risk-sharing agreement between *Man Truck & Bus (SA) (Pty) Limited* (hereinafter appellant) and *Dorbyl Limited* (hereinafter respondent). In this case, Africa Truck & Bus (Pty) Limited (ATB), the original contracting party, entered into a lease agreement with Dusbus Leasing Co CC (Dusbus) to lease 12 buses for 60 months, amounting to over R11 million, where ATB manufactured the bus chassis and the respondent supplied the bus bodies for over R3 million ([1-3]).
+
+ATB also provided maintenance services to Dusbus, thereby establishing a further obligation through a maintenance agreement ([2]). To mitigate risk associated with the lease, ATB and the respondent signed a risk-sharing agreement, particularly clauses 4 and 5, outlining obligations including maintenance of the buses and payment of a guaranteed amount in case of repossession due to Dusbus' default ([2-4]).
+
+Dusbus, having defaulted on payments, led to the repossession of the buses, resulting in ATB claiming the guaranteed amount, which was calculated at over R1.4 million. The lower court granted ATB’s claim, but the full court of the Witwatersrand Local Division set aside this order and referred the matter for oral evidence ([3-4]).
+
+## I - Issues
+
+Three central issues arose in this case:
+
+1. Did ATB undertake an obligation to maintain the buses as per the maintenance agreement with Dusbus and thereby to the respondent via the risk-sharing agreement ([5(a)])?
+2. Were the obligations under the risk-sharing agreement reciprocal, allowing the respondent to invoke the *exceptio non adimpleti contractus* as a defense against the claim for payment ([5(b)])?
+3. Was the full court’s decision to refer the matter for the hearing of oral evidence appealable, and should it be set aside ([5(c)])?
+
+## R - Rules
+
+The following legal rules and principles were relevant to determining the case:
+
+1. The principle of reciprocity in contractual obligations holds that in bilateral contracts, parties are typically bound to fulfill their respective obligations as a mutual exchange (referencing *B K Tooling (Edms) Bpk v Scope Precision Engineering (Edms) Bpk* 1979 (1) SA 391 (A); *Rich and Others v Lagerwey* 1974 (4) SA 748 (A); *Grand Mines (Pty) Limited v Giddey NO* 1999 (1) SA 960 (SCA)) ([12]).
+  
+2. The *exceptio non adimpleti contractus* defense applies when the obligations of both parties are interdependent, thereby allowing one party to withhold performance until the other party has upheld theirs ([12-13]).
+
+3. Decisions of a procedural nature, including referring matters for oral evidence, are typically not appealable as per the definition of a “judgment or order” under section 20(1) of the Supreme Court Act, 59 of 1959 ([21]).
+
+## A - Application
+
+### Obligation to Maintain
+
+Upon examining clause 4 of the risk-sharing agreement, the court noted a clear distinction. The wording "ATB will maintain, service and repair the buses" indicated an obligation that ATB owed to the respondent, contrasting with recitals of past agreements ([6-10]). This obligation was deemed to be enforced by the respondent's right to inspect the buses, evidencing ATB's duty under the risk-sharing agreement to ensure that maintenance obligations to Dusbus were fulfilled ([10]).
+
+### Reciprocity of Obligations 
+
+The court deliberated on whether the respondent's obligation to pay the guaranteed amount was reciprocal. Referencing relevant case law, the court established that bilateral contracts are generally implied to be reciprocal unless explicitly stated otherwise ([12-13],[23-24]). The primary interpretation led to the conclusion that ATB’s obligation to maintain the buses was indeed reciprocal to the respondent's obligation to pay, in light of the commercial context which established the need for maintenance to prevent default by Dusbus ([11-20]).
+
+### Referral to Evidence
+
+The Supreme Court concluded that the full court's decision to refer the matter for oral evidence lacked the attributes essential for an appeal since it did not conclude any substantive application or order related to the case ([21]). Thus, this part of the appeal was dismissed as not appealable.
+
+## C - Conclusion
+
+In conclusion, the Supreme Court upheld the appeal, ruling that ATB indeed had undertaken a reciprocal obligation to maintain the buses under the risk-sharing agreement. The court's application of the principles of reciprocity clarified that the respondent’s obligation to pay the guaranteed amount was contingent upon ATB’s performance regarding maintenance.
+
+The appeal was therefore granted in favor of the appellant, which rejected the further appeal against the referral to oral evidence as not being an appealable order. 
+
+The ratio decidendi reflects the court's emphasis on the interpretation of reciprocal obligations in contracts and the importance of saving commercial entities from incurring undue risks due to non-performance by contractual partners ([22-24]). Hence, the respondent was ordered to pay the amount claimed along with interest, setting a significant precedent in contractual obligation interpretations and enforcement. 
+
+**Judgment**: Appeal upheld with costs.

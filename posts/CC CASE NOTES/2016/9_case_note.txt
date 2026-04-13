@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: *Provincial Government: North West Province and Another v Tsoga Developers CC and Others* [2016] ZACC 9
+
+## F – Facts
+The case arises from a dispute initiated by the Provincial Government of North West Province and the Director-General of the Office of the Premier (the applicants) against Tsoga Developers CC and other respondents. The core issue pertains to the lawfulness of a writ of execution issued against the North West Department of Public Works, which authorized the attachment of R30,476,839.71 held in a bank account of the Department ([1], [4]).
+
+In July 2008, the Department awarded a tender for the construction of Brits Hospital to a joint venture involving Tsoga and Ilima (Pty) Ltd, the latter of which subsequently became insolvent ([4]). Following complex litigation, a settlement agreement was reached on 16 May 2013 that required the Department to pay Tsoga a total of R22,608,794.39, which was made an order of the High Court. The initial agreement was a product of negotiations undertaken after Ilima's liquidation ([8], [9]).
+
+Despite the agreement, the Department failed to make payments, leading Tsoga to institute proceedings in the High Court. After various legal maneuvers, including a failed rescission application, the High Court ordered the Department to pay the owed amount plus interest ([10], [8]). Following the refusal of interim relief in the High Court, an amount of R30,476,839.71 was attached based on a subsequent writ and paid over to the third respondent, Hannes Peyper Incorporated, Tsoga's attorneys ([2], [3]). The applicants sought leave to appeal against this refusal, claiming infringement of statutory processes under the State Liability Act and violations of constitutional provisions regarding the Provincial Revenue Fund ([15], [16]). 
+
+## I – Issues
+The legal questions at the heart of this case include:
+
+1. Whether the writ of execution was lawfully issued in compliance with the provisions of the State Liability Act, particularly regarding the need for serving the settlement order on the provincial treasury as mandated by section 3(4) ([15]).
+2. Whether the attachment of funds from the Provincial Revenue Fund contravened constitutional protections regarding the withdrawal of such funds as stipulated in section 226 of the Constitution ([16], [18]).
+3. Whether the applicants demonstrated sufficient prospects of success in their arguments to warrant leave for a direct appeal to the Constitutional Court.
+
+## R – Rules
+The principles governing this case stem from both statutory and constitutional law. 
+
+1. **State Liability Act**: This Act outlines the procedure for enforcing money judgments against the state, mandating service of court orders on relevant treasuries (section 3(4)) and outlining the process for judgments against the state ([15], [24]).
+2. **Constitution of the Republic of South Africa, 1996**: Section 226 establishes the legal framework for the Provincial Revenue Fund, stipulating the conditions under which money may be withdrawn from it ([16], [18]).
+3. **Precedent**: Prior case law, particularly *Golden Arrow*, casts doubt on the permissibility of attachments as valid charges against the Provincial Revenue Fund ([17]).
+
+## A – Application
+The Constitutional Court, led by Madlanga J, first evaluated the applicants' claims regarding the validity of the second writ based on non-compliance with the State Liability Act. The court noted that if the writ's issuance did not follow statutory requirements, it would lack the necessary validity pursuant to the principle of legality ([28]).
+
+On the section 226 argument, the court acknowledged the potential implications of withdrawing state funds without proper statutory adherence ([21]). However, the court ruled that the urgency and specifics of the applicants' financial difficulties pertaining to service delivery lacked substantiation ([36], [38]).
+
+Regarding the irreparable harm argument, the court found that the applicants provided insufficient evidence to demonstrate the immediate impact of not obtaining an interim order or how the lack of access to the funds halted critical projects ([37]). The court emphasized that mere assertions without detailed financial breakdowns could not suffice for a finding of irreparable harm ([39]).
+
+Furthermore, when assessing the prospects of success on the merits of the defendants' claims, the court noted the high bar set by the *Eke v Parsons* precedent. It indicated that the settlement order, barring successful legal challenge, remained valid despite arguments for its invalidity stemming from procedural missteps in negotiating settlements ([47], [58]).
+
+## C – Conclusion
+In conclusion, the Constitutional Court denied the application for leave to appeal. The judgment rendered by the High Court was upheld, affirming the legality of the writ under the State Liability Act and rejecting the applicants' claims related to severe disruptions in service delivery as inadequately evidenced. The judgment reinforced the notion that adherence to statutory processes is paramount in public financial management. The court ordered the applicants to bear the costs, allowing for the continuance of judicial processes without unnecessary delays. The implications of this ruling stress the importance of statutory compliance in public procurement and financial accountability within government agencies ([60], [62]). 
+
+This comprehensive analysis through the FIRAC method illustrates the interplay between statutory adherence and constitutional protections in the realm of state liabilities, reflective of the broader legal context in South Africa.

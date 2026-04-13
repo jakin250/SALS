@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Maqubela v The State (821/2015) [2017] ZASCA 137
+
+## F - Facts
+The appellant, Thandi Sheryl Maqubela, was convicted by the Western Cape High Court on charges of murder, forgery of a will, and fraud regarding her husband, Patrick Ntobeko Maqubela. The trial court, presided by Murphy J, sentenced her to a total of 18 years in prison—15 years for murder and additional years for forgery and fraud, to run concurrently. The appellant denied all charges, contending her husband likely died of natural causes. Expert medical evidence was contested, notably the opinions of pathologists regarding the cause of death: Dr. Mfolozi (for the State) posited suffocation, while Professor Saayman (for the defense) supported the possibility of a death due to natural causes ([paras 1–2]). 
+
+The State's case hinged on the alleged mendacity and behavior of the appellant, interpreted as indicative of "guilty consciousness." The trial court suggested that her dishonesty could be construed as a form of an admission that she was involved in the unlawful killing. A critical aspect of the appeal involved the trial court's misapplication of the scientific vs. judicial measures of proof in determining causation ([paras 3–4]). 
+
+## I - Issues
+The appeal centered on whether:
+1. The trial court erred in finding that the medical evidence could not exclude the cause of death as being natural.
+2. The reliance on the appellant's alleged mendacity as standalone evidence for inferring murder was misplaced ([paras 3–19]).
+
+In essence, the primary issue was the trial court's failure to appropriately apply the judicial measure of proof, leading it to conclude that the evidence of the cause of death was inconclusive, despite expert testimony suggesting natural causes were a probable explanation ([paras 10–15]). 
+
+## R - Rules
+The judgment invoked key legal principles regarding the evaluation of expert evidence. It emphasized the distinction between the *scientific measure of proof*, which requires certainty, and the *judicial measure of proof*, which concerns likelihood and probability ([paras 5–6]). The court referred to the case of *Michael & Another v Linksfield Park Clinic (Pty) Ltd & Another* 2001 (3) SA 1188 (SCA), which elucidated that expert witnesses must contribute to the assessment of probability rather than certainty in determining causative factors.
+
+Additionally, the court cited the principles of inferential reasoning as established in *R v Blom* 1939 AD 188, reiterating that any inference drawn must be consistent with the proved facts ([para 17]). The minority judgment of Malan JA in *R v Mlambo* 1957 (4) SA 727 (AD) was discussed with reference to the implications of an accused's conduct as circumstantial evidence ([paras 18–19]).
+
+## A - Application
+Upon reviewing the trial court's methodology, the Supreme Court of Appeal determined that it inadmissibly employed the scientific standard when the judicial standard should have been applied to ascertain the cause of death. The court noted discrepancies in the trial court’s findings, particularly where it simultaneously acknowledged that a natural cause of death was consistent with the medical evidence while concluding that this evidence was inconclusive. 
+
+The appellate court observed that Professor Saayman's assertion pointed towards natural causes being a probable outcome, which should have negated the murder conviction. Instead, the trial court seemed to dismiss this conclusion, overly dependent on the appellant's behavior as indicative of criminality. The SCA concluded that given the evidence that the deceased probably died of natural causes, the inference of murder was not reasonable, as it failed to exclude alternative explanations ([paras 10–15], [19]).
+
+The SCA emphasized that the unresolved concepts of inferential reasoning must exclude every reasonable hypothesis but murder, and the trial court had not adhered to this legal standard ([para 17]). The failure to apply the correct measures of proof resulted in a significant misjudgment regarding the evidence presented.
+
+## C - Conclusion
+Ultimately, the Supreme Court of Appeal upheld the appeal, setting aside Thandi Sheryl Maqubela's murder conviction and declaring her not guilty. The court's determination underscored that a probable cause of death being established—specifically, natural causes—rendered the murder charge untenable. The implications of this case highlight the necessity for trial courts to accurately apply the correct standard of proof across differing categories of evidence, particularly in cases involving expert medical testimony. This case solidifies the legal principles governing the inference of guilt and the requisite burden on the prosecution to establish said guilt beyond reasonable doubt ([paras 20]).
+
+In summary, this judgment serves as a vital affirmation of the rights of the accused in criminal proceedings, stressing that the mere presence of dubious behavior cannot substitute for the necessity of establishing a clear path to conviction through admissible and relevant evidence. The case emphasizes the importance of rigor in both the interpretation of expert medical evidence and the careful application of legal standards in establishing criminal liability.

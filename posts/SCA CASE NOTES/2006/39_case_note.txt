@@ -1,0 +1,47 @@
+Case Note: IN THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2006
+
+# FIRAC Case Note: City of Johannesburg v Kaplan NO [2006] SCA 45 (RSA)
+
+## F – Facts
+The case concerns an appeal against a decision by Stockwell AJ in the Witwatersrand Local Division, which dismissed the City of Johannesburg’s (the appellant) application regarding outstanding municipal debts owed by Krokipark CC (the corporation in liquidation) ([1]–[2]). The corporation, which went into liquidation on May 16, 2003, owned Erf 406 Wynberg, which was sold by the first respondent, Harry Kaplan (the liquidator), for R700,000 on August 26, 2003 ([3]).
+
+The estate had accrued debts to the appellant totaling over R855,000, which included rates, service fees, interest, and charges. The liquidator paid R386,239.72 to obtain a clearance certificate for transferring the property but left a balance of R469,404.71 unpaid ([4]). The crux of the appeal centered around whether the preference for the municipality’s debts under Section 118(3) of the Local Government: Municipal Systems Act 32 of 2000 (the Municipal Systems Act) superseded the preference held by First National Mortgages Nominees (the second respondent), which had a mortgage bond totaling R1,231,823.09 on the property ([4]).
+
+The appellant sought a declaration from the court that its claims were a charge on the property, enjoying priority over the mortgage bond, and requested that these debts be classified under various provisions of the Insolvency Act 24 of 1936 ([5]).
+
+## I – Issues
+The primary issue was whether the municipality's preference under Section 118(3) of the Municipal Systems Act took precedence over the mortgage bond held by the second respondent, particularly in light of the provisions of the Insolvency Act ([4]). Specifically, the court had to determine:
+
+1. Whether the two-year time limit imposed in Section 118(1) of the Municipal Systems Act was also applicable to claims under Section 118(3).
+2. How Section 89(4) of the Insolvency Act, which governs claims during insolvency, influenced the scenario of municipal debts ([10]).
+
+## R – Rules
+Several statutes were pivotal in resolving the issues:
+
+1. **Municipal Systems Act, 32 of 2000**: 
+   - **Section 118(1)** requires a clearance certificate for property transfer, certifying full payment of municipal debts due in the two years preceding the certificate application.
+   - **Section 118(2)** indicates that this section is subject to the Insolvency Act.
+   - **Section 118(3)** states that municipal debts are a charge on the property and enjoy preference over any mortgage bond ([6]).
+
+2. **Insolvency Act, 24 of 1936**:
+   - **Section 89(4)** establishes that no preference shall be accorded to any claim for taxes not due within two years preceding the sequestration ([9]).
+
+Earlier judicial precedents were also referenced, notably **BOE Bank Ltd v City of Tshwane Metropolitan Municipality** which held that Section 118(3) was an independent provision and not subject to Section 118(1)'s two-year limit ([8]).
+
+## A – Application
+The court highlighted the legislative intent behind both statutory provisions. It concluded that Section 118(3) provided municipal debts with a preference over mortgage bonds without the need for a defined time limit outside of insolvency contexts. The incorporation of Section 89(4) into Section 118(2) allowed the applicability of these provisions uniquely during insolvency or liquidation ([12]–[24]). 
+
+The South African legal framework historically supported a municipality's right to secure payment through preferences on property taxes and rates due to the need to ensure municipal service sustainability ([20]–[21]). The court recognized that previously established practices had paved the way for the contemporary interpretation of both Sections 118 and 89, rendering certain municipal debts as quasi-liens that the legislature intended to continue under modern statutes ([20]).
+
+By stressing that the nature of municipal claims could potentially fall under definitions of "tax" as per Section 89(5), the court established that these claims may indeed be subject to the two-year preference limit when defined as such. However, those claims which did not qualify as "taxes" would not be subjected to this limitation, thus ensuring municipal claims for service fees retained priority over unsecured creditors generally ([30]).
+
+## C – Conclusion
+The Supreme Court of Appeal concluded that the appellant's claims as municipal debts should be recognized as a charge on the property, providing them precedence over the second respondent's mortgage bond for the two years prior to liquidation and during the transfer period. The court held that the appeal succeeded, overturning the previous judgment and recognizing municipal debts tied to property as a unique form of security, not fully confined by the restrictions of the insolvency regime ([32]).
+
+Consequently, the court declared that:
+
+1. Amounts owed to the municipality were subject to preference based on the statutory provisions.
+2. There exists a clear distinction between municipal debts categorized as taxes and those which are not, leading to differing implications under the Insolvency Act ([33]).
+
+This judgment reinforces the critical nature of securing municipal debts against properties and delineates the precedence of statutory frameworks governing insolvency concerning local government finances, potentially serving as a significant precedent for future cases involving municipal claims and insolvency proceedings.

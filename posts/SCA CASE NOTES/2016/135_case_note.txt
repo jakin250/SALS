@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note (FIRAC Method)
+
+**Case Title:** Trinity Asset Management (Pty) Ltd v Grindstone Investments 132 (Pty) Ltd  
+**Neutral Citation:** [2016] ZASCA 135  
+**Coram:** Bosielo, Theron, Willis and Swain JJA and Dlodlo AJA  
+**Judgment Delivered:** 29 September 2016  
+**Case No:** 1040/2015  
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–8])
+
+The appellant, Trinity Asset Management (Pty) Ltd, initiated proceedings seeking a provisional order of liquidation against the respondent, Grindstone Investments 132 (Pty) Ltd. The application was dismissed with costs by the Western Cape Division of the High Court (Yekiso J), leading to the appeal ([para 1]).
+
+The case revolves around a loan agreement executed between the appellant and respondent on 1 September 2007, wherein the respondent borrowed R3,050,000 from the appellant. Clause 2.3 of the loan agreement stipulated that "the Loan Capital shall be due and payable to the Lender within 30 days from the date of delivery of the Lender’s written demand" ([para 2]). Crucially, the capital was claimable immediately upon disbursement, but its repayment was contingent on the appellant's written demand.
+
+Payments were made by the appellant in three installments, totaling R3,050,000, between February 13 and February 21, 2008. A subsequent communication from the appellant sought clarification about the outstanding debt but did not constitute a formal demand as required by clause 2.3 ([paras 4–5]). Eventually, a letter of demand was delivered to the respondent on December 9, 2013, claiming R4.6 million, which was met by the respondent's denial of liability ([paras 6–8]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 1–10])
+
+The overarching issue in the appeal was whether the debt had prescribed. This involved two key sub-issues:
+1. **The interpretation of clause 2.3** - Did it establish a condition precedent for the obligation to pay, thus affecting the commencement of prescription? 
+2. **The distinction between when a debt becomes 'due' versus when a demand is made** - Did the prescription period begin when the loan capital was initially claimed, or only upon the appellant's formal demand for repayment ([paras 1, 2, 12]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 11–20])
+
+The court examined various provisions under the **Prescription Act 68 of 1969**. Specifically:
+- **Section 11(d)** states that prescription of a debt will complete three years after it becomes "due" ([para 11]).
+- The court cited several cases that clarified that a debt becomes due when the creditor may demand performance, even if a later demand is contractually required for payment ([para 12, 13]).
+
+The principles from **Deloitte Haskins & Sells Consultants (Pty) Ltd v Bowthorpe Hellerman Deutsch (Pty) Ltd** were cited, which emphasized that a creditor must have an immediately claimable debt for it to be deemed due ([para 13]). It affirmed that demand was more of a procedural formality rather than a prerequisite for establishing the right to sue ([para 18]).
+
+The case also referenced **Uitenhage Municipality v Molloy**, affirming that a creditor cannot defer the commencement of prescription through their inaction ([para 15]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 19–22])
+
+The appellate court concluded that the preceding payments made in February 2008 meant that the debt had been "due" from that date. It determined that the prescription period began to run from the date the loan was advanced and not from the date of demand on December 9, 2013 ([paras 19–20]).
+
+The court dismissed the appellant's argument that their demand was a condition precedent, noting that the demand did not alter the debt's due status as the loan was immediately claimable. It emphasized that the facts did not support the claim that there was an intention between the parties to delay the commencement of prescription ([para 11, 19]).
+
+The dissenting opinion by Dlodlo AJA argued that clause 2.3 was an essential condition, asserting that the parties had clearly agreed that the debt would only become due following a written demand, thus preventing prescription from commencing until such demand was properly executed ([paras 34–42]).
+
+### C – Conclusion: Court's Holding, Ratio Decidendi, and Implications ([paras 22–22])
+
+In conclusion, the Supreme Court of Appeal unanimously dismissed the appeal with costs. The court upheld that the debt had prescribed as it had remained unpaid for over three years since it became due in February 2011, prior to any demand being made ([paras 22]).
+
+The implications of this decision underscore the importance of clarity in contract terms regarding the conditions under which debts become due, the handling of loan agreements, and the inviolability of the running of prescription. The court's strong stance on non-retroactive obligations emphasizes the legal necessity for creditors to act promptly to safeguard their rights against prescription, recognizing the delicate balance between the principles of freedom of contract and the protective measures of prescription law. 
+
+The dissent highlights alternative interpretations and the significance of understanding contractual obligations that may affect future cases, potentially inviting further review and clarifications in the legal framework regarding debts that are repayable on demand ([paras 22]).

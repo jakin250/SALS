@@ -1,0 +1,53 @@
+Case Note: THE SUPREME COURT OF
+Source Folder: 2010
+
+# FIRAC Case Note: Defy Limited v The Commissioner for the South African Revenue Service
+
+**Case Title:** Defy Limited v The Commissioner for the South African Revenue Service  
+**Neutral Citation:** Defy v SARS (192/09) [2010] ZASCA 11 (12 March 2010)  
+**Coram:** Navsa, Nugent, Heher, Bosielo and Leach JJA  
+**Heard:** 19 February 2010  
+**Delivered:** 12 March 2010  
+
+## F - Facts
+
+This case arises from an appeal by Defy Limited (the appellant) against an assessment made by the Commissioner for the South African Revenue Service (the respondent) for secondary tax on companies (STC) amounting to R28,811,074, levied on a dividend declared during the cycle from May 16, 2004 to January 27, 2005. Defy objected to this assessment but was unsuccessful, which led to an appeal before the tax court where the initial decision was upheld ([1]).
+
+The legislation in question is Section 64B of the Income Tax Act 58 of 1962, which governs the levy of STC on dividends declared by resident companies ([2]). Part VII of the Act has been amended several times since its introduction in 1993 ([3]). Defy's business decisions culminated in the winding-up of the company, during which the proceeds were distributed to shareholders. Central to the case is whether certain distributions from Defy constituted "profits of a capital nature," which would exempt them from STC under Section 64B(5)(c)(ii) ([10]–[11]).
+
+Defy received R343,811,457 from its subsidiary, which included R206,080,510 described as capital profit ([21]). This amount was subsequently distributed to its shareholders, with Defy claiming this distribution should be exempt from STC on the grounds that it was derived from capital profits ([27]). The Commissioner, however, assessed that R230,488,595 of the total dividend paid was taxable ([28]).
+
+## I - Issues
+
+The primary legal issue before the court was the distinction between what constitutes "profit of a capital nature" and whether the distributions made by Defy to its shareholders could be classified as such, particularly in light of STC implications ([21]). It was necessary to determine if Defy had genuinely realized a capital profit from its operations, and whether this capital profit could exempt the distributions made to shareholders from STC ([20], [34]).
+
+Furthermore, the court had to clarify whether the relevant funds received by Defy equated to a capital profit based on the statutory criteria established in Section 64B(5)(c)(ii) ([41]).
+
+## R - Rules
+
+The relevant rule comes from Section 64B of the Income Tax Act, which states that certain dividends are exempt from STC if they qualify as distributions of profits of a capital nature during winding-up or liquidation proceedings ([3]–[4], [9]).
+
+The definitions of "dividend," "capital profits," and the interpretation of what constitutes "profits of a capital nature" as outlined in various precedents and statutory provisions were also pertinent ([36]).
+
+### Precedents
+The court referenced prior cases including Bailey v Commissioner for Inland Revenue and Income Tax Case No. 101, which illustrate interpretations of capital versus revenue profits in tax law ([39]–[40]). These cases pointed to the complexity of categorizing profits and the necessity for a clear connection to the disposal of capital assets to meet the criteria for capital profit exemption.
+
+## A - Application
+
+In applying the relevant statutory framework to the facts before it, the court thoroughly examined the nature of the distributions made by Defy to its shareholders. It concluded that the distributions did not constitute a gain from the disposal of assets controlled by Defy but rather derived from dividends paid by Appliances, a subsidiary. Thus, the essential question was whether Defy had actually realized any capital profit from the sale of its shares or assets through Appliances’ operations ([41]–[44]).
+
+The court analyzed the statutory language both in a literal sense and in the broader context of its provisions. It emphasized that just because Defy had described its profit in terms that suggest a capital profit did not necessarily mean that it legally met the requirements as set forth in the Act. The point made was that profits must be directly attributed to actual disposals of capital assets ([34]–[36]).
+
+Ultimately, the court rejected Defy’s argument. It determined that while profits might look similar in quantifiable terms, they did not fall into the statutory category of capital profits as determined by the provisions of the Income Tax Act. This decision stems from a clear interpretation of what constitutes a capital profit, which the court ruled must relate to tangible disposals rather than abstract notions of profit or value ([41]–[48]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal dismissed Defy's appeal, affirming the tax court's ruling. It concluded that the moneys received by Defy were not derived from a capital profit as defined under the statutory provisions. They were instead attributed to dividend distributions made under non-capital characteristics, thus rendering them subject to STC ([49]). 
+
+The ruling serves as a significant clarification within the realm of taxation, emphasizing the need for clear definitions and stringent adherence to statutory interpretations regarding capital profits, and underscores the principle that statutory exemptions cannot be broadly construed ([48]).
+
+The implications of this case are profound for corporate tax planning, as it affirms the necessity for companies to critically analyze profit distributions and their taxable nature, especially in structures involving subsidiaries and liquidations ([48]).   
+
+--- 
+
+*This case note is structured for a legal audience and contains substantive knowledge aimed at understanding the implications of the taxation decisions under South African law.*

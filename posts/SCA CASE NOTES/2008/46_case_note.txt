@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note
+
+**Case Title:** Northpark Trading 3 (Pty) Ltd v Ausplow (Pty) Ltd  
+**Neutral Citation:** Northpark Trading v Ausplow (278/07) [2008] ZASCA 46  
+**Court:** Supreme Court of Appeal of the Republic of South Africa  
+**Judgment Date:** 31 March 2008  
+**Judges:** Nugent JA, Streicher JA, Heher JA, Hurt AJA, Snyders AJA  
+**Keywords:** Patent, revocation, inventive step
+
+## F – Facts
+
+The case originates from an appeal against a decision made by the Court of the Commissioner of Patents, where Southwood J found the appellant, Northpark Trading 3 (Pty) Ltd (hereafter "Northpark"), liable for patent infringement (3). The infringement pertained to South African Patent No. 95/0812, which was registered under the Patents Act 57 of 1978, with a priority date of 3 February 1994. Northpark denied the infringement and contested the validity of the patent. It counterclaimed for the revocation of the patent on the grounds that the invention lacked novelty, did not involve an inventive step, and was vague (1).
+
+The invention discussed was labeled 'Improvements in or Relating to Seeding Machinery', aimed at addressing challenges associated with planting seeds in untilled soil (3). The patent's claims included a seeding assembly designed to function with a plough frame, specifically detailing the mechanism by which seeds, fertilizer, and soil engage (5). The core issue in the appeal revolved around whether the patent met the legal criteria for novelty and whether it involved an inventive step (2-6).
+
+## I – Issues
+
+This appeal raised several critical legal questions:  
+1. **Validity of Patent:** Does the invention claimed in South African Patent No. 95/0812 constitute a new invention as defined under the Patents Act? ([6])  
+2. **Inventive Step:** Did the claimed invention involve an inventive step that would not be obvious to a person skilled in the art at the time of the patent's priority date? ([11])  
+3. **Counterclaim for Revocation:** Should the counterclaim for revocation be upheld on the grounds established by the respondent? ([1]-[2])
+
+## R – Rules
+
+The relevant legal framework for the determination of patent validity includes the following provisions from the Patents Act 57 of 1978:  
+- **Section 25(1):** A patent may only be granted for an invention if it is new and involves an inventive step.  
+- **Section 61(1)(c):** A patent may be revoked if it does not meet the criteria for validity.  
+- **Section 25(6):** Defines "new" in relation to the state of the art before the priority date. 
+
+In reviewing patent novelty, precedents such as *Gentiruco A.G. v Firestone SA (Pty) Ltd* and *Netlon Ltd v Pacnet (Pty) Ltd* help outline the examination parameters for determining whether earlier patents detailed all elements of the contested patent (7). Furthermore, in cases like *Ensign-Bickford* and *Windsurfing International Inc v Tabur Marine*, courts established that the question of an inventive step must take into account whether the advance goes beyond what is obvious and must avoid hindsight bias (12-14).
+
+## A – Application
+
+The court undertook a succinct analysis of inventiveness and novelty by assessing the specifics of the invention against prior patents (7-10). The appellant's reliance on patents like the Dreyer patent to demonstrate lack of novelty was scrutinized. The court noted that while the Dreyer invention did include many of the functional attributes of the Northpark patent, the extension of the seeding tube into the slot formed by the tine was neither described nor claimed in the Dreyer patent (9-11).
+
+The court concluded that despite the specific linking of the seeding assembly to vertically adjusted components as an innovative approach to field conditions, extending the tube into the slot did not constitute a significant advancement. Ultimately, it did not differentiate itself enough from existing patents to be deemed inventive, as a skilled worker could easily derive the feature from existing knowledge in the field (15-17).
+
+Consequently, the court found that the claimed invention lacked the requisite level of inventiveness. While the appellant's argument hinged on the utility of having the seeding tube extend into the slot for accuracy, such utility did not reflect a substantive step forward in the relevant technology (16-17).
+
+## C – Conclusion
+
+The Supreme Court of Appeal upheld the appeal, granting the orders sought by Northpark. The court set aside the prior court's orders and ruled that the patent in question was revoked, primarily based on the findings that the invention did not meet the criteria for novelty and lacked an inventive step (19). Moreover, the court provisionally allowed the patentee time to amend the patent specification under section 68 of the Patents Act should they choose to do so (18).
+
+This case illustrates vital aspects of patent law in South Africa, particularly emphasizing the stringent requirements of novelty and inventiveness that applicants must satisfy to safeguard their inventions effectively. The court's ruling serves as a precedent for future patent disputes regarding technological innovations and clarifies the scrutiny applied when assessing statutory patent requirements.

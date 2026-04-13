@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: *Paulsen and Another v Slip Knot Investments 777 (Pty) Limited* [2015] ZACC 5
+
+### FIRAC Case Note
+
+**F - Facts**  
+At the heart of this case is a loan agreement where the first applicant, André Paulsen, and the second applicant, Margaretha Paulsen, sought to invalidate a loan agreement between Winskor 139 (Pty) Ltd and Slip Knot Investments 777 (Pty) Ltd. Winskor, a property development company owned by the Paulsens’ family trust, entered into a loan agreement for R12 million in July 2006 to complete a property purchase ([1], [6]). This agreement carried an interest rate of 3% per month, with interest being compounded monthly. Notably, Slip Knot was not registered as a credit provider under the National Credit Act 34 of 2005 (NCA), which the applicants argued rendered the loan agreement invalid ([1], [2]).
+
+Following an economic decline in 2007, Winskor defaulted on the loan repayments. Subsequently, Slip Knot initiated legal proceedings against the Paulsens, resulting in the Paulsens being held liable for the total debt amounting to approximately R72 million inclusive of capital and accrued interest ([5], [8]). The High Court ruled in favor of Slip Knot, affirming the validity of the agreement and the Paulsens' liability for the total debt, but the appeal to the Supreme Court of Appeal saw mixed results, particularly in applying the in duplum rule which limits interest to double the overdue capital ([6], [7]).
+
+The primary points of contention during the appeal processes centered on whether the loan agreement was valid and whether the in duplum rule applied during litigation ([11], [20]).
+
+**I - Issues**  
+The key legal issues raised in this case were:
+1. **Validity of Loan Agreement**: Was the loan agreement invalid due to Slip Knot’s failure to register as a credit provider under the NCA? ([11], [20]).
+2. **Application of the in duplum Rule**: Does the in duplum rule apply during the pendency of litigation initiated to recover owed amounts, thus limiting the interest that could be claimed? ([11], [18], [21]).
+
+**R - Rules**  
+The relevant legal principles cited in the judgment included:
+- **National Credit Act**: Sections 40 and 89 of the NCA establish requirements for credit provider registration and outline the consequences of non-compliance, notably that a credit agreement is unlawful if the credit provider is unregistered ([8], [39], [11]).
+- **In Duplum Rule**: A fundamental rule in South African common law that prevents the accumulation of interest exceeding the principal amount owed. The principle aims to protect debtors from excessive interest payments and is historically rooted in Roman-Dutch law ([42], [43]).
+
+The Supreme Court of Appeal had previously ruled in *Oneanate* that the in duplum rule is suspended once litigation regarding the debt commences, which was a pivotal point in the Supreme Court’s consideration in this case ([15]).
+
+**A - Application**  
+The Constitutional Court, through a majority view authored by Madlanga J, emphasized the need to consider the legislative and common law interplay under the NCA, ruling that the agreement could not be invalidated on account of non-registration since it fell within the section 4 exclusions of the NCA ([8], [11], [39], [41]). The Court showcased a strong inclination towards maintaining the in duplum rule even during litigation, highlighting the disproportionate burden that uncapped interest might impose on parties in financial distress ([42]-[44]), aligning its rationale with fundamental constitutional values, including access to justice and the inherent dignity of all parties involved ([60]).
+
+The court effectively overruled the findings of *Oneanate*, stating that suspending the in duplum rule during litigation undermines the protection it provides to debtors and does not consider their fundamental right to fair processes and outcomes ([56]-[62]). The court stressed the constitutional imperatives to protect the more vulnerable party in contracts, establishing a new precedence that would positively impact financial interactions in South Africa ([90]-[94]).
+
+**C - Conclusion**  
+The Constitutional Court ruled that the Paulsens' appeal was upheld regarding the application of the in duplum rule, clarifying that the rule applies throughout the litigation process and thus preventing the accumulation of interest exceeding the capital amount once the threshold has been reached ([102]). The Court’s decision reaffirmed the common law position prior to *Oneanate*, reinstating protections for debtors while ensuring that creditor rights were not unduly compromised. The ruling carries significant implications for future credit agreements and litigation outcomes, reinforcing the balance between commercial contract law and statutory protections established under the NCA.
+
+The Court's order determined that:
+1. The loan agreement is valid within the prescribed legislative contexts.
+2. The in duplum rule applies during litigation, thereby capping the interest owed by the Paulsens ([102]).
+
+Thus, the initial ruling by the Western Cape High Court was set aside, illustrating a judicial commitment to equitable financial practices in South Africa.

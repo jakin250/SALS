@@ -1,0 +1,54 @@
+Case Note: IN THE SUPREME COURT OF SOUTH AFRICA
+Source Folder: 1996
+
+# FIRAC Case Note
+
+### Case Title:
+**South African Reserve Bank v Torwood Properties (Pty) Ltd**  
+**CASE NO: 626/94**  
+**In the Supreme Court of South Africa (Appellate Division)**  
+**Coram: Hefer, Vivier, Harms, Marais, and Plewman JJA**  
+**Heard: 3 September 1996**  
+**Delivered: 25 September 1996**  
+**Judgment by: Harms JA**
+
+### F – Facts:
+The case centers on an attachment of immovable property by the appellant, the South African Reserve Bank (the "Reserve Bank"), from the respondent, Torwood Properties (Pty) Ltd ("Torwood"). The property in question, a family home, was acquired by Torwood in 1968, well before any alleged exchange control contraventions committed primarily by Robert Oliver Hill, linked to the financial affairs of Torwood and associated entities.
+
+On 9 May 1989, nearly 21 years after the deed of transfer, the Reserve Bank executed the attachment under the Exchange Control Regulations, pursuant to the Currency and Exchanges Act 9 of 1933 ("the Act"). Torwood initiated review proceedings alleging that the attachment had lapsed due to the passage of time, relying on section 9(2)(g) of the Act which imposed a 36-month limitation on the period of an attachment.
+
+In response, the Reserve Bank invoked subparagraph (i) of the same section, arguing that the period was extended until one year after the conclusion of related criminal proceedings against Hill. Additionally, it sought to extend the attachment period further, citing subparagraph (ii) and claiming “good cause”. The review applications were consolidated and adjudicated by Zulman J, who found that the attachment had lapsed, the Reserve Bank was not entitled to an extension, and thus did not need to rule on the merits of the review application.
+
+### I – Issues:
+1. **Did the attachment of the immovable property by the Reserve Bank lapse due to the effluxion of time?** ([paras 1-3])
+2. **Was the Reserve Bank entitled to extend the attachment period based on pending criminal proceedings against Hill?** ([paras 1-3])
+3. **Was Torwood Properties a party benefiting from the alleged exchange control contraventions, thus justifying the attachment of its property?** ([paras 20-24])
+
+### R – Rules:
+The relevant legal authorities include:
+- **Currency and Exchanges Act 9 of 1933**, particularly section 9(2)(g), which outlines the maximum duration of an attachment (36 months), and conditions for its extension.
+- **Exchange Control Regulations**, specifically:
+  - **Regulation 22A**: Governing the attachment of property related to exchange control contraventions.
+  - **Regulation 22C**: Allowing recovery against those who benefited from contraventions, outlining criteria for determining who can be held accountable. 
+- Case law interpreting the definitions of "bona fide" transactions in relation to property ownership, and the veil-piercing doctrine.
+
+### A – Application:
+The Court examined whether the Reserve Bank had acted within its legal authority under both the Act and Regulations. The critical points addressed were:
+1. **Time Lapse Issue**: The court emphasized that the attachment must be vacated if it exceeds 36 months unless justified. It concluded that the Reserve Bank's reliance on the pending criminal proceedings to extend the duration was misapplied, particularly since no application for extension under subparagraph (ii) was appropriately justified.
+   
+2. **Bona Fide Acquisition**: The Court found that Torwood's acquisition of the property was indeed bona fide and that it had not contravened Regulations, having purchased the property before any exchange contraventions occurred. This element effectively rendered the basis for the attachment under Regulation 22A invalid, as it overlooked the essential proviso protecting innocent parties.
+
+3. **Benefits from Contraventions**: It was determined that Torwood did not derive benefits from Hill's activities in a manner justifying the attachment under Regulation 22C. The Reserve Bank's assertion of suspicion was insufficient for a valid attachment since sufficient actionable evidence of actual benefit or enrichment as a result of contravention was not established.
+
+### C – Conclusion:
+The Supreme Court of Appeal dismissed the Reserve Bank's appeal, confirming that the attachment order had lapsed and was null and void. Zulman J's order was amended to reflect this accurately.
+
+The court’s findings underscored the importance of procedural correctness in attachment actions concerning innocent third parties, reaffirming protections against arbitrary state actions without adequate evidentiary support. The cost of the appeal was levied against the Reserve Bank, highlighting the judicial system's insistence on adherence to lawful administrative conduct. 
+
+This case serves as a vital precedent, reinforcing constitutional protections against the abuse of regulatory powers and upholding the rights of property holders under South African law, illustrating the delicate balance between state interests and individual rights.
+
+### References:
+- Currency and Exchanges Act 9 of 1933.
+- Exchange Control Regulations.
+- *Willis Faber Enthoven (Pty) Ltd v Receiver of Revenue* 1992 (4) SA 202 (A).
+- *Cape Pacific Ltd v Lubner Controlling Investments (Pty) Ltd & Others* 1995 (4) SA 790 (A).

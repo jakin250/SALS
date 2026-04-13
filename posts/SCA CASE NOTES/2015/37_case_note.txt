@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Lancelot Stellenbosch Mountain Retreat (Pty) Ltd v Gore NO (108/14) [2015] ZASCA 37
+
+**FIRAC Method**
+
+### F – Facts: Relevant background and procedural history ([paras 1–9])
+In the case *Lancelot Stellenbosch Mountain Retreat (Pty) Ltd v Gore NO* ([2015] ZASCA 37), the crux of the matter involved a debt on which the respondents relied for their standing to apply for the liquidation of the appellant, Lancelot Stellenbosch Mountain Retreat (Pty) Ltd. The respondent liquidators represented Queensgate Wealth Manager (Pty) Ltd, which had been placed under final winding-up on 30 November 2009. The appellant was part of the Queensgate Group of Companies, which included several interconnected entities with shared financial responsibilities ([para 2]).
+
+The background involved an original loan agreement dated 15 April 2008, between Queensgate Wealth and AIK Credit PLC, amounting to €2,350,000, intended for funding specific developments. Subsequently, Black River Development executed a suretyship for this loan, which Queensgate Wealth on-lent to Black River. When Queensgate failed to repay the loan, AIK issued a letter demanding payment on 20 October 2008 ([paras 3–4]).
+
+The appellant contested the winding-up application raised by the liquidators based on alleged prescription of the debt, asserting that the debt had expired three years after it became due on 17 October 2008. The appellant's position stemmed from its contention that the assignment of debt to them did not modify the terms of repayment, which they claimed remained tied to the AIK loan's conditions ([para 5–7]).
+
+The liquidators countered that the debt did not prescribe because the appellant had tacitly acknowledged liability, which would interrupt the running of prescription as outlined in Section 14(1) of the Prescription Act 68 of 1969 ([para 8]). The high court ruled against the appellant, leading to this appeal ([para 9]).
+
+### I – Issues: Legal or constitutional questions ([paras 10–12])
+The primary legal issue was whether the debt underpinning the respondents' application for liquidation had prescribed or if its running was interrupted under the provisions of the Prescription Act ([para 10]). Specifically, the court needed to discern two key elements:
+1. **When prescription commenced**: Determining the date the debt became due and claimable ([para 11]).
+2. **Whether the appellant’s failure to respond to a letter of demand constituted a tacit acknowledgment of the debt, thereby interrupting the prescription** ([para 10]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 11–14])
+The court considered several legal principles concerning prescription:
+- **Section 10 of the Prescription Act** stipulates that the prescription period for debts is three years, which begins when a debt becomes due ([para 12]).
+- **Section 12(1)** of the Prescription Act states that prescription commences when a debt is immediately claimable ([para 12]).
+- **Judicial interpretation**: In *List v Jungers* 1979 (3) SA 106 (A), it was held that the date a debt arises coincides with the date it becomes due, although exceptions exist ([para 12]).
+- The *Benson v Walters* case clarified that a debtor invoking prescription must demonstrate its occurrence, shifting the evidentiary burden to the creditor only if a prima facie case is established ([para 10]).
+
+### A – Application: Analysis of how the court applied the law ([paras 13–15])
+In analyzing the appellant's argument, the court found insufficient evidence to uphold the claim that the debt was payable on the same terms as the AIK loan. The appellant failed to substantiate the assertion that the conditions surrounding the R6,480,000 debt originated from the AIK loan ([para 13]). The submission that the appellant essentially 'stepped into the shoes' of Black River was undermined by a lack of factual clarity regarding the terms of the assignments. The court emphasized that affidavits must delineate clear facts to substantiate claims, a requirement that was not met in this instance ([paras 13–14]).
+
+The court concluded that, in the absence of an clearly articulated loan agreement between Queensgate Wealth and Black River, the initiation date for prescription could only reasonably be taken as the date of the letter demanding payment, which was on 5 May 2010. Thus, the appeal found that the debt had not prescribed by the time the winding-up application was launched on 14 May 2012 ([para 15]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 16])
+The court dismissed the appeal, affirming the high court's decision. The decision underscored the principle that a debtor must present a clear and corroborated assertion of prescription to benefit from it. In failing to substantiate their claims about the effective date for prescription, the appellant could not shift the onus to the respondents ([para 16]).
+
+This outcome highlights the critical importance of precise evidence in litigation regarding debt acknowledgment and prescription timing. It reinforces the judicial expectation that claims regarding complex financial arrangements must be adequately evidenced to succeed in court. The appeal's dismissal also emphasized the necessity for creditors to be diligent in demanding payment and documenting acknowledgment of debts to establish a solid basis for any subsequent legal actions, particularly in the context of liquidation processes. 
+
+The final ruling solidifies the legal position surrounding the interruption of prescription by tacit acknowledgments and serves as an instructive precedent for future cases involving debt claims and the intricacies of insolvency proceedings.

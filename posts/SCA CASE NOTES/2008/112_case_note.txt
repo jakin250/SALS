@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# Case Note: Government of the RSA v Thabiso Chemicals (148/2007) [2008] ZASCA 112
+
+## FIRAC Method
+
+### F – Facts
+The respondent, Thabiso Chemicals (Pty) Ltd, initiated proceedings against the appellant, the Government of the Republic of South Africa, claiming damages amounting to R15,016,846 for the alleged wrongful cancellation of a contract by the State Tender Board ([para 1]). The Government acknowledged the existence of the contract and its subsequent cancellation but contended that the cancellation was not wrongful. 
+
+At trial, parties agreed to separate issues, leading to the determination of the lawfulness of the cancellation before addressing damages ([para 2]). The contract arose from an invitation by the Tender Board for tenders for cleaning materials, with Thabiso submitting its tender by the April 10, 2001 deadline ([para 3]). The tender was accepted, contingent upon compliance with the State Tender Board Act 86 of 1968 and specific regulations ([para 3]).
+
+However, on January 11, 2002, the Tender Board sought to cancel the contract, citing that Thabiso failed to submit an essential document—an SABS report verifying compliance with quality control—alleging non-compliance with tender conditions ([paras 5, 6]). Thabiso countered that it was a SABS listed company and thus exempt from this requirement ([para 6]). Evidence presented during the trial confirmed that Thabiso was not a SABS listed company at that time; its failure to furnish the required report was thus upheld by the court ([para 7]).
+
+### I – Issues
+The primary issue before the court was whether the Government could rely on clause 24.8.2 of the General Conditions attached to the tender to justify the cancellation of the contract based on an alleged misrepresentation by Thabiso ([para 9]). Specifically, the question was whether Thabiso's conduct constituted an implied misrepresentation regarding its status as a SABS listed company, which influenced the award of the tender ([para 13]).
+
+Another ancillary issue was whether administrative law principles, such as procedural fairness, were applicable in the contractual dispute, particularly surrounding the cancellation process ([para 18]).
+
+### R – Rules
+The legal principles applicable in this case revolve around the law of contract and the specific contractual provisions which include clause 24.8.2 of the General Conditions and regulation 3(6)(b) of the Regulations promulgated under the State Tender Board Act ([para 11]). 
+
+Clause 24.8.2 stipulates that if a contract is awarded based on erroneous information furnished by the contractor, the Tender Board has the right to cancel the contract and seek damages ([para 8]). Furthermore, the Regulations, similar in wording to the clause, allow the Tender Board to terminate agreements based on incorrect information provided by the contractor ([para 12]). 
+
+The relevant jurisprudence has established that an innocent party can cancel a contract on varying grounds subsequent to the initial grounds stated during the cancellation ([para 9]).
+
+### A – Application
+The court assessed whether Thabiso’s submission of its tender and its failure to provide the SABS report constituted an implied representation of being a SABS listed company. The trial court had earlier held that Thabiso did not make an express misrepresentation, leading to a ruling in its favor ([para 10]). 
+
+The appeal court analyzed whether implied antics by Thabiso—the submission of tender documents without an SABS report—could lead the Tender Board to reasonably infer that it was indeed a SABS listed company ([paras 14-17]). The court ultimately found that there were only two plausible inferences from Thabiso's conduct: that it was either a SABS listed company or that it failed to provide the report due to oversight ([para 15]). However, the latter inference was dismissed, and the court concluded that Thabiso intended for the Tender Board to infer that it was a SABS listed company ([para 16]).
+
+Consequently, the appeal court agreed with the Government that Thabiso's conduct did indeed furnish incorrect information, thereby satisfying the requirements of clause 24.8.2 and regulation 3(6)(b) for contract cancellation ([para 17]).
+
+### C – Conclusion
+The Supreme Court of Appeal overturned the previous ruling, holding that the Government had grounds under clause 24.8.2 to cancel the contract due to the incorrect representation by Thabiso. The court dismissed the appeal with costs, including the costs accrued from employing two counsel, and set aside the lower court's judgment ([paras 20(3), 20(4)]). 
+
+This case reinforces the critical nature of compliance with tender conditions and the potential ramifications of implied misrepresentations in tender submissions. It delineates the boundaries of administrative law within contractual disputes, affirming that once a tender is awarded, the relationship is governed by contract law rather than administrative principles. As noted in key precedents, misrepresentations can be fatal to claims when they impact decisions regarding contractual relationships, underscoring the importance of accurate representations by tenderers.

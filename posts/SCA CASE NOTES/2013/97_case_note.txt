@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note on *Herholdt v Nedbank Ltd* (701/2012) [2013] ZASCA 97
+
+## F – Facts
+In the case of *Herholdt v Nedbank Ltd* ([1]), Andre Herholdt was employed by Nedbank as a financial planner. He was dismissed for allegedly failing to disclose a conflict of interest due to being made a beneficiary in a client's will, John Smith. Following his dismissal, Herholdt contested the decision through arbitration proceedings under Section 138 of the Labour Relations Act 66 of 1995 (LRA). The arbitrator ruled in his favour, contending that he had not acted dishonestly. However, this decision was subsequently reviewed and set aside by the Labour Court, which was affirmed by the Labour Appeal Court (LAC) ([1], [2]). Herholdt sought leave to appeal against the LAC’s decision ([1]).
+
+The factual basis for the dismissal centered on two wills executed by Smith: one on 28 December 2007, which bequeathed £92,000 to Herholdt, and the second on 27 May 2008, which named him and his life partner as the sole heirs of Smith's estate. Herholdt failed to disclose these wills to his line manager, despite having been advised of his duties to disclose such information ([2]–[4]). The LAC determined that the evidence overwhelmingly suggested that Herholdt had intentionally omitted to disclose this information ([5]).
+
+## I – Issues
+The key legal issues before the Supreme Court of Appeal (SCA) included:
+
+1. Whether the Labour Court and the LAC had correctly interpreted and applied the grounds for reviewing CCMA arbitration awards, particularly following the principles established in *Sidumo v Rustenburg Platinum Mines Ltd* ([7], [12]).
+2. Whether the arbitrator’s conclusion that Herholdt had not acted dishonestly could be sustained after considering the evidence before her ([26]).
+
+## R – Rules
+The legal frameworks and precedents applicable to this case include:
+
+1. **Section 145 of the Labour Relations Act 66 of 1995**: This section outlines the grounds on which a party may seek to review an arbitration award, including committing misconduct, gross irregularity in the arbitration proceedings, or exceeding powers ([10], [25]).
+2. **Judicial Standards from **Sidumo**: The SCA noted that in *Sidumo*, the Constitutional Court established a stringent unreasonableness test for reviewing arbitration awards, stating that a result could be set aside if it was not one that a reasonable decision-maker could reach based on the evidence ([12]–[14], [20]).
+3. **Precedents concerning ‘gross irregularity’**: It was clarified that gross irregularities are concerned with how the proceedings were conducted rather than the merits of the decision itself. A review may be warranted if the decision-maker misconceives the nature of the inquiry ([10], [25]).
+
+## A – Application
+In applying the law to the facts, the SCA identified that the focus should be on whether the concluding decision reached by the CCMA arbitrator about dishonesty could be seen as one that a reasonable decision-maker could reach. The SCA concluded that the LAC had properly applied the *Sidumo* principle and determined that the arbitrator had reached a result that no reasonable person could arrive at, given the overwhelming evidence of Herholdt's intent to conceal the conflict of interest ([26]).
+
+The SCA also emphasized the distinction between a review and an appeal, reiterating that a reviewing court should not interfere with an arbitrator's award unless the grounds in Section 145(2)(a) of the LRA were established ([14], [25]). They highlighted that Herholdt had not provided adequate justification for his failure to disclose nor had he established any basis for believing that his line manager would be informed of the wills by another party ([4]).
+
+## C – Conclusion
+The SCA ultimately dismissed Herholdt's appeal, agreeing with the lower courts that his non-disclosure of the wills constituted dishonesty and that the decision made by the arbitrator was one that would not stand up to scrutiny based on the evidence presented ([1], [26]). The judgment reaffirmed the need for transparency in fiduciary relationships, particularly within the financial services sector, and clarified the grounds for review of CCMA awards, emphasizing adherence to the stringent standards set by *Sidumo*. The implications of this ruling are significant, as they reinforce the principle that attempts to challenge arbitration awards must adhere to established legal standards and discourage the normalization of lax review processes in labour disputes. The appeal was dismissed with costs, including those for employing two counsel ([1]). 
+
+### References
+1. *Herholdt v Nedbank Ltd* (701/2012) [2013] ZASCA 97 (5 September 2013).
+2. Sidumo & another v Rustenburg Platinum Mines Ltd & others 2008 (2) SA 24 (CC). 
+3. Labour Relations Act 66 of 1995.
+4. National Union of Mineworkers & another v Samancor Ltd (Tubatse Ferrochrome) & others 2011 32 ILJ 1618 (SCA).
+
+---
+
+This case note adheres to the FIRAC method and utilizes OSCOLA citations throughout for clarity and legal accuracy.

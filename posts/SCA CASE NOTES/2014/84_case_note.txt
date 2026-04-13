@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: Minister for Safety and Security v Scott (969/2013) [2014] ZASCA 84
+
+## F – Facts
+The case originated in the North Gauteng High Court when Mr. Jaco Scott (the first respondent) and his company, Scottco (Pty) Ltd (the second respondent), filed a claim against the Minister for Safety and Security (now the Minister of Police) following Scott's arrest and detention on 11 June 2004. Scott, a professional big game hunter, was arrested after an altercation at a pub (the Horseshoe Pub) in Musina, following claims he was armed while under the influence of alcohol ([1–2]). 
+
+Scott’s arrest, based on provisions of the Arms and Ammunition Act 75 of 1969, was deemed unlawful as he had not committed an offence merely by possessing the firearm while inebriated ([33]). Post-arrest, an important client, Field & Stream magazine, cancelled its contract with Scottco, which relied heavily on attracting American hunters ([11–12]). The high court acknowledged this unlawful arrest and awarded Scott R75,000 and awarded Scottco R49,268,289 for loss of contractual income and profits ([2]) after a separation of issues in determining liability from quantum ([1]). The Minister appealed this ruling.
+
+## I – Issues
+The primary issues for resolution were:
+1. Whether the Minister was liable for the pure economic loss suffered by Scottco as a result of Scott’s arrest, particularly considering public policy implications of imposing liability for economic loss arising from an interpersonal altercation and subsequent wrongful arrest ([19, 31, 41]).
+2. The appropriateness of the damages awarded to Scott for unlawful arrest and detention ([42]).
+
+## R – Rules
+The legal framework for this case revolves around principles of delictual liability, particularly concerning pure economic loss. Key points include:
+- **Aquilian Action**: For a claim of pure economic loss, the claimant must establish that the defendant owed a legal duty to prevent such loss ([25–32]).
+- **Public Policy Considerations**: Courts are wary of extending liability broadly due to the risk of indeterminate consequences, especially when the loss suffered by a third party is a consequence of the actions against a direct claimant ([20, 36]).
+- **Credibility and Evidence**: The credibility of witnesses plays a pivotal role in the assessment of the actions leading to arrest ([35–36]).
+
+## A – Application
+Regarding Scottco's claim, the court held that several barriers impeded the claim for pure economic loss. Firstly, there was no established relationship between the police's actions (the arrest) and Scottco’s economic losses. The police officers had no foreknowledge of Scott’s contractual obligations. Hence, they could not be deemed to have intentionally interfered with Scottco's economic rights ([20–31]).
+
+The court emphasized the concern of indeterminate liability, noting that if Scott's arrest could lead to claims for economic losses from all entities linked to him, this could yield limitless liability. This rationale aligns with traditional conservative approaches in South African tort law, which typically recognize claims for deliberate interference but not for negligent acts unless specific legal duties have been breached ([28–30]).
+
+In respect to the damages awarded to Scott, the court found that the high court had overly favored Scott's emotional distress without conducting a balanced assessment of the circumstances leading to the arrest and the inaccuracies in Scott's testimony ([43]).
+
+In summary, the South African law on delict emphasizes caution when assigning liability for pure economic loss, particularly in instances lacking clear, intentional misconduct.
+
+## C – Conclusion
+The Supreme Court of Appeal ultimately favored the Minister, dismissing Scottco’s claim for special damages and reducing Scott’s award from R75,000 to R30,000. The court conclusively stated that imposing liability would raise public policy concerns and risk creating an unmanageable class of potential claimants stemming from one wrongful act ([36, 41]):
+
+1. **Reinstatement and Costs**: The appeal was reinstated, allowing costs against the respondents for their opposition to reinstatement ([51]).
+2. **Final Order**: The appeal by the Minister was upheld with costs, the claim for special damages by Scottco was dismissed, and the amount awarded to Scott was decreased to R30,000, highlighting the court’s disapproval of the high court's initial excessive damages ([51]).
+
+The judgment underscores the tension between the need for accountability in public service and the necessity to protect against infinite liability in negligence claims, reflecting ongoing debates around economic loss and public policy in tort law.

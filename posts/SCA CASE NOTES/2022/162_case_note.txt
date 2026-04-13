@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Datacentrix (Pty) Ltd v O-Line (Pty) Ltd
+
+**Court:** Supreme Court of Appeal of South Africa  
+**Case No:** 891/2021  
+**Neutral Citation:** Datacentrix (Pty) Ltd v O-Line (Pty) Ltd (891/2021) [2022] ZASCA 162  
+**Date of Judgment:** 25 November 2022  
+**Coram:** Zondi, Molemela, Plasket, Mabindla-Boqwana JJA, Makaula AJA
+
+## F – Facts
+
+[1] This appeal arises from the Gauteng Division of the High Court's judgment, which ordered Datacentrix (Pty) Ltd (the appellant) to pay O-Line (Pty) Ltd (the respondent) R1,936,815 plus interest for breach of contract. The High Court refused the appellant's request for leave to appeal, which was later granted by this Court.
+
+[2] The respondent specializes in manufacturing and distributing electrical and mechanical systems and sought to upgrade its software from ACS Embrace to Sage X3. Due to a lack of expertise in Sage X3, the respondent engaged the appellant to implement and configure the new software pursuant to a written Implementation and Support Services Agreement dated 25 November 2013.
+
+[3] Post-implementation, the respondent claimed that the appellant had failed in two critical aspects: (1) it inadequately configured the software, preventing its operational use, and (2) it failed to provide sufficiently trained staff to support the software as per the agreement. Consequently, the respondent claimed that it could not effectively utilize the software, justifying the cancellation of the agreement.
+
+[4] The High Court determined that the appellant had breached the contract and that the respondent's cancellation of the contract was valid, leading to the restitution order of R1,936,815 in favor of the respondent. The court also upheld a counter-claim by the appellant for R180,775, which had no bearing on this appeal.
+
+## I – Issues
+
+[5] The primary legal issue is whether the respondent validly cancelled the agreement based on alleged breaches by the appellant. This revolves around the interpretation and application of cancellation clauses within the contract, particularly clauses 17 and 18.
+
+[6] Secondary issues include the adequacy of the notice given by the respondent to the appellant concerning the alleged breach and whether the requirements for cancellation stipulated in the agreement were followed correctly.
+
+## R – Rules
+
+[7] The rules governing contract cancellation in South African law are well-established. A fundamental aspect involves the aggrieved party providing notice of the breach, accompanied by a stipulated period for remedying the breach, as highlighted in *Wille’s Principles of South African Law* and elaborated upon in statutes and case law including *South African Forestry Co Ltd v York Timbers Ltd* 2005 (3) SA 323 (SCA) [para 37] and *Hano Trading CC v JR 209 Investments (Pty) Ltd and Another* 2013 (1) SA 161 (SCA) [para 31].
+
+[8] Clause 17 of the agreement specifies procedures for addressing service level failures, while clause 18 outlines the process for cancellation based on material breaches, particularly requiring a clear written notice and a 30-day opportunity for the defaulting party to remedy such breaches.
+
+[9] The case of *Bekker v Schmidt Bou Ontwikkelings CC* illustrates the importance of strict compliance with the procedural requirements for cancellation notices, stating that such a notice must clearly inform the recipient of the breach and the required actions necessary to avoid cancellation.
+
+## A – Application
+
+[10] The Court examined the two significant letters exchanged between the parties. The first, dated 8 June 2015, highlighted several breaches without explicitly providing a 30-day window to rectify those breaches, which was a requirement under clause 18. Instead, the language used was vague and did not unequivocally state that the agreement would be cancelled if the breaches were not remedied.
+
+[11] The subsequent letter from the respondent’s attorneys, dated 22 October 2015, communicated the alleged cancellation but failed to demonstrate adherence to the procedural requirements set out in clauses 17 or 18. The Court concluded that the respondent failed to give proper notice that complied with the contract’s stipulations as required for valid cancellation.
+
+[12] The Court assumed, for the sake of argument, that the breaches alleged by the respondent were indeed material. However, the conditions for valid cancellation of the agreement were not met, leading the Court to doubt the validity of the respondent’s cancellation.
+
+[13] Given the lack of proper procedure in canceling the contract, the Court found no reason to address whether the appellant indeed breached the contract since the cancellation itself was invalid.
+
+## C – Conclusion
+
+[14] Ultimately, the Supreme Court of Appeal upheld the appeal, concluding that the respondent did not validly cancel the agreement in question. The High Court's order for the appellant to pay the respondent was set aside, with the action dismissed alongside costs awarded to the appellant. This judgment underscores the critical importance of adhering strictly to contractual terms regarding breach notices and cancellation procedures in South African contract law.
+
+[15] The implications of this case extend beyond the immediate parties, serving as a precedent for future cases involving contract cancellation, emphasizing that compliance with procedural requirements is essential for valid cancellation and restitution claims.
+
+--- 
+
+**Order:**
+
+1. The appeal is upheld with costs.
+2. The order of the high court is set aside and replaced with: "The action is dismissed with costs."

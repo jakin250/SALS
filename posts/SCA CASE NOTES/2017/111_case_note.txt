@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Tudor Hotel Brasserie & Bar (Pty) Ltd v Hencetrade 15 (Pty) Ltd (793/2016) [2017] ZASCA 111
+
+### F - Facts
+
+The case revolved around a rental dispute between **Tudor Hotel Brasserie & Bar (Pty) Ltd** ("the appellant") and **Hencetrade 15 (Pty) Ltd** ("the respondent"). The appellant was operating a hotel at premises located at 153 Longmarket Street, Cape Town, under a written lease agreement signed on **29 June 2012** ([1]). 
+
+The relationship soured when the appellant fell into arrears with rental payments. Following failure to remedy this default after being notified, the respondent successfully sought eviction in the **Western Cape Division of the High Court, Cape Town** ([2]). Though the appellant admitted not paying rent, it contended that its obligation was suspended due to the respondent's failure to provide "vacant occupation or beneficial use" of the entire premises. Specifically, a portion of the third floor was retained by the respondent for storage purposes, limiting the appellant’s use ([3]).
+
+The legal argument from the appellant hinged on the **exceptio non adimpleti contractus**, which raises questions about a lessee's obligations when full occupancy is not granted. The court a quo ultimately concluded that the appellant was liable for rent despite the partial occupation ([4]-[5]).
+
+### I - Issues
+
+The primary legal issues before the Supreme Court of Appeal concerned:
+1. Whether the exceptio non adimpleti contractus could be invoked by a lessee who occupied only part of the leased property but did not cancel the lease ([4]).
+2. The interpretation of lease clauses that stipulated rental obligations in advance without deductibles or set-offs, particularly in light of the lessee’s argument for a rental abatement due to partial occupation ([18]-[19]).
+
+### R - Rules
+
+Central to the court's analysis were principles of contract law as applied to lease agreements. The following rules were pertinent to the court's decision:
+
+1. **Principle of Reciprocity**: In general lease agreements, the lessee's obligation to pay rent is reciprocal to the lessor's obligation to provide full occupation of the premises ([11]). The absence of this reciprocity can shift obligations significantly.
+  
+2. **Exceptio Non Adimpleti Contractus**: This doctrine allows a party to withhold performance when the other party has failed to perform its contractual obligations unless expressly excluded within the agreement ([4]).
+  
+3. **Lease Agreement Clauses**: The relevant clauses from the lease stipulated that:
+   - Rent was to be paid "monthly in advance without any deduction or set-off" ([9]).
+   - The lessee would not have any claim against the landlord for compensation regarding disruptions to beneficial occupation unless caused by negligence ([17]).
+
+Legal precedents from previous cases, such as *Arnold v Viljoen* 1954 (3) SA 322 (C) and *Ethekwini Metropolitan Unicity Municipality (North Operational Entity) v Pilco Investments CC* [2007] ZASCA 62, were also cited in support of the reasoning ([5]-[6]).
+
+### A - Application
+
+The court applied the principles of contract interpretation against the specific clauses of the lease. It noted the *exception* was not available to the appellant because:
+- The lease explicitly disconnected the timing of rent payments from the lessor's obligation to provide full access to the property. The phrases "in advance" and "without deduction or set-off" indicated that payment was mandatory even if the appellant did not have full use ([11]-[18]).
+  
+- The court distinguished *Baynes Fashions (Pty) Ltd t/a Gerani v Hyprop Investments (Pty) Ltd* [2005] JDR 1382 (SCA), affirming similar restrictions limiting the lessee's rights to seek reductions based on issues with beneficial occupation ([10]-[13]).
+
+Ultimately, the argument that partial occupation justified withholding rent payments was rejected based on an interpretation of the lease clauses that precluded such deductions, reinforcing the requirement for full payment despite the appellant's grievances regarding the occupancy condition ([17]).
+
+### C - Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, upholding the lower court's ruling that Tudor Hotel was in arrears for rent, justifying the eviction. The ratio decidendi highlighted that the explicit terms of the lease negated any reciprocal relationship between rent obligation and the delivery of full occupancy. The outcome reinforces the principle that tenants are obliged to meet their rental commitments as stipulated in their contracts, irrespective of their use conditions, provided there are no mutual performance obligations indicated in the agreement ([21]).
+
+The ruling has significant implications for commercial lease contracts, clarifying that unless explicitly stated otherwise, tenants cannot suspend rental payments due to complaints about the usability of premises. This case thus crystallizes tenants' obligations, promoting certainty and predictability in lease agreements within the commercial property sector.

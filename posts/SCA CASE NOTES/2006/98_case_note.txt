@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# FIRAC Case Note: Minister of Finance v Gore NO [2006] SCA 97 (RSA)
+
+### F – Facts
+
+[1-11] This case arose from the actions of 3D-ID Systems (Pty) Ltd, a company that went into liquidation after failing to secure a government tender for welfare pay-outs in 1994, amidst significant allegations of fraud. The liquidator of 3D-ID, Stephen Malcolm Gore NO (the respondent), initiated legal action against high-ranking officials and entities within the South African government, specifically the Minister of Finance, the National Government, the Minister of Welfare and Population Development, and the Premier of the Western Cape Province (the appellants). The trial, presided over by Hartzenberg J in the Pretoria High Court, resulted in a judgment in favor of the plaintiff, establishing that the appellants were liable for the damages caused by the fraudulent actions of their employees, namely Louw and Scholtz, during the tender process.
+
+[12] A key procedural issue arose regarding the appellants’ delay in filing an appeal record, which was late by three months, although the court ultimately decided to consider the appeal on its merits.
+
+[3-10] The heart of the dispute lay in the fraudulent awarding of a tender for the provision of an automated fingerprint identification and verification system aimed at curbing welfare fraud. The tender process was marked by irregularities, particularly the manipulation of the outcome by Louw and Scholtz, who had conspired with a competing bidder (Nisec CC) to secure an award for their tender.
+
+### I – Issues
+
+[11-13] The central legal issues brought before the court included:
+
+1. **Prescription**: Whether the respondent's claims had prescribed under the Prescription Act 68 of 1969 before the summons was issued.
+   
+2. **Vicarious Liability**: Whether the appellants were vicariously liable for the fraudulent actions of their employees during the tender process.
+
+3. **Causation**: Whether the respondent could demonstrate that, but for the fraudulent actions, 3D-ID would have been awarded the tender.
+
+4. **Wrongfulness**: Whether public policy would support the imposition of liability on the appellants for the actions of their employees in the context of a fraudulent tender process.
+
+### R – Rules
+
+[12-22] The legal framework governing this case included:
+
+- **Prescription Act 68 of 1969**: Particularly Section 12(3), which stipulates that a debt is only deemed due when the creditor is aware of the facts from which the debt arises. The court distinguished between mere suspicion of fraud and the requisite knowledge of facts establishing a claim.
+
+- **Vicarious Liability**: Governed by the principles established in prior cases, which maintain that employers can be held liable for acts committed by their employees when those acts occur within the scope of employment, even if the acts are unlawful or fraudulent (see *Bazley v Curry*, 1999).
+
+- **Causation**: The "but for" test used to establish whether the damages would have occurred absent the wrongful conduct of the defendants.
+
+- **Public Policy**: Precedents such as *Olitzki Property Holdings v State Tender Board* (2001), which articulated the boundaries of delictual liability in state tender processes, specifically concerning economic losses arising from administrative errors.
+
+### A – Application
+
+The court meticulously applied the principles of law to the facts established in the lower court:
+
+**1. Prescription**: The court endorsed Hartzenberg J’s finding that the plaintiff had not acquired the necessary knowledge to initiate legal proceedings until late 1998, when evidence of collusion and fraud emerged via an investigation conducted by the Office for Serious Economic Offenses (OSEO). The court underscored that mere suspicion did not trigger the running of prescription, as the plaintiff needed a justified belief in the occurrence of fraud, which was lacking until the OSEO provided concrete evidence.
+
+**2. Vicarious Liability**: The court accepted the factual findings that Louw and Scholtz acted fraudulently yet in a manner related to their employment responsibilities. It rejected the appellants' argument that the actions were wholly outside the scope of their duties, finding instead that their fraudulently manipulative actions were intrinsically linked to the processing of the tender they were tasked with overseeing.
+
+**3. Causation**: The court considered the “but for” test, determining that had it not been for the fraudulent conduct of Louw and Scholtz, it was highly likely that 3D-ID would have been awarded the tender, as its technology uniquely met the specifications outlined. The court lamented the lack of a straightforward evaluation by the tender board, which had favored a lower bid despite 3D-ID’s superior technology.
+
+**4. Wrongfulness**: The court dismissed the province's argument regarding non-liability for fraud within the tender process. It highlighted that the previous rulings in *Olitzki* and *Steenkamp* were context-specific and did not preclude liability where deliberate wrongdoing occurred. The emphasis was placed on societal and legal expectations of accountability, with the court ruling that fraudulent conduct in the tender process warrants an imposition of liability in order to deter such actions and uphold the integrity of public tender processes.
+
+### C – Conclusion
+
+[91] The Supreme Court of Appeal ultimately upheld the lower court's ruling, affirming that the defendants were liable for the fraudulent actions performed by their employees during the tender process. The court rejected condonation for the late filing of the appeal, emphasizing the substantive merits were lacking, as the appellants' defenses regarding prescription, vicarious liability, causation, and the construction of public policy were unpersuasive. 
+
+This ruling reinforces the principle that public bodies must maintain accountability, especially in cases of fraud, and sets a precedent for holding government entities liable for the actions of their employees, fostering a commitment to transparency and integrity in state affairs. The decision is significant for its implications on the management of public tenders and the legal responsibilities of officials tasked with overseeing such processes in the future.

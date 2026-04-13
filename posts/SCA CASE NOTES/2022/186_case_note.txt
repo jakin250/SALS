@@ -1,0 +1,52 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2022
+
+# FIRAC Case Note: Mohun and Another v Phillips N O obo S[…] and Another
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–5, 18–19])
+
+The case involves an appeal concerning medical negligence that resulted in the brain damage of Mr. D[…] R[…] S[…], who was admitted to the emergency unit of Life Westville Hospital on December 27, 2014, after consuming an overdose of tablets in combination with alcohol ([para 1]). Dr. Sudhir Mohun (the first appellant), a specialist physician, was engaged as a locum tenens by Doctors G. Sanpersad, R. Maharaj & Associates (the second appellant), to provide clinical services at the hospital ([paras 2–4]). The respondents, consisting of Advocate Brett Kingsley Phillips N O (acting as curator ad litem for Mr. S[…]) and Mrs. J[…] S[…] (the second respondent, who acted in her personal capacity as well as on behalf of her minor children), initiated a lawsuit against the appellants alleging negligence that led to Mr. S[…]’s cardiac arrest and subsequent brain damage ([para 3]). 
+
+Initially, the respondents included the hospital in their claim; however, this portion was settled prior to trial ([para 3]). The respondents contended that Dr. Mohun was negligent in failing to monitor and treat Mr. S[…] appropriately, which subsequently led to cardiac arrest ([para 4]). The first appellant claimed that he had properly assessed Mr. S[…] during the initial examination ([para 5]). The High Court found both appellants jointly and severally liable for 65% of the damages sustained by Mr. S[…] and subsequently dismissed the second appellant’s liability based on independent contractor status ([paras 18–19]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 20–24, 33–38])
+
+The principal legal issues encompassed in the appeal include:
+
+1. **Negligence**: Whether Dr. Mohun acted negligently by leaving Mr. S[…] under the monitoring care of a nurse without continuous medical supervision, and whether this negligence directly contributed to the cardiac arrest and brain damage ([paras 20–21]).
+  
+2. **Causation**: Whether the cardiac arrest could have been prevented had Dr. Mohun checked on Mr. S[…] regularly ([para 21]).
+
+3. **Vicarious Liability**: Whether the second appellant could be held vicariously liable for the acts or omissions of Dr. Mohun, despite him being an independent contractor ([paras 33–38]).
+
+4. **Non-delegable Duty**: An additional question was raised regarding the necessity to develop the common law to recognise a non-delegable duty of care in a medical context, particularly for professionals dealing with vulnerable patients ([paras 34–39]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 30, 33, 64])
+
+In determining liability, the Court considered several established legal principles:
+
+1. **Negligence and Causation**: The rules surrounding the duty of care in medical malpractice cases dictate that a healthcare provider must take reasonable steps to prevent foreseeable harm ([para 30]). 
+
+2. **Independent Contractor Doctrine**: The legal principle that a principal is generally not liable for the torts of an independent contractor unless there is a personal fault or specific exception applies ([para 33]). This principle was illustrated in *Chartaprops 16 (Pty) Ltd and Another v Silberman* ([2008] ZASCA 115).
+
+3. **Non-delegable Duty of Care**: The Court examined the potential for a non-delegable duty of care, which would impose liability irrespective of whether the negligent party is an employee or independent contractor ([para 34]), echoing the discussion in English law and cases such as *Woodland v Essex County Council* ([2013] UKSC 66).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 24–31, 38–44])
+
+The Court applied the principles of negligence in evaluating the conduct of Dr. Mohun, relying on expert testimony from Professor André Coetzee, who opined that the risk associated with Mr. S[…]’s intoxicated state necessitated continuous medical monitoring ([paras 24, 30]). It was established that the first appellant left a patient in a potentially unstable condition under the supervision of nursing staff without providing adequate instructions for closely monitoring subtle cues of deterioration.
+
+The evidence presented pointed strongly against Dr. Mohun's assertions that he had properly assessed Mr. S[…]’s stability ([para 27]). Specifically, he was found to have failed to instruct nursing staff on critical monitoring aspects, which contributed significantly to the patient's subsequent health decline ([para 28–29]). The Court concluded that Dr. Mohun's neglect in this regard directly led to the failure to mitigate the patient's hypoxia, confirming a breach of duty ([para 32]).
+
+Conversely, regarding the second appellant, the Court noted that as the first appellant was an independent contractor, no vicarious liability could be attributed to the second appellant for his negligent actions under standard legal interpretations ([para 33–44]). The challenge to redefine the principles surrounding non-delegable duties was not adequately supported by the respondents, leading the Court to dismiss this ground for appeal as well ([para 38–44]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 46–48])
+
+The Supreme Court of Appeal ultimately dismissed the appeal of the first appellant while upholding the appeal of the second appellant, leading to a conclusion that:
+
+1. The first appellant was found liable for 65% of the damages suffered by Mr. S[…], reflecting the established negligence in handling medical care.
+  
+2. The Court did not establish any basis for vicarious liability of the second appellant, aligning with the conventional legal stance on independent contractors.
+
+3. The attempt to develop the common law to impose a non-delegable duty of care was unsuccessful, suggesting that such developments require thorough grounding in constitutional principles and existing legal frameworks.
+
+This case serves to underscore the critical responsibilities that medical professionals, especially locum tenens, hold regarding patient monitoring and care, and highlights the limitations in attributing vicarious liability to medical practices employing independent contractors. The implications may encourage hospitals and medical practices to reassess their operational protocols and liability frameworks in clinical practice to ensure patient safety.

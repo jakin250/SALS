@@ -1,0 +1,59 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# Case Note: Shaikh v Standard Bank of SA Limited [2007] SCA 168 (RSA)
+
+### FIRAC Method
+
+---
+
+### F – Facts
+
+This case involves an appeal by Mr. Mohammed Amin Yusuf Shaikh (the appellant) regarding a decision made by Lopes AJ in the Durban High Court, which dismissed two preliminary points raised by Shaikh. The primary context is the recovery of Value Added Tax (VAT) by the South African Revenue Services (SARS) through the appointment of an agent.
+
+On January 29, 2004, SARS conducted a search at the premises of a close corporation named Nexor 188 CC, trading as Classic Distributing Company, where Shaikh was a manager. The search revealed that the company had submitted false invoices, underdeclaring the value of imported shoes to evade correct customs duties and VAT. Subsequently, SARS calculated the outstanding duties owed based on the actual value of the goods and served notices invoking Section 114A of the Customs and Excise Act 91 of 1964 to appoint Standard Bank of SA Limited (the bank) as Shaikh's agent in recovering the taxes due.
+
+The notices called for payments to SARS, which the bank complied with. Shaikh challenged the validity of these notices, alleging they were ultra vires (beyond legal authority) due to referencing only Section 114A and not Section 47 of the VAT Act 89 of 1991, which he argued should have been invoked instead. The Durban High Court dismissed his claim, prompting Shaikh to appeal ([paras 1-19]).
+
+---
+
+### I – Issues
+
+The key legal questions addressed in this case included:
+
+1. Whether SARS was entitled to recover VAT from Shaikh through an agent appointed under Section 114A of the Customs Act, despite not mentioning Section 47 of the VAT Act.
+2. Whether the absence of a specific reference to Section 47 invalidated the recovery notices issued by SARS ([paras 2, 14, 16]).
+
+---
+
+### R – Rules
+
+The court primarily relied on the following legal provisions:
+
+1. **Customs Act 91 of 1964**: Particularly Section 114A, which enables the Commissioner of SARS to declare anyone as an agent for tax recovery. Section 103 holds managers of corporate entities liable for any tax liabilities incurred by the entity.
+
+2. **VAT Act 89 of 1991**: Specifically, Section 47, which also allows SARS to declare agents for the recovery of VAT. Section 13(6) incorporates the Customs Act's provisions for VAT recovery.
+
+3. **Precedents**: The court cited *Howick District Landowners Association v Umngeni Municipality* regarding the principle that incorrect references to statutory provisions do not invalidate actions taken if the authority exists for those actions ([paras 17-18]). This case leaned on the understanding that as long as the empowering statute grants the power exercised, precise mention of it is not necessary for validity.
+
+---
+
+### A – Application
+
+The court analyzed the validity of the notices served by SARS. It rejected Shaikh's contention that the failure to mention Section 47 meant that VAT recovery could not proceed. The judgment emphasized that SARS had the underlying authority to reclaim VAT, and the reference to Section 114A was not a barrier. The court noted that even if SARS had omitted reference to Section 47, this did not render the notices invalid.
+
+The court drew parallels with *Howick*, asserting that as long as SARS held the requisite authority to issue the notices, the specifics of referring to a particular section were inconsequential to their enforceability. Moreover, the VAT Act does not specifically require mention of Section 47 in notices issued under authority of Section 114A ([paras 18-19]).
+
+Counsel for the appellant acknowledged that had SARS not mentioned any provision in the notices, the obligations to pay would still exist, indicating a concession to the substantive nature of the claims rather than the procedural formalities ([para 19]).
+
+---
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately dismissed Shaikh's appeal, affirming that the notices for VAT recovery served by SARS were valid despite references being made only to Section 114A of the Customs Act. The judgment underscored the principle that form should not outweigh substance in tax recovery matters and that the correct statutory framework existed for SARS to act upon ([paras 19-20]).
+
+The implications of this decision reinforce the notion that minor procedural inaccuracies do not undermine administrative actions, as long as the authority to act exists. The ruling clarifies the interplay between the Customs Act and the VAT Act while setting a precedent on the importance of substance over form in tax legislation ([para 18]).
+
+--- 
+
+This case serves as a significant reference point in discussions surrounding the administration of tax laws in South Africa, particularly the manner in which tax authorities engage in recovery actions against individuals and entities.

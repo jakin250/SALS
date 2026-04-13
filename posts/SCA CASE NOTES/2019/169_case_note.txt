@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Malherbe v S (1182/2018) [2019] ZASCA 169
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–3])
+
+In *Malherbe v S*, the appellant, Neil Malherbe, faced charges in the Regional Court of Nelspruit for seven counts of contravening sections 24B(1)(a) and 24B(1)(c) of the Films and Publications Act 65 of 1996. The charges were predominantly related to the possession and importation of films and images deemed to be child pornography ([para 1]). The films and materials in question were seized during a search of Malherbe’s residence, conducted under a search warrant issued by Magistrate Oosthuizen.
+
+The crux of the trial pivoted on a *trial within a trial* concerning the validity of the search warrant. The trial court ultimately upheld the search warrant's validity, leading to Malherbe's admissions under section 220 of the Criminal Procedure Act (CPA), wherein he acknowledged possessing certain images ([para 2]). Subsequently, he was convicted and sentenced to three months’ imprisonment, with the sentence suspended for three years, on certain conditions, including his name being recorded in the National Child Protection Register ([para 2]). However, after his appeal was initially dismissed by the High Court, Malherbe secured special leave to appeal to the Supreme Court of Appeal ([para 3]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 4–5])
+
+The primary issue in question was whether the trial court's determination of the validity of the search warrant was correct ([para 5]). This inquiry involved examination of whether the search warrant was issued in compliance with the statutory requirements of the CPA, particularly section 21(1)(a), which mandates that information leading to the issuance of a search warrant must be presented under oath. Malherbe argued that the lack of a sworn statement invalidated the warrant and, consequently, rendered the subsequent seizure of evidence inadmissible.
+
+Additionally, the court needed to consider whether the resulting admissions made by Malherbe, which were compelled by the belief that the search warrant was valid, constituted a breach of his fair trial rights as secured under section 35 of the Constitution of South Africa ([para 10]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 6–8])
+
+The court relied heavily on the provisions of sections 20 and 21 of the Criminal Procedure Act 51 of 1977, which govern the issuance of search warrants. Section 21(1)(a) explicitly requires that such warrants be grounded in information provided on oath, establishing a standard of strict adherence to statutory norms regarding search and seizure ([paras 6–8]).
+
+In support of its analysis, the court referenced established jurisprudence, notably *Thint (Pty) Ltd v National Director of Public Prosecutions & Others* and *Zuma & Another v National Director of Public Prosecutions & Others*, which outline the necessity for reasonable suspicion and grounds for belief that items to be seized are relevant to the commission of an offense ([para 6]). Additionally, the court noted that failure to comply with these procedural requirements undermines the validity of evidence obtained and can lead to violations of the rights encapsulated in the Bill of Rights under the Constitution ([para 10]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 7–10])
+
+The appeal turned on the court’s determination that the lower trial court had misdirected itself in upholding the search warrant. Testimony indicated that Captain Swart’s statement, which the trial court accepted as legitimation for the warrant, was not sworn as required; rather, the magistrate’s mere certification of the signature did not equate to an oath witnessed ([para 7]). The court found that such procedural non-compliance constituted a serious violation of the CPA's requirements, rendering the search warrant invalid.
+
+Consequently, all material seized as a result of the unlawful search should have been deemed inadmissible. The court concluded that the trial court's failure to declare the warrant invalid directly influenced Malherbe’s subsequent admissions under section 220 of the CPA. The foundation for his admissions was inherently flawed as they relied upon unlawfully obtained evidence, leading to an unfair trial, and violating section 35(5) of the Constitution ([paras 9–10]).
+
+Furthermore, the court scrutinized the specific admissions made by Malherbe to ascertain whether they sufficed to establish guilty knowledge—an essential element of mens rea necessary for convictions under the relevant sections of the Films and Publications Act. Ultimately, it found that his admissions did not adequately demonstrate this requirement ([para 9]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 11])
+
+The Supreme Court of Appeal ultimately ruled in favor of Malherbe. It set aside both the convictions and the sentence based on its finding that the search warrant was invalid, a crucial ruling underscoring the imperative that law enforcement adhere strictly to procedural norms when seeking search warrants ([para 11]). 
+
+By establishing that evidence obtained through unlawful means cannot form the basis for convictions, the court reinforced the constitutional protections of a fair trial. It affirmed the principle that procedural violations, particularly those that encroach upon individuals' rights under the Constitution, render a trial fundamentally unfair. The implications of this ruling emphasize the need for law enforcement agencies to ensure compliance with statutory requirements, thereby safeguarding constitutional rights and maintaining judicial integrity. 
+
+This case notably serves as a reference point in further discussions on the importance of procedural propriety, particularly in the context of evidence admissibility and the broader safeguards enshrined within the Bill of Rights.

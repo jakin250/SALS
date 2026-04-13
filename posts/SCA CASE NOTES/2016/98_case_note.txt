@@ -1,0 +1,39 @@
+Case Note: SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Blue Chip 2 (Pty) Ltd v Ryneveldt (499/15) [2016] ZASCA 98
+
+## FIRAC Case Note
+
+### F – Facts
+[1] The appellant, Blue Chip 2 (Pty) Ltd, operating as Blue Chip 49, functions as a credit provider under the National Credit Act 34 of 2005 (NCA). The company entered into various unsecured credit agreements with the respondents, with specific emphasis on the agreement made with Cedrick Dean Ryneveldt, who represents a collective of 27 other respondents for procedural efficiency. On June 28, 2013, Ryneveldt entered into a credit agreement for approximately R20,000, from which he later defaulted, prompting the appellant to seek recovery of R25,134.
+
+[2] As mandated by the NCA, the appellant delivered a notice under section 129(1)(a) via registered post to Ryneveldt’s chosen address (domicilium citandi et executandi) in Kimberley, which is outside the jurisdiction of the Bloemfontein Magistrates' Court. The notice was received at the post office in Kimberley with notification for collection. However, Ryneveldt failed to respond within the prescribed period.
+
+[3] Subsequently, a letter of demand was personally delivered to Ryneveldt in Kimberley, informing him of his account status. In response, Ryneveldt provided written consent in Bloemfontein for a judgment on the outstanding amounts according to section 58 of the Magistrates’ Court Act 32 of 1944. This consent was predicated on the assumption that the Bloemfontein Magistrates' Court would have jurisdiction to issue such a judgment.
+
+[5] The request for judgment was later submitted to the clerk of the Bloemfontein Magistrates’ Court, which ultimately led the magistrate to find a jurisdictional issue. On July 31, 2014, the magistrate denied the application for judgment, citing non-compliance with section 28(1)(d) of the Magistrates' Court Act, asserting that the delivery of the section 129 notice was a requisite aspect of the cause of action which did not occur within the court's jurisdiction.
+
+[6] The appellant appealed this decision to the High Court of Free State, which also found that the section 129 notice was integral to the cause of action despite differing views on its classification. The High Court concluded that the absence of compliance with the jurisdictional requirements led to a dismissal of the appeal. Ultimately, the appellant sought special leave to appeal to the Supreme Court of Appeal (SCA).
+
+### I – Issues
+[9] The core issue presented in this appeal was whether the delivery of the section 129 notice constitutes part of the cause of action under the NCA. Historically, there had been conflicting judgments in the magistrates' courts regarding the implications of non-compliance with jurisdictional requirements stemming from the delivery of this notice, thus warranting clarification.
+
+### R – Rules
+[10] The magistrate’s court derives its jurisdiction from the confines established by statute, specifically the Magistrates’ Court Act 32 of 1944. According to section 28(1)(d), a court holds jurisdiction over persons only if the cause of action arose wholly within the district or regional division.
+
+[12] The meaning of “cause of action” has been authoritatively defined in prior cases, notably in *McKenzie v Farmers’ Co-Operative Meat Industries Limited*, where it was established that this term comprises all facts necessary for the plaintiff to substantiate a claim.
+
+[17] Section 129(1) of the NCA stipulates mandatory notice requirements that a credit provider must fulfill before initiating legal proceedings. Failure to comply with the stipulations in this section could render an action unenforceable.
+
+### A – Application
+[18] The SCA examined the appellant’s argument that the section 129 notice should not form part of the cause of action. It emphasized that the notice is not merely a procedural formality but a substantive requirement for initiating claims under the NCA. By delivering the notice outside the jurisdiction, the appellant failed to satisfy the jurisdictional requirement defined in section 28(1)(d).
+
+[21] The court stated that the delivery of the section 129 notice is fundamental to asserting a cause of action; without it, the legal basis for the claim does not exist as dictated by the provisions of the NCA. Thus, the failure to deliver the notice within the required jurisdiction effectively precluded the claim from being actionable in the Bloemfontein Magistrates’ Court.
+
+[22] Additionally, the claim that Ryneveldt had consented to jurisdiction by signing the consent to judgment was rebutted due to the fact that consent obtained in a jurisdictionally invalid context is inherently unenforceable, reaffirming the necessity of establishing proper jurisdiction in any claims process.
+
+### C – Conclusion
+[24] The SCA dismissed the appeal, agreeing with both the magistrate and the High Court’s interpretation that the cause of action did not wholly arise within the jurisdiction of the Bloemfontein Magistrates' Court due to improper delivery of the section 129 notice. The decision signifies the importance of procedural compliance and illustrates that jurisdictional issues, particularly within credit agreements, must adhere strictly to statutory requirements. This case serves as a guiding precedent articulating the relationship between notice requirements under the NCA and jurisdictional competence of magistrates' courts.
+
+The holding of this case emphasizes that compliance with statutory preconditions, such as the delivery of a section 129 notice, is paramount to the enforceability of claims in South African credit law, reinforcing the legislative intent behind the NCA aimed at consumer protection and mindful credit practices.

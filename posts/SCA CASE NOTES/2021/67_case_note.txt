@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Van Zyl v Auto Commodities (Pty) Ltd
+
+**Supreme Court of Appeal of South Africa**  
+Case No: 279/2020  
+Neutral Citation: Van Zyl v Auto Commodities (Pty) Ltd (279/2020) [2021] ZASCA 67 (3 June 2021)  
+Coram: Wallis JA, Mbha and Schippers JJA, Phatshoane and Rogers AJJA  
+Heard: 18 May 2021  
+Delivered: 3 June 2021  
+
+---
+
+## FIRAC Case Note
+
+### F – Facts
+
+The appellant, Martin van Zyl, was the Chief Executive Officer of Blue Chip Mining and Drilling (Pty) Ltd (BCM) during a period when the respondent, Auto Commodities (Pty) Ltd, supplied BCM with petroleum products on credit. To secure the credit extended to BCM, Van Zyl signed a deed of suretyship in July 2014, binding himself to BCM's liabilities ([1]). Subsequently, BCM faced financial difficulties and was placed under business rescue on 10 December 2014. A business rescue plan was proposed and adopted on 2 June 2015, leading to BCM's creditors, including Auto Commodities, receiving dividends totalling R1.9 million over the next two years ([1]).
+
+The business rescue process concluded on 31 January 2017 as a result of significant implementation of the plan ([1]). On 21 July 2017, Auto Commodities issued summons against Van Zyl for an amount exceeding R6 million, representing the shortfall of BCM's original indebtedness. The claim was based on the deed of suretyship he had signed ([1]).
+
+During the subsequent legal proceedings, Van Zyl contended that BCM's discharge from liability due to the termination of the business rescue process automatically released him from his obligations under the suretyship. He argued that section 154(2) of the Companies Act 71 of 2008 effectively relieved BCM of its debts, which in turn released him as surety, as the suretyship obligation was accessory in nature ([2]).
+
+### I – Issues
+
+The central legal issue before the court was whether Van Zyl remained liable under the deed of suretyship following BCM's discharge from liability as a result of the business rescue plan being implemented ([2]). Specifically, the court needed to discern:
+
+1. Whether section 154(2) of the Companies Act released BCM from its creditors, affecting subsequent enforcement of liabilities against sureties.
+2. The interpretation of the deed of suretyship in light of terms within section 154 of the Companies Act and its implications on the accessorial nature of surety obligations ([2]).
+
+### R – Rules
+
+The judgment relied heavily on the interpretation of section 154 of the Companies Act 71 of 2008. The relevant provisions are as follows:
+
+- **Section 154(2)** states that a creditor is not entitled to enforce any debt owed by the company immediately before the commencement of the business rescue process, except to the extent specified in the business rescue plan. 
+
+In addition to statutory provisions, the court considered prior case law, including *Tuning Fork (Pty) Ltd t/a Balanced Audio v Greeff* and *New Port Finance Co (Pty) Ltd v Nedbank Limited*, which provided context for interpreting the impact of a business rescue plan on creditor claims and suretyships ([3–19]).
+
+### A – Application
+
+The court's analysis focused initially on section 154(2) and the distinctions between subsections (1) and (2), pointing out that subsection (1) pertains to a creditor's consent to a discharge of debt, while subsection (2) limits enforcement rights against the company after a business rescue implementation ([20–21]). Thus, the inability to enforce BCM's obligations did not equate to a total discharge of the debt.
+
+The court thoroughly examined the terms of the deed of suretyship, specifically clauses allowing Auto Commodities to extend leniency to BCM, which were designed to preserve creditor rights against the surety despite any compromise or discharge applicable to the principal debtor ([5]). Particularly, clause 5.4 stipulated that dividends received from BCM’s insolvency proceedings did not prejudice Auto Commodities' right to recover any remaining sums from the surety ([5],[6]).
+
+The court concluded that the terms of the surety agreement explicitly allowed Auto Commodities to maintain its claims against Van Zyl, regardless of BCM's discharges or the business rescue's impact. In essence, this meant that Van Zyl's liability under the suretyship remained intact despite BCM being discharged from its liabilities to Auto Commodities ([8–10]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal dismissed Van Zyl's appeal, affirming that his obligations under the deed of suretyship were unaffected by BCM's discharge from liability as a result of the business rescue plan ([45]). The court held that section 154(2) did not nullify the surety’s obligations but rather limited the enforcement of claims against the principal debtor. The ruling reinforced the imperative of maintaining certain creditor rights against sureties within the context of business rescue, emphasizing the independence of the accessory nature of suretyships, even when the principal debtor is discharged ([45]).
+
+This case clarifies the workings of business rescue provisions in South African law and the extent to which sureties remain liable, despite the debtor's discharge, which may have significant repercussions for creditors and sureties alike in future business rescue scenarios. The court highlighted that the rights of creditors under a deed of suretyship constitute property rights deserving protection under the Constitution, preventing interpretations that would unduly infringe these rights without explicit statutory authority ([44]). Thus, the decision establishes an important precedent regarding the enduring nature of surety obligations amidst corporate rescue processes.
+
+---

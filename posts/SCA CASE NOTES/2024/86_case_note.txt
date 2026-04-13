@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Bonifacio and Another v Lombard Insurance Company Limited (247/2023) [2024] ZASCA 86 
+
+## FIRAC Case Note
+
+### F – Facts ([paras 1–9])
+This appeal arises from the judgment of the Gauteng Division of the High Court, Johannesburg, where the appellants, Jorge Alexandre Da Costa Bonifacio and Sergio Rui Da Costa Bonifacio (collectively, the appellants), were held liable to indemnify the respondent, Lombard Insurance Company Limited (the respondent), for a payment made in compliance with a performance guarantee. The guarantee was issued by the respondent on 8 September 2009, intended to ensure the performance of Tubular Construction Projects (TCP) to DBT Technologies (Pty) Ltd (DBT) as per a subcontract agreement.
+
+On 13 January 2020, DBT made a written demand on the respondent for the full amount of the guarantee, which led the respondent to invoke the indemnity provided by the appellants in a 'Deed of Suretyship and Indemnity' executed on 7 June 2019. The respondent paid DBT an amount of R100 million as part of a settlement, without the participation of TCP, which was later liquidated. The appellants challenged their liability based on allegations of fraud concerning the demand from DBT, as well as procedural rights they believed were compromised due to the settlement made by the respondent.
+
+### I – Issues ([paras 11–12])
+The primary legal issues before the court included:
+1. Whether the appellants were liable to indemnify the respondent post-settlement, especially in light of their claims of fraud regarding DBT's demand.
+2. The impact of the settlement on the appellants' procedural rights and their ability to contest DBT's claim.
+3. Whether the settling of claims with DBT deprived the appellants of their opportunity to present defenses concerning alleged fraud.
+4. Whether liability under the indemnity was conditional upon a court finding the respondent liable to DBT before claiming indemnity from the appellants.
+
+### R – Rules ([paras 16–20])
+The legal framework applicable in this case includes the principles surrounding performance guarantees as established in **Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd** [2009] ZASCA 71, which affirms that performance guarantees are autonomous obligations, independent from any underlying contractual disputes. The obligations of a guarantor are triggered solely by a valid demand made by the beneficiary in accordance with the guarantee's conditions.
+
+Further, the court referenced previous rulings concerning fraud, emphasizing that any avoidance of liability on grounds of fraud must demonstrate that the beneficiary (DBT, in this matter) engaged in misconduct that misrepresented the demand to the guarantor (the respondent). Consequently, the appellants bore the burden of establishing fraud not just on DBT’s part, but also implicating the respondent’s settlement.
+
+### A – Application ([paras 21–25])
+In its analysis, the court indicated that the respondent did not collude with DBT's alleged fraud and had a legitimate obligation to honor the valid demand made under the performance guarantee. The court reiterated that the only permissible basis to contest the enforceability of the guarantee would be upon establishing fraud attributed directly to DBT, which the appellants failed to accomplish due to the absence of DBT as a party in the ongoing proceedings.
+
+The court further ruled that the appellants had forfeited their procedural rights to contest DBT’s claim due to their inaction after being served with third-party notices. The opportunity to challenge the claim had already dissipated when DBT and TCP were no longer parties to the litigation, and thus, the appellants could not guilelessly blame the settlement for their procedural disadvantages. The court underscored the necessity of finality in litigation and that the appellants were aware of the changed circumstances but chose not to exert their rights adequately.
+
+Moreover, they contended that the liability under the indemnity depended upon a court finding against the respondent prior to the appellants' liability being triggered. The court dismissed this argument, stating the terms of the indemnity clearly outlined that liability was independent of any external judicial determinations, correlating with the contractual obligation that accrued upon the respondent’s payment to DBT.
+
+### C – Conclusion ([paras 34–35])
+In conclusion, the Supreme Court of Appeal dismissed the appeal with costs, affirming the lower court's ruling that the appellants were liable under the indemnity despite their allegations of fraud and compromised procedural rights. The court's judgment emphasized the need for rigorous adherence to legal procedural avenues and affirmed the binding force of indemnity contracts even in complex litigation scenarios, particularly where a party unilaterally opts for settlement under the auspices of a performance guarantee.
+
+Consequently, this judgment serves as a critical reminder of the importance of maintaining legal diligence in the exercise of rights within the context of indemnities and performance guarantees, especially within the construction law framework.
+
+---
+
+### Bibliography
+- Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd [2009] ZASCA 71.
+- Other case references as cited within relevant sections.

@@ -1,0 +1,44 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2020
+
+### Case Note: C M v E M (1086/2018) [2020] ZASCA 48
+
+#### FIRAC Method
+
+**F – Facts**:
+The parties, C M (Applicant) and E M (Respondent), were married in December 1999 under a marriage out of community of property with the accrual system as delineated in the Matrimonial Property Act 88 of 1984 ([1]). The Respondent established several Personal Portfolio Living Annuities (the living annuities) through Glacier Financial Solutions (Pty) Ltd, utilizing pension benefits accumulated during his employment ([2]–[4]). When the Respondent initiated divorce proceedings in 2014, he sought a declaratory order asserting that these living annuities did not constitute assets in his estate nor were they subject to the Applicant’s claim for accrual, which the Applicant countered with a claim for half of the accrual of the estates ([3]–[4]).
+
+During trial, issues were separated, focusing specifically on whether the living annuities should be included in the accrual calculation. The trial court ultimately ruled in favor of the Respondent, interpreting the annuities as not being subject to accrual because their capital value was owned by the insurer, Sanlam, while the Respondent only had rights to the income stream ([9]).
+
+The Full Court upheld the trial court's ruling, acknowledging a precedent from *ST v CT* that aligned with this view, leading the Applicant to seek leave to appeal ([10]–[11]). The main contention revolved around whether the living annuities qualified as assets within the context of divorce accrual and whether their characterization remained consistent across legal interpretations.
+
+**I – Issues**:
+The legal questions at the heart of this case centered on:
+1. Whether the living annuities constituted an asset in the Respondent’s estate for the purpose of calculating accrual under the Matrimonial Property Act.
+2. Whether the trial court's ruling was consistent with established precedent and statutory interpretation regarding the ownership rights associated with living annuities as defined in the Income Tax Act and other applicable legislation ([11]–[12]).
+
+**R – Rules**:
+Key legal provisions and precedents relevant to this case include:
+- The **Matrimonial Property Act 88 of 1984**, which governs the accrual system in matrimonial property regimes ([1]).
+- The **Divorce Act 70 of 1979**, particularly concerning pension interests and their relation to accrual rights ([10]).
+- The **Income Tax Act 58 of 1962**, which provides definitions and requirements related to living annuities, including their status as financial products ([18]).
+- General Note 18 from the Second Schedule to the Income Tax Act, which clarifies that annuities must conform to specified regulatory measures that affect asset classification ([20]).
+- Previous case law, particularly *ST v CT* and *Commissioner, South African Revenue Service v Higgo*, which established foundational interpretations of annuity rights in marital contexts ([10], [27]).
+
+**A – Application**:
+The Supreme Court of Appeal (SCA) undertook a thorough analysis of the nature and treatment of living annuities. It established that the capital of a living annuity is owned by the insurer, and the annuitant (here, the Respondent) only holds a right to receive income from these annuities ([9]–[10]). The SCA observed that the income stream, rather than the underlying capital, plays a critical role in the assessment of assets during divorce proceedings.
+
+The Court emphasized the importance of ensuring that the income streams derived from living annuities are characterized correctly in divorce contexts. It noted that the trial court had misapplied the expert testimony regarding ownership rights and inadvertently obscured the distinction between the income from these annuities and the capital, leading to a flawed conclusion regarding accrual ([18]–[19]).
+
+In contrast, the Applicant argued that not recognizing the capital value of the annuities as an asset created an untenable scenario where a spouse could potentially diminish the value of their estate prior to divorce. The SCA rebuffed this argument, clarifying that any perceived inequity stemmed from misinterpretation of asset ownership rather than the legal framework itself ([11], [12]).
+
+Ultimately, the decision established that future annuity rights should be considered an asset for accrual calculations, thus signaling a crucial shift in the treatment of similar assets in divorce settlements ([39]).
+
+**C – Conclusion**:
+The SCA overturned the decision of the Full Court, ruling that the Respondent's rights to future annuity payments from the living annuities constituted an asset in his estate for accrual calculation purposes. The case has significant implications for how living annuities and similar financial products are treated in divorce proceedings, clarifying that the value of entitlement to future payments can be included in calculating an estate's accrual. The matter was remitted to the trial court for the admission of evidence to value these future payments ([39]).
+
+The court's ruling reaffirms the necessity of accurate legal interpretation regarding financial products in marital contexts, aligning estate law with the realities of financial entitlements in the realm of divorce.
+
+---
+
+This FIRAC case note provides a detailed exploration of the legal and factual dimensions within *C M v E M*, reflecting both the substantive legal principles and procedural history leading to this pivotal judgment.

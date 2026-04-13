@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Madibeng Local Municipality v Public Investment Corporation Ltd (955/2019) [2020] ZASCA 157
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–7])
+
+This case concerns an appeal by the Madibeng Local Municipality (Madibeng) against an order of the Gauteng Division of the High Court, Pretoria, which dismissed a special plea of prescription in favor of the Public Investment Corporation Ltd (PIC). The essential facts revolve around three debts arising from short-term loans made by PIC to the Brits Transitional Local Council, which was succeeded by Madibeng. The PIC sought repayment based on three zero coupon stock certificates issued by Brits in January 1994, which matured in the early 2000s ([para 5]).
+
+When these debts fell due—BR25 on 30 June 2003, and BR20 and BR26 on 30 November 2003—Madibeng failed to make full repayments, resulting in the PIC instituting legal proceedings in March 2010 ([paras 6–8]). Madibeng's defense included arguments about the alleged unenforceability of the debts due to a lack of authorization under the Local Government Ordinance, as well as the claim of prescription, asserting that these debts had become unenforceable owing to the lapse of time established under the Prescription Act 68 of 1969 ([para 7]). This appeal, which is Madibeng’s second in relation to the same debts, ultimately proceeds to contest the High Court’s ruling affirming the existence of the debts notwithstanding the special plea ([paras 1–2]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 17–20, 39])
+
+The primary legal questions arising in this case are: 
+
+1. Whether the PIC's claims against Madibeng have prescribed under the Prescription Act 68 of 1969, specifically addressing the applicability of the 15-year versus 3-year prescription periods ([para 21]).
+
+2. If prescription has not extinguished the claims, whether the PIC has proven its claims on the merits given Madibeng's admissions and defenses raised ([para 39]).
+
+3. The entitlement of the PIC to claim mora interest on the outstanding debts from the respective due dates ([para 42]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 20–28])
+
+The court relied on various statutory and case law to resolve the issues:
+
+- **Prescription Act 68 of 1969**, particularly sections 11 and 14, was pivotal in assessing the periods of prescription applicable to the debts due and the interruptions of prescription due to acknowledgments of liability ([paras 20–21]).
+
+- The concept of 'the State' was clarified through precedent cases such as *Holeni v Land and Agricultural Development Bank of South Africa* ([para 23]), which distinguished between organs of state and the 'State' as referenced in the Prescription Act.
+
+- Attention was also given to previous decisions that articulated the conditions under which tacit acknowledgments of liability can interrupt the running of prescription, emphasizing that such acknowledgments could stem from conduct as well as express admissions ([paras 28, 29]).
+
+- The court cited *Cape Town Municipality v Allie NO* to elucidate the characteristics of an acknowledgment of liability and to reinforce the applicability of the objective test when inferring a debtor's acknowledgment from conduct ([para 28]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 19–37, 39–45])
+
+In determining the prescription plea, the court first clarified that the Special Plea's success depended on whether PIC, as an organ of state, was entitled to the longer 15-year prescription period. The court concluded that based on existing jurisprudence, including the *Isibaya Fund v Visser*, PIC was not 'the State' for the purpose of section 11(b) of the Prescription Act ([paras 23–26]). Consequently, this meant that the usual 3-year prescription period applied.
+
+The court highlighted several critical acknowledgments by Madibeng, including fiscal admissions documented in letters and other correspondence prior to and during the trial, which constituted tacit acknowledgments of liability ([paras 29–33]). Thus, those admissions, combined with subsequent partial payments towards the debts, were decisive in concluding that the running of prescription was effectively interrupted.
+
+In terms of the merits of the case, the court found that Madibeng, having admitted or been deemed to have admitted material facts related to debt, could not escape liability despite asserting a lack of authority regarding the initial loans. The absence of any substantial rebuttal to the PIC’s claims meant that these claims were unassailable at law once prescription was addressed ([paras 39–41]).
+
+As for the entitlement to mora interest, Madibeng’s failure to respond to specific allegations in the particulars of claim rendered its challenge to the interest claims ineffective. The court affirmed that this interest naturally arises upon due date non-payment and noted that the correct interest rate and commencement date were to be adjusted accordingly ([paras 42–46]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 56–56])
+
+The appeal was ultimately dismissed, save for a minor amendment regarding the calculation of mora interest. The court affirmed that the Prescription Act applied, confirming that the PIC's claims had not prescribed due to Madibeng's admissions and partial payments that interrupted any prescription claim. Furthermore, the court corrected the order of the lower court regarding interest calculations on the debts, stipulating the precise dates from which interest would run.
+
+This ruling underscores the principles of good faith dealings and the importance of orderly financial conduct by municipal entities. It also establishes clear precedents concerning what constitutes an acknowledgment of liability, significantly emphasizing an organ's (or governmental body's) ethical obligations in its financial dealings and the implications of attempting to evade acknowledged debts through prescriptive defenses ([paras 56–56]). The ruling may have broader implications for local governments facing financial challenges, where transparency and acknowledgment of obligations take center stage in legal proceedings concerning debt recovery.

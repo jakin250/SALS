@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: **Zephan (Pty) Ltd v De Lange** [2016] ZASCA 195
+
+## F – Facts
+The case revolves around a summary judgment granted by the Gauteng Division of the High Court in favor of Anne-Marie Leoni De Lange (the respondent) against Zephan (Pty) Ltd and several individuals associated with it (the appellants). De Lange had entered into an investment agreement involving the purchase of shares in Highveld Syndication No 21 Ltd (HS 21) on 18 November 2008. This agreement became formalized with the issuance of a share certificate on 25 June 2009 ([1]–[3]).
+
+Concurrently with the investment agreement, a buy-back agreement was established on 13 December 2008 between HS 21, Zephan, the N Georgiou Trust, and Mr. Nicolas Georgiou, where Zephan and its co-parties committed to repurchasing the shares sold to De Lange five years after the investment date ([4]–[5]). Upon the expiration of this five-year term, De Lange, along with other investors, sought to enforce the buy-back agreement but faced opposition from the appellants who contended that the agreement created no enforceable obligations ([6]–[7]). 
+
+The High Court found in favor of De Lange, leading to this appeal where the primary contention was whether De Lange disclosed a bona fide defense against the claimed payment of R520,000 plus interest as stipulated in the buy-back agreement ([1], [10]).
+
+## I – Issues
+1. **Did the appellants disclose a bona fide defense against the summary judgment application?**
+2. **Is the buy-back agreement enforceable, given that it was concluded after De Lange accepted the benefit from her investment?**
+3. **Did the business rescue plan (BRP) of HS companies restructure or discharge De Lange's rights under the buy-back agreement?** ([1]–[8], [19]).
+
+## R – Rules
+The central legal principles relevant to the case can be summarized as follows:
+
+- **Summary Judgment**: According to Rule 32(3) of the Uniform Rules of Court, a defendant resisting summary judgment must satisfy the court through an affidavit that they possess a bona fide defense to the claim, which means stating facts that could lead to a valid defense if proven at trial ([10]).
+
+- **Stipulatio Alteri**: This principle allows for third-party benefits in obligations; namely, a contract can be enforced if a third party (here, De Lange) has accepted the benefits, irrespective of the direct contractual relationship ([12], [14]).
+
+- **Effect of Business Rescue Plans**: The BRP does not automatically invalidate prior agreements unless explicitly stated, thus obligations under the buy-back agreement should remain intact unless legally varied ([19]).
+
+## A – Application
+The court scrutinized whether the appellants presented sufficient evidence to establish a bona fide defense against the claims laid down by De Lange. The appellants argued that the buy-back agreement was not binding on them since it was concluded after the sale of shares, asserting that De Lange's claim could not stand as she only made an offer before such agreement existed ([9], [13]).
+
+However, the court rejected this assertion, contending that while the initial offer by De Lange occurred prior to the buy-back agreement, the acceptance of the benefit (issuance of the share certificate) was valid. Thus, she acquired enforceable rights established under the agreement by the time of the agreement's execution ([14]–[15]). 
+
+Moreover, the court examined the appellants’ claim regarding the impact of the BRP. It clarified that the restructuring did not nullify De Lange's rights as they pertained distinctly to the obligations of the appellants under the buy-back agreement. The BRP specifically aimed to restructure financial arrangements within the HS companies, not the personal obligations of the appellants toward De Lange ([18]–[19]). 
+
+The court upheld that the appellants failed to provide any material facts that would substantiate their defenses and only relied on legal arguments tied to the terms of the contracts. Therefore, the legal basis for a bona fide defense was deemed inadequate, affirming the High Court's decision ([12]).
+
+## C – Conclusion
+The Supreme Court of Appeal dismissed the appeal with costs, including those incurred for the employment of two counsels, affirming the lower court’s ruling that the buy-back agreement was valid and enforceable against the appellants. The critical takeaway is the reinforcement of the stipulatio alteri principle, emphasizing that the enforcement of third-party rights in contractual arrangements holds under South African contract law. Furthermore, the case serves to clarify the significance of presenting factual grounds for defenses in summary judgment applications, thus reinforcing the need for defendants to more thoroughly substantiate their claims in legal proceedings ([20]). 
+
+This decision illustrates the importance of adhering to contractual obligations despite intervening corporate restructuring processes and affirms a stronger interpretation of the law protecting investment rights within the confines of established agreements.

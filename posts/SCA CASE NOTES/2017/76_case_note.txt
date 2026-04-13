@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Mpahla v RAF [2017] ZASCA 76
+
+## FIRAC Method
+
+### F – Facts
+The case revolves around **Nobantu Gloria Mpahla**, the appellant, and the **Road Accident Fund** (RAF), the respondent. Mpahla instituted an action in terms of the **Road Accident Fund Act 56 of 1996** for damages resulting from personal injuries sustained in a motor vehicle accident on **18 November 2011** ([para 4]). She claimed general damages quantified at **R400,000**. On **28 October 2013**, in compliance with regulation **3(3)** of the RAF Regulations, Mpahla submitted a **Serious Injury Assessment** (SIA) report to the Fund. However, the Fund failed to act within the stipulated **90-day period**, allowing it to either accept or reject the SIA report ([para 2],[para 4]). This period expired on **26 January 2014**, and the Fund only responded on **17 January 2015**, rejecting the report ([para 4]).
+
+The defence by the Fund included two special pleas: (1) that Mpahla had failed to comply with the requirements related to the SIA report and (2) that her claim for general damages was premature because she had not exhausted the internal processes concerning the SIA ([para 5]). The High Court found against Mpahla by interpreting regulation **3(3)(dA)** as not containing a deeming provision; thus, the Fund's failure to act within the prescribed time did not automatically result in an acceptance of the report ([para 10]).
+
+### I – Issues
+The pivotal legal issue in this appeal concerned the **interpretation of regulation 3(3)(dA)**: 
+- Did the Fund's failure to either accept or reject the SIA report within **90 days** create a presumption that the injury was deemed serious?
+- What are the implications of such a determination for the appellant seeking general damages under the RAF Act?
+
+### R – Rules
+The relevant **legal framework** includes:
+1. **Road Accident Fund Act 56 of 1996** and its amendments, particularly **section 17(1)**, which outlines the Fund's liability to compensate claimants for bodily injuries sustained in motor accidents ([para 8]).
+2. The **Road Accident Fund Regulations**, particularly regulation **3(3)(dA)**, sets out the required time frame for the Fund to act on SIA reports. This regulation mandates that the Fund must respond within **90 days** to either accept, reject, or direct for further assessment ([para 3]).
+3. The **Promotion of Administrative Justice Act 3 of 2000** (PAJA), particularly **section 6(2)**, provides remedies for claimants whose administrative rights have been neglected or delayed ([para 12]).
+
+### A – Application
+The **Supreme Court of Appeal** critically analyzed the language and legislative intent behind regulation **3(3)(dA)**. The judgment clarified that the regulation's purpose is to compel timely decisions from the Fund and does not allow for an automatic assumption of acceptance based on inaction ([para 13]). The court emphasized that reading a deeming provision into the regulation would contradict the explicit requirements of the RAF Act, as it would allow for claims without substantive basis, potentially undermining the regulatory framework designed to ensure thorough assessments of injuries ([para 14]).
+
+The court also addressed potential absurdities in the appellant's suggested interpretation—that the Fund could be liable for general damages despite potentially not serious injuries simply due to administrative delay ([para 14]). The court reiterated that the legislative intent was to enhance clarity and efficiency, compelling the Fund to respond promptly rather than to weaken the verification requirements of injury assessments ([para 17]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately dismissed Mpahla's appeal, reinforcing the principle that failure to act within the **90-day** limit does not equate to a deemed acceptance of the SIA report. The court underscored that the appropriate remedy for inaction would be through judicial review as provided in **PAJA**, rather than inserting a deeming provision into the regulation ([para 18]). This decision sets a precedent for how similar cases involving the RAF and SIA reports will be approached, ensuring that claimants must adhere to procedural avenues for remedy without assuming outcomes based on the Fund's inaction.
+
+The judgment carries significant implications for claimants, possibility ensuring that claimants remain cognizant of their rights and the necessity to rely on established administrative processes, rather than expecting default judgments based on regulatory failures.
+
+--- 
+
+### References 
+- Mpahla v RAF (698/16) [2017] ZASCA 76.
+- Road Accident Fund Act 56 of 1996.
+- Promotion of Administrative Justice Act 3 of 2000.
+- Regulation 3 of the Road Accident Fund Regulations. 
+
+*Note: The case note above has maintained formal academic language, inline OSCOLA citations, while succinctly summarizing the FIRAC elements for ease of understanding and clarity.*

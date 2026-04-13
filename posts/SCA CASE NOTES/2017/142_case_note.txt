@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: National Director of Public Prosecutions v Kalmar Industries SA (Pty) Ltd (62/17) [2017] ZASCA 142
+
+## F – Facts  
+The case stems from a dispute involving the National Director of Public Prosecutions (NDPP) and Kalmar Industries SA (Pty) Ltd (Kalmar) regarding the preservation and forfeiture of a lifting platform and other equipment alleged to have been stolen. Kalmar, a subsidiary of Cargotec Corporation, entered into a contract with Transnet Ltd in 2008 to supply 22 rubber-tyred gantry cranes (RTGs) for refurbishment ([paras 2–3]). 
+
+Kalmar subcontracted Q6 Management Projects Africa (Pty) Ltd (Q6) for the refurbishment work. Throughout the project, conflicts arose around payments and the ownership of the lifting platform, constructed specifically for the refurbishment ([paras 4–7]). Q6 claimed ownership of the platform but alleged that Kalmar unlawfully removed RTG No 20 and the lifting platform, leading to accusations of theft ([paras 6–10]).
+
+The NDPP, acting on behalf of Q6, obtained a preservation order for the platform and equipment in February 2015, claiming they were instrumentalities of crime under the Prevention of Organised Crime Act 121 of 1998 (POCA) ([paras 10–12]). However, the court a quo found that the NDPP did not establish the jurisdictional requirements for a preservation or forfeiture order, resulting in Kalmar's arguments being upheld ([para 1]).
+
+## I – Issues  
+The primary legal questions before the court were:
+1. Were the lifting platform and equipment subject to a preservation order under section 38 of POCA, thus qualifying for forfeiture under section 48 read in conjunction with section 50? ([paras 1, 12])
+2. Did the NDPP have a legitimate basis for intervening in what appeared to be a commercial dispute between Q6 and Kalmar, rather than involving criminal activity? ([paras 13–16])
+
+## R – Rules  
+The relevant provisions of POCA set forth conditions for obtaining preservation and forfeiture orders. Section 38(1) allows for a preservation order to be granted if there's reasonable belief that the property is an instrumentality of an offence or proceeds of unlawful activities. Section 50 mandates that the High Court make an order if it is found on a balance of probabilities that the property is an instrumentality of crime ([paras 11–12]). The definition of "instrumentality of an offence" focuses on the functional relationship between the property and the crime, emphasizing that it must serve a direct role in the commission of an offence ([paras 21–24]).
+
+Additionally, "proceeds of unlawful activities" requires that the property must be derived or obtained as a result of criminal conduct ([paras 28–30]).
+
+## A – Application  
+In assessing the case, the court highlighted that the NDPP's evidence did not substantiate the claim that the lifting platform and equipment were instrumentalities of crime. It noted that the underlying dispute was largely commercial rather than criminal, centering on contractual disagreements between Kalmar and Q6 regarding refurbishment payments and ownership claims ([paras 16–19]).
+
+The claims of theft by Q6 were contested by Kalmar, who argued that due to unresolved payment issues and defective works, they had not stolen the property ([para 9]). The NDPP's reliance on a previous stolen property claim was undermined by the fact that the court found genuine disputes of material fact, meaning that factual determinations could not be resolved in motion proceedings. The court emphasized that it could not assume the allegations of theft without substantial proof ([paras 17–19]).
+
+The court found that the NDPP had not met the jurisdictional requirements set forth under section 50 of POCA. The definitions and criteria for "instrumentality of an offence" were not satisfied, as the lifting platform and equipment were deemed to be the property in question (not used to commit a crime) ([paras 26–27]).
+
+## C – Conclusion  
+The Supreme Court of Appeal dismissed the NDPP's appeal, affirming that the NDPP's applications were inappropriate given the commercial nature of the underlying dispute. The court underscored the misapplication of POCA by the NDPP, which failed to identify any criminal activity in the seizure of the platform and equipment. The preservation and subsequent forfeiture applications were found to be ill-conceived and detrimental to public resources ([paras 20–34]).
+
+Consequently, the appeal was dismissed with costs, and it was ordered that costs associated with the non-appearance of the respondent at the initial appeal hearing be borne by the NDPP's legal representatives ([para 37]). The case has broader implications, especially highlighting the need for careful consideration by prosecuting authorities when invoking POCA in contexts that may resonate with commercial law issues rather than outright criminal actions.

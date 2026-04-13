@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2010
+
+### FIRAC Case Note: Northview Shopping Centre (Pty) Ltd v Revelas Properties Johannesburg CC and Another
+
+**Facts**  
+[1] The appellant, Northview Shopping Centre (Pty) Ltd (hereafter "Northview"), sought specific performance regarding a contract for the sale of immovable property, which it claimed to have purchased from the first respondent, Revelas Properties Johannesburg CC (hereafter "Revelas"). The second respondent, Nick Christelis, is the husband of the sole member of Northview and signed the contract on behalf of Revelas. The key issue was whether Christelis was authorized to sign the contract as required by section 2(1) of the Alienation of Land Act 68 of 1981 (hereafter "the Act"). Revelas contended he was not authorized due to the lack of written authority, rendering the sale invalid ([1]).
+
+[2] In its particulars of claim, Northview asserted that Christelis was duly authorized to sign the contract, claiming enforceability against Revelas. However, Revelas raised two exceptions. The first was a pleading exception, arguing the claim was vague because it did not state Christelis was authorized in writing. The second, substantive exception contended the claim lacked essential averments to support an action ([2]).
+
+[3] The High Court (Brett AJ) upheld the substantive exception, stating if a non-member acted on behalf of a close corporation, that person would be an agent under the Act, requiring written authority. The court also upheld the pleading exception, asserting written authority should have been annexed to the claim ([3]).
+
+---
+
+**Issues**  
+The primary legal issue pointedly addressed by the court was whether written authority is required for a non-member agent to sign a contract for the sale of land on behalf of a close corporation, considering statutory provisions in the context of the Alienation of Land Act ([1]–[2]).
+
+---
+
+**Rules**  
+Section 2(1) of the Alienation of Land Act provides that no alienation of land is valid unless it forms part of a deed signed by the parties or their agents, acting with written authority ([4]). The historical context of this provision reveals its long-standing existence and application, with precedents extending back to a similar statute in 1902 ([4]).
+
+The "Potchefstroom Dairies principle," originating from caselaw, establishes that an agent must have been expressly authorized in writing where the principal cannot act itself (as in the case of juristic entities like companies and close corporations) ([5]–[8]).
+
+For close corporations, the Close Corporations Act 69 of 1984 permits members to act as agents for the corporation without written authority; however, there is no equivalent provision for non-member agents ([16][17]). 
+
+The complexity of authority can further be assessed in the context of company law, where Section 69 of the Companies Act permits company agents, including non-officers, to bind the corporation in contracts without written authorization, leading to a contrast in how close corporations and companies are treated ([12][13]).
+
+---
+
+**Application**  
+The Supreme Court of Appeal analyzed whether Christelis, as a non-member agent, could bind Revelas in the absence of written authority. The court emphasized that written authority would be necessary if the agent acts under authority not conferred by membership or inherent legal position ([11][18]). 
+
+The court distinguished between inherent authority (available to functionaries and members) and external authority (imposed by express written agreement). It aligned with the Potchefstroom Dairies principle in asserting that where authority arises by implication of law, as in the case of members rather than agents, no written authority is needed ([24]).
+
+Moreover, the court reflected on why it is vital for agreements to have clear written authority to avoid uncertainties that could lead to disputes and litigation—thus reinforcing the legislative intent behind Section 2(1) of the Act ([26]).
+
+In the case of Christelis, the lack of written authority meant he could not effectively bind Revelas in this context, as any authority he purported to have could only derive from explicit permission from his wife, the member of Revelas ([27]).
+
+As for the pleading exception, the court reasoned that it was sufficient for Northview to allege that Christelis was “duly authorized,” without specifying written authority, an implication that could be disputed in the respondents' answer ([29]).
+
+---
+
+**Conclusion**  
+In conclusion, the Supreme Court of Appeal upheld the High Court’s judgment, declaring that without evidence of written authority, the contract for the sale of property signed by Christelis was invalid. The appeal was dismissed with costs, reinforcing the necessity for formal compliance with statutory requirements in the execution of contracts involving close corporations ([28][29]). The ruling clarifies the distinctions in authority within corporate law, particularly regarding how close corporations differ from companies in terms of binding agreements and stipulated formalities under the Alienation of Land Act.

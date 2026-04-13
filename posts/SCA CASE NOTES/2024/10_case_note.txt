@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: Ergomode (Pty) Ltd v Jordaan NO and Others (643/2022)
+
+## F – Facts ([paras 1-6])
+
+Ergomode (Pty) Ltd (the appellant) initiated legal proceedings against Sakhile Contract Mining (Pty) Ltd (the third respondent), which had been placed under business rescue as per section 129(1) of the Companies Act 71 of 2008 (the Act). The premises related to a lease agreement where Sakhile occupied part of Ergomode's property to operate a coal washing plant. As of the commencement of business rescue, Sakhile owed approximately R18,2 million in arrear rent, which Ergomode claimed as a creditor ([paras 1-3]). Following Sakhile’s inability to function due to operational disruptions, the appointed business rescue practitioners (BRPs) proposed a business rescue plan that involved relocating and refurbishing Sakhile's plant, which was later adopted by a majority of creditors ([paras 4-6]).
+
+Ergomode challenged the validity of this plan, especially regarding whether proper procedures were followed in the extension of the publication period for the business rescue plan and the status of its claimed landlord's tacit hypothec ([paras 8-14]). The high court dismissed Ergomode's application, leading to the current appeal ([para 1]).
+
+## I – Issues ([paras 10-15])
+
+1. **Extension of Time for Business Plan Publication**: Whether the extensions granted for the publication of the business rescue plan adhered to the requirements specified in section 150(5) of the Act ([paras 10-12]).
+  
+2. **Notice to Affected Persons**: Did the BRPs fulfill their obligation under section 151(2) to inform all affected persons, and were the represented parties validly invited to participate in the decision-making process regarding the business rescue plan? ([paras 15-19])
+  
+3. **Moratorium on Legal Proceedings**: Did Ergomode have standing to proceed with legal claims under the circumstances, particularly in light of the moratorium established by section 133 of the Act on legal actions against a company in business rescue ([paras 30-34])?
+  
+4. **Perfection of Hypothec**: Was Ergomode entitled to perfection of its landlord's hypothec in light of the moratorium and the requirements for achieving real security under South African law? ([paras 34-41])
+
+## R – Rules ([paras 7-10], [18-33])
+
+1. **Business Rescue Procedures**: Section 150(1) of the Companies Act requires BRPs to prepare a business rescue plan with input from creditors and relevant stakeholders. Section 150(5) mandates publication of this plan within 25 days unless extended by majority consent ([paras 7-9]).
+
+2. **Rights to Notice**: Section 151(2) necessitates that BRPs notify all affected parties regarding meetings related to the business rescue plan, thereby securing their rights to participate in the approval process ([para 15]).
+
+3. **Moratorium**: Section 133 provides a general moratorium against legal proceedings during business rescue, requiring either the consent of the BRPs or leave from the court before initiating actions ([para 30]).
+
+4. **Hypothec Perfection**: A tacit hypothec can only be perfected through court order and attachment. Without such, it remains a concurrent claim within rescuer proceedings ([paras 34-41]).
+
+## A – Application ([paras 12-25], [30-41])
+
+1. **Extension for Business Plan Publication**: The court found that Ergomode’s objection to the extensions was ineffectual as it had not raised concerns at the relevant meetings or within the stipulated timeframe. The BRPs followed a valid process by seeking creditor feedback and allowing silence to indicate consent, which distinguishes this case from *DH Brothers Industries v Gribnitz NO* ([paras 10-14]).
+
+2. **Notice to Affected Persons**: The court concluded that the BRPs had adequately notified the key stakeholders involved, including handling the representation of workers through legitimate proxies. The failure of NUMSA to attend did not invalidate the proceedings, suggesting the importance of employee representation was respected ([paras 15-19]).
+
+3. **Moratorium on Legal Proceedings**: Ergomode's application to perfect its hypothec was viewed as a direct challenge to the established moratorium under section 133. The court affirmed that without BRPs' consent or court leave, any initiated proceedings were improper, aligning with the protective aims of the business rescue framework ([paras 30-33]).
+
+4. **Perfection of Hypothec**: The court ruled that since Ergomode did not complete the necessary steps to perfect its hypothec before Sakhile entered rescue proceedings, the claim for perfecting the hypothec must fail. The implication here is that the moratorium applies universally to claims for arrear rent, thereby precluding any attempts by Ergomode to enforce its claim at that juncture ([paras 34-41]).
+
+## C – Conclusion ([paras 42])
+
+The Supreme Court of Appeal dismissed the appeal with costs, reaffirming that Ergomode's challenges regarding the validity of the business rescue plan, the alleged procedural failings of the BRPs, and its claims for hypothec perfection were unfounded. The ruling underscores the legislative intent behind the Companies Act's provisions for business rescue, particularly the protections afforded to companies in distress against creditor actions and the importance of adhering to procedural requirements within the business rescue framework. The court emphasized the need for a balanced approach that seeks to preserve a financially distressed company's viability while safeguarding the interests of all stakeholders involved.

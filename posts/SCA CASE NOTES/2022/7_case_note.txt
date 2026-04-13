@@ -1,0 +1,34 @@
+Case Note: SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Schenker South Africa (Pty) Ltd v Fujitsu Services Core (Pty) Ltd (508/2020) [2022] ZASCA 7
+
+## F – Facts
+In the case of **Schenker South Africa (Pty) Ltd v Fujitsu Services Core (Pty) Ltd** ([1]), the Supreme Court of Appeal (SCA) addressed an appeal originating from the Gauteng Division of the High Court, Johannesburg. The crux of the case revolved around the contractual relationship between Schenker South Africa (the appellant) and Fujitsu Services Core (the respondent). Specifically, the central issue was the interpretation of certain clauses in the Standard Trading Terms and Conditions (STC) regarding Schenker's liability in the event of theft of goods entrusted to it for delivery.
+
+The facts leading to the dispute indicated that an employee of Schenker had been tasked with delivering goods to Fujitsu but instead committed theft by not delivering the goods as per the contract ([2]). Schenker contended that the agreement, particularly through specific exemption clauses (clause 17, read with clauses 40 and 41), excluded or limited its liability for the theft, effectively shielding it from Fujitsu's claims ([3]).
+
+In the high court, Schenker argued that a delictual claim based on theft could not be sustained under the terms of the contract ([4]). In contrast, Fujitsu maintained that the theft was not exempted by the contractual clauses, thus retaining the right to claim for the losses sustained due to the non-delivery of the goods ([5]).
+
+The high court concluded that the employee’s act of theft was not part of his duty to execute the contract, and therefore, the exemption clauses invoked by Schenker did not protect it from liability ([6]). 
+
+## I – Issues
+The primary legal issue before the SCA was whether, in the context of the agreed terms and construction of the contract between Schenker and Fujitsu, Schenker could be exempted or have its liability limited for the theft of Fujitsu's goods by its employee ([7]). Specifically, the court needed to evaluate whether clauses 17, 40, and 41 of the STC applied to the incident involving the employee's theft, thereby shielding Schenker from liability ([8]).
+
+## R – Rules
+The court primarily examined the interpretation and legal application of exemption clauses within contracts, particularly focusing on the enforceability of such clauses in determining liability for theft ([9]). The relevant rules include:
+
+1. **Principle of Contractual Freedom**: Parties are bound by the terms of their contract, provided that such terms are clear, explicit, and unambiguous ([10]).
+2. **Exemption and Limitation Clauses**: These clauses must be expressed in clear terms to effectively limit liability. The SCA deliberated on previous case law that established the principles governing the efficacy of exemption clauses ([11]).
+
+The SCA ruled that where a clause unambiguously exempts a party from liability, such clauses ought to be enforced in accordance with the intent of the contracting parties ([12]). 
+
+## A – Application
+In applying these principles to the case at hand, the SCA critically analyzed the language employed in clause 17 and its related provisions (clauses 40 and 41), concluding that the clauses provided a thorough and unequivocal basis for exclusion from liability. The court highlighted that clause 40.1 specifically precluded Schenker from being liable for loss, damage, or expenses arising from non-delivery or mis-delivery of goods, even in instances that may stem from negligent or intentionally wrongful acts ([13]).
+
+The SCA rejected the high court's position that the theft occurred independently of Schenker's contractual obligations, asserting that the exemption clauses indeed contended with the circumstances leading to Fujitsu’s losses ([14]). The SCA emphasized that to hold otherwise would undermine the commercial intent and the contractual agreements made by both parties, thereby failing to honor the established principles of good business practice ([15]).
+
+## C – Conclusion
+The Supreme Court of Appeal ultimately found in favor of Schenker, concluding that the clear language of the relevant clauses applied to exempt the appellant from liability for the acts of theft committed by its employee. The appeal was upheld, and costs were awarded to Schenker, confirming that Fujitsu’s claim fell squarely within the parameters of the agreed limitation clauses, thereby validating their enforceability ([16]).
+
+This judgment reinforces critical principles surrounding the interpretation of exemption clauses in contracts within South African law, illustrating the judiciary's inclination to uphold the contractual intentions of parties while recognizing the importance of clearly elucidating terms that seek to limit liability in commercial agreements. The findings underscore the necessity for contractual parties to meticulously frame their agreements to avoid potential liabilities arising from foreseeable conduct, including theft or other delictual acts by employees ([17]).

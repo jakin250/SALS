@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: *State Information Technology Agency Soc Ltd v Gijima Holdings (Pty) Ltd* [2016] ZASCA 143
+
+### F – Facts
+
+The appellant, the State Information Technology Agency (SITA), entered into a settlement agreement with Gijima Holdings (Pty) Ltd (the respondent) following an unlawful termination of a prior contract with the South African Police Service (SAPS). The SAPS agreement was in place since 2006 and governed IT services for various government departments. Following the termination, Gijima initiated urgent court proceedings to protect its rights, leading to a settlement whereby SITA agreed to provide Gijima with a new contract to mitigate its losses. 
+
+On 6 February 2012, the parties entered into a new contract for IT services for the Department of Defence, relying on assurances from SITA regarding compliance with procurement regulations. However, after a dispute emerged in 2013 on payment under this contract, SITA contended for the first time that the contract was invalid as it was awarded without following the requisite public procurement process as stipulated in section 217 of the Constitution. In response to Gijima’s claim for payment, SITA sought to declare the contract unenforceable, initiating legal proceedings in the Gauteng High Court. The High Court dismissed SITA's application, which led to the current appeal.
+
+### I – Issues
+
+The central legal issues in this appeal include:
+
+1. Whether PAJA applies when an organ of state seeks to set aside its own administrative decision, and in this instance, its own contract.
+2. Whether SITA could bypass the procedural requirements of PAJA and seek relief solely under the principle of legality.
+3. The implications of failing to comply with the 180-day delay rule prescribed by PAJA in judicial review proceedings ([paras 1–44]).
+
+### R – Rules
+
+The legal principles at play include provisions from the Promotion of Administrative Justice Act 3 of 2000 (PAJA), specifically:
+
+- **Section 6(1):** Empowering any person to institute proceedings to review administrative action.
+- **Section 7(1) and (2):** Mandating that review applications be made within 180 days.
+  
+Section 217 of the Constitution explicitly requires that public procurement processes be conducted in a transparent, fair, and competitive manner. Additionally, the principle of legality, which mandates that all public actions must be within legal limits, serves as a backdrop against which SITA's decisions are evaluated ([paras 15–39]).
+
+### A – Application
+
+The court addressed SITA’s arguments, finding that:
+
+1. **Applicability of PAJA:** It was well-established that decisions made by state entities in the awarding of contracts qualify as administrative actions subject to review under PAJA. SITA's attempt to invoke legality without following PAJA procedural stipulations was thus inadmissible ([paras 16–21]).
+
+2. **Justification of Delay:** The court emphasized that SITA failed to apply for an extension under section 9 of PAJA, effectively trapping itself within the 180-day limit it sought to evade. The absence of a sufficient explanation for the 22-month delay prior to seeking relief under the legality challenge further undermined SITA’s position ([paras 26–42]).
+
+3. **Legality versus PAJA Review:** While SITA argued it could elect to pursue a legality challenge instead of a PAJA review, the court observed that this approach risked undermining the structured and transparent process that PAJA aims to establish. PAJA should not be circumvented just because the procedural hurdles are deemed inconvenient ([paras 33–39]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal upheld the dismissal of SITA's appeal, reinforcing the principle that when an organ of state seeks to set aside its own administrative action, it must comply with PAJA. By endorsing the applicability of PAJA and rejecting the possibility of side-stepping its procedural requirements in the name of legality, the court underscored the importance of adhering to established legal frameworks in public procurement.
+
+SITA's failure to properly apply for extension under PAJA and its unreasonable delay in acting against an unenforceable contract led to a dismissal of its appeal, highlighting a robust interpretation of administrative justice standards and the rule of law. This judgment reminds public entities of the necessity to follow due process in administrative actions, and that adherence to PAJA is essential to prevent arbitrary decision-making ([para 44]).
+
+### Implications
+
+The ruling emphasizes the judicial expectation that public entities spurn informal shortcuts in legal processes meant to reinforce accountability. Further, it delineates a clear boundary between the legality principles that govern public actions and detailed statutory norms provided by PAJA; effectively, it confirms that acts arising from non-compliance cannot be validated merely by asserting their legality. This case should serve as a cautious reminder to public authorities of their responsibilities and the need for procedural compliance, particularly in incorporating transparency within the procurement processes to mitigate risks associated with arbitrary and potentially corrupt practices ([para 41]).

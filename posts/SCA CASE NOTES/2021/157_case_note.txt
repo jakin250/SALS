@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: The Trustees for the Time Being of the Legacy Body Corporate v Bae Estates and Escapes (Pty) Ltd and Another ([2021] ZASCA 157)
+
+## FIRAC Method
+
+### F – Facts:
+The case arose from a decision made by the Trustees for the Time Being of the Legacy Body Corporate (the appellant) in May 2019, prohibiting Bae Estates and Escapes (Pty) Ltd (the first respondent) from operating within a sectional title scheme in Green Point, Cape Town ([1]). The restriction came after complaints from property owners regarding unruly behaviors by sub-tenants placed in properties managed by Bae Estates under a lease agreement that allowed sub-letting ([3]).
+
+The trustees cited conduct rule 37.3 from the body corporate rules, which allowed for restriction of holiday letting unless conducted through a reputable agency as decided by the trustees. Following a vote, the trustees communicated the prohibition to both Bae Estates and the property owner, who had initially engaged Bae Estates ([4]–[5]). Bae Estates objected, arguing that this decision was without merit and did not acknowledge its non-involvement in the complaints. The matter escalated to the Western Cape Division of the High Court, which ultimately set aside the trustees' decision, characterizing it as administrative action subject to review under the Promotion of Administrative Justice Act 3 of 2000 (PAJA) ([8]).
+
+### I – Issues:
+The central legal questions before the Supreme Court of Appeal were:
+1. Whether the trustees’ decision to prohibit Bae Estates constituted "administrative action" under PAJA, which would make it subject to review ([11]).
+2. If PAJA was not applicable, whether the decision was nonetheless reviewable under the common law principles regarding natural justice and fairness ([12]–[13]).
+
+### R – Rules:
+The definition of "administrative action" per Section 1 of PAJA outlines a decision taken by public bodies that affects rights and has external legal effects, requiring legality, reasonableness, and procedural fairness ([12]). The Constitutional Court has previously established requirements for what constitutes administrative action, including the nature of the decision, the entity making it, the public power or function exercised, and adverse effects on rights ([13]).
+
+The Court must ensure that any decisions made by bodies corporate invoking statutory powers do not inherently confer public powers unless they fall under the ambit of PAJA, as seen in *Minister of Defence and Military Veterans v Motau* and *Chirwa v Transnet Limited* ([13]–[16]). The implications of common law regarding judicial review also underscore a need for fairness, even within voluntary associations ([40]).
+
+### A – Application:
+The Supreme Court examined each requirement for administrative action closely. It found that:
+1. The trustees' decision was **not of an administrative nature**. It was deemed more commercial or managerial, similar to decisions made at shareholders’ meetings rather than bureaucratic conduct ([19]).
+2. The trustees did **not exercise a public power or perform a public function** as defined by the relevant legal standards. Their powers derived from the Sectional Title Schemes Management Act were primarily internal and pertained to managing relations between homeowners, not with estate agencies ([20]–[25]).
+3. Importantly, the trustees lacked a specific **empowering provision** that allowed them to prohibit Bae Estates. The legislative framework did not support the prohibitory actions taken against a third-party entity such as Bae Estates ([27]–[31]).
+
+With respect to common law, the Court recognized that Bae Estates had established a reasonable expectation to operate within the scheme based on their previous engagement without issue. The trustees excluded Bae Estates from any opportunity to address the allegations against it, violating the principles of natural justice. Given Bae Estates' involvement in the scheme prior to the prohibition, the decision was deemed procedurally unfair and thus justiciable at common law ([33]–[46]).
+
+### C – Conclusion:
+The Court ultimately ruled that the trustees' decision to prohibit Bae Estates from operating within the sectional title scheme was **unlawful** and lacking in procedural fairness, thus incapable of withstanding review under both PAJA and common law ([52]). The appeal was dismissed with costs, which included those for two counsel, highlighting the legal implications of fairness and just administration within private entities operating under statutory frameworks ([53]).
+
+This decision has significant implications for the operation of bodies corporate and their adherence to principles of natural justice and fairness, emphasizing that even private entities cannot act with impunity when their decisions substantially affect third parties.

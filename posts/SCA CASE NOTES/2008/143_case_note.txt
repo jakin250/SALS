@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note: King v South African Weather Service
+
+**Case Citation:** King v SA Weather Service (716/2007) [2008] ZASCA 143 (27 November 2008)
+
+**Coram:** Harms ADP, Cloete, Cachalia JJA, Leach, and Griesel AJJA
+
+---
+
+## F - Facts
+
+[1] Pieter Johannes King (the appellant) initiated a copyright claim against the South African Weather Service (the respondent), stemming from the dismissal of his action in the High Court, Pretoria, where he attempted to enforce copyright regarding specific computer programs.
+
+[2] King, who had long been employed by the Chief Directorate of the Weather Bureau, was transferred to the respondent following the enactment of the South African Weather Service Act 8 of 2001. As the principal meteorological technical officer stationed at Upington, he developed computer programs related to weather data management, which became contentious when he refused to surrender the source codes to the respondent.
+
+[3] A pivotal date in the dispute was 12 June 2002, during King’s suspension from work, when he claimed that programs created prior to 7 June 2000 were his own and not created within the scope of his employment. Subsequently, he attempted to terminate any tacit license previously offered to the respondent regarding these programs.
+
+[4] King’s action was predicated on several assertions: that he authored the computer programs for personal assistance in his duties, that they were not integral to the performance of his professional obligations, and that the respondent unlawfully continued to use them despite the termination of any license. 
+
+## I - Issues
+
+[11] The case evaluates multiple issues: 
+1. Attribution of authorship and originality regarding the programs.
+2. Ownership of copyright—whether the works were made in the course of King’s employment, thereby vesting copyright in the employer.
+3. The validity of King’s claim to be the copyright owner post-termination of any license.
+4. The potential evidence of any territorial infringement by the respondent since their alleged cessation of license.
+
+## R - Rules
+
+[5] The foundational legal principles concerning copyright, particularly as articulated in the Copyright Act 98 of 1978, must be considered. Specifically:
+- Section 2 establishes that copyright subsists in original works expressed in a material form.
+- Section 21(1)(d) specifies that works created in the course of employment belong to the employer.
+- The definition of "author" within the Act is crucial, emphasizing that control over the creation is a determining factor.
+
+[9] Comparative legal contexts, such as the US standards for "works made for hire," further elucidate the ownership principle under similar factual circumstances.
+
+## A - Application
+
+[12] The appeal court presumed, for argument's sake, that King was the "author" of the programs. However, it centred its deliberation on whether these programs were created "in the course of" his employment with the Bureau.
+
+[18] Evidence indicated that King’s programs were integral to the Bureau’s operations, thus fulfilling a direct role in his employment. King’s work involved capturing and processing meteorological data, a task that the Bureau required him to accomplish. The court noted a significant relationship between King’s employment and the development of the software, thus heavily weighing against King's argument of independent authorship.
+
+[19] King’s assertion that programming was outside his professional mandates was countered by his own records indicating that a substantial portion of his time was devoted to programming, contrary to his claims of creating the programs purely out of personal initiative.
+
+[20] The causal link between King’s employment and the software's creation substantiated the respondent's claim to ownership. Hence, interpretations of statutory definitions regarding authorship directly supported the conclusion that even if the programs were developed outside official hours, they remained within the employment framework.
+
+[24] Ultimately, the lower court's thorough analysis of all contextual elements led to the comprehension that the programs were indeed authored during the course of King’s employment, negating his ownership claims.
+
+## C - Conclusion
+
+The Supreme Court of Appeal dismissed King’s appeal with costs, reinforcing the principle that works created by an employee, particularly in the context defined by the employment arrangement, are owned by the employer under Section 21(1)(d).
+
+[25] This ruling accentuates the importance of clear delineation of authorship and ownership rights under copyright law, serving as a reminder to employees regarding the implications of their outputs in relation to their professional obligations. Additionally, it clarifies the jurisdictional interpretations pertinent to copyright matters relating to governmental or state entities.
+
+The judgment underscores the necessity for individuals in similar employment contexts to understand the copyright implications of their work outputs, and that any claim regarding ownership will be scrutinised against the backdrop of their employment conditions. 
+
+---
+
+This case note serves to inform legal scholars and practitioners regarding key legal interpretations surrounding copyright regarding computer software, particularly within the unique context of employment relationships, offering vital insights for future cases in this domain.

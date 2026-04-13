@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Allied Steelrode (Pty) Ltd v Dreyer and Another ([2023] ZASCA 181)
+
+## F - Facts
+The appeal arises from the Gauteng Division of the High Court's decision, presided over by Siwendu J, which ruled that a loan agreement and an acknowledgment of debt (AOD) were subject to the National Credit Act 34 of 2005 (the NCA) ([1]). The appellant, Allied Steelrode (Pty) Ltd, a company engaged in processing and distributing steel plates, extended a loan of R15 million to the first respondent, Paul Dreyer, who, along with his wife (the second respondent), signed the AOD ([2]-[3]). Their relationship, characterized by both personal and professional interactions, influenced the terms of the loan, which was informally agreed upon and later formalized. Notably, the loan included a grace period during which no interest was charged unless the borrower defaulted ([5]-[6]).
+
+The first respondent sought this loan to acquire shares from a co-shareholder after a family tragedy left him in a vulnerable emotional state. Evidence indicated that the interplay of their personal relationship led to the loan being notably less formal than typical commercial transactions, with no interest applied initially and significant emotional support intertwined ([4]-[6], [22]).
+
+In its defense, the respondents contended that the AOD was subject to the NCA, arguing that the appellant needed to register as a credit provider under section 40 of the NCA due to the total principal debt involved ([7], [9]). The court at trial ruled that the loan was indeed subject to the NCA, concluding that a distinction between the loan and the AOD could not be maintained ([11]-[12]).
+
+## I - Issues
+The appeal raised two primary legal issues:
+1. Whether the judgment of the trial court was appealable given the nature of the separated issues determination under Rule 33(4) of the Uniform Rules of Court ([14]-[15]).
+2. The interpretation and application of the NCA concerning whether the transaction resulted in a credit agreement made at arm's length, and thus whether the AOD was enforceable ([14], [18]).
+
+## R - Rules
+The relevant legal frameworks and case law include:
+1. **National Credit Act (NCA) 34 of 2005**: This act regulates credit agreements, requiring credit providers to be registered if they exceed certain thresholds. Specifically, section 4(a) defines the scope of application and the requirement for transactions to be conducted at arm's length ([23]).
+2. **Rule 33(4)**: This rule permits the separation of issues if it leads to efficient resolution of disputes and serves the interests of justice ([9], [18]).
+3. Precedents cited by the trial court included *Shabangu v Land and Agricultural Development Bank of South Africa* which established parameters around credit agreements and their enforcement under the NCA ([11]), as well as *Fourie v Geyer* and *Du Bruyn v Karstens*, which informed considerations regarding informal loans versus structured credit agreements ([12], [30]).
+
+## A - Application
+In assessing the trial court’s decision, the Supreme Court of Appeal highlighted the conflation of the loan and the AOD by the lower court, emphasizing that a distinction should be drawn based on the evidence presented—particularly regarding the informal and non-commercial nature of the loan agreement. The court noted that the terms of the loan indicated that the parties were not dealing at arm's length, referencing the personal relationship between the parties, which included familial-like ties and emotional dependency, factors that undermine the commercial characteristics typically expected in arm's length transactions ([26]).
+
+The Court further analyzed specific statutory provisions, notably section 4(2) of the NCA, which delineates circumstances indicating when parties are not dealing at arm’s length, reinforcing that since the loan arose from a personal relationship devoid of commercial formality, it did not fall within the purview of regulated agreements under the NCA. The conclusion that interest was permissible only in the event of default supported this assertion, casting the transaction outside the norm for commercial agreements such as those expected under section 8 of the NCA ([28], [31]).
+
+Additionally, the Court disagreed with the lower court's reliance on the interpretation of precedent, clarifying that interpretations from cases such as *Paulsen v Slip Knot Investments* support the notion that informal loans to friends or non-commercial arrangements are not necessarily subject to registration under the NCA if they do not qualify as credit agreements ([35]).
+
+## C - Conclusion
+The Supreme Court of Appeal held that the trial court's ruling that the AOD was subject to the NCA was incorrect. The Court determined that the appellant did not need to be registered as a credit provider for the agreement at issue, as neither the loan nor the AOD constituted a credit agreement within the meaning of the NCA. The judgment also allowed for costs to be awarded to the successful appellant under the rules governing litigation, concluding that the original separation of issues had not served justice comprehensively ([38]). 
+
+The Court's decision underscores the necessity for courts to apply NCA provisions with a focus on the specific circumstances of each transaction, especially regarding personal relationships that influence the lending environment, thereby setting important precedents for future cases concerning the intersection of personal and commercial agreements.

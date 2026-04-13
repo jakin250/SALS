@@ -1,0 +1,41 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2018
+
+### FIRAC Case Note: Booysen v Minister of Safety and Security [2018] ZACC 18
+
+#### F – Facts: Relevant Background and Procedural History ([paras 1-23])
+The case arises from a tragic incident on 22 March 2013, where Elsa Booysen (the applicant) was shot by her boyfriend, Johannes Mongo, a reservist constable in the South African Police Service (SAPS). While Mongo was on duty, he visited Booysen at her home, allegedly to have dinner with her. After a normal dinner, during which Mongo had not displayed any prior signs of distress, he unexpectedly shot Booysen in the face before turning the firearm on himself, committing suicide.
+
+Initially, Booysen sought damages from the Minister of Safety and Security, claiming that Mongo's actions rendered the Minister vicariously liable due to Mongo's employment as a police officer. The High Court initially held the Minister liable, arguing that Mongo's use of a police firearm in the commission of the shooting created a sufficiently close link to his employment. This decision was overturned by the Supreme Court of Appeal, prompting Booysen to apply for leave to appeal to the Constitutional Court.
+
+#### I – Issues: Legal or Constitutional Questions ([paras 3-5], [36-40])
+The primary issues under consideration were:
+1. Whether leave to appeal should be granted to Booysen.
+2. If granted, whether the Minister of Safety and Security should be held vicariously liable for Booysen's damages due to Mongo's actions.
+
+The appeal raised fundamental questions about the application of tort law regarding vicarious liability within a constitutional framework, particularly in the context of police officers' duties.
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 10-15], [21-30])
+The court relied upon established principles of vicarious liability, particularly the two-stage test first delineated in *Rabie v Minister of Police* 1986 (1) SA 117 (A), further developed in cases such as *K v Minister of Safety and Security* 2005 (6) SA 419 (CC) and *F v Minister of Safety and Security* 2012 (1) SA 536 (CC). 
+
+According to this test:
+1. The employee's actions must be for their purposes alone or those of the employer.
+2. If the employee acted for their own purposes, the court must ascertain whether a sufficiently close link exists between the employee’s actions and the employer's business.
+
+The judgment in *K* highlighted the importance of evaluating constitutional norms when assessing cases of vicarious liability, indicating that courts must weigh the obligations of the state to protect its citizens against potential violations of their rights.
+
+#### A – Application: Analysis of How the Court Applied the Law ([paras 46-96])
+The court initially examined the jurisdictional threshold for leave to appeal, determining that the matter engaged constitutional issues, particularly concerning the right to freedom and security of personal rights under section 12(1)(c) of the Constitution. 
+
+While both the High Court and the Supreme Court of Appeal recognized that Mongo's wrongful act was not performed in the interest of his employer (the first leg of the Rabie test held), they diverged on the second leg. 
+
+The Constitutional Court evaluated whether there was a sufficiently close link between Mongo’s conduct and the purposes of his employment. The majority interpretation in the Supreme Court of Appeal emphasized the absence of a trust relationship between Booysen and Mongo as a police officer, asserting that their relationship was private. However, the minority contended that Mongo’s capacity as a police officer held sufficient normative weight to find vicarious liability.
+
+Zondo DCJ's separate judgment emphasized that the elements indicating a connection between Mongo's employment and the shooting (to include police uniform, assigned vehicle, and service firearm) warranted further examination. He argued that the presence of both a statutory duty to protect and the circumstance of simultaneous commission and omission in Mongo's conduct—whereby he was both the perpetrator and failed in his duty as a police officer to protect Booysen—strengthened the case for vicarious liability.
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 62-65], [123])
+The Constitutional Court ultimately refused Booysen's application for leave to appeal, asserting that the case did not raise a new constitutional issue warranting their jurisdiction. The court concluded that while the principles of vicarious liability are deeply tied to policy considerations, this specific case simply revolved around the application of an established legal test.
+
+The ruling highlighted ongoing concerns regarding the abuse of firearms by police and the continuous need for stricter oversight on the issuing of firearms to officers. The decision refines the test for vicarious liability in deviation cases, confirming that factors such as the relationship of trust between police officers and the public should not singularly determine liability; rather, a holistic view that includes all normative factors and statutory obligations must guide determinations in similar cases moving forward. 
+
+The judgment reflects the delicate balance courts must maintain between upholding established legal principles and addressing the broader societal obligations imposed by constitutional mandates.

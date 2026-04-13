@@ -1,0 +1,51 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2019
+
+# Case Note: Jalite (Pty) Ltd v Shanghai Furniture Import & Export CC (223/2018) [2019] ZASCA 39
+
+### FIRAC Case Note
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–4])**
+
+In this case, Jalite (Pty) Ltd (the appellant) initiated litigation against Shanghai Furniture Import & Export CC (the respondent) in the regional court of Germiston, seeking payment of R180,993.61 for arrear rent, R90,000 for an estate agent’s commission, and R159,600 for loss of rental as a result of the respondent's alleged breach of a lease agreement concerning business premises located at Diagonal Street, Eastleigh, Edenvale. The lease agreement originated from a written offer by the defendant, which stated that the premises measured approximately 2000 square meters.
+
+The defendant admitted to failing to comply with the terms of the lease but contended that it was induced into signing the agreement due to the plaintiff’s misrepresentation regarding the actual size of the premises. The defendant alleged a difference of about 25% between the represented size and the actual size, claiming that had it known the true dimensions, it would not have agreed to the lease.
+
+In its counterclaim, the defendant sought R190,824.85, representing a refund of its rental deposit and compensation for improvements made to the property prior to taking occupancy. The trial court dismissed the counterclaim and ruled in favor of the plaintiff. Upon the defendant's appeal, the Gauteng Local Division of the High Court reversed the decision, awarding damages to the defendant. The plaintiff subsequently appealed to the Supreme Court of Appeal.
+
+**I – Issues: Legal or Constitutional Questions ([paras 5–6])**
+
+The key legal issues in this case were:
+1. Whether the size of the premises constituted a material term of the leasing agreement and whether the rental price was determined based on the square meterage of the leased space.
+2. Whether the plaintiff misrepresented the size of the premises with intention to induce the defendant into entering the leasing agreement, thereby justifying the defendant's purported cancellation of the agreement.
+
+These issues necessitated an examination of contract law principles, specifically the requirements for establishing misrepresentation and its materiality in influencing contractual obligations.
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 17–19], [26])**
+
+The court reviewed principles of contract law relevant to misrepresentation and materiality. Notably, it highlighted the criteria necessary for a successful claim of misrepresentation:
+- The misrepresentation must be material, misleading the party into entering the contract, and intended to induce the conclusion of the agreement ([para 26]).
+- The parties typically have discretion in determining how rental amounts are calculated, whether through square meterage or other pricing methods.
+
+Key legal precedents referred to include R v Dhlumayo 1948 (2) SA 677 (A) and Mashongwa v Passenger Rail Agency of South Africa 2016 (3) SA 528 (CC), both of which stress the importance of factual findings in the trial context and the conditions under which appellate courts may overturn such findings.
+
+**A – Application: Analysis of How the Court Applied the Law ([pars 11–20], [24–30])**
+
+The Supreme Court of Appeal assessed the materiality of the premises' size. The trial court originally found in favor of the plaintiff, ruling that the size was not a decisive term since the defendant's primary motivation was cost reduction rather than the space's exact dimensions. It also found that Price, the plaintiff's managing director, did not misrepresent the size.
+
+Conversely, the High Court concluded that the trial court had erred by undervaluing the materiality of the size of the premises in determining the rental price. It found that Feng, a representative of the defendant, had expressed a specific space requirement during negotiations, thereby establishing that the size of the premises was indeed material. 
+
+The Supreme Court of Appeal ultimately disagreed with the High Court's assessment, reiterating that misrepresentation must involve material facts that influence the agreement's acceptance. It emphasized that the defendant did not act promptly after discovering the discrepancy, contradicting the assertion that the misrepresentation had induced their contractual commitment. The court concluded that the alleged misrepresentation did not meet the legal threshold required to justify rescission of the contract.
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([para 30])**
+
+The Supreme Court of Appeal ruled in favor of the appellant, Jalite (Pty) Ltd, thus reversing the High Court's judgment. The court determined the trial court's original findings were correct and upheld that the defendant’s conduct amounted to a repudiation of the agreement rather than valid rescission. 
+
+The ratio decidendi of the case underscores that not all representations made during negotiations constitute material misrepresentations: crucially, it emphasizes that for a misrepresentation to warrant rescission, it must be a material fact that influenced the contractual decision. 
+
+This ruling clarifies the ethos surrounding contractual obligations in commercial leases, particularly regarding how misrepresentations are construed and the implications for parties seeking to rescind agreements based on alleged inaccuracies in pre-contractual representations. The decision reinforces the principle that parties must affirmatively demonstrate the materiality of misrepresentations in contract disputes to successfully challenge contractual obligations. 
+
+### References
+- R v Dhlumayo 1948 (2) SA 677 (A)
+- Mashongwa v Passenger Rail Agency of South Africa 2016 (3) SA 528 (CC)
+- G B Bradfield, *Christie's Law of Contract in South Africa* (7th ed, 2016).

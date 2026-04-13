@@ -1,0 +1,37 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2007
+
+# Case Note: Petronella Nellie Nelisiwe Chirwa v Transnet Limited and Others
+
+## FIRAC Method
+
+### F – Facts
+The case concerned an application for leave to appeal against the Supreme Court of Appeal's decision relating to the dismissal of Ms. Petronella Nellie Nelisiwe Chirwa, a Human Resources Executive Manager at Transnet Pension Fund. Ms. Chirwa claimed her dismissal was unfair and challenged the disciplinary process under the Labour Relations Act 66 of 1995 (LRA) as well as the Promotion of Administrative Justice Act 3 of 2000 (PAJA) ([1–3]). Following her dismissal on 22 November 2002, Ms. Chirwa first referred her case to the Commission for Conciliation, Mediation and Arbitration (CCMA) for unfair dismissal but did not proceed to arbitration ([12–13]). Instead, she opted to appeal to the Johannesburg High Court, claiming that the dismissal process was fundamentally flawed ([14]–[15]).
+
+Her claims rested on two primary grounds: first, that the presiding officer of the disciplinary inquiry - her direct supervisor, Mr. Patrick Ian Smith - had acted improperly by combining roles as complainant, witness, and adjudicator ([11]) and second, that she had been denied the opportunity for legal representation ([15–16]). The High Court found in her favor on the basis of common law principles of natural justice but did not consider her claims under PAJA ([21]).
+
+### I – Issues
+The key issues presented to the Court included:
+1. **Jurisdiction**: Was the High Court correct in asserting jurisdiction over Chirwa's claims despite the potential applicability of the LRA provisions, particularly regarding the nature of the public sector’s compliance with administrative and employment laws? ([20], [27]).
+2. **Nature of Conduct**: Did Ms. Chirwa’s dismissal constitute administrative action under PAJA, or was it primarily an employment matter governed by the LRA? ([28], [32]).
+
+### R – Rules
+Key legal authorities and rules relevant to the case included:
+- **Labour Relations Act 66 of 1995**: Specifically, section 157(1) relates to the exclusive jurisdiction of the Labour Court over matters assigned by the Act, while section 157(2) provides concurrent jurisdiction with the High Court for constitutional violations arising from employment and labour relations ([53], [64]).
+- **Promotion of Administrative Justice Act 3 of 2000**: Sets forth the requirements for administrative action, particularly focusing on whether decisions adversely affect the rights of individuals in an employment context ([181]).
+- **Constitution of South Africa**: Sections 23 (right to fair labour practices) and 33 (right to just administrative action) are pivotal in determining the balance of rights involved ([46]).
+
+### A – Application
+The court's analysis involved assessing whether the High Court appropriately claimed jurisdiction based on the dual nature of Ms. Chirwa's complaint — as both an unfair dismissal claim under the LRA and as an administrative justice claim under PAJA:
+
+1. **Jurisdictional Clarity**: The Court reconciled the sections of the LRA concerning jurisdiction, acknowledging that while the Labour Court generally handles matters related to unfair dismissal, constitutional matters with overlapping elements could fall under the High Court's purview ([65]–[107]). Ultimately, it leaned towards the view that the High Court retains concurrent jurisdiction over claims alleging violation of constitutional rights even if they arise in an employment context.
+  
+2. **Nature of Dismissal**: The Court had to ascertain whether the disciplinary inquiry led by Mr. Smith, and the subsequent dismissal, amounted to administrative action under PAJA. The majority view, led by Mthiyane JA, declared dismissal based on contractual rather than statutory empowerment, concluding that contractual employment termination does not constitute administrative action ([28], [30]). Conversely, Cameron JA argued that public sector dismissals inherently involve the exercise of public power, equating them to administrative actions subject to scrutiny under PAJA ([32], [34]).
+
+### C – Conclusion
+The Constitutional Court, in agreeing with the outcome proposed by Skweyiya J, dismissed the appeal while upholding Ms. Chirwa's arguments regarding her rights under both LRA and PAJA. The judgment underlined significant jurisdictional complexities within the labor relations framework and endorsed the concept that public sector employees are entitled to remedies both under labor law and principles of administrative justice. The Court did not award costs against Ms. Chirwa, recognizing the important constitutional issues she raised throughout the proceedings ([77]–[79]).
+
+---
+
+### Implications
+This case illustrates the intricate tension between labor law and administrative law frameworks in South Africa, suggesting a potential need for legislative clarity regarding the jurisdiction of courts over employment disputes. The outcome reinforces the rights of employees within the public sector, emphasizing the protections available under both the LRA and PAJA, thereby setting a precedent for future cases regarding claims of unfair dismissal within the public service context. The decision also calls for a re-evaluation of the concurrent jurisdiction provisions in the LRA, which may lead to legislative amendments to mitigate jurisdictional uncertainties.

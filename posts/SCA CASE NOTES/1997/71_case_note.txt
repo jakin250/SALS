@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 1997
+
+### FIRAC Case Note: ABSA Bank Limited v Standard Bank of SA Limited (1997)
+
+**F – Facts: [paras 2-8]**
+
+In 1991, ABSA Bank Limited (the appellant) became the legal successor to Volkskas Bank Limited. The dispute arose out of banking transactions involving a cheque for R150,000, drawn by Unitrans Bulk (Pty) Ltd (Unitrans), which was deposited into an account held by Horn. Unitrans had accounts at both ABSA's Pretoria branch and Standard Bank of SA Limited (the respondent) at its Steeldale branch. The cheque was presented to the respondent, which made payment to ABSA, crediting Horn’s account with R68,156.06 after debiting Unitrans’ account for the same amount due to an initial overdraft of R81,843.94.
+
+However, the signatures on the cheque were later found to be forged. On November 1, 1991, the respondent informed ABSA of this forgery and subsequently reversed the debit, resulting in a financial loss for the respondent. In subsequent correspondence, the respondent sought recovery of the difference between the original payment and the credited amount. When ABSA refused to pay, the respondent sued in the Transvaal Provincial Division for R85,850.91, claiming unjust enrichment.
+
+The case proceeded against ABSA alone, since the summons could not be served on Horn. The court awarded the respondent R81,843.94, which represented the amount of the overdraft that had been settled by the erroneous payment from the respondent to ABSA. 
+
+**I – Issues: [paras 8-9]**
+
+The primary legal question before the court was whether ABSA was unjustly enriched by the payment made by the respondent. The court had to determine if the appellant's account with the respondent, which was credited due to the cheque, had indeed settled Horn's overdrawn balance, and whether this payment was made sine causa (without a valid reason). Specifically, could ABSA argue that the payment was made on behalf of Horn and, consequently, that only Horn was enriched by the payment? 
+
+**R – Rules: [paras 4-7]**
+
+The court primarily relied on the principles of unjust enrichment and agency as outlined in common law. The critical point was whether the payment to ABSA extinguished the debt owed by Horn through set-off. Moseneke AJ, in the court a quo, found that once the cheque was credited to Horn's account, ABSA no longer held the funds as an agent; the funds became ABSA’s own once credited.
+
+The division of ingredients for unjust enrichment, including the absence of a cause for the enrichment, is fundamental. The respondents had to show that the enrichment occurring at the expense of another (the respondent) fell under the criteria of being unjust under the principles established by *Birkenstock v Pilatus* [1989] ZASCA 80.
+
+**A – Application: [paras 5-8]**
+
+The court evaluated the arguments surrounding the nature of the credit made to Horn’s account. It was noted that ABSA claimed that, as an agent for Horn, it received the payment. The court found this argument unpersuasive, establishing that the moment the funds were credited to Horn, ABSA became a debtor to Horn, thereby altering the nature of the relationship. 
+
+The court also examined the concept of provisional credit and noted that the amount credited on 24 October 1991 was conditional; hence, given that the cheque was ultimately found fraudulent, the initial credit was not solidified, thus retaining the status of the debt. The court emphasized that the burden of proof lay with ABSA to demonstrate its lack of enrichment, which, because it failed to prove that the debt owed by Horn had been extinguished as a result of the payment, led to the conclusion that ABSA had indeed been enriched through the payment received from the respondent.
+
+**C – Conclusion: [paras 8-9]**
+
+The Supreme Court of Appeal dismissed ABSA’s appeal with costs, confirming that the unjust enrichment claim against it was valid. The ruling reinforced the legal principle that a payment made under a misapprehension of its validity can be recovered if the recipient cannot demonstrate that they had been enriched by it owing to legitimate cause. The decision underscored the importance of establishing both the nature of credit in banking and the responsibilities of banks regarding forged instruments. This ruling is significant, as it clarifies the obligations of banks when dealing with third-party payments and the implications for unjust enrichment in banking law. 
+
+Overall, the case reaffirms the principle that a bank cannot rely on agency arguments when it has received a payment that does not reflect a legitimate transaction.

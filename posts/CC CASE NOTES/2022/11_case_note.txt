@@ -1,0 +1,52 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: NVM obo VKM v Tembisa Hospital and Another [2022] ZACC 11
+
+**FIRAC Method**
+
+## F – Facts ([1]–[13])
+
+The case concerns the birth of VKM (V), who suffered severe brain injury leading to cerebral palsy due to oxygen deprivation shortly before delivery. The facts are as follows:
+
+- Ms. NVM arrived at Tembisa Hospital on 3 April 2009 for labor with V as her first child.
+- Initial examinations and foetal heart rate (FHR) recordings indicated normal conditions until 03h15 on 4 April 2009. 
+- A partogram was created by nursing staff, capturing multiple FHR entries; however, no monitoring occurred after 03h15. This was conceded as a negligent omission in the High Court.
+- At 04h45, a diagnosis of cephalic-pelvic disproportion (CPD) was made with a caesarean section booked, but V was ultimately delivered vaginally at 05h10.
+- V presented with low Apgar scores immediately after birth, indicating severe distress. Subsequent medical evaluations confirmed intrapartum hypoxic ischaemic injury contributing to cerebral palsy.
+- Ms. NVM successfully sought damages in the High Court, but the decision was overturned by the Full Court, focusing primarily on factual causation challenges regarding the hospital's negligence.
+
+## I – Issues ([14]–[19])
+
+The principal legal issue turns on factual causation, specifically whether the failure of the hospital staff to monitor the foetal heart rate adequately was a factual cause of V's injuries. The Full Court contended that:
+
+- A proper application of the "but for" test for factual causation was not explored by the High Court.
+- The timing of the foetal distress and potential intervention were critical, raising whether timely monitoring would have led to actions that could have prevented the damage.
+
+## R – Rules ([51]–[60])
+
+The relevant legal rules for determining causation are as follows:
+
+- The "but for" test, which queries whether the injury would have occurred but for the negligent conduct ([56]).
+- Flexibility within the "but for" approach is acknowledged, particularly in cases of systemic failures where only a reduction of risk might be established rather than a direct causal link ([58]).
+- Established jurisprudence surrounding delictual claims reaffirms that a plaintiff is not required to demonstrate causation with absolute certainty, but rather on the probabilities ([86]).
+
+In previous cases, including **Lee v Minister for Correctional Services** and **Mashongwa v Passenger Rail Agency of South Africa**, the courts provided precedent supporting flexible approaches to causation, particularly in complex medical negligence scenarios.
+
+## A – Application ([63]–[87])
+
+The court's analysis incorporated various testimonies and joint expert opinions regarding the failure to monitor the foetal heart rate:
+
+- The High Court found unequivocally that had proper monitoring occurred, signs of foetal distress would have been detectable, enabling timely emergency measures and possibly averting V's injuries ([79]).
+- The Full Court disagreed, stating that the time for performing a caesarean section at 04h45 could not have yielded a preventive outcome for V's injuries. This interpretation ignored the critical period preceding the diagnosis of CPD ([19]).
+- The majority judgment underscored that the Full Court's reliance on comparative cases, such as **M v MEC**, mistook factual circumstances that were materially different from the current case ([65]–[70]).
+- The judges emphasized the necessity of context-specific evaluations while reasserting that both the High Court and the appeals court failed to apply causation principles adequately, creating the basis for the appeal.
+
+## C – Conclusion ([114])
+
+Ultimately, the Constitutional Court decided that:
+
+- The High Court's conclusions regarding negligence and factual causation were sound and should be upheld. The High Court had adequately shown that the hospital's failure to monitor foetal heart rate resulted in V's injuries and provided clear causation.
+- The appeal to overturn the Full Court's ruling was refused based on concerns about its misapplication of causal principles and the necessity for further clarification in relation to constitutional standards regarding healthcare delivery.
+
+The implications of this case underscore the significance of rigorous adherence to established medical practices and the necessity for monitoring in clinical situations to mitigate risks associated with childbirth.

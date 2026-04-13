@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: Barko Financial Services (Pty) Ltd v National Credit Regulator (415/13) [2014] ZASCA 114
+
+### F – Facts
+On 24 June 2010, the National Credit Regulator (NCR), the first respondent, issued a compliance notice to Barko Financial Services (Pty) Ltd (Barko), a registered credit provider. The notice arose from Barko requiring consumers to pay a service fee to NuPayment Solutions Pty Ltd (NuPay) beyond fees and interest permitted under the National Credit Act 34 of 2005 (NCA). The NCR contended that this additional fee constituted a breach of the NCA, as it exceeded the maximum allowable service fee and was not included in the regular credit agreement ([1][2]).
+
+Barko argued that the fee was related to a separate agreement between consumers and NuPay, and hence did not violate the NCA, as it was not directly levied by Barko. The NCR's compliance notice mandated Barko to cease the practice and reimburse affected consumers ([2][3]).
+
+Barko appealed the compliance notice to the National Consumer Tribunal (the Tribunal), which upheld the NCR's findings but modified the compliance terms. It required Barko to cease charging the additional fee and set stringent deadlines for reimbursement to consumers ([4][5]).
+
+Subsequent to the Tribunal’s decision, Barko appealed to the North Gauteng High Court, which dismissed the appeal but granted leave to appeal to the Supreme Court of Appeal (SCA). The Tribunal, which chose not to participate actively in the appeal but opted to abide by the SCA’s decision, had been involved in the proceedings primarily as the decision-maker regarding the compliance notice ([5][6]).
+
+### I – Issues
+The case presents two primary questions:
+1. Was there an agreement between NuPay and the consumer such that Barko was not liable for the payment of the additional service fee?
+2. Did the Tribunal possess the authority under the NCA to mandate the repayment of the service fee by Barko to its consumers, and if so, did the Tribunal exceed its powers in doing so? ([7][8]).
+
+### R – Rules
+The relevant legal provisions cited include:
+- Section 55 of the NCA, which empowers the NCR to issue compliance notices for non-compliance with NCA provisions.
+- Section 56, allowing the Tribunal to confirm, modify, or cancel a notice issued under Section 55 ([2][17]).
+- Section 91(a), prohibiting credit providers from requiring or inducing consumers to enter into supplementary agreements that contain unlawful provisions ([15][16]).
+- Section 150(h), granting the Tribunal authority to issue orders related to repayment to consumers ([20]).
+
+### A – Application
+The SCA engaged in a detailed examination of the contractual relationships evidenced by the various agreements presented by Barko. It emphasized that Annexure D5, which Barko claimed was a service agreement between the consumer and NuPay, instead appeared to be an agreement binding the consumer and Barko ([10][12]). The SCA determined that the presence of three distinct agreements—credit agreements, the service level agreement (SLA) with NuPay, and D5—did not absolve Barko from liability under the NCA, as they worked together to impose additional fees contrary to the law ([9][11]).
+
+The SCA ruled that the "service provider fee" could not be levied without infringing the service fee cap prescribed under the NCA. Even if D5 was theoretically positioned as a separate agreement, it ultimately served to pass on fees that Barko was contractually obliged to pay to NuPay, reflecting an indirect requirement or inducement of the consumer to agree to an unlawful fee ([14][15]).
+
+As for the Tribunal's authority to order repayment, the SCA held that the Tribunal was indeed authorized under the NCA to issue compliance orders, including directives for repayment ([17][20]). The arguments from Barko that the Tribunal's mandate was limited were consequently dismissed. The court underscored the necessity for compliance with the NCA’s objective to protect consumers and promote a fair credit market, thus reinforcing the Tribunal’s capacity to enforce such orders ([18][21]).
+
+### C – Conclusion
+The SCA dismissed Barko’s appeal, upholding the findings of the NCR and the Tribunal. The ruling clarified that Barko could not escape liability for additional fees levied on consumers under the guise of a supplementary agreement with NuPay. The Tribunal's authority to order repayment was confirmed, further solidifying consumer rights protections central to the NCA. This decision reinforces the accountability of credit providers to adhere strictly to the provisions of the NCA, thus promoting compliance and fair practices within the credit industry ([26]). 
+
+In summary, this judgment not only validates the enforcement mechanisms provided by the NCA but also underscores the judiciary’s commitment to consumer protection within the financial sector, ensuring that credit providers operate within the defined legal frameworks ([2][20]).

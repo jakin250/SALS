@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Absa Bank Ltd v Naude NO [2015] ZASCA 97
+
+## F - Facts
+
+In the matter of **Absa Bank Ltd v Naude NO**, the appellant, Absa Bank Ltd (“the bank”), was dissatisfied with a business rescue plan adopted for **Louis Pasteur Investments Ltd** (“the company”), for which it had previously voted against. The bank initiated a legal action against the business rescue practitioner, Mr. Etienne Jacques Naude NO (“the practitioner”), and the company, challenging the validity of the plan approved by creditors on 12 October 2012, requesting its annulment and the removal of the practitioner ([1]).
+
+The background to the case began on 19 June 2012, when the board of the company resolved to enter business rescue proceedings. The company owed the bank approximately **R8.5 million** from two mortgage loans, and the bank also alleged an additional liability of around **R150 million** due to a cross-suretyship executed by the company and other related entities ([3]). During creditor evaluations for the business rescue plan, the bank's claim regarding the cross-suretyship was deemed a ‘contingent claim’, limiting its voting interest ([4]).
+
+After the plan's provisional approval, the bank's application was lodged on **15 November 2012**, asserting that the plan could not be implemented as payments had not been received ([5]). Despite this, the plan had already begun to be implemented, with the first payments to creditors occurring between 12 and 16 November 2012 ([6]). The practitioner raised the issue of the bank's failure to join other creditors in the application, asserting their rights could be prejudiced if the plan were set aside ([7]).
+
+The court of first instance dismissed the bank’s application based on the non-joinder of other creditors and held that the bank was restricted by section 133 of the **Companies Act 71 of 2008** from initiating action without consent or leave of the practitioner ([2]).
+
+## I - Issues
+
+The case raises several pivotal legal questions:
+
+1. **Non-joinder of Creditors**: Did the bank's failure to join other creditors with a direct and substantial interest in the business rescue plan preclude its application? ([10])
+   
+2. **Validity of the Business Rescue Plan**: Should the business rescue plan be annulled considering the arguments presented by the bank? ([12])
+
+3. **Legal Standing Under Section 133**: Whether the bank required consent or leave of the court before filing the application after the approval of the business rescue plan ([12]).
+
+4. **Counter-application Validity**: Was the argument regarding the cross-suretyship’s validity warranted given the dismissal of the main application? ([14]).
+
+## R - Rules
+
+The legal framework governing the case involves:
+
+1. **Companies Act 71 of 2008**:
+   - **Section 130**: Outlines procedures and requirements for applications related to business rescue plans.
+   - **Section 133**: Specifies that no proceedings may be initiated post-approval of a business rescue plan without the practitioner's consent or court leave ([12]).
+   
+2. **Non-Joinder Doctrine**: According to precedents, a party with a direct and substantial interest in litigation must be joined to avoid prejudice, as established in *Gordon v Department of Health, Kwazulu-Natal* ([10]).
+
+3. **Old Companies Act 61 of 1973**:
+   - **Section 226(1)**: Prohibits one company from providing security for another company under specific conditions, pertinent to the counter application regarding the cross-suretyship ([13]).
+
+4. **Judicial Precedent**: Cases such as *Amalgamated Engineering Union v Minister of Labour*, which assert the necessity of proper citation and notifications in legal proceedings ([9]).
+
+## A - Application
+
+In applying the law to the facts, the court reaffirmed the necessity for the joinder of all affected creditors, emphasizing that failing to include them would compromise their interests significantly. The court stated that if the application were successful, it could invalidate the plan and require creditors to repay funds received under it ([10]-[11]).
+
+The court also highlighted the futility of allowing the bank to amend its application post-verdict given that the core issue—whether the business rescue plan could be set aside—would unjustly affect unjoined creditors. The court found the bank's argument, claiming creditors were aware of proceedings despite non-joinder, insufficient. It reiterated that mere notice does not equate to waiving the right to join the proceedings ([9]-[10]).
+
+On the matter of consent under **section 133**, the court noted that no resolution had been reached on whether the bank required consent or not, as discussions of this nature would merely be obiter given that the non-joinder issue was ultimately decisive ([12]).
+
+Regarding the counter-application aimed at declaring the cross-suretyship void, the court recognized that this issue became moot with the dismissal of the main application, concluding that the lower court should not have adjudicated on it ([14]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal concluded that the appeal by Absa Bank Ltd was dismissed with costs, affirming the lower court's ruling on non-joinder and the dismissal of the bank's application without addressing the merits of the business rescue plan ([17]). 
+
+The holding emphasizes the critical nature of creditor inclusion in business rescue proceedings, which ultimately dictates the scope of any disputes related to business rescue plans. The decision underscored the necessity for clear compliance with statutory provisions within corporate governance and restructuring processes.
+
+This case highlights substantial implications for financial institutions and creditors in similar business scenarios, signaling that adequate representation of all affected parties is essential in securing legal entitlements and avoiding prejudice in business rescue contexts. 
+
+The order from this appeal serves as a reaffirmation of procedural safeguards integral to business rescue legislation, thereby enhancing the protections afforded to creditors during such proceedings.

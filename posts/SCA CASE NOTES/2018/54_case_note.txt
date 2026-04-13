@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note – Mostert v Firstrand Bank t/a RMB Private Bank (198/2017) [2018] ZASCA 54
+
+### FIRAC Method
+
+#### F – Facts:
+This case concerns a dispute involving the enforcement of a credit agreement between the appellants, trustees of the Carpe Diem Trust, and the first respondent, Firstrand Bank Limited. The appellants had originally entered into a loan agreement with RMB in March 2005, which was secured against property valued at R40 million ([1], [2]). After failing to make payments stipulated in the agreement, RMB had pursued legal action and obtained a judgment declaring the property specially executable ([3], [4]). 
+
+Despite a settlement agreement in 2010 requiring Mr. Mostert to pay certain amounts by specified dates, he failed to adhere to this commitment, leading to further legal action from RMB ([5], [6]). In 2014, the appellants filed an action against RMB, challenging the bank's right to sell the property and alleging that the arrears had been settled in part by payments made between 2013 and 2015 ([6], [7]). The court a quo, Gamble J, dismissed their application for interim relief, concluding that the appellants did not prove their claims regarding the alleged agreement from September 2011, nor did they establish that payments from 2013 reinstated the loan agreement ([10]).
+
+The appeal followed, where the appellants concentrated on whether their obligations under the credit agreement were reinstated under s 129(3) of the National Credit Act 34 of 2005 ([11], [12]).
+
+#### I – Issues:
+The primary legal issues to be addressed in this appeal include:
+1. Whether the appellants could argue that the loan was reinstated due to payments made in 2013 and 2015.
+2. Whether those payments fulfilled the requirements under s 129(3) of the National Credit Act, particularly regarding who made the payments.
+3. The appropriateness of raising the issue of reinstatement in the reply affidavit, which the first respondent contended was impermissible ([12], [14]).
+
+#### R – Rules:
+The relevant legal authorities and rules governing this case include:
+- **National Credit Act 34 of 2005**, particularly s 129, which provides consumers a remedy for default through overdue payments, allowing the consumer to remedy a default any time before cancellation of the credit agreement ([23], [24]).
+- **Case Law**: The interpretation of the National Credit Act has been influenced by various precedent cases, notably *Nkata v Firstrand Bank Ltd* [2016] ZACC 12, which articulated the significance of the consumer's role in reinstating credit agreements ([25]).
+- General principles regarding the authority of a third party to make payments on behalf of a debtor, as discussed in the contract law literature and previous court decisions ([27]).
+
+#### A – Application:
+The court's analysis focused on whether payments made by New Port Finance Company on behalf of Mr. Mostert constituted a remedy for the default under s 129(3). The appellant's primary claim hinged on demonstrating that the 2013 and 2015 payments settled the outstanding arrears ([20], [21]). 
+
+1. **2013 Payment**: The court found insufficient evidence had been provided to prove that payments made in 2013 had settled the arrears, as Mr. Mostert did not substantiate his claims with adequate documentation concerning the exact nature and timing of these payments ([17], [18]). Hence, it could not be considered that the arrears were settled during that period.
+
+2. **2015 Payments**: While RMB conceded that these payments settled arrears, they were not made by Mr. Mostert directly but by New Port, which complicated their applicability under s 129(3) ([21], [30]). The court analyzed the statutory language and interpreted it strictly, concluding that because the payments were not made by or on behalf of the consumer, they did not provide sufficient grounds for reinstating the agreement ([26]).
+
+3. **Raising New Legal Arguments**: The court contemplated whether it was acceptable for the appellants to introduce arguments concerning s 129(3) at the reply stage. Notably, it found that raising these points in the reply was not unreasonable, considering the evolving understanding of the law post-*Nkata* ([14], [15]).
+
+#### C – Conclusion:
+Ultimately, the Supreme Court of Appeal dismissed the appeal, upholding the decision of the lower court. The appellant’s reasoning based on the reinstatement due to payments made was rejected as being outside the scope defined within the National Credit Act. It was established that payments made by third parties without a direct connection to the consumer did not warrant reinstatement under s 129(3). The decision illustrated significant interpretations of consumer protection laws in South Africa, specifically highlighting that only payments made directly or on behalf of the consumer would remedy defaults under the Act. Furthermore, it reaffirmed the court's insistence on strict adherence to statutory provisions, thus emphasizing the necessity of clear and documented compliance in credit agreements ([31]).
+
+This judgment reflects the ongoing complexities in creditor-debtor relationships under the National Credit Act, guiding stakeholders on the critical importance of compliance with legal standards and the ramifications of third-party transactions in credit contexts. The costs were awarded against the appellants on an attorney-and-own-client scale, reinforcing the principle of accountability in litigation ([32]).

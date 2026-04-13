@@ -1,0 +1,53 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: Thomas v Minister of Defence (506/2013) [2014] ZASCA 109
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–5])
+
+The case revolves around Dr. Liesl-Lenore Thomas, who was employed as a medical registrar with the Western Cape Provincial Department of Health. Her employment arose from an official offer made by the Chief Executive Officer of the Western Cape Department of Health. Dr. Thomas suffered injuries from slipping and falling on stairs located at the 2 Military Hospital, which was under the control of the Minister of Defence and Military Veterans ([para 2]). Following the fall, Dr. Thomas lodged a claim under the Compensation for Occupational Injuries and Diseases Act 130 of 1993 (COIDA) and also sought damages from the Minister and another party in the Western Cape High Court ([para 3]).
+
+The Minister of Defence raised a special plea, arguing that Dr. Thomas's claim was barred under section 35(1) of the COIDA, which precludes employees from suing their employers for occupational injuries and diseases. The High Court upheld this special plea, concluding that the State should be treated as a single employer under COIDA, effectively dismissing Dr. Thomas’s claim with costs, including for the services of two counsel ([paras 4–5]). Dr. Thomas subsequently appealed this decision ([para 5]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 1–5])
+
+The primary issue for determination was whether, under section 35(1) of COIDA, the phrase "including the State" qualifies "employer" in a manner that allows the various components of the State to be treated as a single employer, or whether different entities within the State can be regarded as separate employers for the purposes of COIDA ([para 1]).
+
+Another issue raised was the interpretation of the term "employer" in COIDA, particularly in relation to the context of employment with state entities, and whether section 35(1) applies to Dr. Thomas's claim against the Minister, given her employer's identity as a component of the state rather than the state itself ([para 26]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 6–10], [12–19])
+
+The relevant legislation in this case is the Compensation for Occupational Injuries and Diseases Act 130 of 1993. The specific provision at issue, section 35(1), stipulates that "no action shall lie by an employee...against such employee's employer" regarding occupational injuries or diseases, effectively preventing claims for damages outside the compensation scheme established under COIDA ([para 3]).
+
+Important precedent was established in *Jooste v Score Supermarket and Trading (Pty) Ltd*, where the Constitutional Court validated the constitutionality of section 35(1) of COIDA, clarifying that the Act provides a systematic approach to compensation for injuries sustained by employees during the course of their employment, contrasting it with common law rights ([paras 6–7]).
+
+The judgments considered statutory interpretation principles, notably those set out by Majiedt AJ in *Cool Ideas 1186 CC v Hubbard*, emphasizing that statutory terms should be given their ordinary grammatical meaning unless doing so results in an absurdity. Additionally, the context and purpose of the law must be considered ([para 8]).
+
+Further arguments relied on the definitions found in section 1 of COIDA and the implications of multiple statutory provisions that refer to the different components of state employment, rather than a singular entity as "the State" ([paras 12–24]).
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 8–26])
+
+The Supreme Court of Appeal found that section 35(1) does not support the Minister’s claim that the State is a single employer under COIDA. Instead, the Court highlighted that the words “including the State” merely indicate that the State's component parts are recognized as employers in their own right under the Act ([para 26]).
+
+The Court articulated that a clear distinction exists between the various departments and levels of government, each considered separate employers under COIDA. This was supported by section 39(2), which clearly delineates the heads of departments as individual employers rather than a singular State entity ([para 19]). The comprehensive nature of COIDA was interpreted to mean that it does not treat all government components as a single employer, thereby, allowing employees of distinct departments to maintain rights to personal injury claims against their respective departments ([paras 13–24]).
+
+Moreover, references to related legislation like the Public Service Act were utilized to underscore that the separate heads of departments are recognized as distinct employers. Therefore, Dr. Thomas's employer was identified as the Head of the Western Cape Department of Health ([para 26]).
+
+The application of this legal reasoning resulted in the conclusion that Dr. Thomas could pursue her claim against the Minister for the damages resulting from her fall, as the conditions of section 35(1) did not bar her claim ([para 26]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 26–27])
+
+The Supreme Court of Appeal upheld Dr. Thomas’s appeal, reversing the High Court's decision. It concluded that section 35(1) of COIDA does not prevent her from filing a claim against the Minister, as the court found that the employer in her situation was not "the State" as a single entity but rather the specific department she was working under ([paras 26–27]).
+
+The Court's interpretation reinforces the assertion that different components of the government can be treated as separate employers under COIDA, allowing employees to maintain their rights to common law claims for damages in circumstances where they are injured due to potential negligence of those entities.
+
+The implications of this case extend beyond Dr. Thomas, establishing a precedent that other employees within the State apparatus can similarly pursue claims against specific departments without the constraints imposed by the conventional interpretation of an overarching State employer under COIDA. Consequently, this ruling aids in clarifying the landscape of employee rights concerning occupational injuries within the context of state employment, fostering legal clarity and potentially influencing future litigation in this domain.
+
+---
+
+### References
+
+* Jooste v Score Supermarket and Trading (Pty) Ltd, 1999 (2) SA 1 (CC).
+* Cool Ideas 1186 CC v Hubbard & another, 2014 (4) SA 474 (CC).
+* Compensation for Occupational Injuries and Diseases Act 130 of 1993, s 1, s 35(1), s 39(2), s 84.
+* Premier, Western Cape v President of the Republic of South Africa, 1999 (3) SA 657 (CC).

@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# Case Note: Road Accident Fund v Monjane [2007] SCA 57 RSA
+
+## F – Facts
+
+The appellant, the Road Accident Fund (RAF), is a juristic entity established under the Road Accident Fund Act 56 of 1996 ([para 1]). The respondent, Pedro Ernesto Monjane, brought an action in the Pretoria High Court against the RAF, seeking R417,600 for damages related to injuries sustained from an accident involving a vehicle driven by an employee, Michael Duarte ([para 1]). The accident occurred on May 22, 1997, while Monjane was loading vegetables onto Duarte's vehicle at the Krugersdorp Market ([para 1]). Duarte's reckless driving caused Monjane to fall from the truck and sustain injuries ([para 1]).
+
+In response, the RAF filed a special plea asserting that since Duarte was Monjane's employer at the time of the accident, liability was excluded under both the RAF Act and the Compensation for Occupational Injuries and Diseases Act 130 of 1993 (COIDA) ([para 1], [para 7]). The trial court, presided by Shongwe J, dismissed the special plea, leading to the RAF's subsequent appeal ([para 1]).
+
+## I – Issues
+
+The core issue before the court involved the interpretation of the relevant sections of the RAF Act and COIDA concerning Monjane's right to compensation as an employee injured in the course of employment due to the employer's negligence ([para 8]). Specifically, it hinged upon whether the RAF was liable under section 17 of the RAF Act, given the liability limitations imposed by section 19(a) in conjunction with section 35(1) of COIDA ([para 8]).
+
+There was a particular focus on whether section 18(2) of the RAF Act created a right of action against the RAF and how the interplay between the two Acts affected Monjane's ability to recover damages for his occupational injuries ([para 8]).
+
+## R – Rules
+
+The Court analyzed various statutory provisions:
+
+1. **Road Accident Fund Act 56 of 1996:**
+   - Section 17 mandates the RAF to compensate third parties for injuries arising from negligent driving, while section 18(2) limits liability when the claimant is an employee of the vehicle's driver or owner ([para 4]).
+   - Section 19(a) states that the RAF is not liable for damages for which neither the driver nor the owner would have been liable ([para 5]).
+   
+2. **Compensation for Occupational Injuries and Diseases Act 130 of 1993:**
+   - Section 35(1) prohibits an employee from suing their employer for occupational injuries, effectively barring any common law actions against the employer ([para 6]).
+
+The court also referenced previous jurisprudence, most notably **Mphosi v Central Board for Co-operative Insurance Ltd**, where similar provisions were interpreted to determine liability boundaries for occupational injuries ([para 10]).
+
+## A – Application
+
+The South African Supreme Court of Appeal (SCA) took a comprehensive view of the statutory landscape. The analysis clarified that although Monjane was not being conveyed in or on the vehicle, the conclusion must still recognize the employer-employee relationship and how it intersects with the laws governing the RAF ([para 9]). The SCA found that sections 18(2) and 19(a), when considered together with section 35(1) of COIDA, effectively precluded claims against the RAF when the employer was the negligent party causing the injury, irrespective of the employment context ([para 9]).
+
+The respondent argued that construing section 19(a) to entirely prevent claims against the Fund when the employer was negligent would render the limitations in section 18(2) superfluous. However, the court concluded that the legislative intent was clear: the restrictions were meant to draw a strict line where an employee cannot recover from the Fund for injuries caused by an employer’s negligent acts if they are defined as occupational injuries ([para 12]).
+
+Ultimately, the SCA upheld the argument that the terms of COIDA and the RAF Act, as written, necessitated a denial of liability by the Fund under these specific circumstances ([para 11]).
+
+## C – Conclusion
+
+The SCA concluded that the RAF was not liable to compensate Monjane for his injuries incurred while performing work duties under the negligent driving of his employer ([para 12]). The appeal was upheld, and the order of the lower court was set aside, with the special plea of the RAF being upheld and costs awarded ([para 13]).
+
+This case highlights the critical intersection of occupational injury law and motor vehicle accident compensation, reasserting the statutory frameworks' provisions that limit recourse in situations where an employee’s injuries arise from employer negligence. It underscores the legislative policy aiming to delineate employer liability and the exclusive remedial path provided by COIDA for occupational injuries ([para 12]).

@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note on **Commissioner for the South African Revenue Service v Tunica Trading 59 (Pty) Ltd (1252/2022)** [2024] ZASCA 115 
+
+## F – Facts 
+The central facts of this case originate from the administrative decisions of the South African Revenue Service (SARS) regarding Tunica Trading 59 (Pty) Ltd (Tunica), a licensed distributor of fuel ([2]). Tunica, a small-scale distributor, sourced fuel from Masana Petroleum Solutions, which in turn acquired the fuel from BP Southern Africa, a licensed manufacturer under the Customs and Excise Act 91 of 1964 (the Act) ([2]–[3]). 
+
+In October 2014, Tunica submitted three applications to SARS for a refund of excise duty and fuel levies related to fuel purchased for foreign-going ships, including an Indian naval vessel, INS TEG ([4]). On April 1, 2015, SARS rejected Tunica's refund application on the grounds that Tunica did not acquire the fuel directly from a licensed manufacturer, citing section 64F(1)(b) of the Act which requires fuel to be obtained directly from the stocks of a licensee ([5]). 
+
+Tunica appealed the rejection internally on April 17, 2015, arguing that the interpretation of the Act was flawed and that the requirement to acquire fuel from a licensed manufacturer did not necessitate a direct purchase from them ([6]). The Internal Appeal Committee of SARS dismissed the appeal on September 28, 2015, citing that the required compliance with the act had not been met ([7]). 
+
+As litigation ensued, Tunica initiated a review application in the High Court, claiming various forms of relief, including an order for the decisions made by SARS to be set aside ([15]). The High Court dismissed Tunica's application, leading to this appeal ([18]).
+
+## I – Issues 
+The legal issues at stake can be summarized into three main questions: 
+
+1. Whether the response by SARS to Tunica's notice under section 96 of the Act constitutes a decision that is reviewable under the Promotion of Administrative Justice Act 3 of 2000 (PAJA) ([36]).
+2. The proper interpretation of section 64F(1)(b) of the Act and whether it permits a licensed distributor of fuel to obtain fuel through an intermediary ([36]).
+3. Whether Tunica complied with the requirements set out in section 64F of the Act, particularly regarding the direct procurement of fuel from a licensed distributor ([36]).
+
+## R – Rules 
+The court analyzed several legal provisions pertinent to the case, including:
+
+- **Customs and Excise Act 91 of 1964:** The primary statute regulating customs and excise duties, particularly sections 64F (concerning licensed distributors) and 75(1)(d) (regulating refunds of excise duties) ([54]–[56]).
+- **Promotion of Administrative Justice Act 3 of 2000:** This act establishes standards for administrative conduct and the right to fair administrative action ([44]).
+- **Judicial Precedents:** Cases such as *BP Southern Africa v Secretary for Customs and Excise* and *KPMG Chartered Accountants SA v Securefin Ltd* were referenced to interpret provisions of the law and the parameters of administrative justice ([65], [68]).
+
+## A – Application 
+In deliberating the first issue, the court reasoned that SARS’ response to the section 96 notice is not a reviewable decision under PAJA. It observed that section 96 functions as a notice requirement before any legal proceedings can be initiated against SARS, thereby positioning the response as procedural rather than substantive ([41]–[44]). 
+
+Regarding the second issue, the court emphasized a strict interpretation of section 64F, asserting that the requirement to obtain fuel from a licensee of a customs and excise manufacturing warehouse excludes fuel purchased from intermediaries like Masana ([62]–[68]). The court pointed out that such an interpretation adheres to the overall legislative intention to monitor and control the distribution and taxation of fuel ([77]). 
+
+Tunica's compliance with the requirements of the Act was critically assessed. The court found that Tunica's assertion of having obtained fuel from Masana was insufficient, primarily because the necessary evidence to establish a direct purchase from a licensed manufacturer was lacking ([80]–[83]). Tunica's claims were overshadowed by her failure to produce adequate documentation, undermining her refund claim.
+
+## C – Conclusion 
+The Supreme Court of Appeal upheld the appeal, overturning the High Court's dismissal of Tunica's claims. The court determined that Tunica had not complied with the requirements stipulated in the Act and that SARS had not committed reviewable errors in their decisions. Consequently, the order of the Full Court was set aside, and it was held that Tunica's application should be dismissed with costs, including the costs of senior counsel ([86]).
+
+### **Implications**
+This case underscores the necessity for strict compliance with regulatory frameworks governing customs and excise duties. entities seeking refunds must provide clear and direct proof of procurement from licensed manufacturers, reflecting the act's purpose to prevent tax evasions. The ruling clarifies the boundaries of administrative justice under PAJA regarding the responses from administrative bodies, emphasizing procedural over substantive interpretations.

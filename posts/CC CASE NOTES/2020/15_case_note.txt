@@ -1,0 +1,27 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2020
+
+### FIRAC Case Note: Telkom SA SOC Limited v City of Cape Town and Others [2020] ZACC 15
+
+#### F – Facts: Relevant Background and Procedural History ([paras 1–8])
+This case arises from an application for leave to appeal against a decision by the Supreme Court of Appeal (SCA) that dismissed an appeal by Telkom SA SOC Limited (Telkom) concerning the legality of constructing cellular infrastructure in Cape Town, specifically 135 cellular phone masts and rooftop stations. Telkom, a leading communications service provider and state-owned entity, is licensed under the Electronic Communications Act No. 36 of 2005 (the Act). Its right to construct telecommunications infrastructure was put into question due to the City of Cape Town's bylaw, which prohibited such construction on land zoned as single residential. Despite applying for rezoning in January 2016, Telkom proceeded with the construction without approval, leading to an administrative penalty imposed by the City. The High Court affirmed the City’s position, declaring the mast’s construction unlawful, prompting Telkom's appeal to the SCA. The SCA ruled against Telkom, leading to the present appeal for leave before the Constitutional Court.
+
+#### I – Issues: Legal or Constitutional Questions ([paras 2–4, 8–14])
+The central legal question is whether the rights conferred to Telkom under section 22 of the Act are subject to compliance with municipal bylaws concerning city planning and land use. Specifically, this involves determining if a municipal authority can impose additional regulatory requirements on a licensee under the Act when executing its telecommunication functions. The issues at hand also raise questions related to the authority of local municipalities versus national legislative powers concerning telecommunication infrastructure. 
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 16–24, 30–32])
+The starting point for the court’s analysis is section 22 of the Electronic Communications Act, which grants licensees the right to enter and construct infrastructure on land while mandating “due regard to applicable law” ([paras 4–6]). The judgment draws upon precedents such as **Habitat Council v Provincial Government** and **Maccsand**, where the balance between municipal planning authority and national legislation was discussed ([paras 15–17]). Furthermore, the interpretation of section 156(3) of the Constitution, which invalidates any bylaw conflicting with national legislation, plays a significant role in analyzing whether Telkom's arguments about the bylaw's validity hold any merit ([paras 32–36]).
+
+#### A – Application: Analysis of How the Court Applied the Law ([paras 21–41])
+The court applied the established legal framework to assess the claims made by Telkom. It rejected Telkom's argument on the grounds of legislative competence, affirming that local municipalities possess the authority to regulate land use irrespective of national concerns. The court underscored that telecommunications infrastructure falls within the jurisdiction of regional planning, thus necessitating municipal consent ([paras 22–25]). 
+
+When addressing the potential conflict between the bylaw and section 22 of the Act, the court emphasized that acceptable coexistence between the bylaw and national legislation is feasible, asserting that compliance with local bylaws is a prerequisite for exercising rights granted by the Act. This interconnectedness between municipal bylaws and national legislative frameworks ensures that the interests of local governance are not undermined while facilitating national objectives ([paras 32–36]).
+
+Additionally, the court noted that the jurisprudence from **Link Africa** did not support Telkom's position that a bylaw requiring municipal consent would inherently thwart the objectives of the Act. Instead, the court found that valid municipal bylaws could guide the implementation of national rights without conflicting with overarching legislative goals ([paras 38–41]).
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 44–46])
+The Constitutional Court, in unanimous agreement, refused to grant leave for appeal, thereby upholding the SCA's ruling. The court articulated that the issues at play had been thoroughly examined and established principles from prior case law dominantly shaped the outcome. It confirmed that Telkom must comply with local bylaws when exercising rights under the Act, reinforcing the cities' regulatory authority in the context of telecommunications infrastructure. This judgment underscores the importance of local governance in the sphere of municipal planning and its compatibility with national regulations, emphasizing the collaborative framework necessary for operational efficiency and legal compliance between different governmental spheres. 
+
+The rejection of leave to appeal means the High Court judgment stands, holding implications for similar future disputes where telecommunication entities seek to navigate municipal regulations while executing national mandates. The court also called for a more responsive regulatory framework regarding approval timelines, hinting at a need for practical reforms to balance the regulatory landscape ([para 45]). 
+
+This decision illustrates the ongoing tension and necessary cooperation between national imperatives and local governance.

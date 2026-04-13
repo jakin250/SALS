@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: **Old Mutual Unit Trust Managers Limited v Living Hands (Pty) Ltd and Others** [2024] ZASCA 75
+
+## F – Facts
+
+The appellant, **Old Mutual Unit Trust Managers Limited (OMUT)**, was the defendant in a delictual claim brought by **Living Hands (Pty) Ltd** and its trustees (first, second, and third respondents), in the Gauteng Division of the High Court of South Africa, Johannesburg. OMUT is a financial institution that administers collective investment schemes as defined under the **Collective Investment Schemes Control Act 45 of 2002 (CISCA)**. The first plaintiff was the sole trustee of the **Living Hands Umbrella Trust** (the Trust), which was intended to safeguard funds for the beneficiaries of the Provident Fund ([paras 1–2]).
+
+The plaintiffs alleged that OMUT had acted negligently by repaying approximately **R854,654.00** of funds to the first plaintiff after the latter had been taken over by the Fidentia Group, who subsequently misappropriated the Trust's funds. The plaintiffs contended that OMUT owed them a duty of care based on its statutory obligations under CISCA, the **Financial Institutions (Protection of Funds) Act 28 of 2001**, and the **Trust Property Control Act 57 of 1988**, as well as constitutional duties per sections 27 and 28 of the Constitution ([pars 21–22]).
+
+OMUT defended the claim, asserting that their actions were neither wrongful nor negligent and emphasized that any loss incurred by the plaintiffs was solely due to the misappropriation by Fidentia’s directors, who formed the controlling mind of the first plaintiff ([par 3]).
+
+The High Court ruled in favor of the plaintiffs, finding OMUT liable for damages, prompting OMUT to appeal ([pars 4–5]).
+
+## I – Issues
+
+The case raised several critical issues of law:
+
+1. **Wrongfulness**: Did OMUT's actions constitute a breach of a legal duty, thereby establishing wrongfulness in terms of South African delictual principles?
+2. **Negligence**: Was OMUT negligent in its duty towards the Trust and its beneficiaries, specifically in relation to the payment of funds?
+3. **Causation**: Did the actions (or inactions) of OMUT directly cause the financial loss sustained by the plaintiffs? 
+4. **Direct duty of care**: Did OMUT owe a legal duty to the Trust and its beneficiaries beyond its contractual obligations to the first plaintiff? ([par 42]).
+
+## R – Rules
+
+The legal principles relevant to this case are derived from South African law regarding delictual liability, particularly concerning:
+
+- **Wrongfulness**: As established in **Loureiro v Imvula Quality Protection** [2014] ZACC 4 and **Country Cloud** [2014] ZACC 28, wrongfulness is not assumed but must be positively proven through a legal duty not to cause economic harm ([paras 45–46]).
+- **Negligence**: Defined largely by the standard articulated in **Kruger v Coetzee** [1966] 2 SA 428 (A), where a party is negligent if they fail to act as a reasonable person would under similar circumstances ([par 78]).
+- **Causation**: It involves both factual and legal aspects. Factual causation concerns if the defendant's conduct materially contributed to the plaintiff's harm, while legal causation assesses whether the harm was a foreseeable consequence of the conduct ([par 87]).
+- **Statutory Interpretation**: In terms of liability arising from statutory provisions as detailed in **Olitzki Property Holdings v State Tender Board** [2001] ZASCA 117, the court evaluates legislative intent and the duty it imposes ([par 52]).
+
+## A – Application
+
+### Wrongfulness
+
+The court commenced its analysis by examining whether OMUT’s behavior met the legal threshold for wrongfulness. The judgment specified that for a duty of care to arise, the plaintiffs were required to demonstrate that OMUT's actions breached a specific legal duty owed to the Trust and its beneficiaries. The appellants contended that their contractual agreements with the first plaintiff did not extend to imposing such duties towards the Trust itself, thus contradicting an imposition of liability ([pars 53–54]). 
+
+In particular, the Supreme Court of Appeal held that the potential for economic loss is insufficient to establish wrongfulness unless a clear legal duty exists, one which OMUT did not owe to the Trust based on the legal interpretation of sections from CISCA and the Protection of Funds Act. It ruled that OMUT operated within its contractual limits and did not bear any separate legal duty to verify the integrity of Fidentia ([pars 60–66]).
+
+### Negligence
+
+The court next addressed the negligence claim against OMUT. The plaintiffs alleged that OMUT acted against the standards expected of a reasonable financial manager by failing to notify regulatory bodies of the disinvestment and by not conducting due diligence on FAM ([par 84]). However, as revealed in the court’s analysis, there was substantial evidence of OMUT's adherence to established protocols. Ombud and judicial scrutiny concluded that OMUT had acted prudently by communicating clearly with FAM and did not foresee any wrongdoing that could absolve them from liability. The court emphasized that they could not have anticipated the future misappropriation of funds by the Fidentia directors ([par 87]).
+
+### Causation
+
+In para 92, the court discussed that the plaintiffs failed to prove causation as the factual cause of their financial loss was the criminal actions of the Fidentia directors, not OMUT’s conduct. The causal chain suggested by the plaintiffs was entirely speculative, an analysis that the court upheld ([par 93]). Thus, it was determined that OMUT’s compliance with its contractual obligations did not constitute a negligent act.
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately ruled in favor of OMUT, overturning the High Court’s decision. The court concluded that the plaintiffs had failed to establish the essential elements of delictual liability: wrongfulness, negligence, and causation ([pars 97–98]). The decision not only underscores the strict legal standards applicable to economic loss claims but also reaffirms the principle that a financial institution like OMUT, when acting within lawful parameters, is not liable for the illicit actions of third parties when the institution is acting based on duly authorized instructions.
+
+Moreover, this ruling clarifies the demarcation between contractual obligations and delictual liability, emphasizing that a duty of care under delict law cannot be broadened without clear statutory or common law provisions underpinning such a duty. The implications of this decision reinforce the necessity of adherence to contractual terms and conditions and the legal boundaries defining fiduciary responsibilities within financial services.
+
+This ruling serves as a precedent concerning liability in financial fiduciary contexts, illustrating the threshold required to invoke duties of care in the complex interplay between financial institutions and their clients.

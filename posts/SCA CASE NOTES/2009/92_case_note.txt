@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# Case Note: Cladall Roofing (Pty) Ltd v SS Profiling (Pty) Ltd [2009] ZASCA 92
+
+### FIRAC Method
+
+## F – Facts ([para 1–20])
+The case centers on a dispute between Cladall Roofing (Pty) Ltd (the appellant) and SS Profiling (Pty) Ltd (the respondent) regarding a contract for the supply of roof sheeting. Cladall, a roofing contractor in the Eastern Cape, ordered 13,000 square meters of galvanised IBR roof sheeting from SS, specifying critical requirements regarding thickness, tensile strength, and production quality ([para 2]). 
+
+The order of 2 February 2006 highlighted that the required sheeting should be 0.5 mm thick, 'full hard', and galvanised to a Z275 standard ([para 12]). However, the delivered sheeting did not conform to these specifications. Upon delivery, Cladall's managing director, Mr. Wessel Lategan, expressed concerns about the quality of materials and sought assurances from SS, which were misleadingly provided. After installation, the roof began showing defects, leading Cladall to withhold the balance of the purchase price and institute legal action against SS for damages ([para 16–19]).
+
+SS defended itself using its 'Standard Conditions of Agreement', particularly clauses 6.4 and 7.3, which dictated that the customer could not claim for defects unless proper notification was provided and that payment could not be withheld for any reason ([para 3, 5]). The trial court upheld SS's defense, concluding that Cladall had not complied with the notified requirements and dismissed Cladall's claim ([para 4, 5]). The appeal arose from this decision, questioning the enforceability of the cited clauses.
+
+## I – Issues ([para 19])
+The issues before the court can be summarized as follows:
+
+1. **Applicability of Standard Conditions**: Whether SS was entitled to rely on clauses 6.4 and 7.3 of its Standard Conditions of Agreement as valid defenses against Cladall’s claim for damages ([para 19(a)]).
+  
+2. **Estoppel**: Whether Cladall had established estoppel against SS’s reliance on those clauses ([para 19(b)]).
+
+3. **Withholding Payment**: Whether Cladall was legally entitled to withhold payment for the delivered goods ([para 19(c)]).
+
+## R – Rules ([para 23–27])
+The court engaged with principles of contract law, particularly concerning the enforceability of contractual clauses when performance has not been met. The judgment reviewed the specific clauses cited by SS:
+
+- **Clause 6.4**: Related to the customer confirming satisfaction with the goods upon delivery.
+- **Clause 7.3**: Required notice of alleged defects within three days of their occurrence.
+- **Clause 11.1**: Prevented the customer from withholding payment for any reason ([para 3]).
+
+The court asserted that these clauses apply only in situations of defective performance, not where there is a total failure to perform the contract as specified ([para 25–26]).
+
+## A – Application ([para 23–27])
+The court's analysis emphasized that the sheeting delivered by SS did not meet the specifications outlined in the contract. As the goods delivered were not the products ordered, the court held that no contractual performance occurred. The judgment pointed out that clauses 6.4 and 7.3 are designed to address defective goods and thus could not excuse SS from liability for delivering entirely non-compliant goods ([para 24–26]). 
+
+Further, regarding estoppel (raised by Cladall), the court determined that this issue did not arise since the primary concern was whether SS could enforce the contract in the first place ([para 27]). Thus, as SS acknowledged its failure to deliver the correct goods, it could not justify its defenses cited in the counterclaim.
+
+## C – Conclusion ([para 27–28])
+The Supreme Court of Appeal ruled in favor of Cladall, overturning the trial court’s judgment. The court concluded that the clauses in SS's Standard Conditions did not apply due to the nature of the non-performance and therefore could not be utilized as defenses against Cladall's claim for damages. The court's order indicated that Cladall was entitled to withhold the payment for goods and decided that the remaining issues would necessitate further hearing ([para 28]). 
+
+This judgment underscores the essential principle that a seller cannot claim the protections of contractual clauses when it has fundamentally failed to fulfill its obligations under the contract. The decision reaffirms the need for substantive performance adhering to agreed specifications in contractual relationships. 
+
+### References
+- Cladall Roofing (Pty) Ltd v SS Profiling (Pty) Ltd (515/08) [2009] ZASCA 92 (14 September 2009).
+- South AfricanLaw Reports (SAFLII), accessed [URL].

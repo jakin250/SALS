@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: National Union of Mineworkers v Samancor Ltd (625/10) [2011] ZASCA 74
+
+## F – Facts
+The central facts of this case emerge from the employment situation involving Mr. Marifi Johannes Maloma, a furnace operator employed by Samancor Limited (hereafter "Samancor") since August 1996. On 20 March 2006, Mr. Maloma was arrested on suspicion of robbery, and after fourteen days, the charge was withdrawn. Following his release, he returned to work. However, on 20 May 2006, he was re-arrested on the same charge and subsequently detained for approximately 140 days until his release on bail ([1]).
+
+While Mr. Maloma was in detention, Samancor terminated his employment via a letter sent to the police station where he was held. As expected, he was not afforded a hearing prior to this termination, although a post-dismissal hearing was conducted after his release ([1]). During this hearing, Samancor opted not to reverse the termination ([1]).
+
+Disputing the fairness of his dismissal, Mr. Maloma sought recourse through arbitration facilitated by the Metal and Engineering Industries Bargaining Council, denoted as the second respondent. The arbitrator, Mr. Jan Stemmett (the third respondent), ruled that the dismissal was both substantively and procedurally unfair and ordered Mr. Maloma's reinstatement, effective November 2, 2006—this being the date of the post-dismissal hearing ([2]).
+
+Samancor then applied to the Labour Court to review and set aside the arbitrator's award, asserting that Mr. Stemmett committed a gross irregularity, exceeded his powers, and rendered an irrational award not supported by evidence ([3]). The Labour Court dismissed Samancor's application ([4]), but upon appeal, the Labour Appeal Court reversed this decision, declaring the dismissal substantively fair yet procedurally unfair, with Mr. Maloma receiving six months' remuneration in compensation ([4]).
+
+### Procedural History
+Mr. Maloma, represented by the National Union of Mineworkers (the first appellant), appealed the Labour Appeal Court's decision to the Supreme Court of Appeal ([4]).
+
+## I – Issues
+1. **What standard governs the review of arbitration awards in South Africa?** 
+2. **Did the Labour Appeal Court properly assess the merits of the case or did it misconceive its function in relation to the review of the arbitrator’s award?** 
+3. **Was the dismissal substantively fair, and did the arbitrator err in characterizing the reason for dismissal?** 
+4. **Were there sufficient grounds for the Supreme Court of Appeal to intervene despite the Labour Appeal Court's findings?** ([5]–[15]).
+
+## R – Rules
+The primary legal framework governing the case is encapsulated within the Labour Relations Act 66 of 1995. Important provisions include:
+1. **Section 145**: Allows the Labour Court to set aside an award for specified defects ([5]).
+2. **Section 185**: Guarantees every employee's right not to be unfairly dismissed ([9]).
+3. **Section 188**: Establishes that a dismissal is deemed unfair if not substantiated by a fair reason or if proper procedures are not followed ([9]).
+
+Relevant case law includes:
+- **Sidumo v Rustenburg Platinum Mines Ltd**: Established the principle that an arbitrator's award could be reviewed if it is one that “a reasonable decision-maker could not reach” ([5]).
+- **Carephone (Pty) Ltd v Marcus NO**: Supported the limited grounds for interference with arbitration awards ([5]).
+- **National Union of Metalworkers of SA v Fry’s Metals (Pty) Ltd**: Clarified the need for special circumstances to warrant intervention by the Supreme Court ([14]).
+
+## A – Application
+The Supreme Court of Appeal (SCA) assessed the validity of the Labour Appeal Court's intervention, emphasizing the limited scope of review concerning arbitration awards. It underscored the principle outlined in *Sidumo* that even if the reviewing court believes the award to be erroneous, interference is only permissible under strict conditions ([5]).
+
+Upon evaluating the Labour Appeal Court's reasoning, the SCA noted that it failed to comprehend the specific inquiries required under Section 145 of the Labour Relations Act. The central determination was whether the arbitrator's award was one that a reasonable decision-maker would not reach. The SCA observed that the Labour Appeal Court primarily focused on whether the dismissal was substantively fair rather than examining whether the arbitrator's decision constituted a reviewable defect ([6], [7]).
+
+Notably, the SCA found that the arbitrator had not only properly considered the facts but also articulated his rationale robustly, maintaining that the lack of evidence justifying Mr. Maloma's dismissal underscored its arbitrary nature ([12]). Despite disagreements over the categorization of the dismissal—as incapacity versus absenteeism—the SCA asserted that the decision made by Mr. Stemmett was not unreasonable regardless of the label applied. The SCA reiterated that the critical question remained whether Samancor had shown that Mr. Maloma’s continued employment would be untenable—something not adequately addressed by the Labour Appeal Court ([10], [12]).
+
+Ultimately, the SCA concluded that the Labour Appeal Court had misconceived its role by acting as a court of appeal rather than conducting a substantive review. Thus, the SCA decided that Samancor's application should not have prevailed, recognizing that the errors alleged by Samancor did not rise to the level of warranting the award's set aside ([16]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld Mr. Maloma's appeal, asserting that the Labour Appeal Court had erred in substituting its assessment for that of the arbitrator without just cause. The SCA reinstated Mr. Stemmett's original ruling, characterizing it as lawful and reasonable—a reflection of the procedural and substantive protections afforded under employment law. The court established that an employer must justify dismissals not merely on the grounds of absence but in the context of fairness and reasonableness considering the employee's circumstances. 
+
+The SCA's ruling amplifies important precedential principles regarding the sanctity of arbitration awards in the labor law context and emphasizes the minimum thresholds for dismissal, reinforcing protections afforded to employees even in complex cases of absences stemming from legal issues ([16]). The intervention, thus, provides critical guidance on maintaining fair employment practices, ensuring that employees retain protections from unjust dismissals.
+
+This ruling serves as a pivotal reminder of the standards of reasonableness required in assessments of dismissals and the limited grounds for review of arbitration awards in South Africa, reaffirming foundational employment protections established by the Labour Relations Act.

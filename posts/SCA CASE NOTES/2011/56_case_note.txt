@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Johannesburg City Parks v Mphahlani NO & Others [2011] ZASCA 56
+
+## F – Facts
+
+The case revolves around a dispute arising from the dismissal of Mr. Maguvhe, an employee of Johannesburg City Parks (the appellant), on 21 April 2005. He was represented by the South African Municipal Workers Union (SAMWU), the third respondent. After the dismissal, a dispute regarding its fairness arose, leading to formal proceedings before the South African Local Government Bargaining Council (SALGBC), the second respondent. 
+
+The appellant contested the jurisdiction of the SALGBC, asserting that a demarcation dispute was ongoing before the Commission for Conciliation, Mediation and Arbitration (CCMA) concerning whether the appellant fell within the SALGBC's registered scope ([paras 1–2]). Despite the appellant's notifications regarding its refusal to attend conciliation and arbitration meetings due to jurisdictional issues, the arbitrator, Ms. Webb (the fourth respondent), proceeded with the arbitration in the appellant's absence. The arbitrator subsequently issued a default award favoring Mr. Maguvhe ([paras 3–4]).
+
+In response, the appellant sought a review of the arbitration award in the Labour Court. The Labour Court dismissed the application, affirming the SALGBC's jurisdiction, a position upheld by the Labour Appeal Court (LAC) ([paras 5–6]).
+
+## I – Issues
+
+The primary legal question before the Supreme Court of Appeal was whether the arbitrator had jurisdiction to conduct the arbitration proceedings while a demarcation dispute was pending before the CCMA. This involved an interpretation of section 62(3A) of the Labour Relations Act 66 of 1995 (LRA) ([paras 6–10]). Specifically, the court needed to determine if the proceedings related to the interpretation or application of a collective agreement, which is a prerequisite under section 62(3A) for the arbitrator to adjourn the proceedings and refer the matter to the CCMA.
+
+## R – Rules
+
+The relevant legal rule comes from section 62(3A) of the LRA, which mandates that in cases where an arbitrator is confronted with a jurisdictional dispute concerning a collective agreement, the arbitrator must adjourn the proceedings and refer the question to the CCMA if:
+
+(a) the question raised has not previously been arbitrated under the section and is not under an agreement, and  
+(b) the determination is necessary for the purposes of the proceedings ([paras 6–7]).
+
+Additionally, section 191 of the LRA specifies procedural requirements for disputes regarding dismissals, indicating that jurisdictional questions affecting a bargaining council's authority to adjudicate must be resolved by the CCMA ([paras 21–25]).
+
+## A – Application
+
+The Supreme Court of Appeal's analysis centered on interpreting section 62(3A), specifically whether the proceedings were fundamentally about the interpretation or application of a collective agreement. The LAC had ruled that since the main dispute pertained to unfair dismissal, rather than the interpretation of a collective agreement, section 62(3A) did not apply ([paras 10–22]).
+
+However, the Supreme Court found that the distinction drawn by the LAC was misguided. The court pointed out that the essential issue was whether the arbitrator should have accepted jurisdiction considering the pending demarcation dispute. The court emphasized that an arbitrator must respect jurisdictional boundaries and cannot ignore objections raised regarding jurisdictional disputes ([paras 11–12]). The court held that since the determination of whether the appellant fell under the SALGBC’s jurisdiction was pending before the CCMA, the arbitrator was bound by section 62(3A) to adjourn proceedings, thus aligning with the legislative intention to prevent multiple litigations and procedural confusion ([paras 12–13]).
+
+Furthermore, the court noted that allowing the arbitrator to proceed despite a jurisdictional challenge would contradict the essence of the LRA, potentially leading to absurd outcomes where conflicting decisions could result from multiple forums reviewing the same issues ([paras 13–14]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded that the arbitrator had no jurisdiction to arbitrate the matter given the pending demarcation dispute. The court set aside the decisions of the Labour Court and the Labour Appeal Court, and ultimately the arbitration award made by the SALGBC was annulled. The appellant was awarded costs for the appeal ([paras 14–28]).
+
+The court’s ruling reinforces the crucial nature of jurisdictional determinations in labor disputes and the imperative interpretation of section 62(3A), establishing that arbitrators must strictly adhere to jurisdictional limitations, especially when challenges are explicitly presented. The judgment underscores the balance between procedural fairness in labor disputes and the necessity to resolve jurisdictional questions before substantive hearing takes place.

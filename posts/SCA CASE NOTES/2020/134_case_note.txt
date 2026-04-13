@@ -1,0 +1,74 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Pepkor Holdings Ltd and Others v AJVH Holdings (Pty) Ltd and Others; Steinhoff International Holdings NV and Another 
+
+### FIRAC Case Note
+
+**Neutral Citation:** Pepkor Holdings Ltd and Others v AJVH Holdings (Pty) Ltd and Others; Steinhoff International Holdings NV and Another (205/2020 and 217/2020) [2020] ZASCA 134 (21 October 2020)
+
+**Court:** Supreme Court of Appeal of South Africa
+
+**Coram:** Cachalia, Zondi, Mocumie, Schippers JJA, Goosen AJA
+
+**Key Words:** Interim Interdict, Res Litigiosa, Company Law, Fraud, Corporate Personality
+
+---
+
+### F – Facts: Relevant Background and Procedural History 
+
+[1] The appellants, comprising **Pepkor Holdings Ltd**, **Pepkor Speciality (Pty) Ltd**, and **Tekkie Town (Pty) Ltd** (collectively referred to as "the Pepkor entities"), sought to appeal an urgent interim interdict issued by the Western Cape Division of the High Court. The interdict restrained the appellants from freely dealing with their property pending the determination of a separate action initiated by the respondents, which included **AJVH Holdings (Pty) Ltd** and related entities, under case number 8276/2018.
+
+[2] Background emerged with Tekkie Town, which had 230 stores in South Africa and additional locations in Namibia and Lesotho. In 2016, **Steinhoff NV** procured Tekkie Town through a sale agreement, which was to include a contingent earn-out bonus agreement linked to Steinhoff's financial performance. 
+
+[3] The respondents, having sold 56.94% of Tekkie Town shares to Steinhoff, alleged subsequent misrepresentations by Steinhoff’s then-CEO regarding its financial position, leading them to claim redelivery of the shares or damages amounting to R1.854 billion.
+
+[4] Following the initiation of the main action, the respondents applied for an interim interdict to prevent the Pepkor entities from disposing of the Tekkie Town shares and business pending the resolution of their fraud claims. The interdict was issued by the high court without affording the appellants a proper chance to contest the draft order.
+
+[5] This appeal, therefore, concerns the validity of that interdict, particularly the appropriateness of applying the doctrine of **res litigiosa** concerning the appellants, who were not parties to the original action when the interdict was granted.
+
+---
+
+### I – Issues: Legal or Constitutional Questions 
+
+[6] The primary legal issues for determination were:
+
+1. **Whether the interdict granted by the high court was appropriate and justified, given that the Pepkor entities were not original parties to the main action.**
+2. **Whether the doctrine of res litigiosa applied to the assets owned by the Pepkor entities.**
+3. **Whether the interdict imposed limitations on Steinhoff NV’s right to manage its subsidiaries, particularly in terms of the principles of separate corporate personality and control under company law.**
+
+---
+
+### R – Rules: Legal Authorities and Precedents Relied Upon 
+
+[7] The court referenced several legal principles, including the doctrine of res litigiosa, which allows for the preservation of property that is the subject of litigation. To establish a basis for an interdict, certain criteria must be satisfied: the property must be the subject of the action, and the parties in the interim application must be the same as those in the main action ([19]).
+
+[8] Additionally, the court examined the principle of corporate personality under the Companies Act 71 of 2008, asserting that companies in a group are considered separate legal entities irrespective of the ownership structure and that subsidiaries operate independently of their parent company ([43]).
+
+[9] Authorities such as **Zweni v Minister of Law and Order** [1993] 1 All SA 365 (A) and **Knox D’Arcy Ltd v Jamieson** [1996] 3 All SA 669 (A) were pivotal in establishing the requirements for appealability and the boundaries of interdict applications.
+
+---
+
+### A – Application: Analysis of How the Court Applied the Law 
+
+[10] The Supreme Court of Appeal held that the high court erred by granting the interdict against appellants who were not parties to the main action and did not possess the Tekkie Town shares at that time ([20]).
+
+[11] The court scrutinized the application of res litigiosa, determining that it only applies when the property in question is the subject matter of the main action and the parties involved are the same. The court concluded that the shareholders did not have a lis with the respondents, as the shares had already been transferred to Pepkor long before the main action commenced ([25]).
+
+[12] With respect to the allegations of fraudulent behavior against Steinhoff and the claim of a labyrinthine fraud, the court emphasized that such serious claims should not compel the court to impose restraints on independently incorporated entities based on unproven allegations made in motion proceedings. It reiterated the need for appropriate evidence to support claims of fraud ([40]).
+
+[13] The judgment also underscored the necessity of providing reasons for judicial decisions, noting that a party must be given the chance to respond to claims or draft orders that deviate from original applications ([27]).
+
+---
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications 
+
+[14] The Supreme Court of Appeal upheld the appeals from the Pepkor entities and set aside the interdict. The decisive ruling articulated that, since the Pepkor entities were not parties in the original action, the high court's application of the res litigiosa doctrine was misapplied. The court reaffirmed the independence of legal entities within corporate structures in accordance with South African company law principles ([51]).
+
+[15] The implications of this ruling underscore the importance of strict adherence to legal principles governing corporate structure and the requirements for issuing interim interdicts. Further, it highlights the need for accurate procedural fairness in legal proceedings, aligning with the constitutional imperative for fair hearings ([14]).
+
+[16] The judgment not only clarifies the boundaries of corporate control and ownership but also establishes a precedent in ensuring that claims of fraud need substantiation before impacting the rights of non-party entities within corporate groups. 
+
+---
+
+This FIRAC note serves as a detailed analysis of the pivotal issues and rulings in Pepkor Holdings Ltd v AJVH Holdings, contributing to the scholarship on corporate law and interdict applications in South Africa.

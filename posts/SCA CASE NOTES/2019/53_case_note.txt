@@ -1,0 +1,73 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: FIRAC Method 
+
+## Case Title: 
+
+**CDH Invest NV v Petrotank South Africa (Pty) Ltd & Others (483/2018)**  
+[2019] ZASCA 53 (1 April 2019)
+
+## Court: 
+
+**The Supreme Court of Appeal of South Africa**
+
+## Bench:
+Ponnan and Saldulker JJA; Davis, Carelse, and Rogers AJJA
+
+## F - Facts:
+
+This case arises from the corporate governance of Petrotank South Africa (Pty) Ltd (hereinafter “Petrotank”) regarding the validity of a directors' resolution to increase the company's authorized shares ([para 1]). The appellant, CDH Invest NV (hereinafter “CDH”), and the second respondent, Amabubesi Investments (Pty) Ltd (hereinafter “Amabubesi”), held all issued shares in Petrotank in a 60/40 ratio against a backdrop of a shareholders agreement and a Memorandum of Incorporation (MOI) erroneously stating the number of authorized shares as 1,000 instead of 100,000 ([para 2]–[5]).
+
+In March 2014, a round robin resolution was initiated by CDH's directors to correct the stated error, proposing to increase the number of authorized shares from 1,000 to 1,000,000([para 8]). Despite objections from directors appointed by Amabubesi, the resolution was signed by the three CDH-nominated directors ([para 9]). Thereafter, the Companies and Intellectual Property Commission (CIPC) registered this amendment, and it became effective ([para 10]). 
+
+By June 2015, tensions between the parties escalated, leading to CDH's demand for a shareholders' meeting to address several resolutions, including the disputed increase in authorized shares ([para 12]). The Gauteng Division of the High Court dismissed those applications, leading to the current appeal concerning only the validity of the fifth resolution ([para 3]).
+
+## I - Issues:
+
+The case presents several key legal issues:
+
+1. **Validity of the Resolution** – The main issue is whether the directors' round robin resolution to increase the company's authorized shares was valid given the circumstances surrounding its adoption ([para 13]).
+   
+2. **Directors' Fiduciary Duties** – A secondary issue pertains to whether the directors violated their fiduciary duty by failing to act in good faith and for a proper purpose when proposing this increase ([para 13]).
+   
+3. **Procedural Concerns** – There are procedural questions regarding the sufficiency of notice provided to all directors and whether the objections raised by Amabubesi’s directors were adequately addressed ([paras 14]–[16]).
+
+## R - Rules:
+
+The legal framework governing this case is primarily the **Companies Act 71 of 2008**. Key provisions include:
+
+- **Section 74**: This section allows for directors to adopt resolutions via written consent provided all directors receive notice of the matter to be decided. The court emphasized the importance of this notice for informed decision-making among directors ([paras 20]–[21]).
+  
+- **Section 36**: This section discusses the increase and decrease of a company's authorized shares, clarifying that the board can make such decisions unless restricted by the MOI ([paras 18]).
+
+- **Section 76(3)**: This section delineates the fiduciary duties of directors, affirming their obligation to act in good faith and for a proper purpose ([para 24]).
+
+Historical references to **pre-2008** Companies Act legislation underline the shift in authority from mandatory general meetings to increased powers granted to directors, reflective of a modernized corporate governance approach ([para 18]).
+
+## A - Application:
+
+The Supreme Court of Appeal began its analysis by agreeing with the High Court's finding that the resolution was fundamentally invalid due to breaches of fiduciary responsibility ([para 13]). Specifically, the court examined whether the motivation behind the resolution warranted its adoption. 
+
+1. **Lack of Justification**: The resolution to increase the authorized shares was deemed lacking in justification, particularly since the stated purpose—to correct an error—was not aligned with the actual action taken, which raised the authorized shares significantly beyond the agreed upon amount ([paras 20]–[23]).
+  
+2. **Directors' Conduct**: The actions of the CDH-nominated directors were consistently scrutinized; the court noted their knowledge of conflicting claims and the apparent intent to misrepresent the purpose of the resolution ([paras 22]–[24]). The failure to adequately respond to or address the objections raised by Amabubesi reinforced the perception that the resolution was not in the best interest of the company.
+
+3. **Resolving Procedural Issues**: The appeal court concluded that the procedural deficiencies related to the notice and transparency required under Section 74 further compromised the validity of the directors' resolution ([paras 20]–[21]).
+
+Thus, the court affirmed the High Court's judgment regarding the invalidity of the resolution and its consequential impact on the necessitated shareholders meeting ([para 25]).
+
+## C - Conclusion:
+
+In conclusion, the appeal was dismissed with costs, affirming that the directors of CDH acted beyond their authority by enacting a resolution lacking substantive justification and in violation of their fiduciary duties ([paras 25]–[26]). This decision underscores the need for adherence to procedural propriety in corporate governance and mandates that directors maintain transparency and integrity when making decisions that substantially impact company structure and shareholder rights. 
+
+This ruling reinforces the legal standards directors are required to meet, reflecting the balance between authority and accountability in corporate affairs, particularly in instances involving minority shareholders. It establishes a cautionary precedent against using corporate resolutions to effectuate potentially misleading practices detrimental to other shareholders.
+
+---
+
+**References:**
+
+- Companies Act 71 of 2008. 
+- CDH Invest NV v Petrotank South Africa (Pty) Ltd & another [2017] ZAGPJHC 324; 2018 (3) SA 157 (GJ).
+- M S Blackman, ‘Directors’ Duties to Exercise their Powers for an Authorised Purpose’ (1990) 2 S A Merc LJ 1.
+- African Organic Fertilizers and Associated Industries Limited v Premier Fertilizers Ltd 1948 (3) SA 233.

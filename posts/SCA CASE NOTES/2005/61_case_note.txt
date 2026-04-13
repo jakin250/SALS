@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# Case Note: AxiAM Holdings Ltd v Deloitte & Touche
+
+**FIRAC Method**
+
+## F - Facts
+In the case *AxiAM Holdings Ltd v Deloitte & Touche* ([1]-[2]), the appellant, Axiam Holdings Ltd (Axiam), appealed against a decision of the Johannesburg High Court that partially upheld exceptions to its particulars of claim against the respondent, Deloitte & Touche (Deloitte). Axiam sought damages totaling R241,069,222.43 following an alleged negligent audit conducted by Deloitte on the financial statements of The Business Bank Limited (TBB) for the financial year ending 31 March 1999. 
+
+The crucial facts establish that TBB had engaged Deloitte, a registered auditing firm, to audit its financial statements. After conducting the audit, Deloitte issued a report certifying the financial statements reflected a sound financial position, which was allegedly misleading. The report stated the company had a net profit of R29,266,176, whereas it actually faced a net loss of R77,899,201. Deloitte's audit failed to account for significant bad debts and included non-existent income, which formed the basis of Axiam’s claim ([3]-[5]).
+
+Deloitte was aware or should have been aware that the financial statements would influence companies within the PSG group, which were transacting with TBB based on these records ([6]). Consequently, Deloitte had a duty to disclose any inadequacies in the audit. Axiam's claim ultimately arose from a ceded right to recover damages resulting from Deloitte's alleged negligent misstatement by omission, which Axiam contended formed a representation that the financial statements were accurate ([7]).
+
+## I - Issues
+The court was confronted with several key legal questions: 
+1. Did Deloitte owe a legal duty to the companies within the PSG group based on their reliance on the audit report when concluding financial transactions? 
+2. Was Deloitte's failure to warn PSG about the discrepancies in the financial statements sufficient to constitute actionable misrepresentation under section 20(9)(b)(ii) of the Public Accountants and Auditors Act 80 of 1991? 
+3. Is it premature to determine the issue of wrongfulness at the exception stage regarding Deloitte's misstatement ([8]-[10]).
+
+## R - Rules
+The relevant legal provisions were primarily found in the Public Accountants and Auditors Act (PAA Act) 80 of 1991. Particularly, section 20(9)(b)(ii) outlines the conditions under which an auditor may incur liability for negligent performance, specifying that an auditor can be liable to third parties if it is established that they knowingly misrepresented the accuracy of their statements after the audit ([14]-[24]).
+
+Additionally, precedents such as *Standard Chartered Bank of Canada v Nedperm Bank Ltd* ([11]) were cited, illuminating a broader common law context where auditors’ liability is assessed based on their relationships with third parties and the foreseeability of reliance on their statements. The court also referred to the necessity of establishing that an omission (failure to act) constituted a misrepresentation, which hinges on whether there was a duty to speak ([15]-[16]).
+
+## A - Application
+In applying these rules, the court acknowledged that Deloitte had made a prior negligent certification concerning TBB's financial health. Axiam contended that Deloitte’s silence post-issue of the audit report, in light of knowing or reasonably being expected to know the inaccuracies, constituted a legal duty to correct the misrepresentations or forewarn third parties ([17]-[20]). 
+
+The court evaluated whether a reasonable auditor in Deloitte's position would have kept silent or expressed reservations about the inaccuracies in the financial statements. It was determined that such silence in the context implied a duty to speak given the gravity of the misrepresentation, which could closely approximate fraudulent conduct ([17]-[22]).
+
+By framing the argument in terms of the prospective legal duty, Navsa JA posited that the question of the auditor's liability was not simply theoretical or speculative at the exception stage. Thus, it highlighted that the failure to act—in this instance, the failure to issue a warning or amendment concerning the audit report—could be construed as wrongful ([24]-[26]).
+
+## C - Conclusion
+The Supreme Court of Appeal upheld Axiam's appeal, stating that Deloitte’s exceptions were improperly sustained. The court found the notion that the particulars of claim were not sustainable at the exception stage to be premature, allowing for further examination of the facts at trial to substantiate a legal duty of care owed by an auditor to third parties ([26]). 
+
+The ruling signifies potential implications for auditing practices and highlights the complex balancing act auditors must maintain between their duties to clients and the greater public interest, reinforcing the concept that negligent misrepresentation may confer liability even in the absence of a direct contractual relationship with the aggrieved third parties. It illustrates the evolving nature of auditor liabilities, particularly concerning their responsibilities toward third parties reliant on financial representations ([27]-[32]).

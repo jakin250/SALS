@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+**FIRAC Case Note**
+
+**Case Title**: Coral Lagoon Investments 194 (Pty) Ltd and Another v Capitec Bank Holdings Limited (Case no. 887/2021) [2022] ZASCA 144 (24 October 2022)
+
+**Court**: Supreme Court of Appeal of South Africa
+
+**Coram**: Zondi, Gorven, Hughes JJA, Windell, and Chetty AJJA
+
+---
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–12], [33–48])
+
+In this case, Coral Lagoon Investments 194 (Pty) Ltd ("Coral") and its holding company, Ash Brook Investments 15 (Pty) Ltd ("Ash Brook"), appealed against an order from the Western Cape Division of the High Court that compelled them to withdraw a 2020 action for damages against Capitec Bank Holdings Limited ("Capitec"). The central issue arose from a written consent agreement, which contained a pactum de non petendo—an agreement not to institute legal proceedings, which the High Court found the appellants had breached by commencing the 2020 action ([para 1]).
+
+The dispute traced back to a series of agreements made in 2006 between the appellants and Capitec aimed at promoting Black Economic Empowerment (BEE) under the Broad-Based Black Economic Empowerment Act 53 of 2003 ([para 3]). A critical element was clause 8.3, which placed restrictions on the sale of shares by Coral, requiring Capitec's consent for any transaction that would not further BEE objectives ([para 5]). Following a decline in relations, Coral, in 2017, sought to sell shares to Petratouch (Pty) Ltd, subject to Capitec’s consent, which was granted under specific conditions, resulting in the consent agreement that included the contentious pactum ([paras 8–10]).
+
+The underlying legal action was initiated in June 2020, in which Coral alleged that they suffered financial losses due to Capitec's conduct regarding the sale of shares from the 2017 transaction, seeking damages amounting to R 1.225 billion ([para 11]). Capitec's position was that the appellants had agreed, under the consent agreement, not to pursue legal claims related to this transaction, thus compelling them to withdraw the 2020 action ([para 12]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 2, 28–30], [35–48])
+
+The principal legal issues for determination in this appeal included:
+
+1. How to interpret the provisions within the consent agreement, particularly clauses 7.1.6.1 and 7.1.6.2, which detailed the appellants' obligations regarding litigation related to the 2017 Petratouch Transaction.
+2. Whether the enforcement of the pactum was contrary to public policy, specifically with regard to the constitutional right of access to the courts as enshrined in Section 34 of the Constitution of South Africa.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 13–20], [35–46])
+
+The ruling on the matter was founded upon established interpretations of contractual obligations and principles of public policy. The Supreme Court of Appeal considered:
+
+1. The general rules of contractual interpretation, which require an objective analysis of the language used, considering context and purpose ([para 15]). This was analogous to the principles in *Natal Joint Municipal Pension Fund v Endumeni Municipality* [2012] ZASCA 13, highlighting the need to read the agreement as a whole ([para 15]).
+2. The legal tenets surrounding pactum de non petendo anticipando, acknowledged within South African law, that while enforceable, its application should be context and fact-dependent ([para 30]).
+3. The constitutional framework provided by Section 34, as interpreted in matters such as *Lufuno Mphaphuli & Associates Pty Ltd v Andrews* [2009] ZACC 6, regarding the limits on waiving access to courts ([para 36]).
+4. Considerations regarding public policy, referencing *Barkhuizen v Napier* [2007] ZACC 5 and *Beadica 231 CC and Others v Trustees for the time being of the Oregon Trust* [2020] ZACC 13, which discuss the balance required between contractual freedom and constitutional rights ([para 38]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 21–48])
+
+In analyzing the consent agreement's clauses, the court found that the wording of clauses 7.1.6.1 and 7.1.6.2 explicitly prohibited any use of the 2017 Petratouch Transaction in legal proceedings against Capitec, thereby justifying the High Court's enforcement of the pactum ([paras 14–20]). 
+
+The court emphasized that rather than reflecting a mere warranty, clause 7.1.6.2 represented a contractual undertaking to refrain from litigation under specified circumstances. This was a significant distinction that informed the court's assessment regarding the validity of the consent ([paras 21–25]).
+
+On the issue of public policy, the appellants’ argument that clause 7.1.6.2 ousted their right to access the courts was rejected. The court identified that the appellants were fully informed, represented by legal counsel, and had the necessary sophistication to understand the consent agreement when it was entered into ([paras 40–43]). Their BEE shareholder status, while acknowledged, did not substantively alter the legal implications of their contractual decisions ([para 45]).
+
+The court ultimately reasoned that the pactum, being operational in perpetuity, did not contravene public policy. It held that the enforcement of contractual agreements freely made should be upheld in light of the constitutional values of freedom and dignity, alongside the autonomy of parties to negotiate terms ([para 48]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 49–50])
+
+The Supreme Court of Appeal dismissed the appeal on the merits, thereby upholding the High Court's order compelling the appellants to withdraw the 2020 action against Capitec. The ruling affirmed the enforceability of a pactum de non petendo in anticipando as aligning with public policy and reflecting the freedom to contract within a constitutional context. 
+
+The implications of this judgement reinforce the legal binding of contractual agreements, particularly within the domain of BEE transactions, and underscore the court's approach to interpreting clauses that limit litigation, emphasizing that parties must be cognizant and competent when entering such agreements. The decision also serves to clarify the permissible boundaries around public policy in the context of freely negotiated contracts in South Africa, avoiding the pitfalls of excessive judicial intervention that could stifle contractual autonomy.

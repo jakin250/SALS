@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2000
+
+# FIRAC Case Note: Schlumberger Logelco Inc v Coflexip SA [2000]
+
+## F – Facts
+
+The case in question, Schlumberger Logelco Inc v Coflexip SA, was brought before the Supreme Court of Appeal of South Africa under case number 700/98. The central issue was whether a South African patent could be infringed through the installation of a pipeline for transferring substances from the seabed to a research, exploration, or production platform situated within the exclusive economic zone. The appellant, Schlumberger Logelco Inc, contested the claim initiated by the respondent, Coflexip SA, who was the patentee of South African Patent 89/1418, which pertained to an apparatus for transferring fluid, specifically oil extracted via subsea deposits ([para 1–2]). 
+
+The disputed acts of infringement took place at the Soekor Field Development Project, located 95 nautical miles off the South African coast and within the country’s exclusive economic zone ([para 2]). The appellant argued that South African patents cannot be infringed in the exclusive economic zone, prompting the respondent's counterclaim based on this patent infringement ([para 2]).
+
+The legal framework governing the patent's territoriality is provided by the Patents Act 57 of 1978, which grants the patentee exclusive rights to their invention "in the Republic" ([para 3]). However, neither the term "Republic" nor "exclusive economic zone" is defined within the Act, leading to interpretive disputes ([para 4]). The broader context is informed by international law and domestic legislation, including the Maritime Zones Act 15 of 1994, which delineates the territorial sea and exclusive economic zone and asserts that South African law applies in these maritime areas ([para 5–6]).
+
+## I – Issues
+
+The principal issue determined by the court involved the interpretation of the Patents Act in conjunction with the Maritime Zones Act, particularly focusing on whether the rights conferred by the Patents Act extend to infractions occurring within the exclusive economic zone of South Africa ([para 1]). The case also raised questions regarding the compatibility of these legal frameworks and highlighted specific statutory provisions, such as section 71 of the Patents Act, which provides exemptions for "convention vessels" but raises interpretative challenges when applied in the context of installations situated outside territorial waters but within the exclusive economic zone ([para 8–10]).
+
+## R – Rules
+
+1. **Patents Act 57 of 1978**:
+   - Section 45(1) grants the patentee the rights to exclude others from making, using, or exploiting their invention "in the Republic" ([para 3]).
+   - Section 71(1) outlines exceptions to infringement for convention vessels temporarily using a patented invention in South African waters ([para 8–9]).
+
+2. **Maritime Zones Act 15 of 1994**:
+   - Sections 4 and 7 delineate territorial waters and the exclusive economic zone, specifying that South African laws apply within both maritime areas ([para 5–6]).
+   - The Act defines "installation" broadly, encompassing pipelines and other structures utilized in the exploration or exploitation of the seabed ([para 7]).
+
+3. **International Treaties**:
+   - The United Nations Convention on the Law of the Sea (LOSC) serves as a pivotal reference, affirming that coastal state sovereignty extends to adjacent maritime zones ([para 4]).
+
+The court also considered perspectives from the Paris Convention for the Protection of Industrial Property and the implications of the Trade-Related Aspects of Intellectual Property Rights (TRIPS) agreement, recognizing tensions between patent enforcement and freedom of navigation on the high seas ([para 12–13]).
+
+## A – Application
+
+In its application of these rules, the court began by affirming the principle that the Patents Act applies to installations within the exclusive economic zone, as it falls under the jurisdiction of "any law in force in the Republic" ([para 8]). The court comprehended that, while Section 71 provides exceptions for convention vessels, these do not extend to installations — including pipelines — used for patent-related activities within the exclusive economic zone ([para 10]).
+
+The court systematically analyzed the appellant's argument, which posited an anomaly between the statutes, suggesting that the Maritime Zones Act effectively nullified the applicability of the Patents Act to infringing actions within the exclusive economic zone ([para 11]). However, the court found this line of reasoning flawed, emphasizing the coherent functionality of both statutes without any necessary implication of reinterpretation required by the context of maritime law versus patent law ([para 12–13]).
+
+Ultimately, the court held that the existing legal frameworks did not present a direct conflict and that the Maritime Zones Act did not limit the applicability of patent rights concerning actions taken in positioning patented installations within the exclusive economic zone. Thus, the request to dismiss the patent infringement claim was denied, confirming that such actions did indeed infringe upon the respondent’s patent rights ([para 14]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal delivered a decisive ruling, dismissing the appeal and affirming the lower court's findings that infringement of a South African patent could occur within the nation's exclusive economic zone ([para 14]). This holding addressed the legal ambiguity surrounding the application of patent rights in maritime contexts and reinforced the stance that South African patent laws are enforceable not only within territorial waters but also in the exclusive economic zone, thereby providing adequate protection for patentees in contemporary maritime operations.
+
+This ruling holds significant implications for future cases involving patent rights and offshore installations, reinforcing the clear applicability of patent laws beyond terrestrial boundaries and potentially informing legislative adjustments to align South African law with international treaties, thus ensuring the protection of intellectual property rights in increasingly globalized maritime industries.

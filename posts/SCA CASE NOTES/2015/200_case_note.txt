@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: **Tasima (Pty) Ltd v Department of Transport (792/2015)**
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–2])
+
+The dispute centers on a turnkey agreement between **Tasima (Pty) Ltd** (Appellant) and the **Department of Transport** (First Respondent), initiated on 3 December 2001 for the implementation of the **National Traffic Information System** (eNaTIS), crucial for managing various aspects of vehicle licensing and road traffic administration ([para 1]). Despite an initial termination date of 31 May 2007, Tasima sought to extend the contract, citing its complexity and strategic importance. An extension was reluctantly approved by the then Director-General, **Mr. Mahlalela**, which the Department later contested² ([para 8]).
+
+Substantial turmoil ensued as the Department attempted to retract the extension, asserting that the contract had lapsed and that efforts to transition eNaTIS to the Department itself were justified. Tasima, perceiving this as a breach of multiple court orders demanding adherence to the agreement, sought a declaration of contempt against several respondents for disobeying judicial orders ([paras 11–12]).
+
+Initially dismissed by the High Court, Tasima appealed the ruling which upheld the Department’s counter-application, aiming to invalidate the extension ([para 2]). The High Court found the extension illegal based on a failure to follow due procurement processes as outlined in constitutional and statutory frameworks, leading to contempt applications by Tasima ([para 13]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 13–19])
+
+1. **Contempt of Court**: The primary legal issue was whether the respondents were in contempt of multiple court orders. Tasima posited that non-compliance with these orders by the Department and RTMC constituted clear defiance of the court’s authority ([para 16]).
+   
+2. **Validity of Extension**: A significant secondary issue revolved around the validity of the contract extension and whether the subsequent counter-application had merit given the time constraints imposed under the **Promotion of Administrative Justice Act (PAJA)**. This included an evaluation of whether a collective defense of illegality could shield the respondents from contempt ([para 14–15]).
+
+3. **Judicial Process Integrity**: The case implicates broader concerns about the integrity of judicial processes, particularly regarding government compliance with court orders, and the applicable standard of proof in civil contempt claims ([para 18]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 13–20])
+
+1. **Court Orders and Compliance**: The principle laid down in *Fakie NO v CCII Systems (Pty) Ltd* is pivotal; it stipulates that non-compliance with a court order is grounds for contempt, necessitating proof of awareness of the order, non-compliance, and wilful intent ([para 18]).
+
+2. **Administrative Law Fundamentals**: The legal framework of the unlawful extension heavily references statutory provisions including **s 217 of the Constitution** (governing public procurement standards) and provisions of the **Public Finance Management Act (PFMA)**, which outline requisite procurement practices that were purportedly neglected in extending the contract ([para 14]).
+
+3. **Collaterals and PAJA**: The rules concerning collateral challenges, particularly the timeliness provisions in **s 7 of PAJA**, were invoked. The court is inclined to dismiss challenges that fail to adhere to these legislated timelines, with implications regarding the finality of administrative decisions ([para 24]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 16–39])
+
+The court focused on the following crucial aspects while applying the law:
+
+1. **Establishing Contempt**: The court found that Tasima met the burden of proof regarding contempt as the Department and its officials were clearly aware of the court orders. The argument from the respondents that they were merely preparing for a transfer was deemed unconvincing, as it demonstrated an underlying intent to divert operational authority away from Tasima in violation of court directives ([para 20])[^1].
+
+2. **Illegality of the Extension**: The court scrutinized the Department's counter-application but concluded that declaring the extension illegal did not negate the obligation to comply with previous court orders. The legal precedent established that conflicting evaluations of an extension's legitimacy do not undo the enforceability of a court order based upon that contract ([para 16],[para 24]). The court clarified that until set aside, orders must be obeyed regardless of subsequent legal challenges to the underlying contract ([para 16])[^2].
+
+3. **Effect of Delay Under PAJA**: The Department's claim of a collateral challenge faced substantial hurdles. Citing precedents, the Court reinforced that public authorities are bound by statutory time limits relating to judicial review and cannot circumvent these through collateral mechanisms simply to avoid accountability ([para 27],[para 32]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 39–40])
+
+The Supreme Court of Appeal upheld the appeal, significantly overturning the lower court’s decision. The findings affirmed the Department's contempt of court and mandated the strict compliance with the court’s prior orders regarding the management of eNaTIS ([para 39]). The court determined:
+
+1. The ongoing obligations under existing court orders persisted despite challenges to the contract.
+2. The respondents’ failure to comply with established legal standards invites accountability, reaffirming that executive officials must act within legal parameters and respect judicial authority.
+
+The implications of this ruling extend into broader administrative law principles in South Africa, reinforcing the necessity for confidence in the judicial process as a means of limiting the arbitrary exercise of governmental power and protecting contractual rights ([para 40]). Courts maintain an essential role in ensuring adherence to judicial directives, laying down a strong precedent for future claims involving government compliance with court orders.
+
+---
+
+*References*:
+1. *Fakie NO v CCII Systems (Pty) Ltd* (2006) 4 SA 326 (SCA) para 9.
+2. *Minister of Transport NO & another v Prodiba (Pty) Ltd* [2015] 2 All SA 387 (SCA).
+3. *Kouga Municipality v Bellingan & others* 2012 (2) SA 95 (SCA).
+4. *Oudekraal Estates (Pty) Ltd v City of Cape Town & others* 2004 (6) SA 222 (SCA). 
+
+This case note serves as a distilled analysis of critical judicial reasoning, relevant laws, and procedural contexts pertaining to the Tasima case, ensuring a robust academic resource for ongoing constitutional law discourse in South Africa.

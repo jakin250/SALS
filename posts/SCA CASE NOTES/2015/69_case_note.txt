@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: African Banking Corporation of Botswana v Kariba Furniture Manufacturers & Others
+
+## F - Facts
+The case revolves around **African Banking Corporation of Botswana Ltd** (the appellant) and **Kariba Furniture Manufacturers (Pty) Ltd** (the first respondent), along with several other respondents, concerning business rescue efforts initiated by the latter. The background includes a series of financial troubles involving Kariba, which led the bank to sue for debts accumulated under a credit facility. The bank was awarded a claim of approximately **BWP 5,610,125.38**, which later swelled to **BWP 14,966,809.20** by **January 31, 2012** ([2], [3]).
+
+On the same day, a resolution to begin voluntary business rescue proceedings was adopted by Kariba's directors, the Nchites. Following this, a business rescue practitioner, **Jean Pierre Jordaan**, was appointed. Subsequently, creditor meetings were held where the absence of audited financial statements and unresolved concerns prevented a consensus on a proposed business rescue plan ([4], [5], [9]).
+
+At the second creditors' meeting on **March 26, 2012**, a so-called "binding offer" was made by the shareholders to purchase the bank's voting interest. The practitioner ruled that this offer was binding and that the bank could not respond. This led to Kariba's creditors, excluding the bank, approving the rescue plan ([6], [8]).
+
+Dissatisfied, the bank sought to challenge this approval, arguing that a *binding offer* did not equate to an acceptance without their consent and that the rescue plan lacked reasonable prospects for success due to Kariba’s prolonged inactivity and financial state ([7], [9], [30]).
+
+The trial court dismissed the application, leading the bank to appeal ([9]).
+
+## I - Issues
+The appeal raised two primary legal questions:
+1. **Interpretation of “Binding Offer”**: The pivotal issue was whether a *binding offer* made under **s 153(1)(b)(ii)** of the **Companies Act 71 of 2008** was automatically binding on the offeree without their acceptance ([1], [12][19]).
+   
+2. **Reasonable Prospects of Business Rescue**: Whether the rescue proceedings initiated had reasonable prospects for success, justifying the resolutions adopted during those proceedings ([10], [27]).
+
+## R - Rules
+The applicable legal framework is found within the **Companies Act 71 of 2008**, specifically:
+- Section 153(1)(b)(ii), which discusses *binding offers* made to a creditor who votes against a rescue plan after a rejection has occurred. The legislature aimed to facilitate business rescue while balancing creditors' rights ([12], [15], [19]).
+- Additionally, the fundamental interpretation of ‘offer’ in South African law underscores that an offer must evoke a potential for acceptance, and the terms must be clear and complete for it to be enforceable ([18], [20]).
+
+## A - Application
+### Binding Offer
+The court critically analyzed the legal definition of a *binding offer*. It rejected the lower court's assertion that the term connoted an automatic binding nature upon the offeree. Dambuza AJA highlighted that the common understanding of an offer—a proposal that awaits acceptance—must prevail. The lack of clarity in the offer, including the failure to specify the purchaser and the terms, invalidated any notion of it constituting a binding offer ([19], [20], [21]).
+
+In the absence of a properly constituted offer, the appellate court found that the bank had not been legitimately deprived of its voting rights ([25], [54]). Thus, any resolutions or approvals resulting from an incorrect assumption of the binding offer’s nature were rendered void. 
+
+### Reasonable Prospects of Success
+With regard to the reasonable prospects for rescuing Kariba, the court found that there was no basis for the belief that any form of rehabilitation could occur. Kariba had not conducted business for several years and had not provided substantial evidence to support the viability of the rescue plan ([31], [34]). This was compounded by the outdated financial statements and a lack of credible operational plans, making the claim of a *reasonable prospect* entirely unsubstantiated ([26], [32]).
+
+## C - Conclusion
+The Supreme Court of Appeal ruled in favor of the appellant, determining that:
+1. The “binding offer” made on **March 26, 2012**, did not constitute a binding agreement due to its vagueness and lack of terms.
+2. Consequently, the resolutions regarding the initiation of business rescue proceedings and the approval of the business rescue plan were declared invalid ([40], [54]).
+
+This case clarifies that in the context of South African company law, while the legislative intent is to facilitate business rescues, basic principles of contract and clarity in offers are paramount for protecting creditors' rights. The ruling underscores the importance of due diligence and clarity in financial dealings and the procedural conduct expected from business rescue practitioners ([40], [54]).

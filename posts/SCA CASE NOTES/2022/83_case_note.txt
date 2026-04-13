@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Rennies Travel (Pty) Ltd v SARS [2022] ZASCA 83
+
+## FIRAC Method
+
+### F – Facts ([paras 1–2])
+Rennies Travel (Pty) Ltd (the "Appellant") is a travel agency involved in arranging international flights and selling airline tickets. The Appellant derives its income from three sources: a service fee from clients, standard commissions from airlines on ticket sales, and a supplementary commission based on achieving specific sales targets set with the airlines ([para 1]). 
+
+The Commissioner for the South African Revenue Services (the "Respondent") assessed that the Appellant was liable for Value-Added Tax (VAT) on the supplementary commissions earned between February 2012 and December 2016, leading to additional VAT assessments issued against the Appellant. The Appellant argued that these commissions should be zero-rated as they related to services supplied under the Value-Added Tax Act 89 of 1991 (the "VAT Act") ([para 2]).
+
+The Tax Court ruled in favor of the Respondent but granted leave to appeal, prompting the Appellant to file a notice of appeal ([para 2]).
+
+### I – Issues ([paras 3–5, 8–14])
+The central legal issues in this case are:
+
+1. **Timeliness of Notice of Appeal:** Whether the Appellant's notice of appeal was lodged within the stipulated time frame as per the relevant rules of the Supreme Court of Appeal (SCA) and the provisions of the Tax Administration Act 28 of 2011 ([paras 3–5]).
+   
+2. **Application of VAT to Supplementary Commission:** Whether the supplementary commission qualifies for zero-rating under sections 11(2)(a) and (d) of the VAT Act, specifically in relation to the nature of the services provided by the Appellant ([paras 8–14]).
+
+### R – Rules ([paras 6–8])
+The relevant legal provisions include:
+
+- **VAT Act, Section 7(1)(a):** VAT is levied on supplies of goods or services in the course of conducting an enterprise ([para 6]).
+  
+- **Definition of "Supply" and "Services" (VAT Act):** A supply involves a performance under various agreements, including sales. The definition of 'services' includes anything done or to be done ([para 7]).
+
+- **Zero-Rating Provisions (VAT Act, Section 11(2)(a) and (d)):** Specifically, it states that the supply of services for the transport of passengers or goods can be zero-rated if they meet certain conditions, including arrangements made for international travel ([para 8]).
+
+### A – Application ([paras 9–17])
+1. **Timeliness of Notice of Appeal:** 
+   The Court noted a conflict between the Tax Administration Act, which allows 21 business days for a notice of appeal to be lodged ([para 4]), and the SCA's Rule 7, which stipulates one month. The Court held that national legislation (the Tax Administration Act) prevails over subordinate legislation (the SCA rules). Thus, the notice of appeal was timely lodged, and no condonation was required ([paras 3–5]).
+
+2. **Application of VAT to Supplementary Commission:** 
+   The Court found that the taxable nature of a supply of services determines VAT liability. The Respondent’s arguments focused on the supplementary commission being an incentive tied to sales targets, but this failed to acknowledge that no supply of services could exist without proper identification ([para 15]). 
+
+   The Court concluded that both standard and supplementary commissions were remuneration for arranging transport services, thus both fall under the same definition and qualify for zero-rating under the VAT Act ([paras 16–17]). The supplementary commission, therefore, was also entitled to the same treatment as the standard commission, ensuring the appeal would succeed ([para 17]).
+
+### C – Conclusion ([paras 18–19])
+The Supreme Court of Appeal upheld the Appellant's appeal and set aside the tax court's assessments regarding the supplementary commissions ([para 19]). The Court determined that the Appellant's supplies qualified for zero-rating under the VAT Act, affirming that sales commissions for arranging the transport of international passengers did not attract additional VAT. 
+
+The decision underscores the principle that where the nature of services remains unchanged, the applicable VAT treatment should be consistent. This case highlights the critical examination of both legislative provisions governing VAT and the procedural steps in tax assessments, clarifying significant areas surrounding the assessment and treatment of commissions in relation to VAT. 
+
+The implications of this case extend to tax practice in South Africa, stressing the need for careful interpretation of statutory provisions as they pertain to the VAT legislation and the administrative powers of tax authorities.
+
+---
+
+*This case note is prepared for academic and legal citation purposes. Legal professionals and scholars should refer to the official judgment and relevant statutory provisions for detailed legal analytics.*

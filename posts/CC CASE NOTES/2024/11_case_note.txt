@@ -1,0 +1,63 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Coronation Investment Management SA (Pty) Limited v Commissioner for the South African Revenue Service [2024] ZACC 11
+
+**FIRAC Case Note**
+
+## F – Facts
+
+The case stems from the income tax obligations of Coronation Investment Management SA (Pty) Limited (CIMSA) regarding its foreign subsidiary, Coronation Global Fund Managers (Ireland) Limited (CGFM), for the 2012 tax year ([para 3]). The context of this legal dispute is framed by South Africa's transition towards a residence-based tax system through a legislative amendment in 2001, leading to increased activity among South African investors in establishing offshore entities ([para 1]). 
+
+### Legislative Framework 
+
+CGFM operates under section 9D of the Income Tax Act (58 of 1962), which deals with the taxation of South African taxpayers on their foreign income, particularly income derived from controlled foreign companies (CFCs) ([para 2]). Section 9D(2) includes provisions that impute net income from a controlled foreign company to the South African parent company, subject to certain exemptions, notably if the income is derived from a "foreign business establishment" (FBE) ([paras 7–9]).
+
+### Assessment History
+
+SARS assessed CIMSA’s tax liability to include CGFM’s entire net income, claiming that CGFM did not qualify as an FBE since its core functions were outsourced ([para 4]). The Tax Court initially ruled in favor of CIMSA, agreeing that CGFM did meet the requirements for an FBE exemption ([para 22]). This decision was later overruled by the Supreme Court of Appeal, which found that CGFM's operations lacked the necessary economic substance and did not fulfill the primary business activities within Ireland, leading to a further appeal by CIMSA to the Constitutional Court ([paras 5, 25]).
+
+## I – Issues
+
+The primary legal issue presented was the interpretation of "business" and "primary operations" concerning the FBE definition within section 9D ([para 10]). This question raises several sub-issues, including:
+
+1. Whether the term "business" can encompass operations that a company chooses to outsource.
+2. How "primary operations" should be determined in relation to the activities conducted by a controlled foreign company ([paras 11–12]).
+3. The implications of defining business activities based on economic substance and notional operations exclusively ([para 76]).
+
+## R – Rules
+
+The relevant statutory provisions include:
+
+1. **Section 9D(1)**: Defines an FBE as a "fixed place of business" located outside South Africa, which conducts the company’s primary operations ([para 8]).
+2. **Section 9D(2)**: Specifies the rules for imputing the income of a controlled foreign company to its South African parent ([para 6]).
+3. **Section 9D(9)(b)**: Exempts income attributable to an FBE from being included in the income of the South African parent ([para 7]).
+
+Judicial interpretations from prior cases such as **Thistle Trust** ([para 26]) and standards established by tax authorities, including the National Treasury's Explanatory Memorandum on the Revenue Laws Amendment Act ([para 48]), also play a significant role in providing context for understanding economic substance ([para 79]).
+
+## A – Application
+
+The court undertook an in-depth analysis of the definition of "business" in the context of CGFM's operations. It clarified that CGFM was established as a fund management company and not as an investment management company, which involves distinct operational practices regarding the delegation of trading activities ([paras 52–56]).
+
+A significant focus of the court’s analysis was the distinction between fund management—governance, oversight, and regulatory compliance—and investment management trading, which is the execution of trades and allocation of funds ([para 54]). The evidence indicated that CGFM comprehensively performed its fund management duties, overseeing delegated functions while maintaining compliance with regulatory frameworks ([paras 64–67]).
+
+The court concluded that the Supreme Court of Appeal's ruling, which identified CGFM's primary business as investment management based on a notional interpretation, misapprehended the facts of the case ([para 70]). This interpretation failed to recognize that CGFM's operations were legitimate and consistent with the business framework endorsed by common practice in the fund management industry ([para 78]).
+
+Moreover, the finding that CGFM's office lacked the necessary economic substance to qualify for an FBE exemption was also challenged. The evidence showed that CGFM met the requirements for being suitably staffed and equipped to conduct its primary operations in Ireland ([paras 84–86]).
+
+## C – Conclusion
+
+The Constitutional Court unanimously ruled in favor of CIMSA, overturning the decision of the Supreme Court of Appeal and reinstating the Tax Court's finding that CGFM qualifies as an FBE under section 9D. Consequently, CGFM's net income for the 2012 year was exempt from South African tax obligations ([paras 84–85]).
+
+This ruling reinforces the notion that businesses must be evaluated based on operational realities rather than merely theoretical capabilities. The implications of this decision extend beyond the parties involved; it provides critical legal clarity for all South African companies operating offshore, emphasizing the need for economic substance over nominal compliance in the tax context. 
+
+## References
+
+- Income Tax Act 58 of 1962.
+- Revenue Administration Act 28 of 2011.
+- National Treasury Explanatory Memorandum on the Revenue Laws Amendment Act.
+- **Thistle Trust** [2023] ZASCA 153: A precedent on the interpretation of tax regulations regarding CFCs.
+
+---
+
+This case note concisely encapsulates the judicial process and the legal implications surrounding the interpretation of income tax laws in a pivotal decision impacting South African business practices in global contexts.

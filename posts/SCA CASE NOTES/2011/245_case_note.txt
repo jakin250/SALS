@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+### FIRAC Case Note: Industrial Development Corporation of South Africa Ltd v PFE International Inc (BVI) (910/10) [2011] ZASCA 245
+
+#### F – Facts
+The case arises from a dispute concerning a request made under the Promotion of Access to Information Act 2 of 2000 (PAIA) by the respondents—PFE International Inc (BVI) and PFE International Inc (Liberia)—against the appellant, the Industrial Development Corporation of South Africa Ltd (IDC). This legal conflict traces its origins to the business dealings of IDC, which previously held a majority stake in South African Fibre Yarns Rugs Ltd (SAFYR). Following a share transfer agreement dated 14 September 2001, where PFE acquired 45% of SAFYR's issued capital, disputes arose between SAFYR and the Zarrebini brothers, who were appointed directors following the transaction. Allegations of fiduciary breaches by the Zarrebini brothers led to SAFYR instituting proceedings against them ([1]-[2]).
+
+On 26 January 2007, the respondents requested access to certain records held by IDC under PAIA to aid in their defense against SAFYR's claims. However, the IDC did not respond, prompting the respondents to seek legal recourse in the KwaZulu-Natal High Court ([4]). The respondents argued that the requested information was necessary for their legal preparations and could not be obtained through standard discovery as the IDC was not a party to the ongoing proceedings ([5]). The IDC countered this application on the basis of section 7(1) of PAIA, asserting that the requested records could be sought through existing court rules, thus exempting them from PAIA’s provisions ([6]).
+
+The high court ruled in favor of the respondents, ordering IDC to provide the requested documents. The IDC subsequently appealed this decision, focusing on the interpretation of section 7 of PAIA and its applicability to the case at hand ([1], [7]).
+
+#### I – Issues
+The central question before the Supreme Court of Appeal was whether the IDC's refusal to provide documentation requested by the respondents was justified under section 7(1) of PAIA. Specifically, the court had to determine if the requested records were exempt from PAIA because they could be produced or accessed through alternative legal provisions, specifically the Uniform Rules of Court governing civil procedures and discovery ([8]).
+
+The key issues for determination were:
+1. Does section 7(1)(c) of PAIA apply to exclude the respondents' request for records based on the existence of other laws (i.e., Uniform Rules)? 
+2. How does the interplay between PAIA and the Rules of Court affect the accessibility of information in ongoing civil proceedings? ([7]-[9])
+
+#### R – Rules
+Section 32 of the South African Constitution guarantees the right of access to information held by the state, and PAIA was enacted to fulfill this constitutional mandate. However, section 7(1) of PAIA specifically states that the Act does not apply to records that are requested for the purposes of civil or criminal proceedings, provided that the production of such records is governed by another law ([8]).
+
+The court relied on past jurisprudence, notably **National Director of Public Prosecutions v King** and **Unitas Hospital v Van Wyk**, which articulated the principle that PAIA was not intended to interfere with existing judicial processes for the purposes of discovery and evidence production in litigation ([9]-[12]). Rule 38(1) of the Uniform Rules of Court provides for the issuance of subpoenas for document production, reinforcing the argument that PAIA should not apply in situations where access can be sought through court rules ([11]).
+
+#### A – Application
+In resolving the issues, the court examined whether the criteria set forth in section 7(1) of PAIA—specifically the existence of another law that governs access to the requested records—were satisfied. The court found that the IDC's assertion regarding the applicability of rule 38(1) was sound, as this rule indeed allowed parties to compel the production of documents relevant to ongoing legal proceedings, including those held by non-parties ([12]-[13]).
+
+Additionally, the court dismissed the respondents' contention that PAIA was intended to supplement rather than supplant existing discovery rules, reasoned that adopting such a dual-access regime could undermine the efficiency and clarity with which courts manage evidence production ([15]). The court underscored that the legislative intent behind section 7 was to preserve the integrity and order of the judicial process by ensuring that the rules of court govern litigation-related requests for information once proceedings are underway ([9]-[15]).
+
+#### C – Conclusion
+The Supreme Court of Appeal ultimately upheld the IDC's appeal, ruling that the requested information could be sought through the mechanisms afforded by the court's rules rather than PAIA. Consequently, the high court's order was set aside, and the application was dismissed ([16]). This decision underscores a significant interpretation of PAIA's scope and the relationship between statutory access rights and existing judicial procedures, clarifying that once litigation has commenced, the Uniform Rules take precedence over PAIA in matters concerning information access for civil proceedings. The outcome of this case illustrates the court's commitment to maintaining procedural integrity and preventing potential disruption in legal processes, further delineating the boundaries of access to information legislation ([16]).
+
+---
+
+This case note adheres to the FIRAC structure while preserving the relevant detail and legal principles necessary for scholarly or professional referencing within the context of South African constitutional law.

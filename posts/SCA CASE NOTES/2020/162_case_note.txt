@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Tayob and Another v Shiva Uranium (Pty) Ltd and Others
+
+**Neutral Citation**: Tayob and Another v Shiva Uranium (Pty) Ltd and Others (Case no 336/2019) [2020] ZASCA 162 (8 December 2020)
+
+**Coram**: Cachalia, Saldulker, Van der Merwe, Schippers JJA, and Poyo-Dlwati AJA
+
+## F - Facts
+
+In this case, the core issue revolves around the validity of the appointments of Mr. Mahomed Mahier Tayob and Mr. Eugene Januari as business rescue practitioners for the first respondent, Shiva Uranium (Pty) Ltd (in business rescue) ([1]). On **20 February 2018**, the board of directors of Shiva initiated business rescue proceedings, leading to the appointment of Mr. Louis Klopper and Mr. Kurt Knoop as practitioners, both of whom qualified as senior practitioners under the Companies Act 71 of 2008 (the Act) ([2]).
+
+On **23 March 2018**, the Industrial Development Corporation of South Africa (IDC), a creditor of Shiva, sought to remove the initial practitioners, arguing for the appointment of Mr. Cloete Murray. The High Court confirmed the resignation of Klopper and Knoop on **31 May 2018** and subsequently appointed Murray as the senior practitioner with Mr. Christopher Kgashane Monyela appointed as a junior practitioner ([2]).
+
+However, a resolution passed on **22 September 2018** appointed the applicants, Tayob and Januari, as practitioners alongside Monyela ([4]). Following this, an urgent application was initiated by the applicants to interdict the Companies Commission from enforcing its decision that favored Monyela and Damons over them ([6]).
+
+The Gauteng High Court dismissed the application with costs, asserting that the appointment process by the board was invalid ([7]). The applicants appealed this decision, arguing that the appointment was indeed valid and that the High Court had erred ([8]).
+
+## I - Issues
+
+The principal issues presented before the Supreme Court of Appeal were:
+
+1. Whether the board of directors of Shiva had validly appointed Tayob and Januari as business rescue practitioners when the High Court had found otherwise ([1], [24]).
+2. Whether the procedures outlined in the Companies Act regarding the appointment and substitution of practitioners had been followed correctly, particularly concerning conflicts with the authority of the appointed practitioners ([12]).
+
+## R - Rules
+
+The legal framework governing the case is primarily drawn from the Companies Act 71 of 2008. Key provisions include:
+
+- **Section 129**: Outlines the process for appointing business rescue practitioners and the necessary filings with the Commission (*Regulation 127* defines senior and junior practitioners) ([2], [14]).
+- **Section 137(2)**: Discusses the continued exercise of director functions subject to the authority of the practitioner, indicating that directors must operate within the scope defined by the appointed practitioner ([25]).
+- **Section 139(3)**: Mandates that either the company or the creditor who originally nominated the sidelined practitioner must appoint a replacement upon their removal or resignation ([17], [18]).
+- The definitions of 'affected person' and specified roles during business rescue proceedings further clarify who holds decision-making power within these processes ([13]).
+
+## A - Application
+
+The court analyzed the validity of the applicants' appointments under the authority conveyed by the Companies Act. The respondents argued that the board's decision was contingent upon the approval of the previous practitioner, following the logic derived from **section 137(2)(a)**. However, the court identified that while section 137 regulates the authority of practitioners, it does not stipulate that the appointment of a substitute practitioner requires that approval ([25]).
+
+Furthermore, the court determined that the concurrent appointment of multiple practitioners does not negate the board’s authority under **section 139(3)** to unilaterally appoint practitioners upon the resignation of a sitting practitioner ([24], [26]). The distinction made by some respondents regarding IDC's alleged superior authority over the board's decision was also dismissed, thereby reinforcing that the initial resolutions and subsequent actions fell under the board's purview ([12]).
+
+The Supreme Court interpreted that the proper mechanisms for appointment and overseeing business rescue were violated in the decisions made by the Companies Tribunal, rendering them moot as the High Court had misapplied the legal standards ([9], [20]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal concluded that the High Court erred in its ruling on the validity of the appointments, ultimately deciding in favor of the applicants. It declared that Tayob and Januari were validly appointed as business rescue practitioners for Shiva Uranium ([27]). The Supreme Court's judgment not only overruled the High Court but also clarified that the board retains its powers to appoint new practitioners in scenarios of resignation or removal without the need for external validation from prior practitioners ([20], [22]).
+
+The ruling reinforced the principle that board authority under the Companies Act is integral to business rescue, aimed at balancing creditors' rights with corporate governance. This case highlights the delineation of powers within business rescue contexts and establishes precedential importance for future cases concerning the authority of corporate boards in South African company law.

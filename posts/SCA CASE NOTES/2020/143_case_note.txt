@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+### Case Note: Vrystaatse Munisipale Pensioenfonds v The Minister of Finance and Others
+
+**Neutral Citation:** [2020] ZASCA 143  
+**Court:** Supreme Court of Appeal of South Africa  
+**Case No:** 1161/2018  
+**Judgment Date:** 2 November 2020  
+**Coram:** Navsa JA, Zondi, Van der Merwe, Nicholls JJA, and Unterhalter AJA  
+
+#### F – Facts: Relevant Background and Procedural History ([1–6])
+
+The case at hand involves the Vrystaatse Munisipale Pensioenfonds (the Fund), which is a pension fund registered under the Pension Funds Act 24 of 1956 (PFA). The Fund challenged the validity of Regulation 35(4) promulgated by the Minister of Finance ([1]). The regulation mandates that where a pension fund board determines that an enhancement is due to former members who cannot be traced, the portion must be placed in a contingency reserve account from which funds can only be released under specific conditions: either to pay those former members directly or to credit the amounts to the Guardian’s Fund or another fund established by law ([1], [60]).
+
+The Fund originally deposited a Statutory Actuarial Valuation Report on 29 November 2013, which indicated surplus allocations and asserted lawful reversion of funds to the Fund after two years ([8–10]). The Registrar of Pension Funds objected, viewing the reversion as ultra vires the Fund's rules and insisted on compliance with Regulation 35(4) ([11–12]). An appeal was lodged against the Registrar's decision, but the high court initially dismissed the Fund's application to declare Regulation 35(4) invalid ([1], [38]).
+
+The High Court's findings raised issues of legality and the constitutionality of the regulation, which ultimately led the Fund to appeal to the Supreme Court of Appeal ([2], [28], [41]).
+
+#### I – Issues: Legal or Constitutional Questions ([2–3])
+
+The primary legal question presented in this appeal is a determination of whether the Minister of Finance acted within his statutory regulations under the PFA when he promulgated Regulation 35(4). Specifically, the court needed to assess whether the Minister exceeded his authority by mandating that surplus funds be deposited into a contingency reserve account, potentially restricting the Fund's discretion regarding its surplus allocation ([2], [6]).
+
+The secondary issue concerns whether the delay in the Fund's challenge to the regulation constituted grounds for denying relief, and whether such delay should weigh on the merits of the case ([40–42]).
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([4–62])
+
+The substantive rules of law pertinent to this case are encapsulated within the Pension Funds Act and accompanying regulations. 
+
+1. **Pension Funds Act 24 of 1956 (PFA)**:
+   - Defines the powers and duties of fund boards, the establishment of contingency reserve accounts (sections 15B), and the Minister's powers regarding regulations (section 36) ([4], [60]).
+
+2. **Regulation 35(4)**:
+   - Prescribes that if a board can determine enhancements due to former members but is unable to trace them, it must allocate those enhancements to a contingency reserve account, asserting rigid parameters on how and when funds can be released ([60]).
+
+3. **Case Law**:
+   - Reference to *Tek Corporation Provident Fund v Lorentz* [1999] (4) SA 884 (SCA) to establish context around the ownership and distribution of surpluses, whereby the court recognized that once a surplus arises, it becomes an integral component of the pension fund ([43]).
+
+4. **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**:
+   - Consideration of procedural requirements and whether delays in challenging administrative actions could be excused ([29–30]).
+
+5. **Principle of Legality**:
+   - Asserts that regulatory enactments must fall within the creating statute's authority and objectives ([2], [62]).
+
+#### A – Application: Analysis of How the Court Applied the Law ([43–69])
+
+In scrutinizing the validity of Regulation 35(4), the Supreme Court of Appeal dissected the interplay between the powers vested in the board of a pension fund and those ascribed to the Minister through the PFA. The court noted that by enacting Regulation 35(4), the Minister had, in effect, encroached upon the board's discretion which the law permits—namely, to determine how surplus funds ought to be dealt with ([60], [62]). 
+
+The Court emphasized that the PFA was designed to offer flexibility to pension fund boards in managing surpluses, particularly when addressing claims from former members that could not be traced ([63]). Regulation 35(4) effectively nullified this discretion, compelling the boards to comply with a fixed mechanism for untraced member allocations, thereby limiting the industry's agility in responding to the varied claims of former members.
+
+Moreover, the necessity for an ongoing obligation of the Fund to account for untraced former members, even decades after their exit, solidified the Court's perspective that strict adherence to the regulation could lead to perpetual retention of funds, counteracting the core intention of the PFA to ensure equity and fairness in surplus distributions ([43–69]).
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([71–72])
+
+The Supreme Court of Appeal concluded by overturning the High Court’s decision, thereby declaring Regulation 35(4) invalid and unenforceable from a legal standpoint. The Court articulated that the Minister overstepped his bounds by constraining the pension board's discretion in a manner not permitted by the enabling legislation, which was against the principles of legality and rationality ([71–72]).
+
+In so ruling, the Court reasserted the fundamental powers of pension fund boards in managing actuarial surpluses and emphasized a balanced approach to regulatory oversight to protect the interests of former fund members. This case underscored the importance of adhering to statutory parameters while allowing operational flexibility to meet fairness standards within the pension system, ultimately contributing to a broader discourse on regulatory practices in South Africa’s pension landscape. The implications of this decision extend to both current and future regulations affecting pension funds, ensuring that such measures remain consistent with legislative intent and the principles of sound financial governance.

@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Louw v Patel (245/2021)
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–4; 5–17; 18–20])
+Dr. Frederick Christoffel Louw (the appellant) appeals against a judgment delivered by the full court of the Gauteng Division of the High Court, Johannesburg, which overturned a lower court's decision that had dismissed a claim for damages against him by Dr. Abdus Samad Patel (the respondent) for medical negligence ([para 1]). Both practitioners are general medical doctors based in Standerton, Mpumalanga. The claim initially included another defendant, the Member of the Executive Council for Health of the Mpumalanga Province (the MEC); however, this claim was later withdrawn.
+
+On 7 August 2019, Patel sustained a gunshot wound at his home surgery during a robbery, leading to a series of medical interventions initiated by Louw. After being initially stabilized by paramedics, he was examined by Dr. Joosub, a colleague, who contacted Louw to assess Patel's condition, which included a fracture of the left femur and reported absence of a pedal pulse, indicating a potential vascular injury. Louw chose to delay urgent transfer to specialized care in favour of performing an appendectomy, believing it to be an emergency [[paras 5–10]].
+
+Patel was eventually transferred to Pretoria East Hospital but encountered significant delays. Hemorrhaging and onset of compartment syndrome worsened due to late revascularization of the injured leg, ultimately leading to its amputation on 10 August 2019. The trial court found there was no causal link between Louw's actions and the amputation, but the full court found Louw negligent for failing to act promptly in transferring Patel, which contributed to the harm suffered [[paras 10–17]].
+
+### I – Issues: Legal or Constitutional Questions ([paras 3–4; 22–24])
+The core legal issues are whether Dr. Louw's conduct constituted negligence and if such negligence caused the amputation of Dr. Patel’s leg. Specifically, the following questions arise:
+
+1. Did the full court correctly assess the factual findings regarding Louw’s alleged neglect to transfer Patel to definitive care on a timely basis?
+2. Was the delay in treatment causally linked to the eventual decision to amputate Patel's leg? 
+3. How should the court evaluate the expert evidence presented, particularly the differing opinions on the timing and necessity of urgent intervention to save Patel's leg?
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 19–24; 45–48])
+The legal principles governing negligence in South African law, as established in *Goliath v Member of the Executive Council for Health, Eastern Cape*, involve evaluating whether a medical professional adhered to a standard of care that a reasonable practitioner in similar circumstances would have exercised ([para 23]). The elements of negligence necessitate an objective assessment of the defendant's conduct against what is deemed reasonable practice within the medical profession. Furthermore, the causation test, based on the *but-for* principle as affirmed in *Minister of Police v Skosana* and clarified in *Oppelt v Head: Health, Department of Health*, requires establishing a direct link between the breach of duty and the resultant harm ([paras 45–46]).
+
+Additionally, the court must weigh expert opinions, maintaining that it is not bound to accept them without scrutiny, particularly where logic and comparative risks are at play ([paras 19–20]). The principle from *Michael and Another v Linksfield Park Clinic* also stipulates that deviations from accepted medical practice can give rise to liability, depending on the overarching context of the case.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 22–64])
+The court analyzed Louw's actions sequentially to determine whether they met the requisite standard of care expected of a physician in his position. 
+
+1. **Urgency in Attending to the Patient**: The court noted disagreements regarding Louw's arrival time at the hospital. The marginal difference of eight minutes in alleged times was deemed insignificant in the medical context, emphasizing that reasonable actions should be evaluated in light of information available at the time [[paras 28–29]].
+
+2. **Urgency in Arranging for Transfer**: Louw's decision to perform the appendectomy was scrutinized as potentially negligent since Patel's life was at risk without immediate vascular care. Expert evidence suggested that transferring Patel for urgent revascularization would have been a priority [[paras 30–34]]. The court found that a reasonable doctor acting under similar circumstances would have prioritized the transfer over the appendectomy.
+
+3. **Communication with the Receiving Doctor**: The failure to communicate directly with Dr. Tollig, the accepting surgeon at Pretoria East Hospital, was highlighted as a significant negligence point. Expert testimony indicated that had Dr. Tollig been fully informed of the vascular injury, the outcome might have been different [[paras 37–43]].
+
+4. **Causation**: On the issue of causation, the court applied the logical basis of expert evidence regarding the timing of revascularization and the potential for limb salvageability. Testimonies indicated that timely restoration of blood flow could have led to a successful outcome, making a direct causal link between Louw’s negligence and Patel's injury apparent. The court found that had Louw acted within the standard of care, it was probable that Patel's leg could have been saved [[paras 45–63]].
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 64–65])
+The Supreme Court of Appeal held that Dr. Louw's actions constituted medical negligence due to his failure to transfer Dr. Patel to necessary care in a timely manner, resulting in the amputation of Patel’s leg. The court dismissed the appeal with costs, including the costs of two counsel where applicable [[paras 64–65]]. 
+
+The ratio decidendi established that medical practitioners must act within the bounds of reasonable care, particularly in time-critical scenarios. This case underscores the importance of prompt medical intervention and the need for clear communication in medical practice, especially regarding transfers to specialized surgical care. The implications extend to the standard of care for medical professionals and the importance of immediate assessment and action in emergencies, setting a precedent in medical negligence cases involving delays in treatment.

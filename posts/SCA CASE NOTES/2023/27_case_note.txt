@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Strategic Partners Group (Pty) Ltd and Others v The Liquidators of Ilima Group (Pty) Ltd (In Liquidation) and Others [2023] ZASCA 27
+
+### Facts
+Ilima Group (Pty) Ltd ("Ilima") was placed in final liquidation in April 2010, with the first respondents as appointed liquidators ([1]). Ilima held 16 million ordinary shares, representing approximately 11.784% of the shares in Strategic Partners Group (Pty) Ltd ("Strategic") ([1]). The shareholding is an asset belonging to Ilima, the realization of which is necessary for the distribution of proceeds to creditors ([1]).
+
+Conflict arose over the valuation process of the Ilima shareholding when, after requests for information, Strategic's valuation was contested by the liquidators. The liquidators sought to define the scope of their rights in obtaining documentation and information critical for realizing and valuing the shares ([2]). A protracted legal struggle ensued, sparked by Strategic initiating proceedings in the Gauteng Division of the High Court, wherein they claimed that the liquidators were entitled to only a restricted category of documents specified in sections 26 and 31 of the Companies Act 71 of 2008 and section 113 of the Companies Act 61 of 1973 ([4]).
+
+Strategic's main application sought to limit the liquidators' access to documents essential for valuing the shareholding, whereas the liquidators filed a counter-application requesting declarations regarding the applicability of certain provisions as well as orders demanding the production of documents relevant to the insolvency inquiry ([4]).
+
+The High Court dismissed the main application and granted the liquidators' counter-application ([5]), leading to the current appeal ([5]).
+
+### Issues
+The primary legal issues raised by Strategic included:
+
+1. **Interpretation of Shareholder Rights**: Whether the liquidators' rights to information and documentation fall within the limits described in sections 26 and 31 of the Companies Act 71 of 2008 and section 113 of the Companies Act 61 of 1973 or are instead governed by sections 414 and 415 of the older Companies Act ([4], [14]).
+  
+2. **Validity of the Amended Memorandum of Incorporation (MOI)**: Whether the High Court correctly upheld the liquidators' views on the effect of clause 27 of the amended MOI concerning the shareholding rights ([17]).
+
+3. **Entitlement to Documentation**: The extent to which the liquidators were entitled to documents related to the insolvency enquiry ([31]).
+
+4. **Costs Order**: Whether the punitive costs order imposed on Strategic was warranted ([33]).
+
+### Rules
+The legal framework revolves around sections 414 and 415 of the Companies Act 61 of 1973 and sections 26, 31, and 163 of the Companies Act 71 of 2008, which govern the rights and obligations of shareholders and liquidators in liquidation situations ([15], [24]).
+
+- **Sections 414 and 415** authorize liquidators to obtain documents they deem necessary during liquidation inquiries, allowing for a broad scope of inquiry necessary for asset recovery ([15]).
+- **Section 163** allows for relief from oppressive or unfair conduct experienced by shareholders or company directors, reinforcing a protective framework intended to ensure fair treatment and consideration of all stakeholders’ interests ([24]).
+  
+### Application
+The court's analysis focused on the implications of the legal provisions regarding the liquidators' rights to obtain necessary documents in order to ensure an accurate valuation of the shares for creditors.
+
+1. **Liquidators' Rights**: The court determined that liquidators are entitled to information beyond that available to a typical shareholder, as the dissolution of a company's capital structure can lead to differing entitlements under the various acts ([16]). Strategic’s initial contention that the rights were limited was effectively withdrawn during the hearing, confirming that sections 414 and 415 did indeed apply ([16]).
+
+2. **Implications of the Amended MOI**: The introduction of clause 27 by Strategic was viewed as potentially oppressive to the liquidators by curtailing their ability to collect information essential for the share valuation process. The High Court found that the amendment could result in a lack of clarity and an imbalance between Strategic and the liquidators in the valuation process, justifying judicial intervention ([27], [29]).
+
+3. **Documentation Requirement**: By acknowledging the necessity of the documents sought by the liquidators to fulfill their obligations to creditors, the court upheld the High Court’s ruling that the subpoenas were justified and capable of enforcement ([32]).
+
+4. **Costs**: The punitive costs order was upheld, as it reflected the conduct of Strategic throughout the litigation process, illustrating resistance to compliance with legal obligations. The High Court's reasons were considered thorough and justified, thereby dismissing any claims of error regarding costs ([33]).
+
+### Conclusion
+The Supreme Court of Appeal dismissed the appeal, affirming that the rights of liquidators in liquidation proceedings extend beyond those of ordinary shareholders. The court upheld the High Court's ruling that the liquidators were entitled to the requested documents necessary for an accurate valuation of the Ilima shareholding, invalidating the restrictive interpretations attempted by Strategic through their various claims ([34]). The discussion underscores the principle that liquidators must be equipped with adequate information to perform their statutory duties effectively, particularly in safeguarding the interests of creditors. The outcome reinforces judicial support for transparency and full disclosure in corporate governance amidst liquidation, ensuring that creditors’ rights are upheld. 
+
+These rulings have significant implications for future conduct during liquidation inquiries, highlighting the importance of equitable treatment and access to information for liquidators navigating complex shareholder disputes.

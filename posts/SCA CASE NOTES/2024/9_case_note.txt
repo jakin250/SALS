@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: Remo Ventures Pty Ltd v Cecile Van Zyl and Others (1262/2022) [2023] ZASCA 09
+
+## F - Facts
+This case concerns an appeal against the judgment of the Gauteng Division of the High Court, Pretoria. The key parties involved include three appellants: Remo Ventures (Pty) Ltd, Ekuzeni Supplies (Pty) Ltd, and Mr. Nthabiseng Segoale, alongside the respondents, particularly Ms. Cecile Van Zyl and Ms. Susan Leonora Meintjies. 
+
+On 3 April 2017, the appellants and the respondents entered into a Sale of Shares Agreement (SoS Agreement). The agreement stipulated that the total purchase price was R50 million, payable in tranches, with various conditions precedent, including the cession of a life insurance policy by Mr Segoale.
+
+By 21 June 2017, Mr Segoale failed to fulfill these conditions, triggering a clause (3.4) which rendered the SoS Agreement a nullity. Nonetheless, the parties continued to act under the belief that the agreement remained valid. Subsequently, on 20 February 2019, the parties concluded an arbitration agreement, which sought to amend the arbitration clause from the SoS Agreement, despite its purported invalidity.
+
+The crux of the legal dispute arose when arbitration proceedings were initiated based on this new agreement. The applicability of the arbitration agreement hinged on the existence and validity of the SoS Agreement, which had lapsed due to insolvency conditions not being satisfied ([paras 1–9]).
+
+## I - Issues
+The primary legal issue presented in this case is whether the arbitration agreement is valid given that it is predicated on a SoS Agreement that has already been rendered a nullity due to non-fulfillment of suspensive conditions. A secondary issue involves whether the arbitration agreement could be interpreted as standalone or self-sufficient, thus surviving the invalidity of the SoS Agreement ([paras 9, 11, 14]).
+
+## R - Rules
+The court primarily relied on established principles regarding contracts with suspensive conditions. In *Africast (Pty) Ltd v Pangbourne Properties Limited*, the court held that a contract containing a suspensive condition is enforceable once that condition is fulfilled; failure to fulfill the condition results in the contract being considered void from the outset ([para 19]).
+
+Additionally, the principle elucidated in *North East Finance (Pty) Ltd v Standard Bank of South Africa Ltd* was critical, asserting that if a contract is void ab initio, all its clauses, including arbitration clauses, are also rendered void. This decision rests firmly on the idea that an arbitration clause cannot be invoked where one party contests the existence of the underlying contract as valid ([paras 21, 22]).
+
+## A - Application
+Applying these legal principles to the present case, the court observed that the SoS Agreement was void due to the parties' failure to fulfill the suspensive conditions requisite for its validity ([paras 23–29]). The court maintained that the non-fulfillment of the suspensive condition effectively rendered the SoS Agreement nonexistent, preventing the parties from deriving any rights or obligations therefrom.
+
+Furthermore, the court analyzed the efficacy of the arbitration agreement, concluding that it was inherently linked to the lapsed SoS Agreement and thus could not be sustained independently. The interpretative approach taken by the High Court, which suggested the arbitration agreement could survive despite the invalidity of the SoS Agreement, was deemed unsustainable. The court pointed out that contracts are often designed to work in a coherent, interdependent manner, whereby the failure of one would impact the viability of the others ([paras 29–36]).
+
+## C - Conclusion
+Ultimately, the Supreme Court of Appeal held that the arbitration agreement was a nullity due to its reliance on the void SoS Agreement. The court concluded that any arbitration proceedings predicated on this non-existent agreement must also be considered invalid. Accordingly, the appeal was upheld, reversing the lower court's finding and affirming the nullity of the arbitration agreement as well as its effects. The court's order declared that any appointments or awards made under this arbitration agreement were also void, thus reshaping the legal landscape for contractual dealings in similar circumstances ([paras 36–38]). 
+
+This judgment underscores the legal tenet that the validity of subsidiary agreements, such as arbitration clauses, is contingent upon the validity of their foundational contractual agreements, reaffirming the importance of adhering to contractual prerequisites in commercial transactions.

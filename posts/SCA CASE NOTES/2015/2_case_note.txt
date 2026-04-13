@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: PriceWaterhouseCoopers Inc & Others v National Potato Co-operative Ltd & Another (451/12) [2015] ZASCA 2
+
+## F – Facts
+Throughout the period from **1984 to 1997**, the appellants (collectively referred to as PWC) acted as the auditors for the first respondent, the **National Potato Co-operative Ltd (NPC)**. The NPC claimed that PWC had **breached their contractual obligations** as auditors by failing to adequately report on the provision for bad debts resulting from what NPC characterized as reckless mismanagement of credit extended to its members ([1]–[2]).
+
+In 2000, NPC began to suffer significant financial losses, leading to the **writing off of substantial sums** as bad debts amounting to R62,884,905.45, for which they sought recovery from PWC, alleging that the audits conducted by PWC were negligent and misleading ([2]–[3]). Initial judgments by the North Gauteng High Court upheld NPC’s claims leading to a series of appeals by PWC contesting both liability and the amounts awarded ([5]).
+
+The relationship between NPC and PWC involved annual contracts that were accepted during the annual general meetings as required by the **Co-operatives Act 91 of 1981**, giving rise to a contractual relationship, although PWC contested the existence of a direct contract, asserting their appointment was statutory ([9]–[11]).
+
+### Procedural History
+The litigation commenced in **1999**, with the case extending over several years due to its complexity, leading to extensive interlocutory applications and hearings ([4]–[8]). Botha J of the trial court issued several orders, culminating in a judgment that PWC breached their audit duties, leading to damages being awarded to NPC, which PWC appealed ([5]–[7]).
+
+## I – Issues
+The main issues before the court included:
+- Whether the relationship between NPC and PWC was contractual ([25(a)]).
+- What obligations PWC owed to NPC under that contract ([25(b)]).
+- Whether PWC breached any of these contractual obligations ([25(d)]).
+- If such breaches caused NPC to suffer losses ([25(e)]).
+- The basis for determining the appropriate amount of those losses ([25(f)]).
+- Whether the claims had prescribed ([25(h)]).
+
+## R – Rules
+The court considered several legal principles and obligations:
+1. **Auditors' Responsibilities**: PWC was required to conduct their audits in compliance with the **Public Accountants and Auditors Act 80 of 1991**, which mandates that auditors undertake their duties with the requisite degree of skill and care ([16]).
+2. **Expert Opinion Standards**: The admissibility of expert evidence was crucial, with the court referencing previous cases that defined when opinion evidence became admissible, alongside the role of the auditor as independent from management ([53]–[99]).
+3. **Causation and Prescription**: For NPC to recover damages, it needed to establish a causal link between PWC's alleged negligence and the financial losses incurred. This encompassed **section 12(3) of the Prescription Act 68 of 1969**, which dealt with the knowledge of claim facts relevant to prescriptive periods ([125]–[148]).
+
+## A – Application
+The SCA found that the relationship between NPC and PWC was indeed contractual, primarily evidenced by the acceptance of annual appointments by the cooperative's members ([61]). The court highlighted that each year constituted a separate contract, making it clear that breach claims concerning one year could not carry over to another ([62]).
+
+Upon analyzing the testimony, the court scrutinized Mr. Collett's opinions as the chief witness for NPC. They found that much of his evidence amounted to inadmissible hearsay and lacked substantive professional grounding, particularly given his limited recent experience and partial involvement in the case ([96]–[113]). Critically, the ruling assessed that NPC failed to demonstrate that had PWC provided more alarming reports about the audit findings, NPC would have acted to curtail damages from bad debts. Evidence showed NPC members were aware of the financial implications of their credit policies, leading to doubt about the effectiveness of any supposed remedial action ([124]–[145]).
+
+Particular attention was drawn to whether the alleged negligence directly caused NPC’s losses. Although evidence suggested potential negligence on PWC's part, it was not sufficiently clear that a stronger audit report would have fundamentally changed the behaviour of NPC's directors or members in terms of credit management ([138]–[140]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld PWC's appeals, concluding that while negligence may have existed, the NPC had failed to establish direct causation between PWC's alleged breaches and the financial losses incurred. NPC's lack of proactive measures in response to known financial troubles undercut their claims against PWC ([162]).
+
+Therefore, the judgment of the lower court was set aside, and NPC's claims were dismissed with costs, reinforcing the principle that merely having an auditor's report that contained qualifications does not inherently impose liability without demonstrated causation ([162]). The case underscores the importance of the relationship between auditors and their clients, and the requisite standards of professionalism and accountability that govern that relationship.
+
+The implications of this case extend to how co-operatives and similar entities should manage credit, internal monitoring, and the involvement of external auditors in corporate governance, particularly in sectors sensitive to market conditions like agriculture ([70]–[160]).

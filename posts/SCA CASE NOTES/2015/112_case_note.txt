@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Chetty v Hart (20323/14) [2015] ZASCA 112
+
+### F – Facts  
+The case concerns a dispute between Shamla Chetty, trading as Nationwide Electrical (the appellant), and TBP Building and Civils (Pty) Ltd (the first respondent) regarding an arbitration award. The arbitration, stemming from a domestic sub-contract for an electrical installation at a hospital, was initiated after the sub-contract was terminated on October 6, 2010. After a drawn-out process that began in December 2011, the arbitrator issued an award on October 23, 2012, while TBP was undergoing business rescue proceedings initiated on October 5, 2012 ([1]–[4]). 
+
+Despite the business rescue proceedings, Chetty continued with the arbitration unaware of TBP’s status, resulting in the arbitrator holding TBP liable for R420,573.93 in favor of Chetty, while Chetty was held liable for R4,238,451.95 in favor of TBP ([1]–[4]). Following TBP’s transition from business rescue to liquidation, the liquidator opposed Chetty’s application to review and set aside the arbitration award, arguing that the moratorium on legal proceedings during business rescue proceedings under Section 133(1) of the Companies Act 71 of 2008 did not extend to arbitrations. 
+
+### I – Issues  
+1. **Interpretation of "Legal Proceedings"**: The primary legal question revolves around whether arbitration proceedings are classified as "legal proceedings" under Section 133(1) of the Companies Act ([2]–[4]).
+2. **Consequences of Non-compliance**: The court needed to determine if the failure to obtain the business rescue practitioner's consent before continuing arbitration invalidated the award or if such a failure merely represented a procedural bar ([36]–[48]).
+
+### R – Rules  
+The primary legal framework involves the Companies Act 71 of 2008, particularly Section 133(1), which establishes a general moratorium on legal proceedings against companies undergoing business rescue, stipulating that no proceedings may be initiated or continued without the consent of the business rescue practitioner. 
+
+Key references inform the court's analysis:
+- Black's Law Dictionary defines "legal proceeding" as any proceeding authorized by law and instituted in a court or tribunal ([12]).
+- Previous court interpretations that suggest "legal proceedings" might exclude arbitration under certain contexts ([14]).
+
+### A – Application  
+**Interpretation of "Legal Proceedings"**:  
+The court analyzed the wording and context of Section 133(1), determining that the moratorium encompassed both court and arbitration proceedings. This interpretation emphasized the intention behind the law—to provide a comprehensive framework that allows business practitioners to manage the affairs of financially distressed companies effectively, preventing disruption from ongoing claims ([8]–[29]). The court further highlighted that interpreting the provision as excluding arbitrations would undermine the intended protective measures of business rescue ([28]).
+
+**Consequences of Non-compliance**:  
+The court also assessed whether the absence of the practitioner’s consent constituted a jurisdictional bar to the arbitration proceedings. It found that the consent requirement, while important, did not invalidate the arbitration award per se. Statutory interpretation pointed toward the conclusion that such a procedural lapse would not render the proceedings void. The court maintained that protections under Section 133(1) were for the benefit of the company and the practitioner rather than the creditor, indicating that only the practitioner could seek relief from the moratorium ([39]–[43]).
+
+### C – Conclusion  
+The Supreme Court of Appeal ultimately dismissed Chetty's appeal, affirming the lower court’s ruling that arbitration proceedings are indeed considered legal proceedings under Section 133(1) of the Companies Act. However, it concluded that non-compliance with the consent requirement does not result in nullifying the arbitration award. This decision underscores the importance of the moratorium provisions aimed at providing breathing space to companies undergoing financial distress while also maintaining a workable balance between creditor rights and corporate recovery efforts. The implication is that while the moratorium includes arbitration, the procedural lapses do not necessarily lead to automatic nullity of proceedings ([48]). 
+
+The ruling reaffirms the judicial interpretation that classified protections afforded to companies under business rescue are not solely for the interest of creditors but enable effective corporate restructuring efforts, embodying a thoughtful balance between the interests of various stakeholders in the business landscape.

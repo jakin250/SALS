@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: CSARS v The Executors of Estate Late Sidney Ellerine (142/2017) [2018] ZASCA 39
+
+## F – Facts
+
+The case at hand involves the valuation of preference shares for determining capital gains under the Eighth Schedule to the Income Tax Act 58 of 1962 (the Act) ([1]). The dispute centers around the issued preference shares held by the late Sidney Ellerine, which formed part of the capital of Sidney Ellerine Trust (Pty) Ltd ([2]–[3]). The deceased possessed 112,000 redeemable non-cumulative preference shares, which represented 99.47% of the voting rights due to the voting power of the shares ([4]).
+
+The Commissioner for the South African Revenue Service (CSARS) assessed Ellerine's estate's capital gain on the shares, attributing a value of R563,376,418 based on the notion that the preference shares could be converted into ordinary shares ([4]–[5]). The Executors of the estate argued against this valuation, asserting that special conditions in the company's Memorandum and Articles of Association required the approval of at least 75% of ordinary shareholders for any conversion, and thus the shares should be valued at their par value of R1 each ([5]–[6]).
+
+The Tax Court found in favor of the Executors, determining that the deceased could not convert the preference shares at the time of his death due to the absence of requisite shareholder approval ([7]). However, this ruling was appealed by CSARS.
+
+## I – Issues
+
+The essential issues before the Supreme Court of Appeal were ([9]):
+1. Whether the deceased's preference shares could be converted to ordinary shares without amending Article 34 of the company's Articles of Association, which required prior written approval from 75% of ordinary shareholders.
+2. Whether, according to the company’s regulations, such a conversion could occur without this approval.
+
+Additionally, the case raised significant legal questions regarding the interpretation of the terms and conditions governing share conversion and the implications for capital gains assessment ([10]).
+
+## R – Rules
+
+The rules applicable to this case frame themselves around the interpretation of the Eighth Schedule to the Income Tax Act ([24]). Specifically:
+- **Paragraph 40(1)** of the Eighth Schedule stipulates that a deceased is deemed to have disposed of assets for an amount equal to their market value at the time of death.
+- **Article 34** of the company's Articles of Association delineates the rights and privileges attached to preference shares, emphasizing that the shares enjoy voting rights at meetings and stipulating the conditions under which shares may be redeemed or converted.
+- **Special Condition 5.8** added a requirement for amendments to the Memorandum or Articles to obtain 75% approval from all shareholders ([16]).
+- **Article 4.2** allows for rights attached to shares to be varied only with a similar degree of approval.
+
+These provisions were pivotal in determining the legality of the conversion of shares and the subsequent valuation ([24]–[25]).
+
+## A – Application
+
+The Court adjudicated the merits of the appeal by closely examining the company’s Articles and the specific conditions governing the shares ([10]–[12]). 
+
+**Preclusion from Conversion**: The Executors argued that the conditions necessitated a unanimous agreement for conversion based on Special Condition 5.8 and Article 34, effectively rendering the deceased's preference shares incapable of being converted to ordinary shares. The Tax Court had upheld this reading ([5]-[7]) and noted the lack of the required 75% approval ([8]). 
+
+**CSARS's Argument**: CSARS contended that the deceased's strong voting power allowed him to effectuate the conversion unilaterally as justified by Article 7.1.10, which explicitly permitted conversions by special resolution absent conflicting provisions ([27]). Therefore, CSARS maintained that the high valuation of the shares was appropriate given that the deceased was entitled to this conversion.
+
+**Legal Principles**: The Court underscored the interpretive distinction between an alteration of rights and a change in market value. The respondent posited that converting the preference shares would diminish the value of ordinary shares, thus invoking Article 4.2 ([36]). However, the court clarified that merely decreasing share value does not constitute a variation of rights, reiterating established legal precedents.
+
+In conclusion, the Court aligned with CSARS's argument by emphasizing the language of Article 7.1.10, as it was not qualified by other articles, enabling the conversion without needing additional approvals. Furthermore, the Court maintained that the valuation of shares should reflect the potential for conversion without being encumbered by shareholder dissent unnecessarily ([38]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal found in favor of the appellant, CSARS, concluding that the deceased was entitled to convert the preference shares into ordinary shares unimpeded by shareholder approval ([39]). The implications of this case highlight the significance of shareholder rights and the interpretation of company laws regarding share valuations, specifically how these factors can affect capital gains assessments in estate contexts. The Court’s decision underscores the necessity for clarity in Articles of Association and company regulations to ensure that valuations align with both statutory requirements and the underlying financial realities of the shares ([7]–[8], [39]). 
+
+Thus, the ruling reversed the previous Tax Court's determination, reinstating CSARS's capital gains assessment based on the market value of the shares post-conversion [40].

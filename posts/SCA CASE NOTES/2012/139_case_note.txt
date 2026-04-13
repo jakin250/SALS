@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# FIRAC Case Note: ABSA Bank Limited & Firstrand Bank Limited v Lombard Insurance Company Limited (2012) ZASCA 139
+
+## F – Facts
+The appeals arose from the judgement delivered by Meyer J in the South Gauteng High Court regarding the recovery of funds that had been stolen from Lombard Insurance by its employee, Ms. Manickum ([1–5]). Lombard Insurance, a licensed financial services provider, held cash deposits as security for guarantees issued to various customers ([3]). Ms. Manickum forged a repayment request, leading to the unauthorized transfer of R2,114,947.44 to her personal accounts held at ABSA and Firstrand Banks (FNB) ([4])—funds intended for customers of Lombard. 
+
+She subsequently used these funds to extinguish her debts: transferring R1 million to her home loan account and R100,000 to her FNB credit card account ([5]). Payments were also made to her ABSA account, where she cleared debts associated with her overdraft and credit card ([6]). Following the discovery of the theft, Lombard Insurance sought repayment from both banks, invoking the *condictio ob turpem vel iniustam causam*, positing that due to the transaction's illegality, the banks were unjustly enriched ([7–9]). 
+
+The appellants (ABSA and FNB) argued that the funds credited to their accounts merely offset Ms. Manickum's existing debts and thus did not constitute an unjust enrichment. They contended that their enrichment was not "unjust" because the payment operationally discharged the debtor obligations inherent to the accounts in question ([9–10]).
+
+## I – Issues
+The primary legal questions included:
+1. Did the banks discharge Ms. Manickum’s existing debts by crediting her accounts with stolen funds?
+2. Were the banks enriched by virtue of receiving the payments, and is such enrichment actionable under *condictio ob turpem vel iniustam causam*? ([10]).
+
+## R – Rules
+The court referenced known legal principles regarding unjustified enrichment and the implications of payments made with stolen funds. It cited the *condictio ob turpem vel iniustam causam*, which provides that a party cannot derive benefit from an illegal act ([11]). The court primarily relied upon previous cases, including *First National Bank of Southern Africa Ltd v Perry NO* and *Nissan South Africa (Pty) Ltd v Marnitz NO*, to delineate the boundaries of liability when banks receive payments related to fraudulent acts ([12–14]).
+
+Additionally, the principle of *suum recipit* was discussed, whereby a creditor is not enriched simply due to the receipt of money to extinguish a debt, as they replace one asset with another of equal value ([16]). This principle underscores a debtor’s right to benefit from the payment under a relationship steeped in good faith.
+
+## A – Application
+The court found that since the banks were crediting payments that extinguished Ms. Manickum’s debts—regardless of the origins of the funds—her obligations were operationally discharged, which subsequently did not entitle Lombard to reclaim the payments ([19]). The court assessed that the banks, acting within the usual business operations and without prior knowledge of the theft, were entitled to apply the payments against the debts, solidifying their position as mere creditors ([20]). 
+
+They argued that the principle of enrichment was not applicable in this case since the individual bank accounts were in debit prior to the payments and resulted in a mere offset of debts ([18]). The ruling distinguished instances where the funds would otherwise remain unaccountable or revert back to a debtor if received lawfully.
+
+The court critically assessed Lombard's submission that referencing cases of prior adjudications established a universal rule granting the restoration of entire amounts simply on the basis that stolen funds could discharge debts. The court clarified that previous judgements did not provide blanket liability for banks when such payments were applied to existing debts ([11][14]).
+
+## C – Conclusion
+Ultimately, the court upheld the appeals by both ABSA and FNB, concluding that neither bank was unjustly enriched by the transactions in question ([21]). The orders of Meyer J were replaced with resolutions dismissing Lombard’s claims for the restitution of the payments used to settle Ms. Manickum’s debts with the banks. The judgement reinforced the principle that payment of debt with stolen money does not create a recovery basis for the original owner of the funds against banks that receive such payments in good faith, solidifying long-established jurisprudence in South African banking and unjust enrichment law.
+
+### Implications
+The ruling established critical precedents about banking liability in cases involving fraud, especially underscoring the nuances of the relationship between a bank and its customer regarding how payments offset debts. This case affirms the protective measures financial institutions occupy when acting under legitimate circumstances without knowledge of wrongdoing, structuring the framework for future interactions involving recovery claims by original fund owners against financial institutions.

@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# FIRAC Case Note: Jurgens Johannes Steenkamp NO v The Provincial Tender Board of the Eastern Cape
+
+## F – Facts: Relevant Background and Procedural History
+
+The case revolves around an appeal by Jurgens Johannes Steenkamp (the appellant), the liquidator for Balraz Technologies (Pty) Ltd, against the Provincial Tender Board of the Eastern Cape (the respondent). The appellant sued the respondent for damages amounting to R4.35 million, which were incurred by Balraz prior to its liquidation, related to a tender for supplying services to implement an automated cash payment system for social pensions within the Eastern Cape ([1–3]).
+
+Balraz submitted a competitive tender, which initially appeared to be the lowest bid. However, concerns arose regarding the tender's effective cost and the company's technical ability, leading the Board to award part of the tender to Balraz while distributing the remaining portions to another entity, Pensecure (Pty) Ltd. Shortly after the contract was awarded, legal challenges led to the annulment of the tender awards by the Ciskei High Court ([2–3],[6]).
+
+The appellant alleged that the Board owed Balraz a legal duty to fairly and independently perform its functions during the tender evaluation process and that the Board's negligence in this respect resulted in purely economic losses for Balraz ([4–5]). Trial court proceedings included deliberation on whether the Board's conduct was wrongful, with the initial exception regarding breach of contract being dismissed ([6]).
+
+Ultimately, the trial court concluded that because Balraz was not incorporated at the time the tender was submitted, the tender was void, leading to a dismissal of the claim on grounds of lack of duty of care ([7]).
+
+## I – Issues: Legal or Constitutional Questions
+
+The key legal issues can be summarized as follows:
+
+1. **Duty of Care**: Did the Provincial Tender Board owe Balraz a legal duty of care in evaluating and awarding the tender despite the tender being void due to the company’s lack of incorporation at the time of submission?
+2. **Economic Loss**: Can the Board be held liable for pure economic loss incurred by Balraz as a result of allegedly negligent conduct during the tender award process?
+3. **Validity of Tender**: How does the invalidity of Balraz's tender affect the legal framework surrounding tender awards and administrative duties owed by the Board to tenderers, particularly successful tenderers, like Balraz? ([6–8], [46–54]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon
+
+The court referred to several statutory and case law frameworks, including:
+
+1. **Interim Constitution**: Section 187 mandated fair, public, and competitive procurement processes. The relevant statutory framework was embodied in the Provincial Tender Board Act 2 of 1994, which created the Board with the responsibility of adhering to principles of fairness and impartiality ([8]).
+  
+2. **Common Law of Delict**: The court underscored principles concerning the liability for pure economic loss and the conditions under which such liability may be imposed on public entities. A key precedent cited is *Cash Paymaster Services (Pty) Ltd v Eastern Cape Province* [1999] 1 SA 324 (CkH), which examined the nature of tender awards and the necessity for legal standing ([6],[24]).
+
+3. **Public Policy Considerations**: The court evaluated public policy implications surrounding any potential recognition of delictual liability for administrative actions. Previous judgments emphasized the need to weigh policy implications when interpreting statutes concerning public procurement ([30], [45]).
+
+4. **Comparative Law References**: The judgment took references from jurisdictions such as the USA and Canada regarding tender awards and the limits of recovery for disappointed tenderers, making important distinctions between the availability of injunctive relief as opposed to damage claims ([34–36]).
+
+## A – Application: Analysis of How the Court Applied the Law
+
+The Supreme Court of Appeal scrutinized the trial court’s findings on several fronts:
+
+1. **Duty of Care**: The court held that a public body may not have an absolute duty of care to all tenderers equally. Importantly, due to Balraz not being incorporated at the time of tender submission, it lacked standing or capacity to engage legally, further implying the absence of duty ([19],[54]).
+
+2. **Negligence and Wrongfulness**: The analysis of negligence rested on whether the actions of the Board breached a recognized legal duty towards Balraz. The Board was found not liable for purely economic losses attributed to Balraz’s resultant inability to enforce its rights due to the void status of the tender ([27],[46]).
+
+3. **Public Interest and Policy**: The court acknowledged substantial public policy implications, reasoning that recognizing delictual liability in such administrative contexts could create "floodgate" issues, potentially overwhelming public financial resources and complicating the procurement landscape ([37],[39]).
+
+Overall, the court reinforced the notion that while administrative bodies must conduct their functions responsibly, absolute liability for economic loss is not in alignment with public policy, especially where the established legal framework provides other remedies (e.g., judicial review) to address grievances ([37], [41]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications
+
+The Supreme Court of Appeal concluded that the appeal should be dismissed on grounds of no actionable claim due to the absence of a cognizable duty of care owed by the Board to Balraz. The court ruled that since the tender was inherently void, the Board could not have owed a duty of care, and thus, no negligence or wrongful conduct was present ([55]).
+
+The ratio decidendi centered on the limitations imposed by the nature of the contractual relationship initiated through the tender process, the legal standing of the parties involved, and the overarching public policy considerations that inform the conduct of administrative bodies. The implications of this ruling extend to future cases involving public procurement, clarifying the boundaries of liability for economic loss incurred by tenderers ([46],[54]) and emphasizing the necessity for critical evaluation of duties owed by administrative bodies in the context of tender awards. 
+
+The dismissal of the appeal with costs, including those arising from having employed two counsel, was subsequently affirmed ([56]). This decision serves to underline the principle that administrative justice must be balanced with policy considerations to ensure that public bodies can operate effectively without the constant threat of litigation undermining their responsibilities.

@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Churchill v Premier, Mpumalanga (889/2019) [2021] ZASCA 16
+
+## F – Facts
+The appellant, Catherine May Churchill, was employed as the Chief Director of Policy and Research at the Office of the Premier of Mpumalanga. On 5 April 2017, she was caught in the midst of a protest by members of the National Education, Health and Allied Workers' Union (NEHAWU) advocating for labor-related issues at her workplace ([1]). Churchill faced physical assault and was subjected to degrading treatment, resulting in physical injuries (bruises and scratches) and significant psychological trauma, specifically PTSD ([1]). Following this incident, Churchill resigned due to the untenable work environment ([1][2]).
+
+Churchill initiated a lawsuit against the Premier of Mpumalanga and the Director-General, claiming they were negligent in ensuring her safety in the workplace and thus liable for her injuries, which amounted to a claim of R7.5 million covering medical treatment, general damages, and loss of income ([1][2]). 
+
+The Premier and the Director-General raised a special plea, asserting that her injuries fell under the Compensation for Occupational Injuries and Diseases Act 130 of 1993 (COIDA), which would exclude their liability under section 35(1) of COIDA ([3]). The trial court dismissed her claim, asserting the special plea and negating the need for consideration of negligence or vicarious liability ([3][4]). This decision was appealed ([3]).
+
+## I – Issues
+The core legal issues presented in this case are:
+
+1. Did Churchill's injuries constitute an “accident” as defined under COIDA, arising “out of and in the course of” her employment?
+2. Is the employer's liability excluded by the provisions of s 35(1) of COIDA ([3][8])?
+3. What is the implication of the trial court’s dismissal of her claim in light of the appeal ([4][6])?
+
+## R – Rules
+The statutory provisions relevant to this case include:
+
+1. **Compensation for Occupational Injuries and Diseases Act 130 of 1993 (COIDA)**: 
+   - Section 22(1) outlines the entitlement to compensation for an employee who suffers an accident resulting in disablement or death.
+   - Section 1 provides a definition of "accident," which must arise out of and in the course of employment ([10][12]).
+   - Section 35(1) stipulates that no action should lie against an employer for occupational injuries or diseases resulting in disablement or death ([10]).
+
+2. **Judicial Precedents**:
+   - The case discusses the interpretation of what constitutes an accident arising out of employment, suggesting that any injury sustained in the workplace could qualify, provided a causal link is established ([12][20]).
+   - The court relies on previous rulings, including **MEC v DN** and **Khoza**, which explored the causal relationship between employment duties and resultant injuries ([19][30], [15][20]).
+
+## A – Application
+In evaluating Churchill's circumstances, the court focused on whether her injuries were sustained "in the course of" and "out of" her employment. The Court noted:
+
+1. **Course of Employment**: It was accepted by all parties that the injury occurred during the course of her employment since Churchill was at her workplace when the protest erupted ([26][27]). 
+
+2. **Out of Employment**: The Court found that the injuries did not arise "out of" her employment. The incident that resulted in her injuries stemmed from a misunderstanding that escalated into violence; thus, the provocations were not linked to her professional duties ([36][34]). The court dismissed the respondents' claims of foreseeable risks related to protests as a justification for their liability, asserting that those circumstances did not transform the assault into a risk incidental to her employment ([28][33]).
+
+3. The court acknowledged that despite the assault occurring during working hours in the workplace, this scenario did not establish an occupational injury according to the stringent definitions under COIDA.
+
+The appeal effectively dismantled the special plea due to a lack of established liability and causation connecting the injuries to the responsibilities of the employment [{31][36]}.
+
+## C – Conclusion
+The Supreme Court of Appeal held that the appeal should be upheld, dismissing the respondents' special plea ([37]). The judgment articulated a clear distinction that while Churchill's injuries occurred in the workplace, they did not arise out of her employment in a manner that would warrant exclusion from liability under COIDA. Hence, the court declared the Premier liable for damages to Churchill for the injuries sustained during the protest, and remitted the case to the High Court for a determination of damages to be awarded ([37]).
+
+The implications of this case highlight the nuanced interpretations of “arising out of” and “in the course of” employment, particularly in the context of protests and workplace safety, reaffirming that not all injuries occurring at the workplace qualify for compensation under occupational injury statutes.

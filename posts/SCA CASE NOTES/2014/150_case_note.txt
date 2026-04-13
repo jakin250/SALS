@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note on Medi-Clinic Limited v George Vermeulen
+
+## F – Facts
+In the case of **Medi-Clinic Limited v George Vermeulen** (504/13) [2014] ZASCA 150, Mr. Vermeulen was hospitalized on 17 May 2007 at Medi-Clinic Nelspruit after contracting cerebral malaria in Mozambique ([1]). He was admitted to the Intensive Care Unit (ICU) where he remained until 24 July 2007. During this period, he developed significant pressure sores on his sacrum and heels, leading to bilateral sciatic nerve injuries that rendered him wheelchair-bound ([1], [2]).
+
+Mr. Vermeulen contended that the nursing staff of Medi-Clinic were negligent in their care, specifically failing to implement adequate preventative measures to avoid the development of the pressure sores. He argued that the nursing staff should have turned him regularly to relieve pressure on the affected areas ([2]). The hospital denied liability, arguing the development of the sores was unavoidable due to Vermeulen's critically ill state and that turning him would have endangered his life. The North Gauteng High Court found in favor of Mr. Vermeulen, concluding that the hospital staff had been negligent ([2], [34]).
+
+Following the trial court's decision, Medi-Clinic appealed, seeking to overturn the judgment while Mr. Vermeulen cross-appealed for costs associated with the original trial ([2]).
+
+## I – Issues
+The core legal issue in this case revolved around the standard of care applicable in medical negligence claims, particularly whether the nursing staff at Medi-Clinic adequately performed their duties to prevent the development of pressure sores ([3]). Specifically, the Court examined:
+
+1. What constitutes negligence in medical practice, particularly in critical care settings? ([3], [6])
+2. Whether the injuries sustained by Mr. Vermeulen were avoidable through the implementation of a proper care regimen despite his severely impaired state ([4], [32]).
+
+## R – Rules
+Judicial precedent guides the determination of negligence in medical contexts:
+
+- In **Mitchell v Dixon** [1914] AD 519, it was established that a medical practitioner must exercise reasonable skill and care, not necessarily the highest standard of skill ([3]).
+- The **Bolam** test, as restated in **Bolitho v City and Hackney Health Authority** [1998] AC 232, dictates that a doctor will not be held negligent if their conduct aligns with a responsible body of medical opinion, which is logically supported ([6], [7]).
+- The court must assess whether expert opinions have a logical basis and whether the experts weighed the comparative risks and benefits of their medical recommendations ([8], [25]).
+
+## A – Application
+The Supreme Court of Appeal reiterated that the determination of negligence requires a critical evaluation of expert testimony. The Court found a fundamental error made by the lower court in accepting the opinion of Dr. Lebos without proper scrutiny. Dr. Lebos's assertion that Mr. Vermeulen could have been turned regularly during his critical care period did not sufficiently consider the risks associated with Mr. Vermeulen’s condition, particularly his fluctuating blood pressure ([26], [29]).
+
+The evidence from Professor Coetzee indicated that turning should be approached cautiously in a critically ill patient, particularly one with fluctuating vital signs. The evidence presented suggested that turning Mr. Vermeulen could indeed pose life-threatening risks during the critical period, which corroborated the hospital's defense ([30], [31]). The Court ultimately favored Professor Coetzee's conservative assessment, which asserted that, given Mr. Vermeulen's weight and concurrent medical issues, moving him could have exacerbated his unstable condition ([29]).
+
+The Court concluded that the nursing staff's actions fell within a range of acceptable medical practice. Thus, the mere occurrence of a bedsore in a critically ill patient—especially when proper preventive measures might still not have guaranteed avoidance of medical complications—did not inherently signify negligence ([32]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the appeal from Medi-Clinic, concluding that the nursing staff had not acted negligently in their care of Mr. Vermeulen, and that the development of the pressure sores was likely unavoidable given the circumstances ([34]). The initial ruling awarding damages to Mr. Vermeulen was set aside, affirming that healthcare professionals must operate under the practical realities of patient care without incurring liability for every adverse outcome in such complex medical environments ([34]). This case underscores the delicate balance in medical negligence standards, particularly in critical care, where patient instability poses significant challenges to standard care practices. 
+
+In summary, the ratio decidendi established by this case reinforces that medical practitioners are not liable for outcomes that occur when they act in accordance with a logically supported and reasonable body of medical opinion, even in the face of tragic results ([34]).

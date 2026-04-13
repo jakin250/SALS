@@ -1,0 +1,55 @@
+Case Note: IN THE SUPREME COURT OF SOUTH AFRICA
+Source Folder: 1996
+
+# FIRAC Case Note: Golden China TV Game Centre v Nintendo Co Ltd
+
+**Case Citation**: Golden China TV Game Centre and Others v Nintendo Co Ltd [1996] ZASCA 67, 1996 (3) SA 144 (A)
+
+**Courts**: Supreme Court of South Africa (Appellate Division)
+
+**Judges**: Corbett CJ, E M Grosskopf, Harms, Schutz, and Plewman JJA
+
+**Heard**: 9 September 1996  
+**Delivered**: 25 September 1996
+
+---
+
+### F – Facts
+
+The case involves an appeal by the appellants, **Golden China TV Game Centre** and others, against an order issued by Hartzenberg J in the court below ([para 2]). The respondent, **Nintendo Co Ltd**, claimed copyright ownership over approximately forty video games, which the appellants had imported from Taiwan ([para 2-3]). The appellants included local importers and retailers that sold or distributed the video games ([para 2]). 
+
+The core of the dispute focused on whether these video games qualify for copyright protection as "cinematograph films" under South African law, specifically the Copyright Act 98 of 1978 ([para 2]). The lower court found in favor of Nintendo, holding that the video games indeed fell within the ambit of the definition of cinematograph films and thus enjoyed copyright protection ([para 4]).
+
+### I – Issues
+
+The main issues for determination by the Appellate Division were:
+
+1. Whether video games can be classified as "cinematograph films" under the Copyright Act 98 of 1978 ([para 25]).
+2. If the first fixation occurs in the ROMs of the video games, and whether this qualifies as a legal basis for copyright protection ([para 16]).
+3. The interpretation of the definition of "cinematograph film" in relation to the dynamic nature of video games ([para 18]).
+
+### R – Rules
+
+The rules governing this case stem from the relevant sections of the Copyright Act 98 of 1978:
+
+1. **Section 2** of the Act lists the categories of eligible works for copyright, including **"cinematograph films"**.
+2. The definition of a *cinematograph film* in **Section 1** includes "a sequence of images capable, when used in conjunction with any mechanical, electronic or other device, of being seen as a moving picture" ([para 13]).
+3. Relevant case law includes prior judgments such as *Stern Electronics Inc v Kaufman* and *Midway Mfg Co v Dirkschneider*, which provide interpretive guidance on the nature of video games as related to copyright ([para 4]).
+
+### A – Application
+
+The Court analyzed whether video games possess the essential characteristics of cinematograph films as defined under the Copyright Act. 
+
+**First Fixation**: The Court held that the requirement of first fixation was satisfied by the encoding of visual and audio elements into the ROMs of the video games ([para 16-17]). Even though differing opinions existed on whether this integrity constituted a fixation, the court found that, fundamentally, for copyright to arise, the work must be fixed in some material form, which was undisputed ([para 16]).
+
+**Sequence of Images**: The Court addressed a crucial difference between traditional cinematograph films and video games—the nature of image sequences being fixed or variable. The appellants argued that video games, lacking a fixed sequence at any moment due to user interaction, should not qualify as cinematograph films ([para 18]). The Court rejected this by citing legislative intent to adapt the definition to include emerging technologies, such as video games, and held that the ability of the player to influence sequence does not detract from its classification as a cinematograph film ([para 19]).
+
+**Capable of Being Seen**: The Court further clarified that the pertinent question was not whether sequences of images could change but rather whether they could be reproduced as a coherent work. Referring to the definition's wording, the Court found that video games fit this criterion as they are ultimately experienced as a moving picture by the player ([para 20]).
+
+### C – Conclusion
+
+The Appellate Division dismissed the appeal, affirming the lower court's decision that Nintendo’s video games qualify for copyright protection as cinematograph films. The Court determined that the games had been fixed and presented a sequence of images capable of being viewed as a motion picture. The implications of this decision underscore the adaptability of copyright law to technological advancements, acknowledging video games as a legitimate form deserving of protection under existing legal frameworks ([paras 22-24]).
+
+The appeal was dismissed with costs, including those for two counsel ([para 24]). Thus, the judgment reinforced the legal standing of video games within the purview of intellectual property, offering a precedent for future cases concerning emerging digital media.
+
+**Key Takeaway**: This case establishes a significant precedent that video games can be classified and protected under the same copyright frameworks that apply to traditional cinematographic works, thus broadening the scope of copyright in an increasingly digital and interactive environment.

@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# Case Note: Commissioner, South African Revenue Service v Motion Vehicle Wholesalers (Pty) Ltd [2006] SCA 119 (RSA)
+
+## FIRAC Method
+
+### F – Facts: Relevant background and procedural history ([paras 1–5])
+
+The case involves an appeal following a decision made by R Claassen J in the High Court regarding the classification of imported vehicles by Motion Vehicle Wholesalers (Pty) Ltd (the respondent). The vehicles in question are Toyota Land Cruiser 100 Series, manufactured as eight-seater vehicles in Japan. The manufacturer designs these vehicles to include two bucket seats and two bench seats that together accommodate eight persons, with a removable third row that is connected via brackets ([para 2]).
+
+Upon importation, the vehicles undergo modifications in Australia, where two additional seats facing each other are temporarily installed in the luggage compartment. These modifications are superficial and can be reversed, as the additional seats are removed after customs clearance. The respondent imports over 580 vehicles classified under heading 87.02 of the Customs and Excise Act 91 of 1964 ([paras 2, 4]). A determination by the South African Revenue Service (SARS), made in accordance with section 47(9)(a)(i) of the Act, initially classified the vehicles under heading 87.02, but this determination was later revoked, leading to a classification under heading 87.03 ([paras 4, 5]).
+
+### I – Issues: Legal or constitutional questions ([paras 6–8])
+
+The legal issue for the Supreme Court of Appeal to determine is whether the modifications rendered the vehicles “designed for the transport of ten or more persons” as per heading 87.02, or if they remained classified under heading 87.03, which pertains to vehicles designed for less than ten persons. The court must evaluate whether the modifications serve a legitimate purpose in reflecting the vehicle's design intention or if they are considered a mere simulation designed to evade higher customs duties ([paras 6–8]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 9–11])
+
+The court draws upon the Explanatory Notes to tariff headings under Chapter 87, specifically noting that classification hinges on the design of the vehicle rather than its capacity. It is explicitly stated in the headings that vehicles designed to transport ten or more persons fall under heading 87.02, while those for fewer than ten fall under heading 87.03 ([para 9]). 
+
+Precedents cited in making this determination include **Autoware (Pty) Ltd v Secretary for Customs & Excise** and **Secretary for Customs & Excise v Thomas Barlow & Sons Ltd**, which discuss the relevance of design intentions and purpose in classification ([para 10]). The court acknowledges the general principle that a taxpayer may minimize tax liabilities through lawful means, but it asserts that any fragrant attempts to disguise a vehicle's original design for tax evasion must not succeed ([para 11]).
+
+### A – Application: Analysis of how the court applied the law ([paras 12–15])
+
+The court critically examined the evidence concerning the modifications undertaken on the vehicles. It noted that the actual manufacturing specifications of the vehicles were for eight persons, and the modifications made in Australia were transient, involving very little time and effort ([paras 12–14]). 
+
+The court rejected the respondent’s claim that the modification was conducive to a genuine design intent for larger passenger capacity. The modifications, as per the evidence, did not change the fundamental design or intended use of the vehicle. The superficiality of the alterations—evidenced by the inferior quality of the additional seats, quick process of installation, and the fact that the vehicles were sold as eight-seaters—were factors in determining the classification. Hence, the court concluded the modifications did not meet the substantive requirements to classify the vehicles as meant for ten or more persons ([paras 13, 14, 15]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 16–16])
+
+The Supreme Court of Appeal held that the vehicles imported by the respondent, despite the temporary modifications, remain classified under heading 87.03 as they were primarily designed and manufactured as eight-seaters. The appeal was upheld, the previous determination by SARS was declared invalid, and costs were awarded to the appellant ([para 16]).
+
+The ratio decidendi emphasizes that the classification of goods for customs duties must align with their original design intentions, and that mere cosmetic or reversible alterations intended to exploit tax classifications constitute a sham. This ruling has significant implications for customs law in South Africa, reinforcing stricter adherence to the principles of lawful classification to prevent tax evasion through deceptive practices.
+
+## References
+**Commissioner, SA Revenue Service v Motion Vehicle Wholesalers (Pty) Ltd [2006] SCA 119 (RSA)**. 
+
+*Page references and citations based on the South African case law and statutory provisions cited within the judgment.*

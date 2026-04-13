@@ -1,0 +1,29 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Sasol Chevron Holdings Limited v Commissioner for the South African Revenue Service [2023] ZACC 30
+
+## F – Facts
+The case concerns Sasol Chevron Holdings Limited (Sasol Chevron), a foreign joint venture not resident in South Africa, and the Commissioner for the South African Revenue Service (SARS) ([paras 1–2]). Sasol Chevron sourced catalysts from Sasol Catalyst, which supplied them on a zero-rated VAT basis as stipulated under the Value-Added Tax Act (VAT Act) and the Export Regulations ([paras 3–5]). Due to delays, Sasol Chevron failed to export the goods within the required 90-day period, prompting Sasol Catalyst to seek extensions from SARS to facilitate the exportation ([para 6]). 
+
+SARS denied the possibility of a refund for the VAT levied on these goods, declaring that Sasol Chevron was ineligible because the required timelines were not observed ([paras 9–12]). Sasol Chevron's review application, served in September 2018, aimed to contest SARS's ruling of December 2017, which stated the denial of VAT refund eligibility due to non-compliance with regulatory timelines ([paras 13–14]). The High Court dismissed SARS's preliminary objection about timing under the Promotion of Administrative Justice Act (PAJA) ([para 14]). However, the Supreme Court of Appeal took a contrary view, concluding that the review application was not initiated within the requisite 180 days stipulated by section 7(1) of PAJA ([para 15]).
+
+## I – Issues
+The Constitutional Court addressed two primary legal issues: 
+1. Did Sasol Chevron file its review application within the 180 days specified in section 7(1) of PAJA, and what constitutes the initiation of such an application under PAJA ([para 18])?
+2. Was Sasol Chevron entitled to an extension for claiming a VAT refund as per the Export Regulations ([para 18])?
+
+## R – Rules
+The governing law encompasses both the Promotion of Administrative Justice Act and the Value-Added Tax Act. Section 7(1) of PAJA mandates that review applications be instituted within 180 days after the applicant becomes aware of the administrative action and the rationale behind it ([para 12]). The VAT Act and related Export Regulations govern the procedures for levying VAT on goods exported from South Africa and outline conditions under which refunds may be claimed ([paras 1, 5]).
+
+Case law interpreting PAJA establishes that the timeframe begins when the reasons for a decision are known or should reasonably have been known by the complainant ([para 20]). The Constitutional Court relied on the precedent set in **Aurecon South Africa (Pty) Ltd v City of Cape Town** ([paras 19–20]), emphasizing that awareness of the administrative action's rationale is crucial in determining the commencement of the 180-day countdown provided by PAJA.
+
+## A – Application
+The Court analyzed the initiation date of the review application, affirming that Sasol Chevron's awareness of the decision made on 6 December 2017 marked the start of the 180-day period for filing a review ([paras 20–21]). The Court dismissed Sasol Chevron's argument that subsequent correspondence from SARS, particularly the letter dated 26 March 2018, reset this timeline, considering that this latter letter merely elaborated on previously provided reasons ([para 22]).
+
+The Supreme Court of Appeal's perspective, supported by the Constitutional Court, highlighted that allowing indefinite extensions to the timeline based on requests for additional reasons would contravene the purposes of PAJA, undermining the finality of administrative decisions ([para 23]). Furthermore, it ruled that the discretion exercised by SARS in denying extensions was justified under the regulatory framework governing VAT ([para 20]).
+
+## C – Conclusion
+The Constitutional Court ruled unanimously, granting leave to appeal but ultimately dismissing Sasol Chevron's case with costs ([para 24]). The Court's holding clarified that the 180-day limit stipulated in PAJA is strictly enforced, emphasizing the importance of timely action in administrative reviews. Importantly, the ruling underscores the necessity for parties involved in administrative actions to be informed of their rights and the need for procedural compliance, thereby reinforcing the principles of legal certainty and administrative accountability ([para 24]). 
+
+This decision carries significant implications not only for Sasol Chevron but also for all stakeholders engaged in export operations, reinforcing the principle that adherence to regulatory timelines is critical for maintaining eligibility for tax refunds under South African law.

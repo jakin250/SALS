@@ -1,0 +1,36 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Democratic Alliance v African National Congress and Another [2015] ZACC 1
+
+## Facts 
+The appeal originates from the publication of an SMS by the Democratic Alliance (DA) on March 20, 2014, sent to approximately 1.6 million voters in Gauteng. The SMS stated, "The Nkandla report shows how Zuma stole your money to build his R246m home. Vote DA on 7 May to beat corruption. Together for change.” ([1]–[3]). The African National Congress (ANC), the first respondent, claimed this SMS contained false information and violated section 89(2)(c) of the Electoral Act and item 9(1)(b) of the Electoral Code of Conduct, which prohibits the dissemination of false information intended to influence election outcomes ([4]–[5]). 
+
+The ANC sought an urgent interdict in the South Gauteng High Court to prevent further dissemination of the SMS and demanded a retraction ([12]–[15]). The DA contended that the SMS expressed fair comment based on the Nkandla Report, arguing it was not false since the report highlighted issues relating to President Zuma's conduct ([16]). 
+
+Initially, the High Court upheld the DA's argument, stating that the SMS constituted an opinion, which does not violate the provisions of the Electoral Act ([18]). However, the Electoral Court later overturned this, declaring the SMS a statement of fact that was false, thus violating the Electoral Act ([19]).
+
+## Issues
+1. Does the prohibition in section 89(2)(c) of the Electoral Act apply to statements of opinion, or is it limited to statements of fact?
+2. Was the SMS published by the DA false information as defined by the Electoral Act?
+3. Does the interpretation of the SMS affect the rights of freedom of expression and fair elections?
+
+## Rules
+1. **Section 16 of the Constitution** guarantees the right to freedom of expression but does not extend to propaganda for war or incitement to violence ([2]).
+2. **Section 89(2)(c) of the Electoral Act** prohibits the publication of false information aimed at influencing election outcomes ([48]).
+3. The **Electoral Code of Conduct**, as part of the Electoral Act, further prohibits registered parties from publishing false or defamatory allegations ([127]).
+
+**Key Cases:**
+- **New National Party of South Africa v Government of the Republic of South Africa** ([1999] ZACC 5), which emphasizes that electoral conduct must uphold the integrity of elections ([34]).
+
+## Application 
+The court divided its analysis into the **applicability of the law** to opinions versus facts and the **truthfulness of the statement** in the SMS. The majority opinion (Zondo J) emphasized that section 89(2)(c) applies only to factual statements and not opinions. The conclusion drawn was that the SMS, being a commentary on the Nkandla Report, did not contain a false statement under the law, as it expressed a perception rather than an unqualified assertion of fact ([63]). 
+
+Zondo J further analyzed the meaning of the phrase “shows how” in the context of the SMS. The wording indicated a source of information rather than a definitive finding. Therefore, the court leaned toward the interpretation that an ordinary reasonable reader would perceive it as opinion and allowed for public political debate, crucial in a democratic context ([56], [152]).
+
+Contrarily, the joint judgment (Cameron J, Froneman J, and Khampepe J) contended that if the SMS could potentially mislead voters, this could constitute false information under the Electoral Act, thus justifying intervention ([136]–[140]). The dissenting opinion (Van der Westhuizen J) similarly diverged, arguing for a broader interpretation whereby opinions could also carry the weight of being “false information” if they mislead voters ([176]–[198]).
+
+## Conclusion 
+The Constitutional Court ultimately held that the DA’s SMS did not violate section 89(2)(c) of the Electoral Act. It concluded that the SMS expressed an interpretation of the Nkandla Report rather than false information. The court ruled in favor of the DA, setting aside the Electoral Court’s decision and establishing that political speech, including opinions based on interpretations of public reports, is protected under the Constitution, provided it does not cross into false statements ([169], [203]).
+
+This case reinforces the balance between the right to freedom of expression and regulations governing free and fair elections, emphasizing robust political debate while restricting blatantly false information dissemination.

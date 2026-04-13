@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: The Trustees for the Time Being of the Bus Industry Restructuring Fund v Break Through Investments CC & Others [2007] SCA 101 (RSA)
+
+## F – Facts
+
+The appellants, the Trustees for the Time Being of the Bus Industry Restructuring Fund ('the Fund'), appealed against a judgment from the Pietermaritzburg High Court which upheld exceptions raised by the respondents to the particulars of claim. The appellants sought payment of R297,340.87 from the four respondents based on statutory and contractual grounds ([1], [2]).
+
+The Fund was established on 1 November 1999 under a tripartite agreement involving the Minister of Transport, the South African Bus Operators’ Association, and relevant labour unions, primarily to assist bus operators in paying retrenchment benefits during restructuring ([4]). Participating bus operators were mandated to contribute to the Fund, with Kwa-Zulu Transport (Pty) Ltd ('KZT') being one such entity. Following KZT's liquidation in August 2001, its liquidators sold the bus transportation business to Basfour 2488 (Pty) Ltd ('Basfour'), which included KZT's obligations to the Fund ([6], [7]).
+
+The pivotal issue arose from clause 19.5 of the sale agreement, which stated that Basfour could not 'cede, delegate, assign or sub-contract any of its rights or obligations in terms of this agreement to any person without prior written consent of the liquidators' ([8]). The respondents argued this clause precluded any claim against them because it required prior consent before any obligations could be assigned, which, the appellants alleged, was not obtained ([9], [10]).
+
+## I – Issues
+
+The legal questions before the court were primarily focused on the interpretation of clause 19.5 of the sale agreement. Specifically, the key issue was whether the obligations of KZT towards the Fund, which were purportedly taken over by Basfour, were subject to the said clause, and thus, whether the appellants had a valid cause of action ([11], [12]). 
+
+Further, the appeal raised procedural questions regarding the costs associated with the exceptions and the status of the first exception, as the appeal was only partially resisted by the respondents ([3]).
+
+## R – Rules
+
+The court's analysis was grounded in principles of contract interpretation, specifically the importance of deriving meaning from the entire context of the agreement. The judges considered previous relevant cases, including:
+- **Lewis v Oneanate (Pty) Ltd** 1992 (4) SA 811 (A) ([11]).
+- **Sassoon Confirming and Acceptance Co (Pty) Ltd v Barclays National Bank Ltd** 1974 (1) SA 641 (A) regarding contractual interpretation ([15]).
+- **Cape Provincial Administration v Clifford Harris (Pty) Ltd** 1997 (1) SA 439 (A) concerning interpretations leading to absurd results ([21]).
+
+The ordinary grammatical meaning of terms such as 'any' and 'in terms of' were also scrutinized, informed by judicial precedent that asserts the importance of contextual reading ([12], [15]).
+
+## A – Application
+
+In analyzing clause 19.5, the court noted the broad implications of the term 'any', suggesting its interpretation should naturally encompass all obligations Basfour assumed, including those toward the Fund. The respondents contended for a wider interpretation, which the court acknowledged had commercial relevance but ultimately found lacking against the backdrop of absurdity stemming from the practical implications of such a reading ([13], [17], [20]).
+
+The judgment highlighted the drafting intent underlying the transaction, inferring that the liquidators would not reasonably have wanted to retain control over KZT's obligations indefinitely, especially in the context of their statutory responsibilities during liquidation ([19]). The court ultimately favored the appellants' interpretation, asserting that the clause only pertained to obligations concerning the liquidators and the sale agreement, upholding the appellants’ claim as valid ([24]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal allowed the appeal against the second exception, dismissing it while upholding the first exception regarding costs ([25]). The court concluded that clause 19.5 did not preclude the assignment of KZT's obligations to the Fund, asserting that the interpretation advanced by the appellants was legally sound. The case reinforces key principles of contractual interpretation, notably the importance of contextual reading and the avoidance of absurd commercial outcomes. The implications are significant for the enforceability of obligations arising from complex commercial transactions, particularly in liquidation contexts, guiding similar future litigations in interpreting contractual provisions surrounding assignment and consent.
+
+The costs order was also revisited, indicating a nuanced understanding of equitable remedies in light of the partial success of the appeal ([26]).
+
+--- 
+
+### References:
+- [2007] SCA 101 (RSA).
+- Lewis v Oneanate (Pty) Ltd 1992 (4) SA 811 (A).
+- Sassoon Confirming and Acceptance Co (Pty) Ltd v Barclays National Bank Ltd 1974 (1) SA 641 (A).
+- Cape Provincial Administration v Clifford Harris (Pty) Ltd 1997 (1) SA 439 (A).

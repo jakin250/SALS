@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: Smuts v Kromelboog Conservation Services (Pty) Ltd and Another (511/2023) 2024 ZASCA 156
+
+## F - Facts ([paras 1–24])
+
+In **Smuts v Kromelboog Conservation Services (Pty) Ltd and Another**, the appellant, Dr Boudewyn Homburg De Vries Smuts, appealed against an order from the Western Cape Division of the High Court that declared him a delinquent director under section 162(5) of the Companies Act 71 of 2008 (the "Act"). Dr Smuts had been the sole director of Kromelboog Conservation Services Pty Ltd ("Kromelboog") from its inception until his removal on July 7, 2021, amidst allegations of misconduct ([para 3]).
+
+The case arose from Kromelboog's operations concerning farming properties purchased by a trust, Tamarisk Trust, and a management agreement with the Landmark Foundation Trust ([para 5–6]). During the period leading to his removal, Kromelboog incurred significant financial losses, amounting to over R16 million, funded largely by loans from Tamarisk ([para 9]). Several disputes arose among the parties regarding the management and financial practices of Kromelboog, leading to Kromelboog's claims against Dr Smuts for gross misconduct.
+
+Among the complaints against Dr Smuts cited in the high court were: unauthorized payments to himself as director, incurring substantial legal fees for personal litigation, and transferring Kromelboog’s funds to a personal account just prior to shareholder meetings discussing his removal ([paras 12–15, 22]). Despite the dismissal of some claims, the high court ultimately found sufficient grounds to declare him a delinquent director, citing gross abuse of his position and infliction of harm upon Kromelboog. The appeal was heard on August 21, 2024, and the order was delivered on November 14, 2024 ([paras 1, 22]).
+
+## I - Issues ([paras 25–26])
+
+The primary legal issues before the Supreme Court of Appeal of South Africa included:
+
+1. **Whether the high court erred in its factual findings and legal application when declaring Dr Smuts a delinquent director under section 162(5) of the Companies Act**.
+2. **Whether the purported misconduct was sufficient to meet the statutory threshold of gross abuse of power or harm to the company as defined under the Act** ([para 26]).
+
+## R - Rules ([paras 27–30])
+
+The relevant provisions of the Companies Act upon which the high court's decision was based include:
+
+- **Section 162(5)(c)**: This section mandates a court to declare a person a delinquent director if they have:
+   - Grossly abused their position as a director.
+   - Taken personal advantage of information or opportunities contrary to section 76(2).
+   - Intentionally or by gross negligence inflicted harm on the company, among other factors ([para 26]).
+
+- **Section 76(2)**: Dictates that directors must not use their positions to gain advantages for themselves or related parties without appropriate shareholder approval ([para 27]).
+
+- **Case Law**: The court referenced **Gihwala and Others v Grancy Property Ltd and Others**, which clarifies that the kind of conduct justifying a delinquent director declaration must represent serious misconduct rather than trivial matters. Serious misconduct includes gross abuses of position and finding personal advantage through insider information ([para 30]).
+
+## A - Application ([paras 31–79])
+
+The Supreme Court's application of the law focused on the nature of Dr Smuts’s actions during his tenure as a director:
+
+1. **Clearing of Funds**: The court noted that Dr Smuts directed Kromelboog to transfer its cash reserves to a personal account just before shareholder deliberations about his removal. This act violated section 75(3) of the Act, as he failed to obtain shareholder approval for a transaction where he had a personal financial interest ([paras 35–38]).
+
+2. **Incurrence of Legal Fees**: The court found that Dr Smuts's actions in causing the company to pay substantial legal fees were primarily in connection with his defense against removal, demonstrating a blatant conflict of interest ([paras 41–50]).
+
+3. **Donation to Landmark**: The approval process for a donation to Landmark that he had personally benefited from was found to lack legitimate shareholder approval, again constituting a breach of his fiduciary duties under the Act ([paras 51–54]).
+
+4. **Usurpation of Business**: The court highlighted that Dr Smuts attempted to transfer Kromelboog's assets and operations to a competing entity, which was part of a broader strategy to benefit his personal interests at Kromelboog's expense ([paras 68–74]).
+
+5. **Conflict of Interest**: Throughout the proceedings, the court noted that Dr Smuts consistently acted in conflict concerning his dual roles as a director of Kromelboog and a trustee of Landmark, thereby undermining his duty to Kromelboog ([paras 75–80]).
+
+On the substantial ground of gross misconduct, the court determined that Dr Smuts’s actions collectively demonstrated a clear pattern of behavior that warranted the delinquency declaration under section 162(5)(c) ([para 78]).
+
+## C - Conclusion ([paras 79–80])
+
+The Supreme Court of Appeal dismissed the appeal, affirming the high court's finding that Dr Smuts had conducted himself in a manner that constituted gross abuse of his position as a director. The ruling confirmed that Dr Smuts’s actions not only inflicted harm upon Kromelboog but also failed to meet the expectations of fiduciary duties expected of him under the law. Thus, the declaration of delinquency was upheld, reflecting the serious consequences of mismanagement and reinforcing corporate governance standards. The appeal was dismissed with costs, including those for two counsels where applicable ([para 80]).
+
+This case highlights the stringent standards imposed on directors under corporate law, particularly regarding the necessity to uphold the fiduciary duties owed to the company and its stakeholders.
+
+---
+
+**Key References**:
+- Companies Act 71 of 2008.
+- Gihwala and Others v Grancy Property Ltd and Others [2016] ZASCA 35.
+- Lewis Group Limited v Woollam and Others [2016] ZAWCHC 130.

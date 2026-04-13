@@ -1,0 +1,64 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: **Transnet SOC Ltd v Tipp-Con (Pty) Ltd and Others (797/2022)**
+
+**Court**: Supreme Court of Appeal of South Africa  
+**Judgment Date**: 31 January 2024  
+**Neutral Citation**: [2024] ZASCA 12  
+
+## F – Facts
+
+In the case of **Transnet SOC Ltd v Tipp-Con (Pty) Ltd and Others**, the appellant, Transnet SOC Ltd (Transnet), sought judicial review of its decision to award a tender to Tipp-Con for the supply and installation of a high-security fence at various sites. This decision was initially contested in the Gauteng Division of the High Court by Transnet, which alleged the tender award was unlawful due to non-compliance with the Request for Proposal (RFP) specifications. Transnet’s application for self-review was dismissed, leading to the present appeal ([1]–[6]).
+
+Transnet’s claims arose from three main grounds:
+
+1. **Tender Sample Compliance**: Transnet argued that Tipp-Con provided a non-compliant sample during the tender evaluation process, as the sample was not ‘hot dip galvanized’, a condition specified in the RFP.
+2. **Contract Lawfulness**: Transnet maintained that the contract was invalid because Tipp-Con failed to submit the necessary test results prior to the contract's conclusion, which they claimed was a condition precedent.
+3. **Contract Specifications Compliance**: The final fence constructed by Tipp-Con was allegedly non-compliant with the tender specifications and its best and final offer ([5]–[6]).
+
+The high court assessed these claims and ultimately dismissed the review application, finding that Transnet had unreasonably delayed the self-review process and that it brought the application primarily to escape its contractual obligations ([6]).
+
+## I – Issues
+
+The case presented two preliminary issues for the court's determination:
+
+1. **Unreasonableness of Delay**: The court was tasked with determining whether Transnet had unreasonably delayed in initiating the self-review.
+2. **Overlooking Delay**: If the delay was found to be unreasonable, the second issue was whether the court should overlook this delay ([8]).
+
+Further, the court needed to consider whether material irregularities had occurred during the tender process, which could justify setting aside the tender award and the subsequent contract ([7]–[8]).
+
+## R – Rules
+
+The legal principles governing the delay in self-reviews by state organs are well-established. A two-step inquiry must be undertaken: 
+
+1. Determine if there was an unreasonable or undue delay in bringing the review application.
+2. If there was an unreasonable delay, consider whether that delay should be overlooked ([26]).
+
+The courts have articulated that there is no fixed period for lodging such a review, and the evaluation timing starts from when the applicant becomes aware of the irregularity ([27]).
+
+Key cases referenced include:
+
+- **Khumalo and Another v Member of the Executive Council for Education: KwaZulu-Natal**: Established the two-step inquiry regarding delay.
+- **Buffalo City Metropolitan Municipality v Asla Construction (Pty) Ltd**: Clarified that the clock starts running from the applicant’s awareness of the action taken ([27]).
+- **City of Cape Town v Aurecon South Africa (Pty) Ltd**: Highlighted that all knowledge within a committee of the tender process is attributed to the state organ ([36]).
+
+Additionally, the principles of **de minimis non curat lex** (the law does not concern itself with trifles) were also relevant in determining the materiality of deviations from tender requirements ([41]).
+
+## A – Application
+
+The Supreme Court of Appeal evaluated whether Transnet had acted reasonably in its delay. Transnet was aware of the potential non-compliance issues as early as January 2019, yet it only launched the review application in October 2020, approximately 20 months later ([28]–[29]). The court noted the absence of an explanation for this significant delay, which led to the conclusion that the delay was indeed unreasonable.
+
+In its analysis, the court also took into account the merits of Transnet's claims. First, it considered that the alleged deficiencies in the tender submission were not materially egregious, as the adjudicator had confirmed that the installed fence complied with the contract’s specifications and was hot dip galvanized ([41]). 
+
+Transnet's argument that the contract was unlawful due to the lack of test results prior to the contract conclusion was also scrutinized. The court determined that Transnet had failed to show that it raised these concerns prior to executing the contract and accepted that it bore responsibility for its oversight ([45]).
+
+Furthermore, while the contract specifications differed from those in the RFP and Tipp-Con's best and final offer, it was noted by the court that these deviations did not violate the spirit of the procurement law, as the essential purpose of the RFP—to secure a high-quality fence—was fulfilled ([46]).
+
+In addressing whether the delay should be overlooked, the court referred to the need for efficient functioning of public bodies, emphasizing the necessity for judicial reviews to occur without undue delay ([40]). The court recognized that while public interest considerations might advocate for overlooking delay in cases of corruption or substantial misconduct, that standard did not apply here, as no allegations of corruption were raised against Tipp-Con ([51]).
+
+## C – Conclusion
+
+Ultimately, the Supreme Court of Appeal dismissed Transnet's appeal with costs, reinforcing the principles of administrative legality in public procurement. The ruling emphasized the importance of timely action in contesting public contracts and highlighted that even if irregularities exist, they must be material and significantly impactful to be grounds for judicial review.
+
+This case underscores the importance of both timely administrative actions by state organs and the adherence to principles of fairness and transparency in public procurement processes ([58]). It affirms that not every procedural misstep warrants judicial intervention, particularly when the substantive objectives of the public procurement framework have been met without overarching prejudice to the public interest or to the parties involved.

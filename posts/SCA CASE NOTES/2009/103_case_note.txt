@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note: Ronbel 108 (Pty) Ltd v Sublime Investments (Pty) Ltd (in liquidation) [2009] ZASCA 103
+
+## F - Facts
+
+The case, **Ronbel 108 (Pty) Ltd v Sublime Investments (Pty) Ltd** (in liquidation) [2009] ZASCA 103, originates from a dispute following the voluntary winding up of Sublime Investments (Pty) Ltd. Absa Bank Limited originally instituted legal proceedings against Sublime, but those proceedings were suspended upon the company’s resolution to wind up voluntarily on 30 April 2003. The relevant provisions of the Companies Act of 1973 dictate that once a company is in the process of being wound up, all civil proceedings are suspended until a liquidator is appointed. In this case, a provisional liquidator was appointed before Mr. Anticevich was appointed as the final liquidator on 1 July 2004.
+
+The suspension of proceedings under Section 359(1)(a) of the Companies Act 61 of 1973 meant that Absa had to notify the liquidator within four weeks of their appointment of their intention to continue with the suspended proceedings. Absa failed to give the required notice, which, under Section 359(2)(b), meant that the proceedings were deemed abandoned unless the court directed otherwise. 
+
+In October 2005, an agreement was reached between Absa and Ronbel 108 (Pty) Ltd, wherein Absa ceded its claims against Sublime to Ronbel. Following this, Ronbel sought the court’s direction to allow it to continue the abandoned proceedings and substitute itself for Absa. The application was dismissed by Bruinders AJ in the High Court, leading Ronbel to appeal the dismissal on various grounds ([paras 1–9]).
+
+## I - Issues
+
+The key legal issues in this case include:
+
+1. Whether the proceedings initiated by Absa against Sublime became abandoned due to Absa’s failure to notify the liquidator as required under Section 359(2) of the Companies Act 61 of 1973.
+2. Whether the High Court erred in refusing to exercise its discretion under Section 359(2)(b) to allow Ronbel to continue with the abandoned proceedings after Absa ceded its claims to Ronbel.
+3. The implications of Absa’s deliberate decision not to proceed with its action against Sublime on the question of whether Ronbel could rely on the claims ceded to it ([paras 7–15]).
+
+## R - Rules
+
+The case primarily revolves around the interpretation and application of the following legal rules:
+
+1. **Section 359(1) of the Companies Act 61 of 1973**: Mandates that civil proceedings against a company are suspended once a winding-up resolution is passed.
+2. **Section 359(2) of the Companies Act 61 of 1973**: Stipulates that parties intending to continue suspended proceedings must provide written notice to the liquidator within specified timeframes:
+   - **Section 359(2)(a)** requires notice within four weeks of the liquidator's appointment.
+   - **Section 359(2)(b)** states that proceedings will be considered abandoned if notice is not provided unless the court otherwise directs.
+3. **Precedents** such as **Baskin v Levey** and **Umbogintwini Land & Investment Co (Pty) Ltd v Barclays National Bank Ltd**, which elucidate the purpose of these sections and the requirement for liquidators to assess claims promptly ([paras 1–12]).
+
+## A - Application
+
+In applying the aforementioned rules, the Supreme Court of Appeal referenced the procedural history, emphasizing that Absa’s deliberate choice not to notify the liquidator constituted an abandonment of the action. The Court underscored the importance of allowing liquidators to evaluate claims immediately after their appointment to protect the interests of all creditors ([paras 9–12]). 
+
+The Court highlighted that Ronbel could not argue that the liquidator had not been prejudiced by Absa’s failure to notify, as Absa's inaction had precluded the liquidator from assessing the validity of the claim against Sublime when it had the opportunity. It was noted that Absa had full knowledge of its obligations under Section 359(2)(b) but decided, presumably for strategic reasons, not to proceed. This action further demonstrated that Absa had indeed abandoned the proceeding ([paras 10–14]).
+
+Additionally, the Court found no basis for exercising discretion in favor of Ronbel since the original plaintiff, Absa, itself had opted out of the litigation process. As per the legislative intent behind the Companies Act’s abandonment provision, the Court reinforced the grounds for finality in the winding-up process and the necessary protection of the liquidator's interests ([paras 11–15]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal ultimately dismissed Ronbel’s appeal. The decision reinforced the principle that proceedings against a company in liquidation must adhere strictly to statutory requirements for notifications, with the underlying goal of protecting the interests of creditors and ensuring the liquidator's ability to manage claims effectively.
+
+The ratio decidendi of this case illustrates the consequences of procedural compliance in corporate liquidation proceedings and affirms the importance of timely notifications to liquidators in maintaining the integrity of the liquidation process. The decision serves as a caution to potential claimants regarding the stringent timelines established by the Companies Act. 
+
+Additionally, the implications of this ruling extend beyond the immediate parties, emphasizing the need for cooperation and adherence to statutory frameworks in corporate law to secure fair outcomes for creditors ([paras 16]). The appeal was dismissed with costs, marking a clear endorsement of stringent compliance with procedural formalities in corporate liquidation contexts.

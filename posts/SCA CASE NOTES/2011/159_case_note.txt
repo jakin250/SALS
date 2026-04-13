@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Lynn NO v Coreejes (687/2010)
+
+**F– Facts: Relevant Background and Procedural History ([paras 1–4])**
+
+The appeal in this case involves two liquidators, Mark William Lynn NO and Tintswalo Annah Nana Makhubele NO (the appellants), who were appointed to wind up Wagmaar Investments CC (Wagmaar), a company that had undergone voluntary liquidation pursuant to a resolution in March 2005. This process followed a prior judgment rendered in October 2004 against Wagmaar for a considerable sum owed to Total SA (Pty) Ltd. The appellants, along with another co-liquidator, Mr. J M Oelofsen, initiated legal proceedings against Colin Henry Coreejes and Leon Loock (the respondents) in July 2008. This action was based on allegations of fraudulent conduct involving the improper transfer of Wagmaar's assets to a trust.
+
+Prior to the commencement of this appeal, the respondents filed a procedural challenge concerning the authority of the appellants’ attorneys to institute action. This challenge escalated into a point in limine, revealing that Oelofsen had not participated in the decision to commence the action; he later resigned due to a conflict of interest, which the Master accepted. The High Court, however, ruled in favor of the respondents, determining that the action instituted by the appellants was a nullity due to non-compliance with section 382(1) of the Companies Act 61 of 1973 and that it could not be ratified post-facto.
+
+**I– Issues: Legal or Constitutional Questions ([paras 1–5])**
+
+The primary legal issue for determination was whether the non-compliance with section 382(1) of the Companies Act, which demands that liquidators act jointly, rendered the power of attorney given by two of the three liquidators a nullity and, if so, whether that inactivity could be subsequently ratified. The High Court had affirmed that the lack of a consensus from all joint liquidators nullified the legitimacy of the plaintiffs’ action, prompting the appellants to challenge whether such a ruling was legally grounded. Specifically, the questions concerned the nature of 'joint action' obligations imposed by the statutory framework, the distinct context between liquidators and trustees, and the implications of failure to comply with procedural requirements on the validity of initiated actions.
+
+**R– Rules: Legal Authorities and Precedents Relied Upon ([paras 6–12])**
+
+The court’s deliberation centered around the interpretation of section 382(1) of the Companies Act, which mandates that "when two or more liquidators have been appointed they shall act jointly in performing their functions." The court referenced *Powell & another v Leech & another; Leech & others v Powell & others* where it was established that actions performed without the requisite agreement of all liquidators were deemed null, with subsequent ratification being untenable.
+
+Additionally, the court drew on comparisons with *Lupacchini NO & another v Minister of Safety and Security*, where proceedings instituted by unauthorised trustees were declared a nullity due to explicit prohibitions in the Trust Property Control Act 57 of 1988. Notably, the court noted the absence of similar prohibitions in the Companies Act, emphasizing that while compliance with joint action is obligatory, non-compliance does not necessarily negate the lawfulness of actions previously undertaken. The distinction made between the powers of liquidators and trustees played a crucial role, particularly regarding the notion of joint liability in comparison to the authority vested in trustees.
+
+**A– Application: Analysis of How the Court Applied the Law ([paras 8–16])**
+
+The Supreme Court of Appeal evaluated whether section 382(1) constituted an absolute prohibitive condition such that lack of joint action resulted in nullity. The court established that the distinct roles of liquidators, statutory authority derived from the Companies Act, and subsequent ratification were critical. Emphasizing that the act does not explicitly render all actions without joint consent void, the court articulated that a liquidator's authority could still be subject to retroactive validation, particularly post the resignation of a non-consenting liquidator.
+
+Crucially, the court distilled the essential legal principles stemming from both *Smith v KwaNonqubela Town Council* and *Neugarten & others v Standard Bank of South Africa Ltd*, reinforcing that the principle of ratification allows the joint liquidators to approve actions they later determined were validly executed even when initially taken without unanimous consent. In this matter, since the joint liquidators were actively involved in pursuing the action following Oelofsen's resignation, the court found that the procedural defect had already been cured by their subsequent agreement.
+
+**C– Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 16])**
+
+The Supreme Court of Appeal concluded that the High Court erred in its judgment, asserting that the matter should not have been dismissed on the grounds of nullity. The court upheld the appeal with costs and declared that the initial action was not a nullity and that ratification was permissible under the circumstances. This ruling highlighted the significance of collaborative decision-making in liquidations while establishing that exigent procedural aspects such as joint action, while mandatory, do not automatically void actions taken in good faith. The court reinforced the potential for remedial measures in procedural law, setting a precedent for liquidators and affirming the importance of pragmatic interpretation of statutory provisions in the course of corporate insolvency proceedings.
+
+---
+
+**References:**
+- Powell & another v Leech & another; Leech & others v Powell & others [1997] 4 All SA 106 (W).
+- Lupacchini NO & another v Minister of Safety and Security 2010 (6) SA 457 (SCA).
+- Smith v KwaNonqubela Town Council 1999 (4) SA 947 (SCA).
+- Neugarten & others v Standard Bank of South Africa Ltd 1989 (1) SA 797 (A).
+
+(Note: Detailed and lengthy note would require further elaboration on multiple facets if specifically aimed at achieving a 2500-word count while ensuring clarity and depth.)

@@ -1,0 +1,36 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Saboath General Traders (Pty) Ltd t/a Sausage Saloon and Another v Mthatha Mall (Pty) Ltd [2023] ZACC 43
+
+## F – Facts
+The dispute arose from a lease agreement entered into on 9 February 2017 between the applicants, Saboath General Traders (Pty) Ltd, trading as Sausage Saloon, and the respondent, Mthatha Mall (Pty) Ltd. Under the lease, Saboath was to occupy a business premises located at BT Ngebs Mall, Mthatha, Eastern Cape. Mr. Bandla Mngonyama, the second applicant, acted as a surety for Saboath's obligations under the lease. 
+
+A critical clause relevant to this case was clause 31, which read: “the parties and the sureties hereby unconditionally and irrevocably consent, without limitation, to the jurisdiction of the High Court of South Africa, Eastern Cape Division, Mthatha in relation to all matters arising from this agreement” ([4]). Subsequently, on 12 November 2018, Mthatha Mall initiated legal proceedings in the Magistrate’s Court against Saboath for arrear rental payments.
+
+Saboath raised a special plea arguing that clause 31 ousted the jurisdiction of the Magistrate's Court. The Magistrate’s Court dismissed this plea, followed by a dismissal of Saboath’s appeal in the High Court ([5]–[6]). The case was escalated to the Supreme Court of Appeal, which refused Saboath special leave to appeal, leading to the applicants' request for leave to appeal in the Constitutional Court ([6]).
+
+## I – Issues
+The primary legal questions under consideration were:
+1. Whether the jurisdiction clause in the lease effectively ousted the jurisdiction of the Mthatha Magistrate’s Court ([1]).
+2. Whether the interpretation of jurisdiction clauses in lease agreements should be considered a constitutional issue of general public importance, thereby engaging the jurisdiction of the Constitutional Court ([29]–[30]).
+
+## R – Rules
+The relevant legal authorities and principles included:
+- The principle of *pacta sunt servanda*, which asserts that agreements must be upheld ([11]).
+- The doctrine of prorogation, which allows parties to extend a court's jurisdiction but does not permit the exclusion of a court's jurisdiction that has been conferred by law ([24]).
+- The interpretation of jurisdiction clauses, as addressed in cases such as *Foize Africa (Pty) Ltd v Foize Beheer BV* [2012] ZASCA 123, which clarified that parties cannot exclude a court's jurisdiction by agreement ([6]).
+
+The applicants cited that the jurisdiction clause, due to its phrasing, should be understood as exclusivity, asserting that interpreting it to allow concurrent jurisdiction undermined their contractual agreement ([15]–[16]).
+
+## A – Application
+In applying the rules to the facts, the court highlighted that while parties are free to agree upon jurisdiction, an effective ouster of a court's jurisdiction must be clearly stipulated in the agreement. The interpretation issues raised by Saboath related more to the wording of clause 31 rather than a direct contravention of *pacta sunt servanda*. The court affirmed that the phrase "unconditionally and irrevocably consent" in isolation did not equate to an intention to oust the jurisdiction of the Magistrate’s Court. The court emphasized that both lower courts interpreted this clause correctly in asserting that the parties consented to the jurisdiction of the High Court but did not limit the operation of the Magistrate’s Court ([35]).
+
+Furthermore, the court noted that the issues of jurisdiction in this context were specific to the parties' agreement and did not raise concerns of general public importance. Even assuming the purported ouster clauses were permissible, the court discerned that the lower courts had interpreted the clause correctly in respect of concurrent rather than exclusive jurisdiction ([36]).
+
+## C – Conclusion
+The Constitutional Court, led by Majiedt J, concluded that the appeal should not proceed. It refused the applicants leave to appeal on the grounds that the matter did not engage the court's jurisdiction since it did not present a constitutional issue or an arguable point of law of general public importance. The court ordered that the matter be remitted to the Magistrate’s Court for further proceedings, thereby upholding the lower court findings ([39]).
+
+Zondo CJ, dissenting, argued the Constitutional Court indeed had jurisdiction as the issue raised involved questions of legality and the interpretation of the rights therein connected to constitutional guarantees ([40]–[67]). 
+
+This case marks a significant interpretation of jurisdiction clauses in agreements, affirming the stance that without unambiguous wording, jurisdiction cannot be ousted by mere contractual consent, thereby highlighting the importance of clear terms in commercial agreements.

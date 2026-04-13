@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: SA Breweries v Shoprite Holdings [2007] SCA 103 (RSA)
+
+## F - Facts
+The case arose from a dispute involving an agreement dated 31 October 1997 between the appellant, SA Breweries Limited (SAB), and the respondent, Shoprite Holdings Limited (Shoprite), regarding the sale of the entire issued share capital of OK Bazaars (1929) Ltd and Retail Holdings (Botswana) (Pty) Ltd. The contract provided for the preparation of Closing Date Accounts (CDAs) as of 31 October 1997, outlining the valuation of the companies and obligations regarding any shortfalls ([paras 3–5]).
+
+Discrepancies emerged during the preparation of the CDAs, which were to reflect R540 million in ordinary shareholders’ funds and ceded claims. Shoprite alleged that the appointed expert, Arthur Anderson, failed to determine various disputes regarding trade creditors and fixed assets adequately ([paras 6–9]). The dispute resulted in Shoprite seeking a High Court order to compel further determination and clarification from the expert ([paras 8–10]).
+
+Ultimately, the expert’s determination found that Shoprite would be liable for only R57 million in adjustments relative to its claims of R280 million containing various accounting disputes ([para 8]). This prompted Shoprite to appeal against the findings, arguing that the expert's determination was vague and legally ineffective due to a lack of clarity on how to calculate timing differences relevant to trade creditors ([para 9]).
+
+## I - Issues
+The principal issues presented before the Supreme Court of Appeal were:
+1. Whether the expert's determination met the requisite legal standards for finality and certainty.
+2. Whether the call-back provision within the agreement allowed for further disputes to be raised after the expert’s initial determination, and the implications of not invoking that provision ([paras 25–29])?
+
+## R - Rules
+The legal standards relevant to this case derive from the rules governing expert determinations and arbitration. It is established that such determinations must resolve all submitted issues in a manner achieving finality and certainty ([para 22]). The court cited principles from various authoritative texts on arbitration, indicating that a valid determination cannot reserve issues for future resolution nor lack the capacity for implementation ([para 22]).
+
+The court also addressed the implications of contractual clauses concerning dispute resolution. The call-back provision specified a mechanism for addressing subsequent disputes that arose from the initial expert determination and emphasized expectations of compliance with the agreement ([paras 26–27]).
+
+## A - Application
+The court assessed the expert's determination regarding trade creditors against the background of the contractual obligations. The expert was found to have applied some reasoning on discrepancies but failed to specify how far back timing differences needed to be assessed, which led the court to consider whether this constituted a failure to fulfill his mandate. However, the court recognized the realities of conducting such reconciliations in complex accounting contexts. 
+
+Furthermore, the expert's analysis permitted for identifying timing differences beyond the initial 30-day cut-off claimed by Shoprite, countering the assertion that his determination was vague. The court noted that while the expert did not prescribe a concrete method for identification, he sufficiently guided that all relevant transactions should be analyzed as practicable, given the circumstances ([paras 20–41]).
+
+Regarding the call-back provision, the court held that Shoprite had not sufficiently invoked this opportunity following the expert's determination and that the resulting disputes over timing and amounts formed inherent aspects of the initial determination rather than independent issues. This indicated that Shoprite could not claim the determination was lacking without first utilizing the mechanisms provided in their contractual agreement ([paras 25–26]).
+
+## C - Conclusion
+The Supreme Court of Appeal upheld the appeal, reversing the High Court's order compelling further expert determination regarding trade creditors and fixed assets. It held that the expert's decisions were valid, having provided a rational basis for his conclusions and correctly applying the contractual terms as intended by the parties. The court concluded that the nature of commercial relationships often necessitates a degree of pragmatism and that the determination, while not exhaustive in measure, was adequate within the scope of relevant accounting expertise ([paras 43]).
+
+The judgment reinforces the importance of adhering to contractual dispute resolution mechanisms and clarifies the extent of an expert’s obligations in determining complex accounting disagreements in the context of corporate transactions.  It also illustrates how courts may approach ascriptions of ambiguity in contractual terms while ensuring that valid resolutions are maintained and disputes are resolved with regard to common business practices.

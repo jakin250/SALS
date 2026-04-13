@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Enforced Investments (Pty) Ltd and Others v Verifika Incorporated and Another (599/2021) [2023] ZASCA 5
+
+## F – Facts 
+The dispute in **Enforced Investments (Pty) Ltd and Others v Verifika Incorporated and Another** arose following a loan agreement concluded on 6 June 2019 between Enforced Investments (Pty) Ltd (the first appellant) and Verifika Incorporated (the first respondent) ([para 1]). Fatima Pereira Torres (the second appellant) was the sole shareholder of Verifika before selling 50% of her shares to Bernard John Laferla (the second respondent). Laferla was appointed as director of Verifika upon this sale and subsequently acquired the remaining shares for R2 million, of which only a small deposit was made ([para 1]).
+
+Enforced provided a loan of R1.9 million to Verifika for business expansion, but Laferla misappropriated these funds to pay for Torres' shares without her knowledge. As security for the loan, Laferla ceded his shareholding in Verifika to Enforced ([paras 1–2]). By June 2019, Verifika had already defaulted on interest payments, prompting multiple demands for payment from Enforced, with the first demand issued on 8 August 2019 ([paras 4–5]).
+
+Following a series of legal confrontations, including a counter-application by Verifika seeking to set aside the cession of shares made to Enforced ([para 6]), the High Court issued an order that reinstated Laferla as a director and reversed some actions taken by Enforced ([paras 8–9]). The court held that the breach notices were defective, leading Enforced to appeal against this decision ([para 10]).
+
+## I – Issues 
+The primary legal issues in this case involve:
+1. Whether the demand for payment issued by Enforced was valid and sufficient to constitute a trigger for enforcing acceleration and securing payment of the loan ([para 10]).
+2. Whether the High Court erred in determining that the breach notices did not comply with the agreement's terms and therefore did not enable Enforced to accelerate the loan repayment and call up security ([para 11]).
+
+## R – Rules 
+The court examined several relevant provisions of the loan agreement, particularly clauses pertaining to cession and events of default. Key provisions include ([paras 3–4]):
+- **Clause 5**: Concerns the cession of shares as security for the loan.
+- **Clause 7**: Outlines repayment schedules and interest accrual.
+- **Clause 11**: Details events of default and the lender’s rights to accelerate payment and call up security upon default.
+
+The court also drew upon precedents regarding the lex commissoria, which describes the contractual obligations of parties in scenarios of breach, including relevant case law such as *Winter v South African Railways and Harbours* 1929 AD 100 and *Chesterfield Investments (Pty) Ltd v Venter* 1972 (3) SA 777 (T) ([para 12]).
+
+## A – Application 
+The Supreme Court of Appeal critically assessed whether the demands for payment constituted valid notices as per the loan agreement's stipulations. The court appealed to the principle that, upon a breach that triggered an event of default, there is no requirement for further notice to call up the security ([para 12]). It determined that the first demand letter delivered on 8 August 2019 sufficiently notified Verifika of the breach and demanded immediate payment of the arrear interest.
+
+Despite the High Court's finding of defectiveness in the breach notices, the Supreme Court concluded that once the first written demand was issued, Enforced was validly entitled to accelerate the loan repayments and perfect the security ([para 13]). Since Verifika had not paid any amounts due until 24 February 2020, the court found that the conditions for enforcing the loan agreement's terms had indeed been met, validating the actions taken by Enforced ([paras 12-13]).
+
+Conversely, regarding the counter-application by Verifika, the Court upheld the High Court's finding that a valid certificate of security under section 346(3) of the Companies Act had not been filed, affirming the dismissal of this application without further exploration of its merits ([para 14]).
+
+## C – Conclusion 
+The Supreme Court of Appeal found in favor of Enforced Investments, overturning the High Court's orders as it related to the demand for payment and the actions taken in calling up the security. The court reinforced that Enforced was entitled to accelerate repayment following the first valid breach notice, which was substantiated by evidence ([paras 17]). The order required Verifika to pay R1,361,704.74, along with interest. The decision also stipulated that costs were to be awarded to the appellants on an attorney-client scale—conclusively addressing the dispute while reflecting the implications of contractual obligations and enforcement under South African law ([paras 17]). 
+
+In sum, this ruling underscores the importance of clear communication in loan agreements and the rights of lenders following breaches of contract. It demonstrates the judiciary's commitment to uphold agreements as intended and the integrity of the obligations borne by directors and shareholders within corporate structures.

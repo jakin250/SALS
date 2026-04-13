@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# Case Note on Lamprecht v Klipeiland (Pty) Ltd (753/2013) [2014] ZASCA 125
+
+## FIRAC Method
+
+### Facts
+The case revolves around a contractual dispute between Coenrad Johan Lamprecht (the appellant) and Klipeiland (Pty) Limited (the respondent), which arose from an agreement whereby the appellant was appointed as a Project Manager to supervise the rezoning and establishment of a township on the respondent's property ([2]–[12]). In 2003, the parties entered into a contractual agreement, and the appellant was to be compensated R6 million for his services. However, in November 2007, the respondent terminated the agreement, alleging that the appellant failed to perform his obligations, which the appellant interpreted as a repudiation ([3]).
+
+Subsequent to the termination of the contract, the appellant attempted to claim the R6 million compensation. Following a series of unmet demands for payment, he issued a demand in accordance with section 345(1)(a) of the Companies Act 61 of 1973, which was not satisfied by the respondent ([4]).
+
+The respondent opposed the winding-up application on several grounds, contending primarily that the debt claimed by the appellant was not liquid and asserting that it was not financially unable to meet its obligations ([5]–[10]). During earlier proceedings, the parties reached an agreement wherein the respondent accepted that the appellant was a creditor, but this admission was later contested by the respondent in the context of liquidating proceedings ([9]).
+
+### Issues
+The main legal questions addressed in this case include:
+1. Did the respondent's admission of indebtedness satisfy the requirements of section 345(1)(a) of the Companies Act, allowing the appellant to initiate winding-up proceedings?
+2. Was the debt claimed by the appellant liquid within the meaning of section 345(1)(a) given the respondent's assertion that the precise amount owed was contested and unliquidated? ([10]–[15]).
+
+### Rules
+The applicable legal standards derive from section 345(1)(a) of the Companies Act, which stipulates the requirements for determining a company’s inability to pay debts ([14]). For an applicant to succeed in a liquidation application based on this section, three key elements must be established: 
+1. The existence of a creditor's claim amounting to at least R100, which must be due and payable.
+2. The debt must be liquid, meaning there should not be any substantial dispute regarding its existence or amount.
+3. A failure by the company to satisfy the demand for payment after it has been duly made ([15]).
+
+### Application
+The Court analyzed the validity of the earlier agreement made under Kruger AJ, which conceded the appellant’s locus standi as a creditor owed an amount of no less than R100. The Court found that this agreement clarified the status of the appellant’s claim and established that the debt was due ([13], [16]). The mere fact that the amount owed was contested by the respondent did not negate the liquid nature of the debt, given that the agreement had explicitly admitted indebtedness on the part of the respondent ([12]–[19]).
+
+Furthermore, the Court rejected the respondent's assertions that the appellant's work was incomplete, emphasizing that any unresolved issues regarding damages did not preclude the finding of liquidity regarding the acknowledged debt. This reasoning underscored the obligation of the respondent, once the notification under section 345(1)(a) was served, to discharge the debt or secure it appropriately, which it failed to do ([16]).
+
+### Conclusion
+The Supreme Court of Appeal upheld the appeal, asserting that the lower court had erred in its initial discharge of the provisional winding-up order. The Court determined that all statutory requirements under section 345(1)(a) were met, effectively concluding that the respondent was commercially insolvent. The ramifications of this decision were significant, as it underscored the importance of adhering to judicial admissions and the statutory provisions governing corporate indebtedness. The appeal was granted with costs ordered against the respondent at a punitive scale, reflecting the Court's condemnation of the respondent's lack of honesty and its vexatious litigation strategy ([20]). 
+
+The Implied lessons from this case rest on the handling of admissions in corporate debt situations and the rigorous standard required to contest the liquidity of such debts in order to avoid winding up proceedings. The implications extend to parties involved in corporate agreements, emphasizing clarity and unequivocality in acknowledgement of debts to prevent costly litigation outcomes.

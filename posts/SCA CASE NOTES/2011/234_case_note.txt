@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note
+
+**Case Title:** Bester NO v NDPP (198/11) [2011] ZASCA 234
+
+**Court:** The Supreme Court of Appeal of South Africa
+
+**Judgment Date:** 30 November 2011
+
+**Coram:** Brand, Maya, and Seriti JJA
+
+**Heard:** 21 November 2011
+
+---
+
+### F – Facts
+
+This appeal primarily concerns the interpretation and application of section 36 of the Prevention of Organised Crime Act 121 of 1998 (POCA) in relation to the restraint orders on assets of a company undergoing liquidation. The key facts of the case begin with an application for the liquidation of Aquila Holdings (Pty) Ltd (Aquila), initiated on 19 November 2008 by BMI-Techknowledge Group (Pty) Ltd, citing Aquila's inability to pay its debts ([para 2]). The provisional liquidation was granted on 10 March 2010, and by 10 May 2010, the company was officially wound up ([para 2]).
+
+Prior to these events, on 3 July 2009, the National Director of Public Prosecutions (NDPP) obtained a provisional restraint order under section 26 of POCA concerning Aquila’s realisable property, which included 490 shares in Optipharm Healthcare (Pty) Ltd ([paras 2–3]). The appellants, serving as joint provisional liquidators of Aquila, sought to intervene in the restraint proceedings to vary the order, arguing that the restraint placed on the company's assets should not apply because the application for winding-up had been filed before the restraint order was made ([para 3]).
+
+The intervention application was dismissed by the Western Cape High Court, which ruled that section 36(1) of POCA did not apply because the restraint order was granted subsequent to the application for liquidation but prior to the winding-up confirmation ([para 4]). The appellants subsequently appealed this decision.
+
+### I – Issues
+
+The central legal issue arising from these proceedings was the interpretation of section 36 of POCA concerning the implications of a winding-up order for assets that have been subject to a restraint order ([para 1]). Specifically, the court was tasked with determining whether assets of a company in the process of liquidation, restrained under a court order, ought to be excluded from the company's estate as defined by POCA when the winding-up application precedes the issuance of a restraint order and before final winding-up ([para 1][5]).
+
+### R – Rules
+
+The relevant statutory provisions for this case revolve around section 36 of POCA. Specifically, it provides clarity regarding the effects of a winding-up on realisable property:
+
+1. **Section 36(1)** states that once a winding-up order is made, any property subject to a preceding restraint order is exempt from inclusion in the company’s assets ([para 5]).
+2. **Section 36(2)** indicates that when a winding-up order is made, the powers of the High Court and any curator bonis cannot be exercised over property that constitutes the assets of the company ([para 5]).
+3. The definition of “relevant time” within section 36(4)(a) indicates that for a winding-up application, the relevant time is the moment the application is presented to the court ([para 5]).
+
+The interpretation of these sections was pivotal to the appeal, and previous judicial interpretations, particularly regarding the concept of "presentation to the court" as aligned with similar terms used in the Companies Act, were also noted ([para 6][8]).
+
+### A – Application
+
+In analyzing the application of law to the facts, the court emphasized the importance of the sequence of events regarding the winding-up and restraint orders. It was determined that section 36(1) excludes from a company's assets any property restrained prior to the filing of a winding-up application ([para 6][10]). Conversely, if the restraint order is issued after the relevant time—i.e., after the winding-up application is filed—the property subjected to restraint would remain part of the company's assets upon liquidation ([para 9][10]).
+
+The court found that while both subsections (1) and (2) of section 36 require a winding-up order to be granted, the operation triggers differently based on the timing of restraint orders. The NDPP’s argument, which restricted section 36(2) to cases where restraint orders were issued post-winding-up, was rejected in favor of the position that this section does apply wherever the winding-up application occurs before a restraint order, maintaining coherence within POCA’s structural integrity ([para 11][12]).
+
+Furthermore, the court indicated that allowing the NDPP’s interpretation would create scenarios not governed by section 36, essentially undermining the clear legislative intent and functionality of the respective provisions ([para 12][14]). The court ruled that according to section 36, the restraint order rendered the shares in question outside of the liquidation process as they were not subject to the NDPP's power post-winding up ([para 16]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal upheld the appeal, emphasizing the effect of section 36(2) of POCA, which effectively excludes assets from a restraint order when the winding-up application precedes such an order. Consequently, the court asserted that the restraint order's confirmation regarding the shares was improper ([paras 17]).
+
+The practical implications of this ruling underscore a critical interpretative understanding of POCA in regard to the management of assets during the liquidations process, reinforcing that assets restrained post-winding application cannot be appropriated by the NDPP. Thus, the declared exclusion of the shares from the restraint order affirmed the appellants' designees' control over assets in liquidation contexts, marking a significant interpretative win for asset management in corporate insolvency.
+
+---
+
+This case, Bester NO v NDPP, has implications for future applications of POCA and the management of assets amidst concurrent legal proceedings involving liquidation and restraint, and must be cited accurately to support legal arguments in similar contexts.

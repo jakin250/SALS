@@ -1,0 +1,43 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been
+Source Folder: 2022
+
+# FIRAC Case Note: MEC for Health, Limpopo v L W M obo D M (502/2021)
+
+## F – Facts
+This case arises from a medical negligence claim brought by L W M, acting on behalf of her minor child D M, against the Member of the Executive Council for Health, Limpopo Provincial Government (the "appellant"). The respondent alleged that D M suffered a severe brain injury during birth at Dilokong Hospital due to the negligent actions of hospital staff ([paras 1–2]).
+
+The respondent was admitted to the hospital in the early hours of July 17, 2010, near the end of her pregnancy. Initial examinations were unremarkable, with both maternal and fetal conditions appearing stable ([para 2]). However, at 00h00 on July 18, the partogram indicated complications, noting a slow progression in labor and crossover of the action line indicatingwhen intervention should occur ([para 3]). Clinical notes indicated that between 02h00 and D M's birth at 03h35, no monitoring of the fetal heart rate occurred ([para 4]). 
+
+D M was diagnosed with hypoxic-ischaemic encephalopathy (HIE) and subsequently suffered from cerebral palsy ([paras 6–7]). The respondent's claim for damages alleged that the hospital staff failed in their duty of care, by not monitoring labor adequately, failing to recognize fetal distress, and not taking appropriate action to expedite the delivery ([para 7]).
+
+The appellant denied all allegations of negligence and the matter proceeded to trial, which focused on the issues of negligence and causation. The trial concluded with the High Court finding in favor of the respondent, establishing that the appellant was liable for delictual damages resulting from negligence ([paras 8–12]).
+
+## I – Issues
+The primary legal questions before the Supreme Court of Appeal (SCA) were: 
+1. Whether the hospital staff acted negligently in failing to monitor the respondent and the fetus during a critical phase of labor ([para 12]).
+2. Whether that negligence was causally connected to D M's brain injury ([paras 11, 12, 24]). 
+
+## R – Rules
+The legal framework for this case is grounded in principles of delictual liability, derived from the following:
+
+1. **Duty of Care**: The appellant, as an employer of the hospital staff, had a legal duty to ensure that proper medical care was provided ([para 11]).
+   
+2. **Negligence**: Defined by the standard of care expected from medical professionals in similar circumstances. The test includes foreseeability and preventability of harm ([para 19]).
+
+3. **Causation**: Comprised of factual causation (the "but-for" test) and legal causation. The court must ascertain whether the harms suffered by D M were a direct result of the negligent acts or omissions by the hospital staff ([para 24]).
+
+Relevant case law includes *Kruger v Coetzee* for establishing the test for negligence, and *Za v Smith* for outlining the parameters of causation ([paras 19, 24]).
+
+## A – Application 
+The SCA analyzed the evidence presented, primarily relying on expert testimonies to infer that the hospital's failures were indeed negligent. Expert testimony confirmed that the lack of appropriate monitoring and failure to recognize signs of fetal distress directly resulted in D M suffering a birth injury ([paras 19–20, 31–32]). 
+
+The court noted that the partogram had inaccuracies concerning monitoring and that the hospital staff's inaction contradicted the maternity guidelines, which necessitate constant monitoring during labor ([para 22]). It rejected the appellant's assertion that a cord compression might have caused the injury, as the nature of D M's bradycardia was incompatible with such an event given the clinical monitoring that was lacking ([paras 46–47]).
+
+Particularly noteworthy was the acceptance of Prof Smith's expert opinion, which posited that intermittent hypoxic events could lead to the specific brain injury D M sustained, refuting the criticism leveled by the appellant regarding the validity of this theory ([para 33–36]) and reinforcing the belief that chronic insufficient monitoring led to the brain injury ([paras 55–58]).
+
+The SCA concluded that, but for the negligent actions of the hospital staff, which included inadequate monitoring and incorrect responses to indicators of distress, D M would have likely been delivered safely, demonstrating a clear link between the negligence and the resultant harm ([paras 55–58]).
+
+## C – Conclusion
+The SCA dismissed the appeal, affirming the High Court's determination that the appellant was liable for the injuries sustained by D M due to medical negligence. The court underscored the importance of maintaining rigorous monitoring protocols during childbirth and held that failure in this duty directly contributed to the grievous harm experienced by the respondent's child. The appeal's dismissal, accompanied by a costs order, reinforces the established duty of care owed by healthcare providers to their patients ([paras 60]).
+
+This case solidifies legal precedent on the requirements for establishing negligence in medical contexts, particularly emphasizing the necessity of adherence to established medical guidelines and protocols. In failing to ensure a safe delivery for D M, the hospital's substandard practices and oversight have significant implications for liability standards within South African medical negligence law.

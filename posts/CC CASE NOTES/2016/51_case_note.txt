@@ -1,0 +1,40 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: Areva NP Incorporated v Eskom Holdings SOC Limited and Another [2016] ZACC 51
+
+## F – Facts: Relevant background and procedural history ([paras 1–24])
+
+In **Areva NP Incorporated v Eskom Holdings SOC Limited** and **Westinghouse Electric Belgium Société Anonyme** (CCT 20/16 and CCT 24/16), the primary dispute arose regarding Eskom's tender awarding process for the replacement and installation of six steam generators at the Koeberg Nuclear Power Station. Areva, a French company, was awarded the tender, prompting Westinghouse Electric Belgium (WEBSA) to challenge the award in court, asserting that it should have been awarded the contract instead ([1]–[2]).
+
+Eskom’s tender process began with expressions of interest in June 2012, leading to both Areva and WEBSA submitting bids. However, the issue at hand was complicated by questions about WEBSA's standing to bring the review application, given that its bid was submitted on behalf of Westinghouse USA, rather than in its own right ([4]–[13]). The High Court initially dismissed WEBSA's application and affirmed Eskom's decision to award the tender to Areva, which led WEBSA to escalate the matter to the Supreme Court of Appeal. There, the court ruled that Eskom's decision was unlawful, citing strategic considerations that were improperly accounted for in the evaluation process. However, the question of WEBSA's locus standi remained pivotal ([23]–[24]).
+
+## I – Issues: Legal or constitutional questions ([paras 25–27])
+
+The core issue of the case was whether WEBSA had the locus standi necessary to challenge Eskom's decision to award the tender to Areva. This brought into play the constitutional implications regarding standing and the rights of parties to engage in legal proceedings concerning administrative actions affecting them ([26]). 
+
+Another pivotal question was the nature and legality of the tender process itself. Specifically, whether Eskom had acted lawfully in considering strategic factors outside the stated evaluation criteria during the tendering process ([27]).
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 28–40])
+
+The Court implemented the principles surrounding locus standi as stipulated in **Section 38** of the Constitution, which allows various categories of persons to approach a court alleging a breach of rights in the Bill of Rights. The requirements for standing under common law were also analysed, focusing on the need for a “sufficient, personal and direct interest” in the matter being litigated ([28]).
+
+Key precedents included **Giant Concerts CC v Rinaldo Investments (Pty) Ltd** [2013] ZACC 28, which elucidated the importance of having an actual, demonstrable interest in the matters at hand and held that standing must be established before the merits of the case can be considered ([40]). The Court also referenced **Sandton Civic Precinct (Pty) Ltd v City of Johannesburg** [2008] ZASCA 104, which discussed issues where claims of standing were made inappropriately, thereby failing to adhere to established legal principles ([39]).
+
+## A – Application: Analysis of how the court applied the law ([paras 41–42])
+
+### Locus Standi
+
+The Court determined that WEBSA had failed to establish the necessary locus standi. It emphasized that although WEBSA claimed to be a tenderer who lost the bid to Areva, it was found that WEBSA had submitted its final offer on behalf of Westinghouse USA. The claim by WEBSA of having acted in its own right was not supported by actual evidence; instead, it was concluded that it had no independent legal standing to contest the award of the tender, as it did not possess a direct interest in the matter ([41]–[42]).
+
+### Legality of Tender Process
+
+The court’s evaluation of the tendering process leaned heavily on whether Eskom’s actions upheld legal and procedural standards. The Court indicated that the issue of standing is separate from the merits of the case and that it usually should be resolved prior to engaging in a discussion about the legality of the tender decision. However, the majority opinion ultimately focused on the lack of standing, thereby not addressing the merits of whether Eskom had acted unlawfully in its tender process ([40]–[41]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 43–48])
+
+The Constitutional Court held that WEBSA lacked locus standi to challenge Eskom’s decision to award the tender to Areva, underscoring that it had submitted its bid as an agent for Westinghouse USA, and thus had no right to institute the review proceedings in its own name. The Court emphasized the necessity of clear, independent standing in administrative reviews, especially when significant public interests and constitutional issues are involved ([46]).
+
+The Court's ruling on standing serves as a critical reminder of the importance of procedural integrity within tender processes and the need for clear representation in legal proceedings. Consequently, it allowed Areva’s appeal and dismissed WEBSA's application entirely, reaffirming the primacy of established legal principles regarding standing ([48]).
+
+This judgment stresses the importance of precise legal standing, illustrating the balance between procedural fairness and substantive justice, particularly in high-stakes tender processes involving public entities.

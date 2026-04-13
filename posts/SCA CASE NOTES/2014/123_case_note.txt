@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: Pharma Dynamics (Pty) Ltd v Bayer Pharma AG (468/13) [2014] ZASCA 123
+
+### F – Facts
+This case arose from a patent infringement dispute between the appellant, Pharma Dynamics (Pty) Ltd, and the respondents, Bayer Pharma AG and Bayer (Pty) Limited. Bayer held South African Patent No 2004/4083, which covered a contraceptive pharmaceutical combination comprising drospirenone (DSP) and ethinylestradiol (EE). This patent was filed as a divisional patent based on an earlier filing (2002/1668) and was assigned a priority date of 31 August 1999 ([1]–[2]). In March 2011, Pharma obtained approval from the Medical Control Council to market a generic oral contraceptive named Ruby, which Bayer claimed infringed its patent. In response to Bayer's application for an interdict and other relief, Pharma denied both the infringement and the validity of Bayer's patent, counterclaiming for its revocation. The court a quo upheld Bayer's patent, finding it valid and that Pharma's Ruby product infringed claim 1 of the patent ([3]). The case was subsequently appealed to the Supreme Court of Appeal ([4]) on pivotal questions regarding patent interpretation and validity.
+
+### I – Issues
+The key legal questions presented in this appeal included:
+1. Whether Pharma's product Ruby infringed claim 1 of Bayer's patent ([24]).
+2. Whether the invention claimed in Bayer's patent involved an inventive step as required by Section 25(1) of the Patents Act 57 of 1978 ([34]).
+3. Whether Bayer's 2004 patent qualified as a true divisional patent under Section 37 of the Act ([42]).
+
+### R – Rules
+The case was largely governed by the Patents Act 57 of 1978, particularly Sections 25(1) and 37. 
+
+- **Inventive Step**: Under Section 25(1), an invention must involve an inventive step which is not obvious to a skilled person (Ensign-Bickford (South Africa) (Pty) Ltd v AECI Explosives and Chemicals Ltd 1999 (1) SA 70 (SCA) at 80H-J).
+  
+- **Divisional Patent**: Section 37 allows for a fresh application to be treated as a divisional patent, protecting it from revocation based on the disclosures in prior applications, provided it does not extend beyond the contents disclosed in the first application.
+
+Case law was also discussed, providing precedents on patent interpretation and the essence of inventions, including Caterpillar Inc v Matchbox (Pty) Ltd 1981 (3) SA 127 (A) and Gentiruco AG v Firestone SA (Pty) Ltd 1972 (1) SA 589 (A).
+
+### A – Application
+In assessing whether Pharma's Ruby product infringed the patent, the court analyzed the relevant claim (claim 1 of the Bayer patent). The claim specified a combination of DSP and EE along with certain dissolution requirements. The court noted that Pharma's product met most of the claim's features, but the substantial debate centered on the method of achieving the specified dissolution rate ([25]–[33]).
+
+1. **Infringement**: Bayer's interpretation expanded the scope of the patent to encompass any method achieving the dissolution requirement, while Pharma contended it was limited to those achieved through micronization or spraying. The court sided with Bayer, stating that the claim covered any method achieving the required dissolution, including the method used for Ruby ([33]).
+
+2. **Inventive Step**: The court found that the inventive step lay in the surprising effectiveness of using DSP, despite being acid labile and soluble, without needing enteric coating, contrary to expectations of the skilled formulator at the time [35]. The arguments presented by Pharma were found not to demonstrate an obvious solution, thereby failing the inventive step requirement ([40]).
+
+3. **Divisional Patent Compliance**: The court determined that Pharma's assertion challenging the validity of Bayer's 2004 patent as not being a true divisional patent was unsubstantiated. It held that merely sharing content between the two patents did not invalidate the divisional nature, which conformed with Section 37([42]–[49]).
+
+### C – Conclusion
+The appeal was ultimately dismissed. The court upheld the judgment of the court a quo, affirming the validity of Bayer's 2004 patent and the infringement by Pharma's Ruby product. The dismissal emphasized the importance of interpreting patent claims through a purposive lens, acknowledging that the combination of DSP and EE, achieved without prior expectations of effectiveness, justified the inventive step. The ruling underscored the role of thorough expert input in patent disputes and reinforced the standards for both inventive steps and divisional patent protection under South African law ([50]).
+
+This judgment serves as a significant precedent in patent law, reinforcing the necessity of innovative approaches in pharmaceuticals while establishing clear guidelines for patent interpretation.

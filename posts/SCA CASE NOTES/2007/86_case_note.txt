@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: Constantaras v BCE Foodservice Equipment [2007] SCA 86 (RSA)
+
+### F – Facts: Relevant background and procedural history ([paras 1–6])
+
+In the matter of **Constantaras v BCE Foodservice Equipment**, the appellant, Michael Constantaras, was sued by the respondent, BCE Foodservice Equipment (Pty) Ltd, for the dishonour of two cheques totaling R130,458.50, issued on behalf of the close corporation, Cater-Mart CC, but lacking proper identification per statutory requirements. The cheques were dated 3 October 2004 and 3 November 2004 and were signed without indicating that the appellant was signing in a representative capacity ([paras 2-3]). Consequently, BCE Foodservice claimed that the appellant was personally liable under section 23(2) of the Close Corporations Act 69 of 1984 (the Act).
+
+The appellant, in his defense, argued that he was acting as the authorized signatory of Cater-Mart CC, thus exempting him from personal liability. He also alleged a common mistake regarding the nature of the cheques, advocating for rectification to reflect that he signed “for and on behalf of” the corporation, and further attempted to assert an estoppel defense, which was later disregarded ([paras 4-5]). The trial court ruled against the appellant, stating that his liability was statutory rather than contractual and that rectification could not mitigate his personal liability. The appellant subsequently appealed ([para 6]).
+
+### I – Issues: Legal or constitutional questions ([paras 6-8])
+
+The case presents several legal issues:
+
+1. **Personal Liability**: Whether the appellant could be held personally liable for the dishonoured cheques due to incorrect statutory compliance, specifically under section 23(2) of the Act ([para 6]).
+   
+2. **Defense of Rectification**: Whether the appellant could rely on the equitable remedy of rectification to rectify the cheques to reflect his representative status while signing ([para 8]).
+
+3. **Statutory Interpretation**: The interpretation of the mandatory compliance requirements outlined in section 23 of the Act and whether a lack of awareness by the payee (BCE Foodservice) affects liability ([paras 13-15]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 9-15])
+
+The court primarily relied on:
+
+- **Close Corporations Act 69 of 1984, section 23**: Establishes the requirement that any documentation issued on behalf of a corporation must display the corporation's registered full name and registration number. A failure to do so incurs personal liability for individuals who sign those documents ([para 1]).
+  
+- **Epstein v Bell** (1997)(1) SA 483 (D): Cited for the principle that personal liability of signatories arises not from contractual obligations but from statutory provisions under section 23, reinforcing the precedent that rectification does not alleviate personal liability ([paras 7, 13-15]).
+
+- **Cotona Oil & Cake Ltd v Gangut** (1977)(1) PH A26 (N) and **Abro v Softex Mattress (Pty) Ltd** (1973)(2) SA 346 (D): Indicated that statutory language is imperative and that misdescription of a corporation’s identity leads to personal liability ([para 18]).
+
+### A – Application: Analysis of how the court applied the law ([paras 10-30])
+
+The court analyzed the statute's wording, concluding that compliance with section 23(1) and (2) is non-negotiable. The focus was on the objective compliance required by the statute to protect the public from misleading information regarding corporate status ([paras 10-12]).
+
+- **Personal Liability**: The court emphasized that the failure to comply with the statutory requirements substantiated the appellant's liability. It reinforced the notion that personal liability is created independently of any contractual relationship and focuses solely on statutory compliance ([paras 12-13]). In arguing against the appellant's claim for rectification, the court noted that such a remedy necessitates mutual intention, which is inappropriate given the fundamental statutory requirements under section 23([paras 16-18]).
+
+- **Defense of Rectification**: The court decisively rejected the appellant’s rectification argument. It highlighted that statutory liability under section 23(2) operates independently of contractual defenses, asserting that rectification requires a common intention that was non-existent in this case. The findings from Epstein v Bell were applied to reject the notion that awareness on the part of BCE Foodservice regarding corporate status impacted the outcome ([paras 20-28]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 31-33])
+
+The Supreme Court of Appeal concluded that the appellant's plea of rectification did not constitute a valid defense against the statutory claim initiated by BCE Foodservice. The court upheld the findings of the lower court, emphasizing the imperative nature of statutory compliance under section 23 of the Close Corporations Act. Furthermore, it recognized the legislative intent to protect the public through strict adherence to statutory requirements, thus highlighting the serious implications of non-compliance.
+
+The court dismissed the appeal but allowed the appellant the opportunity to amend his plea, stressing that parties whose pleadings are rejected on exceptions should typically be granted such opportunities, suggesting a nuanced approach to procedural fairness ([para 33]). This case underscores the importance of statutory compliance in corporate dealings and clarifies the extent of personal liability that representatives face in the context of corporate law, reinforcing accountability in financial transactions. 
+
+In essence, Constantaras v BCE Foodservice serves as a critical reference for future cases concerning representation and statutory compliance within corporate transactions, highlighting the strict interpretation of statutory obligations and the limitations of equitable defenses like rectification.

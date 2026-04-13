@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH
+Source Folder: 2010
+
+# FIRAC Case Note: The South African Reserve Bank v M G Khumalo (235/09) [2010] ZASCA 53
+
+## F – Facts
+
+The case at hand is an appeal from the North Gauteng High Court involving the South African Reserve Bank (the appellant) and Mzilakazi Godfrey Khumalo (the first respondent) alongside Mawenzi Resources and Finance Company Pty Ltd (the second respondent). The central issue arose from a notice of attachment issued by the South African Reserve Bank under Regulation 22C(1) of the Exchange Control Regulations, promulgated under the Currency and Exchanges Act 9 of 1933 ([para 1]).
+
+The regulation relates to the attachment of assets suspected of being involved in contraventions of exchange control regulations ([para 1]). The appellant had issued the notice following discussions with the respondents concerning various transactions that it alleged contravened the exchange control regulations, culminating in the issuance of this notice on 12 August 2008 ([para 2]). The respondents subsequently sought urgent interim relief in court to declare the notice invalid and to interdict the appellant from acting on it pending a review application yet to be brought ([para 3]).
+
+In the High Court, the respondents contended that the notice was invalid because Regulation 22C(1) was not in conformity with the governing statute. The court held in favor of the respondents on the grounds that the regulation’s failure to incorporate a time limit was in violation of section 9(2)(g) of the Act, which mandates such a limit for attachments of money and goods ([para 3]). The High Court's order led to the appeal by the South African Reserve Bank ([paras 4–5]).
+
+## I – Issues
+
+The primary legal issue before the Supreme Court of Appeal was whether Regulation 22C(1), under which the appellant issued the notice of attachment, was valid despite the absence of a prescribed time limit, as required by the Currency and Exchanges Act ([para 4]). If the regulation was deemed invalid, it would mean that the notice issued by the Reserve Bank was also invalid. The case raised significant constitutional issues regarding the interpretation of statutory provisions and the validity of regulatory powers ([para 5]).
+
+Another subsidiary issue was whether the notice of attachment itself was required to specify a time limit, or whether the absence of such a limit rendered it invalid under existing statutory law ([para 14]).
+
+## R – Rules
+
+The statutory framework governing this case is established by the Currency and Exchanges Act 9 of 1933. Particularly, section 9 of the Act delegates the power to the President to issue regulations concerning matters related to currency and exchanges, including the attachment and forfeiture of money and goods ([para 5]). Section 9(2)(g) specifically provides the legislative requirement that any regulations must provide a time limit not exceeding 36 months for the attachment of such assets ([para 6]).
+
+Moreover, Regulation 22C is part of a broader regulatory scheme that distinguishes between tainted and untainted money and goods. While Regulations 22A and 22B deal specifically with tainted goods, Regulation 22C pertains to the attachment of untainted money and goods, but lacks a specific time limit for attachment which leads to the core of the dispute ([para 7]).
+
+Case precedents cited include South African Reserve Bank v Torwood Properties Pty Ltd, which provides essential context for understanding the regulatory framework ([para 7]). The principle also follows that regulatory powers must conform to legislative intent to avoid overreach ([para 12]).
+
+## A – Application
+
+The Supreme Court of Appeal analyzed whether the omission of a time limit from Regulation 22C(1) rendered it invalid. The court found that the intention behind section 9(2) was clearer when considering that it mandates such limits, which implies that the President should include a time limit in any promulgated regulation regarding assets ([para 10]). The Apex Court held that while the President had the authority to create regulations, the lack of a specified limit in Regulation 22C(1) was inconsistent with section 9(2)(g), rendering the regulation invalid ([para 15]).
+
+The court also addressed the subsidiary issue regarding the validity of the notice itself due to the absence of a prescribed time limit. It concluded that while the absence of a time limit in the notice might raise questions regarding enforcement, the statutory provisions still prescribed for the lapse of the notice after a period of three years, suggesting that omission did not automatically invalidate the notice ([para 14]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal held that the High Court erred in finding Regulation 22C(1) invalid based on the absence of a time limit. Therefore, the court allowed the appeal with costs and reinstated the application, noting that the underlying legislative framework provided sufficient guidance that even without a specified period in the regulation, the statute effectively controlled the duration of any attachment ([paras 15–16]). 
+
+This ruling underscores the importance of clear regulatory guidelines that align with statutory provisions, illustrating the court's role in maintaining the integrity of legislative intent while clarifying the application of laws governing exchange control regulations.
+
+### Key Takeaways
+- The judgment reaffirmed the necessity of consistency between regulations and empowering statutes.
+- It clarified procedural norms regarding asset attachment and highlighted potential gaps in regulatory frameworks.
+- The implications extend beyond this case, influencing how regulatory authorities may draft and implement compliance mechanisms under the framework of the Currency and Exchanges Act.
+
+**References**:  
+Currency and Exchanges Act 9 of 1933; South African Reserve Bank v Torwood Properties Pty Ltd 1997 (2) SA 169 (A).

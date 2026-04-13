@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: Clearfreight (Pty) Ltd v Pictech Sales CC (186/12) [2013] ZASCA 181
+
+## F – Facts
+
+In **Clearfreight (Pty) Ltd v Pictech Sales CC** ([1]-[2]), the appellant, Clearfreight (Pty) Ltd, operated as a clearing and forwarding agent as well as a warehouse service provider. The respondent, Pictech Sales CC, was an importer of goods, specifically copper tubing from China, and a prior client of Clearfreight. This appeal arose from Pictech’s claim for damages against Clearfreight, asserting that goods worth R68,447.37 were lost during their storage.
+
+The relationship between Clearfreight and Pictech was governed by a written agreement entered on April 28, 1998, which included Clearfreight’s “Standard Trading Conditions.” The warehousing service began in June 2003 after Pictech’s sole member, Mr. M. Shek, arranged for Clearfreight to store imported copper tubing due to a lack of secure facilities.
+
+Concerns arose when Pictech executed a stock count on January 27, 2004, discovering discrepancies in reported versus actual inventory. Pictech subsequently withheld payment of R68,447.37 to Clearfreight, claiming this amount as compensation for the alleged loss: termed “under receipting.” The lost goods pertained to two consignments (CU101 and CU104) of copper tubing initially received in Durban and later stored at Clearfreight’s facility in Johannesburg.
+
+The initial ruling by the magistrate's court favored Clearfreight, but the Full Bench of the South Gauteng High Court reversed this decision, leading to the current appeal ([8]-[9]).
+
+## I – Issues
+
+The central legal issues addressed in this case included:
+
+1. **Whether Pictech proved the existence of “under receipting” by Clearfreight** concerning the consignments CU101 and CU104 ([6]-[7]).
+2. **The nature of the agreement under which the warehousing services were provided**: Whether services were provided under the written agreement or an alleged oral agreement ([6]).
+3. **The applicability of Clearfreight’s liability limitations** based on standard trading conditions if the services were governed by the written agreement ([6], [15]).
+
+## R – Rules
+
+The court approached the case by examining relevant contractual principles and established legal precedents regarding the burden of proof in civil cases. A key legal rule established that for a counterclaim to succeed, the claimant must demonstrate their assertion on a balance of probabilities ([8], [15]). The court referenced the principles surrounding delivery and loss under the contract of deposit, where the depository has a duty to account for goods received.
+
+Additionally, the reliance on documentary evidence (such as the manufacturer’s invoices, bills of lading, and other shipping documents) played a significant role in assessing the nature of the shipments ([12]-[14]). The court underscored that the credibility of assertions could be undermined if contradictory evidence exists.
+
+## A – Application
+
+In applying the law to the facts, the court initially examined the evidence provided by Pictech, which centered on Clearfreight's internal records and the documentation from the manufacturers. The court noted that the records indicated discrepancies, claiming that Clearfreight received fewer kilograms of copper tubing than had been packed in the original containers. However, it also indicated that the accuracy of the manufacturer’s documents, which Pictech used to substantiate its claims, had not been independently verified ([10]-[14]).
+
+After deliberating on the evidence regarding the quantities and weights of the consignments, the court resolved that the discrepancies did not substantiate Pictech's claims sufficiently. It pointed out that there were no reasons to favor either Clearfreight's accounts of received goods or those provided by the manufacturer, given that both could have recorded inaccurate information ([14]).
+
+The court ultimately found that since Pictech failed to demonstrate, on a balance of probabilities, that under receipting occurred, it could not establish that the alleged loss warranted a counterclaim against Clearfreight. Thus, the trial court's original ruling in favor of Clearfreight was deemed to be correct, and the appeal court's decision to favor Pictech was reversed ([15]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded by stating that **Pictech failed to prove under receipting** of the goods stored by Clearfreight, resulting in an affirmation of the original judgment. The appeal was upheld with costs, and the order of the Full Bench of the South Gauteng High Court was set aside, restoring the magistrate's court's decision to enforce Pictech's acknowledged debt of R68,447.37 ([16]).
+
+This ruling reaffirms the principles governing the burden of proof in the context of civil claims, emphasizing the importance of evidentiary support in counterclaims for damages. It highlights the court's reluctance to rule in favor of claims lacking substantiating proof, particularly in contractual disputes where discrepancies appear regarding received goods. 
+
+---
+
+**References:**
+
+- Clearfreight (Pty) Ltd v Pictech Sales CC (186/12) [2013] ZASCA 181.
+- Standard Trading Conditions of Clearfreight (Pty) Ltd.
+- Burden of Proof in Civil Proceedings (Civil Procedure Act).

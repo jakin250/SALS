@@ -1,0 +1,44 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2022
+
+# FIRAC Case Note: Qurashi and Others v The State [2022] ZASCA 118
+
+## F – Facts:
+In *Qurashi and Others v The State*, the three appellants—Saleem Qurashi, Farhan Ullah, and Shabber Ghulam—were charged with various serious crimes, including murder and robbery, among others. These charges stemmed from incidents occurring in November 2007 and March 2008, resulting in the deaths and disappearances of several Pakistani nationals.  
+
+Initially, the four deceased were allegedly lured to Clocolan where they were robbed and subsequently murdered ([para 1–2]). The prosecution asserted that the appellants were part of an organized criminal gang, with charges 1 (contravening the Prevention of Organised Crime Act), 9, 10–13 (murders), 14–17 (kidnapping/extortion), and 18 (conspiracy to commit kidnapping) leading to a protracted trial ([para 1]).  
+
+After an extensive judicial process rife with evidentiary challenges, the appellants were convicted on 11 counts, with life sentences imposed ([para 4]). Key evidence included testimonies from victims’ family members, cellphone data linking the accused to the victims, and the discovery of bodies leading from a private investigation that brought the police into the case ([para 8–24]).
+
+## I – Issues:
+The appeal presented several legal questions, but primarily revolved around:
+1. **Admissibility of Evidence**: Was the evidence obtained in violation of constitutional rights, particularly the right to privacy and the right to a fair trial? ([para 25])
+2. **Hearsay Evidence**: Should the hearsay evidence presented, particularly extra-curial statements from non-testifying witnesses, have been admitted? ([para 30])
+3. **Credibility Determinations**: Did the trial court err in its findings on the credibility of the prosecution witnesses as compared to the appellants? ([para 39])
+
+## R – Rules:
+### Constitutional Provisions:
+1. **Section 14 of the Constitution**: Protects the right to privacy.  
+2. **Section 35(5) of the Constitution**: Addresses the admissibility of unconstitutionally obtained evidence, stating it must be excluded unless it doesn’t impact the fairness of the trial ([para 26]).
+
+### Statutory Provisions:
+- **Prevention of Organised Crime Act 121 of 1998**.
+- **Criminal Procedure Act 51 of 1977**, particularly pertaining to search and seizure operations and the admissibility of evidence.
+- **Law of Evidence Amendment Act 45 of 1988**: Statements not made under oath can be excluded unless meeting criteria that the interests of justice are served ([para 30]).
+
+### Case Law:
+- *S v Hadebe* emphasized a thorough examination of evidence to consider it as a whole ([para 5]).
+- *S v Magwaza* detailed the court's discretionary power with respect to unconstitutionally obtained evidence ([para 29]).
+- *S v Ndhlovu* and subsequent rulings drew attention to the changing landscape of hearsay evidence, particularly concerning co-accused ([para 36-38]).
+
+## A – Application:
+1. **Admissibility of Evidence**: The court largely dismissed the appellants' arguments regarding the unconstitutional obtaining of evidence. It found that the evidence did not rise to the level of either self-incriminatory or conscriptive testimonial evidence, as it involved real evidence obtained with the cooperation of law enforcement ([para 26–28]).
+
+2. **Hearsay Evidence**: Despite the objection to various testimonies as hearsay, the court upheld their admissibility based on provisions within the Law of Evidence Act. The relevant criteria under section 3(1)(c) were deemed satisfied, as the evidence was pivotal in establishing the sequence of events and corroborating other types of evidence ([para 30–33]).
+
+3. **Credibility Findings**: The court maintained that credibility determinations should not solely invalidate the substantial body of circumstantial evidence against the accused. Despite some inconsistencies in witness testimonies, the collective weight of the evidence was robust enough to uphold the trial court's finding ([para 39–48]).
+
+## C – Conclusion:
+The Supreme Court of Appeal dismissed the appeal, holding that the convictions were founded on sufficient evidence which had been aptly evaluated in the trial court. The appellants' contentions regarding the constitutional breaches and evidentiary admissions were found to lack merit. The case underscores significant principles in criminal procedure relating to evidence admissibility and constitutional rights, reinforcing the idea that the law must balance individual rights with the pursuit of justice in serious criminal cases ([para 58]). 
+
+The implications of this case highlight the necessity for stringent standards regarding evidence collection and the vital interest of justice in prosecuting organized crime effectively. It also delineates the evolving understandings of hearsay in contemporary judicial contexts, illustrating how principles of admissibility can be navigated amidst constitutional protections.

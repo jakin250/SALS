@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: AIG South Africa Limited v 43 Air School Holdings (Pty) Ltd and Others (640/2023)
+
+## F - Facts
+The matter involves an appeal regarding liability under an insurance policy between AIG South Africa Limited (Appellant) and 43 Air School Holdings (Pty) Ltd (First Respondent), alongside 43 Air School (Pty) Ltd (Second Respondent), PTC Aviation (Pty) Ltd (Third Respondent), and Jet Orientation Centre (Pty) Ltd (Fourth Respondent) ([paras 1-2]). The key events unfolded during the COVID-19 pandemic, triggering substantial business interruptions. On multiple occasions, the Second Respondent initiated claims for compensation due to this interruption, which AIG repudiated, citing a lack of causal connection between the COVID-19 outbreak within a 25 km radius and the claimed losses ([paras 2–4]). 
+
+The First Respondent's operational structure is delineated, establishing a close interrelationship between the respondents. Importantly, the claim submission was for periods encompassing the national lockdown due to COVID-19, and the respondents alleged that the outbreak had a direct impact on their business ([paras 10-11]).
+
+## I - Issues
+The legal questions in this matter include:
+1. Whether the insurance policy in question provided joint or composite cover for the claims made by the entities involved ([para 19]).
+2. Whether the respondents were required to comply with the policy's reporting clauses prior to filing their application for relief ([para 19]).
+3. Whether PTC Aviation was an insured entity under the policy ([para 19]).
+4. Whether the Second Respondent had sufficiently established a causal link between the COVID-19 outbreak and the claimed business interruption losses ([para 19]).
+
+## R - Rules
+In interpreting the insurance policy, conventional principles apply, as reaffirmed in **Centrique Insurance Company Ltd v Oosthuizen and Another**. The court emphasized that the intent of the parties is to be deduced from the policy language and surrounding context. Key conclusions assert that insurance contracts should be constructed to manifest a commercially sensible outcome ([para 8]). Notably, the contra proferentem rule was expressly excluded in the policy, although the court maintained that ambiguities should be resolved in a businesslike manner ([para 9]).
+
+Further, the definition of the insured in the policy and the distinction between joint and composite insurance cover was duly analyzed ([paras 25-31]). Precedents such as **Arnould** and **MacGillivray on Insurance Law** elucidate that joint insurance typically necessitates shared interests in the property insured, while composite insurance acknowledges diverse interests among multiple insured parties ([paras 25-27]).
+
+## A - Application
+Upon reviewing the policy wording, the court took a comprehensive approach to dissect the relationship between the entities. It analyzed whether the interests of the claimants were sufficiently intertwined to warrant joint coverage. The evidence indicated that the entities’ interests in terms of gross profit were distinct; therefore, the court concluded that the policy was composite, suggesting that each entity had its own interests under the insurance ([paras 33-34]). 
+
+The court further scrutinized the obligation to report claims as stipulated in the policy, noting that failure to comply with such reporting clauses would preclude the obligation of the insurer to indemnify the claimants ([paras 34-40]). Despite arguments from the respondents about the necessity of reporting claims post-rejection, the court concluded that the insurance contract’s clear terms imposed a condition precedent for AIG's liability ([para 37]).
+
+As for causal connection, AIG argued that the losses were primarily a result of the national lockdown regulations rather than an outbreak of COVID-19. However, the court leaned on precedential arguments established in **Guardrisk Insurance Company Limited v Café Chameleon CC**, asserting that government responses to pandemics are inseparable from the insured perils acknowledged in the policy ([paras 51-59]). The court found that the outbreak within the specified radius did trigger the insurance provisions for business interruption ([para 61]).
+
+## C - Conclusion
+The court held that AIG was liable to compensate the Second Respondent for its first and second claims regarding business interruption during the specified periods. However, it ruled that AIG was not liable for the Third Respondent’s claims due to the failure to meet reporting requirements and the misclassification of policy coverage. Thus, the appeal partially succeeded, amending the High Court's order regarding compensation, while costs were not awarded as a gesture towards shared responsibility ([paras 66-67]).
+
+This judgment underscores the critical importance of clear delineations in insurance policies concerning coverage and reporting obligations, particularly in extraordinary circumstances like the COVID-19 pandemic, highlighting complex intersections between contractual obligations and emerging risks ([para 66]).

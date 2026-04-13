@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note Using FIRAC Method
+
+**Title:** The Commissioner for the South African Revenue Service v Marula Platinum Mines Limited  
+**Court:** Supreme Court of Appeal of South Africa  
+**Neutral Citation:** [2015] ZASCA 121 (22 September 2016)  
+**Case No:** 218/2015  
+**Judges:** Navsa, Cachalia, Tshiqi, Mathopo JJA and Fourie AJA  
+**Heard:** 08 September 2016  
+**Delivered:** 22 September 2016  
+
+## F - Facts
+The appellant, the Commissioner for the South African Revenue Service (the "Commissioner"), appealed the Tax Court's decision, which partially upheld the respondent, Marula Platinum Mines (Pty) Ltd ("Marula"), regarding tax assessments for the years 2007, 2008, and 2009 ([1]–[2]).
+
+Marula is a subsidiary of Impala Platinum Holdings Ltd, engaged in mining and processing platinum group metals ([4]). During the assessment years, Marula did not own the land mined but held rights to the relevant areas ([4]). Their operations were bifurcated into two main phases:
+1. **Phase 1:** Extraction of mineral-bearing ore from underground rock.
+2. **Phase 2:** Crushing and milling of the extracted ore, followed by a froth flotation process to produce a mineral-bearing concentrate ([5]).
+
+Marula intended to sell the concentrate, but historically, did not sell the raw ore due to impracticality regarding transport ([6]). The management structure involved selling the concentrate to a subsidiary under a deferred payment structure, prompting Marula to delay recognizing this income in their gross income for tax purposes ([7]–[8]).
+
+The Commissioner disallowed a portion of Marula's expense deductions under Section 23F(2) of the Income Tax Act 58 of 1962 (the "ITA"), on the basis that Marula's income from the concentrate was not recognized in the same financial period as some related expenses ([9]–[10]). The Tax Court ruled that only Phase 2 qualified under trading stock provisions, leading to the Commissioner's appeal for reconsideration of the assessments to include deductions for expenses from both phases ([12]).
+
+## I - Issues
+1. Whether the processes undertaken by Marula amounted to manufacturing, thus qualifying the mined ore and produced concentrate as "trading stock" under the ITA ([2]).
+2. Application of Section 23F(2) with respect to the deductions claimed by Marula for the expenses incurred during both phases of its operations ([12]).
+
+## R - Rules
+The legal framework of the case relies significantly on the following provisions of the ITA:
+1. **Section 1**: Defines "trading stock" to include items produced or manufactured for sale or exchange, and those whose proceeds contribute to gross income ([13]).
+2. **Section 11(a)**: Allows deductions for expenditures incurred in producing income, provided such expenditure is not capital in nature ([13]).
+3. **Section 23F(2)**: Addresses the timing of expense deductions concerning trading stock sales, stipulating that expenses must be disregarded if the income from the sale of such stock does not accrue in the same year of assessment ([13]–[14]).
+
+The court referenced previous rulings such as *Richards Bay Iron & Titanium* and *Foskor*, which outlined the necessary manufacturing criteria and emphasized the transformative processes involved ([16]–[22]).
+
+## A - Application
+The court analyzed the operations of Marula, finding that the extraction and processing of mineral-bearing ore clearly reflected a manufacturing process, thus categorizing the final concentrate as trading stock ([25]–[30]). Evidence demonstrated that the concentrate, formed through a rigorous method, was an entirely different commodity from the raw ore. This transformation validated the claim under the trading stock definition, supporting the need for a delayed recoupment of deductions as outlined in Section 23F(2) of the ITA ([20]–[25]).
+
+The court addressed Marula's assertion that its processes fell under the category of mining rather than manufacturing; it did not find merit in this argument, concluding that the deliberate intent and complex operations reflected manufacturing strategies designed for economic viability ([29]–[30]). Ultimately, the ruling clarified that deductions under Section 11(a) rightly encompassed relevant manufacturing expenses from both phases ([32]).
+
+## C - Conclusion
+The Supreme Court upheld the appeal by the Commissioner, ruling that Marula's activities constituted manufacturing, thereby warranting classification as trading stock under Section 1 of the ITA. This justified the Commissioner’s invocation of Section 23F(2), enabling recoupment of deductions related to operations in both phases of Marula’s activities, including drying charges. The Tax Court's previous rulings were set aside, with an order for Marula to bear the costs of the appeal and cross-appeal ([35]). 
+
+The decision reinforces the legal framework governing tax deductions and further delineates the boundary between mining and manufacturing operations, emphasizing how qualitative transformations in productions can significantly affect taxation principles and liabilities in accordance with the ITA.

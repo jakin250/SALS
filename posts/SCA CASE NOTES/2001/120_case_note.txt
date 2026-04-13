@@ -1,0 +1,60 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2001
+
+# Case Note: Sibongile Wendy Makhathini v Road Accident Fund (Case No: 21/2000)
+
+## FIRAC Method
+
+### F – Facts: Relevant background and procedural history ([paras 1–2])
+The case revolves around an incident that occurred on 26 October 1993, when three-year-old Mphathi Makhathini, the child of the appellant, Sibongile Wendy Makhathini, was injured after being struck by a motor vehicle driven by the insured, Justice Thembelihle Zondi. The collision took place in Ntuzuma township, KwaMashu, a location noted for having a communal tap adjacent to a narrow tarred road. Following the incident, the appellant initiated legal proceedings against the Road Accident Fund, claiming compensation as the statutory insurer for damages arising from the collision.
+
+Initially, the parties agreed to try the question of liability before addressing damages. The trial court, presided over by Jappie J, ruled that there was insufficient evidence to establish negligence on the part of Zondi, resulting in an order for absolution from the instance with costs. This verdict prompted the appellant to appeal to the Supreme Court of Appeal.
+
+### I – Issues: Legal or constitutional questions ([paras 4–4])
+The case presented two primary legal issues for consideration: 
+
+1. Whether the Road Traffic Collision Report, which recounted a statement from the deceased driver Zondi regarding his speed at the time of the accident, should have been admitted into evidence as hearsay under Section 3(1)(c) of the Evidence Amendment Act 45 of 1988.
+2. If the report was admissible, whether the collective evidence substantiated a finding of negligence against the insured driver.
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 15–21])
+The court's judgment was informed by Section 3(1) of the Evidence Amendment Act 45 of 1988 (the Act), which establishes the parameters under which hearsay evidence may be admitted. Specifically, Section 3(1)(c) stipulates conditions where hearsay may be allowed if it serves the interests of justice, considering factors such as:
+
+1. The nature of the proceedings.
+2. The nature of the evidence.
+3. The purpose for which evidence is presented.
+4. The probative value of the evidence.
+5. The reasons for the absence of the declarant.
+6. Any potential prejudice to other parties.
+7. Any other relevant factor.
+
+Precedents cited included **Mdani v Allianz Insurance Ltd** 1991 (1) SA 184 (A), which delineated the admissibility of similar hearsay statements. The court also referenced **Levy N.O. v Rondalia Insurance Corp of SA Ltd** 1971 (2) SA 598 (A), highlighting the heightened duty of care owed by motorists when near children.
+
+### A – Application: Analysis of how the court applied the law ([paras 25–41])
+The court undertook a meticulous analysis of the collision report and the admissibility of its content under the statutory framework established by the Act. 
+
+**Admissibility of Hearsay Evidence:** The court concluded that the report constituted hearsay, as it recounted Zondi's statement regarding his speed made to a policeman who was unidentified and did not testify. Despite the nature of the report being hearsay, the court determined it could be admitted if it met the conditions set out in Section 3(1)(c). 
+
+1. **Nature of Proceedings (s 3(1)(c)(i))**: The civil nature of the proceedings allowed for certain flexibility in assessing hearsay.
+2. **Nature of Evidence (s 3(1)(c)(ii))**: The court deemed the police report potentially reliable, being documented shortly after the collision by an official.
+3. **Purpose of Evidence (s 3(1)(c)(iii))**: The report’s central purpose was to establish Zondi’s speed, which directly related to the negligence claim.
+4. **Probative Value (s 3(1)(c)(iv))**: The court found that the evidence bore significant relevance, particularly since it provided the only available account of Zondi's speed at the time of the incident.
+5. **Absence of Declarant (s 3(1)(c)(v))**: The existing evidence cast doubt on whether adequate steps had been taken to identify the policeman who completed the report; however, this was not decisive.
+6. **Prejudice (s 3(1)(c)(vi))**: The inability of the respondent to cross-examine heightened concerns about prejudice, yet the court contended that such risks are inherent in the admission of hearsay evidence.
+7. **Other Factors (s 3(1)(c)(vii))**: The court saw no additional relevant factors that detracted from the report’s admission.
+
+The court ultimately determined that the evidence did meet the statutory criteria and should have been admitted, suggesting a strong probability that it reflected Zondi’s actual words regarding his speed.
+
+**Negligence Determination:** On the merits, the court highlighted that Zondi’s speed of 40 km/h could be deemed excessive given the presence of children, emphasizing the second possible scenario — that Zondi either failed to keep a lookout or drove too fast to stop upon seeing the children. Reference to **Levy N.O.** further cemented the court's reasoning that drivers must exercise heightened caution around young pedestrians.
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 42–42])
+The Supreme Court of Appeal held that the previous court's decision to exclude the collision report was erroneous. It ruled to uphold the appeal, thereby establishing that Zondi was negligent and declaring the Road Accident Fund liable for damages arising from the collision. 
+
+The implications of this judgment extend beyond the immediate facts, reaffirming the judicial framework that balances the admissibility of hearsay evidence against the backdrop of justice. The ruling highlights the necessity for courts to be vigilant in considering the realities of civil proceedings where certain evidentiary constraints might unreasonably impede a claim for damages.
+
+### References
+- Mdani v Allianz Insurance Ltd 1991 (1) SA 184 (A).
+- Levy N.O. v Rondalia Insurance Corp of SA Ltd 1971 (2) SA 598 (A).
+- Evidence Amendment Act 45 of 1988, s 3.
+- Civil Proceedings Evidence Act 25 of 1965, s 3.
+
+This case underscores the evolving landscape of evidentiary rules and the pursuit of substantive justice, illustrating the need for a greater allowance for hearsay that can meet the criteria set forth to serve the interests of justice.

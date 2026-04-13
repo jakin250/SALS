@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Attachmate Corporation v Minister of Water and Environmental Affairs  
+
+**F – Facts**  
+The case centers on a dispute between Attachmate Corporation (the appellant) and the Minister of Water and Environmental Affairs (the respondent), stemming from a software license agreement and a maintenance agreement both finalized in June 2005 ([1]). Attachmate, headquartered in the United States, sold the Department 300 licenses for its software (EXTRA! Mainframe Server Edition Version 8.1) intended for use across various departments ([1]–[2]). The license agreement required the Department to pay a fee for each installed software copy and restricted the usage of the software until a license unit certificate (reflecting the allowed number of installations) was obtained ([3]).
+
+Despite the explicit limitations, it was discovered in 2006 that the Department had installed 660 copies, leading to renegotiation and a further agreement allowing for additional licenses at a discounted price ([5]). However, by late 2009, the Department had allegedly installed 1,564 unlicensed copies of the software ([6]). Attachmate conducted an audit under the agreement, revealing substantial non-compliance with the licensing terms. The Department admitted to having these unlicensed copies but disputed the total number and the applicable fees owed ([7]).
+
+In the High Court, the judge ruled in favor of the Department regarding several key issues: the number of unlicensed copies, the interpretation of the applicable license fee, and the entitlement to maintenance fees for unlicensed copies ([9]). Attachmate subsequently appealed with specific focus on these determinations and sought to reclaim higher fees based on its list price for unlicensed copies ([10]–[12]).
+
+---
+
+**I – Issues**  
+The central legal questions presented in this case involve:
+1. The interpretation of the term "applicable license fee" in the license agreement ([9]).
+2. Whether Attachmate is entitled to be compensated for maintenance fees related to unlicensed copies as stipulated in the maintenance agreement ([10]).
+
+These questions hinge on determining the nature of the obligations established under the contracts and the corresponding liability for unlicensed software usage.
+
+---
+
+**R – Rules**  
+The court's ruling relied heavily on contractual interpretation principles, particularly the understanding that the words of the contract should be the starting point, supplemented by contextual evidence and surrounding circumstances at the time of contracting ([13]–[14]).
+
+The interpretation of the term "applicable license fee" became pivotal, with the court considering whether this term referred to Attachmate's list price or a discounted fee secured through negotiations with the State Information Technology Agency (Sita) ([16]). 
+
+Furthermore, the court invoked established jurisprudence indicating that contractual terms can imply obligations regarding damages, and that a maintenance agreement is inextricably linked to the underlying license agreement ([20]).
+
+---
+
+**A – Application**  
+In reviewing Attachmate's claim, the court evaluated the contract's language and intended outcomes of the parties involved. The court rejected the argument that a higher list price constitutes a penalty clause imposed on the Department ([15]). Instead, it emphasized that determining the "applicable license fee" should not penalize the licensee but rather acknowledge the pricing structure agreed upon, affirming the lower, discounted fee as not merely applicable but reflective of the negotiated relationship between Attachmate and the Department ([17]).
+
+As for the maintenance fees, the court dismissed the Department's assertion that such fees should only relate to licensed copies. It found merit in Attachmate's argument that the calculation of damages sought should put it back in the position it would have occupied had the Department complied with the agreements ([21]–[22]).
+
+The maintenance claim was thus determined valid under the premise of damages for breach of contract rather than specific performance of the maintenance agreement, allowing Attachmate a pathway to recover a calculated sum based on the unlicensed copies installed ([20]).
+
+---
+
+**C – Conclusion**  
+The Supreme Court of Appeal ultimately upheld parts of Attachmate’s appeal, confirming that the applicable license fee should indeed reflect the list price. It established that Attachmate was entitled to maintenance fees for the unlicensed copies for a total amount calculated to R7,744,302.40 plus interest from December 2009 ([23]). This decision underscores the significance of accurate contractual interpretation and the responsibilities of licensees under software agreements while highlighting the nuances involved in determining compensation for breaches of contract.
+
+This ruling not only clarifies Attachmate's entitlement concerning maintenance agreements and applicable fees but also sets a precedent for similar disputes involving software licensing, emphasizing the importance of adherence to contractual terms.

@@ -1,0 +1,62 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note
+
+**Case Title:** HMI Healthcare Corporation (Pty) Limited v Medshield Medical Scheme & others (1213/2016) [2017] ZASCA 160  
+
+**Court:** Supreme Court of Appeal of South Africa  
+
+**Judgment Date:** 24 November 2017  
+
+**Bench:** Ponnan and Petse JJA, Tsoka, Lamont, and Mbatha AJJA  
+
+---
+
+## F – Facts
+
+The case involves HMI Healthcare Corporation (Pty) Ltd ("HMI"), the sole shareholder of Calabash Health Solutions (Pty) Ltd ("Calabash"), which was put into voluntary liquidation. The substantive facts reveal a capitation agreement between HMI and the Medshield Medical Scheme ("Medshield"), effective from January 1, 2006, to December 31, 2008. This agreement was terminated prematurely in 2008 due to several disputes ([1]).
+
+In 2009, following the liquidation of Calabash, liquidators were appointed, and HMI claimed approximately R3.5 million against Calabash in the first meeting of creditors ([2]). Meanwhile, Medshield proved multiple claims against Calabash amounting to R39.2 million. However, these claims were partially expunged by the Master under Section 45 of the Insolvency Act 24 of 1936, allowing Medshield to seek judicial recourse instead ([4]).
+
+In April 2013, Medshield initiated an application to rescind an ex parte order allowing HMI to defend actions against Calabash in its name, which was granted by Van der Merwe DJP ([7]–[9]). The rescission application was granted by Tlhapi J, leading to this appeal ([9], [21]).
+
+## I – Issues
+
+1. Whether Medshield possesses the locus standi necessary to initiate the rescission application according to Rule 42(1)(a) of the Uniform Rules of Court ([10]).
+2. Whether the rescission of the ex parte order is appealable under the criteria established in *Zweni v Minister of Law and Order* and subsequent case law ([14]–[20]).
+
+## R – Rules
+
+The core legal principles involved include:
+
+1. **Locus Standi**: Under Rule 42(1)(a), any party "affected" by a judgment may seek rescission of that judgment. It requires the applicant to show a direct and substantial interest in the outcome of the original proceedings ([10]).
+   
+   The definition of "affected" and "direct and substantial interest" can be traced back to the judgments such as *United Watch & Diamond Co (Pty) Ltd v Disa Hotels Ltd* and others where having a financial interest is insufficient for establishing locus standi ([10], [11]).
+
+2. **Appealability**: As outlined in *Zweni*, a judgment must possess final and definitive attributes to be appealable. An order that merely allows for reconsideration or returns parties to their previous positions typically does not qualify for appeal ([14]–[19]).
+
+3. **Interests of Justice**: Courts consider whether allowing an appeal would serve the interests of justice, especially if the order would lead to a resolution of substantive legal issues ([17]).
+
+## A – Application
+
+### Locus Standi
+The court determined that Medshield was indeed an affected party, holding a substantial interest given its creditor status and claims against Calabash. The potential resolution of the claim between Medshield and Calabash hinged on whether HMI could represent Calabash in legal matters. Given these circumstances, the court acknowledged Medshield’s right to contest the ex parte order, emphasizing that it was not merely a financial interest but a direct claim on the matter at hand ([11], [12], [13]).
+
+### Appealability
+Regarding the appeal, the court maintained that the rescission order did not possess the requisite final attributes established in *Zweni*. The rescission merely returned the parties to their pre-order positions, allowing further litigation to clarify claims and defenses. The court emphasized the importance of not promoting piecemeal litigation, observing that delaying a final resolution would not serve justice ([18], [20]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately dismissed HMI's appeal, affirming the findings that Medshield had the necessary locus standi to apply for rescission and determining that the rescission order was not appealable. The decision reiterates the importance of enabling all affected parties to present their claims in court, ensuring judicial fairness in handling disputes arising in the context of insolvency. The implications of this case reaffirm the judiciary's role in granulating the interests of justice and procedural rights within corporate insolvency and the legal representation of affected parties ([21]). 
+
+--- 
+
+**References:**
+- *HMI Healthcare Corporation (Pty) Limited v Medshield Medical Scheme & others (1213/2016) [2017] ZASCA 160.*
+- *Zweni v Minister of Law and Order* [1993] 1 SA 523 (A).
+- *United Watch & Diamond Co (Pty) Ltd & others v Disa Hotels Ltd & others* 1972 (4) SA 409 (C).
+- *Guardian National Insurance Co Ltd v Searle NO* [1992] 2 All SA 151 (A).
+- *Pitelli v Everton Gardens Projects CC* 2010 (5) SA 171 (SCA). 
+
+This case note encapsulates the key elements of the HMI v Medshield case, detailing the legal reasoning and implications for future jurisprudence within South African law related to corporate insolvency and legal representation.

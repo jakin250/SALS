@@ -1,0 +1,33 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2024
+
+### FIRAC Case Note: Mawanda Makhala and Another v Director of Public Prosecutions, Western Cape [2024] ZACC 28
+
+#### F – Facts
+The case concerns an application for leave to appeal against the judgment of the Supreme Court of Appeal, which upheld the convictions of the applicants for murder, possession of an unlicensed firearm, and unlawful possession of ammunition, resulting in life sentences and concurrent five-year terms ([1–7]). The applicants, Mawanda Makhala and Velile Waxa, were implicated in the murder of Mzukisi Molosi, a municipal councillor in Knysna, who was killed on July 23, 2018 ([2]). 
+
+The crucial evidence against the applicants was provided by Mr. Luzuko Makhala, the brother of the first applicant, who had made two incriminating statements to police officers. These statements included detailed descriptions of how the murder was orchestrated, implicating both applicants ([5–6]). However, during the trial, Luzuko recanted these statements, claiming coercion from the police ([9]). The trial court declared him a hostile witness and admitted his statements into evidence, leading to the applicants' convictions ([10–11]). 
+
+The Supreme Court of Appeal affirmed the trial court’s decision, deeming the admissions valid, despite their reliance on a previously recanted witness. The court ruled that the statements were not obtained in violation of the witnesses' rights, nor did their admission render the trial unfair ([14–18]).
+
+#### I – Issues
+The main legal issues addressed by the Constitutional Court included:
+1. Whether a court can base a conviction on a recanted section 204 statement when it is the sole evidence implicating the accused ([23–24]);
+2. The applicability of the Hearsay Act in relation to such statements when the section 204 witness testifies and denies their truthfulness ([24–25]);
+3. The impact of their decision on the broader right to a fair trial as guaranteed by section 35 of the Constitution ([25–26]).
+
+#### R – Rules
+The relevant statutes and principles considered by the court included:
+- **Criminal Procedure Act 51 of 1977**, specifically Section 204 regarding the admissibility of witness statements that may incriminate them ([39]).
+- **Law of Evidence Amendment Act 45 of 1988 (Hearsay Act)**, particularly Section 3(1)(c), which allows hearsay evidence to be admitted at the discretion of the trial court if deemed in the interests of justice ([54]).
+- Jurisprudential precedents, notably Mhlongo v S, affirming the constitutional imperatives regarding the right to a fair trial and the challenges associated with witness reliability and coercion ([29], [30]).
+
+#### A – Application
+In its application of the law, the Constitutional Court scrutinized the trial and appeal courts' reliance on the section 204 statements. The trial court had deemed them admissible despite the witness's recantation, suggesting that they upheld sufficient corroborative evidence ([10], [56]). However, the admissions were primarily the only evidence implying guilt, raising concerns about the presumption of innocence and the applicants' rights under section 35(3)(i) of the Constitution to challenge and adduce evidence ([25–26], [30–31]).
+
+Tshiqi J emphasized that without the statements, no other direct evidence linked the accused to the crime, rendering the reliance on the statements problematic; the court found the co-factor correlations tenuous concerning other witnesses' testimonies ([70–72], [141–145]). The majority opinion in the Supreme Court of Appeal had also deemed the first statements sufficient, igniting a debate on the consistency and truthfulness of the witness throughout the judicial processes ([18, 19]).
+
+#### C – Conclusion
+The Constitutional Court ultimately held that the reliance on the section 204 statements was misapplied; given the witness's admission to lying and the absence of corroborative evidence to sustain the convictions, the court concluded that the state had failed to establish guilt beyond a reasonable doubt. Thus, the applicants’ convictions were set aside, and it was determined that the trial had not met the fair trial standards requisite for proper adjudication in accordance with section 35 of the Constitution ([76]). 
+
+This judgment highlights the critical balance that courts must maintain between expediency in prosecuting crime and safeguarding the constitutional rights of the accused, underscoring the potential pitfalls of relying heavily on witness testimony that may be unreliable or coercively obtained.

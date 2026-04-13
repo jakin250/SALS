@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: Sasol Oil Proprietary Limited v The Commissioner for the South African Revenue Service 
+
+**Citation**: Sasol Oil v CSARS (923/2017) [2018] ZASCA 153 (9 November 2018) 
+
+**Court**: Supreme Court of Appeal of South Africa
+
+### F – Facts
+The appellant Sasol Oil Proprietary Limited (Sasol Oil) challenged additional tax assessments issued by the respondent, the Commissioner for the South African Revenue Service (CSARS), for the years 2005, 2006, and 2007, which totaled over R68 million, plus penalties and interest exceeding the same amount ([paras 2–4]). The central issue involved two contracts for the sale of crude oil which were sourced from Middle Eastern suppliers through a chain of interrelated companies in the Sasol Group: Sasol Trading International Limited (STI), Sasol International Services Limited (SISL), and Sasol Oil International Limited (SOIL) ([paras 3–4]).
+
+Sasol Oil's operations included procuring crude oil, refining it, and marketing the resulting products. It historically sourced crude oil directly from STI until a restructuring in 2001 aimed to optimize operations and minimize tax liability due to the introduction of a residence-based tax ([paras 1, 5, 10]). Following the restructuring, STI began selling crude oil to SISL, which in turn sold it to Sasol Oil, marked by two supply agreements ([paras 6, 8, 10]).
+
+The Tax Court, presided over by Mali J, found these transactions to be simulated, leading to the Commissioner regarding them as a sham for tax purposes ([para 4, 36]). Sasol Oil denied the accusations, asserting that these transactions were genuine and intent-based with commercial justification for their structure ([paras 70–79]).
+
+### I – Issues
+The appeal primarily raised two questions:
+
+1. Whether the transactions were indeed genuine sales or simulated transactions designed solely to evade tax liability ([paras 1–2, 35]).
+2. If the transactions were concluded as described, whether they fell under section 103(1) of the Income Tax Act 58 of 1962, which allows the Commissioner to disregard such arrangements if they were entered into chiefly for tax avoidance ([paras 2, 27, 84]).
+
+### R – Rules
+**Income Tax Act 58 of 1962**: Section 103(1) provides that the Commissioner may disregard any transaction that has been entered into solely for tax avoidance purposes and considers whether:
+- It was entered into in a manner not normally employed for bona fide business purposes or was abnormal to such a transaction.
+- It has created rights or obligations not typically seen between parties dealing at arm's length ([paras 84–86]).
+
+The **principles of "substance over form"** are critical in determining whether a transaction is genuine or simulated. The court must examine the reality of the transaction beyond its legal appearance ([para 54]).
+
+### A – Application
+The Supreme Court of Appeal (SCA) undertook a comprehensive analysis of the evidence presented at trial. It scrutinized the substance of the transactions against the backdrop of the Sasol Group’s restructuring rationale ([paras 10, 90]). 
+
+The court found that the use of SISL in the supply chain had sufficient commercial justification, as it aimed to rationalize operations and minimize costs associated with duplicative administrative functions ([paras 90–80]). The evidence from Sasol Oil's witnesses, including testimonies from senior managers involved in the restructuring, indicated that there were economic and logistical advantages in the proposed framework, despite the Commissioner’s assertions to the contrary. 
+
+Moreover, there were substantial operational mechanisms in place, such as bills of lading affirming SISL’s ownership and the inherent risks of shipping oil. The SCA emphasized that merely structuring a transaction to achieve tax efficiency, absent deceit or simulation, does not inherently violate tax provisions. The precedent outlined in *Zandberg v Van Zyl* was applied, affirming that without clear evidence of intention to deceive, the agreements should hold ([paras 54–60]).
+
+### C – Conclusion
+The SCA ruled in favor of Sasol Oil, overturning the Tax Court's decision and confirming that the contracts were genuine and not simulated for tax evasion purposes ([paras 1, 95]). The court noted there was no substantial basis for considering the transactions as fraudulent or without merit, concluding that the additional assessments by the Commissioner were unjustified, leading to the costs of appeal being awarded to Sasol Oil ([paras 4, 95]). 
+
+The implications of this judgment underscore the necessity for tax authorities to provide robust evidence of simulation in tax assessments and highlight the complexities involved in multi-tier corporate structures aimed at optimizing operational efficiency and tax liabilities. The ruling delineates the fine line between tax avoidance and evasion, reinforcing the legitimacy of tax planning within the bounds of the law.

@@ -1,0 +1,39 @@
+Case Note: IN THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 1998
+
+# Case Note: William Roland Thompson v Johannes Nicolaas Scholtz [1998] ZASCA 67
+
+## FIRAC Method
+
+### F – **Facts** ([paras 2–8])
+The appellant, William Roland Thompson, sold a stock farm named Springfontein to the respondent, Johannes Nicolaas Scholtz, for R1.1 million. The written agreement stipulated that the appellant was to provide the respondent with full occupation of the farm on 1 May 1992. Although the appellant vacated the farm premises, he continued to occupy the farmhouse until 10 October 1992, during which the respondent took control of all farming operations. By 10 October 1992, the property had been registered in the respondent’s name, and the purchase price had been fully paid.
+
+A dispute arose concerning the payment of occupational interest, as stipulated in Clause 3 of the sale agreement. The respondent refused to pay this interest in light of the appellant's failure to vacate the farmhouse. Consequently, the appellant initiated legal proceedings on 9 September 1992, seeking occupational interest computed at 12.5% per annum for the period between 1 May 1992 and 18 September 1992, amounting to R52,325. In his defense, the respondent invoked the exceptio non adimpleti contractus, arguing that he was not obliged to make the payment due to the partial non-performance by the appellant—specifically, his failure to fully vacate the farmhouse.
+
+Both the trial court and the subsequent appeal court recognized the validity of the respondent’s defense but varied the amounts due to the appellant based on the respective performances, with the trial court initially awarding him R50,459, adjusted for certain costs incurred by the respondent due to this partial occupation. Upon appeal, the full court overturned the trial court's findings and granted an order of absolution from the instance.
+
+### I – **Issues** ([paras 11–13])
+The case presents several interlinked legal issues:
+1. Whether the exception of non-adimpleti contractus can be validly invoked by the respondent against the appellant's claim for occupational interest when the partial occupation was a result of the appellant’s breach of contract.
+2. The relevance of the de minimis principle in this contractual dispute — whether the failure to vacate the farmhouse, viewed as a minor or trivial matter, affects the enforceability of the contractual obligations concerning occupational interest.
+3. The proper extent of any monetary adjustment needed for the appellant's failure to provide full occupation and whether it can be quantified to establish a fair remedy for both parties.
+
+### R – **Rules** ([paras 4, 9–10, 12–15])
+The ruling is informed by established legal principles including:
+- **Exceptio non adimpleti contractus**: This principle permits a party to withhold performance (in this case, the payment of occupational interest) when opposing party’s performance is incomplete or defective, as stated in *BK Tooling (Edms) Bpk v Scope Precision Engineering (Edms) Bpk* 1979 (1) SA 391 (A) and further elucidated in subsequent judgments like *Dalinga Beleggings (Pty) Ltd v Antina (Pty) Ltd* 1979 (2) SA 56 (A).
+- **De minimis non curat lex**: This legal maxim indicates that the law does not concern itself with trivial matters; however, the judgment clarified that the existence of a 'real or substantial' impediment to performance cannot be dismissed as trifling.
+- **Principles of substantive performance**: Courts distinguish between complete and substantial performance concerning contractual obligations and address corresponding entitlements to remuneration in line with the principles established in *Arnold v Viljoen* 1954 (3) SA 322 (C).
+
+### A – **Application** ([paras 11–20])
+The Court reasoned that while the respondent had a legitimate defense under the exceptio framework, it was crucial to establish whether the appellant's partial performance had yielded disproportionate benefits to the respondent. It was acknowledged that the appellant did not withhold occupation entirely but provided a form of occupation despite his failure to vacate the farmhouse. 
+
+The appellant’s execution of farming operations by the respondent during the disputed period was relevant, suggesting that the benefits accrued by the respondent could not overshadow the obligation to pay occupational interest. However, the court recognized that the existence of an obligation to allow uninterrupted occupation did not retroactively extinguish the breach associated with the incompleteness of that obligation.
+
+The judgment analyzed the second proposition of *BK Tooling*, stressing that financial compensation for the loss of occupational possession arising out of the breach was not a fit remedy, given its continuous nature. The court expressed difficulty in quantifying the cost of 'restoration' of performance, thus necessitating a more generalized reassessment of the proper payment owed concerning the circumstances of the case.
+
+Having assessed all relevant factors, the court ultimately decided to reduce the occupational interest payment to 75% of the originally claimed amount, emphasizing fairness to both parties.
+
+### C – **Conclusion** ([paras 41–45])
+The Supreme Court of Appeal upheld the appeal, varying the orders of the lower courts concerning the quantum of occupational interest payable to the appellant. The initial award of R50,459 was reduced to R39,243.75, calculated as 75% of the claimed interest. The court endorsed the inherent value of both parties in relation to the case outcomes, reinforcing that the appellant was entitled to some remediation, though adjusted for his incomplete performance.
+
+This case underscores the necessity of equitable principles in contract law, particularly where ongoing obligations influence the availability and extent of contractual remedies. It articulates a nuanced approach toward determining damages and highlights the complexities associated with continuous breaches of contract. Furthermore, the ruling reinforces judicial discretion in shaping remedial measures that reflect fairness and equity in contractual relationships. The significant aspect of the case lies in its potential implications for future disputes involving partial performance and the application of the exceptio doctrine in South African contract law.

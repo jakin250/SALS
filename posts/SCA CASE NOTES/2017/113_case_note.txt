@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Costa NO v Arvum Exports (969/2016) [2017] ZASCA 113
+
+## FIRAC Method
+
+### F – Facts
+
+The Supreme Court of Appeal case *Costa NO v Arvum Exports (Pty) Ltd* arises from a dispute concerning the authority of the late Mr. Alberto Costa, a farmer who had previously entered into two business agreements on behalf of the Klein Botrivier Trust (the KB Trust) with the Fruit Group, comprising Arvum Exports (Pty) Ltd, Unlimited Fruit (Pty) Ltd, and Arvum Finance (Pty) Ltd ([1]).
+
+After Mr. Costa's murder on February 18, 2011, the appellants—trustees of the KB Trust and Mr. Costa’s widow—contested the validity of the agreements entered into by Mr. Costa. The Fruit Group sought enforcement of these agreements, thus initiating litigation ([2]–[3]). In November 2012, the High Court found that the Fruit Group had a prima facie case, leading to an interim interdict against the trustees to supply fruit ([3]). The litigation continued, with judgments issued in favor of the Fruit Group at various stages ([5]–[6]).
+
+The resolution at the heart of the dispute was purportedly adopted by the trustees, which authorized Mr. Costa to sign necessary paperwork ([19]). Specifically, the resolution indicated: “That Alberto Costa in his capacity as trustee of the Klein Botrivier Trust 852/2007 is hereby appointed and authorized to sign the necessary documentation” ([19]). The Fruit Group entered into a Production Loan Agreement (PLA), and a Supply and Marketing Agreement (SMA) were subsequently signed by Mr. Costa ([10]).
+
+### I – Issues
+
+The primary legal questions in this case revolve around:
+
+1. Whether Mr. Costa had actual authority or ostensible authority to enter into the agreements on behalf of the KB Trust ([32]).
+2. Whether the actions and representations made gave rise to a reasonable belief by the Fruit Group regarding Mr. Costa’s authority ([32]–[34]).
+3. If the agreements were binding, whether the KB Trust was liable for any claims arising under the Plant Breeders’ Rights Act ([39]).
+
+### R – Rules
+
+Legal principles relevant to this case include:
+
+1. **Actual Authority**: For a principal (the trustees) to bind the principal through contracts, actual authority must exist, which can be derived from formal resolutions or established practices ([18]).
+   
+2. **Ostensible Authority**: This concept allows a third party to rely on the representations made by an agent (here, Mr. Costa), where it is reasonable to assume that the agent had authority. This rests on the actions of the principal that create such an assumption ([32]) (NBS Bank Ltd v Cape Produce (Co) (Pty) Ltd 2002 (1) SA 396 (SCA)).
+
+3. **Plant Breeders’ Rights Act**: Sections 23 and 23A delineate the rights concerning propagation of plants, emphasizing that infringement occurs during reproduction rather than the sale or distribution of the produced fruits ([39]–[43]).
+
+### A – Application
+
+The court applied these principles by first closely examining the wording and context of the resolution that purportedly granted Mr. Costa authority. Ultimately, it determined that the authority conferred was limited to signing documents necessary for the acquisition of the farm Klein Botrivier, not for entering into business agreements ([23]–[24]). Hence, the court concluded Mr. Costa lacked actual authority.
+
+Similarly, for ostensible authority, the court found that the Fruit Group could not reasonably rely on Mr. Costa’s actions since the vague resolution was insufficient to convey such authority. The court ruled that neither Mrs. Costa nor Mr. Coetzee had given any representations to the Fruit Group that could infuse Mr. Costa with ostensible authority ([34]).
+
+Moreover, the distinction between what constitutes reproduction under the Plant Breeders’ Rights was crucial. The Fruit Group's assertion of infringement was dismissed as the KB Trust's activities did not constitute propagation, affirming that there was no infringement under the Act ([39]–[43]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal concluded that Mr. Costa had neither actual nor ostensible authority to enter into the PLA and SMA. The agreements were therefore rendered unenforceable. Consequently, the KB Trust was not bound by these agreements, and the claims related to the Plant Breeders’ Rights Act were also dismissed. The court upheld the appeal with costs ordered against the respondents ([44]). This judgment underscores the critical importance of defining authority within trust relationships, emphasizing that vague or misinterpreted resolutions do not extend beyond their intended context. The ruling reinforces the principles governing principal-agent relationships and the enforceability of trust decisions.

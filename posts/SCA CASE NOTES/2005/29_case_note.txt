@@ -1,0 +1,29 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# FIRAC Case Note: Constantia Insurance Company Ltd v Compusource (Pty) Ltd
+
+### F – Facts:
+This case involves Constantia Insurance Company Ltd (hereinafter referred to as "Constantia") and Compusource (Pty) Ltd (the "Respondent"). Constantia issued two post-dispute litigation (PDL) insurance policies to Compusource through Legal Protection Services (Pty) Ltd (LPS) ([para 1]). Subsequently, after discovering facts that adversely affected Compusource's prospects in ongoing litigation, Constantia cancelled the policies and claimed the full premiums due, amounting to R1,364,363.11, as specified in clause 3.5 of the policies ([para 2]). Compusource contested the claim, asserting that it was unaware of clause 3.5, which entitled Constantia to claim the full premium upon cancellation ([para 2]).
+
+The factual background clarifies that Rust, a representative of Compusource, met with Fegen of LPS to discuss obtaining PDL insurance to secure funds for litigation against another party ([paras 4-6]). Despite Rust's acceptance of the insurance terms based on a "no win, no premium" agreement, he was unaware of the onerous cancellation clauses when entering into the agreement ([paras 10-14]). The High Court ruled in favor of Compusource, dismissing Constantia’s claim due to the failure of the agent to disclose crucial terms ([para 2]).
+
+### I – Issues:
+The primary legal issue revolves around whether Compusource is bound by the terms of clause 3.5 of the insurance policy despite its representative, Rust, asserting a lack of intent to agree to those terms due to ignorance of their implications ([para 15]). The question also encompasses whether there was a reasonable reliance by Constantia on Rust’s agreement and whether misrepresentation by omission occurred regarding the undisclosed clause ([paras 16-18]).
+
+### R – Rules:
+The relevant legal authority in this case derives from principles governing contract formation, particularly concerning consensus and misrepresentation. The Supreme Court of Appeal highlighted that a lack of mutual assent (dissensus) can render a contractual clause unenforceable ([para 16]). Citations such as *Sonap Petroleum SA (Pty) Ltd v Pappadogianis* ([para 17]) explain that a party's outward expression of consent may bind them if it misleads the counterparty into believing that a consensus has been reached. The court also referred to precedents concerning negligent misrepresentation by omission, highlighting the duties of agents in disclosing critical policy terms ([para 16]).
+
+### A – Application:
+In analyzing the facts, the court determined that Rust’s misunderstanding did not equate to an informed agreement on the terms of the policy. The court noted that Rust’s conduct suggested he believed the insurance policy included a “no win, no premium” structure without fully comprehending the attached risks and obligations under clause 3.5 ([para 20]). The decision focused on whether it was reasonable for Constantia’s representatives to assume Rust's agreement included acceptance of terms that could lead to enormous financial liability ([para 23]).
+
+Constantia argued that reasonable business practices and Rust’s articulate nature should have indicated a mutual understanding of the clauses ([para 19]). However, the court found that given the novel nature of PDL insurance in South Africa, coupled with the unique circumstances surrounding Compusource’s financial predicament, it was unreasonable to expect Rust to agree to terms that would create an unmanageable financial burden ([para 20-23]). Therefore, the court ruled that there was no reasonable basis for Constantia to maintain that an enforceable agreement existed concerning clause 3.5 given Rust's lack of knowledge about the term ([para 23]).
+
+### C – Conclusion:
+The Supreme Court of Appeal concluded that Constantia could not enforce clause 3.5 against Compusource, as there was no true consensus reached on this term of the policy ([para 24]). The appeal was ultimately dismissed, affirming the earlier ruling of the High Court in favour of Compusource. As the parties had agreed upon costs for two counsels, Constantia was ordered to bear the costs of the appeal ([para 25]). This case underscores the importance of clear communication and full disclosure of policy terms by insurance representatives, especially in novel insurance types, thus impacting future dealings of similar nature in the insurance sector.
+
+---
+
+**Notes:**
+- **Citations**: All references are made in line with OSCOLA standards, with reliance on South African case law.
+- Additionally, it would be prudent for practitioners to examine this decision within a broader context in the insurance law field, considering emerging trends in litigation and policy formulations.

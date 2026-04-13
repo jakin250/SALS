@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note
+
+## Case Title: UTi South Africa (Proprietary) Limited v Triple Option Trading CC  
+**Neutral Citation**: UTi South Africa v Triple Option Trading (20157/14) [2015] ZASCA 101 (3 June 2015)
+
+**Coram**: Maya, Shongwe, Leach, Zondi JJA and Gorven AJA
+
+## F – Facts
+The appellant, UTi South Africa (Proprietary) Limited, initiated legal proceedings against the respondent, Triple Option Trading 29 CC, in the Germiston Magistrates’ Court on 14 March 2007, seeking payment of R274,786.70. This amount was claimed as an outstanding balance for customs clearing, forwarding, and export agency services allegedly rendered between 15 January 2005 and 16 May 2006, pursuant to various agreements. These claims were supported by invoices and a customs clearance letter.
+
+The appellant made an erroneous amendment to its particulars of claim on 22 July 2009, asserting that the contract under which the services were provided was between the respondent and Pyramid Freight (Pty) Ltd, from which the appellant claimed to have acquired rights due to a business asset purchase in December 2004. The respondent, however, contended that the services rendered were not in relation to any agreement with Pyramid Freight but were transactions concluded directly between the respondent and the appellant.
+
+The respondent filed a special plea arguing the claim was prescribed, suggesting that the appellant's amendment introduced a new cause of action that had become due and payable before the amendment was made—specifically, before 17 May 2009. Additionally, the respondent raised a second special plea arguing lack of jurisdiction, claiming that the magistrates’ court was precluded from hearing the case based on a jurisdiction clause in the standard trading conditions referencing Pyramid Freight.
+
+The magistrates’ court upheld both special pleas, leading to an appeal in the Gauteng Division, which partially dismissed the appeal regarding prescription but upheld the dismissal of the special plea on jurisdiction. The appellant subsequently appealed to the Supreme Court of Appeal.
+
+## I – Issues
+1. **Prescription**: Did the amendment to the particulars of claim introduce a new cause of action that had become prescribed?
+2. **Jurisdiction**: Did the magistrates’ court possess jurisdiction to hear the claims, or was it ousted by the contractual agreements between the parties?
+
+## R – Rules
+The relevant legal principles include:
+
+1. **Prescription**: According to the Prescription Act 68 of 1969, a debt is extinguished after a period of prescription if the debtor has not been sued for it within the prescribed time frame. The court utilized principles of whether the cause of action had changed as a result of amendments to the pleadings ([para 4]).
+   
+2. **Jurisdiction**: The jurisdiction of the magistrates' courts is governed by the Magistrates’ Courts Act 32 of 1944. In determining jurisdiction, the interpretation of contractual terms, particularly jurisdictional clauses, is paramount, as seen in the interpretation of clause 36 of the standard trading conditions ([paras 5, 12]).
+
+3. **Contracts**: The fundamental rule in contract law asserts that only the parties to the contract can assert rights and obligations stemming from it ([paras 8, 12]).
+
+## A – Application
+In addressing the prescription issue, the Supreme Court of Appeal examined whether the amendments altered the basis of the claim. The court concluded that the underlying rights to payment for services rendered remained the same. Notably, the court emphasized that the essence of the claim throughout was for services requested and performed for the respondent, irrespective of any reference to Pyramid Freight’s agreements, which were irrelevant to the appellant’s legal standing in the present claim. The court found that service of the original summons interrupted the running of prescription, meaning that the claim was not extinguished ([paras 10, 11]).
+
+Regarding jurisdiction, the court noted that the agreements directly between the appellant and the respondent did not incorporate any clauses that would oust the jurisdiction of the magistrates’ court. The court correctly determined that the invoices in question represented separate contracts and none exceeded the jurisdiction limit of the magistrates’ court. Thus, the appeal against the magistrates’ court’s determination on jurisdiction was upheld, invalidating the special plea ([paras 12, 13]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the appeal against the magistrates’ court’s ruling that suggested the appellant's claims had become prescribed. The court determined that the original and amended particulars of claim did not constitute differing causes of action, maintaining the appellant's right to pursue the claim for payment. Additionally, the court dismissed the respondent’s cross-appeal regarding the lack of jurisdiction, affirming that the magistrates’ court had the authority to hear the case. The outcome of this case has implications for future interpretations regarding amendments to claims and how prescription is viewed concerning the continuity of the cause of action, as well as the jurisdictional authority of various courts in similar contractual disputes ([paras 1, 14]).

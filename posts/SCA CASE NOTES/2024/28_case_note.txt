@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Standard Bank of South Africa Limited v Swartz and Others [2024] ZASCA 28
+
+### F - Facts
+The Supreme Court of Appeal of South Africa (SCA) addressed three interrelated applications stemming from financial disputes involving The Standard Bank of South Africa Limited (the bank), two close corporations (Pygon Trading CC and JCICC Network 100 CC), and the joint estate of Dr Jerome Benjamin Swartz and Mrs. Lucille Swartz. The procedural history unfolded as follows:
+
+1. The application to liquidate Pygon was initiated by the Body Corporate of the Montana Sectional Title Scheme on 2 October 2020. After a series of interventions and postponements, a provisional liquidation order for Pygon was granted on 18 May 2021 ([1–3]).
+   
+2. Following the provisional liquidation, the JCICC was also provisionally liquidated on 9 June 2021, and on 10 June 2021, the joint estate of the Swartzes was provisionally sequestrated ([4]).
+
+3. Swartz attempted to secure a business rescue application in respect to Pygon, which was complicated by a series of withdrawals and procedural irregularities, eventually leading to a settlement agreement on 23 November 2021. The settlement stipulated that if R18 million was not paid by a specified date, the provisional liquidation orders would become final ([5–12]).
+
+4. As the R18 million payment was not made, the bank sought to enforce the orders for final liquidity, asserting that the high court had no jurisdiction to ignore the settlement agreement ([13–24]).
+
+### I - Issues
+The central legal issues addressed by the SCA included:
+
+1. Whether the high court had jurisdiction to grant a business rescue application that had not been formally brought before it ([14]).
+2. The validity and binding nature of the settlement agreement made on 23 November 2021, which was designed to resolve outstanding disputes ([17]).
+3. The implications of the lack of jurisdiction for the high court’s orders concerning the liquidation and sequestration applications ([29]).
+
+### R - Rules
+The court relied on several key legal principles and precedents, including:
+
+1. **Jurisdiction and Competence**: A court's power to adjudicate over matters is limited to those presented and properly before it. In this case, the SCA pointed out that there was no existing application for business rescue, as Swartz had not been granted the necessary intervention ([16]).
+
+2. **Settlement Agreements (Transactio)**: The SCA reaffirmed the doctrine that a settlement agreement, especially when made an order of court, becomes res judicata (a matter judged), indicating it cannot be revisited or set aside without appropriate legal steps ([17–20]).
+
+3. **Enforcement of Court Orders**: The principle that once a court has executed its jurisdiction, the order stands unless set aside through rescission or appeal ([21]).
+
+### A - Application
+The SCA thoroughly applied these legal principles to the facts as follows:
+
+1. **Lack of Jurisdiction by the High Court**: The SCA found that the high court’s endorsement of a business rescue application was unfounded, as no valid application existed at the time. Moreover, any attempt by Swartz to intervene had not been sanctioned by the court, rendering the high court’s actions in this regard invalid ([14–16]).
+
+2. **Validity of the Settlement Agreement**: The SCA found that the settlement agreement made on 23 November 2021 constituted a clear resolution of the issues presented. The high court's failure to recognize this agreement and its conditions indicated a fundamental misjudgment, as the terms explicitly stated that the provisional orders would become final upon non-payment of the stipulated amount ([19–22]).
+
+3. **Finality of Legal Proceedings**: The SCA emphasized the importance of finality in legal proceedings, contemplating how the high court's actions disrupted the expectations of the parties involved. The failure to acknowledge the earlier settlement undermined the assurance that parties could rely on concluded agreements and court orders ([23–28]).
+
+### C - Conclusion
+The SCA upheld the appeal, ultimately setting aside the high court’s orders. The court reaffirmed the validity of the consent order from 23 November, dictating that the provisional liquidation orders for both close corporations and the joint estate must be finalized due to non-compliance with the payment terms ([30]).
+
+The ruling underscores critical insights into the operation of settlement agreements, the necessity of court jurisdiction, and the enforcement of finalized orders. By reinforcing these principles, the court aimed to restore order and clarity within insolvency proceedings, which are vital for resolving financial disputes within the South African legal framework.

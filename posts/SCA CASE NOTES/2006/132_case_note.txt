@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# FIRAC Case Note: Yarram Trading CC t/a Tijuana Spur v Absa Bank Ltd [2006] SCA 160 (RSA)
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–3])
+
+The appellant, Yarram Trading CC, operates a restaurant named Tijuana Spur in leased premises at the Bryanston Shopping Centre, Gauteng. The respondent, Absa Bank Ltd, is the registered owner of the property. The underlying lease agreement was formed on 29 June 2003 and commenced on 1 November 2003 between Yarram (as lessee) and Bryanston Hobart Pty Ltd (as lessor). Following the sale of the property, the ownership was transferred to Absa, who became the lessor under the original lease agreement. 
+
+Disputes arose regarding alleged breaches of lease terms, leading to Absa's application for Yarram's eviction in the Johannesburg High Court. The court (Willis J) granted the eviction order after dismissing all defenses raised by Yarram, which resulted in the current appeal being heard.
+
+## I – Issues: Legal or Constitutional Questions ([paras 2–3, 12, 21–28])
+
+Three primary defenses were raised by Yarram in the appeal:
+
+1. **Locus Standi**: Did Absa have the legal standing to initiate eviction proceedings as the trustee of the Allan Gray Property Trust?
+   
+2. **Authority of Trustee**: Were the letters of demand and subsequent cancellation valid, given the argument that they were not authorized by the proper authority?
+
+3. **Factual Disputes**: Did the existence of factual disputes regarding the alleged lease breach preclude the matter from being decided summarily in motion proceedings?
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 6–10, 14–15, 21–25])
+
+**Collective Investment Schemes Control Act 45 of 2002**: The Act governs the structure and authority within collective schemes, including the role and duties of trustees and managers. 
+
+**Common-Law Principles of Ownership**: The judgment referenced numerous cases illustrating the implications of "legal ownership" vs. "beneficial ownership", including *Mkangeli v Joubert* 2002 (4) SA 36 (SCA), which affirmed that a trustee retains locus standi to vindicate property.
+
+**Shifren Clause**: Invoked by the respondent, this clause prohibits oral variations of contractual terms unless written and signed, established in *SA Sentrale Ko-op Graanmaatskappy Bpk v Shifren* 1964 (4) SA 760 (A). The court reaffirmed the enforceability of such clauses to prevent disputes over unrecorded agreements.
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 13, 16–30])
+
+1. **Locus Standi**: The court upheld Absa's standing, affirming that the trustee holds legal ownership of the property. The judgments established that the provisions of the Act did not strip the trustee of the right to vindicate property, given that such rights are part of the common-law framework regarding ownership ([para 14]). 
+
+2. **Authority of Trustee**: The defense centered on whether Broll Management had the authority to issue the demand for payment and cancellation letters, which the court deemed valid based on their designation as an agent of Absa under the lease agreement ([paras 18–20]). The court held that despite the managerial control of Allan Gray, Broll had established authority to act on behalf of the lessor.
+
+3. **Factual Disputes**: The court recognized the complexities arising from conflicting accounts of rental payments and alleged breaches of lease terms. However, it determined that the established framework for determining rent arrears—specifically, whether any amount was overdue—sufficed to uphold the eviction order ([paras 21–28]). The Shifren clause's effects rendered oral modifications ineffective for disputing the lease’s terms anyhow, thus affirming Absa's right to cancel based on the appellant's failure to provide required documentation ([paras 25, 28]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 31–32])
+
+The Supreme Court of Appeal dismissed the appeal with costs, affirming both the validity of the eviction order and the authority of Absa to enforce the lease terms ([para 31]). The court's ruling clarified the locus standi of trustees in collective investment schemes, reaffirming their ability to enforce property rights despite managerial oversight. The judgment reinforced the significance of Shifren clauses in lease agreements, emphasizing the necessity for written amendments to contractual obligations, thus limiting potential disputes regarding unrecorded agreements.
+
+In summary, the case establishes critical precedents regarding trustee authority and the implications of the Collective Investment Schemes Control Act in eviction proceedings based on lease breaches, providing clarity for similar future disputes in property law and investment schemes.

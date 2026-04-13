@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: **Compass Insurance v Hospitality Hotel Developments (PTY) Ltd** (756/10) [2011 ZASCA 149]
+
+### F – Facts
+The case concerns a dispute between **Compass Insurance Company Ltd** (the appellant) and **Hospitality Hotel Developments (Pty) Ltd** (the respondent). The respondent, a property development company, engaged the services of a construction company to upgrade a hotel, which included the installation of a computer network by a subcontractor ([para 2]). On 4 February 2008, Compass Insurance issued a construction guarantee for the subcontractor’s performance, covering an amount of R 1,444,428.51, set to expire on 30 April 2008 ([para 2]).
+
+The subcontractor later breached this contract and was provisionally wound up on 23 April 2008. Subsequently, on 25 April 2008, Hospitality Hotel sent a demand for payment to Compass Insurance, which was notably non-compliant as it did not include the required court order of provisional sequestration ([para 3]). Compass Insurance refused to pay, asserting the absence of the court order rendered the demand invalid. Hospitality Hotel subsequently sought an order from the South Gauteng High Court compelling payment. The court granted the application, positing that the compliance was sufficient as the order was submitted later ([para 3]).
+
+The crux of the appeal centered on whether the initial demand was compliant with the performance guarantee terms ([para 1]). 
+
+### I – Issues
+The primary legal issue presented in this appeal is whether Hospitality Hotel complied with the contractual requirements specified in the performance guarantee when demanding payment from Compass Insurance ([para 1]). Specifically, the issue revolves around the necessity of attaching a court order of liquidation to the demand for payment:
+
+1. Was the absence of the court order fatal to the demand made by Hospitality Hotel?
+2. Should compliance with the guarantee terms be regarded as strict or merely substantial?
+
+### R – Rules
+The case invokes principles of contract law, particularly concerning the interpretation and enforcement of performance guarantees. **Clause 4** of the construction guarantee stipulated specific conditions under which demand for payment must be made, including the requirement to attach either a notice of cancellation or a court order of provisional liquidation ([para 4]). 
+
+The court referred to established precedent regarding performance guarantees' treatment, contrasting them with letters of credit. It cited cases such as **Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd** and **OK Bazaars (1929) Ltd v Standard Bank of South Africa Ltd**, which emphasize strict adherence to the terms set out in financial guarantees and performance bonds ([paras 8–9]). 
+
+English authority, as cited in **Edward Owen Engineering Ltd v Barclays Bank International Ltd**, recognizes that while performance guarantees stand on a similar footing as letters of credit, they also necessitate explicit adherence to their specific terms ([para 10]).
+
+### A – Application
+In applying the legal rules to the facts, the court acknowledged that Hospitality Hotel failed to attach the required court order to its demand for payment, which was a clear stipulation under clause 4.2 of the guarantee. **The High Court’s ruling**, which suggested that the requirement was not “fatal,” was scrutinized. The Supreme Court of Appeal found that the High Court's interpretation deviated from the explicit contractual terms ([paras 6–13]). 
+
+The court further emphasized that the obligation to present accurate documentation lies with the claimant (Hospitality Hotel) and does not extend to the guarantor (Compass Insurance) to verify the truth of claims made in the demand letter. The rationale rests on the independent nature of a performance bond, which is meant to provide assurance without requiring the guarantor to evaluate the underlying contractual situation ([para 14]).
+
+Moreover, the court noted that the factual context (such as the knowledge of liquidated status) could not supersede explicit contractual requirements. The fact that the court order was not submitted until after the expiry of the guarantee illustrated a clear breach of both the letter and spirit of the agreement ([paras 13–15]).
+
+### C – Conclusion
+The appeal was upheld, highlighting the necessity of adhering strictly to the stipulated terms of performance guarantees. Given that Hospitality Hotel failed to satisfy the explicit documentation requirements, Compass Insurance was not liable for the payment demanded. The order of the High Court was set aside and replaced with a ruling dismissing the application, affirming Compass Insurance's non-liability based on the initial demand’s non-compliance ([paras 16]).
+
+This case clarifies the importance of strict compliance with the terms set forth in performance guarantees, aligning South African law on this issue with prevailing international standards and reinforcing the autonomy of contractual obligations in the realm of financial guarantees.
+
+### References
+- **Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd** 2010 (2) SA 86 (SCA).
+- **OK Bazaars (1929) Ltd v Standard Bank of South Africa Ltd** 2002 (3) SA 688 (SCA).
+- **Edward Owen Engineering Ltd v Barclays Bank International Ltd** [1978] QB 159 (CA).
+- **Siporex Trade SA v Banque Indosuez** [1986] 2 Lloyd’s Rep 146.
+- **IE Contractors Ltd v Lloyds Bank plc and Rafidain Bank** [1990] 2 Lloyd’s Rep 496 (CA).
+
+This decision significantly impacts the interpretation of performance guarantees and sets a precedent underscoring the importance of compliance with explicit contract terms, thereby guiding future conduct in similar contractual encounters.

@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Jugwanth v Mobile Telephone Networks (Pty) Ltd [2021] ZASCA 114
+
+## FIRAC Method Case Note
+
+### F – Facts
+
+In **Jugwanth v Mobile Telephone Networks (Pty) Ltd**, the appellant, Sunnidhew Sookai Jugwanth (the plaintiff), an attorney, contested a ruling from the Gauteng Division of the High Court after his claim against the respondent, Mobile Telephone Networks (Pty) Ltd (the defendant), was dismissed due to an exception based on the argument of prescription ([1]). The plaintiff had claimed fees for services related to representation before the Commission for Conciliation, Mediation and Arbitration, alleging that the contract for such services was concluded in April 2006, with the work rendered between 2006 and 2008. The summation of fees, as detailed in 148 invoices, amounted to R3,875,501.60 ([2]).
+
+The plaintiff served the summons in June 2015, significantly after the claim's alleged lapse; the defendant, citing Section 11(d) of the Prescription Act 68 of 1969, contended that the debts were prescribed, thus not enforceable ([2]). The High Court, under Ngalwana AJ, accepted the defendant's exception, ruling that the particulars of claim failed to disclose a cause of action strictly due to the prescription of the claims ([1]).
+
+### I – Issues
+
+The primary legal issue in the case revolved around whether the plaintiff’s particulars of claim disclosed a cause of action when the defendant claimed that the underlying debts had prescribed. Specifically, it addressed two questions: 
+
+1. Whether it was appropriate for the defendant to raise the issue of prescription via an exception rather than through a special plea, thereby affecting the burden on the plaintiff regarding the disclosure of facts ([10]–[12]).
+2. Whether the plaintiff was required to plead a basis for the non-prescription of the claim within his particulars of claim; in other words, whether failure to do so would result in the exception being upheld ([17]).
+
+### R – Rules
+
+The court relied primarily on the **Prescription Act 68 of 1969**, specifically, Sections 10, 11(d), and 17 of the Act, which outline the rules regarding the extinction of debts through prescription, the period of prescription for debts, and the necessity of invoking the prescription. Section 11(d) specifies a three-year prescription for debts, while Section 17 outlines the procedural requirements for invoking such a defense in litigation ([5], [17]). 
+
+Additionally, the court engaged with precedents regarding the nature of exceptions, such as **Vermeulen v Goose Valley Investments (Pty) Ltd** and **Cook v Gill**, to demonstrate the necessity for particulars of claim to potentially sustain a cause of action based on the facts pleaded ([3], [4]). The established principle asserts that an exception only succeeds if it is shown that the claim is manifestly bad in law through the face of the pleadings and evidence, relying on established legal precedents in civil procedure ([3], [4]).
+
+### A – Application
+
+The Supreme Court of Appeal undertook an exhaustive analysis of the legal standards regarding prescription, emphasizing that a party invoking prescription bears the full burden of proving its defense ([6], [8]). The court rejected the defendant's claim that raising the issue of prescription through an exception was permissible and validly invoked the necessity for a special plea in such situations ([12]).
+
+Additionally, the court examined the procedural history to stress that the plaintiff was not compelled to anticipate the invocation of prescription in the particulars of claim or plead around it. The court highlighted that the delivery of an exception did not alter the standing of the particulars of claim that, at their issuance, had sustained a valid cause of action ([11], [18]). Notably, it was clear that even if the debts were prescribed, as suggested by the defendant, the claim could still proceed without the plaintiff having to demonstrate a non-prescriptive basis at the initial pleading stage, particularly given the defendant's burden of proof ([18], [19]).
+
+In addressing the High Court's conclusion—wherein it speculated that had the prescription been raised appropriately, it would likely have succeeded—the court countered by stating that such speculation was unfounded as it ignored the necessary procedural context and the burden of proof pertinent to the invocation of prescription ([20], [21]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately ruled in favor of the plaintiff, overturning the High Court’s decision to uphold the exception ([24]). It established that the exceptional plea of a claim’s prescription did not justify the dismissal based on the failure to plead the basis for the non-prescription of debts. The court emphasized the significance of constructive frameworks in prescription claims and extended clarity on the procedural integrity required when raising defenses based on prescription.
+
+The judgment upholds the principle that exceptions must clearly disclose a legal insufficiency on the face of a claim, reinforcing that a party cannot escape its obligations to substantiate claims, particularly regarding serious defenses like prescription. This ruling has implications for the management and procedural handling of prescription claims in South African law, reiterating the necessity for clarity in pleading practices and obligations of burden of proof.
+
+Conclusively, the appeal was upheld with costs awarded to the appellant, emphasizing the necessity for greater diligence in the invocation of legal defenses under the Prescription Act ([24]).
+
+--- 
+
+This case note reflects a comprehensive analysis suitable for citation and academic purposes, maintaining the original paragraph references for clarity and context.

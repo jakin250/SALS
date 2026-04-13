@@ -1,0 +1,47 @@
+Case Note: NOT REPORTABLE
+Source Folder: 1996
+
+# Case Note: Firac Method
+
+## Case Title: Tanker Services (Pty) Ltd v SA Botswana Hauliers (Pty) Ltd
+
+### Citation:
+Not reportable. Case number 634/93, Supreme Court of South Africa (Appellate Division), 19 March 1996. 
+
+### F – Facts
+The case arises from an action in the Transvaal Provincial Division initiated by the respondent, SA Botswana Hauliers (Pty) Ltd, against the appellant, Tanker Services (Pty) Ltd, for damages following a collision between their vehicles on the main road between Harare and Beit Bridge in Zimbabwe ([para 2]). The plaintiff claimed damages related to a mechanical horse and trailer, which were determined to be under cession from associated companies. The collision, occurring around 23:30 on 18 May 1990, involved the plaintiff's vehicle (with a load of two granite blocks) and the defendant's tanker, which carried hexane, a highly flammable substance. Tragically, both drivers and all passengers died due to the resultant fire, leaving no eyewitnesses to the incident ([para 4]).
+
+The trial court, presided over by Hartzenberg J, ruled that the collision was caused by the sole negligence of the defendant's driver and held the defendant liable for the damages ([para 3]). The court separated the merits from the quantum of damages, allowing for a focused trial on liability first ([para 4]). The appeal was then brought before the Supreme Court, which was tasked with reassessing the facts and legal principles applied in the trial ([para 5]).
+
+### I – Issues
+Central to this appeal were the following legal questions:
+1. Was the collision caused by the negligence of the defendant's driver?
+2. Did the plaintiff sufficiently meet the burden of proof necessary to establish liability under the doctrine of *res ipsa loquitur*?
+3. Was there credible evidence to substantiate either party's claim given the absence of eyewitnesses? ([paras 10-12]).
+
+### R – Rules
+The court primarily relied on the principles of negligence, specifically the doctrine of *res ipsa loquitur*, which permits a presumption of negligence based on the nature of the accident itself when no direct evidence is available ([para 10]). Key precedents included *Sardi and Others v Standard and General Insurance Co Ltd* 1977 (3) SA 776 (A) and *Madyosi and Another v S A Eagle Insurance Co Ltd* 1990 (3) SA 442 (A), which outlined the required balance of probabilities necessary for a plaintiff to succeed in a negligence claim ([para 11]). 
+
+The rule dictates that the court evaluates all evidence and inferences to determine whether the plaintiff has discharged the burden of proof regarding the defendant's negligence ([para 11]).
+
+### A – Application
+Upon reviewing the trial's expert testimonies, the court found that both expert witnesses, Prof. G. Lemmer and Prof. T.O. Duggan, agreed on foundational facts regarding the collision, such as vehicle sizes and positioning ([paras 6-10]). However, they diverged in their interpretations concerning the nature of the gouge mark on the road, which indicated the collision's first impact point.
+
+**Expert Analysis:**
+Prof. Lemmer hypothesized that the defendant's tanker moved across the road, providing the eastward momentum before the collision occurred on the plaintiff's correct side of the road. Conversely, Prof. Duggan suggested both vehicles collided while transitioning from their incorrect sides to the east, implying a shared fault ([para 10]).
+
+The trial court accepted the principle of *res ipsa loquitur*, concluding that the collision's occurrence on the plaintiff's correct side of the road inferred negligence on the defendant's part, especially as the defendant had failed to displace this inference ([para 10]). 
+
+However, the Supreme Court noted that the mere presence of the gouge mark on the plaintiff's side did not definitively establish where each vehicle was immediately before impact ([para 12-14]). Both experts' assertions were largely speculative, as insufficient evidence was presented to justify either party's negligence.
+
+### C – Conclusion
+The Supreme Court ultimately reversed the trial court's decision, concluding that the available evidence did not sufficiently support an inference of negligence by either driver. The Court held that the positioning of the vehicles and the gouge mark alone were inadequate to determine liability definitively as they could not establish a clear violation of road conduct by the defendant ([paras 15-16]).
+
+Consequently, the appeal was upheld with costs, and the trial court's orders were replaced with absolution from the instance on both claims ([para 15]). The case emphasizes the need for clear evidential bases in establishing negligence, particularly in situations devoid of eyewitness testimony and automatic assumptions of fault based solely on accident circumstances.
+
+### Implications
+This ruling contributes to the body of case law concerning the application of *res ipsa loquitur* in South African tort law. It underscores the necessity for defendants in vehicle collision cases to present adequate counter-evidence when a presumption of negligence arises. Additionally, it illustrates the critical role of expert testimony in such cases, reminding legal practitioners of its limitations when interpretations remain speculative.
+
+## References
+- Sardi and Others v Standard and General Insurance Co Ltd 1977 (3) SA 776 (A).
+- Madyosi and Another v S A Eagle Insurance Co Ltd 1990 (3) SA 442 (A).

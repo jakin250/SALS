@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# FIRAC Case Note: Hendrik Johannes Pitzer v Eskom (336/11) [2012] ZASCA 44
+
+## F – Facts
+The case revolves around an incident that occurred on **14 July 2006**, in which **Hendrik Johannes Pitzer** (the appellant), a qualified electrician, was injured by an electric shock in a live chamber of an electrical substation operated by **Eskom** (the respondent). This facility was located in Vanderbijlpark and access to the high-voltage yard was controlled strictly under Eskom's regulations ([1]).
+
+Prior to the incident, Pitzer was employed by a private contracting company and was working in a control room adjacent to the yard. On the morning of the incident, he was approached by **Mr Fourie**, an official from Eskom, who subsequently left the premises, leaving the main gate to the yard open. Despite understanding that this contravened safety regulations, Pitzer entered the yard to ensure that painters employed by an independent contractor had vacated the premises. Upon entering the live chamber to check for occupancy, he encountered live equipment and subsequently suffered an electric shock that rendered him unconscious ([2]–[6]).
+
+Testimony indicated that the conditions leading to the incident included an open door on the live chamber and electrical equipment lying partially dismantled on the floor ([7]–[10]). Eskom, the undertaker under the **Electricity Act 41 of 1987**, denied liability for the accident, asserting that Pitzer's negligence was solely to blame. The case eventually proceeded only on the issue of liability in the South Gauteng High Court and was dismissed, leading to an appeal by Pitzer ([1]–[4]).
+
+## I – Issues
+The primary legal questions presented in this appeal were: 
+
+1. **Whether Eskom was negligent in its duty to prevent access to dangerous areas of the electrical substation**, given the established regulations concerning the security and safety of live chambers ([11]).
+2. **Whether Pitzer’s actions constituted a voluntary assumption of risk and/or contributory negligence that could mitigate Eskom's liability** ([13], [14]).
+
+## R – Rules
+The legal framework applicable to this case is rooted in negligence law and specifically the implications of the **Electricity Act 41 of 1987**. Section 26 of the Act states:
+> "In any civil proceedings against an undertaker arising out of damage or injury caused by induction or electrolysis or in any other manner by means of electricity generated or transmitted by or leaking from the plant or machinery of any undertaker, such damage or injury shall be presumed to have been caused by the negligence of the undertaker, unless the contrary is proved." 
+
+This provision effectively shifts the burden of proof to Eskom to demonstrate that it was not negligent or that any negligence did not cause the injury suffered by Pitzer ([11], [12]).
+
+Additionally, general principles of negligence were applicable, as established in **Kruger v Coetzee**:
+- A party is negligent if a reasonable person in a similar situation would foresee the possibility of harm to another and fail to take reasonable steps to mitigate that risk ([18]).
+
+## A – Application
+In analyzing Eskom's liability, the court considered whether Mr Fourie, the official in charge during the incident, took reasonable steps to prevent unauthorized access to the live chamber. The court determined that Fourie should have foreseen the possibility of someone entering the yard if the gate was left open, regardless of whether that individual was a trained electrician. It was noted that the very purpose of locking the gate was to prevent such risks ([19], [21]).
+
+The court also addressed Eskom's argument that it had taken reasonable precautions, such as controlling access to the live chamber, and that a reasonable person would not have expected a trained electrician to enter a live chamber without authorization. However, the court found this perspective lacking, emphasizing that even qualified electricians might not be fully cognizant of unobserved dangers, particularly given the hazardous nature of live electrical equipment ([21], [24]).
+
+On the issue of Pitzer’s contributory negligence, the court acknowledged that he entered the live chamber under assumptions that might not have been reasonable. He failed to ascertain whether the chamber was decommissioned and should not have relied solely on circumstantial factors such as the open door ([28]). Thus, it was determined that both parties exhibited negligence, leading the court to adjudge that Pitzer was equally at fault regarding the injuries sustained.
+
+## C – Conclusion
+The Supreme Court of Appeal ruled in favor of Pitzer, finding that Eskom had not satisfactorily rebutted the presumption of negligence as stated in the Electricity Act. The original judgment by the lower court was set aside, and Eskom was deemed liable for **fifty percent** of Pitzer’s proven damages. This case highlights the dual nature of negligence, where the actions of both the service provider and the injured party played critical roles in establishing liability. The implications underscore the necessity for strict adherence to safety regulations and illustrate the complexities involved in claims of contributory negligence ([30]).
+
+Ultimately, this ruling reinforced the principle that actions taken to mitigate risk must account for potential dangers that might not be immediately visible, emphasizing the duty of care owed to all individuals, regardless of their qualifications, in high-risk environments.

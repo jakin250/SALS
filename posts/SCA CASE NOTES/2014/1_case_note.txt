@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+### FIRAC Case Note: Absa Bank Ltd v Mahomed (876/12) [2012] ZASCA 1 (20 January 2014)
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–6])**
+
+This appeal concerns a judgment from the South Gauteng High Court where Absa Bank Limited (the Appellant) was ordered to pay the first and second respondents, Mahomed Arif and Abdul Shiraz (the Respondents), for alleged funds misappropriated by an agent of the bank, Mr. Naresh Rama Mistry. Mistry operated two Absa agencies in Pretoria under an agency agreement established with United Bank Limited (the predecessor to Absa). He allegedly engaged in fraudulent activities, resulting in considerable financial losses for clients, including the Respondents, who made investments based on misleading deposit receipts.
+
+The Respondents claimed, through purported investment certificates issued by Mistry, a total of R5,432,099.88 from the bank as follows:
+1. Mahomed: R1 million, R1 million, R3 million, and R432,099.88 across four fictitious accounts.
+2. Abdul: R2,020,843 through three accounts.
+
+However, records from Absa revealed none of these accounts existed. Both Respondents were implicated in using fictitious identities to evade taxes owed to the South African Revenue Service (SARS) while seeking compensation for what they alleged were legitimate deposits. Absa denied any liability, asserting the illegitimacy of the agreements orchestrated by Mistry. The high court found in favor of the Respondents, leading to the current appeal.
+
+**I – Issues: Legal or Constitutional Questions ([paras 9–26])**
+
+1. Was Mistry duly authorized to represent Absa in concluding the investment agreements?
+2. Could the Respondents hold the bank liable for the actions of its agent despite the unlawful nature of the agreements?
+3. Did the Respondents successfully establish their claims of breach of contract?
+4. Was the court correct in applying principles of estoppel without them being pleaded?
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 26–34])**
+
+The court examined principles relating to agency and the authority of agents within financial institutions:
+1. **Agency Law**: Establishes that agents must act within the scope of their authority (Hely-Hutchinson v Brayhead Ltd [1968] 1 QB 549 (CA); NBS Bank Ltd v Cape Produce Co [2002] 1 SA 396 (SCA)).
+2. **Estoppel**: Engages when an agent acts beyond the authority which had been represented to a third party (NBS Bank Ltd, ibid).
+
+In addition, notions surrounding public policy and the enforceability of contracts involving illegal acts were considered, including judgments that affirm non-enforcement of contracts formed for illegal purposes (Absa Bank Ltd v IW Blumberg & Wilkinson [1997] 3 SA 669 (SCA); Blackie Swart Argitekte v Van Heerden [1986] 1 SA 249 (A)).
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 26–35])**
+
+The appeal court engaged in a detailed analysis of whether Mistry possessed actual or implied authority to act on behalf of Absa. The court determined that Mistry’s agency agreement explicitly limited his authority, making any investment agreements he purported to conclude beyond an unlawful scope, thus unauthorized.
+
+Despite the Respondents’ claims regarding the establishment of contracts through the flawed receipts, the absence of a teller stamp as stipulated in Absa’s internal protocols was crucial. The court found that the Respondents knowingly colluded with Mistry in an attempt to evade tax, which fundamentally undermined the legitimacy of their claims. The appeal highlighted how both the factual matrix and statutory provisions embodied in FICA invalidated the Respondents’ claims.
+
+The application of estoppel was also critically examined; the court ruled that the lower court misapplied standards regarding the necessity of pleading estoppel, as this was a significant legal defense left unaddressed during the trial phase, which severely prejudiced Absa’s right to respond adequately.
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 36])**
+
+The Supreme Court of Appeal upheld the appeal, ruling that the Respondents failed to establish any legitimate claim against Absa or prove the existence of valid contracts. The court asserted that any agreements crafted through Mistry were inherently rendered void due to their connection to illegal activity, and thus, holding the bank accountable would contravene public policy norms. Given the extensive judicial scrutiny applied to the agency principles, contract enforcement, and the implications of tax evasion, this case amplifies the importance of upholding legal integrity in banking transactions.
+
+The orders from the court below were set aside, leading to the dismissal of the Respondents' claims with costs, including costs relating to two counsels, reinforcing the principle that parties cannot benefit from their illegal actions.

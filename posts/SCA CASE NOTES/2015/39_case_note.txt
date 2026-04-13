@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+## Case Note: Cloete Murray NO & another v FirstRand Bank Ltd ([2015] ZASCA 39)
+
+### FIRAC Case Note
+
+#### F – Facts
+
+This case concerns an appellate review of a decision made by the North Gauteng High Court regarding the cancellation of a Master Instalment Sale Agreement (MISA) between FirstRand Bank Ltd (Wesbank) and Skyline Crane Hire (Pty) Ltd (Skyline) that occurred during business rescue proceedings. On 22 July 2010, Wesbank entered into a MISA with Skyline, allowing Skyline to procure movable goods while retaining ownership until the purchase price was settled. [2]
+
+Following a board resolution on 29 May 2012, Skyline entered business rescue, effective from 30 May 2012. By this point, Skyline was in arrears on its payments under the MISA. On 30 May 2012, Wesbank sent a cancellation letter concerning the MISA due to Skyline’s failure to make the requisite payments. This letter was deemed received by Skyline on 3 June 2012. Wesbank asserted that the MISA was cancelled immediately and sought to repossess the goods. [4] The business rescue practitioner subsequently endorsed Wesbank's repossession and sale of the goods, which yielded proceeds sufficient to cover the debt, leaving a surplus retained by Wesbank, based on other claimed dues from Skyline. [6]
+
+After business rescue proceedings were discontinued on 17 July, with Skyline subsequently declared in liquidation, the appointed liquidators contested the cancellation of the MISA, arguing that it was invalid under section 133(1) of the Companies Act 71 of 2008 (the Act), contending that Wesbank's actions constituted 'enforcement action' requiring consent from the business rescue practitioner or leave from the court. [8-10]
+
+#### I – Issues
+
+The primary legal issue for determination involved whether the unilateral cancellation of the MISA by Wesbank constituted "enforcement action" as detailed under section 133(1) of the Act, thereby necessitating written consent from the practitioner or approval from the court. [1-2][28]
+
+Additionally, an ancillary issue arose regarding whether the liquidators could invoke section 134(1)(c) of the Act, as it had not been properly raised in the initial court proceedings. [19-20]
+
+#### R – Rules
+
+The relevant statutory provisions of the Companies Act 71 of 2008 highlight the moratorium on legal proceedings (including enforcement actions) against a company undergoing business rescue. Section 133(1) specifically states no legal action against the company may be commenced or proceeded with during business rescue, except under specific conditions. [13]
+
+In relation to interpretation, the court referenced standard principles derived from statutory interpretation cases such as *Natal Joint Municipal Pension Fund v Endumeni Municipality* ([2012] ZASCA 13), emphasizing that the legislative text must be read in context, which also applies constitutional values when relevant. [30]
+
+Further, the liquidators relied on *Barkhuizen v Napier* ([2007] ZACC 5) to argue for the inclusion of a new legal point; however, the courts maintain discretion regarding hearing late submissions that have not previously been contested. [20-21]
+
+#### A – Application
+
+The court analyzed whether Wesbank's action of cancelling the MISA qualified as "enforcement action" under the moratorium provision in section 133(1). It concluded that cancellation does not equate to enforcement of a legal right through formal legal proceedings. Cancellation is, as described, a unilateral act that does not involve a court or tribunal, whereas the enforcement action typically concerns legal proceedings initiated to claim a right or obligation, such as a lawsuit aimed at compelling performance or restitution. [29-34]
+
+The court further defended that the inclusion of enforcement within the context of legal proceedings suggests it relates to actions derived from such proceedings, rather than unilateral cancellation. Such reasoning aligns with conventional contract law that allows for cancellation without needing the involvement of court processes. Thus, the court affirmed Wesbank's position. 
+
+On the matter of raises regarding section 134(1)(c), the court highlighted that the liquidators’ attempt to invoke this section late in the process prejudicated Wesbank’s ability to defend against unaddressed factual claims made by the liquidators. [22-26]
+
+#### C – Conclusion
+
+The Supreme Court of Appeal ultimately denied the appeal by the liquidators, confirming that Wesbank's cancellation of the MISA did not constitute enforcement action under section 133(1) of the Act and that their previous actions were lawful. Consequently, the liquidators were not entitled to the proceeds from the sale of the goods, and their subsequent arguments relying on section 134(1)(c) were deemed inadmissible due to their procedural shortcomings. [44]
+
+The case underscores vital considerations regarding statutory interpretations in the context of business rescue proceedings, particularly the differentiation between cancellation and enforcement actions, as well as the adherence to procedural correctness in raising claims in court. The implications of this ruling underscore the balance of rights for distressed companies against the interests of creditors, affirming the statutory scheme designed for rehabilitation under South African company law.
+
+---
+
+*Note: For precise citations and further scholarly reference, relevant case law and statutory provisions should be consulted as per the legal framework governing the matter.*

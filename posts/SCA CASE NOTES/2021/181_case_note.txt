@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Lucas & Another v Umhlathuze Municipality and Another (Case no. 785/2020) [2021] ZASCA 181 
+
+## FIRAC Method
+
+### F – Facts: Relevant background and procedural history ([paras 1–4])
+
+This case arises from a tragic incident that occurred on 29 June 2013, wherein the first appellant, Arthur Ryan Lucas, and the second appellant, Zelna Lucas, suffered the loss of their six-year-old daughter, who was fatally electrocuted. The electrocution occurred when the child climbed onto a metal cage surrounding an electrical distribution kiosk located on the premises of a sectional title scheme managed by the second respondent, Ocean Rest 3 Body Corporate (the body corporate). The metal cage was installed as a safety measure by the body corporate, while the electricity supply was provided by the first respondent, Umhlathuze Municipality (the municipality).
+
+The appellants initiated a delictual claim against both the municipality and the body corporate, alleging negligence in failing to maintain the safety of the cage and kiosk, which constituted a duty of care owed to the public ([para 2]). Prior to the trial, the appellants settled with the body corporate, allowing the case to proceed only against the municipality concerning the issue of liability ([para 2]).
+
+The factual issues included the installation of the distribution kiosks and their management by the body corporate, the municipality's action in affixing locks to the cages, and the subsequent identification by the municipality of the cause of the incident as an electrified metal cage due to improper grounding ([paras 2–4]).
+
+### I – Issues: Legal or constitutional questions ([paras 5–7])
+
+The primary legal issue posed in this case revolves around whether the municipality, through its act of placing a lock on the metal cage, assumed a duty to ensure the safety of the cage and kiosk, thereby resulting in negligence for failing to maintain it safely ([para 6]). Additional issues included the interpretation of Section 25 of the Electricity Regulation Act 4 of 2006 (the Electricity Act) as it pertains to the liability of a licensee for injuries caused by electricity, and whether the municipality could successfully demonstrate a lack of negligence in the circumstances presented ([para 7]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 8–10])
+
+The court's ruling heavily relied on the statutory provisions of the Electricity Regulation Act, particularly Section 25, which shifts the onus to the licensee to prove that damage or injury was not caused by its negligence ([para 7]). The established legal framework for negligence stems from *Kruger v Coetzee* 1966 (2) SA 428 (A), which stipulates that for a claim of negligence to succeed, it must be shown that:
+
+1. The defendant should have foreseen the possibility of harm;
+2. A reasonable person in the defendant's position would have taken steps to mitigate that risk; and
+3. The defendant failed to take those necessary steps ([para 10]).
+
+In addition to foundational negligence principles, the court recognized relevant statutory duties under the Sectional Titles Schemes Management Act 8 of 2011, which obligates a body corporate to maintain common property ([para 14]).
+
+### A – Application: Analysis of how the court applied the law ([paras 11–20])
+
+In applying the law to the facts, the court assessed whether the municipality could be deemed negligent by virtue of having secured the cage with a lock. The appellants argued that this action constituted an assumption of control and a corresponding duty of care ([para 11]). However, the court agreed with the high court's conclusion that such a measure, intended to prevent vandalism, did not impose liability for inherent risks associated with the cage that the municipality had not installed ([para 6]).
+
+The assessment of foreseeability was pivotal. The court noted that the municipality's involvement with the kiosk was limited to the installation of prepaid meters and that it did not install or design the cage nor had knowledge of its unsafe condition prior to the incident ([paras 17–18]). Testimonies from experts indicated that the electrification of the cage was not obvious and would not have been detected without excavation ([para 18]). 
+
+The appellants’ assertions regarding the municipality’s negligence were countered by evidence that the body corporate, as per its responsibilities under the Sectional Titles Act and municipal by-laws, had assumed responsibility for the maintenance of the installation ([para 16]).
+
+Ultimately, the conclusion drawn by the court was that the high court's finding that negligence could not be ascribed to the municipality was supported by credible evidence. The separation of duties was critical in determining that the body corporate was primarily accountable for the maintenance and safety of the common property, including the cage surrounding the distribution kiosk ([para 19]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 19–20])
+
+The Supreme Court of Appeal concluded by dismissing the appeal against the municipality with costs, affirming the high court's judgment. The court held that the evidence presented did not support a finding of negligence on the part of the municipality. Importantly, the judgment underscored the clear delineation of responsibilities between the municipality and the body corporate as mandated by law, reinforcing the legal principle that a party cannot be held liable for risks arising from another’s duty under statutory obligations ([para 20]).
+
+The implications of this ruling suggest a reaffirmation of the principles governing the allocation of liability in delict, especially in cases involving multiple parties with distinct statutory duties. This case serves as a significant reference point in the context of municipal liability and negligence, reiterating the importance of clarity in the roles and responsibilities of different entities involved in property management and public safety.
+
+### References
+
+- *Kruger v Coetzee* 1966 (2) SA 428 (A).
+- Electricity Regulation Act 4 of 2006, s 25.
+- Sectional Titles Schemes Management Act 8 of 2011, s 3(1).
+- Electricity Supply By-laws of the City of Umhlathuze, s 39.
+- *Minister of Safety and Security v Slabbert* [2009] ZASCA 163; [2010] 2 All SA 474 (SCA).
+- *Van Mentz v Provident Assurance Corporation of Africa Ltd* 1961 SA 115 (A). 
+
+--- 
+
+This case note provides a thorough analysis using the FIRAC method with citations reflected in OSCOLA style, presenting the legal reasoning and implications of the court's decision comprehensively.

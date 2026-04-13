@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# Case Note: Sentinel Mining Industry Retirement Fund v Waz Props (Pty) Ltd (779/11) [2012] ZASCA 124
+
+## FIRAC Method
+
+### F – Facts
+In **Sentinel Mining Industry Retirement Fund v Waz Props (Pty) Ltd** ([1]), the appellants, Sentinel Mining Industry Retirement Fund (SMIRF) and Fluxmans Attorneys Inc., entered into a contractual agreement with Waz Props (Pty) Ltd and Werlex Properties (Pty) Ltd for the upgrading of the Park Road in Birnam, Johannesburg. The agreement specified that Waz Props would undertake a pro-rata payment of R115,531.87 towards the project, with payment methods outlined in detail (§[3]). Notably, Waz Props had three options for complying with the contractual payment obligation: 
+
+1. Immediate payment to the attorneys' trust account with subsequent interest benefits accruing for the project (Option 1).
+2. Providing a bank guarantee (Option 2).
+3. Registering a restrictive condition against the property title deeds, ensuring payment from sale proceeds (Option 3) (§[4]).
+
+Waz Props opted for Option 2 and secured a guarantee from ABSA, which did not specify an expiry date. However, the project completion was delayed, causing the applicants to assert that Waz Props' obligation to pay had lapsed because the project was incomplete by the agreed date of April 1, 2009 (§[6]). Despite this, ABSA processed payment to SMIRF's attorneys on March 26, 2010, leading to a legal dispute initiated by Waz Props for the repayment of the amount paid out (§[5]).
+
+### I – Issues
+The central legal question was whether Waz Props' obligation to pay SMIRF had terminated due to the non-completion of the project by the stipulated deadline in the contract (§[8]). This raised sub-issues regarding contract interpretation, particularly whether clause 5, which specified that obligations would lapse upon project non-completion, also applied to the bank guarantee issued under Option 2 (§[11]). Additionally, the court needed to assess the implications of incorporating a tacit term that the bank guarantee would not be callable if the conditions outlined were unmet (§[13]).
+
+### R – Rules
+The court primarily relied on principles of contract interpretation, noting that headings within contracts can assist in elucidating parties' intentions (§[10]). Furthermore, the court cited the precedent in **Union Government (Minister of Railways) v Faux Ltd** regarding the caution necessary when implying tacit terms into contracts, particularly those of significant consequence (§[14]). It affirmed that obligations arising from a contractual relationship must be clear, and ambiguity should be resolved in favor of understanding the parties' genuine intent (§[20]).
+
+### A – Application
+In applying the law, the court examined clauses 3, 4, and 5 of the contract in detail, emphasizing that Waz Props had three distinct options regarding payment, all of which involved securing obligations (§[9]). It found that the obligations under Clause 5, reflecting a resolutive condition upon non-completion of the project, effectively extinguished the payment responsibilities in respect of both options 1 and 3, which had express resolutive conditions. The court interpreted that the tacit term sought by Waz Props—that option 2 should also lapse—was supported by the commercial purpose of the contract and the absence of any intention by the parties to permit ABSA to exercise the guarantee after the deadline (§[12], §[15]).
+
+The court also noted inconsistencies in SMIRF's arguments that justified the exclusion of the guarantee from the resolutive effect applied to other obligations. It concluded that it would be unreasonable to allow SMIRF to retain a monetary advantage under the bank guarantee while releasing obligations secured under more onerous terms (§[16]). 
+
+### C – Conclusion
+The appeal brought by SMIRF was dismissed with costs, with the court holding that the contractual obligations of Waz Props were extinguished by the delay in project completion. The ruling underscored the importance of clarity and mutual intent in contractual language, particularly in prioritizing commercial reality over rigid interpretations of written agreements (§[21]). The implications of this judgment reaffirm the enforceability of terms relating to project completion and the significance of considering the entire contractual framework when determining obligations and rights, illuminating the judicial reluctance to permit inequitable advantages post-contractual failure. This case serves as an important reference for contract law, particularly regarding the interpretation of tacit terms and the application of resolutive conditions within commercial agreements in South Africa.
+
+---
+
+**References**:  
+Sentinel Mining Industry Retirement Fund v Waz Props (Pty) Ltd (779/11) [2012] ZASCA 124 (21 September 2012).  
+Union Government (Minister of Railways) v Faux Ltd 1916 AD 105.  
+Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd 2010 (2) SA 86 (SCA).  
+Dormell Properties 282 CC v Renasa Insurance Co Ltd & others NNO 2011 (1) SA 70 (SCA).

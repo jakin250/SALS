@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note: Consolidated News Agencies (Pty) Ltd v Mobile Telephone Networks (Pty) Ltd
+
+**Case Title:** Consolidated News Agencies (Pty) Ltd v Mobile Telephone Networks (Pty) Ltd and MTN Service Provider (Pty) Ltd  
+**Court:** Supreme Court of Appeal, Republic of South Africa  
+**Neutral Citation:** [2009] ZASCA 130  
+**Case No:** 510/2008  
+**Judgment Date:** September 29, 2009  
+**Coram:** NAVSA, NUGENT, HEHER, MHLANTLA JJA, and HURT AJA  
+
+## F - Facts
+The case involves a dispute stemming from the insolvency of Consolidated News Agencies (Pty) Ltd (CNA), which was liquidated on July 27, 2002. CNA had entered into a Retailer Agreement (RA) with Mobile Telephone Networks (Pty) Ltd (M-Tel) before its sale to Gordon Kay & Associates (Pty) Ltd (GKA) in February 2001. According to the RA, CNA was obliged to stock and promote M-Tel's products exclusively, and M-Tel guaranteed income levels for CNA under various warranties ([paras 4-10]).  
+
+However, by early 2001, it became apparent that CNA's sales of M-Tel products would not meet the guaranteed income levels. Following the insolvency issues, a new agreement, the Amended Retailer Agreement (ARA), was entered among the parties, which altered many of the RA's agreements. The ARA waived income warranties, adjusted payment timelines, established trust accounts for payments, and secured guarantees to Wooltru, which owned a financial stake in CNA prior to its sale ([paras 12-14]).
+
+Disputes arose regarding the extent to which M-Tel and MTN (the shareholder of M-Tel) were entitled to indemnity under s 33(1) of the Insolvency Act of 1936 for payments made under the guarantees issued ([paras 1-18]). The liquidators of CNA contested M-Tel's reliance on the indemnification provisions, arguing that several dispositions under the ARA were voidable ([paras 18-21]).
+
+## I - Issues
+The principal issues before the court were:
+1. Whether the respondents (MTN and M-Tel) were entitled to rely on s 33(1) of the Insolvency Act, which provides that parties who part with property or lose rights in good faith are not obliged to restore that property unless indemnified ([paras 1-2]).
+2. Whether M-Tel had lost rights legitimately in return for the dispositions made under the ARA and whether MTN acted in good faith throughout the transaction ([paras 24-26]).
+
+## R - Rules
+The court examined the relevant provisions of the **Insolvency Act 24 of 1936**:
+- **Section 33(1):** A party who parts with property or security or loses a right 'in return for any disposition' is absolved from the obligation to restore that property unless indemnified by the liquidator ([para 1]).
+- The court also referred to case law defining "good faith" in relation to corporate transactions, particularly stating that good faith must be assessed based on the intention to avoid harming creditors or preferring one creditor over another ([para 63-65]).
+
+## A - Application
+The Supreme Court of Appeal applied the legal rules in assessing the evidence presented by the parties. It found that MTN fulfilled its obligations under the ARA by making substantial payments to Wooltru and did so in a manner consistent with good faith, reflecting a genuine intention to maintain a viable trading relationship with CNA. Specifically, the court acknowledged that the loss of rights by M-Tel in cancelling the RA was directly relevant to the conclusion of the ARA and therefore constituted a legitimate reciprocal ‘parting with property.’ 
+
+Conversely, the court held that M-Tel did not sufficiently demonstrate that the loss of their right to terminate was substantial enough to invoke s 33(1) protections. This involved an analysis of M-Tel's claims against CNA, finding the claims to lack sufficient evidentiary support regarding breaches by CNA, thus undermining M-Tel’s argument that it had legitimately lost rights in return for the dispositions ([paras 62-72]).
+
+## C - Conclusion
+The Supreme Court of Appeal dismissed MTN's appeal in favor of CNA because it found that MTN's payments were justified under s 33(1) due to the good faith in the transaction. However, the court found that M-Tel was not entitled to claim any indemnification as it had not sufficiently established a substantial reciprocal loss in connection with the alleged voidable dispositions. The implications of this case suggest a nuanced interpretation of corporate dealings and obligations within insolvency law, emphasizing the necessity for clear reciprocal benefits and the burden of proof that rests on parties invoking protections under s 33(1) of the Insolvency Act ([paras 76-90]). 
+
+---
+
+**Implications:** This decision provides crucial insights into the interpretation of “good faith” and the obligations of entities participating in distressed transactions under the Insolvency Act, emphasizing the standard of conduct expected to avoid claims of insolvency-induced transactions being set aside.

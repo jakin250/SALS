@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Eksteen v Road Accident Fund (873/2019) [2021] ZASCA 48
+
+## FIRAC Case Note
+
+### F – Facts
+
+The appellant, Johan Sebastiaan Eksteen, initiated an action against the respondent, the Road Accident Fund (RAF), arising from injuries sustained in a motor vehicle collision on 18 June 2003 ([para 3]). Initially, on 17 January 2008, he lodged a claim against the RAF in the Bloemfontein Magistrate’s Court. Subsequently, without withdrawing that initial action, he filed a second action in the Free State Division of the High Court on 19 October 2016, seeking damages for the same incident but with a higher claim amount ([para 3]). 
+
+In response, the RAF submitted two special pleas: one of lis alibi pendens, asserting that there was an ongoing action in the Magistrate’s Court concerning the same matter, and the second was a plea of prescription, claiming that the high court action was instituted beyond the five-year limit set by the Road Accident Fund Act of 1996 ([paras 4-6]). 
+
+The First Judgment at the High Court dismissed the action on the grounds introduced by the special pleas, which led to the appellant seeking relief through this appeal. The Full Bench ruled against Eksteen, concluding that under section 2(1)(e)(ii) of the Road Accident Fund (Transitional Provisions) Act 15 of 2012 (TPA), he was obliged to withdraw the action from the Magistrate’s Court before moving it to the High Court ([para 8]) and upheld the special plea of lis alibi pendens while refusing to evaluate the plea of prescription due to insufficient facts ([para 6]).
+
+### I – Issues
+
+The principal legal issues before the Supreme Court of Appeal centered on the interpretation of section 2(1)(e)(ii) of the TPA. Specifically, the court had to determine:
+
+1. Whether a plaintiff who has already instituted a claim in a Magistrate’s Court concerning the same cause of action is required to withdraw that action before initiating a new action in the High Court?
+2. Whether the commencement of the prescription period could be argued despite the initial action in the Magistrate's Court being unresolved ([paras 1, 6, 10]).
+
+### R – Rules
+
+The relevant legislation includes:
+
+1. **Road Accident Fund (Transitional Provisions) Act 15 of 2012 (TPA)**: Section 2(1)(e)(ii) specifies that a third party may withdraw an action in a Magistrate’s Court and, within 60 days, institute a new action in the High Court without a special plea of prescription being raised during that interval.
+
+2. **Road Accident Fund Act 56 of 1996**: Section 23(3) prescribes a five-year period for instituting claims regarding the cause of action -  in this case, the high court action was claimed to have been barred since it was not filed within five years, counted from the collision date ([para 4]).
+
+3. **Lis alibi pendens**: A principle engaging the notion that if two cases regarding the same subject matter and parties are pending in different jurisdictions, the latter instituted action may be set aside.
+
+### A – Application
+
+The Supreme Court critiqued the interpretation employed by the Full Bench of the High Court, emphasizing a purposive construction approach to statutory interpretation, as established in *Independent Institute of Education (Pty) Ltd v KwaZulu-Natal Law Society and Others* ([para 15]). 
+
+The interpretation of "may" in section 2(1)(e)(ii) was deemed imperative as it allowed the appellant the option to choose between pursuing the matter in either court. However, the Supreme Court concurred with the lower court’s perspective that for the appellant to take advantage of the TPA’s provisions, he must first withdraw his action in the Magistrate’s Court. The ruling illustrated that the withdrawal must occur before any new claim could be instituted in the High Court, effectively barring the appellant from claiming protection against prescription for his claim lodged more than five years after the collision ([paras 16-19], [37]).
+
+The court further upheld that unless the prior action in the Magistrate's Court was formally withdrawn, the High Court could rule on the lis alibi pendens and could not proceed with a determination of prescription ([para 25]).
+
+### C – Conclusion
+
+The Supreme Court dismissed the appeal, affirming the earlier decision by the Full Bench which upheld the special plea of lis alibi pendens. The court did not decide the special plea of prescription, attributing this to inadequacies present in the agreed statement of facts brought before the High Court ([para 20]). 
+
+As a consequence, the court stressed the necessity for litigants to follow the procedural requirements established by the TPA rigorously, as non-adherence leads to claims being time-barred or unresolved. The implications of this judgment indicate that claimants must ensure compliance with statutory requirements in sequential litigation across different court jurisdictions to avoid risks of prescription and other procedural dismissals. Therefore, the ruling underscores the critical importance of statutory interpretation grounded in the legislative intent behind the TPA, providing clarity to future claimants navigating similar legal landscapes ([para 55]).

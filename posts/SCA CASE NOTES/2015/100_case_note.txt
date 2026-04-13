@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Richter v ABSA Bank Limited (20181/2014) [2015] ZASCA 100
+
+## F – Facts ([paras 1–6])
+This case involves an appeal by Dawid Jacques Richter against ABSA Bank Limited concerning the competency of a business rescue application following the final liquidation of Bloempro CC (Bloempro). On September 13, 2012, the Free State High Court issued a final liquidation order against Bloempro, despite Richter's contention that the company should instead be placed in business rescue. Richter, then a general manager of Bloempro, filed for business rescue under section 131 of the Companies Act 71 of 2008 in the Gauteng Division on February 12, 2013. ABSA intervened in the proceedings, opposing the business rescue application. Richter initially opposed ABSA’s intervention but subsequently withdrew his opposition to the main application. On May 6, 2013, ABSA obtained a default judgment dismissing Richter’s business rescue application. Richter sought rescission of this judgment, which was dismissed by Bam J in the court a quo on two grounds: (1) whether Richter had locus standi to pursue the rescission, and (2) whether a business rescue application could be made after a final liquidation order.
+
+## I – Issues ([paras 1, 5–6])
+The primary legal issue is whether a business rescue application, as governed under section 131 of the Companies Act, can be lodged after a final liquidation order has been granted against a company. Specifically, the court needed to interpret the term “liquidation proceedings” as mentioned in section 131(6) of the Act—whether it refers only to pending liquidation applications or if it encompasses the entire winding-up process post-final liquidation order.
+
+## R – Rules ([paras 7–12])
+The relevant legal provisions include:
+
+1. **Section 131 of the Companies Act 71 of 2008**: This section allows an affected party to apply to a court for business rescue proceedings. It consists of several subsections, notably:
+   - **Subsection 1**: Permits applications for business rescue at any time, unless a resolution has been adopted.
+   - **Subsection 6**: States that if liquidation proceedings have commenced when a business rescue application is made, those proceedings are suspended pending the court's decision.
+   
+2. Case law interpreting “liquidation” and “winding-up” shows that these terms are often used interchangeably, supporting a broader interpretation of the process which allows for applications even after formal liquidation orders are issued ([para 11]). 
+
+3. The legislative intent behind the business rescue process aims to provide for the recovery of financially distressed companies, contrasting with the focus of liquidation on creditor rights and shareholder interests ([paras 13–15]).
+
+## A – Application ([paras 17–18])
+The court, led by Dambuza AJA, examined the interpretation of “liquidation proceedings”. It acknowledged that section 131(1) expressly permits applications at any point during such proceedings, thereby emphasizing that the legislative intent was to allow for business rescue even after the final liquidation order is issued. The argument presented by ABSA, which expressed concerns over the disruption the business rescue process might cause in the liquidation framework, did not merit a restrictive interpretation of the Act ([para 16]). The court stressed that a proper legal interpretation must account for all stages of liquidation, highlighting that a company retains its legal status post-liquidation order, with stricture only around who manages its affairs.
+
+Significantly, the court refuted the notion of a “line in the sand” between pre-final and post-final liquidation, encouraging applications for business rescue where there exist viable prospects of recovery. It posited that the inclusion of circumstances that arise post-final order is wholly consistent with the legislative purpose of extending the life of financially troubled companies if business rescue offers better returns for stakeholders ([paras 15, 18]).
+
+## C – Conclusion ([paras 19])
+The Supreme Court of Appeal upheld Richter’s appeal, overturning the court a quo's decision and remitting the case back to determine the rescission application. The court's ruling established that a business rescue application could be validly brought after a final liquidation order, aligning with the legislative framework that emphasizes the importance of rescuing financially distressed companies. The implications of this ruling significantly expand the potential for recovery options for companies in liquidation, reaffirming the business rescue mechanism's role in balancing stakeholder interests against traditional liquidation goals. The outcome underscores a more flexible approach to corporate rescue in South Africa’s legal landscape.
+
+---
+
+This note captures the essence of the judgment and the critical issues surrounding the interpretation of legal provisions in the Companies Act while maintaining the necessary legal rigor for academic and professional reference.

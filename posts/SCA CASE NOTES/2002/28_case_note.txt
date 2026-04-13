@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# Case Note: Aussenkehr Farms (Pty) Ltd v Trio Transport CC [2002] ZASCA 35
+
+## FIRAC Method
+
+### F – Facts
+The case concerns **Aussenkehr Farms (Pty) Ltd** (the appellant) and **Trio Transport CC** (the respondent), who engaged in a contract for the transportation of fruit, specifically grapes from Namibia to South Africa for export to Europe. The appellant was sued for payment of R127,383 for transportation fees. The respondent's claim was initially straightforward but was complicated by a defense of locus standi, which claimed that the respondent lacked standing to sue as its rights had been ceded to **ABSA Bank Ltd** prior to the institution of the proceedings ([1]–[2]).
+
+The process revealed that the cession occurred on **September 4, 1995**, and the appellant contended that the cession was still in effect when the action was instituted on **February 11, 1997**. During the proceedings, the respondent admitted liability to the appellant but raised the issue of prescription and locus standi, asserting that the cession encompassed all debts owed by the appellant to the bank, therefore precluding the appellant from claiming payment from the respondent. The dispute arose as to whether the cession had been terminated, which the respondent claimed had happened on or around **June 5, 1997**, thereby reviving the plaintiff’s rights to claim against the debtor ([3]–[6]).
+
+### I – Issues
+The key legal issues before the court were:
+
+1. **Locus Standi**: Did the respondent have the standing to claim payment after ceding rights to ABSA Bank?
+2. **Prescription**: Was the appellant's claim prescribed due to the passage of time since the cession and the cause of action's arising?
+3. **Interruption of Prescription**: Did the actions of the respondent in acknowledging the debt and extending the time for payment interrupt the claim's prescription? ([4]–[5]).
+
+### R – Rules
+The case invoked several legal principles:
+
+1. **Cession in Securitatem Debiti**: A cession served as security for debt owed and had implications for locus standi ([1], [20]).
+2. **Prescription Act 68 of 1969**: Section 11(d) specifically articulates the limitation periods for claims, establishing that prescription runs from when the debt becomes due and can be interrupted through acknowledgment of liability ([2], [11]).
+3. **Acknowledgment of Debt**: Under **Section 14(1)** of the Prescription Act, acknowledgment to the original creditor or its agent can interrupt prescription, making this a pivotal point in the case ([11]).
+
+### A – Application
+The Supreme Court of Appeal, led by **Lewis AJA**, addressed these issues methodically:
+
+1. **Locus Standi**: The court found the appellant did not have locus standi at the time of filing as the rights to payment had been ceded. However, it determined that the cession was effectively cancelled when the overdraft was paid off, permitting a revesting of rights with the appellant ([8], [9], [20]).
+
+2. **Prescription**: The critical aspect of prescription hinged on whether the claim had become time-barred. The court considered the relevant dates carefully, finding that the acknowledgment of debt made by the debtor (the respondent) constituted an effective acknowledgment of the debt, thereby interrupting the prescription period ([11], [29]).
+
+3. **Interruption of Prescription**: The evidence demonstrated that the respondent acted as the bank's agent in collecting debts, which served as a point of interruption for prescription. The court found that any interaction concerning acknowledgment of the debt, whether in correspondence or extended terms for payment, counted towards this interruption ([11]–[14]).
+
+### C – Conclusion
+The Supreme Court of Appeal concluded that the respondent's rights had, in fact, been reestablished, thus permitting them to claim payment from the appellant. The cession had died out as the appellant’s overdraft was extinguished, and any purported re-cession by the bank after this date was unnecessary and ineffective. Consequently, the court dismissed the appeal, affirming the lower court's ruling that the prescription had not run its full course due to the acknowledgment of the debt and the appellant's unexpected and earlier actions ([30]).
+
+This case solidifies the legal principles surrounding cession in securitatem debiti, prescription periods for debts, and the impact of acknowledgments on the standing of parties in debt recovery actions in South Africa.

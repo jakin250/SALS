@@ -1,0 +1,80 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note: Janse van Rensburg NO v Steenkamp 
+
+**Case Title:** Janse van Rensburg NO v Steenkamp (237/08 and 467/08) [2008] ZASCA 154 (27 November 2008)  
+**Court:** Supreme Court of Appeal (Coram: Farlam, Cameron, Mthiyane, Heher JJA and Kgomo AJA)  
+**Heard:** 14 November 2008  
+**Delivered:** 27 November 2008  
+**Citation:** Janse van Rensburg NO v Steenkamp [2008] ZASCA 154  
+
+---
+
+### F – Facts
+
+[1] The case involves two appeals concerning liquidators of entities operating under the "Krion scheme", a notorious financial investment scheme that became insolvent. The appeals were taken by the liquidators against various respondents whom the liquidators sought to sue for the recovery of funds based on the Insolvency Act 24 of 1936 (the "Insolvency Act").
+
+[2] The common issue raised is whether the liquidators are permitted to rely on different sections of the Insolvency Act, specifically sections 26 and 29, after prior unsuccessful reliance on section 30 in a case known as Fourie. The Fourie case had significant implications, establishing that the investment scheme was illegal and that all contracts between the scheme and its investors were deemed null and void due to insolvency.
+
+[3] The liquidators claimed they should be able to set aside dispositions made to the respondents under sections 26 and 29, regardless of previous findings and pleas of res judicata, issue estoppel, and lis pendens raised against them.
+
+[4] The High Court had previously ruled against the liquidators, leading to these appeals. The respondents included individuals named Steenkamp, Myburgh, Van der Merwe, and others who were purportedly in receipt of funds that the liquidators sought to reclaim.
+
+---
+
+### I – Issues
+
+[5] The primary legal issues for determination are:
+- **Res Judicata:** Whether the doctrine applies, preventing the liquidators from bringing new claims under sections 26 and 29 given the earlier ruling in Fourie.
+- **Issue Estoppel:** Whether a previous determination regarding the intention to prefer specific creditors barred the liquidators from asserting claims under section 29.
+- **Lis Pendens:** Whether the ongoing recovery process under Fourie's procedures prevented the liquidators from instituting new actions based on these different sections of the Insolvency Act.
+
+---
+
+### R – Rules 
+
+[6] The legal framework governing this case is primarily essential parts of the **Insolvency Act 24 of 1936**. Relevant sections include:
+
+- **Section 26:** Addresses the recovery of dispositions deemed to be without value made by an insolvent within a period before winding up.
+- **Section 29:** Deals with dispositions made within a period of six months prior to the winding-up that had the effect of preferring one creditor over another.
+  
+[7] The doctrine of **res judicata** prevents the re-litigation of issues that have already been determined by a competent court. To invoke this doctrine, three conditions must be met: the parties must be the same, the cause of action must be the same, and the issue must have been finally determined.
+
+[8] **Issue estoppel**, a part of the broader doctrine of res judicata, applies when an issue has been determined in a previous case and must not be litigated again.
+
+[9] The **"once and for all" rule** requires that all claims stemming from a single cause of action be brought in one lawsuit, thus preventing a party from splitting their cause of action across multiple lawsuits.
+
+[10] Lastly, **lis pendens** applies when a court action is pending concerning the same matter, preventing further litigation on the same issue to avoid conflicting judgments.
+
+---
+
+### A – Application 
+
+[11] The court analyzed the applicability of res judicata and issue estoppel and concluded that the previous findings in the Fourie judgment didn't bar the liquidators' claims under sections 26 and 29 due to significant differences in the cause of action.
+
+[12] The court found that the earlier claim’s focus on section 30 differed fundamentally from claims under sections 26 and 29, therefore not meeting the necessary criteria for res judicata.
+
+[13] In evaluating the “once and for all” rule, the court noted that the claims related to different causes of action, thus invalidating the applicability of this rule in the context of the present claims.
+
+[14] Regarding the lis pendens claim, the court held that it did not operate to restrain the liquidators from pursuing individual claims against the respondents, especially considering the complex circumstances surrounding their attempts to recover funds first addressed in the Fourie case.
+
+[15] The court also assessed the special pleas raised by the respondents, ultimately dismissing their claims of both res judicata and lis pendens. It emphasized the liquidators’ right to take action under the provisions of the Insolvency Act despite the earlier judgment's implications.
+
+---
+
+### C – Conclusion 
+
+[16] The Supreme Court of Appeal allowed the appeals, set aside the orders of the High Court, and ruled in favor of the liquidators, providing them the right to proceed with their claims under sections 26 and 29 of the Insolvency Act.
+
+[17] The court's order included costs, underscoring the liquidators’ necessary role in seeking redress for the creditors. The implications of this ruling signal a critical affirmation of the liquidators' authority to navigate multiple avenues for recovery under distinguished sections of the Insolvency Act, thereby enhancing creditors' prospects of equitable recovery.
+
+[18] The court recognized that while the liquidators' previous actions may have been cautious or subject to methodological errors, the equitable redistribution among creditors necessitated allowing these new claims to proceed, counterbalancing the rights of parties who, as subcontractors of the insolvent entity, had previously received payments.
+
+[19] Ultimately, the judgment serves to clarify and solidify the procedural authority of liquidators under the Insolvency Act, guiding future statutory and judicial interpretations of these complex insolvency dynamics.
+
+--- 
+
+*References:*  
+Jan van Rensburg NO v Steenkamp [2008] ZASCA 154.  
+This case was instrumental in reinforcing the doctrines of res judicata and their application within the insolvency context, particularly emphasizing the necessity for a case-by-case assessment grounded in the specifics of each claim.

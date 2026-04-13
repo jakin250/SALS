@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# Case Note: Commissioner for South African Revenue Service v British Airways Plc
+
+**FIRAC Method**
+
+## F – Facts ([paras 1–8])
+
+This case revolves around the application of the Value-added Tax (VAT) under the Value-added Tax Act 89 of 1991 concerning the passenger service charge levied by the Airports Company Limited (ACL) on airlines operating in South Africa. British Airways Plc is engaged in international air travel, and under the VAT Act is classified as a vendor whose services are typically zero-rated for international carriage in terms of § 11. The appellant, the Commissioner for the South African Revenue Service (SARS), contends that British Airways should be liable to pay VAT at the ordinary rate (14%) for the portion of its fare that constitutes the recovery of the passenger service charge imposed by ACL. This charge, calculated based on the number of passengers being transported, is separately itemized on passenger tickets.
+
+Following an assessment by SARS for the period from September 1993 to December 1998, which taxed this component of the fare, British Airways successfully appealed to the tax court, arguing that this charge formed part of its zero-rated composite fare for the international carriage of passengers. The case was then appealed by SARS, leading to this Supreme Court of Appeal hearing.
+
+## I – Issues ([paras 7–8])
+
+The primary legal issue at hand is whether the passenger service charge component of British Airways’ composite fare is subject to VAT at the ordinary rate or whether it remains zero-rated as part of the overall supply of international carriage. Specifically, the court must determine if the principles outlined in § 8(15) of the VAT Act apply, which allows for a composite service to be divided into separate taxable components based on varying VAT rates.
+
+## R – Rules ([paras 1–7, 9–10])
+
+The case primarily hinges on the interpretation of the VAT Act, particularly:
+1. **Value-Added Tax Act 89 of 1991**, § 7, which imposes VAT on the supply of goods or services by any vendor.
+2. **Value-Added Tax Act 89 of 1991**, § 11, which provides for certain supplies to be zero-rated.
+3. **Value-Added Tax Act 89 of 1991**, § 8(15), which states that when a single supply consists of components that would each attract a different VAT rate if supplied separately, they may be treated as separate supplies.
+
+The interpretation of these provisions, particularly regarding whether the passenger service charge constitutes an integral part of British Airways’ supply of international carriage, is critical to the court's ruling.
+
+## A – Application ([paras 11–16])
+
+The court's opinion, delivered by Nugent JA, emphasizes that the passenger service charge is not a service provided by British Airways but rather a cost incurred by it to the ACL for airport services rendered to the passengers. The court dismisses the argument from the Commissioner that British Airways is subsequently supplying these services to passengers. As discussed, the services related to the charge are independently supplied by ACL to passengers directly and are only indirectly related to British Airways' supply of air transport.
+
+The court notes that British Airways merely recovers the airport service charge from its passengers, stating this recovery does not amount to providing an additional service that would be subject to VAT. The general principle of VAT indicates that tax liability arises from the actual supply of services, and as British Airways does not supply the airport-related services, those charges do not trigger VAT at the ordinary rate despite their distinct presentation on flight tickets.
+
+## C – Conclusion ([paras 16])
+
+The Supreme Court of Appeal upheld the tax court's decision, ruling that British Airways was not liable to pay VAT at the ordinary rate on the passenger service charge element of its fare. The court affirmed that this charge is part of the zero-rated international carriage services supplied by British Airways. Consequently, the appeal by the Commissioner was dismissed, with costs ordered to be paid by SARS, including the costs involving two counsel. This judgment reaffirmed the critical distinction between costs incurred by a vendor in providing its primary service and separate taxable supplies, ultimately clarifying the application of VAT in the context of air travel services.
+
+---
+
+This comprehensive FIRAC case note encapsulates the essential elements of the court's judgement, meticulously detailing the legal reasoning and implications for VAT application in similar transport service configurations.

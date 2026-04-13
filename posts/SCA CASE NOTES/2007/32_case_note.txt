@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# Case Note: McCarthy Ltd v Gore N.O. [2007] SCA 32 RSA
+
+## FIRAC Analysis
+
+### F – Facts
+In the matter of **McCarthy Ltd v Gore N.O.** ([1]–[2]), the Supreme Court of Appeal dealt with an appeal by McCarthy Limited against a decision made by the High Court (Cape) concerning the validity of a transaction under the **Insolvency Act 24 of 1936**. 
+
+**Background**: The respondent, Stephen Malcolm Gore N.O., acted as the liquidator of Ramsauer Transport (Pty) Ltd (in liquidation), which was primarily a long-haul transport haulier operating with a fleet of 60-80 heavy vehicles. During the years 1996 to 1999, the company generated approximately R32 million to R35 million annually through its transport business. The business also engaged in the sale of vehicles and the factoring of book debts to improve liquidity ([3]).
+
+On 17 December 1999, Ramsauer Transport entered into a sale agreement with McCarthy, transferring 28 vehicles for R2,052,000. However, the transfer was completed without any notice being given in accordance with section 34(1) of the Insolvency Act, and the proceeds were directed towards an associated company, not the liquidated entity ([4]).
+
+The liquidator contended that Ramsauer's disposal of the vehicles did not comply with section 34(1) as no notice was published, making the sale voidable. Conversely, McCarthy argued that Ramsauer Transport did not meet the definition of a "trader" under section 2 of the Act, thereby claiming section 34(1) was inapplicable ([5]).
+
+### I – Issues
+The key legal question before the court was whether Ramsauer Transport qualified as a "trader" under section 34(1) of the Insolvency Act, which in turn would determine the applicability of the statutory provisions regarding the disposition of property ([7]).
+
+### R – Rules
+The statutory framework primarily under consideration involved:
+
+1. **Insolvency Act 24 of 1936**, specifically section 34(1), which stipulates that transfers of business assets by traders without proper notice to creditors are voidable.
+2. The definition of **"trader"** in section 2 of the Insolvency Act, which includes any person who carries on any trade or business in which property is dealt with for sale ([8]).
+
+The court also referenced **Mthiyane JA's** judgment in *Kevin and Lasia Property Investment CC v Roos NO* to emphasize the separate and distinct clauses that define a "trader" within the Act ([9]).
+
+### A – Application
+In its analysis, the Supreme Court emphasized the importance of distinguishing between the primary business activities of a company (i.e., transport) and incidental activities (i.e., sale of vehicles) when determining its classification as a trader. The court agreed with McCarthy's argument that the company's activities related to the sale of vehicles were indeed incidental to its primary business function ([11]).
+
+The court rejected the liquidator’s assertion that because the sale of vehicles was substantial, it should be classified as part of the core business, thus warranting the application of section 34(1). The court reiterated that the classification of "trader" could not be expanded to incorporate incidental activities, as doing so would undermine the statutory protections afforded to creditors and create unreasonable liabilities for third parties, such as McCarthy, who entered into transactions without knowledge of the necessary statutory notice requirements ([12]).
+
+The court concluded that the application of section 34(1) could only proceed if Ramsauer Transport's sale of vehicles was linked directly to its core activities as defined under the Act. In this instance, the court determined that the company's transport operations were distinct from the sale of vehicles, which were merely incidental ([13]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld McCarthy’s appeal, finding that Ramsauer Transport did not meet the definition of a "trader" as set out in the Insolvency Act. Consequently, the court determined that the transfer of vehicles was valid and that the lower court had erred in its conclusions ([13]).
+
+The implications of this judgment affirm the necessity for strict adherence to the definition of trading activities under the Insolvency Act and protect third parties engaged in transactions, emphasizing that incidental activities do not warrant the same scrutiny as core business functions. The judgment serves to clarify the interpretation of the "trader" designation and its relevance to creditor protections under South African insolvency law.
+
+### References
+- Insolvency Act 24 of 1936
+- Companies Act 61 of 1973
+- *Kevin and Lasia Property Investment CC v Roos NO* 2004 (4) SA 103 (SCA)
+- *Gore NO v McCarthy Ltd* 2006 (3) SA 229 (C)

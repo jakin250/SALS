@@ -1,0 +1,33 @@
+Case Note: IN THE SUPREME COURT OF APPEAL
+Source Folder: 2001
+
+### FIRAC Case Note: **National Director of Public Prosecutions v Wouter Basson** [2001] ZASCA 58
+
+#### F – Facts: Relevant Background and Procedural History ([paras 1–10])
+This case concerns an appeal from a High Court ruling that set aside a provisional restraint order made under Section 18(1) of the Prevention of Organised Crime Act 121 of 1998 (hereafter referred to as "the Act"). The appellant, the National Director of Public Prosecutions (NDPP), sought the restraint order against the respondent, Wouter Basson, who had been indicted on charges of fraud and theft related to misconduct during his tenure in a military project under the South African Defence Force. The NDPP, via ex parte application, aimed to secure a restraint on Basson’s assets, asserting a reasonable prospect of convicting him and obtaining a subsequent confiscation order.
+
+The High Court originally issued a provisional restraint order, which prohibited Basson from dealing with specified property worth approximately R45 million. However, on the return date of the provisional order, the High Court, presided over by Roux J, determined that any potential confiscation order stemming from a conviction for offences committed prior to the inception of the Act would not be permissible, as the relevant section (s 18(1)) did not operate retrospectively. Consequently, the restraint order was set aside, prompting the NDPP's appeal to the Supreme Court of Appeal (SCA).
+
+#### I – Issues: Legal or Constitutional Questions ([paras 1–11])
+The core legal issue raised in this appeal pertains to whether Section 18(1) of the Prevention of Organised Crime Act operates retrospectively. The Supreme Court of Appeal was faced with the task of determining if the provisions allowing for the imposition of a confiscation order could apply to offences committed before the Act came into effect. This retrospective application raises broader constitutional concerns, notably relating to principles of legality and the non-retroactivity of penal legislation espoused in Sections 35(3)(l) and (n) of the Constitution.
+
+If the section were found to have retrospective effect, questions around its constitutional validity would emerge. Additionally, secondary issues included whether the High Court had properly evaluated the evidence concerning the reasonable belief required for the issuance of a restraint order and whether there were appropriate grounds for such an order.
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 11–22])
+The Court's analysis leaned heavily on principles of statutory interpretation and common law doctrines regarding retrospection. Notably, it was established that legislative intent must be clear for a statute to be given retrospective effect. The strong presumption against retrospectivity was highlighted, deriving support from case law such as *Genrec MEI (Pty) Ltd v Industrial Council for the Iron, Steel, Engineering, Metallurgical Industry & Others* 1995 (1) SA 563 (A).
+
+The Court also examined international legal principles, referencing Justice Scalia's concurrence in *Kaiser Aluminium and Chemical Corporation et al v Bonjorno et al* 494 US 827, which underscores the principle that legal effects of conduct should be assessed under the law in place at the time the conduct occurred.
+
+Further, the Court cited the lack of explicit legislative language indicating an intention for Section 18(1) to operate retrospectively. This absence, in conjunction with the presence of clear provisions in related sections (ss 12(3) and 19(1)), suggested that the legislature consciously differentiated between retrospective and prospective application.
+
+#### A – Application: Analysis of How the Court Applied the Law ([paras 12–22])
+In addressing the issues, the SCA undertook a rigorous analysis of statutory interpretation principles. The Court clarified that while sections like s 12(3) and s 19(1) expressly permitted the consideration of pre-Act conduct in determining whether a confiscation order should be made, this did not extend to retroactively applying s 18(1) to render a confiscation order valid for offences committed prior to the Act's enforcement.
+
+The Court articulated the legal principle against creating legal consequences retroactively, affirming that the provisions of s 18(1) could not be construed as permitting confiscation orders based on prior offences. Furthermore, it evaluated the arguments presented by the NDPP, particularly those referencing earlier decisions (such as *National Director of Public Prosecutions v Carolus & Others* 2000 (1) SA 1127 (SCA)). The Court found these cases distinguishable, noting that while past conduct could be considered, they did not resolve the fundamental issue regarding the retrospective application of s 18(1).
+
+On the evidentiary requirement necessary for obtaining a restraint order, the Court concurred that the initial application was lacking. The judgments pointed out that the NDPP's application, which mainly consisted of summaries and opinions from its officials, failed to convey the necessary evidential basis to establish “reasonable grounds” for believing that a confiscation order might be made.
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 23])
+The SCA ultimately dismissed the appeal against the High Court’s ruling. It affirmed that s 18(1) of the Prevention of Organised Crime Act operates only prospectively, thereby invalidating the possibility of imposing a confiscation order for offences committed prior to the Act. Consequently, the appeal was dismissed with costs, including those for the employment of two counsel.
+
+The Court's determination underscores the constitutional safeguards against retroactive penal legislation and reinforces the judicial expectation of clear legislative intent. It has significant implications for the application of similar statutes moving forward, establishing a precedent emphasizing rigorous scrutiny of the evidentiary basis required for ex parte applications in restraint order contexts. The judgment indicates a cautious approach by courts in balancing legislative intent against fundamental rights to ensure adherence to the rule of law and principles enshrined within the Constitution.

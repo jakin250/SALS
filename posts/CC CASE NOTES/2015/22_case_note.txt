@@ -1,0 +1,55 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Trencon Construction (Pty) Limited v Industrial Development Corporation of South Africa Limited and Another [2015] ZACC 22
+
+### F – Facts: Relevant background and procedural history ([paras 4–27])
+
+The case arose from a tender process initiated by the Industrial Development Corporation of South Africa Limited (IDC) on 18 May 2012, inviting building contractors to submit proposals for upgrading its head office. Trencon Construction (Pty) Limited (Trencon) and Basil Read (Pty) Limited (Basil Read) were among the bidders. The critical timeline established that proposals submitted after the specified closing date of 4 June 2012 would be deemed non-responsive. Trencon adhered to this deadline while Basil Read submitted its bid 14 minutes late.
+
+After a detailed evaluation involving technical assessments, Tender Evaluation Reports, and recommendations from various committees, the Procurement Committee recommended awarding the tender to Trencon based on its bid being the lowest and complying with the criteria established. However, Exco, upon review on 19 September 2012, rejected this recommendation, declaring Trencon’s bid as non-responsive due to a perceived failure to maintain a fixed price during the evaluation period while subsequently awarding the tender to Basil Read.
+
+Trencon contested this decision in the High Court, which concluded that the IDC's award to Basil Read was unlawful due to a material error of law and granted a substitution order in favor of Trencon. The Supreme Court of Appeal set aside this order, asserting that the IDC maintained discretion not to award the tender, thus remitting the matter back to the IDC without conditions. Trencon sought leave to appeal this decision, leading to the current proceedings before the Constitutional Court.
+
+### I – Issues: Legal or constitutional questions ([paras 33–34])
+
+The case raised several pivotal issues:
+
+1. What is the test for establishing exceptional circumstances that justify a substitution order under section 8(1)(c)(ii)(aa) of the Promotion of Administrative Justice Act 3 of 2000 (PAJA)?
+2. Are there exceptional circumstances in this case that warrant a substitution order?
+3. Can a substitution order be made if the validity period of the tender has expired?
+4. What is the standard for appellate court interference with a High Court order made under section 8(1) of PAJA?
+5. Did the Supreme Court of Appeal err in its interference with the High Court’s order?
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 31–32], [34–49])
+
+The court considered the provisions of PAJA, particularly section 33 of the Constitution, which guarantees the right to just administrative action. The test for exceptional circumstances, as established through case law, requires an understanding that:
+
+- The court must assess whether it is in as good a position as the administrator to make the decision.
+- The determination of whether the administrator's decision represents a foregone conclusion.
+
+Key precedents included:
+
+- **Bato Star Fishing (Pty) Ltd v Minister of Environmental Affairs and Tourism** ([2004] ZACC 15), providing guidance on the constitutional standard for actions arising from administrative decisions.
+- **Gauteng Gambling Board v Silver Star Development Limited** ([2005] ZASCA 15), which reinforced the judicial deference accorded to administrative agencies.
+
+Moreover, the court acknowledged the need to balance the rationale of deference to administrative agencies with the necessity of ensuring that constitutional rights are protected through effective judicial review mechanisms.
+
+### A – Application: Analysis of how the court applied the law ([paras 34–81])
+
+The Constitutional Court analyzed the circumstances of the tender process. It recognized that it was in as good a position as the IDC since the material evaluations leading to the decision to reject Trencon's bid had been laid bare. Specifically:
+
+- The IDC’s rationale for declaring Trencon's non-responsiveness was rooted in a fundamental misinterpretation of the evaluation criteria, which had not been properly applied.
+- The court cataloged the extensive recommendations from the various IDC committees, establishing Trencon as the highest points earner.
+
+The court also weighed the supervening circumstances, highlighting that the core issue was the IDC's failure to evaluate the bids appropriately rather than any significant shift in pricing or funding that could justify remittal. Thus, the court affirmed that exercising the substitution order was just and equitable under the established doctrines regarding exceptional circumstances, wherein remittal would serve no purpose.
+
+Notably, the court addressed the expiration of the tender’s validity, asserting that unlike prior cases (Telkom and Joubert), which dealt with non-awards, Trencon's bid had been evaluated and warranted the substitution order despite the time elapsed through litigation.
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 98–101])
+
+The Constitutional Court held that the Supreme Court of Appeal erred in its assessment, restoring the High Court's decision to award the tender to Trencon. The court clarified that conditions justifying a substitution order were met due to the IDC's material error and that Trencon's bid had rightly been the most competitive. 
+
+The implications of the ruling underline the necessity for administrative bodies to adhere strictly to legal norms when conducting procurement processes. This decision reaffirms the judiciary’s role in safeguarding constitutional rights against administrative overreach, particularly emphasizing that administrative error does not exempt a party from the obligations of fair and lawful conduct as laid down in PAJA.
+
+The order reinstated the High Court’s decision, compelling the IDC to engage in contractual negotiations with Trencon and encapsulating a pivotal enhancement of administrative justice in procurement contexts in South Africa.

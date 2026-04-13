@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2003
+
+# FIRAC Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+
+## Facts
+This case arises from an appeal against a decision made by the High Court in Pretoria regarding the period of prescription concerning a cheque. The appellants, F W A Lutzkie No and S C Lutzkie No, sought to enforce a cheque issued by the respondent, Zenith Concessions Limited, in connection with the sale of shares in a company. The relevant facts are as follows:
+
+On 25 September 1997, the appellants sold shares to the respondent for a total purchase price of R7 450 000, to be paid in multiple tranches, with the first tranche of R4 029 666.49 payable upon the signature of the agreement ([para 2]). On 21 October 1997, the respondent paid R1 029 666.49 towards this purchase price ([para 3]). Subsequently, on 26 November 1997, the cheque for R2 million was issued in reduction of the outstanding balance of the first tranche, but it was dishonoured two days later ([paras 3–4]). 
+
+The appellants initiated proceedings for a provisional sentence on the cheque, serving the summons on 20 March 2001, which was more than three years after the underlying debt had become due ([para 4]). The respondent raised multiple defenses, critically claiming that the cheque was issued conditionally, and that the underlying debt had prescribed, thus extinguishing the obligation arising from the cheque, which the court a quo accepted ([paras 4–5]).
+
+## Issues
+The critical legal issue before the Supreme Court of Appeal was whether the debt arising from the cheque had prescribed in conjunction with the underlying debt from the agreement of sale. Specifically, the Court was tasked to determine:
+
+1. **Does the prescription of the underlying debt also preclude the appellants from enforcing the cheque, despite the separated statutory prescription periods laid out in the Prescription Act 68 of 1969?** ([paras 5–6]).
+
+## Rules
+The relevant legal rules are encapsulated within the Prescription Act 68 of 1969. Section 11(c) stipulates a six-year prescription period for debts arising from a bill of exchange, while Section 11(d) sets a three-year period for the underlying debt in this case. The legal principle established in *Froman v Robertson 1971 (1) SA 115 (A)* specifies that a cheque constitutes a contract in writing and necessitates a proper causa debendi. Importantly, the obligation arising from a cheque is based upon the validity of its underlying contract, but they do not necessarily prescribe simultaneously ([paras 1–6]).
+
+Additionally, the principle of customarily distinguishing between debts from a cheque and underlying debts emphasizes the legislature's intent that different prescriptive periods apply to these debts, as clarified in *Pentz v Government of the Republic of South Africa 1983 (3) SA 584 (A)* ([paras 5–6]).
+
+## Application
+In addressing the application of the law to the facts, the Court critically analyzed the relationship between the cheque and the underlying debt. The High Court had erroneously concluded that because the underlying debt had prescribed in three years, the debt arising from the cheque, with a larger six-year prescription period, also prescribed.
+
+Nugent JA referenced the foundational requirements that a cheque must be backed by a valid cause of action; however, he differentiated that the extinguishment of the underlying debt through prescription does not automatically result in the extinguishment of the cheque-based debt, particularly when the statute provides for a different prescriptive period ([paras 6–8]). The Court highlighted that while obligations arising from both debts were interrelated, the terms of prescription in the Act explicitly shielded the cheque from the premature expiry created by the underlying debt’s prescription ([para 8]).
+
+Thus, since the summons for provisional sentence was served before the six-year period had lapsed for the cheque, the defense of prescription raised by the respondent should have failed ([paras 8–9]).
+
+## Conclusion
+The Supreme Court of Appeal held, in a unanimous decision, that the appeal should be upheld, dismissing the respondent’s defense of prescription ([paras 9]). The order of the court a quo was set aside, and the action was remitted for further proceedings on remaining issues ([para 9]).
+
+This decision reinforces the legislative intent behind the different prescription periods for debts arising from cheques versus other contractual obligations. The ruling clarifies that, pursuant to the Prescription Act, a cheque’s enforceability is not inherently contingent upon the status of the underlying debt, providing important guidance for similar cases in the realm of negotiable instruments and contractual liabilities. 
+
+Thus, the implications of this case affirm the necessity for courts to adhere strictly to statutory provisions regarding prescription, ensuring that claims related to negotiable instruments retain their enforceability within the framework delineated by the law ([para 9]).

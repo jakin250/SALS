@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: FIRAC Analysis of *Kosmos X6 Homeowners Association v Leopont 64 Properties (Pty) Ltd* ([2016] ZASCA 48)
+
+## F - Facts
+The appeal concerns a dispute between the **Kosmos X6 Homeowners Association** (Appellant, hereinafter referred to as *Kosmos*) and **Leopont 64 Properties (Pty) Ltd** (1st Respondent, hereinafter referred to as *Leopont*) regarding the enforceability of certain obligations arising from agreements for the sale of erven in a township that had not yet been formally proclaimed. 
+
+In [para 2], *Kosmos* was incorporated under section 21 of the Companies Act 61 of 1973, representing the interests of property owners within the Kosmos Extension 6 Township. In 2004, *Leopont* owned the land designated for future development as this township, consisting of four erven ([para 3]).
+
+From 31 March to 1 May 2004, *Leopont* entered into sale agreements with various purchasers, including several companies represented by Ivor Ichikowitz and Petronella Schroeder ([para 3]). However, section 67 of the Town Planning and Township Ordinance 15 of 1986 prohibited the sale of land in a township until such a township had been formally approved by local authorities ([para 4]).
+
+The local authority permitted pre-proclamation agreements, allowing these sales to proceed under certain conditions, although the township was not formally proclaimed until May 2005 ([paras 4–6]). Once the township was proclaimed, the relevant erven were transferred to the purchasers by August 2006, who subsequently ceded their rights to *Kosmos* ([para 6]). 
+
+Disputes arose regarding *Leopont's* failure to perform certain obligations, which *Kosmos* alleged were agreed to but not included in the contracts. This led *Kosmos* to issue a summons on 18 August 2008, seeking specific performance and rectification of the agreements ([para 8]).
+
+*Leopont* raised a special plea of prescription, asserting that the claims had become time-barred according to section 12(1) of the Prescription Act 68 of 1969, arguing that prescription commenced when the sale agreements were concluded ([para 12]).
+
+The Gauteng Division of the High Court ruled against *Kosmos*, leading to the present appeal ([paras 13–14]).
+
+## I - Issues
+The primary legal issue before the Supreme Court of Appeal was **when does the prescriptive period commence for a claim of specific performance regarding ancillary obligations under contracts of sale that were initially unenforceable?** Specifically, the court needed to determine:
+
+1. When did the obligations under the agreements regarding construction and facilities become enforceable?
+2. Did the letters exchanged between the parties constitute a binding undertaking, and thus interrupt the running of prescription?
+
+The appeal seeks to overturn the lower court's decision that dismissed *Kosmos's* claim based on prescription, thereby determining the enforceability timeline of obligations under the agreements ([paras 11–12]).
+
+## R - Rules
+The applicable law is encapsulated primarily within **the Prescription Act 68 of 1969**, which stipulates in section 12(1) that “prescription shall commence to run as soon as the debt is due” ([para 15]). The term "due" implies that the creditor must have both a completed cause of action and the requisite knowledge to initiate a claim, as highlighted in case law such as *Minister of Finance v Gore NO* and *Truter v Deysel* ([para 15]).
+
+The court also differentiated between the concepts of a debt arising and a debt becoming "due," underscoring that while a debt may exist, it may not be collectible without the completion of necessary conditions as outlined in the agreements ([para 16]).
+
+## A - Application
+In its judgment, the court affirmed the interpretation that while the agreements were binding as of their conclusion, the principal obligations under those agreements regarding the erven's transfer were only triggered after the township was proclaimed, which occurred in May 2005 ([para 17]). Consequently, the obligations concerning the ancillary facilities could not be breached until the erven were legally recognized and the transfer was effectuated ([paras 17–18]).
+
+Further, the court noted that there were no specific deadlines for performance stipulated in the agreements; therefore, the obligations could not be considered enforceable before the erven existed ([paras 17–18]).
+
+The court also addressed the special plea of prescription, contending that *Kosmos's* claims for specific performance did not prescribe when the summons was served on 20 August 2008—well within three years from the date the erven were created ([para 18]). The Supreme Court also recognized that the claim for rectification was not subject to the plea of prescription, as it involved a different analysis ([para 19]).
+
+## C - Conclusion
+Ultimately, the Supreme Court of Appeal upheld the appeal, ruling that the prescriptive period for *Kosmos's* claim had not commenced as the underlying debt was not yet due at the time of the summons ([paras 18–19]). The order of the trial court was set aside, and the special plea of prescription was dismissed with costs—including fees for two counsels. The case was remitted to the lower court for adjudication of all claims raised by *Kosmos* concerning whether the agreements had indeed been breached and whether an enforceable undertaking existed ([para 19]).
+
+This decision clarifies the intersection of contract law and principles of prescription in the context of property sales, particularly emphasizing that prescriptive periods cannot be artificially accelerated by the non-fulfilment of conditions precedent, which are essential to the establishment of a debt.

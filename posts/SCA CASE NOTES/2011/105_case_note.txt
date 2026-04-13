@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# Case Note: Stand 242 Hendrik Potgieter Road Ruimsig (Pty) Ltd v Göbel NO (246/10) [2011] ZASCA 105
+
+## FIRAC Analysis
+
+### F – Facts
+The central facts of this case relate to the sale of immovable property conducted on behalf of Bubesi Investments 196 (Pty) Ltd (Bubesi) and the subsequent legal challenges arising from that sale. On 30 January 2009, Mr. Nils Brink van Zyl, representing Stand 242 Hendrik Potgieter Road Ruimsig (Pty) Ltd (Stand 242), initiated a purchase of land from Bubesi for approximately R31 million. This transaction occurred during a period of financial difficulty for Bubesi, which was in desperate need of the proceeds to offset obligations to bondholders ([2]).
+
+Key details emerge from the circumstances: (1) Bubesi's asset in question constituted its sole property; (2) Upon execution of the sale agreement, the directors of Bubesi (Göbel and Wilken) claimed that they had received the necessary shareholder approval in a general meeting, a statement that was subsequently proven false, as the shareholders had not consented, nor had a special resolution been passed ([4]).
+
+Disputes ensued when, subsequent to the sale, Bubesi sought alternative funding by leasing the property to a third party, contested by Stand 242, which initiated legal proceedings to compel performance of the sale ([5]). The South Gauteng High Court granted an interdict against Bubesi's actions, asserting non-compliance with Section 228 of the Companies Act 61 of 1973 ([6]).
+
+The High Court's ruling favored the respondents, acknowledging that without adherence to s 228, the sale could not be enforced. Stand 242's assertion that the directors were aware of and tacitly consented to the sale could not supersede the lack of formal shareholder approval. Lamont J confirmed this interpretation, leading to the present appeal ([7]-[8]).
+
+### I – Issues
+The primary legal questions addressed by the Supreme Court of Appeal were:
+1. Whether the Turquand rule applies to Section 228 of the Companies Act 61 of 1973, allowing directors to circumvent the requirement for shareholder consent in asset disposals?
+2. Does the doctrine of estoppel operate to bar the respondents from contesting the sale's enforceability, given the directors' misrepresentation about shareholder approval? ([9]-[10]).
+
+### R – Rules
+The authoritative statutes and legal principles posited in this case primarily center around Section 228 of the Companies Act, which explicitly prohibits directors from disposing of a company's major assets without shareholder approval via a special resolution. This legal framework was amended in 2006 to strengthen protections for shareholders ([10]-[11]).
+
+The Turquand Rule, originating from *Royal British Bank v Turquand* and adopted into South African law, allows third parties dealing in good faith with a company to presume that the company has complied with its internal governance procedures ([12]). However, the key line of analysis presented in previous relevant cases—most notably *Farren v Sun Service SA Photo Trip Management (Pty) Ltd*—concluded that the Turquand rule does not apply to transactions governed by the explicit requirements of s 228, designed to safeguard shareholder interests ([12]-[14]).
+
+Furthermore, the question of estoppel was addressed, highlighting that it cannot contradict statutory requirements. In *City of Tshwane Metropolitan Municipality v RPM Bricks (Pty) Ltd*, it was established that estoppel cannot be applied to permit circumvention of legislative compliance ([24]).
+
+### A – Application
+In its analysis, the Supreme Court of Appeal underscored the imperative nature of compliance with s 228, emphasizing that the provision exists fundamentally to protect shareholders from unauthorized disposals by directors ([16]). The court reiterated that the intent behind the legislative amendment was to create a fail-safe against arbitrary decisions made by company directors regarding significant asset disposals. The court found that the application of the Turquand rule in this instance would denude the protective purpose of s 228 and lead to a contradiction of shareholders' rights.
+
+Furthermore, the dialogue surrounding the doctrine of estoppel concluded that Stand 242 could not claim to have been misled in a way that invoked estoppel since the misrepresentation emanated from the directors, not the true shareholders ([23]-[24]). The court's reasoning maintained that any representation made was insufficient to negate clear statutory commands regarding shareholder consent.
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately dismissed the appeal, affirming Lamont J's ruling that the absence of a special resolution authorizing the sale rendered it unenforceable. The court’s decision reaffirmed the principle that third parties transacting with companies must respect the statutory limitations placed on directors, and shareholders must retain their rights to authorize significant company actions ([25]).
+
+This case serves as a crucial point of reference regarding corporate governance and the protection of shareholder rights within South African law, establishing that statutory compliance takes precedence over normative expectations derived from common law principles like the Turquand rule. The implications of this ruling resonate with both corporate practice and statutory interpretation, reinforcing the necessity for clear and documented shareholder consent in substantial asset transactions. 
+
+Overall, the decision fosters an environment of accountability among directors and emphasizes the importance of procedural adherence in maintaining corporate integrity and upholding shareholder protections in flawed transactions.

@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: Eskom Holdings Soc Ltd v Norton (464/13) [2014] ZASCA 94
+
+## F - Facts
+
+The case involved a dispute between Eskom Holdings Soc Ltd (**Eskom**), a state-owned electricity supplier in South Africa, and Lindy Norton (**Norton**), the owner of a property over which Eskom held a servitude for the conveyance of electricity ([paras 1–2]). The servitude was registered in 1958, allowing Eskom to install and maintain electricity infrastructure on Norton’s property ([para 1]). The specific terms of the servitude included an annual rental payment of £15, and detailed provisions regarding cancellation if payments were in arrears for more than one month after due notice ([paras 4–5]).
+
+Norton acquired the property in July 2010 but failed to present her title deed to Eskom as required by clause 9 of the Deed, which stipulates that the new owner must provide the title deed for Eskom to record ownership changes ([para 7]). Despite this, Eskom’s attorneys acknowledged her ownership in a letter dated October 2010 and made an offer to capitalize her servitude rental into a one-time payment ([paras 7–8]). This led to substantial legal interactions, with Eskom failing to pay the rental dues consistently, prompting Norton to cancel the servitude in April 2012 after providing the required notice ([paras 9–10]). 
+
+Eskom contested the validity of the cancellation, arguing that Norton’s failure to comply with the notification requirement of clause 9 nullified her claim ([para 11]). Following unsuccessful negotiations and litigation concerning the legality of the power lines, Norton sought a court order to declare the servitude cancelled and to compel Eskom to remove its infrastructure from her property ([paras 2–3]).
+
+## I - Issues
+
+The primary legal question before the court was whether Norton could validly cancel the Notarial Agreement governing the servitude, despite her failure to present the title deed to Eskom as part of the transfer of property ownership ([para 2]). Additionally, the court needed to determine if Eskom could rely on the lack of title deed presentation to avoid its obligations under the servitude ([para 11]).
+
+## R - Rules
+
+The interpretation of the clauses within the Deed of Servitude was pivotal in this case. Specifically, Clause 2 mandated annual payments to the property owner, while Clause 3 stipulated the conditions under which the servitude could be cancelled for non-payment after due notice ([paras 4–5]). Clause 9 was particularly important as it established the requirements for Eskom to acknowledge a change in property ownership, stipulating that Eskom could treat the previous owner as the registered owner until the new owner produced the title deed ([para 6]).
+
+The court also considered prior judgments and principles relevant to contract interpretation, particularly focusing on the expectation of fair dealings and mutual obligations between parties to a contract ([para 17]).
+
+## A - Application
+
+The court found that Eskom’s actions, particularly the written acknowledgment of Norton’s ownership and its subsequent attempts to pay the servitude rental, indicated that it had sufficient knowledge of the change in ownership, thus meeting the protective intention behind clause 9 ([para 15]). The court rejected Eskom's argument that Norton’s failure to produce the title deed was fatal to her position, emphasizing that Eskom’s earlier correspondence constituted an acknowledgment of her ownership that could not be disregarded for purposes of benefiting from the protections offered by the Deed ([para 16]).
+
+Furthermore, while acknowledgement and registration issues were complicating factors, the court held that Eskom’s inaction during the notice period constituted a failure to protect its own interests, thus validating Norton’s cancellation of the servitude ([paras 16–17]). The court emphasized that generally, parties should not be allowed to benefit from their own contractual non-compliance, and therefore upheld the cancellation of the servitude as valid ([para 17]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal dismissed Eskom's appeal, ruling that Norton was entitled to cancel the servitude due to Eskom's failure to pay the requested rental after being duly notified, despite any issues relating to the title deed ([paras 19]). The court underscored the principles of fairness and mutual obligation in contractual relationships, reinforcing that Eskom could not invoke its own procedural failures to negate Norton’s rights. 
+
+The implications of this decision underscore the importance of clear communication and adherence to contractual obligations, especially in servitude agreements involving utility service providers. The ruling also serves as a reminder that legal protections designed for one party cannot be used opportunistically against another when the circumstances have fundamentally changed. 
+
+The appeal was dismissed with costs, including those for two counsel ([para 19]). This case highlights key issues of property law, contractual interpretation, and the interplay between contractual rights and actual knowledge, setting a significant precedent regarding servitude agreements in South Africa.

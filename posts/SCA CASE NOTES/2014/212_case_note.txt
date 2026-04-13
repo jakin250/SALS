@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: State Bank of India v Denel SOC Limited (947/13) [2014] ZASCA 212
+
+## F – Facts
+The case arises from a series of contracts between Denel SOC Limited (Denel) and the Union of India (UOI) for the supply of defense-related equipment between January 2000 and April 2002. As part of the agreements, Denel provided multiple guarantees to UOI, intended to secure performance obligations. These guarantees, consisting of one performance and seven warranty guarantees (the principal guarantees), were issued to UOI via the involvement of the second appellant, Absa Bank Limited (Absa), which in turn obtained counter-guarantees from the State Bank of India and Bank of Baroda (collectively, the Indian banks) ([2-3]).
+
+Following Denel's alleged breaches of the contracts, UOI demanded payments under these principal guarantees, leading the Indian banks to honor these demands and seek reimbursement from Absa under the counter-guarantees. Initially hesitant, Absa later prepared to fulfill its obligation, prompting Denel to seek an urgent interdict from the South Gauteng High Court to prevent payments to the Indian banks, asserting that the earlier demands were not compliant with the terms of the relevant guarantees ([4-5]).
+
+The primary court, per Malindi AJ, granted an interim order before agreeing to a final interdict keeping Absa from making the requested payments while arbitration and court proceedings were anticipated to be initiated in India regarding the main guarantees ([5]).
+
+## I – Issues
+The core legal questions in this appeal include:
+1. Whether the demands made by the Indian banks on the counter-guarantees were compliant with their terms, thereby obligating Absa to make the corresponding payments ([1]).
+2. Whether South African courts possess jurisdiction over the counter-guarantee that explicitly states it shall be governed by Indian law and is subject to exclusive Indian jurisdiction ([20]).
+
+## R – Rules
+The legal principles governing the case can be summarized as follows:
+
+1. **Bank Guarantee Independence**: The framework recognizes that on-demand guarantees, including bank guarantees and counter-guarantees, must be honored upon fulfillment of stipulated conditions, free from judicial interference except in cases of fraud ([6-9]).
+2. **Requirement for Compliance**: A demand made under an on-demand guarantee must comply strictly with the terms specified in the guarantee to trigger the obligation of payment by the bank ([9-10]).
+3. **Jurisdiction and Governing Law**: Parties may contractually agree to exclusive jurisdictions and governing laws. If accepted, the court must respect and enforce those terms ([19-21]).
+
+Key legal precedents cited include *Loomcraft Fabrics CC v Nedbank* 1996 (1) SA 812 (A), which emphasizes the essential function of guarantees in facilitating commercial transactions without interference, and doctrines illustrated in *Minister of Transport and Public Works, Western Cape v Zanbuild Construction* 2011 (5) SA 528 (SCA), concerning the strict adherence to demand requirements.
+
+## A – Application
+Turning to the facts of the case:
+
+### Compliance with Terms of Demands
+- **Principal and Counter-Guarantees**: The demands made by UOI under the respective principal guarantees were found lacking in compliance as they failed to specify Denel's non-performance in the context of the warranty obligations as required. Consequently, Absa was not obliged to pay under these counter-guarantees because the Indian banks' demands merely replicated UOI's demand rather than complying with the guarantee's specific language ([13-17]).
+
+### Jurisdictional Considerations
+- **Counter-Guarantee 821-02-0002584G**: This counter-guarantee was distinguishable due to its express provision that it shall be governed by Indian law and be subject to the exclusive jurisdiction of Indian courts. Consequently, the court opined that adjudicating its compliance necessarily falls outside the jurisdiction of South African courts, potentially leading to conflicting decisions if both jurisdictions acted ([20-22]).
+
+### Outcome on Interdictory Relief
+- Overall, the court found Denel justified in seeking protection against Absa’s threatened payments concerning non-compliant demands, securing the legal assertion that Denel held sufficient standing due to its banker-client relationship with Absa. It clarified that Denel's claim was essentially for specific performance regarding Absa's obligations to refuse payment under non-compliant demands ([27]).
+
+## C – Conclusion
+The Supreme Court of Appeal ultimately ruled that Denel was entitled to an interdict barring Absa from fulfilling its payment obligations under the counter-guarantees listed, with the notable exception of counter-guarantee 821-02-0002584G, found to be governed by exclusive Indian jurisdiction. 
+
+This judgment underscores the judiciary's commitment to uphold the principled independence of guarantees in commercial practice while respecting the boundaries set by contractual agreements regarding applicable laws and jurisdiction. Additionally, the decision reinforces the necessity for strict compliance with the terms of bank guarantees in order for obligations of payment to arise ([26-31]). The order was thus modified to clarify the conditions for the interdict and the costs of the appeal were ordered as each party bearing its own ([32]).

@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Jones v Road Accident Fund (2019) ZASCA 173
+
+### F – Facts: Relevant Background and Procedural History ([ paras 1–20 ])
+
+In **Jones v Road Accident Fund** ([2019] ZASCA 173), the appellant, Mr. A A Jones, sought compensation from the Road Accident Fund (RAF) following a motor vehicle accident on 17 February 2012. During the incident, a chunk of gold ore fell from an insured vehicle, striking Jones' vehicle and causing significant injuries, including head trauma. Following the accident, Jones lodged a claim with the RAF on 15 February 2015 and subsequently initiated court proceedings on 25 April 2016, listing 23 vehicles associated with nine different owners, positing that one of these vehicles may have caused the accident.
+
+The RAF defended against Jones’ claim, asserting that the identity of the vehicle’s owner and driver had not been sufficiently established. Consequently, the RAF categorized Jones' claim under § 17(1)(b) of the Road Accident Fund Act 56 of 1996 (the Act), which applies when neither the owner nor driver is identifiable, leading to a two-year prescription period. The Gauteng Division of the High Court, presided over by Van der Schyff AJ, dismissed Jones’ claim on these grounds, concluding that it had prescribed due to the late filing and granted him leave to appeal ([paras 3–6]).
+
+### I – Issues: Legal or Constitutional Questions ([ paras 1–2 ])
+
+The Supreme Court of Appeal addressed two primary legal issues:
+
+1. **Classification of the Claim**: Is Jones’ claim against the RAF one falling under § 17(1)(a) of the Act, which pertains to identifiable vehicles, or under § 17(1)(b), concerning unidentified vehicles?
+   
+2. **Prescription of the Claim**: Has Jones' claim prescribed, considering the different prescription periods under the Act?
+
+These issues turn on the interpretation of "established" as used in the Act and whether the identification of a group of vehicles suffices for the purposes of the claim ([paras 1–2], [20]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([ paras 11–22 ])
+
+The relevant statutory provisions include:
+
+- **Road Accident Fund Act 56 of 1996, § 17(1)**: This section delineates the RAF's liability for compensation based on the identity of the driver or owner of the vehicle causing injury. It states:
+  - *(a)* Claims where the identity is established are subject to a three-year prescriptive period.
+  - *(b)* Claims where neither identity is established are subject to a two-year prescriptive period.
+
+- **Regulation 2 of the Road Accident Fund Regulations**: This regulation reinforces the prescriptive period applicable to claims under § 17(1)(b), mandating that they be lodged within two years of the accident ([paras 12–22]).
+
+The court also referred to the principles of statutory interpretation sourced from previous cases such as *Mazibuko v Santam Insurance* and relevant guidelines outlined in cases like *KPMG* and *Endumeni*, which emphasize the context, purpose, and meaning of legislative provisions ([paras 15–21]).
+
+### A – Application: Analysis of How the Court Applied the Law ([ paras 6–22 ])
+
+The court's ruling hinged on whether the identification of the vehicles listed by Jones met the requisite standard for establishing the identity of the owner of the insured vehicle. 
+
+1. **Classification of the Claim**:
+   The court agreed with the High Court's reasoning that mere identification of a series of vehicles (23 in total) did not meet the statutory requirement for establishing the identity of the offending vehicle's owner. The judgment stressed that while it was possible to identify multiple vehicles, this did not ascertain which specific vehicle was responsible for the accident. Establishing a direct connection between a vehicle at a specific time and the incident was crucial, and in this instance, such a connection was absent. The AA's claim thus fell squarely under § 17(1)(b) ([paras 6–9], [19]).
+
+2. **Prescription of the Claim**:
+   Given the classification under § 17(1)(b), the court found that Jones failed to lodge his claim within the two-year period stipulated by regulation. The court affirmed the RAF's argument that allowing claims under an "unidentified" vehicle designation when multiple vehicles are only suggested as possibilities would compromise the integrity of the Fund and open avenues for potential fraud, making strict adherence to the regulation necessary ([paras 10–22]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([ paras 22–23 ])
+
+The Supreme Court of Appeal dismissed Jones’ appeal, holding that:
+
+1. **Claim Classification**: His claim was correctly classified under § 17(1)(b) of the Act due to the lack of established identity of either the owner or driver of the offending vehicle, which failed to meet the threshold required for claims under § 17(1)(a).
+
+2. **Prescription**: The court reaffirmed the importance of the prescriptive period as outlined in the relevant regulations, concluding that Jones’ claim had indeed prescribed as it was lodged beyond the permissible two years following the accident.
+
+The implications of this ruling reinforce the necessity for claimants under the RAF to provide adequate identification of the offending vehicle to preserve their rights to claim compensation and highlight the judiciary's commitment to upholding regulatory frameworks designed to prevent fraud and ensure efficient claims processing ([paras 22–23]).

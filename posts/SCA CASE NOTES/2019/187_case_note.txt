@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: The Commissioner for the South African Revenue Service v Clicks Retailers (Pty) Ltd (58/2019) [2019] ZASCA 187
+
+## FIRAC Summary
+
+### F – Facts
+
+The case concerns a dispute between the Commissioner for the South African Revenue Service (SARS), the appellant, and Clicks Retailers (Pty) Ltd, the respondent, regarding the interpretation of section 24C of the Income Tax Act 58 of 1962. Clicks operates a loyalty programme where customers earn points redeemable for vouchers based on their purchases ([1]–[2]).
+
+In the 2009 financial year, Clicks claimed a tax deduction of R44,275,965 under section 24C, asserting this amount represented costs anticipated for honoring vouchers expected to be redeemed in the subsequent tax year. SARS disallowed this deduction following an audit, leading Clicks to appeal to the Tax Court in Cape Town ([4]).
+
+The Tax Court ruled in favor of Clicks, determining that the expenditure related to voucher redemption arose from the same contract that generated the income through customer purchases. The court’s reasoning was that the first purchase and the obligation to honor the vouchers were linked ([5–6]).
+
+SARS appealed to the Supreme Court of Appeal (SCA), arguing that the agreements involved were distinct, and thus the expenditure did not arise from the same contract ([9]).
+
+### I – Issues
+
+The primary issue at hand is whether the amounts received by Clicks from customers' purchases and the subsequent obligation to honor loyalty vouchers constitute expenses arising from the same contractual relationship under section 24C of the Income Tax Act ([10]–[11]). Specifically, the court had to determine whether the income and the expenditure obligations associated with the loyalty programme were sufficiently interconnected to satisfy the requirements of the statute.
+
+### R – Rules
+
+The applicable law is section 24C of the Income Tax Act 58 of 1962, particularly subsections (1) and (2), which stipulate:
+
+- **Subsection (1)** defines "future expenditure" concerning incoming assessments.
+- **Subsection (2)** mandates that if income is received or accrued from a contract, and the Commissioner is satisfied that such income will contribute to future expenditure incurred in the performance of obligations under that same contract, then such expenditure can be deducted ([6]).
+
+The precedent set by *CSARS v Big G Restaurants (Pty) Ltd* reinforces two critical requirements for the section: income must arise from a contract, and future expenses must relate to obligations under that same contract ([7]).
+
+### A – Application
+
+The SCA focused on the interpretation of contractual relationships surrounding the loyalty programme and the nature of the obligations imposed on Clicks. The court noted that Clicks contended that the first contract of purchase inherently imposed an obligation to incur future expenditure related to the loyalty points and the subsequent vouchers ([11]–[20]).
+
+However, the court found that multiple contracts were at play: the ClubCard contract, which did not generate income, and the contracts of sale of goods, which did. The obligations to honor the vouchers arose from the separate ClubCard contract, rather than the agreements concerning the sale of goods, thus failing to establish the requisite link for a section 24C allowance to be applicable ([18]–[19]).
+
+The court reiterated the stance from *Big G*, specifying that merely having interlinked contracts does not satisfy the legislative requirement for the same contract due to potential manipulation of tax liabilities. Income and future expenditure must be tightly linked to a singular contractual agreement to qualify for tax deductions ([29]).
+
+### C – Conclusion
+
+The SCA upheld the appeal, concluding that Clicks had not met the legislative requirements of section 24C. It determined that the expenditure incurred in honoring the loyalty vouchers derived from a different contractual obligation than that which generated the income, thereby invalidating Clicks' claim for the allowance ([21]).
+
+In summary, the court's ruling rectified the interpretation of future expenditure under section 24C, emphasizing that income-generating contracts and expenditure obligations must be from the same contract to ensure appropriate tax deductions. The implications of this ruling resonate within the structure of loyalty programs and tax treatment in commercial transactions, reflecting the need for a clear, unambiguous linkage between contracts for tax purposes.

@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Ingosstrakh v Global Aviation Investments (Pty) Ltd and Others (934/2019)
+
+**Purpose**: This case note applies the FIRAC method to summarize the Supreme Court of Appeal of South Africa's judgment in *Ingosstrakh v Global Aviation Investments (Pty) Ltd and Others*, focusing on key legal concepts and implications arising from the case.
+
+### F – Facts
+
+The case revolves around an insurance policy issued by the appellant, Ingosstrakh (a Russian company), to the respondents, Global Aviation Investments and its affiliates. This policy provided indemnification against various risks for certain aircraft, including a particular MD82 aircraft registered as ZS-TOG. Following an incident on 13 November 2012, where the aircraft suffered significant damage due to a landing gear anomaly, Global declared the aircraft as a constructive total loss (CTL) and demanded payment of USD 2,500,000 from Ingosstrakh.
+
+Global initially filed an application on 15 August 2014 seeking a declaration that Ingosstrakh was liable under the policy. However, the application was dismissed on procedural grounds due to material disputes of fact. Service of summons against Ingosstrakh was authorized via their brokers, after which Ingosstrakh filed a notice of intention to defend but failed to deliver a plea. Global then issued a notice of bar, which Ingosstrakh sought to set aside along with an application for condonation for its late filing of the plea ([paras 1–10]).
+
+The Gauteng Division of the High Court dismissed both Global's application for default judgment and Ingosstrakh's counter-application concerning the upliftment of the bar. Both parties appealed against this dismissal, resulting in the Supreme Court of Appeal (SCA) addressing both the appeal and cross-appeal ([paras 11–12]).
+
+### I – Issues
+
+1. **Appealability**: Was the High Court’s order refusing Global’s application for default judgment appealable?
+2. **Upliftment of Bar**: Did the High Court err in denying Ingosstrakh’s application to uplift the notice of bar, thereby preventing it from filing a plea?
+3. **Submission to Jurisdiction**: Could the South African court assume jurisdiction over a dispute between parties registered in foreign jurisdictions?
+4. **Default Judgment**: Should default judgment be granted against Ingosstrakh despite its failure to file a plea? ([paras 12–20]).
+
+### R – Rules
+
+1. **Finality for Appeal**: For an order to be appealable, it must be final in effect, definitive of the rights of the parties, and dispose of a substantial portion of the relief claimed ([paras 12–13]; *Zweni v Minister of Law and Order* [1993] 1 SA 523 (A)).
+2. **Condonation Principles**: Under Rule 27 of the Uniform Rules of Court, the court may grant condonation for non-compliance if good cause is shown ([paras 21–24]).
+3. **Jurisdiction Principles**: Jurisdiction can be established when a foreign defendant submits to the jurisdiction of the court, coupled with a linkage between the court and the subject matter ([paras 28–30]; *Veneta Mineraria SPA v Carolina Collieries (Pty) Ltd* [1987] 4 SA 883 (A)).
+4. **Contractual Liability**: The determination of constructive total loss is derived from the terms of the insurance policy, particularly concerning repair costs ([paras 43–50]).
+
+### A – Application
+
+The SCA found the High Court’s order to be appealable, given the implications of being under bar and the stalled proceedings. It discerned an internal contradiction in the High Court’s dismissal of both Global’s application for default judgment and Ingosstrakh’s application to uplift the bar. This created a procedural imbalance where neither party could advance its case ([paras 11–14]).
+
+On the issue of condonation, the SCA reviewed Ingosstrakh’s failure to file a plea, emphasizing that the explanations provided were inadequate. The court noted Ingosstrakh's disregard for the timelines established by the notice of bar and highlighted that it did not offer an acceptable reason for the delays, ultimately questioning its bona fides ([paras 21–26]).
+
+Regarding jurisdiction, the SCA affirmed that Ingosstrakh had submitted to the court's jurisdiction by selecting a local domicilium and participating actively in earlier proceedings without objection to jurisdiction. Additionally, the court underscored the convenience of adjudicating this matter within South Africa given the ties established by the policy itself ([paras 30–35]).
+
+Lastly, examining the merits of the default judgment sought by Global, the SCA concluded that both engines of the aircraft required repair due to the regulations of the South African Civil Aviation Authority (SACAA). This determined that the costs exceeded the 75% threshold necessary for declaring a CTL, thereby negating Ingosstrakh's defenses ([paras 43–52]).
+
+### C – Conclusion
+
+The SCA dismissed Ingosstrakh's appeal and upheld Global's cross-appeal, granting default judgment in favor of Global for USD 2,500,000 and ordering interest from the date of loss. The court emphasized the importance of jurisdiction and procedural compliance as essential to the integrity of litigation. Ultimately, the judgment clarifies principles regarding the appealability of procedural orders, the implications of being barred from responding to claims, and the jurisdictional landscape when dealing with international parties ([paras 53–54]). 
+
+This ruling has significant implications for future cases involving foreign entities engaged in litigation under South African jurisdiction, particularly concerning the enforceability of insurance contracts and the procedural obligations of parties in litigation.

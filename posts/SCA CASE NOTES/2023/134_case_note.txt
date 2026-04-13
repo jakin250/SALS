@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Mantis Investments Holdings v De Jager N O (696/2022) [2023] ZASCA 134
+
+## F – Facts
+The matter pertains to **Mantis Investments Holdings (Pty) Limited** (the First Appellant) and **Adrian John Faulkner Gardiner** (the Second Appellant), who appealed against a decision made by **Beneke AJ** in the Eastern Cape Division of the High Court. The respondents, **Werner De Jager N.O.** and **Carol-Ann Schröder N.O.**, serve as joint liquidators of **No. 1 Watt Street (Pty) Ltd** (Watt Street). Mantis, as a shareholder in Watt Street, and Mr. Gardiner, a director of both companies, challenged the High Court's ruling that prevented them from contesting the claims proved by the **Eastern Cape Development Corporation (ECDC)** in Watt Street's liquidation ([paras 1–2]).
+
+The case originated in 2005 with ECDC’s loan to **Bushman Sands Development (Pty) Ltd**, for which Watt Street was a surety. Following non-payment by Bushman Sands, ECDC launched an action for approximately **R19 million** against Watt Street. Before the trial commenced, Mantis applied for Watt Street's liquidation, claiming it was owed **R2.5 million**. The High Court ultimately placed Watt Street into liquidation ([paras 3–5]).
+
+Both ECDC and Mantis proved their claims in the liquidation process. Mantis contested ECDC’s claim, which was likewise accepted by the Master of the High Court. The liquidators subsequently sought to set aside collusive dispositions facilitated by the appellants, which involved significant transfers of assets to Mantis, adversely affecting creditor claims ([paras 6–8]).
+
+The liquidators' specifics alleged that Mantis’s actions defrauded ECDC by stripping Watt Street of assets and denying creditors their rightful claims, warranting penalties amounting to **R64 million** ([para 6]).
+
+## I – Issues
+The key legal issues were whether:
+1. The appellants had the standing to contest ECDC’s claim against Watt Street as the principal debtor.
+2. The appellants could revisit the extent of the ECDC claim against Watt Street’s surety ([paras 11, 12]).
+
+## R – Rules
+The legal framework governing this case is largely encapsulated in the **Insolvency Act 24 of 1936**. Significant provisions include:
+- **Section 44** outlines the proof of claims against an insolvent estate, which must be accepted by the Master unless successfully reviewed or set aside ([para 6]).
+- **Section 31** allows the Court to set aside transactions made in collusion to the detriment of creditors, establishing responsibilities for parties involved in such transactions ([para 7, 11]).
+- **Section 151** provides for judicial review of decisions made by the Master, stipulating that a failure to seek review effectively validates the Master’s decision ([para 17]).
+
+Judicial precedents cited include **Bester N O and Others v CTS Trailers (Pty) Ltd** and **Caldeira v The Master and Another**, confirming the principle that a Master’s decision to admit a claim holds until overruled in review ([para 12, 14]).
+
+## A – Application
+The High Court determined that the Master’s decisions regarding claim acceptance were administrative acts with enduring legal effects unless contested through formal review as outlined in Section 151 of the Act. The appellants failed to challenge the Master’s acceptance of ECDC’s claim, thus it remained valid. The court underscored that even if the appellants had valid objections to ECDC’s claim, such objections could not invalidate the Master’s ruling in the absence of a review ([paras 12, 18]).
+
+The appellants’ argument that the liquidators needed to affirm ECDC’s status as a creditor prior to initiating proceedings was dismissed. The court reinforced the legislative intention to protect creditor rights, characterizing the appellants’ position as undermining the statutory scheme designed to manage insolvency equitably ([paras 19–21]).
+
+Ultimately, the liquidators were within their rights to pursue claims against the appellants for collusive conduct as ECDC’s claim was verified and could not be challenged by the appellants ([paras 8, 21]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the High Court's ruling, reaffirming the validity of ECDC's claim as it had not been overturned by any review. The appellants’ appeal was dismissed with costs, highlighting the implications for parties involved in insolvency matters and the necessity to adhere to statutory remedies provided in the Insolvency Act. The case reiterates the protective mechanisms in insolvency law aimed at maintaining creditor integrity in liquidation contexts, barring attempts to contravene these frameworks without due legal process ([paras 22]).
+
+**Final Order**: The appeal is dismissed with costs.

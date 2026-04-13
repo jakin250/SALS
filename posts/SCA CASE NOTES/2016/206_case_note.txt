@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Kaknis v Absa Bank Ltd & Another (08/16) [2016] ZASCA 206
+
+### FIRAC Method
+
+## F – Facts
+
+The case concerns an appeal brought by Pantelis Kaknis (the appellant) against Absa Bank Limited and Man Financial Services SA (Pty) Ltd (the respondents) regarding two summary judgments issued by the Eastern Cape Local Division of the High Court ([1]). Kaknis had entered into multiple instalment sale agreements from March 2006 to March 2008 with Absa, which involved various movable assets, and a separate agreement with MFS for a truck ([3]). After initially complying with the obligations, Kaknis faced financial difficulties, which led to his inability to meet payment obligations.
+
+To address his financial woes, Kaknis sought assistance from a debt counsellor and obtained a court order for debt rearrangement under the National Credit Act 34 of 2005 ([4]). Despite complying with this order, the claims against him became prescribed under the Prescription Act on 8 July 2014, due to the lapse of more than three years since the last payment ([4]). However, on 3 October 2014, Kaknis signed an acknowledgment of debt, recognizing his indebtedness, but subsequently failed to make the required payments ([5]).
+
+Respondents initiated legal proceedings after this acknowledgment, claiming confirmation of the cancellation of the sale agreements and return of the assets ([6]). Kaknis contended that the claims had prescribed and that section 126B(1)(b) of the National Credit Act precluded the respondents from recovering the debt ([5]). The High Court, however, ruled that the claims had not prescribed and denied the application of section 126B retroactively ([6]).
+
+## I – Issues
+
+The central issue in this case is the interpretation of section 126B(1)(b) of the National Credit Act and its applicability to pre-existing agreements—specifically whether it operates retrospectively to invalidate the acknowledgment of debt Kaknis signed after the claims had prescribed ([2], [8]). The appeal raises questions about legislative intent concerning the retrospective application of statutes and the consumer protection goals underlying the National Credit Act ([6], [23]).
+
+## R – Rules
+
+The legal framework guiding this case includes the following statutes and legal principles:
+
+1. **National Credit Act 34 of 2005**: Particularly section 126B, which was inserted by the National Credit Amendment Act 19 of 2014, addressing the applicability of prescription in debt collection ([9]). The relevant provisions state that:
+   - No one may sell or collect a debt that has been extinguished by prescription, unless the consumer had raised that defense or would reasonably have raised it ([9]).
+   
+2. **Prescription Act 68 of 1969**: This Act establishes the time limits for the enforcement of claims, determining that claims prescribed after three years if there has been no acknowledgment or interruption ([4]).
+
+3. **Legislative Interpretation Principles**: A strong presumption exists against the retrospective application of statutes unless expressly stated or implied ([10], [14]). Judicial precedents emphasize the importance of protecting vested rights and obligations, as established in cases such as **S v Mhlungu** ([10]) and **Curtis v Johannesburg Municipality** ([12]).
+
+## A – Application
+
+The court meticulously examined the language of section 126B and its intent. It noted the historical context of the National Credit Act as designed to protect vulnerable consumers, especially regarding their obligations under credit agreements ([19]). The primary focus was whether the absence of explicit language in section 126B concerning its retroactive effect indicated a legislative intent to maintain the validity of pre-existing acknowledgments of debt.
+
+Upon examining the legislation’s wording and the protective principles underpinning it, the court found that the Act’s intent was to prevent creditors from enforcing debts against consumers who were unaware of their rights regarding prescription ([19], [23]). However, it clarified that the acknowledgment of debt Kaknis signed was valid when entered into since the respondents had no knowledge of the prescription defenses ([27]). Hence, it inferred that his argument for retroactive application did not align with established legal precedents.
+
+The court affirmed that to interpret section 126B as applying retrospectively could create significant inconsistencies, leading to absurd results where consumers could selectively avoid liabilities based on their awareness of prescription ([16], [17]). Statutes that impair existing rights—especially ones which were validly acknowledged—require clear and express intent from the legislature, which was absent in this case. Thus, the High Court's ruling was justified in concluding that the claims were not subject to the defenses raised by the appellant ([38], [40]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal with costs, affirming the High Court's decision ([1]). The judgment emphasized that in the absence of express legislative intent for retrospective application, the protections designed for consumers under the National Credit Act should not nullify previously valid agreements. The legal principle established underscores the balance between consumer protection and the rights of creditors, reinforcing that protections cannot retroactively impair existing valid transactions. Thus, the ruling upholds the importance of predictability in contractual relationships while safeguarding consumer rights, aligned with the broader objectives of the National Credit Act ([19], [30], [41]).

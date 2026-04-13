@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+### Case Note: FIRAC Method for *Mahano v Road Accident Fund* [2015] ZASCA 23
+
+#### F – Facts
+The appellants, Malefane Kemuel Mahano, Mmaphuti Grace Kubjana, and Roland Sydney Thomsen, initiated separate claims against the Road Accident Fund (the Fund) for damages sustained in motor vehicle accidents occurring after the enactment of the Road Accident Fund Amendment Act 19 of 2005 ([1]). Central to their claims was the interpretation of regulation 3(1)(b)(iv) of the Road Accident Fund Regulations, which governs the assessment of injuries deemed 'serious' for the purpose of awarding general damages. The appellants contended that without operational guidelines mandated by the Minister of Transport (the second respondent), it was legally impossible to apply the American Medical Association's Guides to the Evaluation of Permanent Impairment (the AMA Guides) in assessing the seriousness of their injuries ([2], [8]). 
+
+The matter was brought to the North Gauteng Division of the High Court, where Judge Kgomo was tasked with answering key questions surrounding the interpretation of this regulation. The High Court dismissed the appellants' claims, holding that the minister was not obliged to publish operational guidelines for the application of the AMA Guides prior to such assessments ([10]). Subsequently, the appellants appealed to the Supreme Court of Appeal ([11]).
+
+#### I – Issues
+1. **Interpretation of Regulation 3(1)(b)(iv)**: Does regulation 3(1)(b)(iv) mandate the Minister to publish operational guidelines for the AMA Guides before they can be applied in assessing whether a claimant's injury qualifies as 'serious' for general damages ([9])?
+  
+2. **Applicability of the AMA Guides**: Can the AMA Guides be applied in the absence of such operational guidelines ([9])?
+
+3. **Compliance Excusal**: Is a claimant excused from compliance with the regulations under the legal maxim *lex non cogit ad impossibilia*, meaning the law does not compel a person to perform acts that are impossible ([9])?
+
+#### R – Rules
+The applicable legal framework includes:
+- **Road Accident Fund Act 56 of 1996**: This Act limits the Fund’s liability to claims for general damages to cases where a ‘serious injury’ has been established, which must be assessed according to a prescribed method ([3]).
+- **Regulation 3(1)(b)(iv)** of the Road Accident Fund Regulations, 2008: This regulation explicitly states that the AMA Guides must be applied by a medical practitioner in accordance with any operational guidelines published by the minister ([1], [4]).
+- **Judicial Precedents**: The judgment in *Road Accident Fund v Duma* [2013] highlights that the determination of 'seriousness' is administrative and not judicial ([6]). Additionally, prior case law, such as *Law Society of South Africa & others v Minister of Transport* [2011], establishes the legislative intent behind the compensation scheme ([2]).
+
+#### A – Application
+The Supreme Court of Appeal, through Meyer AJA, examined the text of regulation 3(1)(b)(iv) closely. The appellants argued for a peremptory interpretation requiring the minister to issue operational guidelines for the AMA Guides to be applicable. They contrasted this with other regulations where the minister had the discretion to issue guidelines ([12]). However, the court found that the language used in regulation 3(1)(b)(iv), specifically the phrase “if any,” suggests that the minister's publication of operational guidelines is discretionary and does not preclude the application of the AMA Guides in their absence ([13]).
+
+The court applied statutory interpretation principles, contending that an interpretation favoring the plaintiffs would create an absurd situation wherein the AMA Guides could not be utilized until guidelines were published, potentially delaying claims indefinitely. The interpretation proposed by the appellants was deemed linguistically and contextually untenable since it implied a necessary condition for applying the AMA Guides, something that regulation’s mere wording did not support ([14], [16], [18]). 
+
+The court also rejected the applicability of the maxim *lex non cogit ad impossibilia*, asserting that the existing framework allowed for reasonable interpretations and does not exempt claimants from compliance with the regulations ([9], [18]).
+
+#### C – Conclusion
+The Supreme Court of Appeal upheld the High Court’s ruling, determining that the absence of operational guidelines did not preclude the application of the AMA Guides in assessing the seriousness of injuries. Consequently, the appeal was dismissed with costs, reflecting the court's disapproval of the appellants' interpretations, which were characterized as opportunistic attempts to circumvent established regulatory requirements ([19]). The judicial ruling reinforces the necessity for legislative adherence while clarifying the administrative aspects of assessing claims under the Road Accident Fund framework.
+
+#### References
+- *Mahano v Road Accident Fund* [2015] ZASCA 23
+- *Road Accident Fund v Duma* [2013] 6 SA 9 (SCA)
+- *Law Society of South Africa & others v Minister of Transport* [2011] 1 SA 400 (CC)
+- Natal Joint Municipal Pension Fund v Endumeni Municipality [2012] 4 SA 593 (SCA)
+- Bothma-Batho Transport (Edms) Bpk v S Bothma & Seun Transport (Edms) Bpk [2014] 2 SA 494 (SCA) 

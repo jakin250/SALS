@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: Mostert and Others v Nash and Another (604/2017 and 597/2017) [2018] ZASCA 62
+
+## FIRAC Method
+
+### F – Facts
+
+On April 20, 2006, the Sable Industries Pension Fund (the "Sable Fund") was placed under provisional curatorship by the Gauteng Division of the High Court at the request of the Executive Officer of the Financial Services Board ([1]). Mr. Antony Louis Mostert ("Mostert") was appointed as the provisional curator, with an order indicating that he would receive remuneration in line with the norms of the attorneys' profession, to be agreed upon with the Executive Officer of the Financial Services Board (the "FSB") ([2]). On June 6, 2006, this provisional order was confirmed.
+
+Mostert subsequently entered into an agreement with the FSB to receive remuneration based on a percentage of the amounts recovered on behalf of the Sable Fund ([12]). This fee arrangement faced legal challenge by Mr. Simon Nash and his company, Midmacor Industries Ltd, as they argued that it was not compliant with established standards of the attorneys' profession ([3]).
+
+In the background, the Sable Fund had been left with an actuarial surplus of approximately R36 million but was soon rendered an 'empty shell' following arrangements associated with Mostert and others that appeared designed to 'unlock' this surplus for the benefit of the employers ([6], [11]). Mostert alleged that these arrangements were fraudulent, leading to criminal prosecutions against Nash and others, but the merits of these claims were irrelevant for this case as the court sought to resolve the lawfulness of the curator's fee arrangement ([6][7]).
+
+The crux of the appellate proceedings revolved around whether the fee agreement constituted administrative action subject to review under the Promotion of Administrative Justice Act 3 of 2000 ("PAJA") and whether it violated public policy or the provisions of the Contingency Fees Act 66 of 1997 ([18][28]).
+
+### I – Issues
+
+1. **Lawfulness of the Fee Agreement**: Is the fee agreement between Mostert and the FSB compliant with paragraph 9 of the order appointing Mostert as curator and the norms of the attorneys' profession?
+   
+2. **Standing**: Do Nash and Midmacor have the locus standi to challenge the fee agreement?
+   
+3. **Application of PAJA**: Does the conclusion of the fee agreement constitute administrative action under PAJA, thus necessitating adherence to its review processes?
+   
+4. **Delay in Proceedings**: Is the application to set aside the fee agreement barred by the delay rule established under PAJA?
+
+### R – Rules
+
+1. **Norms of the Attorneys’ Profession**: Legal practitioners' remuneration must generally adhere to established professional standards, which traditionally do not encompass percentage-based fees for services rendered in a non-litigious context ([46], [50]).
+
+2. **Contingency Fees Act**: Under the CFA, attorneys may charge contingency fees under specified circumstances only for litigious matters. Arrangements deviating from this framework, particularly those relating to non-litigious work, could be deemed unlawful ([54], [68]).
+
+3. **PAJA Provisions**: The PAJA provides a framework through which administrative decisions are subject to review, stipulating that such challenges must be brought within 180 days of awareness of the purported unlawful action ([28], [26]).
+
+4. **Locus Standi**: Under section 38 of the Constitution, an expansive approach to standing permits individuals to claim in "own interest," particularly if they show that the outcome directly impacts their interests ([20]).
+
+### A – Application
+
+**Fee Agreement**: The court first evaluated whether the fee agreement complied with the requirements set by the curatorship order ([45][76]). The court found that the remuneration was not structured in accordance with the norms established for attorneys, focusing on the inadequacy of percentage-based remuneration in non-litigious contexts ([58], [74]). It determined that Mostert's fee agreement violated paragraph 9 as it did not reflect the norm of charging by time or a similar accepted standard ([75]).
+
+**Standing**: The court ruled that Nash and Midmacor had standing based on their direct interests as former members and principal employers associated with the Sable Fund, particularly as beneficiaries of any potential surpluses recovered ([21]).
+
+**Application of PAJA**: The court deliberated on whether the fee arrangement constituted administrative action per PAJA. While argued that it did, the judgment ultimately relied upon the conclusion that the fee agreement itself breached the terms of the curatorship order, thus undercutting its validity and not necessitating further review under PAJA ([28]).
+
+**Delay**: Notably, although Mr. Nash became aware of the fee agreement before formally initiating the challenge, the court chose not to strictly apply the delay provisions of PAJA. It acknowledged the broader public interest in determining the lawfulness of the fee agreements, particularly given the significant amounts potentially at stake for the pensioners ([26][44]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal (SCA) concluded that the High Court correctly identified the fee agreement as unenforceable under the norms of the attorneys' profession; however, the appeal was only partially successful ([81]). The court upheld the invalidity of the fee arrangement while clarifying that this does not preclude Mostert and the FSB from negotiating a new, reasonable remuneration agreement compliant with professional norms ([80], [76]).
+
+The SCA thus issued a nuanced ruling that impacts both the interpretation of curator remuneration agreements and the scope of applicable public policy concerns. While the ruling underscored the necessity for ethical compliance within legal remuneration discussions, it also affirmed the importance of transparency in dealings involving public fiduciaries such as curators ([80][78]).
+
+This case illuminates crucial aspects of pension fund governance, particularly regarding the protections afforded to fund participants against potential misappropriation facilitated through improperly structured fee agreements. As such, it serves as a reference point for future curators and regulatory frameworks surrounding pension fund management in South Africa.

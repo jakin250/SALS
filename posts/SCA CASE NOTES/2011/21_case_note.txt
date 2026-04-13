@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note
+
+**Case Title**: Aeronexus (Pty) Ltd v Firstrand Bank Ltd t/a Wesbank  
+**Neutral Citation**: Aeronexus v Firstrand Bank Limited (249/2010) [2011] ZASCA 21 (17 March 2011)  
+**Court**: The Supreme Court of Appeal of South Africa  
+**Coram**: Lewis, Maya, and Seriti JJA  
+**Date Heard**: 28 February 2011  
+**Date Delivered**: 17 March 2011  
+
+## F – Facts
+
+The case involves a dispute between Aeronexus (Pty) Ltd (hereinafter "Aeronexus"), an aircraft maintenance and repair company, and Firstrand Bank Ltd t/a Wesbank (hereinafter "the Bank"). The background centers on a written agreement between Aeronexus and Million Air Charter Ltd ("Million Air") for the maintenance of aircraft owned by the Bank, which began on 1 June 2001 and was to continue indefinitely. By 29 February 2004, Million Air was unable to pay R1,916,395.56 owed for services rendered, and subsequently entered liquidation ([para 2-3]).
+
+To facilitate the release of the aircraft, the Bank issued a bank guarantee on 12 March 2004, pledging R1,959,240.30 contingent on Aeronexus successfully instituting legal action against the Bank regarding its liens over certain aircraft and an engine. Following this, on 30 April 2004, Aeronexus issued a summons against the Bank, claiming the aforementioned amount for services rendered and goods sold to Million Air ([para 4-5]).
+
+The Bank filed a notice of intention to defend on 12 May 2004 but did not engage further until around three years later when Aeronexus filed a detailed declaration that included a reference to the bank guarantee, albeit for a reduced amount. The Bank raised a special plea asserting that the amended claim arose from a different debt, alleging that it was based on the guarantee rather than the initial agreement for services ([para 6-8]). 
+
+The South Gauteng High Court upheld the Bank’s plea, determining that the original summons did not interrupt the prescription (the statute of limitations), as the debts mentioned were not the same or substantially the same ([para 9]). Aeronexus subsequently appealed this decision ([para 10]).
+
+## I – Issues
+
+The crux of the appeal revolves around whether the original summons interrupted the prescription period under the Prescription Act 68 of 1969, particularly in relation to the interpretation of "debt" as it pertains to the claims made by Aeronexus ([para 10]).
+
+Specifically, the questions identified include:
+
+1. Did the debt claimed in the amended summons align sufficiently with the debt claimed in the original summons to qualify for interruption of prescription under s 15(1) of the Prescription Act?
+2. Did the original summons sufficiently identify the debt in a manner that satisfied the legal requirements necessary to halt the running of prescription? ([para 12])
+
+## R – Rules
+
+The relevant legal framework is primarily contained within the Prescription Act 68 of 1969, which outlines the terms under which a debt may be extinguished by prescription. This includes critical provisions:
+
+- **Section 10(1)**: A debt is extinguished by prescription after a specified period, typically three years.
+- **Section 11(d)**: Establishes a three-year prescription period for debts.
+- **Section 12(1)**: Indicates that prescription begins once a debt becomes due.
+- **Section 15(1)**: States that the running of prescription can be interrupted by serving legal process claiming payment of the debt ([para 12]).
+
+Judicial precedents also inform the interpretation of "debt" and its capacity to be interrupted via legal processes. Courts have historically defined "debt" in a broad sense that includes actionable claims rather than strictly technical definitions of "cause of action" ([para 13]).
+
+## A – Application
+
+The court undertook a detailed analysis of the allegations in the original summons compared to those in the amended summons to determine whether the claims could be considered the same or substantially the same ([para 14]). 
+
+While the original summons was deemed defective for failing to reference the bank guarantee specifically, the court indicated that this defect did not nullify Aeronexus's claim for the debt itself, which remained focused on the same underlying services rendered ([para 16]). The original claim pertained to payment for services related to the aircraft maintenance, the same debt originally asserted in the subsequent amended summons. Furthermore, the court emphasized the importance of identifying the substance of a claim rather than focusing solely on the form ([para 15]).
+
+The court ultimately found that the relief claimed in both versions of the summons was aligned enough to permit an interruption of the prescription period, thereby rejecting the Bank's argument that the original summons failed to meet legal standards for interrupting prescription ([para 16]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded that the original summons was adequate to interrupt the running of prescription as both versions of the summons sought to enforce the same underlying debt, albeit articulated through different legal bases over time. Thus, the special plea raised by the Bank was dismissed with costs, and judgment was granted to Aeronexus for the full amount claimed, along with interest from the date the South Gauteng High Court judgment was delivered ([para 18]).
+
+This ruling emphasizes the importance of substance over form in prescription-related claims and clarifies the interpretation of "debt" within the framework of the Prescription Act. It has significant implications for how debts and claims can be articulated within legal documents to ensure they remain enforceable by interrupting prescription periods effectively.

@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2002
+
+# FIRAC Case Note: Seven-Eleven Corporation SA (Pty) Ltd v Simelane NO and Others
+
+### F - Facts
+The appeal centered on a review application against a decision by the Competition Commission ("the Commission") to refer complaints against Seven-Eleven Corporation SA (Pty) Ltd ("Seven-Eleven") to the Competition Tribunal ("the Tribunal") for alleged prohibited practices under the Competition Act 89 of 1998 ("the Act"). The case evolved from a successful review application in the High Court, where Van der Merwe J ruled in favor of Seven-Eleven ([1]). The Appeal Court's ruling was predicated on the operational dynamics of the Commission and the Tribunal, which both function under the Act.
+
+Seven-Eleven, represented by its managing director George Hadjidakis, faced allegations from franchisees, including claims of price fixing, forced purchases, and restrictive agreements ([9]). The Commission's investigation commenced after complaints were lodged in late 1999, leading to a referral to the Tribunal in 2000. Crucially, the Commission did not formally cite itself in the legal process; instead, it was represented by its officials: Simelane (Commissioner), Burger (Deputy Commissioner), Ntsaluba (investigator), and Pretorius (advocate) ([1], [2]).
+
+The complaints led the Commission to appoint an inspector for investigation, during which Hadjidakis attended a meeting where he expressed dissatisfaction with the investigative process ([7]). He later alleged that the meeting devolved into a combative interrogation, a claim disputed by the Commission ([26]). After the referral to the Tribunal, Seven-Eleven initiated legal proceedings against the Commission, stating various grievances, including denial of fair hearing and bias, which the High Court acknowledged ([42]).
+
+### I - Issues
+The primary legal issues before the Court of Appeal included:
+1. Whether the Commission’s actions constituted administrative decisions subject to judicial review ([15]).
+2. The interpretation of the Commission's investigative vs. adjudicative functions within the framework of the Act ([11], [12]).
+3. Whether the Commission violated the audi alteram partem (right to a fair hearing) and could be deemed biased ([15], [22], [33]).
+
+### R - Rules
+The legal principles relevant to this case stem from the interpretation of the Competition Act and the functions of its governing bodies:
+- Sections 4 to 9 of the Act delineate prohibited practices ([9]).
+- Section 21 outlines the Commission's responsibilities for investigating and evaluating complaints.
+- Section 27 endows the Tribunal with authority to adjudicate on alleged contraventions ([13]).
+- The case of *Brenco* ([16]) provided context on administrative actions, asserting that the nature of the Commission's investigative role does not require adherence to stringent rules of natural justice unless it engages in determinative actions.
+- The rule in *Plascon-Evans Paints Ltd v Van Riebeeck Paints (Pty) Ltd* asserted that facts presented by the applicant, which are admitted by the respondent, must guide the decision-making process ([10]).
+
+### A - Application
+The Court examined the Commission's dual role within the competition framework, asserting that its function is primarily investigative, unlike the Tribunal’s adjudicative role, where natural justice prevails ([56]). The Appellants contended that the Commission's referral constituted an administrative decision and therefore warranted review. However, the Court stressed that the referral did not carry consequential judgments that would invoke reviewability under administrative law, resonating with the findings from the *Brenco* case ([17]).
+
+In addressing Seven-Eleven's claims of inadequate investigation, the Court noted that the Commission's role did not hinge on public opinion but on statutory duties to probe a range of complaints. The assertion that the Commission had acted with bias or ulterior motives was dismissed, emphasizing that such allegations did not infringe upon any rights, especially in light of the adversarial nature of the Commission's role akin to that of a prosecutor ([34], [36]).
+
+The application of the audi rule was further examined, where the Court found that Hadjidakis had indeed been granted a fair opportunity to engage with the Commission. His complaints about feeling ambushed and unrepresented were rendered insufficient given the context, where he had the discretion to choose legal counsel but opted out ([23], [30]).
+
+### C - Conclusion
+The Supreme Court of Appeal concluded that the review application brought forth by Seven-Eleven was without merit. The Court ruled in favor of the Commission, emphasizing the investigative nature of its functions and reaffirming that the referral to the Tribunal did not constitute an administrative decision subject to traditional review processes ([42]). The Court allowed the appeal with costs, thereby reinforcing the framework established by the Competition Act regarding the separation of powers between the Commission and the Tribunal. The decision has significant implications for the enforcement capabilities of the Commission, clarifying its role as an investigator rather than an adjudicator, thus shaping future proceedings under competition law in South Africa.

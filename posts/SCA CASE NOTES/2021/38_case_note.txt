@@ -1,0 +1,67 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: MT Pretty Scene: Galsworthy Ltd v Pretty Scene Shipping S.A. and Another (Case No. 684/19) [2021] ZASCA 38
+
+## FIRAC Case Note
+
+---
+
+### F – Facts
+In this case, the appellant, Galsworthy Limited (Galsworthy), entered into a time charter party with Parakou Shipping PTE Ltd (Parakou) for the MV Canton Trader (renamed Jin Kang) on 18 June 2007. The charter was for a minimum of 60 months and was structured around a back-to-back agreement with another entity, Ocean Glory. Following the 2008 financial crisis, Ocean Glory went into liquidation, adversely affecting Parakou's operations, leading to its refusal to take delivery of the Jin Kang, which invoked arbitration proceedings initiated by Galsworthy ([1]–[2]).
+
+Arbitrators ultimately found Parakou in repudiatory breach of the charter, issuing two arbitration awards favoring Galsworthy: the first for US$2,673,279.15 and the second for US$38,579,000 plus interest and costs ([2]). On 18 June 2016, Galsworthy arrested the MT Pretty Scene as an associated ship of the Jin Kang. The owner of the Pretty Scene, Pretty Scene Shipping S.A. (PSS), subsequently applied to set aside the arrest, which was initially successful. However, Galsworthy executed a second arrest on 28 October 2016 in anticipation of an unfavorable judgment, leading to further litigation regarding the legality and justifiability of these actions ([3]–[4]).
+
+---
+
+### I – Issues
+The case presented several legal issues:
+
+1. Whether a procedural defect in the summons justified the setting aside of a warrant of arrest.
+  
+2. The significance of the provisions of sections 3(6) and (7) of the Admiralty Jurisdiction Regulation Act 105 of 1983 (AJRA) regarding ship association and ownership during the claim ([5]).
+
+3. The applicability of the legal concept of mootness given the sale of the Pretty Scene and distribution of proceeds ([6]).
+
+4. Whether a second arrest for the same claim was permissible under section 3(8) of the AJRA ([6]).
+
+---
+
+### R – Rules
+Key rules and legal precedents relevant to the court's decision included:
+
+1. **Admiralty Jurisdiction Regulation Act 105 of 1983 (AJRA)**: Particularly sections 3(6) and (7), which pertain to the definition of associated ships and the ownership implications in maritime claims ([6]).
+
+2. **Admiralty Rule 4 and Practice Directive 27**: These guidelines delineate the procedural requirements for issuing a warrant of arrest and the expectations for a summons to provide a clear and concise statement of the claim ([5]).
+
+3. **Judicial Precedents**: Prior judgments (notably *The Galaecia*, *Mediterranean Shipping Co. v. Speedwell Shipping Co Ltd*, and *MV Cape Courage*) that examined issues of procedural validity and the interpretation of associated ship statutes under the AJRA ([20]-[26]).
+
+---
+
+### A – Application
+The court analyzed the proceedings meticulously, addressing each issue stated above:
+
+1. **Procedural Deficiency**: The court ruled that procedural defects in the summons could not invalidate the warrant of arrest. The assumptions weighing heavily on whether the summons and warrant were linked operationally misconstrued the applicable maritime law, particularly regarding ex parte arrest proceedings ([10]–[14]).
+
+2. **Association of Ships**: An examination of sections 3(6) and (7) concluded that the charterer, by virtue of these provisions, is deemed the owner concerning relevant claims. Thus, even if Parakou was no longer the charterer at the time of the claims, the statute dictates that they could still be seen as the owner under the legislative framework ([56]–[70]).
+
+3. **Mootness**: The court dismissed PSS's mootness argument, ruling that despite the sale of the ship, there were still relevant issues concerning the security order for wrongful arrest that needed to be resolved to clarify maritime procedural law ([5]–[6]).
+
+4. **Second Arrest**: It was determined that an "anticipatory" second arrest in the event of an adverse judgment from the first arrest did not constitute an abuse of process and was legally permissible under the maritime law, contrary to PSS's argument claiming it was vexatious ([81]–[84]).
+
+---
+
+### C – Conclusion
+The Supreme Court of Appeal concluded by upholding Galsworthy's appeal. It determined that the lower courts erred in dismissing the validity of the first arrest and in applying the statutory provisions of the AJRA, especially related to associated ships and procedural requirements. The implications of this ruling are significant for maritime law practitioners and reinforce the permissibility of subsequent arrest attempts when justified under the relevant maritime statutes. 
+
+The court ordered that the previous rulings regarding both arrests be set aside, thus reinstating the first arrest's validity and reiterating the principles surrounding associated ship definitions under the AJRA, with attention to maritime procedural efficiency ([97]).
+
+--- 
+
+**References**:  
+- AJRA 1983  
+- *Mediterranean Shipping Co v Speedwell Shipping Co Ltd and Another* 1986 (4) SA 329 (D)  
+- *The Galaecia*: Vidal Armadores SA v Thalass Export Co Ltd SCOSA D 252 (D)  
+- *MV Cape Courage: Bulkship Union SA v Quannas Shipping Co Ltd and Another* [2009] ZASCA 74  
+
+This structured FIRAC analysis presents the legal context and intricate procedural implications of the case for future reference in legal practice and academia.

@@ -1,0 +1,46 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: University of Stellenbosch Legal Aid Clinic and Others v Minister of Justice and Correctional Services and Others
+
+**Court:** Constitutional Court of South Africa  
+**Neutral Citation:** University of Stellenbosch Legal Aid Clinic and Others v Minister of Justice and Correctional Services and Others; Association of Debt Recovery Agents NPC v University of Stellenbosch Legal Aid Clinic and Others; Mavava Trading 279 (Pty) Ltd and Others [2016] ZACC 32  
+**Date Heard:** 3 March 2016  
+**Date Decided:** 13 September 2016  
+**Coram:** Mogoeng CJ, Moseneke DCJ, Bosielo AJ, Cameron J, Froneman J, Jafta J, Khampepe J, Madlanga J, Mhlantla J, Nkabinde J, Zondo J  
+
+## FIRAC Method
+
+### F - Facts
+The case revolves around the constitutional validity of certain provisions in the **Magistrates’ Courts Act, 1944**, particularly section 65J, which governs emoluments attachment orders (EAOs) ([42]–[60]). The central applicants include the **University of Stellenbosch Legal Aid Clinic**, a body aiding low-income individuals, along with numerous applicants who had EAOs against their wages without sufficient judicial oversight. The core issues stem from unfair practices by credit providers, where individuals often consented under duress, leading to EAOs being granted by clerks of the court rather than through thorough court oversight. The government, represented by the Minister of Justice, was challenged over the legality of these actions ([1]–[4])[1].
+
+### I - Issues
+The questions before the Court were:
+1. Whether the High Court's declaration of the unconstitutionality of section 65J(2) should be confirmed.
+2. Whether a judgment debtor may consent to jurisdiction outside their area of residence or employment for the service of EAOs without prior judicial oversight ([68]–[71]).
+
+### R - Rules
+The key legal principles stem from section **34 of the Constitution**, which guarantees the right to a fair hearing. The Court assessed previous jurisprudence emphasizing the need for judicial oversight in execution processes, especially considering the vulnerable socioeconomic status of the applicants ([9]).
+
+**Magistrates’ Courts Act, 1944:**
+- **Section 65J(1):** Defines who may issue EAOs and outlines the process.
+- **Section 65J(2)(a):** Indicates the conditions that must be fulfilled for EAOs, including written consent from the debtor or court authorization.
+- **Relevant Case Laws:** Chief Lesapo, Jaftha, and Gundwana reinforced the principles of judicial oversight ([63]–[64], [67]).
+
+### A - Application
+Cameron J's and Zondo J's judgments highlighted the lack of judicial oversight in current practices under section 65J when EAOs were granted. The Court found that while the act allowed for the clerk of the court to issue EAOs without a transparent judicial process, this directly contravened constitutional mandates for fair trials ([84]–[93]). The Court also noted substantial issues with fraud and misrepresentation surrounding the issuance of these orders, which were often based on false consent or forged documents ([44]–[50]).
+
+Therefore, the Court ruled that section 65J(2), as it related to the clerk's ability to issue EAOs, did not satisfy the requirements of judicial oversight, leading to its declaration of unconstitutionality. The ruling emphasized the need for a meaningful evaluation protecting the rights of indigent debtors ([128]–[151]).
+
+### C - Conclusion
+The Court dismissed the appeals, asserting that the contested provisions were unconstitutional. It ordered that any issuing of EAOs must be conducted under judicial oversight and clearly articulated amendments were made to the relevant sections of the Magistrates’ Courts Act to ensure future compliance with constitutional mandates. The Court’s decision aimed to provide immediate and lasting protection for debtors against potentially exploitative credit practices ([212]).
+
+---
+### References
+1. University of Stellenbosch Legal Aid Clinic v Minister of Justice and Correctional Services and Others [2016] ZACC 32.
+2. Constitution of the Republic of South Africa, section 34.
+3. Chief Lesapo v North West Agricultural Bank and Another [1999] ZACC 16.
+4. Jaftha v Schoeman and Others, Van Rooyen v Stoltz and Others [2004] ZACC 25.
+5. Gundwana v Steko Development CC and Others [2011] ZACC 14.
+
+This detailed FIRAC case note serves to encapsulate the essential components of the court's findings and the broader implications for South African civil rights, particularly focusing on the interplay between judicial oversight and consumer protection.

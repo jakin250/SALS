@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2004
+
+# Case Note: Farocean Marine (Pty) Ltd v Malacca Holdings Ltd & Others
+
+## FIRAC Case Note
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–6])
+The appellants, Farocean Marine (Pty) Ltd ("Farocean"), are yacht and shipbuilders based in Cape Town. The respondents are both peregrini; Malacca Holdings Limited ("Malacca") is a company incorporated in the Cayman Islands, and Earl Romans, a U.S. citizen, is Malacca's sole shareholder. 
+
+On 4 November 2002, Farocean obtained an ex parte order from the High Court of Cape Town to attach the motor yacht Summit One, along with associated equipment, to found or confirm the jurisdiction of the court over a proposed action against the respondents as alternative defendants. This attachment was sought under Section 5(1) of the Admiralty Jurisdiction Regulation Act 105 of 1983 (the "Act"). 
+
+Initially, the order was opposed only by Romans, but was later contested by Malacca as well. The High Court dismissed Farocean's application with costs, a decision which prompted Farocean to appeal with the leave of the court a quo ([para 1]).
+
+The underpinning of Farocean's claim was a letter dated 26 March 2001 from Farocean's managing director, Jendo Ocenasek, to Romans, which served as an interim contract for the refurbishment of the vessel. Despite the lack of a formal contract, Farocean commenced work based on verbal instructions from Romans. Disputes over payments led to the arrest of the vessel for an outstanding debt, but payments were later made, prompting Farocean to continue work. Finally, an assertion emerged from a plea filed by Romans in September 2002, stating that the vessel was owned by Malacca, causing confusion regarding the true contracting party ([paras 2–4]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 10–12])
+The key legal issue centers around whether Farocean could successfully attach the vessel to establish jurisdiction based on its claims against the respondents. More specifically, this includes:
+
+1. Whether Farocean had established a prima facie case against either or both respondents sufficient to justify the order of attachment.
+2. Whether joinder of Romans as an alternative defendant was permissible under Section 5(1) of the Act given that he was not otherwise amenable to the jurisdiction of the court.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 10–12])
+The legal framework governing this case is primarily derived from the Admiralty Jurisdiction Regulation Act 105 of 1983. Key provisions include:
+
+- **Section 3(2)**: Allows an action in personam against a peregrine only if their property is attached within the court’s jurisdiction to establish jurisdiction.
+- **Section 5(1)**: Grants courts the authority to permit the joinder of any person against whom a claiming party has a claim and who is not otherwise subject to the court's jurisdiction.
+
+The case also references precedent from **Lendalease Finance (Pty) Limited v Corporacion De Mercadeo Agricola and others** ([1976] 4 SA 464) which outlines the need for a prima facie case on a balance of probabilities ([par 10]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 11–19])
+In applying these rules, the court analyzed whether Farocean provided sufficient evidence to support a claim against the respondents. The court determined that Farocean could still pursue a claim against Malacca based on the documents presented, establishing that Malacca was indeed the owner of the vessel. The court held that it was permissible for Farocean to assert its claim against both defendants since the allegations stated that the contracting party might have been either Romans or Malacca ([para 12]).
+
+Farocean's attempt to establish a prima facie case was bolstered by the acknowledgement from the respondents that Malacca owned the vessel and acted through Romans. The court found that the claims were mutually destructive; thus, relying on allegations in earlier pleadings established a prima facie case sufficient to justify the attachment ([paras 12–16]).
+
+On the issue of joinder, the court referenced the permissive nature of the language in Section 5(1), noting that the legislature's intent was to facilitate the inclusion of all relevant parties in maritime disputes. As such, it concluded that Romans could be joined as an alternative defendant, given his relationship with Malacca and the nature of Farocean's claim ([paras 17–19]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([para 19])
+The Supreme Court of Appeal upheld Farocean's appeal, overturning the previous court’s ruling. It authorized the attachment of the vessel Summit One to confirm the court's jurisdiction in regards to claims against Malacca and permitted the joinder of Romans as an alternative defendant ([para 19]). 
+
+The decision underscores the court's interpretation of the Admiralty Jurisdiction Regulation Act, emphasizing the flexibility offered to pursue claims in admiralty proceedings when at least a prima facie case is evident. This ruling has significant implications for maritime law in South Africa, as it clarifies the standards for attaching property to establish jurisdiction and the process for joining alternative defendants, potentially aiding in the avoidance of separate litigations across different jurisdictions and ensuring that relevant parties to a maritime dispute may be fully accountable in a unified setting. 
+
+In light of the court's interpretation, parties in similar disputes must remain cognizant of the importance of establishing clear evidential bases for contracts and ownership claims, as well as the avenues available for ensuring proper jurisdictional reach in maritime claims.

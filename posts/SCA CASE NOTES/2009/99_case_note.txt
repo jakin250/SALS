@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+## Case Note: Mia v Verimark Holdings (Pty) Ltd (522/08) [2009] ZASCA 99
+
+### F – Facts 
+The appellant, Sayed Hoosen Mia, and the respondent, Verimark Holdings (Pty) Ltd, entered into a contractual agreement on July 2, 2002, concerning the purchase of immovable property in Sandton, valued at R13.5 million. The transaction was contingent upon the provision of a suitable, unconditional, and irrevocable bank guarantee within seven days of signing the agreement; failure to provide this guarantee would render the contract void ([para 2]). 
+
+It was undisputed that Mia did not furnish the guarantee by the deadline of July 10, 2002, leading to the contract falling away. Verimark did not allege that Mia's failure resulted from any fault on his part. Nevertheless, Verimark successfully claimed damages against Mia, amounting to R13,160 for costs incurred in drafting the agreement, and R2,248,964.49 for various costs attributed to the delay in moving to new premises. The Johannesburg High Court ruled in favor of Verimark. Mia was granted leave to appeal to the Supreme Court of Appeal ([paras 2–3]).
+
+### I – Issues
+The main issues of law concerned whether:
+1. **Verimark could successfully prove a claim for damages** based on the contractual agreement despite the court's recognition of the suspensive condition.
+2. **The scope of 'damages' as referred to** in the contractual clause, particularly in determining whether the claimed costs could be classified as recoverable damages, either as general or special damages ([paras 6, 12]).
+
+### R – Rules
+The court discussed the legal principles surrounding suspensive conditions in contracts:
+- Generally, if a suspensive condition is not satisfied, the contract falls away and no damages may be claimed unless one party has caused the non-fulfillment (Macduff & Co Ltd (in liquidation) v Johannesburg Consolidated Investment Co Ltd 1924 AD 573 at 590-591) ([para 1]).
+- Fundamental rules of contractual interpretation apply, guiding how to ascertain the meaning of phrases such as ‘any other damages suffered’ ([para 7]).
+- Special damages must stem from a breach that was within the contemplation of the parties at the time of the contract (Shatz Investments (Pty) Ltd v Kalovyrnas 1976 (2) SA 545 (A)) ([para 18]).
+
+### A – Application
+The court analyzed the claims made by Verimark. The initial claim for R13,160 was conceded and deemed settled, and the focus remained on the second claim of R2,248,964.49 ([para 3]).
+
+Verimark's argument hinged on the contention that Mia’s failure to provide the guarantee constituted a breach of contract, thus invoking a claim for damages as outlined in clause 7.3 of their agreement. However, the court found that acceptance of this interpretation would necessitate whether the supposed damages were foreseeable and arose naturally from the breach. 
+
+The alleged damages included interest on a mortgage, security costs, maintenance costs, and additional rental expenses. The court reasoned that these claims did not flow naturally from the contract's failure, as the damages claimed would have occurred whether or not the contract was in effect ([paras 12–14]) and thus were too remote for recovery. 
+
+The court also evaluated the concept of special damages but found insufficient evidence to support that such damages were contemplated by both parties when they entered into the contract ([paras 15–18]). The absence of conveyed special circumstances left Verimark with no viable claim.
+
+In addition, the court encountered a shift in Verimark's argumentation regarding the contract at appeal, positing a breach of contract rather than merely the invocation of the clause regarding the suspensive condition. This point of law confused the nature of damages sought and undermined the coherence of Verimark's claims ([para 8, 10]).
+
+### C – Conclusion
+Ultimately, the Supreme Court of Appeal upheld Mia’s appeal, finding that the judgment in favor of Verimark should be set aside. The court concluded that Verimark had not proven its entitlement to the claimed damages satisfactorily, declaring them either too remote or not within the parties' contemplation when the agreement was formed ([para 19]). 
+
+This ruling signifies an important clarification in contractual relationships regarding suspensive conditions and the contours of recoverable damages, establishing that parties must have anticipatory awareness of potential damages for these to be enforceable. The outcome not only reinstated a favorable position for Mia but also highlighted the burden on claimants to substantiate allegations of damages with compelling evidence, ensuring the enforcement of sound contractual principles.

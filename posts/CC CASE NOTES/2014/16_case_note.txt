@@ -1,0 +1,39 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2014
+
+# Case Note: Cool Ideas 1186 CC v Hubbard and Another [2014] ZACC 16
+
+## FIRAC Method
+
+### F – Facts
+In the case of **Cool Ideas 1186 CC v Hubbard and Another** ([1]–[5]), the applicant, Cool Ideas, is a close corporation engaged in property development. The respondent, Anne Christine Hubbard, is a homeowner with whom Cool Ideas entered into a building contract on 13 February 2006, valued at R2,695,600. At the time the contract was signed, Cool Ideas was not registered as a home builder under the Housing Consumers Protection Measures Act 95 of 1998 (the Housing Protection Act), while its subcontractor, Velvori Construction CC, was registered.
+
+Following the completion of the construction, Hubbard raised concerns about the quality of the work and refused to make the final payment of approximately R1,200,000, instead claiming R550,000 for remedial works. In response, she initiated arbitration proceedings based on the arbitration clause in the contract. The arbitrator ruled in favor of Cool Ideas, awarding them the outstanding balance. However, Hubbard contended that Cool Ideas was not entitled to enforce this award in court due to its lack of registration as a home builder, invoking section 10(1)(b) of the Housing Protection Act, which prohibits unregistered builders from receiving consideration for work.
+
+Cool Ideas applied to the High Court to have the arbitration award made an order of court, but the High Court accepted Hubbard's argument, leading to an appeal in the Supreme Court of Appeal (SCA), which upheld the High Court's decision, leading to an appeal to the Constitutional Court.
+
+### I – Issues
+The legal issues before the Constitutional Court include:
+1. The interpretation of section 10(1)(b) of the Housing Protection Act and its implications for unregistered home builders ([22]).
+2. Whether the failure to register as a home builder constituted arbitrary deprivation of property under section 25 of the Constitution ([24]).
+3. The validity of the building contract despite the prohibitions in the Housing Protection Act ([43]).
+4. The interaction of equity with statutory provisions and whether equity should apply given the circumstances ([52]).
+
+### R – Rules
+The court relied on various legal provisions and precedents:
+
+- **Housing Protection Act 95 of 1998**: Particularly section 10(1), which prohibits unregistered home builders from receiving consideration for their work ([12] and [13]).
+- **Section 25(1) of the Constitution**: This outlines rights against arbitrary deprivation of property ([24]).
+- **Case law**: The court cited its previous decisions such as **Opperman** and **FNB v CSARS**, which framed the parameters for considering property deprivation and arbitrariness in legal statutes ([38] and [40]).
+
+### A – Application
+The Constitutional Court applied a purposive interpretation of the Housing Protection Act, clarifying that its main aim was to protect housing consumers ([29]–[34]). The court established that the prohibition in section 10(1)(b) on unregistered builders receiving consideration was meant to ensure that builders facing sanctions did not gain financially from their illegal actions. 
+
+The Court ruled that the deprivation of Cool Ideas’ right to seek payment was not arbitrary. The registration requirement was seen as a legitimate objective, ensuring consumer protection and maintaining industry standards ([41]–[44]). The Court also highlighted that while the contract remained valid, the specific requirements for registration provided a foundation for denying Cool Ideas recovery for the work done when it was not in compliance at the time of contracting ([47]).
+
+The court further distinguished between the arbitration award’s enforceability and the validity of the underlying contract, emphasizing the relationship between statutory compliance and the ability to seek consideration ([48]).
+
+### C – Conclusion
+The Constitutional Court dismissed the appeal, confirming the SCA's judgment with costs ([64]). The decision upheld the legislative purpose of the Housing Protection Act, affirming the interpretation that non-compliance with registration rules precluded Cool Ideas from receiving payment for construction services rendered, even if the building work was completed and the arbitration process was initiated. This ruling highlights the strict regulatory framework governing home-building contracts in South Africa, reinforcing the importance of statutory compliance in property law. 
+
+This case underlines significant implications for housing consumers and builders alike, exemplifying the balance between consumer protection and the enforcement of contractual obligations within the framework of statutory regulation. The tension between regulating builders and ensuring consumer access to justice remains a critical legal challenge in South Africa's housing market.

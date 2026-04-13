@@ -1,0 +1,23 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: CShell 271 (Pty) Ltd v Oudtshoorn Municipality (2013) [ZASCA 62]
+
+## F - Facts
+The case originates from a procurement process initiated by the Oudtshoorn Municipality, which issued an advertisement in May 2006 seeking tenders for the development of a piece of land, Erf 5366. The tender was awarded to a company "to be formed," referred to as Newco. The tender included specific requirements regarding the shareholders, particularly a requisite black empowerment percentage. CShell 271 (Pty) Ltd (CShell), later incorporated on 31 January 2006, sought to enforce the tender despite significant changes to its shareholder composition over time. Notably, CShell's black empowerment shareholding dropped from 80% at the tender submission to 25% by May 2009. The Municipality canceled the tender award citing that CShell did not meet the original ownership profile or indeed represent the entity that had been awarded the tender. CShell filed an application in the Western Cape High Court to review this cancellation, but the court dismissed the application with costs, ruling that CShell did not possess the necessary locus standi. CShell subsequently sought leave to appeal ([paras 1–5]).
+
+## I - Issues
+The primary legal issue in this case pertains to the locus standi of CShell to challenge the Municipality’s decision to cancel the tender award. Additionally, the case raises questions about the nature and binding effect of the pre-incorporation contract attributed to Newco and whether CShell can claim rights under this contract given the changes in its shareholder composition ([paras 30–31]).
+
+## R - Rules
+The legal principles applicable to the case primarily relate to the enforceability of awards made under pre-incorporation contracts, which require subsequent ratification by the incorporated company. The court relied on precedents concerning tender proceedings, particularly noting that a company not yet in existence cannot enter into binding agreements unless there is a lawful pre-incorporation contract. Citing *Steenkamp NO v Provincial Tender Board, Eastern Cape* 2006 (3) SA 151 (SCA), the court emphasized that a pre-incorporation contract must be ratified post-incorporation, and rights under such contracts do not automatically transfer to entities subsequently formed unless expressly stated ([paras 21, 22, 30]).
+
+## A - Application
+The court evaluated whether CShell's formation and status aligned with the requirements set forth in the tender process. It determined that the award was made to Newco, a distinct entity that was to be formed, based on specific ownership criteria. CShell's substantial alterations to its shareholder composition meant it could not fulfill these criteria. The court noted that Coetzee, who acted on behalf of Newco during the tender application, lacked authority to act for CShell because it was in existence at the time of the submission ([paras 24–27]). The legal understanding emphasized that Coetzee’s actions did not constitute valid ratification of any contractual rights to CShell post-incorporation. Thus, since CShell could not prove it was the intended recipient of rights under the tender, it lacked the standing to seek a review regarding the cancellation ([paras 30–32]).
+
+## C - Conclusion
+The Supreme Court of Appeal upheld the lower court's ruling, concluding that CShell never acquired valid rights under the tender due to its failure to meet the pre-requisite conditions specified in the original bid. The appeal was dismissed with costs, affirming that CShell's assertion of rights was fundamentally flawed because it had failed to comply with the terms of the tender as they were originally framed. The ruling clarified the considerations surrounding contractual obligations concerning tender processes and the requirements for ratification of pre-incorporation contracts. This judgement highlights the importance of adhering to stipulated contractual terms, particularly in the context of public procurement, and reinforces the significance of meeting specified conditions related to entity ownership and profiles in tender submissions ([paras 34]). 
+
+---
+
+Thus, the implications of this ruling extend beyond this case, offering guidance on the enforceability of tender awards and the conditions necessary for entitlement under pre-incorporation engagements in the South African legal context.

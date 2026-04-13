@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# FIRAC Case Note: Tsogo Sun Holdings (Pty) Ltd v Shan [2006] SCA 85 (RSA)
+
+## F – Facts: Relevant background and procedural history ([paras 1–2])
+The appellant, Tsogo Sun Holdings (Pty) Ltd, operates the Montecasino in Fourways, Sandton. The respondent, Mr. Qing-He Shan, was shot in the casino's parking area on 21 June 2001 by the second respondent, Kai Rong Shoa, following an altercation. Prior to the shooting, Shan and his wife entered the casino where his wife engaged in a dispute with Shoa's wife. Shan later confronted Shoa, leading to a physical confrontation outside, where Shoa shot Shan three times. Shan subsequently sought damages from Tsogo for the injuries he sustained, amounting to approximately R560,000, despite Shoa's separate admission of liability under a plea agreement to pay R200,000 as damages.
+
+Initially, the case was heard in the Transvaal Provincial Division, where Tsogo denied liability and joined Shoa as a third-party defendant. Following the court's recognition of Tsogo's liability, the judge granted leave for Tsogo to appeal the decision. Importantly, the court failed to rule on the third-party notice regarding Shoa's involvement.
+
+## I – Issues: Legal or constitutional questions ([paras 5, 7, 11])
+The primary legal issue revolves around Tsogo's duty of care towards its patrons, particularly in relation to the foreseeability of harm by one patron to another. Key questions include: 
+
+1. Did Tsogo owe a duty of care to Shan as a patron, and if so, what was the scope of this duty?
+2. Was there an actionable negligence on Tsogo's part in failing to protect Shan from Shoa, given that the shooting was caused by actions of a third party?
+3. Did the court properly address the elements of wrongfulness, negligence, and causation in determining Tsogo's liability?
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 6, 11, 15])
+The court referenced several vital legal principles, notably from cases that establish the requirements for delictual liability. The standard for negligence, articulated in **Kruger v Coetzee 1966 (2) SA 428 (A)**, emphasizes a defendant's foreseeability of harm and the obligation to take reasonable preventative steps.
+
+Additionally, the court examined the considerations of legal causation in **International Shipping Co (Pty) Ltd v Bentley 1990 (1) SA 680 (A)**, distinguishing between factual causation and legal causation. The former determines if Tsogo's actions were a sine qua non for Shan's injuries, while the latter examines the proximity of Tsogo's conduct to the resulting harm.
+
+The court also referenced public policy considerations, particularly appropriate standards of care and duty towards patrons in a commercial context. Prior judgments such as **Pretoria City Council v de Jager 1997 (2) SA 46 (A)** guided the evaluation of what constitutes "reasonable steps" to ensure patron safety.
+
+## A – Application: Analysis of how the court applied the law ([paras 8–10, 12–16])
+The court critically assessed whether Tsogo had a generalized duty of care, given no policy rationale supported such an expansive duty. It highlighted the lack of a significant connection between Shoa's actions and Tsogo's alleged negligence, emphasizing that the foreseeability of harm was not sufficient to extend liability.
+
+The court found that Tsogo's security measures, including the presence of personnel and surveillance equipment, reflected reasonable steps taken to ensure patron safety. The question of whether Shoa posed a foreseeable threat was deemed irrelevant, as he was recognized by security staff and there was no indication of ill-intent at that time.
+
+Moreover, the appellate court determined that Shan's own actions—inviting Shoa outside for confrontation—were the direct cause of his injuries. The shooting was considered to occur too remotely from Tsogo's omission to search Shoa, making it impossible to establish a direct causal link between the failure to search and the shooting incident. 
+
+Tsogo's obligation was characterized as not extending to the prevention of harm from a third-party act, noting the need for a nuanced understanding of "delictual liability" beyond mere physical safety within a public premise.
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 17])
+The Supreme Court of Appeal upheld Tsogo's appeal, concluding that it did not bear a legal duty to protect Shan from harm caused by another patron under the circumstances. The findings revealed that establishing negligence was inappropriate given the evidence of Tsogo’s security protocols and the lack of foreseeability regarding the shooting.
+
+The court ordered "absolution from the instance with costs," effectively removing Tsogo's liability for Shan's injuries—marking a significant stance on the limits of patron protection in commercial settings. This decision underscores the necessity for courts to balance the obligations of property owners and occupiers against overarching public policy and practical implications of holding such parties liable for the wrongful acts of independent third parties, thereby delineating the outer limits of vicarious liability in South African delict law.
+
+The ruling effectively reinforces the principle that mere foreseeability of harm does not increase the ambit of duty owed, carving out a firmer boundary around potential liability for injuries suffered in a public venue due to the actions of third parties. This case could guide future disputes in similar contexts, influencing both statutory interpretation and judicial approaches to negligence claims against property owners in commercial enterprises.

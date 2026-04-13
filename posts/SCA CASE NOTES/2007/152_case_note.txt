@@ -1,0 +1,30 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# FIRAC Case Note: **Body Corporate of Greenacres v Greenacres Unit 17 CC** [2007] SCA 152 (RSA)
+
+### F – Facts
+The appellant, Body Corporate of Greenacres, operates under the Sectional Titles Act 95 of 1986, as established in section 36. It serves as the managing body for a sectional title scheme, while the first respondent, Greenacres Unit 17 CC, owns one of the units within this scheme. The appellant sought to claim dues for levies and electricity charges owed by the owner. The owner contested this claim, asserting that they had carried out necessary maintenance work on the common property at their own expense, which the body corporate was supposed to perform and had requested the owner to do, thereby arguing for a set-off against the body corporate’s claim.
+
+Initially, this dispute was raised in the Randburg Magistrate's Court; however, the body corporate later withdrew those proceedings in favor of arbitration as governed by the management rules of the body corporate. The owner, in turn, filed a special plea arguing that arbitration was not appropriate for the determination of the body corporate’s claims, which only a court could resolve. The arbitrator ruled that the dispute was arbitrable under the relevant rules but the court a quo disagreed, leading to the body corporate's appeal with leave granted.
+
+### I – Issues
+The primary issue under consideration is the appropriate interpretation of the saving clause in management rule 71(1) of the regulations under the Sectional Titles Act. This clause reads: "Save where… any form of… other relief may be required or obtained from a Court having jurisdiction." The question is whether its interpretation limits the scope of arbitrable disputes between the body corporate and the unit owners, particularly in cases involving recovery of levies, to judicial proceedings alone [paras 2–4]. 
+
+### R – Rules
+The legal authorities applicable to this matter include:
+
+1. **Sectional Titles Act 95 of 1986**: Establishes the legal framework for the management of sectional title schemes.
+2. **Management Rule 71**: Mandates that disputes arising out of management and conduct rules are subject to arbitration, save for specific exceptions such as requests for urgent relief or interdicts [para 3].
+3. **Arbitration Act 42 of 1965**: The applicable procedural framework for arbitration as indicated by management rule provisions [para 3]. 
+4. Case law such as *Pharmaceutical Manufacturers Association of SA v President of the Republic of South Africa* [2000] 2 SA 674 (CC), illustrating the principle that regulations inconsistent with the statutory authority are invalid under the doctrine of legality [para 9].
+
+### A – Application
+The court delved into the interpretation of the phrase "save where… any form of… other relief may be required or obtained from a Court having jurisdiction." The interpretation of this saving clause is crucial for understanding arbitrability under rule 71. The court argued that the saving clause should not be construed so broadly as to undermine the arbitration mandate provided by the rule itself. Instead, it should be interpreted narrowly to exclude only those types of relief that arbitrators are inherently unable to grant due to either legislative limitations or the nature of the remedy sought.
+
+Examples were given, notably concerning the powers of a court under sections 46 and 48 of the Act, where the court has the authority to appoint an administrator and adjudicate matters related to damaged properties in a sectional title scheme, which exceeds the jurisdiction of an arbitrator [paras 7–8]. The court rejected the owner's broader reading of the saving clause, affirming that the rule’s operative part, covering all disputes arising from the management of the body corporate and its owners, should prevail unless the nature of relief necessitated court intervention.
+
+Further, the court clarified that the existence of a dispute was essential for arbitration to be instituted under rule 71. Without a dispute, the body corporate retains the right to pursue claims in court as provided in section 37(2) of the Act [paras 9–10].
+
+### C – Conclusion
+The Supreme Court of Appeal concluded that the arbitrator had correctly deemed the dispute between the body corporate and the owner as arbitrable under management rule 71. This interpretation aligns with the intention of the legislature to facilitate swift and cost-effective resolution of disputes concerning sectional title schemes through arbitration, while still allowing for judicial intervention when warranted. The judgment effectively reverses the court a quo’s ruling, asserting that the arbitration provisions are applicable in this case, except when explicitly precluded by the nature of relief sought. The appeal was thus allowed with costs, rendering the prior ruling of the court a quo ineffective and solidifying the applicability of arbitration in this context [paras 11–12].

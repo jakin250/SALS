@@ -1,0 +1,49 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2015
+
+## Case Note: South African Reserve Bank and Another v Shuttleworth and Another [2015] ZACC 17
+
+### F – Facts: Relevant Background and Procedural History ([paras 2–21]) 
+
+This case emerged from a dispute involving Mark Shuttleworth, a South African entrepreneur who emigrated to the Isle of Man in 2001. Shuttleworth sought to transfer approximately R2.5 billion that had been blocked under the South African exchange control system, governed by regulations arising from the Currency and Exchange Act 9 of 1933. The South African Reserve Bank (the Reserve Bank) imposed a 10% exit charge on this transfer, amounting to roughly R250 million. 
+
+Shuttleworth contested the legality of this charge, asserting that it functioned as a tax and was thus imposed contrary to constitutional provisions governing taxation. Initially, the North Gauteng High Court ruled against him, affirming the validity of the exit charge but declaring some exchange control legislative provisions unconstitutional. On appeal, the Supreme Court of Appeal sided with Shuttleworth, stating that the exit charge was unlawfully imposed as it had not been passed as a money Bill under the procedure established in sections 75 and 77 of the Constitution. 
+
+Dissatisfied, the Reserve Bank and the Minister of Finance sought leave to appeal this decision, which was granted by the Constitutional Court. Shuttleworth simultaneously sought to cross-appeal the constitutional validity of the entire exchange control scheme.
+
+### I – Issues: Legal or Constitutional Questions ([paras 5–27])
+
+The primary issue at stake is whether the exit charge imposed by the Reserve Bank constitutes a tax requiring adherence to the procedural stipulations regarding money Bills set out in the Constitution. In contrast, if it is deemed a regulatory charge, it may circumvent such requirements. 
+
+Further issues include:
+1. The definition and interpretation of “calculated to raise revenue” within the context of section 9(4) of the Currency and Exchanges Act and whether the exit charge meets this criterion.
+2. The constitutional validity of sections governing exchange controls and the latitude granted to the Minister of Finance under the Act.
+3. The question of legislative power and delegation regarding taxation and regulatory authority.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 8–24])
+
+The case relied on various constitutional provisions, notably sections 75 and 77 of the Constitution, which govern the legislative process required for the imposition of taxes. Section 9(4) of the Currency and Exchanges Act specifies that regulations imposing revenue must be laid before Parliament, and failure to comply renders such regulations invalid.
+
+In support of their argument, the parties cited the following precedents:
+- **Fedsure Life Assurance Ltd v Greater Johannesburg Transitional Metropolitan Council** [1998] ZACC 17, which outlines the principle of "no taxation without representation."
+- **Dawood and Others v Minister of Home Affairs** [2000] ZACC 8, which emphasized the necessity of legislated guidelines for exercising discretionary powers.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 29–72])
+
+The Constitutional Court undertook a thorough analysis of the dominant purpose of the exit charge. Moseneke DCJ highlighted that the historical context of the exchange control regulations, which were originally established to prevent capital flight during economic crises, underscored their regulatory nature rather than a revenue-generating function. 
+
+The Court found that while the amount collected through the exit charge was significant, it served as a means of controlling capital outflows rather than raising public revenue. The government’s reasoning that the exit charge impeded unregulated capital export ultimately aligned with its regulatory intent, as opposed to a tax designed to raise funds for the National Revenue Fund.
+
+Regarding the procedural issue, the Court concluded that the regulations did not constitute a tax as defined under the money Bill requirements because their primary function was not revenue generation. Consequently, the charge fell outside the ambit of the constitutional requirements for taxes, dispelling Shuttleworth's claims regarding the unlawfulness of the exit charge.
+
+In evaluating the second issue regarding the Minister's discretionary powers, the Court upheld the High Court's finding that the exchange control system necessitated broad discretion to respond to economic fluctuations effectively. This discretion was deemed necessary to ensure rapid and flexible financial governance.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 72–83])
+
+The Constitutional Court upheld the appeal against the Supreme Court of Appeal's decision, effectively reinstating the legality of the exit charge imposed by the Reserve Bank. The Court's ruling confirmed that the exit charge was a valid regulatory measure rather than a tax, thus not necessitating compliance with the legislative procedures prescribed for money Bills.
+
+The judgment reaffirmed the permissible breadth of ministerial discretion within the context of economic governance, reinforcing the notion that regulatory measures aimed at stabilizing the economy do not qualify as taxation under constitutional definitions. 
+
+Implications of this decision extend to the broader realm of administrative law, clarifying the distinction between taxes and regulatory charges, and reinforcing the regulatory latitude granted to economically vital agencies like the Reserve Bank. The ruling indicates that while regulation may involve financial implications, the overarching purpose must focus on governance rather than revenue generation.
+
+In summary, the Court rejected Shuttleworth's arguments and dismissed his application, establishing precedence concerning the regulation of capital flows and the distribution of economic powers between legislative and executive branches within the South African context.

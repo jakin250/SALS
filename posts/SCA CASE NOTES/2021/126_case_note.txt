@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Bassani Mining (Pty) Ltd v Sebosat (Pty) Ltd & Others (835/2020) [2021] ZASCA 126
+
+## F – Facts
+
+On 19 February 2020, the appellant, Bassani Mining (Pty) Ltd ("Bassani"), entered into a subcontract agreement with the first respondent, Sebosat (Pty) Ltd ("Sebosat"), whereby Bassani was to mine coal at Wesselton Mine on behalf of Sebosat. The subcontract stipulated that Bassani would receive payment for its services post-sale of the mined coal. There was significant tension between the parties resulting in an eventual termination of the subcontract by Sebosat on 1 June 2020, claiming Bassani had failed to meet certain production targets.
+
+Bassani contended that Sebosat owed it R14,530,824.90 for unpaid invoices, and alleged that Sebosat, through its director, Kurt Herman, had made fraudulent misrepresentations concerning its business relationship with the second respondent, Mashala Resources (Pty) Ltd ("Mashala"). Subsequently, Bassani instituted an urgent application for an anti-dissipation interdict to prevent the disposal of coal valued at R25 million and sought the return of equipment.
+
+In essence, Bassani accused Herman of interposing Sebosat as a corporate entity to conceal Mashala’s liabilities, thereby obfuscating true ownership of the mined coal. The High Court dismissed Bassani's application, leading to this appeal ([paras 1–10]).
+
+## I – Issues
+
+The case revolves around several crucial legal questions concerning the nature of anti-dissipation interdicts in South African law:
+
+1. **What is the requisite threshold for an applicant to prove in order to secure an anti-dissipation interdict?** Specifically, is it necessary for Bassani to demonstrate that Sebosat intended to dissipate assets to thwart Bassani's claim, or do exceptional circumstances allow for a lesser threshold?
+   
+2. **Did Bassani meet the foundational requirements for an interim anti-dissipation interdict?** These include establishing a prima facie right, imminent irreparable harm, and that there is no satisfactory alternative remedy ([paras 10–12]).
+
+## R – Rules
+
+The legal framework for interim interdicts is grounded in South African common law as articulated in *Knox D’Arcy Ltd v Jamieson* [1996] 4 SA 348 (A). This case established the necessity for:
+
+1. **Prima facie right**: A claimant must show a reasonable likelihood of success with their underlying claim.
+2. **Irreparable harm**: The applicant must demonstrate that, if the interdict is not granted, they will suffer harm that cannot be adequately remedied later.
+3. **Absence of alternative remedies**: The applicant should show that no other satisfactory remedy exists.
+
+Additionally, the court in *Knox D’Arcy* posited that in cases concerning the potential dissipation of assets, the applicant may need to show the respondent’s intent to conceal assets unless exceptional circumstances present themselves ([paras 1–13]).
+
+## A – Application
+
+The Supreme Court of Appeal engaged with the High Court’s findings regarding the requirements for an anti-dissipation interdict. It noted that Bassani had failed to establish any identifiable assets against which execution could be levied, given that the mined coal had already been sold by Mashala and Sebosat appeared to be a shell company devoid of assets. This finding aligned with Bassani's concession that the coal had been disposed of prior to the initiation of its application for an interdict.
+
+The Court also examined the alleged misrepresentations by Herman, questioning their impact on Bassani's ability to establish a prima facie right or any imminent risk of irreparable harm. It reiterated that allegations against Herman, while severe, did not implicate Mashala as a corporate entity in a manner that could substantiate a claim for an anti-dissipation interdict ([paras 14–19]).
+
+Finally, the judges addressed Bassani's reliance on the dictum in *Knox D’Arcy* regarding exceptional circumstances that could potentially lower the threshold for an anti-dissipation interdict. However, the Court concluded that such circumstances were not evident in this case, noting that the foundational requirements for interdict relief had conspicuously not been met ([paras 19–20]).
+
+## C – Conclusion
+
+In dismissing the appeal, the Supreme Court of Appeal upheld the High Court's ruling that Bassani had not satisfied the necessary requirements for an anti-dissipation interdict. The affirmation of the requirement for demonstrable intent to deceive and the absence of any identifiable assets rendered Bassani's claims futile. Consequently, the court highlighted the importance of solid evidentiary support for claims in interdict applications, especially concerning allegations of fraudulent misrepresentation and asset dissipation. The judgment reaffirmed the rigorous standards applied to applications for such interdicts, closing with an order for Bassani to pay the respondents' costs, including the costs of two counsel ([paras 21–21]). 
+
+The implications of this case underscore the necessity for claimants to establish clear links between alleged wrongdoings and potential asset dissipation, particularly when invoking urgent interdicts related to complex commercial disputes.

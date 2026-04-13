@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: South African Reserve Bank v Leathern N O and Others  
+**SCA Case No: 854/2020**  
+**[2021] ZASCA 102 (20 July 2021)**
+
+### FIRAC Method
+
+#### F – Facts
+The case arises from a blocking order issued by the South African Reserve Bank (the Reserve Bank) against two bank accounts belonging to Ahmed Dawood Bhorat, who traded as R & R Traders and Brokers ([1]). The order was predicated on suspicions that Bhorat had violated the Exchange Control Regulations by utilizing the accounts for illicit financial transactions ([1]). Specifically, transactions totaling over R700 million were alleged to have contravened the regulations regarding foreign exchange and capital controls ([10]).
+
+Within five days of the blocking order, Bhorat’s estate was provisionally sequestrated due to significant outstanding tax liabilities confirmed by a judgment from the South African Revenue Services ([2]). Subsequent to this, the appointed trustees requested that the funds in these accounts be released to them, asserting that the funds belonged to Bhorat’s insolvent estate under the Insolvency Act 24 of 1936 ([3]). The Reserve Bank contended that the funds did not belong to Bhorat, as he was only a collection agent for the deposits.
+
+A high court ruling favored the trustees, lifting the blocking order and ordering Grobank, the fourth respondent, to pay the funds to the trustees ([5]). The Reserve Bank appealed this decision, claiming that the blocking order was a valid administrative action that could not be challenged in the high court ([6]).
+
+#### I – Issues
+The case raises several pertinent legal issues:
+1. Whether the high court correctly set aside the blocking order.
+2. Whether the funds standing to the credit of Bhorat’s accounts truly belonged to him such that they vested in his insolvent estate.
+3. Whether a sequestration order nullifies a prior blocking order ([7]).
+
+#### R – Rules
+The controlling legal framework comprises the Exchange Control Regulations, promulgated under the Currency and Exchanges Act 9 of 1933. Relevant provisions include:
+- **Regulation 22A and 22C:** These deal with the blocking of funds suspected of being involved in an illegal transaction ([8]).
+- **Insolvency Act 24 of 1936, s 20(2)(a):** Pertains to the vesting of property in the insolvent estate upon sequestration ([3]).
+- **Promotion of Administrative Justice Act 3 of 2000 (PAJA):** Provides a framework for challenging administrative actions ([6]).
+
+The court also referenced established case law, including **Duncan v Minister of Law and Order** and **Nissan South Africa v Marnitz**, which interpret the definition of "suspicion" within a legal context, emphasizing that mere reasonable suspicion suffices to support administrative actions ([15]).
+
+#### A – Application
+In analyzing the case, the SCA found that the High Court misapplied the reasonable suspicion standard and established that the Reserve Bank had indeed met this threshold through the extensive evidence provided regarding the financial transactions facilitated through Bhorat's accounts ([15][16]). The interpretation of ownership of funds in a bank account was critical, with the court reiterating that merely holding an account does not guarantee a personal right to the funds if there is an agency or conduit arrangement in play ([17][19][20]). 
+
+The majority opinion indicated that Bhorat’s control over the accounts was limited to specific instructions from depositors and therefore the funds did not vest in his estate at the time of sequestration. This conclusion aligns with the ruling in **Joint Stock Company Varvarinskoye v Absa Bank Ltd**, which suggests that ownership rights may not accrue to an account holder under certain arrangements ([20][27]).
+
+Furthermore, the court scrutinized the argument that a sequestration order automatically nullifies any prior administrative blocking orders. The Reserve Bank successfully argued that doing so would undermine its regulatory objectives—specifically concerning preventing illicit financial outflows ([33][36]). 
+
+#### C – Conclusion
+The Supreme Court of Appeal upheld the Reserve Bank's appeal, effectively restoring the blocking order and denying the trustees’ claim to the funds. The decision emphasized that the blocking order does not lapse upon a sequestration order and highlighted the regulatory necessity for blocking orders preempting forfeiture ([39][41]). The court’s holding reiterates the balance between commercial law (banking regulations) and insolvency law, providing clarity on how administrative exigencies interact with sequestration.
+
+The implications of this ruling extend to the extent of a trustee's powers in managing an insolvent estate and the fiduciary obligations towards those with claims against the estate. It reinforces the concept that regulatory compliance in financial transactions takes precedence over claims arising from insolvency, further solidifying the Reserve Bank's authority in preventing potential abuses of the financial system. The case serves as a landmark decision instilling the importance of effective regulatory oversight in the context of financial transactions and insolvency.

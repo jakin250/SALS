@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: KGA Life Limited v Multisure Corporation (Pty) Ltd and Others (304/2022)
+
+### F – Facts: Relevant background and procedural history ([paras 1–16])
+
+The case centers on an appeal by KGA Life Limited (KGA) against a judgment from the Eastern Cape Local Division of the High Court, which had ruled in favor of Multisure Corporation (Pty) Ltd (Multisure). The High Court found that an Intermediary Agreement (IA) between KGA and Multisure, which incorporated a Master Policy (MP) underwritten by KGA, was cancelled, affecting the validity of a group funeral insurance scheme established under this agreement ([paras 1–2]). 
+
+The parties entered into the IA on January 14, 2015, wherein KGA was responsible for underwriting funeral insurance policies marketed by Multisure, primarily to social grant beneficiaries whose premiums were deducted via the South African Social Security Agency (SASSA) ([para 10]). Following changes, SASSA decided that premiums would be paid directly to KGA instead of Multisure, prompting Multisure to assert control over the direction of premium payments ([para 11]).
+
+As the relationship progressed, several procedural documents, including membership applications and agreements, were developed; these were noted as internally conflicting and unclear ([paras 12–14]). A significant aspect of the case involves the promulgation of the Insurance Act 18 of 2017 (the 2017 Act), which imposed new regulatory requirements that ultimately affected the legality of the group scheme ([para 19]). The parties’ dispute stemmed from questions regarding the enforceability of the contracts in light of this new legislative framework, alongside other procedural matters pertaining to the cancellation of the IA and the contractual relationship between the insurer and individual policyholders ([para 18]).
+
+### I – Issues: Legal or constitutional questions ([paras 18–19])
+
+The issues before the court were complex and multi-faceted, primarily revolving around the implications of the 2017 Act and its application to the existing agreements. Key questions included:
+
+1. Whether Multisure had complied with the notification requirement to policyholders upon cancellation of the IA ([para 18(a)]).
+2. The lawfulness of Multisure's termination of the MP ([para 18(b)]).
+3. Whether an underlying contractual relationship existed between KGA and the individual clients, independent of the MP, allowing for the contracts' continuation despite Multisure's actions ([para 18(c)]).
+4. Whether the provisions of the 2017 Act mandated that each group member must individually cancel their policy with KGA as the group scheme was no longer valid ([para 18(d)]).
+5. The legal effect of the amendments introduced by the 2017 Act on Multisure's group scheme ([para 18(e)]).
+6. Whether the court’s order regarding the payment of premiums reflected a justified outcome regarding ownership of risk post-cancellation ([para 18(h)]).
+
+### R – Rules: Legal authorities and precedents relied upon ([paras 19–50])
+
+The court’s analysis derived its foundation from multiple legal principles enshrined in the Insurance Act 18 of 2017, particularly concerning the conduct of insurance business and the licencing requirements defined in the Act ([paras 19–28]). 
+
+* **Insurance Act 18 of 2017:** This law fundamentally altered the regulatory landscape for insurance, establishing requirements aimed at protecting policyholders and enhancing market stability ([para 19]). Sections pertinent to the licencing of insurers (ss 5(1), 23(4), and 25(2)) stipulate that all insurance operations must be conducted under a valid licence issued under the 2017 Act ([paras 27–28]).
+
+* **Supervening Illegality Doctrine:** The court invoked this doctrine, noting that contracts prohibiting lawful conduct—such as unlicensed insurance—are rendered void ab initio ([para 32]). The principle, particularly drawn from precedents like **Schierhout v Minister of Justice** and **Cool Ideas 1186 CC v Hubbard** ([paras 36–39]), posits that actions taken contrary to explicit legal prohibition are inherently invalid.
+
+* **Case Law Precedent:** Relevant case law underscored the general legal principles governing contractual invalidity due to supervening illegality and highlighted the legislative intent to safeguard policyholders, as echoed in the objectives articulated within the 2017 Act ([paras 40–44]).
+
+### A – Application: Analysis of how the court applied the law ([paras 50–56])
+
+In applying the rules, the court concluded that Multisure's group scheme had fundamentally become invalid due to the provisions of the 2017 Act ([para 32]). The court noted that both KGA and Multisure failed to reorganize their business operations to align with the new regulatory requirements introduced by the 2017 Act, choosing instead to continue operating under the pre-existing framework which had become illegal ([para 56]).
+
+The court examined whether Multisure exercised any legitimate authority to cancel the agreements, finding that it lacked the power to dictate payment relations to AUL since the underlying group scheme had become invalid ([paras 54–55]). The transfer of monetary deductions facilitated through Q Link's administrative processes further emphasized the illegitimacy of Multisure's actions, as these processes relied on the existence of a lawful group scheme—a status that had lapsed ([para 54]).
+
+Ultimately, the court concluded that since the foundation of Multisure's case rested on unlawful premises, the appeals lodged by KGA were justified. Therefore, Multisure’s attempt to redirect premium payments to a new entity without valid contracts in place was deemed ineffective and unlawful, reinforcing the validity of the doctrine surrounding supervening illegality ([para 56]).
+
+### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 57–58])
+
+The Supreme Court of Appeal ruled in favor of KGA, effectively overturning the decision of the High Court ([para 58]). The judgment established critical implications for the insurance sector in South Africa, indicating that, under the 2017 legislative framework, insurers and intermediaries must comply with licencing requirements, or face nullification of their contractual agreements.
+
+Through its ratio decidendi, the court underscored the necessity of adjusting business practices in accordance with prevailing legislation, emphasizing that regulatory compliance is paramount for protecting the interests of policyholders. Additionally, it directed the Registrar to refer a copy of the judgment to the Prudential Authority, signaling the judiciary's recognition of the judgment's potential implications on the broader funeral insurance industry ([para 58]).
+
+This case serves as a pivotal example of the interaction between legislative frameworks and contractual obligations within the insurance context, extending beyond individual claims to highlight systemic regulatory imperatives designed to safeguard consumer interests in financial products. The outcomes of this case call for a reevaluation of how financial intermediaries manage their relationships with both insurers and policyholders in light of changing legislative landscapes.

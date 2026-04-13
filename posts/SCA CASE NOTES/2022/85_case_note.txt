@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note using FIRAC Method: Capital Appreciation Ltd v First National Nominees (Pty) Ltd and Others (Case no. 280/2021) [2022] ZASCA 85
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–6])
+
+In the matter of **Capital Appreciation Ltd v First National Nominees (Pty) Ltd and Others**, the Supreme Court of Appeal of South Africa dealt with an appeal concerning the interpretation of certain provisions of the Companies Act 71 of 2008 (hereafter referred to as the “2008 Act”). The central issue arose from a dispute between Capital Appreciation Ltd (the appellant) and First National Nominees (Pty) Ltd (the first respondent), along with Nedbank Ltd (the second respondent) and Rozendal Partners (Pty) Ltd (the third respondent).
+
+The factual background stems from Capital Appreciation's intention, communicated in July 2019, to repurchase 245 million of its own shares at a total cost of R196 million. This proposal, expecting to exceed the threshold of five percent of its issued share capital, triggered specific compliance requirements under sections 48, 114, and 164 of the 2008 Act. First National, holding the shares on behalf of Nedbank, formally objected to the proposed repurchase during the general meeting, subsequently voting against the resolution despite its passage by other shareholders. Following the unsuccessful negotiation for the fair value of their shares at R0.80 per share, First National initiated proceedings in the Gauteng Local Division of the High Court, seeking a court-appointed appraiser to ascertain the fair value of its shares in accordance with section 164 of the 2008 Act. Windell J of the High Court ruled in favor of First National, allowing the appointment of an appraiser, thus granting Capital Appreciation leave to appeal ([paras 1–6]).
+
+## I – Issues: Legal or Constitutional Questions ([paras 5–5])
+
+The crux of the appeal lay in a singular legal question: whether section 164 of the 2008 Act applied in the context of Capital Appreciation's proposed share repurchase. Specifically, the court was tasked with determining if First National was entitled to the appraisal rights they advanced, premised on their objection to the proposed repurchase as prescribed under the statutory framework. This jurisdictional inquiry entailed examining the interplay between sections 48, 114, 115, and the associated implications of First National's dissent ([paras 5–5]).
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 10–22])
+
+The court engaged with the legislative framework established in the 2008 Act to resolve the central issue. Initially, Section 48 governs the acquisition by a company of its own shares, stipulating conditions under which such transactions can occur, notably when the acquisition surpasses five percent of issued shares, as per section 48(8)(b). This section necessitates compliance with sections 114 and 115 when share repurchases exceed the aforementioned threshold, thus designating them as “fundamental transactions.” 
+
+Section 114 delineates the procedural requirements for proposing and implementing arrangements between the company and its security holders, including the mandatory retention of an independent expert to assess the ramifications of the transaction ([para 15]). Conversely, section 115 prescribes the need for a special resolution by the shareholders for any significant transactions, with section 115(8) expressly providing for appraisal rights under section 164 for dissenting shareholders ([paras 21–22]). 
+
+Section 164 articulates the entitlement of dissenting shareholders to have their shares repurchased at fair value under specific conditions, including their advance notification of dissent and opposition during meetings ([paras 24–26])—an elucidation of statutory mechanisms designed to protect minority shareholders in corporate governance.
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 27–29])
+
+In its analysis, the court emphasized the interconnectedness of the statutory provisions referenced. The application of section 48(8)(b) clearly indicated that since Capital Appreciation's share repurchase exceeded the established threshold, compliance with sections 114 and 115 was mandatory ([para 27]). The precedence set by these sections reinforced a clear necessity for the appraisal rights in instances where dissenting shareholders like First National could invoke their rights.
+
+The court noted that First National had fulfilled the procedural requisites outlined in sections 115 and 164, thereby entrenching their entitlement to request appraisal. By dismissing Capital Appreciation’s argument that section 164 did not apply, the court highlighted that statutory protections for minority shareholders remain a cornerstone of corporate governance aimed at preventing potential abuses by majority shareholders ([para 29]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 30–30])
+
+Ultimately, the Supreme Court of Appeal dismissed Capital Appreciation's appeal and upheld the High Court's ruling that First National is entitled to seek a fair valuation of its shares. The court reaffirmed the judgment's significance in enhancing investor confidence and reinforcing statutory protections for minority shareholders in the corporate sphere, ensuring that dissenting voices retain a foothold in contested corporate actions. The ratio decidendi encapsulated the notion that adherence to legislative safeguards is paramount in the execution of significant corporate transactions, serving the broader interests of corporate governance and accountability ([para 30]).
+
+This judgment thus delineates the critical balance required in the repurchase of shares and reinforces the legal framework that safeguards minority shareholders against potential oppression and exploitation by majority stakeholders. The implications of this ruling extend beyond immediate parties, impacting corporate practices and reinforcing compliance protocols across the South African commercial landscape, thereby encouraging equitable treatment of all shareholders.
+
+---
+
+### References
+1. Companies Act 71 of 2008.
+2. Trevor v Whitworth (1887) 12 AC 409 (HL).
+3. Unisec Group Ltd and Others v Sage Holdings Ltd 1986 (3) SA 259 (T).
+4. Sage Holdings Ltd v Unisec Group Ltd and Others 1982 (1) SA 337 (W).
+5. Yeats et al, *Commentary on the Companies Act of 2008* (2018) Vol 1.
+6. Cassim et al, *Contemporary Company Law* (2nd ed, 2012).

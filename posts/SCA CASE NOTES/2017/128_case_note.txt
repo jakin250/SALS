@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: *Investec Bank Ltd v Erf 436 Elandspoort (Pty) Ltd* [2017] ZASCA 128
+
+## F – Facts
+
+Investec Bank Limited (the appellant) initiated legal proceedings against Erf 436 Elandspoort (Pty) Ltd and five other defendants to recover a debt of R3,979,184.50 arising from a loan agreement. The first respondent was the principal debtor, while the others were sureties for the loan ([paras 2–3]). The security for this loan was a notarial mortgage bond registered over a notarial lease with the South African Railway Commuter Corporation Limited (SARCC). However, in January 2002, SARCC cancelled the lease, which was confirmed by a court order in August 2002. Consequently, Investec Bank gave notice to the first respondent on 10 September 2002, demanding repayment and indicating that legal action would ensue if the debt was not paid within seven days ([paras 4–5]).
+
+Investec Bank eventually instituted action on 18 January 2011, almost eight years after the debt was due ([para 6]). The respondents raised several defenses, including a special plea of prescription, arguing that the claim had prescribed by 18 September 2002 ([para 6]). The High Court focused on resolving the issue of whether the relevant prescription period for the debt was thirty years under section 11(a)(i) of the Prescription Act 68 of 1969 or three years under section 11(d) ([paras 7–9]). The High Court concluded that the prescription period was three years, leading to the dismissal of the appeal ([paras 21–22]).
+
+## I – Issues
+
+The primary legal issue presented in this case was whether the period of prescription applicable to the appellant's claim was thirty years, as provided under section 11(a)(i) of the Prescription Act for debts secured by mortgage bonds, or three years under section 11(d) for other debts ([paras 8–9]). The determination of this issue hinged on whether the debt at the time of service of the summons was indeed secured by a mortgage bond, especially after the cancellation of the lease that originally formed the basis of that security ([para 13]).
+
+## R – Rules
+
+The applicable legal framework for this case is contained primarily within the Prescription Act 68 of 1969, particularly sections 10, 11, and 12. 
+
+1. **Section 10(1)** provides that a debt shall be extinguished by prescription after the lapse of the period which applies in respect of the prescription of such debt.
+2. **Section 11** details the periods of prescription for different categories of debts:
+   - *11(a)*: thirty years for any debt secured by mortgage bond.
+   - *11(d)*: three years for any other debt.
+3. **Section 12(1)** states that prescription commences to run as soon as the debt is due ([paras 9–10]).
+
+Furthermore, precedent from *Cape Town Municipality v Allie NO* and *Deloitte Haskins & Sells Consultants (Pty) Ltd v Bowthorpe Hellerman Deutsch (Pty) Ltd* was cited to elucidate that a debt must be enforceable for the prescription period to be applicable ([para 10]).
+
+## A – Application
+
+In analyzing the arguments presented, the court underscored the importance of understanding the nature of the security at the time the debt became due. Counsel for the appellant argued that the mortgage bond provided a thirty-year prescription period, thereby contending that the claim had not yet prescribed when legal action was taken in 2011 ([para 12]). In contrast, the counsel for the respondents argued that the cancellation of the lease extinguished the security conferred by the mortgage bond, resulting in the applicability of the shorter, three-year period for prescription, which had elapsed by the time the action was initiated ([para 13]).
+
+The court meticulously interpreted the relevant sections of the Prescription Act in light of established principles of statutory interpretation. It indicated that if a debt ceases to be secured by a mortgage bond, the longer period of thirty years no longer applies ([paras 20]). The appellant's interpretation that the phrase "any debt secured by mortgage bond" could be broadened to include debts that were once secured was found untenable, as the language in the statutory provision is clear and would not support such a re-reading, particularly in light of legislative intent ([para 19]).
+
+Moreover, the academic discourse on mortgage bonds and prescription indicated a consensus that once the security ceases to exist, the debt would incur the shorter prescription period as outlined in section 11(d) ([paras 15–17]).
+
+Thus, the court concluded that because the mortgage bond ceased to provide security upon the cancellation of the lease, the debt was subjected to the three-year prescription period, which had expired by the time the appellant initiated legal proceedings ([paras 21–22]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal upheld the High Court's determination that the appellant's claim had prescribed, concluding that the appropriate prescription period applicable was three years, not thirty years, due to the absence of security following the lease cancellation. Consequently, the appeal was dismissed with costs. This ruling underscores the necessity for creditors to act promptly in asserting their claims and reinforces the principle that the loss of security can shift the applicable prescription period from an extended duration to a shorter one, hence stressing the importance of vigilant enforcement of rights ([paras 21–22]).
+
+---
+
+This case serves as a significant precedent in the context of prescription law in South Africa, particularly for creditors who rely on securities to enforce debts. The outcome highlights both practical and theoretical implications regarding the timing of legal remedies and the enforceability of secured debts in light of their underlying security falling away.

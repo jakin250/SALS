@@ -1,0 +1,37 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Mashongwa v Passenger Rail Agency of South Africa [2015] ZACC 36
+
+## F – Facts
+The applicant, Mr. Irvine Van Sam Mashongwa, resided in Mamelodi East and was a passenger on a train operated by the Passenger Rail Agency of South Africa (PRASA) on January 1, 2011. Notably, he was the only passenger in a coach at the time of departure from Walker Street Station, and no security guards were deployed either at the station or on the train ([4]–[5]). Shortly into the journey, three assailants entered the coach from an adjoining one, robbed him, and subsequently threw him out of the moving train, causing severe injuries which resulted in the amputation of his left leg ([6]).
+
+Mr. Mashongwa claimed damages from PRASA in the Gauteng Division of the High Court, asserting that PRASA had breached its duty to provide a safe environment for passengers. The High Court found PRASA negligent due to its failure to ensure that the train doors were closed and the absence of security personnel ([8]–[9]). However, PRASA appealed to the Supreme Court of Appeal, which ruled that neither failure was causative of Mr. Mashongwa's injuries, applying the traditional "but for" test as established in *International Shipping Co (Pty) Ltd v Bentley* ([10]).
+
+## I – Issues
+The key legal issue in this case was whether PRASA could be held delictually liable for the injuries suffered by Mr. Mashongwa due to a breach of its public law duty to ensure safety and security measures for rail commuters. Specifically, the court needed to determine:
+1. Whether the failures to deploy security guards and keep the train doors closed amounted to wrongful conduct under delictual principles.
+2. Whether the elements of negligence and causation had been established sufficiently to warrant liability on the part of PRASA ([1]–[2]).
+
+## R – Rules
+The determination of liability for delictual claims in South Africa typically involves establishing:
+1. **Wrongfulness**: Ascertaining whether the defendant's conduct violated a legal duty owed to the plaintiff, often framed within the context of the broader public law obligations mandated by the Constitution ([16]).
+2. **Negligence**: Evaluating whether a reasonable person, in similar circumstances, would have foreseen the likelihood of harm and taken adequate steps to prevent it ([31]).
+3. **Causation**: Demonstrating a direct link between the negligent conduct and the harm suffered, using the "but for" test under common law, as well as acknowledging the potential for a broader interpretation of causation ([63]).
+
+Previous decisions, including *Rail Commuters Action Group v Transnet Ltd*, have established that public carriers owe a heightened duty of care to their passengers ([14]). Furthermore, public policy considerations, including accountability and the state’s obligation to protect its citizens, play a critical role ([26]).
+
+## A – Application
+In applying these legal principles to the facts of the case:
+1. **Wrongfulness**: The court recognized that PRASA, as a public transport utility, had a statutory and constitutional obligation to ensure the safety of its passengers. It cited prior rulings to assert that the failure to implement adequate protective measures reflected a breach of this duty ([18]–[22]). The court highlighted that the open train doors constituted a known danger to passengers, thereby confirming the wrongful nature of PRASA's conduct.
+  
+2. **Negligence**: The court evaluated whether a reasonable operator would have foreseen harm arising from the absence of security personnel and the state of the train’s doors. It found that keeping the doors closed was a basic safety protocol that PRASA disregarded, which a reasonable organ of state should have understood ([60]). PRASA's argument, which relied heavily on budgetary constraints, was viewed as insufficient given the basic nature of maintaining safety aboard public transportation ([16]).
+
+3. **Causation**: The court applied the "but for" test, determining that Mr. Mashongwa would likely not have been harmed had PRASA complied with its duty to secure the doors of the train. The likelihood of Mr. Mashongwa being assaulted and thrown out was significantly increased by the failure to close the doors, supporting the assertion that PRASA's negligence directly resulted in his injuries ([66]).
+
+By emphasizing that the overarching duty to protect passengers must be reinforced by effective operational measures, the court resolved that PRASA's negligence could not be excused by a lack of resources or varying crime levels in different areas ([38]).
+
+## C – Conclusion
+The Constitutional Court ultimately ruled in favor of Mr. Mashongwa, upholding the High Court's findings and rejecting the Supreme Court of Appeal’s conclusions. The court ordered PRASA to compensate Mr. Mashongwa for the proven damages, thus reaffirming the principle that state organs must presume accountability in safeguarding citizens' rights, particularly when intrinsic public safety is concerned ([71]). This decision not only clarifies the standards for delictual liability concerning public transport operators but also establishes a precedent for holding such entities accountable for neglecting their constitutional obligations.
+
+This case serves as a critical reminder that public entities are bound by strict duties to prevent harm, reinforcing the importance of a pro-active approach to passenger safety in the public transport sector. It also underscores the need for careful assessment of rule implementation in line with constitutional values to avert future mishaps and ensure accountability within government functions.

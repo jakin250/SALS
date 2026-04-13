@@ -1,0 +1,46 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: National Energy Regulator of South Africa and Another v PG Group (Pty) Limited and Others 2019 ZACC 28
+
+## FIRAC Method
+
+### F – Facts
+
+In this case, the **National Energy Regulator of South Africa (NERSA)** and **Sasol Gas (Pty) Limited** sought leave to appeal a decision by the **Supreme Court of Appeal (SCA)** which had overturned a prior ruling by the **High Court** ([2]). The SCA had found NERSA’s approval of Sasol’s maximum gas prices and transmission tariff applications from **26 March 2013** as irrational and unreasonable ([19]). The respondents, including several large-scale consumers of piped gas, contested these approvals, which resulted in significant price hikes for their gas expenses ([3]). 
+
+The dispute arose against the backdrop of the **Gas Act 48 of 2001**, mandating NERSA to regulate gas prices, approve tariffs, and promote competition within the gas industry ([1]). The approval process involved a methodology for determining maximum prices based on a “basket of alternatives,” including coal and electricity prices as proxies for competitive energy costs ([18]).
+
+The respondents filed a review of NERSA’s decisions, alleging that the Maximum Pricing Decision was flawed and did not adhere to the set legislative framework ([20]). The SCA concluded that the methodology allowed Sasol to increase prices contrary to the objectives of regulating monopoly pricing ([25]).
+
+### I – Issues
+
+The primary legal issues raised in this appeal were:
+
+1. **Can the Maximum Price Decision be reviewed independently from reviewing the Maximum Pricing Methodology?** ([28](a)).
+2. **Was NERSA’s decision to set the maximum gas price irrational or unreasonable?** ([28](b)).
+3. **Is the lawfulness of the Tariff Decision contingent upon the lawfulness of NERSA’s Maximum Price Decision?** ([28](c)).
+
+### R – Rules
+
+The case predominantly engaged the **Gas Act 48 of 2001**, specifically provisions regarding NERSA’s functions and powers under sections 2, 4, and 21, which underscore the necessity for price regulations to foster competition in a monopolistic market ([1],[6]). 
+
+The **Promotion of Administrative Justice Act 3 of 2000 (PAJA)** was also pivotal, with section 6(2)(f) delineating the review criteria for administrative actions as requiring a rational connection to the legislative purpose, the information before the administrator, and the reasons articulated by the administrator ([40]).
+
+### A – Application
+
+The court applied a rationality standard to assess whether NERSA’s Maximum Pricing Decision aligned with the statutory objectives of the Gas Act. It found NERSA’s decision ultimately did not support an environment mimicking competitive pricing; instead, it permitted price rises that contradicted prior goals of regulating monopolistic pricing to protect consumers ([24],[26]).
+
+1. **Review of the Maximum Pricing Methodology**: The court affirmed that the Maximum Price Decision could be assessed without necessitating an inverse review of the pricing methodology, making the assertion that they were independent administrative actions ([32]). Furthermore, it asserted that even if the methodology was valid, its application in this specific instance led to irrational outcomes due to the lack of consideration of Sasol’s operational costs ([67]).
+
+2. **Rationality of the Decision**: The court scrutinized the reasonableness of the Maximum Price Decision concerning the legislative requirements. It noted that NERSA neglected to factor Sasol's marginal costs reflectively in its decision-making, which, as asserted, rendered the decision irrational ([66],[72]).
+
+3. **Interrelation with Tariff Decision**: The connection between pricing and tariff decisions was examined. While the court acknowledged their interdependency, it ultimately held that the Tariff Decision could remain intact even after the Maximum Pricing Decision's annulment, highlighting NERSA’s regulatory capacity to set tariffs independently of price ceilings ([80],[84]).
+
+### C – Conclusion
+
+The Constitutional Court, upholding the SCA’s findings, concluded that while the Maximum Pricing Decision failed rationality tests and thus was set aside, the Tariff Decision remained valid and independent as it was governed by different considerations ([93]). The ruling stressed the obligation of regulatory bodies to ensure that their methodologies reflect actual market dynamics, particularly in monopolistic scenarios, and rectified the history of price hikes following the impugned decisions.
+
+This decision provides significant implications for the interpretation and application of regulatory frameworks governing monopolistic markets, reinforcing the importance of adhering to transparency and equity principles in administrative decision-making processes. The court further ordered NERSA to re-evaluate its pricing decisions with proper consideration of Sasol’s marginal costs, emphasizing that regulatory methodologies must promote just and accountable pricing as aligned with legislative mandates ([93],[89]). 
+
+**In summary**, this case underscores the intersections of regulatory authority, administrative justice, and the necessary checks on monopolistic pricing within South Africa's energy sector ([1]-[93]).

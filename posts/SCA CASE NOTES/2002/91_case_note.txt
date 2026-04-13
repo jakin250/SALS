@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# FIRAC Case Note: Glofinco v ABSA Bank Limited t/a United Bank
+
+## F - Facts
+
+The case involves Glofinco (the Appellant) and ABSA Bank Limited, acting through its division United Bank (the Respondent). The series of events leading to the dispute began when Ms. Franca Horne, the manager of the Balfour Park branch of the United Bank, endorsed five post-dated cheques in the face value of R5,043,166.54, purportedly on behalf of the Bank. The cheques were drawn by Playtime International Holdings (Pty) Ltd, a client of the bank that faced upcoming bankruptcy (Paras [1]-[9]).
+
+Glofinco was approached by a consultant, Mr. Ferrer, along with the owner of Playtime, Mr. Dreisenstock, to discount these cheques. The process to secure the discount involved multiple transactions: Glofinco had previously discounted other cheques from the same client under the belief that Horne had authorized the bank’s commitment to guarantee these endorsements (Paras [2]-[8]). Despite the previous positive experiences regarding cheques endorsed by Horne, this time the successor branch manager refused to honour the cheque after Glofinco initiated proceedings for provisional sentence due to non-payment (Paras [3]-[4], [12]).
+
+Horne's authority to issue guarantees was challenged, as her credit mandate was limited to R75,000, of which none could be unsecured (Paras [10]-[11]). Glofinco sought to establish that the bank was estopped from denying the validity of Horne’s authority based on representations made by her in her official capacity ([11]-[12]).
+
+## I - Issues
+
+The core legal question before the court was whether ABSA Bank was estopped from denying liability based on representations made by its branch manager, Horne, who lacked express authority to guarantee the post-dated cheques (Paras [11]-[12]). Specific issues included:
+
+1. **The nature of the representation made by the bank concerning Horne's authority.**
+2. **Whether Glofinco had a reasonable belief that it was dealing with the bank through Horne.**
+3. **The implications of previous transactions and endorsements made by Horne.**
+4. **The categorization of the transaction in accordance with typical banking practice (Paras [22]-[26]).**
+
+## R - Rules
+
+The court referenced the principles established in prior cases involving estoppel, particularly focusing on the ostensible authority of agents as articulated in *NBS Bank Ltd v Cape Produce Company (Pty) Ltd* and *South African Eagle Insurance Company Ltd v NBS Bank Ltd*. The requirements for establishing estoppel included:
+
+1. **A representation by the principal that the agent has the authority to act.**
+2. **Such representation must be made by the principal or a party to the transaction.**
+3. **It must be reasonable to expect third parties would act on this representation.**
+4. **The third party must rely on this representation to their detriment (Paras [11]-[14]).**
+
+Further, the determination examined the nature of branch banking and the expectations of clients interacting with bank representatives, which defined the scope of a branch manager's authority. The standards of acceptable transactions for a bank and the public’s reasonable reliance on representations made by bank officials were crucial elements (Paras [14]-[17]).
+
+## A - Application
+
+In applying these rules, the court noted that although Horne had positioned herself as acting overtly on behalf of ABSA Bank, her actions transcended the normal conduct of a branch manager. The court distinguished between a bank's ordinary business and the exceptional nature of the risk undertaken through the endorsement of the post-dated cheques. The decision noted that:
+
+1. **Horne's actions were not routine within the scope of typical banking practice.** The manager's endorsements and guarantees created an impression of authority but did not transform her conduct into standard operational procedures for the bank (Paras [20]-[30]).
+   
+2. **Braude’s reliance was based primarily on Horne’s representations and the visible authority of her title.** The court affirmed that Braude’s trust in Horne—given her position—was reasonable in light of past dealings and Horne’s assurances, but ultimately, this reliance was insufficient to bind the bank due to the unusual nature of the transaction (Paras [24]-[28]).
+
+3. **The court emphasized the lack of explicit prior endorsements from the bank for the risky transactions.** It established that while past cheques had been met, it was not indicative of an ongoing pattern endorsing high-risk financial obligations of this nature (Paras [28]-[30]).
+
+The distinction made between Horne’s perceived authority versus the actual limitations of her role underscored the reasoning that professional conduct and longstanding trust between the banker and the client do not safeguard the bank from liability arising from an agent's actions that are beyond their designated authority.
+
+## C - Conclusion
+
+The Supreme Court of Appeal concluded by affirming the lower court's decision that the bank was not estopped from disputing Horne’s lack of authority regarding the guarantees of the cheques. The court reasoned that while the representation established an appearance of authority, the specific transaction involved did not meet the criteria of ordinary banking practice which would support a claim of estoppel in this context. As such, the appeal was dismissed with costs, asserting that Glofinco could not claim against ABSA Bank due to the peculiarity of the engagements and reliance that was not found to be legally sufficient to establish estoppel (Paras [30]-[31]). 
+
+In essence, the judgment reinforces the critical importance of recognizing the boundaries of authority within corporate structures, particularly in banking, and that third parties must exercise due diligence when engaging in high-stakes transactions wherein authority is ambiguous or misrepresented.

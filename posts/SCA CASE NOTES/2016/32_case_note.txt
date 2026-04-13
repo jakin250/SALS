@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Feedpro Animal Nutrition v Nienaber NO [2016] ZASCA 32
+
+### FIRAC Method
+
+### F – Facts
+In **November 2012**, Feedpro Animal Nutrition (Pty) Ltd (Feedpro) initiated proceedings in the Free State Division of the High Court against the trustees of the Nienaber Trust, seeking the payment of R502,895 for fertilizer products delivered to the Trust ([1]). The Trust counterclaimed an amount of R1,086,650 for damages incurred due to the late delivery of these products ([1]). Feedpro subsequently raised a special plea of prescription, which involved the assertion that the Trust's counterclaim was barred due to the prescription of claims under the Prescription Act 68 of 1969, which dictates the time limit for claiming debts ([2]).
+
+The trial court, under rule 33(4) of the Uniform Rules of Court, agreed to hear the special plea separately through a stated case based on agreed facts between the parties ([2]). The agreed facts revealed that the Trust had ordered the fertilizer products on **1 December 2009**, which were due by **22 December 2009** but were not delivered until **5 January 2010**, constituting a breach of contract by Feedpro ([3a]). Following this breach, the Trust sent a letter on **22 January 2010** indicating potential damages arising from the late delivery, proposing that damages be quantified during the harvest ([3b]). A subsequent letter on **11 February 2010** reiterated this uncertainty regarding the extent of damages, ultimately leading to requests for further particulars with the Trust asserting it only became aware of specific losses on **26 February 2010**, when an assessor was engaged to evaluate the damages resulting from a crop failure ([3c]).
+
+The trial court evaluated the special plea and held that the Trust only identified its damages by **March 2010**, dismissing Feedpro’s special plea of prescription, leading to Feedpro's appeal ([4–5]). The core question of the appeal was when the Trust became aware of the damages it suffered due to Feedpro's breach of contract.
+
+### I – Issues
+The primary issue at hand was whether the Trust became aware before **26 February 2010** that it had sustained damages due to Feedpro's breach of contract, which would determine the commencement of the prescription of its counterclaim under section 12(3) of the Prescription Act 68 of 1969 ([5]). Specifically, the court needed to consider the definition of "knowledge" as applying to the debt in question and whether the Trust had sufficiently demonstrated this knowledge to prevent the counterclaim from being prescribed ([5]).
+
+### R – Rules
+The legal framework governing this case was established primarily under the Prescription Act 68 of 1969. Section 12(3) states:
+> A debt shall not be deemed to be due until the creditor has knowledge of the identity of the debtor and of the facts from which the debt arises.
+
+This section is coupled with a proviso stipulating that a creditor is presumed to have such knowledge when it could have been reasonably obtained ([5]). The leading case referenced regarding knowledge requirements under the act was **Minister of Finance and Others v Gore NO [2006] ZASCA 98** which articulated the criteria necessary for a creditor's awareness of damage and debt ([5]).
+
+Moreover, the procedural implications surrounding the stated case were discussed in light of rule 33 of the Uniform Rules, particularly emphasizing that the factual statement provided must be adequate for legal determination ([7]).
+
+### A – Application
+The court examined the correspondence between Feedpro and the Trust to establish whether the Trust possessed the requisite knowledge regarding its damages. In its submissions, Feedpro argued that the letters dated **22 January 2010** and **11 February 2010** indicated the Trust had awareness of the losses prior to the relevant date ([6]). However, the court found this position problematic due to the ambivalence in the letters regarding the manifestation of the damages. The assertion that damages could not be accurately calculated suggested a lack of definitive knowledge rather than an assertion of certainty ([8]).
+
+Moreover, the court contended that the trial court erroneously assumed knowledge of damages based on the absence of certain facts in the stated case regarding the timeline of the harvest and extent of crop failure ([10–11]). The court held that without adequate evidence offered through testimony on when the loss was ascertainable—specifically the harvest date—it could not determine the inception of the prescription period ([12–14]).
+
+The critical evaluation underscored that factual discrepancies within the stated case limited the court from concluding that the Trust had actionable knowledge of its loss prior to **26 February 2010** ([14]). Hence, it reiterated the principle that mere suspicion or mere opinion does not constitute legal knowledge as required for the prescription to be triggered ([12]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal with costs, but significantly altered the trial court's ruling regarding the special plea of prescription. It set aside the earlier dismissal of Feedpro’s special plea and remitted the matter for further consideration by the High Court with direction that it include evidence re-evaluating the special plea alongside the remaining issues ([15–16]). The implication of this case highlights the critical necessity for robust factual agreements in stated cases, as insufficiently detailed case statements hinder judicial determination and may lead to procedural errors in assessing claims of prescription under the law. This case underscores the inherent complexities within contractual disputes where prescription claims are involved, necessitating thorough examination and proof of knowledge before debts can be deemed actionable.

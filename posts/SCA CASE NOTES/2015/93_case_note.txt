@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Boost Sports Africa (Pty) Ltd v The South African Breweries (Pty) Ltd (20156/2014) [2015] ZASCA 93
+
+## FIRAC Analysis
+
+### F – Facts
+On 21 October 2011, Boost Sports Africa (Pty) Limited (“the appellant”) instituted legal proceedings against The South African Breweries (Pty) Limited (“the respondent”) in the High Court of South Africa, Gauteng Division, Pretoria, alleging breach of confidentiality regarding the ‘Fans Challenge Concept’, purportedly shared under a confidentiality agreement ([1]). The respondent denied the existence of such an agreement, asserting that the information was already public when disclosed ([1]).
+
+Upon exchanging documents, the respondent harbored doubts about the appellant's ability to cover a costs order if the action failed; hence, they filed for security for costs on 1 August 2013. The respondent's affidavit outlined findings indicating that the appellant was potentially insolvent and lacked assets ([2]). The appellant conceded some allegations regarding its financial status but argued that the concept itself held substantial value, countering that demanding security would effectively terminate their ability to pursue legal redress ([3]).
+
+On 17 March 2014, Hassim AJ of the High Court granted the respondent's application for security for costs, mandating the appellant to furnish this security, or face a stay of the proceedings and possible dismissal of its action, which led to this appeal ([4]).
+
+### I – Issues
+The primary legal question was whether, in the absence of a statutory provision equivalent to the repealed Section 13 of the Companies Act 61 of 1973, the appellant, as an incola company, could be compelled to provide security for costs ([4]; [12]). Furthermore, the appeal raised issues regarding the proper application of the common law regarding security for costs and whether the discretion exercised by the High Court was justifiable in the context of constitutional principles.
+
+### R – Rules
+The legal framework for this case included:
+1. **Common Law Principle**: Historically, an incola party (local entity) could not be ordered to furnish security for costs, while a peregrinus (foreign party) could unless demonstrating sufficient assets ([5]; [6]).
+2. **Section 13 of the Companies Act 61 of 1973**: This provision allowed courts to order a company to furnish security for costs but was abolished in the 2008 Companies Act, which did not include a similar provision ([12]).
+3. **Discretion of the Court**: Courts have the inherent power to regulate their own processes and develop the common law, as encapsulated in Section 173 of the South African Constitution, which underscores the importance of justice and fairness in legal proceedings ([13]).
+
+### A – Application
+The court analyzed whether the repeal of Section 13 warranted a reevaluation of an incola company's obligations regarding security for costs. It aligned with previous judgments that held that an incola party could not be compelled to provide security unless evidence of vexatious or reckless action was present ([15], [16]). 
+
+The court scrutinized the appellant's financial status, concluding that the evidence presented indicated that the appellant had effectively shielded itself from liability through its corporate status while lacking the financial backing to meet a costs order. This situation satisfied the criterion for concluding that the case could be categorically assessed as vexatious, thus justifying the imposition of security for costs ([24], [25]).
+
+Further, the court emphasized the necessity of balancing the equitable considerations for allowing access to justice against the potential injustice to a defendant from being unable to recover costs if the plaintiff's action proved unsuccessful. The court referenced relevant precedents that defined ‘vexatious’ as actions instituted without sufficient ground or to annoy the defendant ([17][18]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, affirming the High Court's order for the appellant to furnish security for the respondent's costs. The court concluded that the absence of a statutory provision akin to Section 13 did not preclude the court's authority to impose such a requirement under common law, particularly in cases where the plaintiff is an incola but is manifestly without the means to pay any costs awarded to the defendant upon the action's dismissal ([28]).
+
+The ratio decidendi underscores that the courts possess residual discretion in regulating litigation to ensure that misuse of court processes is curtailed and that potential costs frustrations are adequately addressed, thereby reinforcing the broader principles of justice and fairness inherent in South African law ([28]). The implications of this judgment signal a cautious approach by the courts to prevent the abuse of the judicial process by impecunious litigants who may seek to shield themselves behind corporate structures while engaging in litigation without adequate financial backing. 
+
+---
+
+**References:**
+- Boost Sports Africa (Pty) Ltd v The South African Breweries (Pty) Ltd [2015] ZASCA 93.
+- Companies Act 61 of 1973.
+- Various historical cases establishing precedents regarding security for costs, including Ecker v Dean and Lombard v Lombardy Hotel Co Ltd.

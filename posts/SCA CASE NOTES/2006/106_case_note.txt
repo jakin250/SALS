@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2006
+
+# FIRAC Case Note: Shaik v The State (2) [2006] SCA 134 (RSA)
+
+## F – Facts: Relevant background and procedural history ([paras 1–8])
+
+In the case of Shaik v The State, the Supreme Court of Appeal of South Africa evaluated multiple confiscation orders issued under Section 18(1) of the Prevention of Organised Crime Act 121 of 1998 (POCA) ([para 1]). The appellants, led by Mr. Schabir Shaik, along with four companies he controlled (Nkobi Holdings (Pty) Ltd, Nkobi Investments (Pty) Ltd, Kobifin (Pty) Ltd, and Kobitec (Pty) Ltd), were earlier convicted of corruption under the Corruption Act 94 of 1992 and sentenced accordingly ([paras 3–4]). Following their convictions, the state sought to confiscate the financial benefits derived from the criminal activities. The High Court ruled in favour of the state, issuing three orders of confiscation linked to shares and dividends associated with their criminal activities ([paras 5–6]).
+
+The appellants contested the orders, arguing that they had not directly benefited from their crimes but rather indirectly through their interests in company shares ([para 24]). They also raised issues regarding the multiplicity of confiscation orders, claiming that ordering multiple recoveries for the same proceeds through different entities would unjustly enrich the state ([paras 24–25]).
+
+## I – Issues: Legal or constitutional questions ([paras 23–24])
+
+Several pertinent issues arose from this case:
+
+1. Whether a confiscation order can be upheld against individuals who have not directly benefited from their crimes but only indirectly, through shareholdings in a company ([para 24]).
+   
+2. The legal implications of multiple confiscation orders for the same proceeds passed through different hands ([para 25]).
+
+3. The meaning of "proceeds of unlawful activities" under Section 1(1) of POCA, particularly whether it encompasses only gross proceeds or net profits after expenses ([para 29]).
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 24–30])
+
+The Court referenced the following legal rules and precedents:
+
+1. **Definition of “proceeds of unlawful activities”**: Section 1(1) of POCA specifies that "proceeds" include benefits received "directly or indirectly," which encompasses indirect benefits obtained through an entity controlled by the convicted individuals, supporting the notion that they can still face confiscation ([para 24]).
+
+2. **Multiplicity of Orders**: The court held that multiple confiscation orders targeting different intermediaries could be permissible under POCA, following the rationale that such orders act as deterrents, crucial for criminal economic regulation ([para 25]).
+
+3. **Gross vs. Net Proceeds**: The definition posits that proceeds include the total value obtained in connection with unlawful activities without deducting costs, thereby clarifying the state’s right to confiscate both shares and dividends linked to criminal pursuits ([para 29]).
+
+4. **Precedents**: Cited cases like *NDPP v Joubert* and *NDPP v Rebuzzi* outlined that confiscation targeted at stripping criminals of their illicit gains should not be limited to net proceeds, thus adopting a gross approach to assess benefits ([paras 29–30]).
+
+## A – Application: Analysis of how the court applied the law ([paras 26–34])
+
+In applying the above legal principles, the Court undertook the following analyses:
+
+1. **Direct vs. Indirect Benefit**: The Court noted that the conviction of the appellants under the Corruption Act established a link to their received benefits through Zuma’s intervention, which constituted part of the criminal activity ([paras 26–27]). They confirmed that even if Shaik’s benefits were indirect via the third appellant, Section 18(1) allowed for confiscation based on the received proceeds.
+
+2. **Assessing the First and Second Benefits**: The Court upheld the confiscation of both the value of shares and dividends. It determined that benefit valuation should be viewed in gross terms, reflecting both capital (shares) and income (dividends). The appellants were held accountable for using illicit gains to finance their acquisitions, thus not exonerating them from full confiscation ([paras 28–30]).
+
+3. **The Third Benefit**: The Court scrutinized the valency of the proceeds from the sale of shares in Thomson-CSF Holding (Southern Africa). It concluded that despite the mechanistic link to unlawful conduct, the proceeds from this share sale were not sufficiently tainted as per the Act because the financial benefit received was ostensibly unrelated to corrupt activity. Thus, the confiscation order concerning this amount (R499,688) was set aside ([paras 31–34]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 35–36])
+
+The Supreme Court of Appeal ultimately reached the following conclusions:
+
+1. The appeal against the confiscation orders relating to the first two benefits was dismissed, thereby affirming the state's right to confiscate both shares and dividends derived from criminal activities ([para 35]).
+  
+2. The appeal against the third benefit was upheld, resulting in the nullification of the confiscation order concerning R499,688, as this amount was not sufficiently linked to the unlawful actions of the appellants ([para 35]).
+
+3. Costs were ordered in a proportionate manner due to the mixed success of the appeal ([para 34]).
+
+This judgment precedent reinforces the expansive interpretation of “proceeds of unlawful activities” and establishes important clarifications regarding indirect benefits in criminal proceedings under POCA, ensuring that the legislation’s intent to dismantle the economic benefits of crime remains effectively operational.

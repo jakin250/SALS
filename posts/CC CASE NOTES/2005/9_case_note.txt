@@ -1,0 +1,44 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2005
+
+# FIRAC Case Note: Paul Johannes du Toit v Minister of Transport [2005] ZACC 22
+
+## F – Facts
+
+This case arises from an application for leave to appeal following the Supreme Court of Appeal (SCA) judgment, which overturned a decision made by the Cape High Court. The applicant, Paul Johannes du Toit, had a portion of his farm, Moordenaarskop, expropriated for the construction of a public road by the South African Roads Board, now represented by the Minister of Transport. On 12 November 1997, a notice of expropriation was issued, citing section 8(1)(c) of the National Roads Act 54 of 1971, which allowed for the temporary use of land for road construction purposes. 
+
+The expropriation involved approximately 3.03 hectares of the applicant’s land from which about 80,000 cubic meters of gravel was extracted over an 18-month period. The controversy stemmed from whether the notice of expropriation was correctly issued under section 8(1)(c) or section 8(1)(b) of the Roads Act. The applicant argued for the former, which would invoke section 12(1)(a) of the Expropriation Act—thus allowing compensation based on market value. Conversely, the respondent contended that section 8(1)(c) applied, leading to compensation determined under section 12(1)(b), focused solely on actual financial loss due to the expropriation.
+
+In the High Court, it was determined that what was expropriated was the right to use land temporarily and the gravel would be considered as part of that right. The compensation was ultimately assessed under the criteria of the Expropriation Act. The applicant claimed R801,980.00 for what he believed was the market value of the extracted gravel, while the respondent offered R6,060.00 for actual financial loss. 
+
+Following the High Court’s decision to award the applicant R257,623.00, the SCA adjusted the compensation back to R6,060.00, concluding that just and equitable compensation had been calculated based on actual financial loss alone. The applicant appealed this decision, arguing for a broader interpretation that would satisfy constitutional requirements ([1-56]).
+
+## I – Issues
+
+The case presents several critical legal issues:
+1. **Whether the notice of expropriation was validly issued under section 8(1)(c) versus section 8(1)(b) of the Roads Act**. This will influence the applicable basis for calculating compensation under the Expropriation Act ([3], [5], [10]).
+2. **Whether compensation should be assessed under section 12(1)(a) of the Expropriation Act, which considers market value, or section 12(1)(b), which pertains to actual financial loss**. The applicant contends that the former is constitutionally mandated due to the nature of property affected ([16-19]).
+3. **The implications of the interpretation of the compensation clauses under the Expropriation Act in relation to the constitutional protection of property as articulated in section 25 of the Constitution**. The applicant argues for the necessity of constitutional compliance in compensation assessments ([26-30]).
+
+## R – Rules
+
+The determination of the legal standards applicable in this case is anchored primarily in the following legislation:
+1. **The National Roads Act 54 of 1971**: Particularly sections 8(1)(b) and 8(1)(c), which differentiate between the expropriation of land and the expropriation of the right to use land temporarily.
+2. **The Expropriation Act 63 of 1975**: Sections 12(1)(a) and 12(1)(b) delineate how compensation for property or rights is calculated, distinguishing between market value for expropriated property and actual financial loss for expropriated rights.
+3. **The Constitution of the Republic of South Africa 1996**: Specifically section 25, which mandates just and equitable compensation reflecting an equitable balance between public interest and the interests of affected individuals. This includes an obligation to consider all relevant circumstances, including market value ([27]).
+
+## A – Application
+
+In applying the aforementioned legal principles, the Court analyzed the nature of the expropriation specified in the notice, concluding that what was expropriated was primarily the right to use the land temporarily for extracting gravel. The High Court and SCA aligned in their acknowledgment that the proper interpretation of the Roads Act favored the issuance of a notice under section 8(1)(c).
+
+The interpretation of compensation was central. The SCA determined that section 12(1)(b) was applicable, given that the right to use land rather than the land itself was taken. While the SCA recognized the validity of the applicant’s claims regarding market value, it ultimately determined evidence of actual financial loss had not been adequately established. This reflects the broader constitutional mandate for just compensation, necessarily differing from the Expropriation Act's provisions that had not been directly challenged by the applicant.
+
+The assessment of financial loss hinged upon contextual factors, including the absence of an established market value for the gravel due to its extraction being framed around the expropriated right rather than as an independent commodity. The SCA ruled that actual loss could not merely be speculative, thus reinforcing the significance of demonstrated financial impact over theoretical assessments of property value ([39-46]).
+
+## C – Conclusion
+
+The Constitutional Court, while endorsing the SCA's interpretation of section 8(1)(c) as applied correctly, acknowledged the relevance of constitutional criteria in establishing just compensation under section 25(3). The ruling concluded that the compensation of R6,060.00 represented just and equitable remuneration under the peculiar facts surrounding the temporary expropriation.
+
+Although differing opinions arose between Mokgoro J and Langa ACJ regarding how to reconcile the Expropriation Act with constitutional principles, the ultimate validation of the SCA's compensation assessment reveals a commitment to both statutory and constitutional fidelity. The case signifies critical guidance for future expropriation disputes regarding the interpretation of property rights and the evaluation of just compensation, establishing that compensation must invariably reconcile legislative frameworks with constitutional values ([54-56]). 
+
+In summary, the appeal was dismissed, with the Constitutional Court ruling that the compensation awarded did fulfill the constitutional standard for just and equitable measures in light of public and private interest considerations ([56]).

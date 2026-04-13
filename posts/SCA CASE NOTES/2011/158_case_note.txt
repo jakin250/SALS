@@ -1,0 +1,64 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# Case Note: Ashcor Secunda (Pty) Ltd v Sasol Synthetic Fuels (Pty) Ltd 
+
+**Neutral Citation:** Ashcor Secunda (Pty) Ltd v Sasol Synthetic Fuels (Pty) Ltd (624/10) [2011] ZASCA 158 (28 September 2011)
+
+**Court:** Supreme Court of Appeal of South Africa
+
+**Judges:** Ponnan JA (with Brand, Cachalia, Shongwe JJA and Plasket AJA concurring)
+
+---
+
+## FIRAC Case Note
+
+### F – Facts
+
+This case involves a contractual dispute between Ashcor Secunda (Pty) Ltd (hereinafter "Ashcor") and Sasol Synthetic Fuels (Pty) Ltd (hereinafter "Sasol"). The background pertains to an agreement entered into by both parties regarding the extraction and commercialization of fly-ash—a by-product of Sasol's coal-fired electricity generation process ([para 1]).
+
+Under the agreement, Ashcor was to lease a Fly Ash Plant (FAP) from Sasol, operational once significant repairs were made ([para 2]). The lease was set to commence thirty days post-repair, with a period of nearly five years, and specified that Ashcor would pay a monthly rental of R20,000, among other terms ([para 2.1]). However, Sasol disclaimed any liability regarding the plant's suitability or guarantees about the ash's quantity or quality ([para 5.1, 5.2]).
+
+Ashcor issued summons seeking damages of R303,903,000 (or alternatively R179,957,000), alleging Sasol's failure to repair the FAP constituted a breach of contract. Additionally, Ashcor contended that a mutual mistake occurred, leading to a request for rectification of the agreement ([para 3]).
+
+A trial before the South Gauteng High Court led to the court absolving Sasol from liability, which Ashcor subsequently appealed ([para 4]).
+
+### I – Issues
+
+The central legal issues addressed in this case concern:
+
+1. **Contractual Interpretation**: Whether Sasol had an enforceable obligation to repair the Fly Ash Plant and render it operational per the terms of the lease agreement.
+2. **Implied and Tacit Terms**: Whether Ashcor could introduce implicit or tacit terms into the contract that would impose greater obligations on Sasol regarding the operational capability of the Fly Ash Plant ([paras 5–11]).
+3. **Performance with Repudiation**: The extent to which one party's repudiation of a contract could excuse the other party from performing its obligations ([para 8]).
+
+### R – Rules
+
+Relevant rules and principles guiding the court's decision included:
+
+1. **Incorporation of Contracts**: The principle that the court must interpret a contract's clear language without introducing implied terms that conflict with the express terms explicitly agreed upon by the parties (Scottish Union & National Insurance Company Ltd v Native Recruiting Corporation Ltd 1934 AD 458 at 465; Coopers and Lybrand & others v Bryant 1995 (3) SA 761 (A) at 767).
+
+2. **Integration or Parol Evidence Rule**: Evidence of prior negotiations or the parties' unexpressed intentions cannot contradict the clear terms of a written agreement (KPMG Chartered Accountants (SA) v Securefin Ltd & another 2009 (4) SA 399 (SCA)).
+
+3. **Distinction Between Implied and Tacit Terms**: Implied terms are legally enforced whereas tacit terms must reflect the inferred intention of both parties ([paras 10–11]).
+
+4. **Repudiation and Performance**: One party's repudiation can release the other party from their obligations, particularly when mutuality of performance is impeded (Moodley & another v Moodley & another 1990 (1) SA 427 (D)).
+
+### A – Application
+
+The court's application of the law focused first on the interpretation of the agreement; it concluded that the clear wording of Clause 1 indicated that the lease only became operational once the FAP was repaired ([para 7]). Ashcor's assertion that Sasol was required to render the plant operational irrespective of expenditure limits was rejected. The court found no obligation extending beyond the limit of R150,000 specified in the contract ([para 8]).
+
+While Ashcor had attempted to assert a tacit term implying a duty for Sasol to ensure extraction capabilities of all fly-ash produced, the court determined that such an interpretation contradicted the explicit disclaimers of guarantees regarding the quality and quantity of fly-ash in Clauses 5.1 and 5.2. The court held that a tacit term could not be introduced where express terms explicitly governed that aspect of the contract ([para 13]).
+
+Furthermore, the court addressed the issue of performance related to Sasol's purported repudiation. Given Ashcor's refusal to accept any rental increase that might correlate with Sasol’s repair expenditures, the court found that Sasol could justifiably withhold performance ([para 8]).
+
+Ashcor's additional arguments regarding rectification of the contract were rendered moot after they abandoned this claim during the trial ([para 16]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal dismissed Ashcor's appeal, upholding the High Court’s decision to absolve Sasol from liability ([para 17]). The ruling affirmed the primacy of clear contractual language over implied or tacit interpretations and clarified the limits of reparative obligations in contractual agreements.
+
+The implications of this decision emphasize the necessity for parties to draft contracts with precise terms to avoid ambiguity and litigation over unexpressed intentions. The rejection of tacit terms serves as a reminder that parties cannot unilaterally impose obligations not explicitly contained within the written agreement.
+
+---
+
+This case illustrates the importance of contractual clarity and the constraints of incorporating implied or tacit terms in the face of express agreements, thereby reinforcing existing jurisprudential standards in South African contract law.

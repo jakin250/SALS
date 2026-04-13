@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Goldex 16 (Pty) Ltd v Capper NO & Others
+
+**Case Citation**: Goldex 16 (Pty) Ltd v Capper NO & Others (543/2018) [2019] ZASCA 105 (4 September 2019)
+
+## F - Facts:
+
+On 24 January 2013, Goldex 16 (Pty) Ltd (the appellant) entered into a written agreement of sale with the Des Property Trust, purportedly represented by Mr. Dene Capper (the second respondent) ([para 1]). This transaction involved the sale of a real right of extension under the Sectional Titles Act 95 of 1986, with an agreed purchase price of R1.45 million ([para 1]). It was established that the agreement failed to comply with the Alienation of Land Act 68 of 1981, rendering it void ab initio ([para 1]). 
+
+Subsequently, Goldex instituted legal action against the trust, its trustees including Mr. Capper, and iProtect Trustees (Pty) Ltd, seeking payment of the purchase price ([para 2]). However, the appellant conceded that the sale did not conform with the requisite legal framework, abandoning its claim against the trustees and proceeding only against Mr. Capper in his personal capacity ([para 2]). The Gauteng Local Division of the High Court dismissed all claims, prompting the appellant to appeal solely on the dismissal concerning Mr. Capper ([para 3]).
+
+The appellant argued that despite the sale being invalid, Mr. Capper should be held liable for the payment of the purchase price, asserting a breach of warranty owing to his signature on the contract ([para 6]). 
+
+## I - Issues:
+
+The primary legal issue to be resolved is whether Mr. Capper, as the signatory of an invalid agreement on behalf of the Des Property Trust, could be held personally liable for the payment of the purchase price due to a breach of warranty, despite the overarching invalidity of the sale ([para 6]). 
+
+A secondary issue pertains to whether any implied terms exist within the agreement that could bind Mr. Capper in a personal capacity, in light of the void nature of the transaction ([paras 8–10]).
+
+## R - Rules:
+
+The court relied upon various legal principles and precedents in its consideration. 
+
+1. **Invalidity of Contracts**: As established under the Alienation of Land Act, a sale agreement failing to comply with its provisions is void ab initio ([para 1]).
+  
+2. **Breach of Warranty**: The principle that a signatory may be held liable for a breach of warranty when signing a contract on behalf of another entity was referenced, notably in Claude Neon Lights (SA) Ltd v Daniel 1976 (4) SA 403 (A) ([para 13]). 
+
+3. **Damages Assessment**: The measure of damages in contractual claims, as articulated in Katzenellenbogen Ltd v Mullin 1977 (4) SA 855 (A), indicates that damages arise from the difference between the price sold and the market value, necessitating evidence of quantifiable loss ([para 14]).
+
+## A - Application:
+
+The court applied the statutory requisites of the Alienation of Land Act to determine the inherent invalidity of the sale due to non-compliance ([paras 1, 5]). It rejected the appellant's claim that Mr. Capper’s signature constituted a personal guarantee or established liability for the purchase price, arguing that it would violate the basic principle of contract law by allowing for specific performance on a void agreement ([paras 6, 7]). 
+
+Furthermore, the appellant’s arguments attempting to imply a tacit term or enforce a form of accountability on Mr. Capper were critically analyzed and found to be unsubstantiated given the specific clauses of the agreement, notably clause 12 concerning the representation of entities ([paras 8–11]). The court pointed out that since Capper represented a trust and not an entity awaiting incorporation, the terms of clause 12.3 regarding personal liability did not apply ([para 11]).
+
+Finally, even though there could theoretically be grounds for a claim arising from a breach of warranty, the appellant's claim lacked the requisite formulation or evidentiary basis for damages, failing to demonstrate any quantifiable loss from the alleged breach ([paras 12–14]). 
+
+## C - Conclusion:
+
+The Supreme Court of Appeal upheld the dismissal of Goldex's claims against Mr. Capper, concluding that the case was fundamentally flawed. The court found no basis to hold him liable despite his role as signatory, given the void nature of the agreement and the absence of a substantiated claim for damages ([paras 15–16]). This judgment emphasizes the necessity of compliance with statutory requirements in contractual transactions and sets a clear precedent regarding the limitations of holding individuals liable for obligations arising from invalid contracts. 
+
+The outcome underlines the importance for parties engaging in property transactions to ensure adherence to the legal frameworks governing such agreements to avoid similar disputes and liabilities. Consequently, costs were awarded to Mr. Capper ([para 16]).

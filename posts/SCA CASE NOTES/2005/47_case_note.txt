@@ -1,0 +1,77 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# FIRAC Case Note
+
+**Case Title:** Samuel Henry Symington v Pretoria-Oos Privaat Hospitaal Bedryfs (Pty) Ltd  
+**Court:** The Supreme Court of Appeal of South Africa  
+**Case Number:** 77/2004  
+**Judgment Delivered:** 27 May 2005  
+**Coram:** Brand JA, Scott JA, Streichier JA, Cameron JA, Ponnan JA
+
+---
+
+## F – Facts
+
+The case arose from a claim brought by Pretoria-Oos Privaats Hospitaal Bedryfs (Pty) Ltd (hereafter "the plaintiff") against its former directors Samuel Henry Symington (first appellant), Jacques Durandt (second appellant), and Francois Rademan (third appellant) (collectively, "the defendants") alleging breach of fiduciary duties ([1]).
+
+The plaintiff company, incorporated around 1995, was established to manage a private hospital in Pretoria. The first defendant, a founding shareholder and radiologist, entered into a shareholders agreement allowing him to conduct a radiology practice in the hospital without rent for ten years, contingent upon proper usage of the space ([3]).
+
+A lease was formalized in June 1996 between the plaintiff and Independent Advisors, a nominee of the first defendant, allowing the latter to sublease a part of the radiology section ([4]). The defendants were all shareholders and directors of the plaintiff and also involved with Independent Advisors ([5-6]).
+
+On 25 June 1998, all shares of the plaintiff were sold to a company within the Netcare Group, requiring the defendants to resign as directors. They provided their resignation letters that same day, yet the Registrar was only informed of the resignation later, on 12 September 2000 ([7-8]).
+
+The plaintiff's claim, seeking approximately R7.3 million, was based on allegations that the defendants caused the plaintiff to lose potential rental income by permitting Independent Advisors to enter into a sublease at a significantly less favorable rate than could have been obtained ([9-10]).
+
+The defendants responded with special pleas of prescription, arguing that the claim became "due" under section 12(1) of the Prescription Act 68 of 1969 (hereafter "the Act") on 8 November 1996—the date of the sublease, thus being time-barred when summons was served in November 2000 ([12-14]).
+
+The lower court (court a quo) found parts of the claim to be beyond the prescription period, dismissing most of the defendants' pleas while allowing portions of the claim and ordering costs against the defendants ([1-2]).
+
+---
+
+## I – Issues
+
+The principal issues addressed by the court were:
+
+1. **When did the "debt" become "due"** as per section 12(1) of the Prescription Act 68 of 1969? This hinged upon the proper categorization of the plaintiff's claim—whether it constituted damages or a claim for disgorgement of profits ([1-2, 23]).
+  
+2. **Was the completion of the prescription period extended** under section 13(1)(e) of the Act due to the timing of the defendants' resignation as directors ([2, 12])?
+
+---
+
+## R – Rules
+
+The applicable legal framework included sections of the Prescription Act 68 of 1969:
+- **Section 12(1)**: A claim arises when the debtor is able to make payment.
+- **Section 13(1)(e)**: Allows for an extension of the prescription period when the debtor is a member of a governing body of a juristic person and the claim could not be enforced due to that relationship ([11]).
+
+Precedents discussed involved:
+- **Robinson v Randfontein Estates Gold Mining Co Ltd 1921 AD 168**: Established that a claim for disgorgement does not necessitate proof of damages.
+- **Phillips v Fieldstone Africa (Pty) Ltd 2004 (3) SA 465 (SCA)**: Reinforced the distinction between damages and profit disgorgement claims ([24]).
+
+The legal principles from prior cases suggested a distinction between the two types of claims and how the moments of "due" debts should be interpreted ([23-24, 26-28]).
+
+---
+
+## A – Application
+
+The court analyzed the scope of the plaintiff's claim closely. Initially, it highlighted a critical admission by the plaintiff that their claim was characterized as one for damages. Yet, the plaintiff sought to reinterpret this as a claim for disgorgement of profits, arguing a breach of fiduciary duty ([29-30]).
+
+The court found that the plaintiff's claim fundamentally focused on the profits from a sublease, thereby qualifying as a claim for disgorgement. This implies that the "debt" could only arise upon actual receipt of rental payments, not merely upon the establishment of the sublease ([24-25]).
+
+Ultimately, the court rejected the plaintiff’s interpretation, pointing out that there were no allegations that profits were received before the summons was served. Thus, it ruled that the "debt" was due from the time the fiduciary breach occurred with the signing of the sublease on 8 November 1996, and therefore the claim was time-barred by three years after that date ([35]).
+
+On the extension of the prescription period under section 13(1)(e), the court concluded that the resignation of the defendants was effectively acknowledged as of 25 June 1998 and thus the extensions offered under the Act did not apply. The delay in notifying the registrar did not alter the effective resignation date as agreed upon by all parties ([12-16]).
+
+---
+
+## C – Conclusion
+
+The court's ruling led to the conclusion that both appeals from the defendants were upheld, concluding that the plaintiff’s claim was indeed barred by prescription as it became due when the breach occurred ([35]).
+
+### Implications:
+1. **Fiduciary Duties**: The case highlights crucial distinctions in how breaches regarding fiduciary duties are treated legally and the implications of timing in claims for damages versus disgorgement of profits.
+2. **Director Resignation**: It reinforces the notion that formalities around board resignations and notifying the appropriate registrars are crucial, albeit the parties can mutually agree on terminations outside strict statutory confines.
+3. **Prescription Periods**: The decision emphasizes the necessity for creditors, especially juristic entities, to act promptly in enforcing claims to avoid facing prescription issues.
+
+The final order dismissed the plaintiff’s claims, emphasizing strict adherence to the provisions of the Prescription Act and the interpretation of fiduciary duty breaches in corporate law.

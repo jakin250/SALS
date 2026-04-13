@@ -1,0 +1,60 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: The Commissioner for the South African Revenue Service v Nyhonyha and Others (1150/2021) [2023] ZASCA 69
+
+## F. Facts
+
+The appeal in question originates from a judgment in the Gauteng Division of the High Court, Johannesburg, where the court set aside the winding-up of Regiments Capital (Pty) Ltd (Regiments). The appellant, the Commissioner for the South African Revenue Service (SARS), contested this decision, arguing that Regiments was factually and commercially insolvent, and therefore, the winding-up should not have been annulled ([1]–[3]).
+
+The initial winding-up application was filed by an unpaid creditor on 16 September 2020. Following a temporary restraint order issued by the National Director of Public Prosecutions (NDPP) on 18 November 2019, which affected Regiments’ ability to participate in business transactions like the unbundling of shares in Capitec Bank Holdings Limited, Regiments faced procedural challenges before being placed under winding-up. The subsequent discharge of the NDPP's restraint order on 26 October 2020 led the respondents to seek judicial intervention on two fronts: a stay of the winding-up proceedings and an annulment of the winding-up order itself ([4]–[6]).
+
+The High Court, presided by Vally J, initially permitted a rule nisi to stay the winding-up and authorized an unbundling transaction to generate funds for Regiments. The hearing included evidence from both SARS and the respondents regarding the company’s financial position. The court, however, ultimately accepted that Regiments was commercially viable and decided that its winding-up was unnecessary, as it had sufficient liquid assets to satisfy creditor claims, including a future tax liability ([8]–[10]).
+
+### Procedural History
+
+The High Court on 22 February 2021 issued an order setting aside the winding-up. SARS subsequently appealed this decision, arguing the absence of evidence substantiating the claims of commercial solvency and contending that the correct legal standards were not applied. The case ultimately arrived at the Supreme Court of Appeal (SCA) on 8 March 2023 ([1], [5]).
+
+## I. Issues
+
+The appeal presented two primary legal questions:
+
+1. **Discretionary Power**: Whether the setting aside of the winding-up order under section 354 of the Companies Act 61 of 1973 constitutes the exercise of a "true discretion" that requires limited grounds for appellate interference ([3]–[18]).
+   
+2. **Commercial Solvency Assessment**: Whether Regiments was commercially solvent at the time the High Court granted the order to set aside the winding-up, particularly in light of the significant tax liabilities identified by SARS ([28]–[32]).
+
+## R. Rules
+
+The court's analysis hinged on several key legal provisions and precedents:
+
+1. **Section 354 of the Companies Act 61 of 1973**: This section allows the court to set aside winding-up orders if it is proven that the continuation of the winding-up would be “unnecessary or undesirable” ([15]).
+
+2. **Standard of Proof**: The court reiterated that where the setting aside is sought based on subsequent events, the test is whether the facts substantiate that the winding-up is unnecessary or undesirable. The threshold is not to determine the exercise of a true discretion but to evaluate evidential sufficiency ([22], [24]).
+
+3. **Commercial Insolvency Principles**: Drawing from *Namex (Edms) Bpk v Kommissaris van Binnelandse Inkomste* and *Murray and Others NNO v African Global Holdings (Pty) Ltd*, the court reaffirmed that a commercial entity is not solvent merely because it has assets; it must be able to meet its present and future liabilities, including contingent debts like tax liabilities ([30]–[32]).
+
+## A. Application
+
+### Misdirection of the High Court
+
+The SCA determined that the High Court had misapplied the law and misdirected itself on facts relating to the company’s asset valuation. The court's acceptance of the respondents' valuation claims regarding shares held in Kgoro and Little River was found inadequate, as the reports were not corroborated by expert testimony and did not conform to necessary evidential standards ([25]–[27]).
+
+The SCA emphasized that Regiments' liabilities exceeded its proven liquid assets ([27]). Specifically, it found that SARS' anticipated tax assessments (amounting to R279,343,833) were a critical factor in determining commercial insolvency, contradicting the previous court's analysis which disregarded this liability under the assumption that the claim was contingent until an assessment was issued ([30]).
+
+### Discretionary Power Limitations
+
+The SCA ruled that the High Court’s finding did not represent the exercise of a true discretion as prescribed under section 354. Instead, it asserted that a finding of unnecessary or undesirable continuation of the winding-up is a conclusion based on established facts rather than a discretionary choice between options ([23]–[24]).
+
+Consequently, the SCA concluded that the lower court’s reliance on a misjudgment of both facts and applicable law invalidated its order setting aside the winding-up.
+
+## C. Conclusion
+
+The SCA allowed the appeal, concluding that Regiments was factually and commercially insolvent, hence justifying the winding-up. The judgment elucidates that the winding-up continued to be necessary in light of statutory creditors' rights and the legal imperative to ensure equitable treatment of all creditors ([33]–[34]).
+
+The implications of this decision stress a clearer delineation between factually versus commercially solvent entities, reinforcing creditor protection within insolvency frameworks. Furthermore, the case underscores the limits of judicial discretion in insolvency matters, suggesting that courts must adhere closely to established facts and principles of law when deciding on winding-up applications. 
+
+The SCA's order upheld the winding-up status of Regiments, directing the financial duties of the respondents and confirming the procedural correctives necessary to restore due process in corporate insolvency cases ([36]).
+
+--- 
+
+This comprehensive case note utilizes the FIRAC method to present a thorough summary of the key issues and legal principles involved in *The Commissioner for the South African Revenue Service v Nyhonyha and Others*, suitable for academic or professional use.

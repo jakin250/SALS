@@ -1,0 +1,36 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2022
+
+## Case Note: Transnet SOC Limited v Total South Africa (Pty) Limited and Another [2022] ZACC 21
+
+### FIRAC Method Case Analysis
+
+**F - Facts**  
+The case involves a historical contractual relationship surrounding the transportation of crude oil from Durban to an inland refinery in Sasolburg, originating from an agreement signed in 1967 ([1]). This initial agreement included the neutrality principle, guaranteeing that the inland refinery would not face transportation cost disadvantages compared to coastal refineries. In 1991, a variation agreement was concluded to maintain the neutrality principle with minor modifications, including a provision for a three-year notice period for termination ([2]-[10]).
+
+Transnet SOC Limited (Transnet), having taken over from the government as a party to the original agreement, attempted to terminate the variation agreement in September 2017 by providing notice to Total South Africa (Pty) Limited (Total) and Sasol Oil (Pty) Limited (Sasol) ([2]-[16]). Discontent arose when Transnet altered the tariff for crude oil transportation, deviating from the neutrality principle, causing Total and Sasol to seek redress in the High Court ([13]-[14]).
+
+On 4 June 2015, the High Court ruled that the variation agreement remained valid and binding, reaffirming the obligation for fair tariff adjustments. Transnet appealed, and the Supreme Court of Appeal upheld the High Court ruling, leading to Transnet's notice of termination in 2017, which Total and Sasol claimed constituted a repudiation of the agreement ([14]-[17]), leading to further consolidated actions ([18]).
+
+### I - Issues  
+The key legal questions presented to the Constitutional Court were:  
+1. Was the variation agreement terminable, and if so, was it validly terminated?  
+2. Did Total and Sasol's claims for contractual damages disclose a valid cause of action? ([19]).
+
+Transnet argued that the High Court's ruling effectively bound it to an indefinite contract in contravention of public policy ([20]). The interpretation of the phrase in clause 5 of the variation agreement regarding the need for a “full agreement of conveyance” also became central to the dispute ([21]-[24]).
+
+### R - Rules  
+The court considered the following legal principles and statutory provisions:  
+- **Interpretation of Contracts:** According to South African contract law, the terms must be understood in their ordinary grammatical meaning, considering context and purpose ([60]).
+- **Public Policy:** Certain provisions can be rendered unenforceable if they contravene public policy principles established in sections 195(1) (public administration) and 217 (state procurement) of the Constitution ([20]-[22]).
+- **Breach of Contractual Obligation:** A party can claim specific performance and damages for breach without necessarily canceling the contract, provided the claim stems from an actionable failure to comply with contract terms ([38]).
+
+### A - Application  
+1. **Termination of the Variation Agreement:** Transnet's argument hinged on its interpretation that the High Court had essentially rendered the contract perpetual, violating principles of public administration. However, the Constitutional Court found that the right to terminate the agreement was indeed valid, rooted in the language of clause 5, which allowed for notice to terminate when a full agreement was in preparation ([78]). The Court clarified that the requirement for a 'full agreement' served more as a procedural note during the establishment of the variation agreement rather than a substantive barrier to termination.
+
+2. **Cause of Action for Damages:** The Court affirmed that Total and Sasol could seek damages for overcharges directly arising from Transnet's deviation from the stipulations of the variation agreement. It concluded that claims for contractual damages do not necessitate the cancellation of the existing agreement for a party to recover amounts allegedly overcharged—for doing so is consistent with established principles of contract and tort law ([42]). Transnet's new argument about the applicability of the condictio indebiti was dismissed, reconfirming the entitlement of Total and Sasol to their claims.
+
+### C - Conclusion  
+The Constitutional Court ultimately ruled that the variation agreement was terminable and that Transnet validly terminated it, establishing the effective termination date as September 13, 2020. The Court affirmed the validity of claims for damages for overcharges, not contingent upon the cancellation of the contract, setting an important precedent regarding contracts with indefinite terms and the conditions for valid termination ([80]).
+
+**Implications:** This ruling underscores the necessity for clear contractual language regarding termination rights and may influence how public entities manage long-term agreements in light of public policy considerations. Furthermore, it reinforces the principle that parties may pursue damages for breaches without canceling underlying contracts, thereby broadening the scope for recovery in contractual disputes within South African law.

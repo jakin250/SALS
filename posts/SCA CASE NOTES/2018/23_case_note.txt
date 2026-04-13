@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: Palabora Copper (Pty) Ltd v Motlokwa Transport & Construction (Pty) Ltd (298/2017) [2018] ZASCA 23
+
+## FIRAC Case Note
+
+### F – Facts
+The case revolves around an arbitration award concerning a dispute between Palabora Copper (Pty) Ltd (Appellant) and Motlokwa Transport & Construction (Pty) Ltd (First Respondent) stemming from a tender process for the removal of waste from Palabora's mining operations. On 23 December 2014, Palabora notified Motlokwa that it had accepted their tender, marking the beginning of a tumultuous relationship ([1]). Subsequently, Palabora sought a declaratory order in the Gauteng High Court, claiming that no valid contract had been formed ([2]). Motlokwa counterclaimed for specific performance and damages, arguing that Palabora's refusal to allow them to perform constituted repudiation and thereby entitled them to damages ([2]). 
+
+The parties agreed to submit the dispute to arbitration, presided over by retired Judge Justice C J Claassen. The arbitrator made interim findings that a valid contract existed and dismissed Palabora's claims ([3]). Following this, the arbitrator awarded significant damages to Motlokwa, which Palabora contested, alleging gross irregularities in the arbitration proceedings, particularly concerning the arbitrator's conclusions on damages awarded to Motlokwa ([4], [6]).
+
+### I – Issues
+The primary legal issue in this case pertains to whether the arbitration award could be set aside under Section 33(1)(b) of the Arbitration Act 42 of 1965 on grounds of gross irregularity. Specifically, the court had to address:
+
+1. Whether the arbitrator erred in placing the burden of proof on Palabora regarding the damages claimed by Motlokwa.
+2. Whether the arbitrator's preliminary findings on the existence of a contract prejudiced Palabora's ability to argue the lack of consensus.
+3. Whether it was valid for the court to sever the arbitration award into 'good' and 'bad' parts, allowing for part of the award to be enforced ([6], [43], [44]).
+
+### R – Rules
+The relevant legal principles governing arbitration awards in South Africa can be found in Section 33(1)(b) of the Arbitration Act, which allows courts to set aside an award for “gross irregularity” during the arbitration process. The legal interpretation of gross irregularity stipulates that if a party is denied a fair hearing or if the arbitrator misconceives the nature of the inquiry, these may constitute grounds for setting aside the award ([7]). The courts maintain a general reluctance to disturb arbitration awards, reflecting the parties' preference for arbitration over litigation ([7], [8]).
+
+Precedents such as *Telcordia Technologies Inc v Telkom SA Ltd* elucidate that while errors in law or fact do not constitute gross irregularities, a failure to afford a party a fair hearing does ([7]).
+
+Additionally, the legal concept of severability in arbitration awards was discussed, indicating that a court may set aside only part of an award if the irregularity does not infect the entire decision ([46], [48]).
+
+### A – Application
+The Supreme Court of Appeal applied the governing principles by scrutinizing the arbitration record and the contested issues concerning the burden of proof in relation to Motlokwa's claim for damages. The court found that the arbitrator had improperly placed the onus of proof on Palabora to demonstrate that Motlokwa would not have suffered damages, contrary to the established rule that the claimant holds the burden to prove any allegations of loss ([31], [38]).
+
+Regarding the issue of the contract's validity, the court held that the arbitrator's preliminary determination about the contract's existence appeared to foreclose Palabora's ability to effectively argue against the existence of consensus, particularly since the arbitrator had not allowed sufficient exploration of related defenses such as mutual mistake and iustus error ([24], [28]). The court concluded that the cumulative effect of these missteps deprived Palabora of a fair trial concerning the counterclaim, leading to the unjust award of damages without evidence establishing Motlokwa's ability to fulfill the contract ([42]).
+
+On the issue of severability, the court found that only the part of the arbitration award related to the counterclaim should be set aside, while the parts rejecting Palabora's claims could stand. This distinction was justified as the issues concerning the existence of a contract and damages were distinctly separate after the parties agreed to bifurcate them ([45], [48]).
+
+### C – Conclusion
+The Supreme Court of Appeal upheld Palabora's appeal, emphasizing the gross irregularities in the arbitration process that invalidated the award of damages to Motlokwa. The court ruled that only paragraph D of the arbitrator's award concerning the counterclaim, and the order of the High Court to make the entire award enforceable, should be set aside. The dispute concerning the counterclaim was remitted for determination by a new arbitration tribunal, thus reinforcing the principle of fair process in arbitration ([50], [52]).
+
+The implications of this judgment reiterate the importance of clear rules regarding the burden of proof and fair procedures in arbitration, while also affirming the possibility of severing parts of an award when only specific aspects are tainted by irregularities. This case serves as a definitive guide for future arbitrations concerning the treatment of claims and counterclaims, as well as the due process rights of the involved parties. 
+
+[Source citations inline: Palabora Copper (Pty) Ltd v Motlokwa Transport & Construction (Pty) Ltd (298/2017) [2018] ZASCA 23.]

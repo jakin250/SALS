@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2003
+
+# Case Note: HNR Properties CC & Another v Standard Bank of South Africa Ltd [2003] ZASCA 75
+
+**FIRAC Method Case Note**
+
+## F – Facts
+
+In this appeal, the respondent, Standard Bank of South Africa Ltd (‘the bank’), brought an action against HNR Properties CC and Mr. Rasheed Hargey as sureties for the debts of HNR Computers (Pty) Ltd. The suretyship agreements were executed on 29 July 1993, with Hargey's liability capped at R1,000,000, whilst that of HNR Properties was unlimited. Clause 15 of the deeds mandated that any release from the suretyship must be in writing, signed by the bank's authorized representative ([1]). 
+
+The appellants contended they were released from their obligations based on three main arguments: (1) a letter dated 20 April 1998 constituted written notice of release; (2) the bank’s conduct and implied waiver of the writing requirement effectively released them; and (3) the bank was estopped from denying the release due to previous dealings ([1]). The trial court dismissed these defenses, ruling that the appellants had not proved any release, resulting in a judgment for the bank of R1,000,000 against the first appellant and R11,759,456.20 against the second ([1]).
+
+## I – Issues
+
+The principal issues for determination included:
+
+1. Whether the 'facilities letter' dated 20 April 1998 constituted a written release from the suretyship as required by clause 15 of the suretyship agreements.
+2. Whether the bank’s conduct amounted to a waiver of the writing requirement or created an estoppel against the bank concerning the appellants' surety obligations.
+3. Whether the reliance theory of contract, suggesting that a release was implied in the facilities letter, could be successfully argued by the appellants ([1]).
+
+## R – Rules
+
+The legal principles relevant to this case stem from the suretyship agreements and established contract law doctrines, particularly regarding waiver, estoppel, and non-variation clauses:
+
+1. **Suretyship Requirements**: Clause 15 necessitates a written release to be effective ([1], [16]). This aligns with established jurisprudence emphasizing that provisions for release must be clear and observed as suspended when not recorded in writing (as generally upheld in *Tsaperas and Others v Boland Bank Ltd* 1996 (1) SA 719 (A) at 724D-E) ([15]).
+
+2. **Non-Variation Clause**: The requirement espoused in clause 16 establishes that any amendment or cancellation of the suretyship must conform to the same formalities as the original agreements, effectively reinforcing the authority found in *SA Sentrale Ko-op Graanmaatskappy Bpk v Shifren en Andere* 1964 (4) SA 760 (A) ([20]).
+
+3. **Waiver and Estoppel**: Generally, waiver and estoppel may operate to circumvent strict contractual terms only where parties’ conduct implies consent to variations or releases, subject to the limitations mentioned above ([21]).
+
+4. **Reliance Theory**: A party may argue that interpretation of contractual terms led them to reasonably believe in an implied agreement fostering a release when the terms were accepted, needing to align with reasonable expectations stemming from the offer ([23]).
+
+Through the application of these rules, the court sought to clarify the legal standing regarding the appellants' claims of release from guarantee.
+
+## A – Application
+
+In evaluating the appeal, the court employed a two-pronged approach, firstly assessing whether the letter in question constituted a valid release per the stipulations in clause 15, and secondly, whether the appellants had a reasonable belief of release based on conduct or representations from the bank.
+
+1. **Facilities Letter**: The court examined the construction of the facilities letter dated 20 April 1998, concluding that it did not reference any existing sureties or imply a release ([17]). The security mentioned related to future arrangements rather than the cancellation of existing ones ([17]).
+
+2. **Waiver and Estoppel**: The court found insufficient evidence that the bank’s actions could be construed as a waiver of the written requirement stipulated in clause 15. The transactions post-dating the claimed release did not reflect an understanding amongst all parties of any such waiver or release ([21]). Both previously held negotiations and subsequent conduct failed to establish a clear set of representations that would operate to the appellants' detriment ([22]).
+
+3. **Reliance Theory of Contract**: The court considered whether reasonable parties (Hargey and Berthold) could have relied on the office's understanding that the letter indicated an intention to release the sureties. Ultimately, the inherent knowledge of clause 15, coupled with the absence of explicit release terms in the letter, precluded any reasonable assumption that such a release was intended ([25]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal's determination effectively reinforced the stringent conditions under which suretyship releases are upheld, affirming the necessity of adherence to the requirement of written confirmation for release ([27]). It concluded that the appellants failed to provide sufficient evidence to prove release based on the letter, conduct, and reliance theory posited. Therefore, the appeal was dismissed, upholding the trial court's ruling along with costs awarded to the respondent ([27]).
+
+### Implications:
+
+This case illustrates the heightened protective measures within suretyship agreements and contractual obligations, serving as a cautionary tale for parties to diligently adhere to formalities established in financial and corporate dealings. Institutions such as banks are unlikely to easily release sureties while the underlying debts remain extant, emphasizing the necessity for unequivocal written communication to effectuate such releases.

@@ -1,0 +1,43 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2008
+
+# Case Note: FIRAC Analysis of Molimi v The State
+
+## F – Facts
+The case of **Richard Ditshele Molimi v The State** ([2008] ZACC 2) revolves around the admissibility of extra-curial statements made by co-accused against Molimi during a criminal trial. Molimi, the applicant, was one of three individuals indicted for robbery (with aggravating circumstances), murder, and attempted murder following a violent robbery at a Clicks store in Johannesburg on 30 October 2007. During the robbery, the assailants confronted a security officer from Fidelity, robbing him of over R45,000 while two individuals were fatally shot, including a Clicks security guard and a hostage ([paras 1–6]).
+
+Molimi was arrested a day after the robbery. The prosecution presented statements made by accused 1 and accused 3, both of whom implicated him in the robbery. Accused 1 initially confessed to the police, and his statement detailed the planning of the robbery, including patterns of communication between the individuals involved. In contrast, accused 3 testified that he had been coerced into making a statement ([paras 4–7]). The High Court allowed the admission of these statements against Molimi, asserting that they could be crucial in establishing guilt ([paras 9–16]).
+
+## I – Issues
+The main legal issues presented in this case are:
+
+1. **Hearsay Evidence**: Whether the statements made by co-accused should be regarded as hearsay and therefore inadmissible under the **Law of Evidence Amendment Act 45 of 1988**.
+2. **Constitutional Rights**: Whether the admissibility of these statements infringed upon the applicant's right to a fair trial as expressed in **section 35(3) of the South African Constitution** ([paras 1–2], [21–22]).
+3. **Procedural Integrity**: The timing and manner of the trial court's ruling on the admissibility of evidence and whether it was consistent with established legal standards and prior case law, specifically the principles enunciated in **S v Ndhlovu** regarding the admission of hearsay ([paras 17–20], [29, 30]).
+
+## R – Rules
+The relevant legal rules governing hearsay evidence and confessions in this context are outlined mostly within the **Law of Evidence Amendment Act** and related case law:
+
+1. **Section 3** of the Law of Evidence Amendment Act provides that hearsay may only be admitted under certain conditions ([para 2]). This includes an evaluation of factors such as:
+   - The nature of the proceedings,
+   - The nature of the evidence,
+   - The probative value of the evidence,
+   - Any potential prejudice to a party.
+
+2. **Section 219** of the Criminal Procedure Act indicates that a confession made by one accused is inadmissible against another ([para 30]).
+
+3. The precedent set by **S v Ndhlovu**, which established that hearsay must not surprise the accused and must be considered in the context of the evidence presented to ensure fairness ([paras 17–19]).
+
+## A – Application
+The Constitutional Court of South Africa applied these principles to determine the admissibility of the confessions of the co-accused and their implications for the applicant. 
+
+1. **Assessment of Hearsay**: The court was critical of the trial court and the Supreme Court of Appeal for admitting hearsay without a clear, timely ruling, which failed to respect the applicant's rights to know the evidence against him, undermining the procedural integrity of the trial ([paras 40–44]).
+
+2. **Confession vs. Admission**: The Court re-evaluated the nature of the statements made by accused 1 and accused 3. Although accused 1's statement aligned with the characteristics of a confession, the Court maintained that such testimony cannot legally implicate Molimi as a separate accused under Section 219 of the CPA. The statement should have been inadmissible ([paras 29–31]).
+
+3. **Right to a Fair Trial**: The Court emphasized the importance of the right to a fair trial, noting that late admissions of evidence can prejudice an accused, making it challenging to mount an effective defense. The trial should have ensured that Molimi was aware of the total evidentiary weight he was facing before he provided testimony ([paras 41–44]).
+
+## C – Conclusion
+The Constitutional Court ultimately upheld Molimi's appeal, concluding that the previous rulings by the High Court and Supreme Court of Appeal were incorrect in admitting the statements made by the co-accused against him. The statements did not comply with the admission standards outlined in the relevant statutory frameworks and case law ([paras 55–56]).
+
+The significance of this case lies in reaffirming the rights of accused individuals to a fair trial, encompassing the right to understand the case against them and the implications of hearsay evidence on their defense strategies. The admission of inherently prejudicial statements made by co-accused is prohibited under South African law to maintain the integrity of the judicial process and protect the fundamental principles of justice. As a result, the court’s decision underscores the necessity for clear, timely, and lawful evidentiary procedures to uphold fairness in trials ([paras 54–56]).

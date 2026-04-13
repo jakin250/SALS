@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# Case Note: Nedcor Bank Limited v R A Rundle [2006] SCA 112 (RSA)
+
+## FIRAC Analysis
+
+### F – Facts ([paras 1–5])
+
+This case arises from a dispute concerning the interruption of the prescription of a money debt that has been linked to the liquidation of a debtor company, Scientific Medical Systems (Pty) Ltd (hereinafter referred to as "SMS"). The appellant, Nedcor Bank, sought payment totaling R204,214.70 from the respondent, R A Rundle, in his capacity as surety and co-principal debtor for amounts allegedly owed by SMS. 
+
+The procedural history indicates that SMS was finally liquidated on 12 December 1997. The Bank lodged its claims against SMS on 1 June 1998. In response, Rundle filed a special plea of prescription claiming that the debt became due on the date of SMS's liquidation, and by section 13(1)(g) of the Prescription Act 68 of 1969, the running of prescription was temporarily interrupted while the claims were in liquidation. He contended that the debts ceased to be an object of a claim in SMS's estate after the confirmation of the Liquidation and Distribution account on 8 August 2000 and consequently prescribed by 7 August 2001.
+
+The trial proceeded in the Orange Free State Provincial Division, where the Bank's claims were deemed enforceable based on its valid interests in SMS's estate. Following the presentation of evidence, Rundle applied for an absolution from the instance due to the claim's prescription, which was granted. The Bank appealed this decision.
+
+### I – Issues ([paras 6–8])
+
+The core issue before the Supreme Court of Appeal was the determination of the date upon which the impediment to the prescription of the debt ceased to exist. Specifically, the questions were:
+
+1. Did the impediment created by section 13(1)(g) terminate on the date of confirmation of the first Liquidation and Distribution account (8 August 2000), or did it persist until the final account was confirmed on 19 November 2002?
+2. How does one properly interpret section 13(1)(g) of the Prescription Act in the context of the cessation of a debtor’s collectible claims during liquidation?
+
+### R – Rules ([paras 9–12])
+
+The relevant rule of law emerges from section 13(1)(g) of the Prescription Act, which stipulates that the prescription period for debts is interrupted if a claim is lodged against the estate of a debtor in liquidation. The statute clarifies that the period of prescription shall not expire until one year has passed after the impediment ceases to exist.
+
+ jurisprudence supports that:
+
+- **Confirmation of the Final Liquidation account**: The cessation of the impediment is linked to the confirmation of the final Liquidation and Distribution account (Leipsig v Bankorp Ltd 1994 (2) SA 128 (A)), where it was determined that only once this confirmation takes place, can a claim cease to be regarded as an object of the claim against the estate.
+- **Judicial Precedents**: Cases such as Jans v Nedcor Bank Ltd 2003 (6) SA 646 (SCA) and Absa Bank Beperk v De Villiers 2001 (1) SA 481 (SCA) are instrumental in understanding the interpretative scope of section 13(1)(g), emphasizing that the mere lack of realistic hope for further dividends does not terminate the debt's status as an object of a claim.
+
+### A – Application ([paras 8–14])
+
+The court's analysis focused on precisely when the impediment under section 13(1)(g) ends. The trial judge opined that the confirmation of the first Liquidation account implied a realistic cessation of any further dividends and therefore the impediment lapsed on 8 August 2001, leading to the conclusion that the claim had prescribed by the time the summons was issued.
+
+Upon review, the Supreme Court of Appeal expressed a critical view of this reasoning. The court found that the critical wording of section 13(1)(g) had been misapplied; it did not support the idea that the realization of dividends was a relevant factor for terminating the impediment. The court firmly stated that the impediment ceases only upon the confirmation of the final liquidation account, reinforced by prior case law. 
+
+The court highlighted that a "first and final" account could lead to confusion, as the term "first" inherently suggests that further accounts could exist, undermining the notion of finality.
+
+### C – Conclusion ([paras 14])
+
+The Supreme Court of Appeal concluded that the trial court had erred in its interpretation of section 13(1)(g) regarding the cessation of the impediment to the prescription of the Bank's claim. The true cessation point was the date of confirmation of the final Liquidation and Distribution account on 19 November 2002, not the date of the first account. 
+
+Therefore, the appeal by Nedcor Bank was upheld, the order of the court a quo was set aside, and the special plea of prescription was dismissed. The matter was sent back for consideration on the merits. This case underscores the strict adherence to statutory interpretation in the context of debt recovery during insolvency proceedings and clarifies the implications of accounting termini in liquidation cases. 
+
+Through this ruling, the court has reaffirmed the statutory framework governing prescription, maintaining its predictability and safeguarding the interests of creditors in liquidation scenarios.

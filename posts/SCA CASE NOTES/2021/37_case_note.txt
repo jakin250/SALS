@@ -1,0 +1,67 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note
+
+**Case Title**: *The Competition Commission of South Africa v Group Five Construction Limited (Case no 195/20) [2021] ZASCA 37 (8 April 2021)*
+
+**Court**: Supreme Court of Appeal of South Africa
+
+**Coram**: Navsa ADP, Zondi and Dambuza JJA, Rogers and Mabindla-Boqwana AJJA
+
+**Heard**: 5 March 2021
+
+**Delivered**: 8 April 2021
+
+---
+
+## F - Facts
+
+This appeal arises from a ruling by the Gauteng Division of the High Court, where the Competition Commission of South Africa (the *Commission*) challenged the jurisdiction of the court regarding a review application made by Group Five Construction Limited (*Group Five*). The review application sought to invalidate the Commission's initiation of a complaint against Group Five under the Competition Act 89 of 1998 (the *Act*) concerning collusive behavior in the construction of stadiums for the 2010 FIFA World Cup ([1]–[2]).
+
+The Commission initiated its investigation following concerns about escalating costs associated with the FIFA World Cup projects, leading to a complaint against various construction companies, including Group Five, for contraventions of section 4(1)(b) of the Act ([3]–[4]). Section 4(1) prohibits restrictive practices among competitors, such as price-fixing and market allocation. Group Five later alleged that it had been granted immunity from prosecution in return for disclosing information about the alleged cartel activities under the Corporate Leniency Policy (CLP) but claimed that the Commission later reneged on this promise ([5]–[6]).
+
+The Commission formally referred the complaint to the Competition Tribunal in November 2014, alleging that Group Five had engaged in collusive conduct to manipulate tender prices ([7]). In its high court application, Group Five contended that the complaint initiation lacked validity, that the Commission’s actions violated the granted immunity, and asserted that the referral was conducted in bad faith ([8]).
+
+The Commission responded by filing an application under rule 30 of the Uniform Rules, claiming that the high court lacked jurisdiction and that the matter was exclusively within the jurisdiction of the Tribunal. The high court dismissed this application, ruling that the Commission should have raised its objections through a special plea, and proceeded to address the merits of the jurisdictional argument ([9]–[10]).
+
+---
+
+## I - Issues
+
+The legal issues at stake in this appeal are:
+1. Whether the high court has jurisdiction to adjudicate the review application made by Group Five regarding the Commission's actions under the Act.
+2. Whether the Competition Tribunal possesses exclusive jurisdiction to handle matters related to interpretation and application under Chapter 5 and if the specific nature of the claims presented falls within this exclusivity ([1]–[2]).
+
+---
+
+## R - Rules
+
+The legal framework guiding this case primarily comprises the following provisions of the Competition Act 89 of 1998:
+- **Section 62** delineating jurisdiction between the Competition Tribunal and the Competition Appeal Court (CAC) concerning the interpretation and application of the Act. It establishes that:
+  1. Matters under Chapters 2, 3, and 5 fall within their exclusive jurisdiction unless explicitly provided otherwise.
+  2. Section 62(2) allows the CAC to handle specific questions, including whether actions taken by the Commission are within their jurisdiction ([15]–[16]).
+
+The court also relied on precedents, notably *Agri Wire (Pty) Ltd and Another v Commissioner of the Competition Commission and Others*, which emphasized that questions regarding the validity of actions taken by the Commission fall under the jurisdiction of the Superior Courts rather than being confined to the Tribunal ([23]).
+
+---
+
+## A - Application
+
+The court evaluated the nature of Group Five's claims about the validity of the Commission's decisions to initiate a complaint and to refer this matter to the Tribunal. The Supreme Court of Appeal noted that these issues pertain to legality and stem from a review of the Commission's compliance with its statutory mandate, specifically whether it acted within its powers when initiating the complaint ([21]).
+
+Section 62(1) gives exclusive jurisdiction to the CAC and the Tribunal for certain chapters, but the Act does not explicitly exclude judicial review rights assigned to the high court under section 62(2)(a) concerning jurisdictional matters or constitutional issues ([26]). Accordingly, the court reasoned that Group Five's challenge was not related to the merits of the complaint itself but rather to the lawfulness of the Commission's actions—thus categorizing these issues as statutory interpretations better suited for review by the high court.
+
+Additionally, the understanding that administrative legality forms a constitutional issue underpinned the court’s view, paralleling discussions in *Biowatch Trust v Registrar Genetic Resources* and other relevant legal precedents regarding the scrutiny of administrative actions ([25]).
+
+The arguments presented by the Commission that the pending disputes before the Tribunal might restrict the high court's jurisdiction were also dismissed, as they did not pertain to the same subject matter but were fundamentally about the legality of the actions undertaken by the Commission ([27]).
+
+---
+
+## C - Conclusion
+
+The Supreme Court of Appeal ultimately concluded that the high court did have jurisdiction to entertain the review application invoked by Group Five. The court dismissed the Commission's appeal on the basis that the issues raised pertained to legality and were within the purview of the high court, not limited by provisions of the Competition Act assigning exclusive jurisdiction to the Tribunal or CAC. The court emphasized the importance of judicial oversight on matters concerning due process and legality in administrative actions. The appeal was dismissed with costs, reinforcing the principle that challenges regarding the scope of jurisdiction raise matters of significant public interest and governance ([28]).
+
+---
+
+These findings highlight critical considerations for the interpretation of jurisdiction provisions under the Competition Act, reaffirming the need for judicial review in administrative decision-making contexts. Thus, while the competition authorities retain specialized powers, the courts retain essential oversight to ensure adherence to the rule of law and protect rights arising from statutory interpretations and actions.

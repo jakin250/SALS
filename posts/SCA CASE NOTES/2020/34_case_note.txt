@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+### FIRAC Case Note for *Diageo South Africa (Pty) Ltd v Commissioner for the South African Revenue Service* (330/2019) [2020] ZASCA 34
+
+#### F – Facts
+The case revolves around Diageo South Africa (Pty) Ltd (Diageo), a VAT vendor involved in the importation, manufacturing, and distribution of alcoholic beverages, which provided advertising and promotional (A&P) services to various non-resident brand owners ([1]–[2]). Between June 2009 and June 2011, Diageo rendered these A&P services and charged a zero percent VAT in accordance with Section 11(2)(l) of the Value Added Tax Act 89 of 1991 (the Act) ([2]). However, the South African Revenue Service (SARS), through its Commissioner, contested this by asserting that Diageo's supplies constituted deemed separate supplies under Section 8(15) of the Act, which delineates how supplies deemed to be both goods and services should be taxed ([5]).
+
+The case's pivotal facts include:
+1. Diageo's supply comprised both promotional goods and services aimed at enhancing brand equity for the brand owners ([7(i)]–[7(v)]).
+2. The brand owners did not individually undertake advertising; they contracted the services to Diageo, which facilitated various promotions and events ([7(i)], [7(iii)]).
+3. Diageo charged a singular fee for these services, not differentiating between the goods and services on invoices ([7(vi)]).
+
+The controversy arose when SARS assessed Diageo for additional VAT on promotional goods, claiming these were consumed within South Africa and thus should be subjected to a standard VAT rate under Section 7(1)(a) of the Act ([5]).
+
+#### I – Issues
+The primary legal issue in this case pertained to the interpretation and applicability of Section 8(15) of the Act. Specifically, the court needed to ascertain whether Diageo's A&P service constituted a "single supply" under this deeming provision, thus triggering the requirement for the tax treatment of the respective components (goods and services) ([1], [16]). Additionally, the court had to address whether the application of Section 8(15) would necessitate the supplies to be economically dissociable and whether such distinctions were factually and legally appropriate given Diageo's operational realities ([8], [10]).
+
+#### R – Rules
+The legal framework governing this appeal comprised the following statutory provisions:
+- **Value Added Tax Act 89 of 1991**, particularly Sections 7(1)(a) and 11(2)(l), which outline the general rules for VAT imposition and exceptions for non-resident services ([4]).
+- **Section 8(15)**: This deeming provision asserts that when a "single supply" encompasses both goods and services, where different tax rates would apply if separated, each element shall be treated as a distinct supply for VAT purposes ([3], [12]).
+- Judicial precedent, particularly referencing *Commissioner, South African Revenue Service v British Airways plc* and *Mouton v Boland Bank*, which explicate the tortuous nature of deeming provisions and their intended applications in VAT contexts ([17], [13]).
+
+#### A – Application
+The Supreme Court of Appeal engaged in a thorough analysis of the application of Section 8(15) to the circumstances presented:
+1. The court determined that Diageo's provision of A&P services constituted a single supply of both goods and services, which intrinsically fulfilled the criteria set forth by Section 8(15) ([18]).
+2. The judgment underscored that the terms of Diageo's contracts with brand owners did not preclude the characterization of promotional goods and services as distinct yet related components of a single supply, especially given the inextricable link between the goods distributed and the services rendered for advertisement purposes ([15], [19]).
+3. The court refuted Diageo's argument about economic divisibility and independent supplies, maintaining that Section 8(15) does not hinge upon such factors but rather applies upon the technical fulfillment of a single supply deemed to involve variable tax treatments per component ([20], [21]).
+
+Ultimately, the Court concluded that the operational context of the promotional strategies employed by Diageo aligned with the principles of Section 8(15) and confirmed the Commissioner’s assessment to impose VAT adjustments appropriately reflecting the nature of the supplies involved ([21]).
+
+#### C – Conclusion
+The Supreme Court of Appeal dismissed Diageo's appeal, affirming the Tax Court's ruling that there were indeed deemed separate supplies of goods and services falling within differing tax jurisdiction under the Act ([22]). The court's reasoning reinforced the importance of adhering to legislative intent when interpreting tax law, especially under deeming provisions that permit local VAT impositions. The implications of this ruling extend to similar cases involving composite supplies under the VAT framework, ensuring that all component supplies are duly recognized for appropriate tax treatment as aligned with South African tax policy ([20]).
+
+Diageo remains obligated to adjust its VAT output taxes for the promotional goods it had provided and consumed domestically, highlighting the necessity for compliance in maintaining distinct and clear VAT records to preclude such disputes in future dealings.

@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Yende v Passenger Rail Agency of South Africa (39/2014) [2015] ZASCA 49
+
+## FIRAC Method
+
+### F – Facts
+The case of **Yende v Passenger Rail Agency of South Africa** arose from an incident that took place on 24 March 2005, at the Elsburg railway station, when the appellant, Mr. Lucky Mhlonishwa Yende, sustained severe bodily injuries while attempting to board a moving train ([1]). Mr. Yende alleged that the Passenger Rail Agency of South Africa (PRASA) was negligent due to inadequate safety measures concerning boarding procedures ([2]). His testimony indicated that as he attempted to board the train, it jerked and began moving abruptly, forcing him to fall under it. The injuries sustained necessitated the amputation of his right arm ([3]).
+
+The guard, Ms. Juwulwa, testified about the procedural steps taken before the train's departure. She indicated that after the train's arrival, she signaled for its departure after ensuring it was safe to do so from her position on the platform. However, a significant point of contention was whether the train had been stationary long enough for passengers to board, with Mr. Yende claiming it began moving almost immediately, contrary to PRASA's assertion of a 45-second wait ([5]). The trial court ultimately found PRASA negligent in its procedures but determined that there was no causal connection between the alleged negligence and Mr. Yende’s injuries, leading to the dismissal of his claim ([10]).
+
+### I – Issues
+The primary legal issue addressed in this appeal was whether Mr. Yende effectively discharged the burden of proof in demonstrating that PRASA was delictually liable for his injuries. Specifically, the court focused on:
+
+1. Was PRASA negligent in allowing the train to depart without sufficient safety measures?
+2. Did the negligence established by the lower court causally connect to Mr. Yende’s injuries?
+3. What evidentiary standards applied to the onus of proof regarding negligence and causation? ([1], [10]).
+
+### R – Rules
+The legal rules applicable to this case are centered on delictual liability, particularly the elements of negligence – duty of care, breach, causation, and harm. The foundational principles include:
+
+1. **Negligence**: A party is liable if they owe a duty of care to another, breach that duty, and the breach causes foreseeable harm (see Boberg PQR The Law of Delict (1991) 274-279) ([11]).
+2. **Causation**: The 'but-for' test is used to determine if the injuries would have occurred but for the defendant’s actions (Lee v Minister of Correctional Services 2013 (2) SA 144 (CC) paras 40-41). This also encompasses the understanding that causation must be assessed flexibly, considering common experience ([21], [22]).
+3. **Onus**: The appellant bears the burden of proof to establish negligence and a causal link to their injuries ([1], [21]).
+
+### A – Application
+In applying the law, the court examined whether PRASA’s protocols concerning train departures on a curved platform were in line with a reasonable standard of safety. The trial court noted procedural flaws, citing the unsighted manner in which the departure was managed and the absence of a second guard to monitor passenger safety ([9], [19]). However, despite acknowledging PRASA's negligence, the court ultimately found that Mr. Yende did not provide a credible account of how the negligence led to his injuries.
+
+The court emphasized that without a plausible narrative of causation, Mr. Yende’s claim could not succeed ([10]). Despite the claimant’s assertion that the open doors may have contributed to his injuries, the court rejected this argument, positing that Mr. Yende's own failure to establish a coherent theory of causation rendered his claims unproven ([8], [10]). Contrarily, the dissenting judgment posited that the acknowledged procedural negligence of PRASA directly contributed to the injuries sustained, asserting that the court failed to adequately link those deviations to the injury under the reasonable person standard ([20]).
+
+### C – Conclusion
+The Supreme Court of Appeal upheld the trial court's dismissal of Mr. Yende’s appeal, concluding that while negligence on PRASA's part was established, it could not be proven that such negligence was causally linked to Mr. Yende’s injuries ([12]). The majority emphasized that negligence must always be evaluated concerning foreseeability and direct connection to harm ([11]). The dissenting opinion, however, articulated a belief that the procedural failures were inherently linked to the incident, thereby establishing a rightful basis for liability and advocating a 50% reduction of damages based on Yende's contributory negligence if no other intervening factors were at play ([30]).
+
+The case highlights essential principles in the negligence framework within South African law and underscores the importance of coherent evidence linking alleged negligence to injury in establishing liability in tort claims. Ultimately, the decision reinforces the weight of the burden of proof on appellants in negligence cases, particularly when the facts are contested. The implications suggest ongoing discussions regarding railway safety protocols and procedures to prevent similar incidents in the future.
+
+---
+
+*This case note is intended for academic publication and courtroom citation, ensuring adherence to the structured FIRAC methodology while maintaining legal rigour and formality.*

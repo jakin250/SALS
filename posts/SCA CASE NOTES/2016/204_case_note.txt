@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Pasadena Leather Products CC v Resca
+
+### FIRAC Structure
+
+#### F – Facts
+[1] This appeal arises from a patent dispute between the first appellant, Pasadena Leather Products CC, and the second appellant, Trifecta Trading 83 (Pty) Ltd, against the respondents, Franco Resca and Enrico Cupido, who are the registered proprietors of South African Patent ZA 98/6778 titled “A Lockable Holster.” The respondents alleged that the appellants’ product, a “swivel holster,” infringed their patent and sought various forms of relief. The appellants counterclaimed for the patent's revocation on the grounds of invalidity under Section 25 of the Patents Act 57 of 1978 ([2]). 
+
+The Court of the Commissioner of Patents found in favor of the respondents, dismissing the appellants’ counterclaim, which led to an interdict against the appellants, an order for destruction of infringing products, and a damages inquiry ([2]). The appellants appealed against this ruling but accepted the validity of the patent ([2]).
+
+#### I – Issues 
+[3] The primary issue before the Supreme Court of Appeal was whether the appellants' swivel holster infringed claims one and seven of the respondents’ patent, specifically focusing on whether it included all essential integers as articulated in the patent claims. The determination relied heavily on the interpretation of the patent's claims, particularly the definition and function of a “camming surface” concerning unauthorized withdrawal of the firearm from the holster ([3]-[4]).
+
+#### R – Rules
+[4] In adjudicating patent claims, it is essential to interpret both the specification and the claims of the patent accurately. The claims serve to delineate the boundaries of the patent holder's rights and must be read in conjunction with the specification. The key legal principles governing the interpretation of patent claims were elucidated in previous judgments, where it was emphasized that infringement requires the identification of each essential integer specified. Notably, the principle that “what is not claimed is disclaimed” underscores that elements included in a claim must be present in the allegedly infringing device ([4]-[5]).
+
+[5] Relevant case law included *Aktiebolaget Hässle & another v Triomed (Pty) Ltd* and the understandings outlined in *Rodi & Wienenberger AG v Henry Showell Ltd* which illustrate the necessity for exact congruence between each claimed integer and the alleged infringing item to establish infringement ([9], [28]).
+
+#### A – Application
+[10] The Court commenced its analysis by reviewing the specifics of the claims associated with the patent. Only claims one and seven were relevant to the proceedings, where claim seven is dependent on the interpretation of claim one. The distinct parts of claim one were identified and compared against the design of the appellants’ device ([11]).
+
+The court scrutinized whether the appellants’ swivel holster contained a “second camming surface” as required by integer [l] of claim one. The descriptions highlighted that the significant functioning of this camming surface was to prevent unauthorized withdrawal of the firearm by providing a mechanism that enhances the locking effect upon attempted removal ([17]-[24]).
+
+The lower court had concluded that the appellants’ device satisfied this requirement with respect to the surface of the locking lug. However, the Supreme Court disagreed, determining that the operation of the locking mechanism in the swivel holster did not exhibit the requisite characteristics defined in the patent, particularly relating to aiding in the prevention of unauthorized withdrawal ([18]-[27]).
+
+[11] The key point of contention arose surrounding the understanding of the “camming surface.” The Supreme Court clarified that the locking lug’s design did not provide the required inhibiting characteristic upon an attempted unauthorized withdrawal, deviating from the described functions integral to the patent ([20], [27]). The court maintained that the appellants’ design simply did not meet the stipulated requirements as none of the claimed integers were present in their holster.
+
+#### C – Conclusion
+[12] The Supreme Court of Appeal concluded that the appellants' swivel holster did not infringe on the respondents' patent as it failed to embody all essential integers as claimed in the patent. Consequently, the lower court's decision that found infringement was overturned, and the appellants succeeded in their appeal ([29]). As a result, the first and second respondents’ claims regarding the alleged infringement were dismissed, and the matter of costs was addressed, with each party bearing its own legal expenses in the lower court while the appellants were awarded their costs in the appeal ([30]).
+
+This ruling highlights the importance of precise claim language in patent law and reiterates the principle that to establish patent infringement, all the integers outlined in a claim must be met unequivocally. The judgment illustrates the courts’ preference for a purposive interpretation of patent claims, focusing on the operational characteristics intended by the patentee.
+
+---
+
+### References
+1. *Pasadena Leather Products CC v Resca* [2016] ZASCA 204.
+2. *Aktiebolaget Hässle & another v Triomed (Pty) Ltd* 2003 (1) SA 155 (SCA).
+3. *Rodi & Wienenberger AG v Henry Showell Ltd* 1966 RPC 441 (CA).
+4. *Electric and Musical Industries Ltd v Lissen Ltd* (1938) 56 RPC 23 [UK].
+5. *Marconi’s Wireless Telegraph v Phillips Lamps Ltd* 1933 RPC 287.

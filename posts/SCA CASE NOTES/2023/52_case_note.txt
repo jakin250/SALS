@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+### FIRAC Case Note: Liberty Group Limited v Moosa
+
+**F – Facts:**  
+This case revolves around an application for leave to appeal and the subsequent appeal brought by Liberty Group Limited (hereafter "Liberty") against the decision of Gani AJ of the KwaZulu-Natal Division of the High Court, which dismissed Liberty's application for the provisional sequestration of the estate of the respondent, Mohammed Shaaz Moosa (hereafter "Mr Moosa"). Liberty's claim involved a judgment against Mr Moosa for R883,024.43, based on a suretyhip for the liabilities of Shaazura Investments CC, which had gone into voluntary liquidation. When Liberty sought to execute on two immovable properties owned by Mr Moosa, he transferred those properties to the Mubaraak Family Trust, allegedly beyond the reach of his creditors. Mr Moosa contested Liberty’s application for sequestration, asserting his insolvency and claiming that further proceedings would not benefit creditors ([paras 21–25]).
+
+**I – Issues:**  
+The primary issue before the Supreme Court of Appeal (SCA) was whether an order dismissing an application for provisional sequestration qualified as an “order made... in terms of the Act” under section 150(5) of the Insolvency Act 24 of 1936 (the Act), thus precluding an appeal. If the dismissal was deemed an order under the Act, an appeal would not lie; conversely, if not, this would permit the appeal ([paras 2, 4]).
+
+**R – Rules:**  
+1. **Insolvency Act 24 of 1936:** Section 150(5) states there shall be no appeal against any order made by the court under the Act, except as provided in the section itself. This must be read alongside section 150(1), which affirms the right to appeal against final sequestration orders or orders setting aside provisional sequestration ([para 2]).
+
+2. **Case Law Precedents:** The foundational cases cited included:
+   - **Bhamjee Ltd v Van Harte:** The court concluded that appeals against refusals of provisional sequestration were barred by section 150 [para 6].
+   - **Gottschalk v Gough:** This case further confirmed the interpretation that such refusals were not appealable due to their classification as orders within the Act, leading to a lack of appealability unless a restrictive intention was expressly provided by the legislature [para 10].
+   - **Ex parte Crous:** Stated that appeals typically lie unless expressly limited by statute [para 5].
+
+3. **General Principles:** The SCA reaffirmed that dismissals of applications for both interim and final relief orders are usually appealable as they have definitive effects on the parties’ rights ([para 16]).
+
+**A – Application:**  
+The SCA critically examined the previous interpretations of section 150(5) and reassessed the rationale behind the distinctions made in earlier cases including Bhamjee, Lawclaims, and Gottschalk. The court noted that:
+- The nature of the relief sought by Liberty contrasted with the relief granted by the High Court. While Liberty sought provisional sequestration, the High Court’s dismissal effectively denied Mr Moosa’s status under the Act, implying failure to establish a right to benefit from the Act ([paras 15–19]).
+- The court also addressed a fundamental inconsistency: if dismissals in liquidation cases are deemed appealable, why should sequestration cases differ? The SCA noted that liquidations and sequestrations arise from similar circumstances concerning creditors' interests and hence should not be treated disparately ([para 17]).
+- Further, the court opined that denying appeal on the grounds established could violate constitutional principles of access to justice, noting that preventing a litigant from appealing a possibly erroneous ruling undermines the integrity of the judicial system ([para 20]).
+
+**C – Conclusion:**  
+The SCA held that the order dismissing Liberty's application for provisional sequestration is not an order made "in terms of" the Insolvency Act as contemplated under section 150(5). Consequently, the court allowed the appeal, set aside the High Court's order, and granted provisional sequestration of Mr Moosa’s estate. The court emphasized that a denial of appeal could lead to injustices, allowing a review of cases to ensure fair treatment and compliance with constitutional provisions ([paras 30]).
+
+This judgment indicates a significant shift in the understanding of the appealability of orders concerning insolvency, potentially leading to greater access to justice for creditors.

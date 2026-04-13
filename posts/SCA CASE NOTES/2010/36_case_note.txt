@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2010
+
+# Case Note: FIRAC Analysis of *ABSA Bank Limited v Enrico Bernert* (99/09) [2010] ZASCA 36
+
+## F - Facts
+
+This case arises from the efforts of Mr. Enrico Bernert, the respondent, to secure financing for his venture, Rotrax International CC, aimed at producing vehicles based on his design called "El Macho" ([paras 6–9]). Bernert approached various individuals, including Mr. Fanjek, who acted as his intermediary, to solicit investments from Sheikh Fawaz Bin Abdullah Al-Khalifa and others ([paras 8–11]).
+
+Central to the dispute was a document presented to Emirates Bank International that bore the letterhead of ABSA Bank, which was alleged to have been produced without proper authority ([paras 15, 17]). This document was purportedly essential for securing investments from the Sheikh, as it claimed that ABSA would accept a fixed deposit of $6 million ([para 16, 22]). However, ABSA Bank subsequently discovered the document's irregularities and sought to retract it by informing Emirates Bank that the document was unauthorized ([paras 18, 60]).
+
+Bernert claimed damages, asserting that ABSA's actions unlawfully interfered with his contractual relationship with the Sheikh, preventing him from receiving the promised investment ([paras 19, 63]). The High Court originally found in favor of Bernert, citing ABSA's unlawful interference as the cause of his alleged economic loss, but ABSA appealed that ruling ([paras 20, 76]).
+
+## I - Issues
+
+The primary legal questions in this case were: 
+
+1. Was ABSA Bank's attorney's statement to Emirates Bank regarding the unauthorized nature of the document made unlawfully, constituting negligent misstatement?
+2. Did the court below correctly find that ABSA Bank acted unlawfully while failing to fully consider the causative link between the alleged wrongful act and the claimed damages?
+3. Can Bernert demonstrate reliance on the misstatements made by ABSA Bank's attorney that resulted in his claimed financial loss? ([paras 26–74]).
+
+## R - Rules
+
+The case revolves around principles of delict, specifically the tort of negligent misstatement as established in *Bayer South Africa (Pty) Ltd v Frost* and its subsequent interpretations ([para 66]). The key aspects include:
+
+- **Negligent Misstatement**: The elements necessary for establishing liability involve a duty of care, breach of that duty, and resultant damages ([paras 66, 71]).
+- **Causation**: It is crucial that the wrongdoing must cause the loss suffered. A party claiming damages must show a direct reliance on the misstatement that led to the loss ([para 66–75]).
+- **Authority of Representation**: Whether the statements made by agents of ABSA Bank fall within the scope of their authority and the implications of misleading representations made to third parties ([paras 70–74]).
+
+## A - Application
+
+The court scrutinized various elements surrounding the case:
+
+1. **Evidence Analysis**: The court observed that both Mr. Merrett and Mr. Van Tonder, key witnesses regarding the misstatement allegations, emphasized that the document had features of financial “mist,” indicating that it could mislead third parties, a point the original court failed to adequately address ([para 70]).
+
+2. **Causation Speculation**: The appeal court found that the original court did not sufficiently demonstrate that Bernert would have obtained financing had ABSA not acted as it did. The court stated that the evidence presented was far too speculative regarding whether the financing deal would have materialized, which undermined any causal link between the alleged misconduct and Bernert’s loss ([paras 24, 75]).
+
+3. **Misstatements**: The court determined that the statements made by ABSA's attorney to Emirates Bank were accurate under the circumstances. Given the potential for the document to mislead, ABSA was justified in taking steps to clarify its position regarding the authenticity of the document. As such, the court saw no negligence in ABSA's actions, considering it their duty to ensure that misleading documents did not circulate ([para 74]).
+
+4. **Reliance**: The appeal court concluded that Bernert had no direct interaction with the statements made by ABSA’s attorney. Therefore, he could not establish that he had relied on these statements in a way that would support his claims for damages ([paras 66, 70]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal held in favor of ABSA Bank, concluding that the original court had erred in finding liability based on negligent misstatement. The ruling underscored that there was insufficient proof to establish a direct causal link between ABSA's actions and the damages claimed by Bernert. The court set aside the High Court's order and dismissed Bernert's claim with costs ([paras 75, 76]).
+
+This case serves as a significant precedent in tort law regarding the limits of liability for negligent misstatements, emphasizing the necessity of demonstrating clear causation and reliance, particularly within the context of third-party communications.
+
+---
+
+For citation purposes, use: *ABSA Bank Limited v Enrico Bernert* (99/09) [2010] ZASCA 36.

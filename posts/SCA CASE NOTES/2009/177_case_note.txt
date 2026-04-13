@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# Case Note: Volvo (Southern Africa) (Pty) Ltd v Gert Yssel
+**Neutral Citation:** Volvo v Yssel (247/08) [2009] ZASCA 82 (20 August 2009)
+
+## FIRAC
+
+### F – Facts ([paras 1–12])
+The dispute arose from the employment arrangement between Volvo (Southern Africa) (Pty) Ltd (the appellant) and Gert Yssel (the respondent). In 2000, Volvo was searching for a manager for its information technology division. After being introduced to Yssel through a recruitment agency, Volvo appointed him. However, Yssel preferred to work through a labor broker, Highveld Personnel (Pty) Ltd, rather than be directly employed by Volvo, which Volvo reluctantly accepted. For approximately five years, Yssel operated under this arrangement, with Volvo directly dealing with him rather than Highveld. 
+
+The contract stipulated that Highveld would charge Volvo a monthly fee in return for Yssel’s services, which included managing Volvo's IT infrastructure. Yssel held discussions with Volvo's personnel about transferring other IT employees to Highveld, suggesting they would benefit from this arrangement without additional costs to Volvo. A master agreement formalizing this setup was executed, allowing Highveld to provide more personnel to Volvo.
+
+However, unbeknownst to Volvo and the other employees, Yssel had entered into an agreement with Highveld to receive commissions for facilitating the personnel transfers, a fact he concealed from all parties involved. Investigations revealed that Yssel received substantial payments from Volvo that he did not disclose to the employees, eventually totalling R775,107. 
+
+Volvo sued Yssel in the High Court of Johannesburg for breach of fiduciary duty, but the high court dismissed the claim. Volvo then appealed against this decision.
+
+### I – Issues ([paras 12–16])
+The primary legal issue revolved around whether Yssel owed a fiduciary duty to Volvo in his capacity as manager of the IT division, and whether Yssel’s actions in receiving commissions constituted a breach of that duty. The court further had to assess if the lack of direct contractual privity between Yssel and Volvo negated this duty.
+
+### R – Rules ([paras 13–20])
+In assessing fiduciary duties, the court referenced the principles articulated in *Robinson v Randfontein Estates Gold Mining Co Ltd* [1921] AD 168, which delineated that a requisite fiduciary relationship exists when one party stands in a position of confidence, obliging them to act in the interests of the other party without self-dealing. 
+
+The legal precedent set forth in *Phillips v Fieldstone Africa (Pty) Ltd* [2004] 3 SA 465 (SCA) affirmed that a fiduciary who makes secret profits at the expense of another must disgorge those profits, even if no loss was incurred by the beneficiary.
+
+The court acknowledged that fiduciary relationships could arise from various circumstances beyond formal contractual agreements and that reliance, trust, and vulnerability were key considerations in determining whether such a relationship exists.
+
+### A – Application ([paras 18–20])
+The court found that the lack of contractual privity between Yssel and Volvo did not preclude the existence of a fiduciary duty, as the crucial factor was the role Yssel occupied within Volvo. As the manager of the IT division, Yssel’s position inherently placed him in a position of trust, where Volvo reasonably relied on him to act in its best interests.
+
+His actions in arranging the transfer of personnel and simultaneously receiving undisclosed commissions created a conflict of interest that breached the requisite fiduciary duty. The court noted that Yssel’s activities did not fall outside the scope of his managerial responsibilities, even though they did not explicitly include recruitment functions.
+
+The court ruled that since Yssel held a position of trust, he was obliged to act in Volvo's interest and therefore must account for the commissions he received. His awareness of the confidentiality agreement with Highveld further emphasized his understanding of the inappropriate nature of his actions.
+
+### C – Conclusion ([paras 21])
+The Supreme Court of Appeal found in favor of Volvo, ordering Yssel to pay the disgorged amount of R775,107 plus interest at a rate of 15.5% per annum from the date he received it until date of payment. Additionally, Yssel was ordered to bear the costs of the proceedings, including those incurred due to the employment of two counsel. This ruling underscored the court's strong stance against the breach of fiduciary duties, reinforcing the principle that fiduciaries cannot profit from secret arrangements at the expense of those to whom they owe a duty of trust.
+
+The judgment not only secured the return of misappropriated funds but also clarified the scope of fiduciary responsibilities, highlighting that relationships characterized by trust extend beyond formal contractual ties. The implications of this case serve as a pertinent reminder in corporate governance and ethical business practices, particularly concerning conflicts of interest and fiduciary obligations.

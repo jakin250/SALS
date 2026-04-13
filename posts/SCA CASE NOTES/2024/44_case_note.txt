@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Organi Mark (Pty) Ltd v Goolam Nabi Ebrahim Akoodie and Another (240/2023) [2024] ZASCA 44
+
+## FIRAC Structure
+
+### F – Facts
+Organi Mark (Pty) Ltd (the appellant) is a South African company registered in Stellenbosch. In 2020, it initiated proceedings in the Gauteng Division of the High Court, Pretoria, seeking a declaration that Goolam Nabi Ebrahim Akoodie and Jameel Goolam Akoodie (the respondents), who were directors of Spintex Swaziland (Pty) Ltd (Spintex), were personally liable under section 361 of the Swaziland Companies Act 8 of 2009 for the debts owed by Spintex, which has since been liquidated in eSwatini ([1]–[2]). 
+
+The appellant contended that the directors allowed Spintex to trade recklessly, resulting in significant debts, totaling R7,167,880.97 ([3]). The respondents, however, raised a special plea asserting that the high court lacked jurisdiction. They argued that the claim was based on a foreign statute that does not possess extraterritorial effect, and that the term "court" in the statute refers to the High Court of eSwatini ([4]–[5]). 
+
+After a stated case was presented to the high court, it upheld the special plea and dismissed the action, leading to this appeal ([6]).
+
+### I – Issues
+The court was tasked with determining several interconnected legal questions:
+1. Whether the Gauteng High Court had jurisdiction to adjudicate the dispute and apply eSwatini law.
+2. Whether permitting the high court to exercise jurisdiction would violate the principle against the extraterritorial effect of foreign statutes.
+3. Clarification on the definition of "court" in section 361 of the Swaziland Companies Act.
+4. The impact of this interpretation on the court's jurisdiction over the matter ([6]).
+
+### R – Rules
+The court relied on several statutory provisions and legal principles:
+- Section 21(1) of the Superior Courts Act 10 of 2013, delineating the scope of high court jurisdiction over persons and causes arising within its geographic area ([7]).
+- Established case law interpreting the limits of jurisdiction, including *Ewing McDonald & Co Ltd v M & M Products Company* ([8]) and *Estate Agents Board v Lek*, emphasizing the need for a nexus or “ratio jurisdictionis” for a court to assume jurisdiction ([9]–[12]).
+- The specific provisions of the Swaziland Companies Act, particularly section 361, which governs personal liability for directors, indicating that such powers reside with the eSwatini courts ([5]).
+
+### A – Application
+In applying these rules, the court undertook a thorough examination of jurisdictional principles. It acknowledged that while the residence of the respondents within the high court's jurisdiction could establish a form of jurisdiction, this was insufficient to grant judicial authority over foreign statutory claims ([10]). 
+
+The court noted that the essence of the appellant's claim was intertwined with eSwatini law, specifically citing the problem of applying a foreign statutory provision in South African courts ([12]). The emphasis was placed on the limitation of the extraterritorial effect of foreign statutes, concluding that section 361 of the Swaziland Companies Act was intended to operate exclusively within eSwatini, thus not providing grounds for jurisdiction in South Africa ([11]).
+
+### C – Conclusion
+Ultimately, the Supreme Court of Appeal dismissed the appeal, reaffirming the decision of the high court. The ruling detailed that jurisdiction could not be established merely based on the respondents’ residency in South Africa, especially in cases heavily anchored in foreign statutory law. The court maintained that the legislative framework of the eSwatini Companies Act, alongside the constitutional provisions, did not support extraterritorial enforcement of its directives within South African courts ([13]).
+
+This case affirms the principles limiting the jurisdiction of South African courts concerning foreign statutes, thus underscoring the necessity of a substantive legal link to the jurisdiction in which a claim is made—an essential consideration for practitioners dealing with cross-border insolvency and corporate governance matters.

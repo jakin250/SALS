@@ -1,0 +1,38 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Trinity Asset Management (Pty) Limited v Grindstone Investments 132 (Pty) Limited [2017] ZACC 32
+
+### F – Facts
+Trinity Asset Management (Pty) Limited (the applicant) entered into a loan agreement with Grindstone Investments 132 (Pty) Limited (the respondent) on 1 September 2007, providing a loan of R3,050,000 in three tranches. Payment was made on 13 February 2008, 15 February 2008, and 21 February 2008, and a mortgage bond was later resolved to secure the loan. On 19 September 2013, the applicant sent an email requesting repayment, to which the respondent confirmed acknowledgment of the debt but failed to make payment. A formal letter demanding payment was issued on 9 December 2013, coinciding with provisions under the Companies Act.
+
+The applicant applied for provisional liquidation of the respondent in the High Court on 18 July 2014, alleging the respondent's failure to pay the debt, which had reportedly grown to R4,613,310.52 due to interest. The respondent claimed the debt had prescribed, arguing it was due three years after the tranches were lent. The High Court dismissed the liquidation application based on the prescription defence. This led to an appeal in the Supreme Court of Appeal (SCA) where the prescription claim was also upheld, maintaining that prescription began when the debt arose, resulting in a split ruling.
+
+### I – Issues
+The case raised significant legal questions regarding:
+1. The appropriateness of invoking the prescription defence in provisional liquidation proceedings ([1]).
+2. Whether the loan agreement indicated an intention to defer the date when the debt became "due," thereby delaying the onset of prescription ([2]).
+3. Determining if the applicant's claim had indeed prescribed ([2]).
+
+### R – Rules
+The rules governing this matter primarily arise from the Prescription Act 68 of 1969, specifically:
+- Section 11(d) states that prescription on debts begins to run from the date the debt is "due."
+- Section 12 details that a debt is deemed due and prescriptive when it becomes enforceable by the creditor ([36]).
+
+Additionally, the Badenhorst principle was applied, which asserts that liquidation proceedings should not be initiated when there is a bona fide dispute regarding the debtor's indebtedness ([27]).
+
+In precedent cases such as *Deloitte Haskins & Sells Consultants (Pty) Ltd v Bowthorpe Hellerman Deutsch (Pty) Ltd* [1990] ZASCA 136, the courts illustrated that debts are immediately due upon being enforceable unless explicitly stated otherwise in the contract ([97]).
+
+### A – Application
+The Constitutional Court, comprised of a majority opinion authored by Cameron J, highlighted that:
+- The implied requirement for demand in the loan agreement did not create a condition precedent that would delay the start of prescription; rather, the general principle that debts are due immediately unless explicitly stated holds ([86]-[111]).
+- The SCA majority had correctly interpreted that the mere availability of the debt for demand did not postpone its prescriptiveness.
+
+Contrastingly, the minority judgment suggested that the written contract intended for a clear stipulation regarding when the debt would become due, asserting that prescription only commenced following an actual demand ([151]-[161]). Given the email exchanges and letters, the court further evaluated whether the demand was valid and if the contract's terms qualified as a procedural or substantive requirement for establishing a debt's enforceability.
+
+Ultimately, the decisions assessed the factual context alongside the legal principles, determining that the applicant's claim had prescribed under both interpretations of the loan agreement, due to a lack of a clearly defined demand condition delaying prescription.
+
+### C – Conclusion
+The court held, by a majority decision, that the applicant's claim to repayment had indeed prescribed, leading to the dismissal of the appeal ([3]). The order confirmed the SCA's ruling that a creditor cannot unilaterally delay prescription by merely failing to insist on payment unless the contract explicitly requires demand as a precondition. Consequently, the Constitutional Court's interpretation reinforces both the legal certainty surrounding debts' prescriptiveness and the importance of respecting contractual terms to avoid arbitrary delays in claims. The applicant was ordered to pay the respondent's taxed costs incurred in litigation.
+
+**Implications**: This ruling underscores the critical balance between the principles of contractual freedom and the policy against undermining the efficiency of debt recovery through lax demand procedures, calling for clarity in future contract formulations regarding prescription rights and conditions.

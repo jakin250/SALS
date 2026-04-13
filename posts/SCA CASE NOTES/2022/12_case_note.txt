@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Cornerstone Logistics (Pty) Ltd and Another v Zacpak Cape Town Depot (Pty) Ltd [2022] ZASCA 12 
+
+## FIRAC Method
+
+### F – Facts
+The case concerns an indemnity dispute between Cornerstone Logistics (Pty) Ltd (Cornerstone) and Zacpak Cape Town Depot (Pty) Ltd (Zacpak) arising from liabilities incurred concerning customs and excise duties under the Customs and Excise Act 91 of 1964. Cornerstone, a licensed clearing agent and the second appellant, Preston Cheslin Aitken, was a surety for Cornerstone ([1–3]). 
+
+On 20 September 2017, Cornerstone applied for credit facilities with Zacpak for warehousing services, leading to the signing of a credit application by Aitken, which included a suretyship clause entitling Zacpak to recover outstanding amounts from him if Cornerstone defaulted ([3]). Between August 2017 and November 2018, Cornerstone engaged Zacpak for warehousing various consignments bound for export. However, instead of being exported to Mozambique, the goods were illegally diverted for home consumption ([4]).
+
+On 7 December 2018, SARS demanded R37,416,153.27 from Zacpak for unpaid customs duties, citing failures to provide proof of proper export and alleging proffered documents were falsified. Subsequently, Zacpak sought to enforce indemnity and suretyship clauses against Cornerstone and Aitken, who contested their liabilities ([5–10], [12]).
+
+Lower court rulings favored Zacpak, leading to the current appeal where Cornerstone and Aitken contended that their indemnity did not apply as the liability arose out of Zacpak’s negligence. The core issue was whether Cornerstone acted on client instructions and whether the suretyship limited liability to storage charges ([7–9], [23]).
+
+### I – Issues
+The primary legal issues revolve around:
+1. **Indemnity:** Did Cornerstone instruct Zacpak concerning the release of goods, obligating them to indemnify Zacpak against claims from SARS?
+2. **Liability:** Was Zacpak’s incurred liability due to its own negligence, thereby releasing Cornerstone from indemnity obligations?
+3. **Suretyship:** Did Aitken’s suretyship limit his liability strictly to storage service payments only, or could liability extend to other charges, including customs duties? ([35]).
+
+### R – Rules
+The court applied principles derived from contractual interpretation, notably the **Endumeni** judgment, which mandates that contractual clauses be interpreted in their entirety and with regard to the context, ordinary grammatical meaning, and apparent purpose ([37]). Furthermore, the **Customs and Excise Act** outlines the liability of warehouse licensees, specifically the reinstatement of liability if cargo is drawn for domestic consumption without proof of export ([1], [42]).
+
+The indemnity clauses incorporated into the Standard Terms and Conditions outlined that:
+- Cornerstone indemnified Zacpak against claims arising from compliance with its instructions ([12, 38]).
+- Liability persisted even when goods were in Zacpak's possession, unless resulting from Zacpak's fault ([12, 12, 46]).
+
+Aitken's suretyship was interpreted within the broader context of his signing of the credit application, without restricting himself solely to storage services ([48], [56]).
+
+### A – Application
+In evaluating Cornerstone’s anticipated indemnity obligations, the court highlighted Aitken's responsibility in the context of communications purportedly from Mr. Mahlangu, acting on behalf of Cornerstone. The emails indicated clear instructions regarding the release of goods, undermining Cornerstone’s assertion of disengagement after the goods were stored ([16–40]). 
+
+Furthermore, the court ruled that Cornerstone’s liabilities extended beyond mere storage fees due to the broad terms of indemnity formulated in the contract, thereby cementing a binding obligation to handle the SARS claim ([24, 42]).
+
+Regarding Aitken’s suretyship, the assertion of limiting his responsibility to R30,000 and service charges was rejected; the incorporation of the surety clause denoted broader financial obligations, including indemnities for customs and duties beyond mere handling fees ([51, 56]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, reinforcing that:
+- Cornerstone’s instructions to Zacpak concerning the release of the goods were direct and unambiguous, thus invoking indemnity obligations.
+- Zacpak's liability was unrelated to negligence on their part; they adhered to statutory obligations within the framework of operational compliance.
+- Aitken’s suretyship was not limited to storage costs, obliging him to cover any payment due for the indemnity claims.
+
+The decision upholds the enforceability of indemnity and suretyship clauses within complex commercial contracts and illustrates the court's inclination toward protecting the financial integrity of contractually defined obligations in the logistics and customs domain ([58]).
+
+This ruling reinforces critical precedents regarding the interpretation of liability in contractual arrangements, making clear the expansive nature of indemnity relative to operational activities and statutory requirements within the customs framework.

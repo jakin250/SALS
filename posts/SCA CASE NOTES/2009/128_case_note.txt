@@ -1,0 +1,29 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# Case Note on *Roads Agency Limpopo (Pty) Ltd v Murray and Roberts Construction Ltd and Others* ([2009] ZASCA 128)
+
+### F - Facts
+The case stems from a dispute resulting from a construction contract (the COLTO contract) between Roads Agency Limpopo (RAL) and Murray and Roberts Construction (the contractor). The contract, formed in July 2005, encountered challenges due to a legal challenge by a competing tenderer, Raubex (Pty) Ltd, which resulted in a five-month work stoppage ([paras 1–2]). Despite this, RAL was obligated to pay interim certificates issued by the contract's engineer, Munyai Malaka Engineers.
+
+On October 13, 2006, the engineer issued interim payment certificate No 10, certifying R19,947,475.70 due to the contractor, which RAL rejected because it included amounts related to the work stoppage ([para 3]). This action prompted a series of rejections and responses from both parties, culminating in the contractor issuing a notice of cancellation of the contract for non-payment ([para 4]). Following an admission of the cancellation by RAL, the contractor applied for judgment in July 2007 for payments on certificates 10, 11, and 12/13, claiming RAL unlawfully refused to pay ([paras 5–6]).
+
+### I - Issues
+The primary legal issues concerned:
+1. Whether RAL validly rejected the interim certificates based on the provisions of the contract, particularly clause 2(8), which allowed RAL to reverse or amend payment certificates.
+2. The implications of the cancellation of the contract regarding certificate 12/13, which was issued after the contractor purportedly canceled the contract ([paras 17–20]).
+
+### R - Rules
+The relevant legal principles included:
+- **Standard Form Contracts**: The COLTO contract provides specific guidelines regarding interim payments, amendments, and disputes ([para 9]).
+- **Clause 2(8)**: This clause empowers RAL to amend or reverse certificates, and it was crucial in determining if RAL's actions were legally justified.
+- **Clause 51(1) and 51(5)**: These clauses outline the procedures for claims regarding payment and the engineer's rulings, indicating that a contractor had rights to dispute a ruling only under specific conditions ([paras 12–16]).
+- **Cancellation Clauses**: The contractor attempted to rely on provisions relating to cancellation ([para 18]), specifically clause 59, which outlines certain circumstances under which payment obligations continue post-cancellation.
+
+### A - Application
+The court meticulously analyzed RAL's rejection of payment certificates in light of the authorities of the contract. The ruling established that RAL acted within its rights under clause 2(8) by issuing a new certificate and that rejection of certificates 10 and 11 for inaccuracies did not contravene the stipulations ([para 6]).
+
+Moreover, the court argued against the contractor’s position regarding the interpretation of clause 51, asserting that RAL retained the right to challenge a ruling made by the engineer even if a certificate embodied that ruling, thus demonstrating that the contractor’s argument lacked a foundation in the contract’s language ([paras 15–16]). On the matter of certificate 12/13, the court delineated that the contractor could not forego contractual obligations post-cancellation of the contract unless expressly allowed by the terms ([paras 19–20]).
+
+### C - Conclusion
+The Supreme Court of Appeal ruled in favor of RAL, overturning the High Court decision that mandated payment of R16,852,965.28 to the contractor ([para 21]). The decision underscored the importance of adhering to the stipulations within contractual frameworks, particularly regarding the authority of payment practices and the procedural prerequisites for challenging certificates. This ruling clarified significant considerations for future construction contracts under similar circumstances, emphasizing that employers retain certain rights to contest and amend payment certificates without liability arising from automatically submitted claims. This case sets a precedent not only for contractual compliance in construction contexts but also for the interpretation of employers’ rights within standardized contract frameworks.

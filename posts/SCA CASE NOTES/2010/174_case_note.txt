@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2010
+
+# FIRAC Case Note: Da Silva v Slip Knot Investments (661/2009) [2010] ZASCA 174
+
+## F – Facts: Relevant background and procedural history ([paras 1–13])
+
+This case arises from a dispute between two appellants, J C da Silva and L D Boshoff, and the respondent, Slip Knot Investments 777 (Pty) Ltd. The appellants were sureties for two loan agreements made by a third party, R.B. Merit Investments (Pty) Ltd, for financing a hotel development ([para 1]). After the original loans were not repaid, the parties entered into a new written agreement on 10 January 2008 to resolve their disputes leading to the claim against the appellants for R10,659,157.18 ([para 2]).
+
+The new agreement noted that R.B. Merit owed a total outstanding amount of R35,641,117.69 to the applicant, with appellants committing to pay R28,196,336.48 through structured payments. However, they defaulted on these terms, making partial payments that did not meet their obligations ([paras 3–4]). 
+
+In response to the claim, the appellants argued that the new agreement constituted a "credit agreement" under the National Credit Act 34 of 2005 (NCA), asserting that the agreement was void as the applicant was not a registered credit provider, thus falling foul of section 89 of the NCA ([paras 5–6]). The high court ruled against them, determining that the agreement was a credit guarantee and not a credit agreement, therefore outside the scope of the NCA ([para 7]). 
+
+## I – Issues: Legal or constitutional questions ([paras 6–7])
+
+The primary legal issue presented in the appeal was whether the new agreement constituted a credit agreement as defined by the NCA, specifically in terms of section 8, or whether it was a credit guarantee (as argued by the respondent) to which the NCA does not apply ([para 7]). The outcome hinged on the classification and intent of the parties involved when they entered the agreement after R.B. Merit's defaults.
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 8–9])
+
+In its deliberation, the court invoked several statutory provisions of the NCA, particularly:
+
+1. **Section 8** – which defines various types of credit agreements including "credit transactions", "credit guarantees", and "credit facilities". 
+2. **Sections 4 and 8(5)** – establishing that the NCA applies to credit guarantees only to the extent that it relates to credit transactions which themselves fall within the scope of the Act ([paras 8–9]).
+
+The court also recognized that R.B. Merit, as a juristic entity, was not considered a "consumer" under the NCA for two reasons: the loans were characterized as large agreements and the principal debts exceeded established thresholds of R250,000 ([para 8]).
+
+## A – Application: Analysis of how the court applied the law ([paras 10–13])
+
+The court engaged in a comprehensive analysis of the contractual language and prior agreements, determining that the parties intended the new agreement to be a continuation of the surety obligations rather than establishing new principal debtor responsibilities ([paras 10–12]). The ruling highlighted that the agreement explicitly stated it did not amount to a novation of the original loan agreements, affirmatively confirming the existing obligations rather than extinguishing them.
+
+The utilisation of the term "credit guarantee" was pivotal in the court's reasoning, concluding that this agreement sought merely to provide assurance for R.B. Merit's obligations, not to create new, independent obligations. The court's decision strongly emphasized the interdependency of the original and the new agreements, fortifying the position that the appellants’ unpaid obligations were inherently linked to the original credit transaction and therefore indicated a continuing guarantee ([paras 12–13]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 14])
+
+The Supreme Court of Appeal ultimately dismissed the appeal, affirming that the new agreement was a credit guarantee and thus did not fall within the purview of the NCA. The ruling underscored that the intent of the parties, as well as the specific wording of the agreement, were pivotal in determining the legal interpretation, which led to the conclusion that the NCA did not render the agreement void ([paras 14]). 
+
+The decision reinforces the legal clarity regarding the classification of agreements under the NCA, particularly in distinguishing between credit guarantees and credit agreements. It also rests on the recognition of the interrelations between agreements, establishing significant implications for future interpretations of similar cases involving suretyships and credit agreements in South Africa. The court's insistence on a contextual reading of the parties' intent serves as a critical reminder for all future contractual engagements in credit law ([paras 12–14]).

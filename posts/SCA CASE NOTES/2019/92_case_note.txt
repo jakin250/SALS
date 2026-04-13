@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: National Credit Regulator v Southern African Fraud Prevention Services NPC [2019] ZASCA 92
+
+## F – Facts
+On 12 March 2015, the National Credit Regulator (NCR) lodged a complaint against Southern African Fraud Prevention Services NPC (SAFPS) with the National Consumer Tribunal, alleging various contraventions of the National Credit Act 34 of 2005 (NCA) and its regulations ([para 1]). A settlement agreement was reached for all alleged contraventions, save one, concerning whether SAFPS was retaining information beyond the statutory limits prescribed by the NCA, specifically regarding fraud information ([para 2]).
+
+The NCR contended that SAFPS was retaining what it classified as “consumer credit information,” which, under section 70(1) of the NCA, cannot be held for longer than one year. SAFPS disagreed, arguing that the information constituted “fraud information” and could be retained for a period of up to ten years ([para 4]). SAFPS, incorporated in 2000, functions as a credit bureau created by major banks to combat fraud and initially denied its status as a credit bureau, which was later overturned by the courts ([para 4]).
+
+The Tribunal ultimately upheld NCR's claim, issuing a declaratory order that SAFPS had contravened section 70(2)(f) of the NCA ([paras 3–4]). SAFPS subsequently appealed to the Gauteng Division of the High Court, which ruled in favor of SAFPS, prompting this further appeal by NCR.
+
+## I – Issues
+The main issues on appeal were:
+1. **Whether the information held by SAFPS qualifies as “consumer credit information” as defined under section 70 of the NCA** ([para 9]).
+2. **If so, does SAFPS have an obligation to expunge this information after one year, as prescribed under the relevant provisions of the NCA and its regulations** ([para 22]).
+
+## R – Rules
+The relevant legal framework comprises:
+1. **National Credit Act 34 of 2005 (NCA)** - particularly:
+   - **Section 70(1)** - defines consumer credit information broadly, encompassing personal, credit history, and financial details.
+   - **Section 70(2)(f)** - mandates prompt expungement of any information that is prohibited or required to be removed by the regulations.
+   - **Section 70(3)** - allows credit bureaux to receive and report on other prescribed information beyond the defined consumer credit information.
+  
+2. **Regulations published under the NCA** - particularly:
+   - **Regulation 17** - concerning categories of consumer credit information and retention periods.
+   - **Regulation 18** - which prescribes types of information that may not be retained ([paras 10–23]).
+
+The interpretation of the statutory and regulatory definitions of consumer credit information is crucial for determining the scope of SAFPS’s obligations ([para 13]).
+
+## A – Application
+The court analyzed whether the fraud information retained by SAFPS qualifies as consumer credit information. NCR argued that the fraud information falls within the broad definitions of personal and credit information, associating fraudulent behavior with consumer credit assessments. However, the court pointed out that the definition focuses on a consumer's history of fulfilling obligations under credit agreements and does not explicitly encompass intentions to defraud ([paras 11–14]).
+
+In evaluating the classification of the fraud information, the court emphasized the subjective nature of classifications in the NCA. The definition of “adverse classification of consumer behaviour” was found to exclude information related to fraud, suggesting that fraudulent acts are inherently objective in nature ([paras 25–30]). Consequently, since SAFPS's fraud information typically involves factual categorizations, such as identity theft or fraudulent claims, it does not constitute consumer credit information as intended within the NCA's context ([para 28]).
+
+The court further examined the regulatory framework, particularly regulation 17. Since the fraud information did not fit the definition of “adverse classification of consumer behaviour,” which is limited to subjective assessments, the NCR's arguments for compulsory expungement after one year were deemed unsubstantiated [para 37].
+
+## C – Conclusion
+The Supreme Court of Appeal determined that SAFPS was not required to expunge its fraud information, as such information does not meet the criteria of consumer credit information under the NCA. The court’s ruling overturned the lower court's decision, citing that the retention of fraud information serves a legitimate purpose in combating fraudulent activities in the credit market and is essential in protecting consumers and creditors alike.
+
+The appeal by the NCR was dismissed, and the orders granting costs against the NCR in the lower court were also set aside ([paras 46]). The decision underscores the distinction between subjective classifications of consumer behavior and objective fraud information, affirming the role of credit bureaus in maintaining records pertinent to fraud prevention and detection without the obligation for expungement within a year.

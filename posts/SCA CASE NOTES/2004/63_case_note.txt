@@ -1,0 +1,44 @@
+Case Note: IN THE SUPREME COURT OF APPEAL
+Source Folder: 2004
+
+# Case Note: Meihuizen Freight (Pty) Ltd v Transportes Maritimos de Portugal Lda [2004] ZASCA 43
+
+## F – Facts
+
+The appellant, **Meihuizen Freight (Pty) Ltd (Meihuizen)**, functioned as the ship and cargo agent in South Africa for **Transportes Maritimos de Portugal Lda (TMP)**, a Portuguese company that owned the vessel **mv TMP Sagittarius** ([1]). The second respondent, **Maviga UK Limited (Maviga)**, contracted with TMP for the transport of cargo (South African white maize) from Durban to Lobito, Angola. The vessel departed on **16 July 2002** but encountered difficulties, resulting in a severe list and subsequently drifting onto the rocks. By **26 July 2002**, the cargo was deemed a total loss ([2]-[3]).
+
+Maviga applied ex parte to the Cape High Court under the **Admiralty Jurisdiction Regulation Act, No 105 of 1983 (the Act)**, seeking to attach property owned by TMP to establish jurisdiction and arrest the property for their claim related to the lost cargo ([4]-[5]). Maviga’s application revealed it had prepaid freight that was to be received by Meihuizen as TMP's agent. Consequently, Maviga sought orders to arrest and attach the freight moneys in Meihuizen’s account ([6]-[8]).
+
+The court, in the person of ***Nel J***, granted the order, leading to the sheriff acting on it and transferring funds from Meihuizen’s account to the sheriff's account, which was contested by Meihuizen in subsequent proceedings ([9]-[10]). Davis J confirmed part of Nel J’s order, allowing some funds to be restored but maintaining attachment on the remainder ([11]-[12]).
+
+Meihuizen's appeal sought to set aside the orders of Nel J and the partial confirmation by Davis J. The appeal raised critical legal issues surrounding the nature of the property that could be attached and the court's jurisdiction ([13]-[14]).
+
+## I – Issues
+
+The legal issues at stake are:
+
+1. Whether Maviga was entitled to attach the freight moneys held in Meihuizen’s bank account, thereby establishing jurisdiction over TMP in the maritime claim ([17]).
+2. Whether the funds that had been transferred to the sheriff's account constituted TMP’s property that could be arrested under the Act ([23]).
+3. The legality and implications of the court orders that froze Meihuizen's account and affected its ability to operate ([16]).
+
+## R – Rules
+
+The relevant legal framework includes the following:
+
+1. **Admiralty Jurisdiction Regulation Act, 1983**: Particularly, sections 3(2)(b), 3(4)(b), and 3(5)(d) dealing with the attachment of property to establish jurisdiction ([4], [20]).
+2. **Common Law Principles**: Pertaining to property rights and the nature of the receivable debts, backed by precedent such as *Shipping Corporation of India Ltd v Evdomon Corporation* [1994] 1 SA 550 (A) and *Burg Trailers SA (Pty) Ltd v ABSA Bank Ltd* [2004] 1 SA 284 (SCA), which clarify the nature of debts and their attachment ([3], [23]).
+3. **Roman-Dutch Law**: Governing the property rights in the context of agency agreements and the implications of payment on such agreements ([5]).
+
+## A – Application
+
+The court analyzed whether the funds in Meihuizen’s account constituted a right capable of attachment under the Act. Notably, the court found that once freight was paid into Meihuizen’s account, it transformed from a debt owed by Maviga to TMP into a sum owed to TMP from Meihuizen ([17]-[20]).
+
+Maviga's approach sought to attach what it claimed to be TMP's property (the freight moneys in Meihuizen's account). However, as it was established, once the funds were received by Meihuizen, they ceased to exist as freight moneys owed. Instead, they became part of Meihuizen's assets, a mixed pool of money, rendering them indistinguishable and difficult to attach as specific TMP property ([18]). 
+
+Consequently, when the court examined the thoroughness of the orders given by Nel J, it acknowledged that they inadvertently disabled Meihuizen's ability to operate its business effectively, which was a misapplication of the legal principles at stake. The court finally concluded that the attachment of funds could not remain in place given that Maviga's understanding of its rights was flawed ([18]-[24]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately ruled in favor of Meihuizen, allowing the appeal with costs. The orders of Nel J and Davis J were set aside, establishing that Maviga was not entitled to attach the funds in Meihuizen's bank account as TMP's property under the terms of the Admiralty Jurisdiction Regulation Act. The decision clarified that the only property capable of being attached was the personal right belonging to TMP concerning the debts owed by Meihuizen. 
+
+This case reinforces the significance of correctly interpreting maritime property rights and the limitations of arrangeing attachment to establish jurisdiction within the courts. The ruling underscores the importance of distinguishing between mere receivables and actual property capable of attachment, further emphasizing the need for clear definitions of property concerning maritime claims ([24], [27]).

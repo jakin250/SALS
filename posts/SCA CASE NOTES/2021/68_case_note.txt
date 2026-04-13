@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: The Member of the Executive Council for Health, Eastern Cape v DL obo AL [2021] ZASCA 68
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–6])
+
+In **The Member of the Executive Council for Health, Eastern Cape v DL obo AL**, the Supreme Court of Appeal (SCA) examined a medical negligence claim arising from a wrongful birth scenario. The respondent, DL, claimed on behalf of her minor child, AL, who developed cerebral palsy due to a hypoxic ischemic event occurring during the labor process. The case originated in the Eastern Cape Division of the High Court, where the court ruled in favor of the respondent, concluding that the hospital staff exhibited negligence and that this negligence was a proximate cause of AL's condition. The MEC appealed the decision, arguing that the high court misdirected itself on both legal and factual grounds, and asserted the appeal should be upheld based on a lack of causation.
+
+### I – Issues: Legal or Constitutional Questions ([paras 7–9])
+
+The central legal questions arose around the elements of negligence and causation in the context of medical negligence. Specifically:
+
+1. Were the actions of the hospital staff negligent?
+2. Was there a causal link between that negligence and the brain injury sustained by AL?
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 8–9])
+
+The court applied established principles of negligence, as outlined in **Kruger v Coetzee** [1966] 2 SA 428. Negligence requires a demonstration of:
+
+1. Reasonable foreseeability of harm,
+2. Reasonable preventability of that harm.
+
+Causation was also stressed, relying on precedents that distinguish between mere negligence and whether that negligence caused the harm suffered by the plaintiff, emphasizing a “but-for” test for factual causation which must align with established standards of medical care within the relevant guidelines.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 10–30])
+
+The SCA evaluated both the factual events and the expert testimonies presented at trial. Evidence from the hospital's monitoring procedure was heavily scrutinized:
+
+1. **Monitoring Procedures**: The court noted the 2007 National Maternal Guidelines stressing routine monitoring every two hours in the first stage of labor. The monitoring from 02:01 to 02:18 was deemed adequate based on the circumstances, leading the court to question the significance of perceived inconsistencies in the CTG readings.
+   
+2. **Expert Testimony**: The court considered the evaluations made by Dr. Murray, who testified on behalf of the respondent, and Prof Buchmann, the expert for the appellant. Discrepancies in their assessments regarding fetal heart rate readings and the subsequent interpretation of those readings (especially whether a reading of 160 bpm signifiably indicated fetal distress) were pivotal in the determination of negligence.
+
+3. **Causation of the Injury**: Critical to the court's ruling was the acknowledgment that even if negligence were found regarding monitoring, there remained an unanswered question regarding causation; specifically, whether timely intervention would have altered the outcome for AL. Dr. Murray's admission highlighted uncertainty regarding whether the brain injury could have been prevented even with immediate action.
+
+The Supreme Court noted that the trial judge attributed weight to conclusions presented by Dr. Alheit, whose testimony conflicted with the consensus of other expert witnesses but seemed less grounded in direct applicability to the specifics of this case, leading to a challenge regarding the high court's overall analysis.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 31–35])
+
+The Supreme Court of Appeal determined that the high court had erred in its judgment by misapplying the principles of negligence and causation. It concluded:
+
+1. The respondent did not sufficiently establish that the actions of the hospital staff constituted negligence that caused AL’s injuries.
+2. The evidence indicated that the hospital climbed up to reasonable medical standards as per guidelines, and that the deterioration leading to the acute profound hypoxic ischemic injury occurred suddenly, indicating events outside the control of the hospital staff.
+
+Consequently, the SCA upheld the appeal, set aside the high court's order, and dismissed the plaintiff’s claim, asserting that careful judicial analysis must consider both procedural adherence and substantial causation, reflecting the strict requirements under delictual claims for proving harm related directly to negligent acts or omissions. The implications of this ruling reinforce the importance of established guidelines within medical practice while emphasizing an evidential burden that links negligence directly to the resultant harm in medical negligence cases.

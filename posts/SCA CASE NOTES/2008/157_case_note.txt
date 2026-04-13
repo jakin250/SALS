@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# Case Note: Letseng Diamonds Ltd v JCI Ltd (580/07) [2008] ZASCA 157
+
+## FIRAC Case Note
+
+### F – Facts
+
+Letseng Diamonds Ltd (the Appellant) is a shareholder in JCI Ltd (the First Respondent), and the case originates from the Johannesburg High Court presided over by Blieden J. The central issue revolves around the Appellant's locus standi to seek a declaratory order regarding the validity of several agreements (notably, a loan agreement) between JCI Ltd and Investec Bank Ltd (the Second Respondent) ([para 1]). 
+
+Initially, the Appellant sought to prevent a general meeting designed to ratify two resolutions concerning these agreements. The Appellant's application evolved to a request for a declaration that the loan agreement and seven other agreements were void due to various alleged deficiencies, including vagueness and lack of fulfilment of suspensive conditions ([para 2–3]).
+
+Concurrently, other shareholders (the Trinity group) filed a separate application challenging the validity of the same loan agreement for similar reasons. Both applications were consolidated for the judgment ([para 4–6]). 
+
+The trial court ruled against the Appellant, determining it lacked standing to bring the issues forward because it was not a party to the agreements whose validity was in question. The court's decision led to the current appeal ([para 9, 33]).
+
+### I – Issues
+
+The primary legal questions presented in the appeal are:
+1. **Locus Standi:** Whether a shareholder of a company can invoke a declaratory judgment regarding the validity of agreements made between the company and third parties, despite not being a party to those agreements ([para 19]).
+2. **Basis of Claim:** Whether the appellant’s claim for a declaration of invalidity is premised on sufficient legal standing, particularly in light of alleged breaches of disclosure obligations ([para 20, 33]).
+
+### R – Rules
+
+The court relied upon several rules and principles from both statutory and common law:
+- **The Rule in Foss v Harbottle**: This principle holds that only a company (not individual shareholders) has the right to sue to rectify wrongs done to it, protecting corporate governance and the relationships dictated by agency in corporate law ([para 18]).
+- **Disclosure Obligations**: Under the Johannesburg Stock Exchange (JSE) Listing Requirements, companies are mandated to provide complete and accurate information to shareholders, ensuring informed decision-making ([para 20]).
+- **Locus Standi Required for Declaratory Relief**: The general principle that a party must possess a direct and substantial interest in the matter at hand to seek declaratory relief was emphasized ([para 33]).
+
+Precedents such as **Hillock v Hilsage Investments Pty Ltd** and **Claude Neon Ltd v Germiston City Council** were invoked to illustrate the limits of standing in contractual disputes and the specific contexts in which third parties could seek declarations of invalidity ([para 22, 24]).
+
+### A – Application
+
+The court applied these legal principles to evaluate the Appellant's standing. It reasoned that, as a stranger to the loan agreement between JCI Ltd and Investec Bank Ltd, the Appellant could not assert a claim for the agreements' invalidation, simply because it had no direct and substantial interest therein ([para 20, 22]). 
+
+While it was held that shareholders do have rights regarding disclosure, the case at hand was not merely about enforcement of those rights but rather about asserting the validity of agreements the Appellant was not a party to ([para 21]). The ruling further clarified that although the Appellant sought accuracy in corporate communications, this did not extend to a right to challenge the agreements directly ([para 20]).
+
+Jafta JA's dissent emphasized the Appellant's lack of standing, further cementing the court's conclusion that individual shareholders cannot seek to impugn agreements solely on the grounds of their non-participation and based on perceived irregularities in the company’s internal governance ([para 29–33]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately found in favor of the Appellant, elucidating that the Appellant did possess locus standi to contend certain issues related to the loan agreement. Consequently, the court reversed the lower court's ruling, asserting the Appellant's right to seek a declaration regarding the matters at hand ([para 10]). The implications of the ruling reaffirm the need for careful consideration of the standing of shareholders when corporate governance is called into question, and delineates the boundaries between individual rights and corporate limitations within the context of contract law.
+
+Overall, the case clarifies the intricacies surrounding corporate governance, the nature of shareholder rights vis-à-vis agreements made by companies, and the foundational principles guiding locus standi in South African law.

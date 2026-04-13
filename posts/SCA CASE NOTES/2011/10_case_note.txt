@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Minister of Transport and Public Works, Western Cape v Zanbuild Construction (68/2010) [2011] ZASCA 10
+
+**F – Facts**  
+The case revolves around the interpretation of certain construction guarantees issued by Absa Bank in favor of the Western Cape Department of Transport and Public Works, for which the Minister and the Head of Department are responsible. These guarantees were issued to secure the obligations of Zanbuild Construction (Pty) Ltd under two separate construction contracts concerning the construction of pathology laboratories at the Eben Dönges Hospital and the TC Newman Hospital ([paras 1–3]).
+
+The disputes began when the department demanded payment from Absa on 26 September 2008. Zanbuild sought a court interdict against this demand, which was granted by Louw J at the High Court, leading to subsequent appeals ([paras 2, 9]). The guarantees involved specified amounts of R1 181 104.80 and R1 106 500.00, constituting 10% of the contract values, and were designed as security for the contractor's performance under the construction contracts ([paras 5–6]).
+
+Zanbuild claimed the guarantees resembled suretyship agreements, thus limiting liability to the contractor's default, while the department maintained that the guarantees functioned as independent 'on demand' bonds, where payment could be sought without the need to show direct liability from Zanbuild under the construction contracts ([paras 11–12]). 
+
+**I – Issues**  
+The critical legal questions addressed in this case include:
+1. Whether the construction guarantees are indeed independent 'on demand' bonds or 'conditional bonds' linked to Zanbuild’s underlying liability under the construction contracts ([paras 11–13]).
+2. The implications of the guarantees' terms regarding the liability of Absa Bank following the demand for payment by the department ([para 19]).
+
+**R – Rules**  
+The court relied on principles established in prior case law regarding the distinction between 'on demand' guarantees and 'conditional bonds', specifically referencing *Dormell Properties 282 CC v Renasa Insurance Co Ltd* and *Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd* to illustrate how guarantees should be interpreted ([para 14]). The court noted that an 'on demand' bond does not require proof of liability against the principal debtor, while a 'conditional bond' would ([paras 12, 14]).
+
+The interpretation of contract terms also played a significant role, where language and intent manifest in the documents would dictate the nature of the guarantee. The court highlighted the need to assess the wording of the guarantees themselves without undue reliance on standard forms that the department wished to apply ([para 17]).
+
+**A – Application**  
+In its analysis, the court favored the interpretation that Absa's guarantees were akin to a suretyship rather than an 'on demand' bond, providing security only insofar as the contractor had not fulfilled its obligations. The guarantees stipulated that claims by the department must be accompanied by written confirmation of the contractor's failure to perform, suggesting a liability framework that was not absolute ([para 19]). 
+
+The argument from the department regarding the independent nature of the guarantees was countered by the court, which observed that if the guarantees were truly 'on demand', the department would expect to claim compensation regardless of proof of default. The court noted that the parties to the guarantees had not created a situation where an event of failure allows for blanket claims regardless of the contractor's actual performance ([paras 20–22]). 
+
+Notably, the provision allowing Absa to withdraw the guarantees upon giving notice also limited liability to amounts that were due at the expiration of the notice period, reinforcing the characterization of the guarantees as conditional rather than irrevocable ([para 22]). 
+
+Overall, since the department did not have a valid monetary claim against Zanbuild at the time of the demand, it could not benefit from the guarantees as they did not operate in the sense that the department alleged ([para 24]).
+
+**C – Conclusion**  
+The Supreme Court of Appeal ultimately dismissed the appeal, upholding the High Court's decision that Absa was not liable to pay the demand under the guarantees. The court concluded that the guarantees, by their wording and stipulations, imposed liability similar to that of a suretyship. The implications of the ruling emphasize the importance of precise language in contract law, particularly regarding financial guarantees, and affirm the principle that conditions must be satisfied based on the agreements’ explicit terms ([paras 25]). 
+
+This ruling underscores the courts' strict adherence to contractual language and the underlying performance obligations, potentially influencing future interpretations of similar guarantees within construction contracts in South Africa.
+
+---
+
+**Counsel for Appellants**: H M Scholtz SC, C Tsegarie  
+**Instructed by**: State Attorney, Cape Town  
+**Counsel for First Respondent**: D Borgström  
+**Instructed by**: Maurice Phillips Wisenberg, Cape Town

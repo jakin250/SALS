@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: *Carlswald & Another v Brews* [2017] ZASCA 68
+
+## F – Facts
+The case arose from the execution of a judgment granted on 18 October 2004 in favor of Firstrand Bank Limited against Brayton Carlswald (Pty) Ltd and Jonathan Paul Brews for the amount of R3,227,582.44. To avoid the sale of attached immovable properties, the defendants approached Gordon Donald Brews, the respondent, to pay the debt owed to the bank. On 26 April 2005, a loan agreement was made between the respondent and the defendants, under which the respondent agreed to pay the bank's debt. In exchange, the defendants pledged shares and a mortgage bond over the attached properties, which was tied to the cession of the judgment debt to the respondent. 
+
+The respondent made payments to the bank totaling R4,439,675.80 on 3 May and 10 August 2005, settling the judgment debt alongside additional claims. However, the deed of cession of the judgment, executed on 29 August 2008, faced challenges due to delays in registering the covering mortgage bond and the existence of outstanding municipal charges.
+
+Subsequently, an ex-parte application by the respondent sought substitution as the execution creditor in the matter, which was accepted by the court but was opposed by the second appellant, Martina Brews, who sought to intervene based on allegations of collusion and potential harm to her financial welfare. The high court dismissed the application, but its ruling was overturned by the court a quo in favor of the respondent. The appellants then sought leave to appeal this decision ([paras 1–8]).
+
+## I – Issues
+The critical legal question on appeal concerned whether a valid cession of a claim can be executed after the underlying obligation has been extinguished by payment. Additionally, the court needed to determine whether the deed of cession constituted a binding agreement that would have legal effect, given that the debt had already been settled by the respondent, impacting the validity of the cession ([paras 1, 19–20]).
+
+## R – Rules
+The legal principles governing the case involved the nature of cession in South African law, specifically:
+
+1. Cession is a bilateral juristic act and can be accomplished orally, but parties may stipulate that cession is only valid if reduced to writing ([para 9]).
+2. Once the terms have been reduced to writing, neither party can rely on prior oral negotiations ([para 10, 17]).
+3. Under common law, a transfer of rights can only occur if the cedent has legal title to the rights in question (nemo plus iuris ad alium transferre potest quam ipse haberet) ([para 13]).
+4. A principal debt must exist for a cession to be valid ([para 19]).
+5. The cession of a claim is typically associated with an obligation, and once that obligation has been extinguished, the cession becomes a nullity ([para 20]).
+6. The intention of the parties as determined by their correspondence can inform the validity of the cession ([para 23]).
+
+## A – Application
+The court analyzed the timing of the cession in relation to the payment. The appellants argued that when the deed of cession was executed on 29 August 2008, the debt owed to the bank had already been extinguished by the respondent's prior payments made in 2005. Thus, the cession of the judgment debt was deemed a nullity because a non-existent debt cannot be transferred ([para 12]).
+
+The court a quo's reasoning, which suggested that the cession could still be valid based on agreements prior to payment and fallaciously applying principles of suretyship, was strongly contested. The court determined that while negotiations may have existed before the debt was paid, those did not constitute a valid cession of a debt that no longer existed. The order in the court a quo, which considered the intentions of the parties based on prior communications, was found to misinterpret the nature of the cession as it failed to account for the actual extinguishment of the underlying obligation ([paras 21–27]).
+
+Importantly, the execution of the deed of cession was not a mere formality as suggested by the court a quo; it was a significant juristic act that required existing rights to be valid ([paras 14, 16]). The parties’ written agreement was deemed to clearly embody their contractual intentions, confirming that an intention to proceed with the cession only arises once the underlying obligation is intact ([paras 18, 27]).
+
+## C – Conclusion
+The Supreme Court of Appeal concluded that the cession was invalid as the underlying judgment debt had been extinguished by the respondent's payment prior to the execution of the deed of cession. It emphasized that an extinguished debt cannot be ceded, rejecting the argument that informal agreements prior to the payment could validate a cession executed afterwards. The appeal was upheld, the order of the court a quo was set aside, and the original appeal dismissed with costs, reinforcing the premise that a non-existent right cannot be transferred ([paras 20, 30]). 
+
+This judgment serves as a critical exposition on the principles surrounding cession in South African law, particularly the necessity of a valid principal obligation at the time of cession. It illustrates the importance of formalities in contractual agreements and clarifies the legal consequences of settling debts prior to executing cession deeds.

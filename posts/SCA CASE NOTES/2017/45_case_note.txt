@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Factaprops v The Land Bank (353/2016) [2017] ZASCA 45 (30 March 2017)
+
+## FIRAC Method
+
+### F - Facts
+The case concerns a dispute arising from a loan agreement dated May 1999, where the first appellant, Factaprops 1052 CC, borrowed R250,000 from the respondent, the Land and Agricultural Development Bank of South Africa (the Land Bank). The debt was secured through the registration of a special notarial bond over various movable assets owned by Factaprops on 18 April 2000, alongside a deed of suretyship executed by the second appellant, Ismail Ebrahim Darsot, who became a surety and co-principal debtor for the repayment of this amount ([paras 2–4]).
+
+Factaprops defaulted on its payment obligations, and the Land Bank issued a summons on 14 October 2010 for R491,203.05, which included interest calculated from 31 August 2010. The appellants argued that the claim had prescribed, contending it was either six years or three years according to section 11(d) or section 11(c) of the Prescription Act 68 of 1969 (the Prescription Act) ([paras 5–6]).
+
+In response, the Land Bank asserted that the debt was secured by a special notarial bond and, therefore, the applicable period of prescription was thirty years according to section 11(a)(i) of the Prescription Act ([paras 7–8]). The Gauteng Division ruled that the Land Bank’s claim had not prescribed, leading to this appeal ([para 9]).
+
+### I - Issues
+The central issue in this appeal was the interpretation of the phrase "mortgage bond" in section 11(a)(i) of the Prescription Act. Specifically, whether this phrase encompassed a special notarial bond, thus determining whether the applicable prescription period for a debt secured by such a bond would be thirty years rather than the shorter periods of six years or three years as contended by the appellants ([paras 1, 10–12]).
+
+### R - Rules
+The Prescription Act governs the periods applicable to the prescription of debts in South Africa. Section 11(a)(i) states that "thirty years in respect of any debt secured by mortgage bond" applies. Conversely, section 11(c) applies six years to debts arising from notarial contracts, while section 11(d) prescribes three years for other debts. The Act does not define "mortgage bond" or reference "notarial bond." 
+
+In interpreting legislation, courts typically consider the language used, the context of the provision, its intended purpose, and material known to those who created it ([para 13]).
+
+### A - Application
+The court interpreted "mortgage bond" in a broader context, indicating it potentially included special notarial bonds. This interpretation was found to be consistent with both the legislative history of the Prescription Act and the ordinary grammatical meaning of the term “mortgage,” which can pertain to either immovable or movable property ([paras 17–22]). 
+
+The court noted that previous decisions and definitions regarding the distinction between mortgage bonds (which typically relate to immovable property) and notarial bonds (generally relating to movable property) do not necessarily preclude the interpretation of "mortgage bond" as inclusive of special notarial bonds for purposes of prescription ([paras 14–15, 23–24]).
+
+Consequently, the court dismissed the appellants' arguments regarding the restrictive interpretation of "mortgage bond," concluding that the longer prescription period of thirty years applied to the Land Bank's claim, as it was indeed secured by a special notarial bond ([paras 26–27]).
+
+### C - Conclusion
+The appeal was dismissed, confirming that the phrase "mortgage bond" in s 11(a)(i) of the Prescription Act includes special notarial bonds. The court held that the applicable prescription period for the debt secured by such a bond is thirty years, thus affirming the lower court's ruling that the Land Bank's claim had not prescribed ([paras 27–28]). The court further ordered the appellants to pay the legal costs on an attorney-and-client scale as stipulated in the notarial bond ([para 25]).
+
+The implications of this judgment extend to clarifying the interpretation of financial security instruments in South African law, particularly regarding the duration of claims secured via various bond types, and reinforcing the principle that courts will seek to uphold the intended purpose and protection offered by statutory provisions like the Prescription Act.

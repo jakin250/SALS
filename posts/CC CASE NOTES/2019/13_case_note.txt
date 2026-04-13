@@ -1,0 +1,28 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Kruger v National Director of Public Prosecutions [2018] ZACC 13
+
+### F – Facts 
+The case involves Arrie Willem Kruger (the applicant) who sought leave to appeal against the National Director of Public Prosecutions (the respondent) after the Gauteng Division of the High Court dismissed his action for malicious prosecution, citing prescription. On 6 October 2009, Kruger was arrested and appeared in the Randburg Magistrate's Court based on a complaint from Mr. Johnston regarding a civil matter concerning motorcycles. Despite not understanding the court proceedings due to poor audibility, he was denied bail and spent a week in prison. All charges against him were withdrawn on 13 October 2009.
+
+Subsequent to his release, Kruger initiated a legal action against the police but details of that action are incomplete. However, in August 2012, he received the police docket which included an Investigating Officer's statement indicating inadequate grounds for the prosecution. Upon this discovery, Kruger filed a claim against the respondent for damages due to malicious prosecution, served on 31 January 2013. The respondent's defence was that the claim had prescribed, asserting the cause of action arose on the date charges were withdrawn.
+
+### I – Issues 
+Key legal questions raised in this case include:
+1. Whether the High Court was correct in determining that Kruger's claim for malicious prosecution had prescribed by the time the summons was served on 31 January 2013 ([para 16]).
+2. Whether the court had jurisdiction based on the constitutional implications of prescription as it affects access to courts ([para 5]).
+3. What constitutes "knowledge of the facts from which the debt arises" under section 12(3) of the Prescription Act in the context of a claim for malicious prosecution ([para 10]).
+
+### R – Rules 
+The court primarily interpreted section 12(3) of the Prescription Act 68 of 1969, which states that a debt is deemed due only when the creditor has knowledge of the facts from which the debt arises. This section aligns with constitutional rights under section 34 of the Constitution guaranteeing access to courts, as established in prior authority, *Mtokonya v Minister of Police* [2017] ZACC 33 ([para 6]). The principles derived from case law clarify that the facts a creditor needs to know include those that are material to establishing the claim ([para 29]). The court must assess whether knowledge of additional elements, such as bad faith or lack of reasonable grounds for prosecution, was necessary for the claim to arise ([para 55]).
+
+### A – Application 
+The majority judgment, penned by Froneman J, contended that Kruger did not have sufficient knowledge of the facts necessary to pose a malicious prosecution claim until he obtained the police docket ([para 30]). The minority opinion, expressed by Zondo DCJ, held that a claim for malicious prosecution does not arise solely from the withdrawal of charges but rather from the combination of facts impacting the prosecutor's motives and knowledge at the time ([para 40]). The crux of the analysis involved determining what specific facts Kruger needed to establish his claim and whether he was aware of all necessary elements when the charges were withdrawn.
+
+The case draws parallels to *Links v MEC for Health* which emphasized the need for knowledge covering all facts that substantiate a claim, not just the fact that charges were withdrawn. The absence of specific details that pointed to the prosecutor's bad faith or to reasonable grounds for proceedings was pivotal in affirming that prescription did not commence on the withdrawal date ([para 50-52]).
+
+### C – Conclusion 
+The Constitutional Court ultimately held that the applicant had not had sufficient knowledge of the material facts necessary to establish his claim until he received the police docket in August 2012. Thus, the claim had not prescribed by the time the summons was served in January 2013. The order of the High Court dismissing the claim on grounds of prescription was set aside, and leave to appeal was granted, affirming that the matter raised constitutional issues regarding access to justice ([para 88]).
+
+The implications of this judgment extend to clarifying the necessity of a claimant's full awareness of all material facts in malicious prosecution claims, reinforcing the importance of thorough investigative and procedural processes in matters involving state prosecution and individual rights ([para 73]). Thus, prescription cannot limit access to justice until all requisite knowledge is firmly established.

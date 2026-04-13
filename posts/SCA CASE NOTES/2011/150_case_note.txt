@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: ABSA Bank Limited v The South African Commercial Catering and Allied Workers Union National Provident Fund (Under Curatorship)
+
+**Case Citation:** ABSA v SACCAWU (697/10) [2011] ZASCA 150 (27 September 2011).
+
+### F – Facts
+
+The case at hand involved a dispute concerning the validity of 15 lease agreements purportedly signed by Mr. Abie Mosiuoa, the Principal Officer of the South African Commercial Catering and Allied Workers Union National Provident Fund (the Fund) ([1]). The appellant, Absa Bank Limited (the Bank), claimed substantial arrears on these leases, asserting that it was the cessionary of the rights under the agreements ([1]). The Fund countered that Mosiuoa lacked the authority to enter into these contracts, as his actions were deemed ‘ultra vires’—beyond his legal power—according to the rules governing the Fund ([1]–[2]).
+
+The Fund was placed under curatorship on 18 March 2003 ([2]). During the lease period, Sasfin Bank Ltd and Sunlyn Investments (Pty) Ltd had financed the office equipment acquisition through rental agreements signed by Mosiuoa ([2]). The Bank later initiated legal proceedings against the Fund, Sasfin, and Sunlyn, but eventually withdrew claims against the latter two ([2]–[3]). 
+
+The rules of the Fund explicitly required that all binding documents must be signed by the Chairperson and two other Trustees at a duly constituted meeting ([4]). However, the leases in question were not executed in accordance with these stipulations ([3]). The parties presented this issue to the South Gauteng High Court as a stated case, which ruled in favor of the Fund, deeming the leases invalid and not enforceable ([5]–[6]).
+
+### I – Issues
+
+The core legal questions presented to the court were:
+1. Whether Mr. Mosiuoa acted ultra vires the Fund’s rules and the Pension Fund Act 24 of 1956 when he concluded the 15 rental agreements ([5]).
+2. If found to be acting ultra vires, whether the Fund could nonetheless be held bound by these agreements based on legal principles such as estoppel or the Turquand rule ([5]).
+3. Relatedly, whether the Fund could, as a matter of law, be held bound by the agreements in light of the findings in relation to the previous two issues ([5]).
+
+### R – Rules
+
+The primary legal authority in this case is the Pension Fund Act 24 of 1956, which establishes requirements and stipulations for pension funds, including aspects of governance and contractual authority ([27]). Specifically, Section 8 mandates the appointment of a principal officer, while Section 11 empowers funds to adopt rules that comply with prescribed formats ([27]). 
+
+Rule 4.13 of the Fund's rules serves as the key operational guideline for binding agreements, requiring signatures from the Chairperson and two trustees at a duly constituted meeting, or after such a meeting with relevant authorization ([4]–[29]). The case also touches upon the principle of ultra vires, whereby acts performed beyond one's authority are rendered void ([32]). 
+
+The Turquand rule, which allows third parties to assume that due processes have been followed in corporate governance, and the doctrine of estoppel, which can prevent a party from claiming a right they would otherwise have waived, were also significant for evaluating whether the Fund could be bound despite procedural deficiencies ([6], [37]).
+
+### A – Application
+
+In its application of the rules, the court determined that Mosiuoa's appointment as Principal Officer did not grant him the authority to bypass the specific signing requirements outlined in Rule 4.13. Lewis JA, in the dissenting opinion, argued that interpreting the rules required a contextual understanding that acknowledged the role of the Principal Officer as responsible for the administration of the Fund ([20]–[21]). Despite this, he ultimately sided with the idea that the rules were poorly drafted regarding the execution of contracts, leading to ambiguity about the capacity of the Principal Officer ([16]).
+
+The majority of the court, in contrast, emphasized that these rules must be adhered to strictly as part of the Fund's governance framework, reinforcing the requirement for collective agreement by trustees to preserve accountability and protect the interests of fund beneficiaries ([36]). The fact that the Fund had recognized that third parties were aware of the rules and the lack of compliance further weakened the Bank's claims under the Turquand rule ([37]).
+
+Moreover, the lack of an express provision allowing for the Principal Officer to execute contracts without following Rule 4.13’s procedures indicated to the majority that such decisions were designed to be strictly controlled by the trustees ([35]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, affirming the decision of the lower court and holding that the 15 rental agreements were invalid due to non-compliance with the Fund's rules ([1], [6], [38]). The court underscored the necessity for strict adherence to defined governance frameworks within pension funds, which are designed to protect members' interests, especially given the statutory framework established by the Pension Fund Act.
+
+The implications of this case extend to the governance structures of similar entities, emphasizing the importance of clarity in corporate rules regarding contractual authority to prevent misunderstandings similar to those encountered in this case. The ruling serves as a precedent underlining the need for compliance with internal governance structures and the limits of authority granted to key officials within corporate bodies like pension funds. 
+
+This judgment highlights the principle that, in corporate governance, adherence to constitutional processes not only ensures legal compliance but also protects stakeholder interests and enhances stability within fund management.

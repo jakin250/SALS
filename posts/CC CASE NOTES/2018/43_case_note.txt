@@ -1,0 +1,41 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2018
+
+### FIRAC Case Note: eThekwini Municipality v Mounthaven (Pty) Limited [2018] ZACC 43
+
+#### F – Facts
+The applicant, eThekwini Municipality, sought leave to appeal against the Supreme Court of Appeal's dismissal of its application to compel the respondent, Mounthaven (Pty) Limited, to re-transfer a property initially sold to it. The case hinged on the interpretation of a reversionary clause within the deed of sale. The Supreme Court of Appeal ruled that the Municipality's claim constituted a “debt” under the Prescription Act 68 of 1969 and had prescribed, as the application to compel re-transfer was made in 2014, well after the three-year period post-sale in May 1985 ([1]–[2]).
+
+The Municipality argued that: 
+1. Its claim did not fall under the definition of "debt" as understood in the Prescription Act;
+2. The reversionary right represented a limited real right, not susceptible to prescription; 
+3. Alternatively, the claim was secured by a mortgage bond which prescribes after 30 years ([3]).
+
+Mounthaven contended that the claim constituted a prescribed debt. The High Court found in favor of Mounthaven, a decision upheld by the Supreme Court of Appeal ([4]).
+
+The deed of sale imposed a requirement for Mounthaven to construct buildings costing R100,000 within two years; failing which, ownership would revert to the Municipality. Mounthaven did not fulfill this condition ([4]).
+
+#### I – Issues
+The central legal questions presented to the court were:
+1. Whether the Municipality's claim constituted a "debt" under the Prescription Act, thereby subject to its regulations;
+2. Whether the reversionary clause constituted a limited real right exempt from prescription;
+3. The implications of the interpretation of the reversionary clause on the right to access courts as provided in section 34 of the Constitution ([2]–[3]).
+
+#### R – Rules
+Several key legal principles and precedents guided the Court’s analysis:
+1. Definition of a "debt" under the Prescription Act 68 of 1969, which prescribes debts after three years unless secured by a mortgage bond, which prescribes after 30 years ([5]).
+2. The distinction between personal and real rights, where personal rights typically concern obligations between individuals, while real rights pertain to relationships between individuals and property ([9]–[10]).
+3. The Supreme Court of Appeal’s criteria for identifying real rights involve intent and subtraction from ownership rights ([11]).
+4. The Deeds Registries Act 47 of 1937, particularly sections regarding the registration and nature of rights impacting prescriptions ([12]–[14]).
+   
+#### A – Application
+The Court interpreted the prescription of the Municipality's claim based on established definitions and previous case law. It noted that the claim to re-transfer the property constituted a “debt” in the sense defined in *Makate v Vodacom Ltd*, as the obligation to transfer ownership was itself a financial obligation, and thus prescribed after the three-year statutory period ([8]).
+
+Conversely, the Municipality's argument stated that the reversionary clause should be treated as a limited real right. The Court dismissed this position, noting that the clause did not explicitly bind successors in title and therefore did not meet the criteria for a real right as outlined in legal precedents. The mere registration of this clause did not elevate it from a personal right to a real right under the laws governing property rights ([9]–[11]).
+
+Furthermore, the claim's characterization as a mortgage-backed obligation was also refuted. The Court ruled that the accessory security provided by a mortgage bond does not extend beyond the life of the primary obligation, which had been extinguished by prescription ([21]).
+
+Ultimately, because the Municipality's arguments lacked merit and reasonable prospects for success, it was determined that allowing the appeal was not in the interests of justice ([22]).
+
+#### C – Conclusion
+The Constitutional Court concluded to refuse leave to appeal, solidifying the position that the Municipality's claim constituted a prescribed debt under the Prescription Act. The court underscored the significance of the definitions and distinctions in property law, noting that the registered reversionary clause did not attain the status of a real right and was consequently subject to the three-year prescription period. The implications of this ruling clarify the treatment of reversionary clauses in municipal contracts, emphasizing the necessity for timely claims to maintain enforceability. The decision is pivotal for local authorities, as it sheds light on the handling of properties under municipal development agreements, ensuring clarity on the implications of prescribed debts in fiscal planning and administration ([23]).

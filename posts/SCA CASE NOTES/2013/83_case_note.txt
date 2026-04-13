@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# Case Note: FIRAC Analysis of Radon Projects v N V Properties & Another (528/12) [2013] ZASCA 83
+
+### F – Facts
+In **Radon Projects v N V Properties & Another**, the Supreme Court of Appeal of South Africa addressed a dispute arising from a construction contract governed by the Principal Building Agreement of the Joint Building Contracts Committee (JBCC) 4th edition (March 2004) ([2]). The dispute arose between Radon Projects (Pty) Ltd (the contractor, appellant) and N V Properties (Pty) Ltd (the employer, first respondent) regarding the construction of the East London Convention Centre. The contractor claimed various entitlements against the employer, who contested liability for these claims ([2]). Subsequently, the contractor engaged an arbitrator to resolve the disputes, prompting the employer to seek an order from the Eastern Cape High Court asserting that the arbitrator lacked jurisdiction over most of the claims ([2]–[3]).
+
+The court a quo ruled in favor of the employer, concluding that there was no dispute that could be submitted to arbitration, primarily arguing that the contractor’s claims had been decided earlier in the construction phase, hence the contractor did not properly dispute these decisions in the time frame required ([2]–[3]). The contractor appealed the decision ([2]).
+
+### I – Issues
+The primary legal issues addressed in the case were:
+1. Whether the arbitrator had jurisdiction to resolve the contractor's claims, given that the employer contended the claims were previously settled ([18]).
+2. Whether the contractor was obligated to submit its disputes to adjudication instead of arbitration, particularly considering the timing of the disputes in relation to practical completion of the project ([20]).
+
+### R – Rules
+The court relied heavily on the procedural rules articulated in the JBCC contract, particularly clause 40, which outlines the various stages for dispute resolution, including mediation, adjudication, and arbitration ([6]–[9]). Key stipulations from the contract highlighted included:
+- Disputes must initially be addressed by a principal agent, with specific time limits for response to ensure a binding decision unless contested ([6]).
+- The provisions allowed for an adjudicator's determination to be binding pending a final resolution through arbitration ([7]–[8]).
+
+The court also invoked principles of jurisdiction in arbitration as established in **Makhanya v University of Zululand**, whereby a tribunal's authority to consider a claim does not depend on the merits of that claim ([24]–[25]).
+
+### A – Application
+Upon reviewing the objections raised by the employer regarding the arbitrator's jurisdiction, the court determined that the employer misconstrued the nature of the contractor's claims. The contractor did not merely revive claims that had been previously rejected but instead asserted its right to submit revised claims based on new information obtained post-completion of the works ([22]–[25]). This interpretation aligned with the understanding that disputes are deemed to arise from the contract's stipulations and can be subject to either adjudication or arbitration, depending on when they are presented.
+
+The court emphasized that whether a dispute arises before or after practical completion does not dictate the process (adjudication vs. arbitration) but is determined by the timing of submission for resolution as per the project's contractual framework ([22]–[23]). 
+
+Moreover, the court affirmed that the arbitrator is entitled to examine jurisdictional objections but is not mandated to cease proceedings solely because such an objection has been raised. Instead, they should evaluate their jurisdiction based on the scope outlined in the contract ([28]–[30]). The court noted that denying a contractor's right to pursue claims merely based on a former rejection in the construction phase would abuse the principles of fair arbitration ([31]).
+
+### C – Conclusion
+The Supreme Court of Appeal upheld the appeal, thereby overturning the decision of the High Court and affirming the arbitrator's jurisdiction over the disputes in question. The court concluded that the contractor was entitled to submit revised claims under the terms of the JBCC contract, and that the disputes arose from the agreement that warranted arbitration ([25]). The court dismissed the employer's application with costs, including provisions for the costs of two counsel in cases where this level of representation was employed ([32]).
+
+This case is significant for clarifying the procedural bounds of arbitration within South African construction contracts, underscoring the importance of contractual language and the dynamics of dispute resolution methods in construction law. It establishes precedent regarding the treatment of revised claims and the extent of an arbitrator's jurisdiction in light of objections raised, enhancing the understanding and authority of arbitral proceedings vis-à-vis contractual obligations. 
+
+### References
+- **Radon Projects v N V Properties & Another (528/12) [2013] ZASCA 83**.
+- **Makhanya v University of Zululand 2010 (1) 62 (SCA)**.
+- JBCC Principal Building Agreement 4th ed (March 2004).

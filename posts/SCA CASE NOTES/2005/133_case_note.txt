@@ -1,0 +1,37 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# FIRAC Case Note: Storegate Africa (Pty) Limited v Airlink Cargo International (Pty) Ltd
+
+## F – Facts: Relevant Background and Procedural History ([1]–[4])
+This case centers on an appeal against a judgment by Willis J of the High Court in Johannesburg, who ordered Storegate Africa (the appellant) to provide security for costs to Airlink Cargo International (the respondent) related to a claim for damages stemming from the loss of computer equipment. The appellant had instituted proceedings against the respondent, alleging that it had entrusted certain computer equipment for storage. The respondent countered the claim and then filed a notice under Rule 47(1) of the Uniform Rules of Court, requesting R30,000 in security for costs based on their belief that the appellant, a company with limited liability, would be unable to pay the taxed costs if the respondent were successful in its defense.
+
+Notably, the appellant ignored this notice. Eight months later, the respondent applied to the court for an order compelling the appellant to provide the requested security. The respondent's application was largely based upon a subrogation agreement with an insurer, implying that any losses sustained would be borne by the insurance company rather than the appellant; however, no substantial evidence was provided to support the argument that the appellant would be unable to pay costs. The appellant did not file an answering affidavit, relying solely on the respondent’s papers.
+
+## I – Issues: Legal or Constitutional Questions ([2], [6])
+The core issues before the Supreme Court of Appeal (SCA) include:
+
+1. **Appealability**: Whether an order requiring a party to provide security for costs is appealable, particularly when such an order is granted.
+2. **Jurisdictional Requirements**: Whether the High Court had the jurisdiction to order security for costs in accordance with section 13 of the Companies Act 61 of 1973, which requires credible testimony to establish a reasonable belief that a company cannot meet its legal costs.
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([6], [8])
+The judgment relies heavily on section 13 of the Companies Act, which stipulates that a court may order a company to provide security for costs only if there exists credible testimony establishing that the company will likely be unable to satisfy a costs order. The SCA referred to several cases to clarify this requirement:
+
+- **Shepstone & Wylie v Geyser NO**: This precedent indicated that orders denying security for costs are appealable.
+- **Petz Products (Pty) Ltd v Commercial Electrical Contractors (Pty) Ltd**: Defined the onus on the defendant to provide credible evidence for their belief that the plaintiff would be unable to pay costs.
+  
+Additionally, the court noted that merely referencing the subrogation agreement did not provide credible testimony as required.
+
+## A – Application: Analysis of How the Court Applied the Law ([7]–[9])
+The SCA first addressed the preliminary question of appealability, affirming that orders demanding security for costs are indeed appealable. The court then engaged with the substantive issue regarding the jurisdictional requirements under section 13 of the Companies Act. 
+
+In analyzing the application for security, the SCA found that the lower court had erroneously placed the onus on the appellant to produce evidence of its financial stability. Instead, it was the responsibility of the respondent to provide credible testimony concerning its claim that the appellant could not pay the costs. The reliance on the subrogation agreement was deemed insufficient, as it did not affect the respondent's standing and obligations in regard to the costs.
+
+The court also dismissed the respondent's arguments regarding acquiescence due to the appellant’s failure to respond to the Rule 47(1) notice, affirming that the appellant had the right to await the development of the case before taking further action. The absence of a conclusive financial disclosure by the appellant did not change the fact that the respondent failed to meet its burden of proof.
+
+## C – Conclusion: Court's Holding, Ratio Decidendi, and Implications ([10])
+The SCA upheld the appeal, ruling in favor of the appellant and setting aside the order for security for costs mandated by the High Court. The court's ratio decidendi emphasized that the jurisdiction to order security for costs hinges on credible evidence indicating a reasonable belief that the appellant would not be able to fulfill a costs order. The judgment clarified that the mere existence of a subrogation agreement or a lack of response by the appellant does not satisfy this jurisdictional requirement.
+
+This decision reinforces the principle that the burden lies with the party requesting security for costs to provide adequate evidence of their claims regarding the opposing party's financial position. It has far-reaching implications for future cases regarding the issuance of security orders, emphasizing the necessity for concrete evidence in such applications. 
+
+The result reaffirmed procedural fairness and the need for substantiated claims in legal proceedings, ensuring that companies are not unduly burdened by unsubstantiated demands for security. The courts thus remain firmly anchored in a framework that respects the rights of parties while ensuring the responsible application of legal recourse in commercial disputes.

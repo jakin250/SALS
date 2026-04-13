@@ -1,0 +1,60 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Panamo Properties v Land and Agricultural Development Bank of South Africa
+
+**Neutral Citation:** Panamo Properties v Land and Agricultural Development Bank (20051/2014) [2015] ZASCA 70 (22 May 2015)
+
+**Coram:** Lewis, Pillay, Willis JJA and Schoeman and Gorven AJJA
+
+---
+
+## F - Facts: Relevant Background and Procedural History ([paras 1–10])
+
+This case involves an appeal by Panamo Properties 103 (Pty) Ltd (hereafter referred to as "Panamo") against the judgment of the Gauteng Local Division of the High Court regarding a loan agreement with the Land and Agricultural Development Bank of South Africa (the "Bank"). The loan agreement, executed on 5 April 2007, involved the Bank lending R52,919,845 to Panamo for acquiring agricultural properties and developing a township. A mortgage bond was registered over Panamo's property as security for this debt ([para 4]).
+
+The Bank challenged the validity of the loan agreement, asserting that it was unauthorized under the Land and Agricultural Development Bank Act 15 of 2002 (the "Act") due to non-compliance with sections 3, 23, and 66 of the Public Finance Management Act 1 of 1999 (the "PFMA"). The Bank contended that despite the invalidity of the loan agreement, the mortgage bond remained enforceable ([pars 7-10]).
+
+The High Court found the loan agreement invalid but concluded that the mortgage bond was enforceable. Panamo's defenses of estoppel and the "Turquand Rule" were abandoned during the appeal ([para 8]).
+
+---
+
+## I - Issues: Legal or Constitutional Questions ([paras 11–14])
+
+The primary issues before the court were:
+
+1. **Whether the loan agreement was unauthorized and thus void due to contraventions of the Act and the PFMA** ([para 11]).
+2. **Whether the mortgage bond, despite the invalidity of the loan agreement, constituted enforceable security** for the claim based on unjustified enrichment ([para 11]).
+
+The parties agreed that the Bank bore the onus of proving the invalidity of the loan agreement and the enforceability of the mortgage bond ([para 9]).
+
+---
+
+## R - Rules: Legal Authorities and Precedents Relied Upon ([paras 13–19])
+
+The statutory framework governing this case includes:
+
+1. **Land and Agricultural Development Bank Act 15 of 2002**: This Act outlines the Bank's objects, which include promoting equitable ownership of agricultural land and supporting agrarian reform ([para 14]).
+2. **Public Finance Management Act 1 of 1999**: Sections 66 and 68 prohibit public institutions from entering into unauthorized transactions, asserting that such contracts cannot be enforced ([para 22]).
+
+Relevant case law included decisions wherein the validity of contracts was deemed void due to a failure to comply with statutory requisites, such as *Standard Bank v Estate Van Rhyn* 1925 AD 266, which states that recognition of a contravening act cannot defeat the statute's purpose ([para 22]).
+
+---
+
+## A - Application: Analysis of How the Court Applied the Law ([paras 20–47])
+
+The Court examined whether the Bank had the power to conclude the loan agreement under the provisions of the Act. It held that the objects of the Bank, articulated in section 3, were not achieved by the loan to Panamo, which aimed at transforming agricultural land into urban township land. Thus, this intent conflicted with the primary purposes of the Act, which primarily focus on promoting agricultural use ([paras 15–20]).
+
+The Court found that although investments are permitted under the Act, ministerial approval was required for such investments per section 23. It was determined that the necessary approval was not obtained for this loan, rendering it invalid ([paras 17-18]). The Court reasoned that the loan agreement was, therefore, invalid, following legislative guidance that prohibits public institutions from undertakings outside their statutory power ([para 21]).
+
+Regarding the enforceability of the mortgage bond, the Court distinguished between the invalidity of the loan agreement and the possible validity of the mortgage bond itself. The bond served as security for debts other than those arising from the invalid loan agreement. Following principles from *Kilburn v Estate Kilburn* 1931 AD 501, which assert that a mortgage must always be related to an underlying obligation, the Court upheld the notion that security could still exist even when the foundational obligation was void ([paras 28-30]).
+
+The bond was interpreted broadly to cover various forms of indebtedness, including unjust enrichment claims, thereby allowing the Bank to recover amounts advanced to Panamo ([paras 33–46]).
+
+---
+
+## C - Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 47–48])
+
+The Supreme Court of Appeal ultimately dismissed Panamo's appeal, affirming the High Court's findings on both the invalidity of the loan agreement and the enforceability of the mortgage bond as security for the claim based on unjust enrichment. The ratio decidendi highlighted that a loan agreement executed in contravention of statutory provisions results in invalidity, yet the security linked to such an agreement could remain enforceable under principles of unjust enrichment ([para 48]).
+
+This decision underscores the imperative for compliance with statutory mandates in public finance while preserving avenues for unjust enrichment claims, thus balancing public accountability with equitable recovery options in the financial sector. The implications extend to future dealings by public financial institutions, encapsulating the necessity for due diligence in approvals and lending practices within regulated frameworks.

@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 1999
+
+# FIRAC Case Note: Cooper and Janse Van Rensburg v Merchant Trade Finance Limited
+
+### F – Facts
+
+The case involves an appeal stemming from a decision made by the Supreme Court of Appeal concerning the liquidation of Cat Quip CC (hereafter "Cat Quip"). The appellants, Brian St Clait Cooper and Jacobus Hendrikus Janse Van Rensburg, are the liquidators representing Cat Quip, which was provisionally liquidated on 2 February 1993, after a winding-up application was filed on 27 January 1993 ([para 17]). 
+
+Merchant Trade Finance Limited (hereafter "the respondent") was the creditor with which Cat Quip had a notarial general covering bond registered on 4 April 1990 over all its movable assets. The financial situation deteriorated, leading to Cat Quip defaulting on payments by November 1992, culminating in the death of Mr. Weichelt, the principal member of Cat Quip, and subsequent management issues ([para 18–20]).
+
+On 26 January 1993, in light of impending liquidation proceedings, Mrs. Weichelt, acting on behalf of Cat Quip, handed over the keys to all movable assets to Mr. Rivkind, an executive from the respondent who was present for the purpose of securing the company’s claims ([para 18]). The transfer occurred one day prior to the liquidation application, raising the issue of whether this act constituted a voidable preference under section 29 of the Insolvency Act, 24 of 1936 ([para 14]).
+
+### I – Issues
+
+The key legal issue revolves around whether the handover of movable assets constituted a "disposition" aimed at preferring the respondent above other creditors, hence rendering it voidable under section 29(1) of the Insolvency Act. Specifically, the court must answer the following questions:
+
+1. Did the handover of keys and movable assets on 26 January 1993 qualify as a disposition pursuant to the provisions of the Insolvency Act?
+2. Can the respondent prove that the disposition was made in the ordinary course of business and without an intention to prefer one creditor over another? ([para 14–15]).
+
+### R – Rules
+
+The ruling is primarily guided by section 29(1) of the Insolvency Act, which provides that any disposition made within six months before the liquidation of a debtor's estate that has the effect of preferring one creditor over others can be annulled unless the recipient can demonstrate the disposition was made in the ordinary course of business without a preference intention ([para 14]).
+
+The court highlighted several legal principles, mainly that proof of subjective intention to prefer is essential to substantiate any claims of voidable preferences ([para 6–7]). The court also stressed that a judgment must be based on the totality of circumstances and the subjective perspective of the debtor at the time of the disposition, as per precedents like *Pretorius’ Trustee v Van Blommenstein*, where intention is assessed through inferences drawn from the circumstances surrounding the act ([para 11]).
+
+### A – Application
+
+In applying these legal rules, the court examined the circumstances surrounding the dispositional act on 26 January 1993. Zulman JA emphasized that the evidence indicated an absence of an intention to prefer Merchant Trade Finance over other creditors, based on several factors ([para 19–25]). These included:
+
+1. **Obligations under the general bond**: It was crucial that Mrs. Weichelt acknowledged the bond's existence and sought to comply with it, thus suggesting that her intent was not to confer a preference but to fulfil a pre-existing obligation ([para 25]).
+2. **Lack of discussions about other creditors**: The court noted the absence of dialogue between Mrs. Weichelt and Mr. Rivkind regarding the impact on other creditors, indicating a focus on compliance rather than preference ([para 20]).
+3. **Arm's Length Transaction**: The nature of the relationship between Mrs. Weichelt and Mr. Rivkind, characterized by an arms-length interaction, contributed to the inference that the transaction pursued was standard and not motivated by improper intent ([para 22]).
+4. **No credible evidence of duress**: Testimonies did not indicate pressure from the creditor, underscoring that the decision to hand over the keys was reflective of diligent compliance with obligations rather than coercive preference ([para 23]).
+
+Contrarily, Olivier JA and his concurring judges presented an opposing analysis, arguing that Mrs. Weichelt’s actions, knowing the impending liquidation, pointed toward a profound intention to favor the creditor in a desperate attempt to secure financial recovery ([para 36–40]). The contention that pressure existed to favor the creditor stemmed primarily from her knowledge of the company's insolvency status.
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately upheld the earlier ruling that the respondent lacked sufficient evidence to demonstrate that the handover transaction was made in the ordinary course of business and without intention to prefer one creditor over others ([para 31]). Consequently, the appeal was dismissed, confirming that the acts leading to the transfer of assets constituted a voidable preference under section 29(1) of the Insolvency Act.
+
+The implications of this judgment emphasize the judicial scrutiny towards debtor intentions in insolvency matters and affirm the necessity for creditors to navigate their claims judiciously, particularly juxtaposed with the risks inherent in dealings that occur close to the insolvency threshold. The procedural and substantive interpretations of contractual obligations under insolvency law are reiterated, marking significant precedential value for future cases addressing similar issues of preference and creditor relationships.
+
+By affirming the fundamental principles governing preference amidst insolvency, the judgement reinforces the protective ethos of the Insolvency Act aimed at equitable distribution among creditors, thereby enhancing legal clarity and accountability in corporate insolvency proceedings.

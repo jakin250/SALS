@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# FIRAC Case Note: Hanekom v Builders Market Klerksdorp (Pty) Ltd [2006] SCA 2 (RSA)
+
+## F – Facts
+The case concerns Lindert Hanekom (the appellant), who served as the sole member of RTMC Marketing CC (the close corporation or CC), and was also the sole shareholder and director of LSL Konstruksie (Pty) Ltd—a company that had incurred debts with Builders Market Klerksdorp (Pty) Ltd (the first respondent) for goods sold. To secure this debt, the CC executed a suretyship, with Hanekom signing on behalf of the CC, as well as personally.
+
+In 2001, following a failure by LSL Konstruksie to settle its debt, Builders Market applied for the CC’s liquidation, which was initially unopposed. At a creditors meeting on October 29, 2002, Hanekom's attorney objected to Builders Market's claim on grounds that the suretyship was invalid due to non-compliance with section 52 of the Close Corporations Act 69 of 1984 (the Act). This objection was upheld; however, the ruling was reviewed and overturned on November 4, 2003, allowing Builders Market’s claim.
+
+Following this, the liquidators arranged for a public auction of the CC’s assets, prompting Hanekom to seek a stay of the sale in the High Court. The stay was granted on the condition he sought a court declaration that the suretyship was invalid. However, this application was dismissed with costs, leading to the appeal before the Supreme Court of Appeal, with the leave of the court a quo ([paras 1–2]).
+
+## I – Issues
+The primary legal issue revolves around the interpretation of section 52 of the Close Corporations Act, particularly whether it applies in situations involving a close corporation with a single member. The questions can be framed as:
+1. Does section 52 of the Act, concerning the prohibition of loans and security provisions, apply to a sole member of a close corporation?
+2. Can a sole member’s act of signing a suretyship for the corporation be deemed valid without obtaining prior written consent from themselves in their capacity as a member? ([para 1]).
+
+## R – Rules
+Section 52 of the Close Corporations Act articulates several important tenets: 
+1. Subsection (1) prohibits a close corporation from making loans or securing obligations to any member without written prior consent from all members.
+2. Subsection (2) provides for exceptions to this prohibition, emphasizing the necessity for written consent from all members for particular loans or securities.
+3. Subsection (3) establishes that a member causing non-compliance with these provisions not only incurs personal liability but may also face criminal prosecution ([para 3]).
+
+The court also discusses the legislative intent underlying section 52, which is to protect non-consenting members to prevent the misuse of corporate resources ([para 4]).
+
+## A – Application
+The court analyzes the application of section 52(2) in the context of a sole member. It notes that its explicit language lacks indication that it should not apply to a sole member. The appellant's counsel argued that absent any written consent from himself as the sole member, the suretyship was undoubtedly invalid.
+
+However, the Court reasoned that applying the section literally in a context involving a sole member could lead to absurdities. The necessity for a sole member to provide written consent to themselves, in situations where they are both the signatory and the sole member, serves no purpose and contradicts the intention of the provision ([paras 5–8]).
+
+The court examined precedential decisional law, referencing Venter v Rex, to establish that a departure from the literal interpretation of legislative text is warranted in instances where adherence would yield a nonsensical result. In this case, a sole member's refusal to acknowledge consent could allow them to evade liability while still personally benefitting from the corporate resources ([para 7]).
+
+Ultimately, the court interpreted the section in such a way that disregarding the requirement for "previously obtained" consent was deemed necessary to uphold the legislative intent while avoiding an absurd outcome. Therefore, the validity of the suretyship was affirmed based on the inherent consent manifested by the sole member’s actions ([paras 8–10]).
+
+## C – Conclusion
+The Supreme Court of Appeal concluded that the suretyship executed by Hanekom on behalf of the CC was indeed valid, dismissing the appeal with costs. The case underscores the court's inclination to interpret legislative provisions in a manner consistent with legislative purpose and practicality, particularly when the literal interpretation risks absurdity or undermines the provision’s intended protective mechanism. The ruling exemplifies the judicial balance between adherence to statutory text and the broader context of legislative intents to protect corporate governance interests, particularly in structures involving single-member entities ([paras 10–11]). 
+
+This decision has profound implications for the interpretation of consent requirements in corporate law as applied to close corporations, setting a clear precedent that addresses the operational realities of sole member businesses while ensuring legal and financial accountability.

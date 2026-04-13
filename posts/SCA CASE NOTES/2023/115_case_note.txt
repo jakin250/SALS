@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note
+
+**Case Title:** Dis-Chem Pharmacies Limited v Dainfern Square (Pty) Ltd & Others (648/2022) [2023] ZASCA 115
+
+## F - Facts
+
+The present appeal concerns a dispute arising from a lease agreement between the appellant, **Dis-Chem Pharmacies Limited** (Dis-Chem), and the first respondent, **Dainfern Square (Pty) Ltd** (Dainfern), regarding the interpretation of an arbitration clause contained therein. The lease was formalized in **October 2016**, whereby Dis-Chem rented shop 27 within Dainfern Square Shopping Centre and agreed to pay both basic and turnover rental as articulated in **annexure ‘F’** of the lease agreement ([1]–[2]).
+
+Dis-Chem advanced a claim to the arbitrator, alleging that it had made overpayments concerning turnover rental based on inflated invoices issued by Dainfern in **2016**, **2017**, and **2018**. Dis-Chem contended that the invoices amounted to a total of **R4 199 624.57**, paid under the mistaken belief they were owed ([4]–[5]). At the time of the arbitration, Dainfern had sold the property to the third respondent, **Noble Spectatus Funds (Pty) Ltd**, who did not participate in this appeal ([6]).
+
+In response to Dis-Chem's claim, Dainfern raised a special plea concerning the jurisdiction of the arbitrator. Dainfern contended that due to the nature of Dis-Chem’s claim, which it characterized as one of unjustified enrichment rather than contractual interpretation, the arbitrator lacked the jurisdiction to adjudicate ([7]–[8]). The arbitrator ultimately ruled in favor of Dis-Chem, upholding jurisdiction based on the interpretation of annexure ‘F’ ([9]).
+
+The matter later escalated to the **Gauteng Division of the High Court**, where **Janse van Nieuwenhuizen J** ruled against the arbitrator’s determination, concluding that the claim fell outside the ambit of the arbitration agreement ([10]).
+
+## I - Issues
+
+The principal legal issues arising from this case include:
+
+1. **Did the arbitrator possess jurisdiction over Dis-Chem's claim for unjustified enrichment?** ([7]–[9]).
+2. **Was the high court’s declaration that Dis-Chem's claim fell outside the arbitration clause premature?** ([10]–[12]).
+
+## R - Rules
+
+The ruling hinges on the interpretation of the arbitration clause, specifically **clause 33.1** of the lease agreement, which states:
+
+*"In the event of any dispute or difference or doubt or question arising between the parties as to the interpretation of any provision of this Agreement of Lease or the implementation thereof, and the parties being unable to resolve the issue, then in the discretion of either party, the issue shall be submitted to arbitration..."* ([10]).
+
+Several precedents underscore the interpretive principles concerning jurisdictional matters in arbitration, emphasizing a liberal construction of arbitration clauses. Notable cases include:
+
+- **North East Finance v Standard Bank (2013) ZASCA 76**, asserting that contracts must be interpreted to give them a commercially sensible meaning ([20]).
+- **Fili Shipping Co Ltd v Premium Nafta Products and Others** [2007] UKHL 40, which posits an assumption that parties intend for all disputes to be resolved by the same tribunal, unless explicitly stated otherwise ([21]).
+
+## A - Application
+
+The court analyzed whether the disputes at hand could reasonably be categorized under the arbitration clause. It held that the essence of Dis-Chem's claim stemmed from a challenge to the correctness of payment calculations prescribed in annexure ‘F’, qualifying for arbitration despite being framed as a claim for unjustified enrichment ([15]–[23]).
+
+By ruling that the jurisdiction applies broadly to any disputes arising under the lease agreement, the court criticized the high court for its overly restrictive interpretation. It noted that the high court's reliance on unidentified "other requirements" for unjustified enrichment was speculative, thereby misapplying jurisdictional principles ([18]).
+
+The overall tenor of the analysis emphasized the arbitral tribunal's competence in interpreting its jurisdiction relative to the lease agreement, regardless of Dainfern’s characterizations of Dis-Chem’s claims ([24]–[26]). Thus, the arbitrator's determination was within the agreed scope of arbitration, meriting a reconsideration of the earlier high court ruling.
+
+## C - Conclusion
+
+The Supreme Court of Appeal upheld Dis-Chem's appeal, setting aside the high court's decision and reinstating the arbitrator's jurisdiction over the matter. The judgment elucidated the expansive nature of arbitration clauses and reinforced the principle that disputes related to the calculation and correctness of contractual obligations fall within arbitration purview, regardless of how they may be framed legally ([26]).
+
+The court's ruling underscores the importance of maintaining a pro-arbitration stance, ensuring that disputes arising within the contractual framework of lease agreements are resolved in a cohesive manner, thereby promoting efficiency within commercial relationships ([27]). The implications of this judgment reaffirm that parties should expect all disputes of a contractual nature, including questions of factual determinations, to be adjudicated within the arbitral setting unless expressly excluded within the contract itself.

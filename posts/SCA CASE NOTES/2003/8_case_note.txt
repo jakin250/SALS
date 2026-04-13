@@ -1,0 +1,38 @@
+Case Note: REPUBLIC OF SOUTH AFRICA
+Source Folder: 2003
+
+# Case Note: Republic of South Africa (Sackstein NO v Proudfoot SA (Pty) Limited)
+
+## FIRAC Method
+
+### F – Facts
+
+The case revolves around the powers of a South African liquidator to impeach transactions related to an external company, Tsumeb Corporation Limited, incorporated in Namibia and registered as an external company in South Africa. Tsumeb SA was provisionally liquidated following a winding-up order from the High Court of Namibia on April 29, 1998, and final liquidation on March 12, 1999. Concurrently, it was placed under provisional liquidation in South Africa on July 29, 1998, with Mr. Leslie Neil Sackstein appointed as liquidator.
+
+The core of the case involved a contract made by Tsumeb with the respondent, Proudfoot SA (Pty) Limited, for services amounting to R10 million. By July 29, 1998, Tsumeb had paid R5,708,957 to Proudfoot prior to both liquidations. After Tsumeb's Namibian liquidation was discharged on March 10, 2000, Sackstein initiated an action in South Africa seeking recovery of the payments from Proudfoot, arguing that they preferred one creditor over others, thus violating South African insolvency laws ([paras 1-6]).
+
+Proudfoot contended that the payments constituted dispositions by Tsumeb Namibia and that Sackstein lacked jurisdiction over those transactions since they occurred outside South Africa ([paras 7-10]).
+
+### I – Issues
+
+The primary legal question is whether Sackstein, as the liquidator, had the authority to initiate proceedings to set aside payments made by Tsumeb in Namibia, based on the provisions of sections 29 and 30 of the Insolvency Act and section 340 of the Companies Act. Specifically, the court needed to determine if a South African liquidator can challenge dispositions made by an external company when the transactions occurred outside South African jurisdiction ([paras 10-14]).
+
+### R – Rules
+
+In this case, the court relied on the following provisions:
+
+1. **Insolvency Act 24 of 1936** - Sections 29(1) and 30(1) allow a liquidator to set aside dispositions made by a debtor that prefer one creditor over another within a specific time frame before the insolvency order.
+2. **Companies Act 61 of 1973** - Section 340 allows for the winding-up of a company, including external companies registered in South Africa. Section 391 stipulates the duties of a liquidator to recover assets and property irrespective of their location.
+3. Relevant case law included **Ward v Smit** and **Leslie Engineers Co Ltd**, emphasizing the separate legal treatments of liquidation processes in multiple jurisdictions and the distinction between 'impeachment' and 'recovery' of assets ([paras 16-25]).
+
+### A – Application
+
+The court analyzed whether the definition of "property" in the Insolvency Act, limited to assets within South Africa, barred Sackstein from impeaching the payments made while Tsumeb was in liquidation in Namibia. The defendant argued against the liquidator's authority, citing that the dispositions occurred outside South Africa and thus fell beyond the liquidator's jurisdiction.
+
+The court, however, found that although the statutory definition of property implied territorial limitations, the legislative intent appeared to extend the reach of South African insolvency laws beyond its borders for the sake of fairness among creditors ([paras 19-22]). It opined that the jurisdiction granted to a South African court during a liquidation encompasses the legal authority to invalidate transactions undertaken elsewhere, specifically when addressing creditor preferences in a winding-up scenario ([paras 24-26]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal concluded that Sackstein possessed the requisite power to initiate the claim against Proudfoot. The court ruled that the limitation on the liquidator's powers presented by the defendant was overly restrictive. Consequently, the appeal succeeded, with the earlier ruling of the court a quo being set aside. The South African court affirmed its jurisdiction over the matter, granting Sackstein the right to seek recovery of the payments ([paras 27-27]).
+
+The implications of this decision clarify the powers of liquidators in cases involving external companies, supporting the notion that South African liquidation laws have extraterritorial effects, thereby facilitating equitable treatment of creditors across jurisdictions.

@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: The Road Accident Fund v. Elizabeth Jemma Sweatman
+
+## F – Facts: Relevant background and procedural history ([1]–[5])
+
+The case at hand involves an appeal by the Road Accident Fund (RAF) against Elizabeth Jemma Sweatman, following a motor vehicle collision on Tokai Road, Cape Town, in July 2010, which left Ms Sweatman, then a 15-year-old, severely injured. In the ensuing legal proceedings, her mother initiated a claim for damages against the RAF on her behalf in the Western Cape Division of the High Court. The claim amounted to approximately R7 million, but upon Ms Sweatman reaching the age of majority, she was substituted as the plaintiff ([4]).
+
+Prior to the trial, the parties had resolved all matters except one, namely the interpretation of section 17(4)(c) of the Road Accident Fund Act of 1996, as subsequently amended. Both parties presented actuaries to support their interpretations, ultimately leading to a determination by Griesel J in the lower court that accepted the interpretation and calculation methods proposed by Ms Sweatman’s actuary, Mr Ian Morris. The trial court ruled in favor of Ms Sweatman by awarding her R3,358,529. The Fund's appeal against this ruling was with the trial court's leave ([5]).
+
+## I – Issues: Legal or constitutional questions ([1]–[2])
+
+The central legal issue before the Supreme Court of Appeal (SCA) is the correct interpretation and application of the 2008 amendment to the Road Accident Fund Act, specifically addressing the limitations placed on the Fund’s liability concerning future loss of income or support due to injuries sustained in a motor vehicle accident. The focus is on how the cap on damages, as detailed in section 17(4), is determined when contrasting actual losses against the statutory cap or annual loss as defined ([2]).
+
+## R – Rules: Legal authorities and precedents relied upon ([2]–[20])
+
+The amendment to the Road Accident Fund Act, particularly section 17(4), introduces significant limitations to the Fund’s liabilities regarding claims for future loss of income or support. Specifically, section 17(4)(c) delineates that the annual loss should be calculated irrespective of the actual loss, while section 17(4A)(a) mandates that the limits on claims be adjusted quarterly in relation to inflation ([2]–[3]).
+
+The SCA referenced prior judicial interpretations surrounding the assessment of future losses. Notable is the ruling in *Southern Insurance Association Ltd v Bailey NO* 1984 (1) SA 98 (A), which elucidated that damages for loss of earning capacity involve speculative predictions of future income. The case also recalled the jurisprudential perspective articulated by Sutherland J in *Sil & others v Road Accident Fund* 2013 (3) SA 402 (GSJ), emphasizing that caps on compensation are intended to manage the Fund’s financial viability rather than prescribe new methodologies for calculating losses ([6], [17]).
+
+## A – Application: Analysis of how the court applied the law ([6]–[20])
+
+The SCA critically analyzed the divergent methodologies proposed by the actuaries representing both parties. Mr Morris, advocating for Ms Sweatman, applied a traditional actuarial approach, determining the present value of future earnings while accounting for various contingencies—including mortality rates—to arrive at a figure representing Ms Sweatman’s loss connectively calculated against the statutory cap ([7]–[10]).
+
+Conversely, the RAF’s actuary, Mr Munro, introduced a novel perspective by establishing the annual loss cap prior to applying contingencies, which resulted in lower projected damages. The SCA ultimately rejected this approach for not aligning with the legislative intent as derived from section 17, reaffirming that all contingencies, including mortality, should be factored into the initial assessment of loss rather than as a retroactive adjustment ([10]–[20]).
+
+The SCA favored the interpretation advanced by Mr Morris, arguing that it coheres with prior judicial reasoning regarding actuarial assessments of future earnings. The court held that the cap is set using the figures from the Government Gazette applicable at the time of the accident, clarifying that adjustments for inflation apply to future claimants but not retrospectively to existing claims ([12]–[21]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([21])
+
+The Supreme Court of Appeal dismissed the appeal from the Road Accident Fund, thereby upholding the lower court's ruling which favored Ms Sweatman. The SCA concluded that the trial court correctly adopted the conventional actuarial approach introduced by Mr Morris in calculating Ms Sweatman’s damages and appropriately applied the cap outlined in section 17 of the Act.
+
+The ruling has significant implications for future claims against the RAF, reinforcing the necessity for actuaries to incorporate all relevant life contingencies, including mortality projections, into their assessments of loss. Furthermore, the judgment clarifies the interpretation of the cap imposed by the amended legislation, establishing that it remains constant post-accident, ensuring that claimants receive fair compensation for their actual loss without unduly penalizing them due to legislative limitations. This decision reinforces the principle of maintaining access to equitable compensation for individuals injured in road accidents.

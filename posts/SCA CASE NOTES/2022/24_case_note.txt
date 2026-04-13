@@ -1,0 +1,62 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+### Case Note: FIRAC Method
+
+**Case Title:**  
+Caxton and CTP Publishers and Printers Limited v Novus Holdings Limited  
+**Neutral Citation:**  
+[2022] ZASCA 24 (Case no 219/2021)
+
+**Court:**  
+Supreme Court of Appeal of South Africa  
+**Coram:**  
+Petse AP, Molemela, Plasket, Hughes JJA, and Unterhalter AJA  
+**Delivered on:**  
+09 March 2022
+
+---
+
+#### F – Facts
+The case revolves around a dispute between Caxton and CTP Publishers and Printers Limited (Caxton) and Novus Holdings Limited (Novus), both prominent rivals in the South African publishing and printing industry ([1]). Caxton, holding a 7.5% minority share in Novus, initiated legal proceedings after Novus declined to comply with a demand to commence legal action against Lebone Litho Printers (Pty) Ltd (Lebone) regarding the legality of a commission agreement related to a public procurement contract with the Department of Basic Education (DBE) ([4]).
+
+Caxton served the demand pursuant to section 165(2) of the Companies Act 71 of 2008 and, upon refusal from Novus to pursue legal action, sought leave from the court to continue the proposed litigation in Novus' name ([5]). The main application is still pending as of the ruling. Within the process, Novus resisted the demand for document production under Rule 35(12) and related procedural rules, claiming the documents requested were either irrelevant, privileged, or confidential ([8]). Novus employed retired Justice Louis Harms to investigate Caxton's demand, resulting in a report that influenced Novus' decision to decline litigation ([6]).
+
+The interlocutory application led to the High Court dismissing Caxton's bid to compel Novus to produce specific documents referenced in Novus' affidavits. Consequently, Caxton appealed, raising significant legal questions regarding document disclosure and privilege ([11], [12]).
+
+---
+
+#### I – Issues
+The key issues in this case are:
+1. Are the documents requested by Caxton in its Rule 35(12) notice relevant and therefore subject to production by Novus?
+2. Is the report by the independent and impartial person protected by legal privilege?
+3. If privileged, was there a waiver of this privilege through Novus' citation of the report in its answering affidavit?
+
+These questions encapsulate the broader legal principles concerning discovery, document relevance, and the scope of privilege under the Companies Act and the Uniform Rules of Court ([13]).
+
+---
+
+#### R – Rules
+1. **Companies Act 71 of 2008**: Section 165 provides for derivative actions whereby a shareholder can demand a company to commence or continue legal proceedings to protect its interests. Subsections (2) through (5) delineate the conditions under which a court may grant leave for this action ([5]).
+
+2. **Uniform Rules of Court, Rule 35(12)**: This rule enables a party to compel another party to produce documents referenced in that party’s pleadings or affidavits. The requesting party’s right to inspect the documents is initiated upon their mention in the opponent's pleadings ([14], [19]).
+
+3. **Legal Privilege**: The court recognized two forms of privilege applicable—legal advice privilege and litigation privilege. The primary query revolves around whether the report prepared following a s 165(4) investigation is indeed privileged ([40.2]).
+
+4. **Judicial Discretion**: The courts have a discretion regarding the production of documents. This discretion must balance the need for parties to discover relevant information while also protecting confidential documents ([32]).
+
+---
+
+#### A – Application
+In applying these legal principles, the Supreme Court of Appeal found that Novus had made detailed references to the documents requested in its affidavits, thereby triggering Caxton's right to request their production under Rule 35(12). The Court emphasized that the relevance of the documents should be assessed in relation to the needs of Caxton's main application ([43], [46]). 
+
+The Court further examined the reports prepared under s 165(4) of the Companies Act. It clarified that the purpose of such documents was not primarily to facilitate legal advice; rather, they served an investigative function mandated by law to assess the validity of Caxton’s demand. Therefore, the Court held that the report was not protected by litigation privilege because it was intended for an internal investigation rather than legal counsel ([56], [60]).
+
+Moreover, the Supreme Court of Appeal reinforced that if documents are relevant and not protected by legal privilege, their production must be ordered. Novus' arguments concerning confidentiality were also addressed; the Court acknowledged that while confidentiality concerns are valid, suitable protective measures such as confidentiality regimes could be imposed to mitigate risks of disclosure ([78]).
+
+---
+
+#### C – Conclusion
+The Supreme Court of Appeal found in favor of Caxton, ruling that the documents requested must be produced for inspection and copying. The judgment effectively reversed the High Court's ruling, thus requiring Novus to comply with the document request under the stipulated confidentiality protections. 
+
+**Implications**: This case underscores the importance of transparency and the rights of shareholders to pursue derivative actions in corporate governance, illustrating how procedural rules interact with substantive corporate law. It further clarifies the standards for document disclosure, balancing parties' rights against the preservation of confidential information in corporate settings. The comprehensive ruling has ramifications for future corporate disputes, particularly regarding the scope of discovery and privileges associated with internal investigations ([88]).

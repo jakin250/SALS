@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note: Leeuw v First National Bank (516/2008) [2009] ZASCA 161
+
+## F – Facts
+The case involves Tshidiso Isaac Leeuw (the appellant), who operated a liquor outlet named Love and Happiness Tavern. Leeuw accepted two cheques in transactions with Thabo Mofokeng, who represented himself as a buyer of liquor. The first cheque, amounting to R48,598.69, was deposited into Leeuw's account with First National Bank (the respondent) on May 14, 1999. Subsequently, the bank allowed Leeuw to withdraw R48,000 from the deposited amount. On May 24, 1999, both cheques were discovered to have forged signatures, prompting the bank to reverse the credit entries in Leeuw's account and seek recovery of the R48,000. Leeuw counterclaimed for R89,000 based on a second cheque that was also deposited and later reversed by the bank. The matter first went to the Thaba’ Nchu Magistrate’s Court, where the magistrate dismissed the bank's claim and granted Leeuw's counterclaim. However, this judgment was overturned by the Bloemfontein High Court, which awarded the bank its claim and granted absolution for Leeuw’s counterclaim ([1]-[4]).
+
+In the appellate proceedings, Leeuw contended that the initial notice of appeal by the bank was invalid due to its failure to state proper grounds of appeal as mandated by Magistrates’ Court Rule 51(7)(b) ([2]). This argument was ultimately dismissed by the Supreme Court of Appeal ([5]). The case revolved significantly around the concepts of estoppel and negligent misrepresentation, with both parties presenting conflicting accounts about the validity of the cheques ([6]-[20]).
+
+## I – Issues
+There are several legal issues addressed in the case:
+
+1. Whether the bank was estopped from relying on the forgery of the cheques due to representations made by its employee, which Leeuw relied upon when accepting the cheques.
+2. Whether the bank's claim should be grounded in **condictio indebiti** or **condictio sine causa**, particularly in light of previous case law that seemed to render the former as unavailable to banks ([7], [10]).
+3. Whether the appellant sufficiently proved his counterclaim and established the required elements for negligent misrepresentation ([19], [21]).
+
+## R – Rules
+The Supreme Court of Appeal considered the following legal principles and precedents:
+
+1. **Estoppel** presupposes a representation made by words or conduct about a certain factual situation ([11]). Relevant case law includes *ABSA Bank Ltd v I W Blumberg & Wilkinson* and *Road Accident Fund v Mothupi*, which elucidate the conditions for proving estoppel through representation ([8], [9]).
+2. The **condictio indebiti** applies in cases of unjust enrichment when one party has transferred something to another under a mistaken belief. In contrast, the **condictio sine causa** is applicable when enrichment occurs without any lawful basis ([10]).
+3. Previous rulings, particularly *ABSA Bank Ltd v De Klerk* and *Saambou Bank Ltd v Essa*, were instrumental in framing the debate around the bank's right to invoke these principles of unjust enrichment ([10]).
+
+## A – Application
+The court meticulously assessed the evidence presented, especially regarding the claims of negligent misrepresentation and estoppel from the bank employee Motaung. Motaung's evidence indicated that he only confirmed the cheque's basic validity (verification of post-dating and stop payments), without checking for signature authenticity or guarantee of funds availability ([12]-[16]). Leeuw's claim to have relied on a guarantee from Motaung was undermined by the evidence that no such guarantee was provided. The court highlighted that Leeuw had previously established the bank’s practices and accepted Motaung’s limited verification procedure as adequate to protect his interests ([12], [13], [16]).
+
+On the issue of the counterclaim for R89,000, the court maintained that no representation was made by the bank regarding that cheque since Motaung had no record of assisting Leeuw with the R89,000 cheque, which was crucial in denying Leeuw’s counterclaim ([19], [20]).
+
+The conclusion that the estoppel had not been established aligned with the findings of the Bloemfontein High Court. The court recognized the absence of any substantial misrepresentation by the bank, thereby nullifying Leeuw's defenses against the bank’s claims ([18], [21]).
+
+## C – Conclusion
+The Supreme Court of Appeal dismissed Leeuw's appeal with costs, affirming the Bloemfontein High Court's decision. In ruling against Leeuw, the court emphasized the lack of substantiation for the defense of estoppel and the principles for establishing negligent misrepresentation were not met. The court's clear departure from the interpretations of rectitude in banking transactions accentuated the practical reliance on factual evidence over mere assertions of belief in the representations made by bank employees ([22]). This case underscores the complexities involved in banking contexts dealing with forged instruments and the implications for both parties regarding reliance and representation. 
+
+The implications of this decision reinforce the norms surrounding financial transactions and establish a precedent for future cases involving estoppel and misrepresentation in banking contexts.

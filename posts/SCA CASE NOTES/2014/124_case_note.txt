@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# Case Note: President of the Republic of South Africa v M & G Media Ltd [2014] ZASCA 124
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–4])
+The case at hand involves a protracted legal battle initiated by M & G Media Ltd (M & G), which sought access to a confidential report prepared by two judges regarding political conditions in Zimbabwe prior to the presidential elections in 2002. The appellants in this matter—the President of the Republic, the Deputy Information Officer at the Office of the Presidency, and the Minister in the Presidency—collectively referred to as ‘the Presidency’, contested the request under the Promotion of Access to Information Act 2 of 2000 (PAIA) ([paras 1–2]). M & G’s request for the report was initially denied on grounds associated with two specific exemptions under PAIA: sections 41(1)(b)(i) and 44(1)(a), which relate to the confidentiality of information sourced from another state and the preparation of reports intended to assist in the formulation of policy respectively ([para 6]). 
+
+M & G appealed the denial internally; however, the appeal was dismissed ([para 2]). Subsequently, the North Gauteng High Court ordered the Presidency to release the report. This decision was initially upheld by the Supreme Court of Appeal but was later overturned by the Constitutional Court, which remitted the case for further examination under section 80 of PAIA ([paras 3–4]). The High Court, after examining the report as directed, again ordered its disclosure, leading to the current appeal ([para 4]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 4–22])
+Central to this appeal were several legal questions surrounding the application and interpretation of PAIA provisions, particularly relating to the exemptions claimed by the Presidency. The first issue concerned whether the court below correctly invoked section 80 of PAIA to conduct a 'judicial peek' at the disputed record, thereby enabling it to determine the validity of the exemptions claimed ([paras 4–5]). Another key question was whether the evidence presented by the Presidency sufficiently justified the refusal of access to the report under the claimed exemptions ([paras 10, 22]).
+
+Additionally, the appeal examined whether the court below erred in its refusal to admit new evidence and representations submitted by the President as they pertained to the content of the report and the grounds for accessing said document ([paras 22-23]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 5–30])
+The decision rests intricately on the relevant provisions of PAIA, particularly sections 11, 41, 44, 46, and 80. Section 11 establishes the right to access information held by public bodies when procedural requirements are met, with the burden of proof resting on the authority refusing access ([para 5]). Sections 41(1)(b)(i) and 44(1)(a) provide the specific grounds for refusal, contingent on the elements of confidentiality and policy formulation.
+
+Notably, the 'public interest override' contained in section 46 mandates disclosure if the public interest clearly outweighs the harm of non-disclosure ([para 7]). Judicial interpretations from previous rulings, including decisions by the Constitutional Court regarding the distinct procedural requirements in PAIA disputes and the necessity for evidential substantiation ([paras 12–14]), were pivotal in shaping this appeal. 
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 16–31])
+In its deliberations, the court assessed the validity of the claims made by the Presidency regarding the exemptions asserted. It upheld the lower court's conclusion that the evidence provided did not meet the statutory thresholds for the claimed exemptions. Key findings included the assertion that neither section 41(1)(b)(i) nor 44(1)(a) had been adequately substantiated by personal knowledge or direct relevance to the reports' terms of reference. Indeed, the court concluded that the claims made by deponents were insufficient to demonstrate the necessary confidentiality or the report's purpose in shaping policy, largely due to their disconnect from the facts surrounding the judges' appointment and mission ([paras 10–31]).
+
+The court's acknowledgment of the importance of a 'judicial peek' under section 80 was significant in reinforcing the view that, in light of unique constraints within PAIA proceedings, courts hold the discretion to review contested records when substantive uncertainty exists ([paras 12–14]). 
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 32–32])
+The appeal was ultimately dismissed, with the court affirming that the report's content did not justify the grounds claimed for refusal under PAIA. The ratio decidendi centered on the prevailing standard that the lacking evidential basis fell primarily within the Presidency's unsuccessful assertions of confidentiality and policy formation grounds, compounded by a recognition of the public interest in accessing information regarding governmental conduct ([para 32]).
+
+This case underscores the judiciary's crucial role in ensuring that the right to access public information, as enshrined in PAIA, is preserved and clarified, particularly when conflicting with claims of confidentiality by public officials. The decision solidifies the notion that legal representatives must substantiate claims with credible evidence rather than rely on unverified assertions, thereby reinforcing transparency in democratic governance.
+
+---
+
+### References
+- Promotion of Access to Information Act 2 of 2000
+- President of the Republic of South Africa & others v M & G Media (Ltd) 2011 (2) SA 1 (SCA)
+- President of the Republic of South Africa & others v M & G Media (Ltd) 2012 (2) SA 50 (CC) 
+- Minister for Provincial and Local Government v Unrecognised Traditional Leaders, Limpopo Province (Sekhukhune Land) 2005 (2) SA 110 (SCA) 
+
+This detailed FIRAC case note provides an intense examination of the facts, issues, applicable legal rules, analysis, and ultimate court conclusions suitable for academic or professional citation.

@@ -1,0 +1,36 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note: Nedbank Ltd v P U Injection Manufacturing (Pty) Ltd (686/2008) [2009] ZASCA 61
+
+## F – Facts
+The case concerns an appeal lodged by Nedbank Ltd against a judgment from the Pretoria High Court that had ordered Nedbank to pay P U Injection Manufacturing (PUI) a sum of R4,324,817.16, along with interest ([1]). The funding in question originated from financial rand allocated by the South African Reserve Bank for PUI's benefit through an intermediary, Olympus Investments Ltd, a Guernsey-based company ([3]). 
+
+Nedbank initiated an application to the Reserve Bank on 22 November 1988 for the release of these funds. The Reserve Bank approved the release on 12 January 1989, contingent upon PUI issuing ordinary shares at a premium ([3]). However, due to regulatory actions, particularly an attachment order from the Reserve Bank on 5 May 1989 to secure funds pending an investigation, the situation became complex ([4]).
+
+The funds were eventually released from attachment on 22 October 1992 and credited to a Nedbank account. However, when PUI sought reimbursement in 2002 following a settlement with the Reserve Bank, Nedbank claimed that the funds had already been disbursed to other entities, leading to PUI's claim ([7], [8]). PUI contended that a specific letter from the Reserve Bank indicated that the funds were to be released to them, yet the court found that PUI failed to substantiate their claim ([9], [10]).
+
+## I – Issues
+The primary legal question was whether PUI had a legitimate claim against Nedbank for the funds that had been allocated to their account through Olympus ([1]). Specifically, several sub-issues arose:
+1. Did PUI have a right to the funds allocated to Olympus?
+2. Was the SWIFT message that reflected Olympus as the beneficiary misconstrued by PUI?
+3. Did the Reserve Bank's letter to Nedbank create any rights or entitlements for PUI?
+
+## R – Rules
+Several legal principles and regulations were pertinent to the court’s determination:
+1. **Exchange Control Regulations**: These regulations govern the issuance and transfer of financial rand. Relevant provisions included regulation 22A, which deals with the attachment and release of funds ([4], [5]).
+2. **Contractual Rights**: The concept of the legal entitlement to funds is governed by principles of contract law, specifically relating to the issuance of shares and conditions precedent to entitlement.
+3. **Authority of Financial Institutions**: The binding nature of SWIFT messages between banks also played a crucial role, establishing who the rightful beneficiary of the funds was ([6]).
+
+## A – Application
+The court undertook a careful analysis of whether PUI had any enforceable claim to the funds. The argument hinged on the claim that funds deposited into the Nedbank account had been part of financial arrangements where PUI was to be the beneficiary, despite technical discrepancies in corporate structure. However, the court noted:
+- There was no meaningful evidence supporting PUI's assertion that they were entitled to the funds via the SWIFT message referencing Olympus as the beneficiary ([8]).
+- The absence of proof that PUI had issued the requisite shares to Olympus according to the conditions imposed by the Reserve Bank meant any right to claim those funds failed ([10]).
+- The letter from the Reserve Bank merely indicated that the matter had been resolved and did not confer any rights to PUI regarding the funds that had already been transferred ([9], [10]).
+
+The court concluded that PUI had not established any legal entitlement to the funds and thus regarded the lower court’s ruling as erroneous ([11]).
+
+## C – Conclusion
+The Supreme Court of Appeal held that PUI’s claim against Nedbank must fail due to a lack of demonstrated entitlement to the funds in dispute. The appellate court altered the previous order, dismissing PUI's application with costs, thereby upholding Nedbank’s appeal ([12]). 
+
+The judgment illustrates the necessity for a claimant to substantiate their right to funds and the implications of regulatory frameworks governing financial transactions. This case underlines the critical nature of compliance with statutory requirements and proper procedural adherence in financial matters, especially in complex inter-institutional environments.

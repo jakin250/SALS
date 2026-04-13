@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+**Case Note: Namasthethu Electrical (Pty) Ltd v City of Cape Town and Another (Case no 201/19) [2020] ZASCA 74 (29 June 2020)**
+
+### F – Facts
+
+The case revolves around a contractual dispute between the appellant, Namasthethu Electrical (Pty) Ltd (Namasthethu), and the first respondent, City of Cape Town (City). The facts leading to the dispute are as follows:
+
+1. **Tender Process**: On 7 March 2014, the City advertised a tender for the supply and installation of energy-efficient luminaires. Namasthethu was awarded the tender on 25 August 2014, with an estimated value of over R29 million and an execution timeline of 18 months ([paras 1–2]).
+
+2. **Fraud Allegations**: After the tender was awarded, Citrine Construction (Pty) Ltd, an unsuccessful bidder, raised concerns that Namasthethu’s directors had prior convictions for fraud and corruption, which were not disclosed in their tender submission ([para 3]). 
+
+3. **Investigation**: An investigation led by the City’s Forensics, Ethics and Integrity Department (FEID) concluded that there had been fraudulent misrepresentations by Namasthethu, including false declarations in the tender documents ([paras 10–11]).
+
+4. **Contract Termination**: On 15 March 2016, the City validly terminated the contract with Namasthethu due to these fraudulent acts ([para 11]).
+
+5. **Dispute Resolution**: Namasthethu sought to refer the conflict regarding the termination to arbitration, claiming that the dispute resolution clause in their contract applied. The adjudication conducted by a designated chairperson, Mr. James Garner, later awarded damages to Namasthethu, despite the City's claim of fraud ([paras 13–15]).
+
+### I – Issues
+
+The Supreme Court of Appeal (SCA) faced critical legal issues in determining:
+
+1. **Whether the arbitration clause in the contract survived the termination based on fraudulent misrepresentation** ([para 16]).
+2. **Whether the City waived its right to rescind the contract or elected not to do so by virtue of the time expended in investigating the fraud allegations** ([para 17]).
+
+### R – Rules
+
+Several legal principles and authorities guided the court’s analysis:
+
+1. **General Principle of Fraud**: Fraud vitiates all contracts. As articulated in prior rulings, once fraud is proven, it renders the agreement voidable ([para 29]) ([Lazarus Estates Ltd v Beasley [1956] 1 QB (CA) at 712]).
+
+2. **Survival of Arbitration Clauses Post-Rescission**: The court established that arbitration clauses do not survive the rescission of contracts induced by fraud ([North West Provincial Government and Another v Tswaing Consulting CC and Others [2006] ZASCA 108]).
+
+3. **Interpretation of Contractual Clauses**: Contractual terms are to be interpreted in light of their intended purpose and commercial sense, necessitating clear language for any exception to rules surrounding fraud ([para 33]).
+
+### A – Application
+
+In applying these rules, the SCA meticulously examined:
+
+1. **Fraud's Impact on the Contract**: The court confirmed that the fraudulent misrepresentations made by Namasthethu justified the City’s termination of the contract. The SCA underscored that Namasthethu had indeed committed fraudulent acts during the tender process, which obviated any right to enforce the contract, including the arbitration clause ([paras 25–28]).
+
+2. **Ambiguity in the Contract**: The arbitration clause in question merely covered disputes arising from a valid agreement. The court found no explicit inclusion or provision allowing disputes concerning fraudulent inducements to being adjudicated, leading to the conclusion that the clause did not extend to disputes initiated post-rescission ([paras 34–37]).
+
+3. **Waiver Argument**: Namasthethu’s assertion that the City waived its right to terminate the contract was rebutted as the court established that the City acted reasonably in investigating the fraud accusations. The delay did not amount to a relinquishment of rights but rather a procedural necessity ([para 39]).
+
+### C – Conclusion
+
+The SCA upheld the findings of the High Court, concluding that:
+
+1. The arbitration clause in the contract did not survive the termination based upon unequivocal findings of fraudulent misrepresentation.
+   
+2. The City's action in terminating the contract was justified; thus, Namasthethu could not compel arbitration.
+
+3. The court affirmed the punitive costs order imposed by the High Court, highlighting the necessity of deterring fraud and maintaining integrity in public procurement processes ([paras 40–41]).
+
+The outcome emphasizes the judiciary's commitment to counteracting fraud and ensuring fairness in contract execution, reaffirming that fraudulent activities undermine contractual agreements intrinsically.

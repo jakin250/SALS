@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: **Charter Hi (Pty) Ltd v Minister of Transport** 
+
+## F – Facts
+The appeal arises from an aircraft accident that occurred on December 13, 1996, near Cape Town, involving a Beechcraft King Air C90 aircraft in which the appellants held financial interests. At the time of the accident, Mr. Jonathan Grant piloted the aircraft under the supervision of Mr. Ray Grinstead, an official flight examiner designated by the Commissioner for Civil Aviation to assess Grant's competency for an instrument flying rating. Mid-examination, the aircraft lost control and crashed from approximately 2,500 feet, resulting in the deaths of the pilot, the examiner, and a passenger. The appellants sued the state, represented by the Minister of Transport, alleging that the accident resulted from Grinstead's negligence and seeking damages for the loss incurred ([1]-[2]).
+
+The High Court, presided over by AJ Sapire, dismissed the claim, prompting the appellants to appeal ([2]). 
+
+## I – Issues
+The key issues on appeal were:
+1. Whether the appellants proved that Mr. Grinstead acted negligently, and if so, whether that negligence caused the aircraft accident.
+2. Whether the Minister of Transport was vicariously liable for Mr. Grinstead's actions during the flight ([2]).
+
+## R – Rules
+The applicable legal principles in this case comprise:
+1. **Negligence**: The elements of negligence necessitate that the defendant's conduct be wrongful and negligent, leading to the plaintiff’s loss. In aviation cases, this standard is adjusted to reflect the conduct of a reasonable professional or expert in the field ([29]-[33]).
+   
+2. **Causation**: The “but-for” test applied to determine if the negligence caused the loss. The inquiry involved establishing a causal link between the alleged negligent conduct and the accident ([49]).
+
+3. **Vicarious Liability**: An employer may be held liable for the negligent acts of employees performed in the course of their employment. However, where a flight examiner is an independent contractor and not an employee of the state, vicarious liability does not generally apply ([53]-[59]).
+
+## A – Application
+The court evaluated expert testimonies from three aviation specialists regarding the accident and the conduct of both the pilot and the flight examiner. Key findings included:
+- Mr. Grant logged 800 flight hours, with limited experience on the specific aircraft type, thereby raising concerns about his ability to handle the simulated engine failure ([27]). 
+- The accident occurred shortly after a simulated engine failure, with evidence indicating that Mr. Grinstead failed to intervene as the aircraft began to spin uncontrollably ([24]-[25]).
+
+On negligence:
+- The court determined that while Grinstead had responsibility for the flight, his actions needed to be assessed against a reasonable expert standard, allowing room for judgment amid unforeseen events like pilot errors ([32],[45]). The argument of **res ipsa loquitur**, suggesting negligence could be inferred solely from the occurrence of the crash, was rejected by the court, as the complexities surrounding the flight's dynamics precluded such an inference ([35]).
+
+Regarding causation:
+- The court examined whether had the simulated failure occurred at a safer altitude (5,000 feet), a different outcome might have ensued. However, insufficient evidence was presented regarding the aircraft’s recovery possibilities under both circumstances, leading the court to conclude that the appellants failed to discharge the burden of proof on causation ([50]-[52]).
+
+On vicarious liability:
+- The evidence suggested that Grinstead was not an employee but an independent contractor operating under the designation from the Department of Transport. As such, no vicarious liability could be imposed on the state for his alleged negligent conduct during the flight ([56]-[59]).
+
+## C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, reaffirming that the appellants did not sufficiently establish Grinstead's negligence or the requisite causation linking his conduct to the resultant crash. Furthermore, as the analysis revealed no contractual relationship conferring direct employer-employee obligations or control, the Minister was not vicariously liable for Grinstead’s actions ([60]). This judgment highlights the judiciary's stringent application of negligence principles within the context of aviation law, underscoring the need for clarity in the relationships between flight examiners and regulatory bodies. 
+
+The dismissal of the appeal with costs encapsulates the court's stance on the evidentiary burdens placed upon appellants in negligence suits, especially within specialized fields where expert judgment and normative standards of care are pivotal ([2], [60]).

@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Detailed FIRAC Case Note
+
+**Case Title:** Media24 (Pty) Ltd v Estate Late Deon Jean du Plessis (169/2017) [2017] ZASCA 168 (1 December 2017)
+
+**Coram:** Bosielo and Saldulker JJA, Plasket, Lamont and Mbatha AJJA
+
+### F – Facts ([1]–[4], [12], [16]) 
+
+This case arises from a dispute regarding the valuation of shares following the death of Deon Jean du Plessis, who owned 20% of the shares in the company Daily Sun (Pty) Ltd, while the appellant, Media24 (Pty) Ltd, owned 80% and controlled the company's operations ([3]). The parties had entered into an agreement that stipulated on du Plessis's death, Media24 would acquire the remaining shares at a price determined by an independent expert ([4]). 
+
+Charles Arthur Stride, the second respondent, was appointed as the independent expert to perform the valuation of the shares, guided by a detailed briefing document outlining the mandate ([2], [6]). The appraisal was contentious, with Media24 contesting the valuation on the grounds of a "manifest error," asserting that Stride had exceeded his mandate in reliance on outdated financial figures from annex 1 of the underlying agreement ([15]).
+
+The advice provided by Stride, which led to the valuation, was scrutinized, and both parties had previously agreed that they would be bound by the findings unless a manifest error was shown ([18]). Media24 claimed that Stride's reliance on outdated information constituted such a manifest error and thus contested the valuations arrived at by him.
+
+### I – Issues ([3], [12], [14], [21]) 
+
+1. **Was there a manifest error in the valuation performed by Stride that warranted intervention by the court?**
+   
+2. **Did the valuation accurately reflect the terms of the mandate as delineated in the briefing document?**
+
+3. **Were the findings of Stride final and binding, and if so, under what conditions could they be contested?**
+
+### R – Rules ([13], [18]) 
+
+The concept of “manifest error” is pivotal in this case. According to the court’s definition, a manifest error is defined as “an error that is plain and indisputable,” which must be evident from the decision made by the independent expert ([13]). The legal framework for the valuation process was set out in their mutual contract, particularly clauses that specified the engagement of an independent expert and limited contestation to instances of manifest error ([18]).
+
+Legal precedent plays a crucial role here; Winfield v Dimension Data Holdings Limited & Others [2004] demonstrates the threshold for identifying a manifest error ([13]). Furthermore, the agreement contained provisions that made any valuation final unless demonstrated otherwise through appropriate legal challenge.
+
+### A – Application ([16], [19], [20]) 
+
+The court examined the claims of Media24 regarding the manifest error alleged to have occurred in the valuation process. Upon review, it highlighted that Stride did, in fact, consider the limitations of annex 1 while conducting his assessment, thus adhering to the terms of his mandate. The ruling maintained that using documents like annex 1 was within the scope of his responsibilities, so long as the interpretation was consistent with the contractual intent and provisions explicitly laid out in the agreement ([19]).
+
+The court further established that the second tranche purchase prices were based substantially on the first tranche’s valuation, an assessment that Media24 did not dispute, leading to the declaration that Stride's actions did not constitute a manifest error per the higher threshold required by the court ([20]). The court concluded that Stride's reliance on previous financial data was rational given the context and mandates of the agreement, considering the operational changes since the figures were established.
+
+### C – Conclusion ([22]) 
+
+The Supreme Court of Appeal dismissed the appeal brought forward by Media24, concluding that the findings of the independent expert, Stride, did not exhibit a manifest error. The valuation process was deemed consistent with the contractual terms established by both parties, and as such, the court held that the appraisal was valid and binding ([22]). 
+
+The implications of this decision reaffirm the necessity for parties undergoing similar evaluations to meticulously define the parameters and expectations of independent experts, as well as the stringent requirements for contesting their statutory conclusions. The ruling also emphasizes the deference courts must generally provide to expert determinations unless substantial and clear errors are manifestly present.
+
+---
+
+### References
+- Winfield v Dimension Data Holdings Limited & Others [2004] JDR 0307 (T).
+- Media24 (Pty) Ltd v Estate Late Deon Jean du Plessis (169/2017) [2017] ZASCA 168.

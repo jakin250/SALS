@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Eskom Holdings SOC Ltd and Another v Sonae Arauco (Pty) Ltd (2024) ZASCA 177
+
+## FIRAC Analysis
+
+### F – Facts: Background and Procedural History ([paras 1–14])
+
+The case of *Eskom Holdings SOC Ltd and Another v Sonae Arauco (Pty) Ltd* revolves around a dispute between the appellants, Eskom and the Mbombela Local Municipality, and the respondent, Sonae Arauco, regarding the implementation of loadshedding in the area where Sonae’s factory is located. The critical events leading to the dispute began in 2020, when Sonae entered into an oral electricity curtailment agreement with the municipality, wherein the latter agreed to exempt Sonae’s factory from loadshedding, provided Sonae limited its electricity usage to 70% of its capacity. However, in 2023, Sonae claimed that loadshedding had been implemented at its factory, contravening this agreement.
+
+Following unsuccessful attempts to resolve the issue with the municipality, Sonae sought interim relief in two parts. In Part A, it sought an urgent interdict compelling the municipality to adhere to the curtailment agreement and refrain from loadshedding. In Part B, the company sought declaratory relief regarding the validity of the curtailment agreement and the municipality's obligations regarding loadshedding. In August 2023, the Mpumalanga Division of the High Court granted Sonae’s request in Part A, interdicting Eskom and the municipality from implementing loadshedding in its area. Eskom and the municipality subsequently appealed this decision, leading to the current matter.
+
+### I – Issues: Legal Questions ([paras 15–21])
+
+The central legal issues in this appeal are:
+
+1. **Existence and Validity of the Curtailment Agreement**: Whether Sonae and the municipality entered into a valid and enforceable curtailment agreement that exempts Sonae from loadshedding.
+2. **Prima Facie Right**: Whether Sonae has established a prima facie right to relief based on the curtailment agreement, considering the competing interests between Sonae, the municipality, and Eskom.
+3. **Appealability of the High Court’s Order**: Whether the high court's order, which is interim in nature, is appealable under the criteria established in *Zweni v Minister of Law and Order* and subsequent case law. 
+4. **The Statutory Basis for Loadshedding**: The interpretation of the Electricity Regulation Act 4 of 2006 and the codes promulgated under it regarding Eskom’s obligations concerning loadshedding.
+
+### R – Rules: Legal Authorities and Precedents ([paras 26–60])
+
+The court relied on various statutory provisions and case law, including:
+
+1. **Electricity Regulation Act 4 of 2006**: Particularly, sections 21(1) and 35(2), which govern Eskom's powers and responsibilities in relation to electricity distribution and loadshedding.
+2. **NRS048-9:2019 Code of Practice**: A regulatory framework established by the National Energy Regulator (NERSA) that dictates how loadshedding should be carried out and the obligations of Eskom and municipalities during such events.
+3. **Legal Precedents**: The court referenced several pertinent cases, including *Zweni v Minister of Law and Order*, to determine the requirements for appealability, and *Joseph and Others v City of Johannesburg and Others* concerning the constitutional right to electricity. 
+4. **Constitutional and Statutory Duties**: The duties of Eskom and municipalities under the abovementioned Act, which includes ensuring an orderly and fair implementation of loadshedding to protect the national electricity grid.
+
+### A – Application: Court's Analysis ([paras 29–63])
+
+1. **Curtailment Agreement**: The court found that the existence of the agreement was disputed, particularly whether it was lawful and valid. The high court had accepted its validity, but the appeals court noted that it did not comply with the Code's requirements since it was not written. The court ultimately held that Sonae could not assert rights from an unenforceable agreement ([paras 50-56]).
+  
+2. **Prima Facie Right**: The appeals court determined that Sonae failed to establish a prima facie right. As Eskom's obligation to implement loadshedding was dictated by the Codes, and given that the municipality had not complied with its responsibilities, the argument for a breach of the curtailment agreement was invalid ([paras 58-59]).
+
+3. **Appealability of the High Court’s Order**: The appeals court found that the high court's order was indeed appealable. It had substantial implications on Eskom's statutory obligations and was definitive of the rights of the parties involved ([paras 32-37]).
+
+4. **Loadshedding Implementation**: The court reinforced that, under the Codes, Eskom was obligated to initiate loadshedding when municipalities fail to do so appropriately. Sonae’s reliance on a purported agreement to avoid loadshedding was deemed incompatible with statutory provisions ([paras 41–49]).
+
+### C – Conclusion: Court's Holding and Implications ([paras 64-65])
+
+In its ruling, the Supreme Court of Appeal upheld the appeal, determining that the high court had erred in granting the interim relief sought by Sonae. It found that:
+
+1. Sonae did not prove the existence of a valid curtailment agreement, as it failed to meet the statutory requirements for such an agreement.
+2. Eskom's obligation to implement loadshedding was justified due to the municipality's failure to adhere to its statutory duties, thus ensuring the stability of the national grid.
+3. The balance of convenience firmly favored Eskom and the municipality, as the risks of allowing an unlawful exemption from loadshedding could jeopardize the entire electrical supply system.
+
+As a result, the high court’s order was set aside, reflecting the court's emphasis on statutory obligations and the importance of maintaining an operational electricity grid over unilateral contractual claims. This judgment has significant implications for future disputes regarding loadshedding agreements, reaffirming the authority of regulatory codes over informal agreements in the energy sector.

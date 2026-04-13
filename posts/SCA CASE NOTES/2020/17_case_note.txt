@@ -1,0 +1,54 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Caratco (Pty) Ltd v Independent Advisory (Pty) Ltd
+
+## F – Facts
+
+The appellant, Caratco (Pty) Ltd (hereinafter "Caratco"), appealed against a decision of the Gauteng Division of the High Court, Johannesburg, which ordered it to pay R2,280,000 plus costs to the respondent, Independent Advisory (Pty) Ltd (hereinafter "IAS"). IAS had claimed this amount as a "success fee" for its role in implementing a business rescue plan for Galaxy Jewellers (Pty) Ltd, a company financially distressed at the time ([1]).
+
+Caratco is a creditor of Galaxy and has an indirect controlling interest in the Galaxy group of companies, rendering it a "related" person under the Companies Act 71 of 2008 ([1]). The fee arrangement was initially discussed between IAS’s director Klopper and Galaxy's managing director, Stephens Olivier, and confirmed in an email by Caratco's managing director, Tom Watson ([3]–[4]). Despite acknowledging the agreement in its answering affidavit, Caratco contested its liability in a subsequent plea, claiming various defenses including unilateral mistake and public policy grounds, which were ultimately rejected by the High Court ([5]–[7]).
+
+The trial court found that Caratco had indeed agreed to pay the success fee and had not successfully established any defenses against this claim, including the allegations of illegality ([8]). Caratco sought to appeal this decision based chiefly on its statutory illegality and public policy arguments ([9]–[10]).
+
+## I – Issues
+
+The primary legal issues before the Supreme Court of Appeal (SCA) centred on:
+
+1. **Statutory Illegality**: Whether the business rescue practitioner’s entitlement to receive a "success fee" outside Section 143 of the Companies Act is prohibited, thus rendering the agreement void ([10]–[12]).
+   
+2. **Public Policy**: Whether the agreement contravenes public policy by potentially favoring a single creditor (Caratco) over the collective interests of all creditors in the business rescue process ([24]–[31]).
+
+## R – Rules
+
+The SCA relied upon several statutory provisions under the Companies Act 71 of 2008, particularly:
+
+1. **Section 143**: This section delineates the rules regarding the remuneration of business rescue practitioners and stipulates that practitioners can charge fees as prescribed, which must be approved by shareholders and creditors ([12]).
+
+2. **Sections 75 and 76**: These sections articulate a director's duties and responsibilities, including the prohibition against entering agreements that could create conflicts of interest ([15]–[21]).
+
+3. **Section 218(1)**: Allows a court to declare an agreement void if it is prohibited or unlawful, but this requires a thorough consideration of the surrounding facts ([23]).
+
+4. **Precedent**: Previous court rulings affirm the need for the plaintiff to plead and prove facts substantiating claims against the enforcement of an agreement on public policy grounds ([26]).
+
+## A – Application
+
+### Statutory Illegality
+
+The SCA dismissed the statutory illegality defense posited by Caratco. The court highlighted that Section 143 only regulates remuneration from the company in business rescue and does not govern third-party fee agreements. Caratco’s contention that fees outside the ambit of Section 143 are implicitly prohibited was deemed misinterpretative, as the statute did not explicitly empower the court to void such agreements merely because they did not fall under the section.
+
+Additionally, even assuming that Section 143 represented the sole method of legitimate remuneration for business rescue practitioners, there was no compelling evidence to suggest that this agreement was inherently void under its terms ([12]–[14]).
+
+### Public Policy
+
+On the matter of public policy, Caratco asserted that the agreement compromised the interests of the general body of creditors by hindering a democratic process and suggesting collusion between IAS and Caratco to the detriment of Galaxy's creditors ([24]–[30]).
+
+The SCA countered by underscoring that Caratco did not substantiate its claims of prejudice affecting creditors. Evidence presented during the trial indicated that the success fee had no adverse impact on the creditors, as it was undertaken voluntarily by Caratco. Furthermore, any suggestion of "capturing" creditors through collusive arrangements lacked evidentiary support and ran contrary to established facts ([28]–[31]).
+
+## C – Conclusion
+
+The SCA ultimately dismissed Caratco's application for leave to appeal, concluding that there was no reasonable prospect of success on the points raised. The court held that Caratco's defenses lacked merit both as a matter of statutory interpretation and public policy considerations. The ruling reinforces the obligations and expectations placed upon business rescue practitioners while also protecting the integrity of creditor negotiations and the business rescue process. The decision may have implications for creditors and business rescue practitioners regarding fee arrangements in future cases ([32]).
+
+---
+
+Thus, the conclusion affirms the contractual obligations Caratco undertook and illustrates the court's reluctance to permit retrospectively harmful claims that could disrupt the integrity of business rescue arrangements under the Companies Act.

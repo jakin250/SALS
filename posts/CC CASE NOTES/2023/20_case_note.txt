@@ -1,0 +1,40 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Fujitsu Services Core (Pty) Limited v Schenker South Africa (Pty) Limited [2023] ZACC 20
+
+### F - Facts
+The matter at hand arose from a contractual dispute between **Fujitsu Services Core (Pty) Limited** (the applicant) and **Schenker South Africa (Pty) Limited** (the respondent), centered on the interpretation of exemption clauses within a distribution agreement. This dispute originated following the theft of Fujitsu's high-value goods, specifically a consignment of laptops, by a Schenker employee, Mr. Wilfred Bongani Lerama. On 10 July 2009, the parties entered into a national distribution agreement, which incorporated the **South African Association of Freight Forwarders (SAAFF)** standard trading terms and conditions ([2]). 
+
+Lerama, tasked with collecting goods, exploited his access and stole a quantity of laptops on 23 June 2012. Following the theft, Fujitsu initiated a delictual claim against Schenker arguing that they were vicariously liable for Lerama’s actions, given that he was acting within the scope of his employment. Schenker countered that an exemption clause (Clause 17) absolved them from liability for theft of valuable goods unless specific arrangements were made in writing prior to the conduct ([6]–[11]). 
+
+The High Court ruled in Fujitsu's favor, interpreting the exemption clause restrictively, concluding that the theft fell outside the contractual context ([10]). The Supreme Court of Appeal, however, overturned this decision, asserting the exemption clause was sufficiently broad to encompass the theft ([12]).
+
+### I - Issues
+The primary legal issues presented for determination by the Constitutional Court included:
+
+1. Whether the exemption clauses relied upon by Schenker excluded liability for wrongful acts (specifically, theft by an employee) committed outside of the contractual context.
+  
+2. Whether the said exemption clause contravened public policy, thereby rendering it unenforceable ([1], [42]).
+
+### R - Rules
+The Court's adjudication was guided by:
+
+- Contract law principles regarding the interpretation of exemption clauses, notably that such clauses should be construed restrictively, particularly when they limit liability for wrongdoing.
+- As articulated in **Barkhuizen v Napier** [2007] ZACC 5, public policy and contractual freedom must operate within the bounds of fairness, justice, and constitutional values ([68]).
+  
+- Relevant case law included **Goodman Brothers (Pty) Ltd v Rennies Group Ltd** [1997] 4 SA 91 (W), which addressed the validity of exemption clauses in the event of employee wrongdoing ([130]–[132]). 
+
+### A - Application
+Justice Mathopo examined the import of the exemption clauses within the context of public policy and contractual obligations. He asserted that the theft perpetrated by Lerama was not an act performed in the course of executing the contract, and therefore, Schenker could not exonerate itself under the terms of the exemption clause ([49]).
+
+Mathopo also scrutinized the language of Clause 17 and conveyed that its ordinary and contextual meaning did not encompass intentional acts such as theft. He argued that to interpret the clause in such a manner would insulate employers from accountability for the deliberate misconduct of their employees ([45]–[48]). 
+
+In contrast, Chief Justice Zondo contended that the exemption clauses served a legitimate commercial purpose and were within the reasonable expectations of the contracting parties. He asserted that advocacy against such clauses being applied to theft would disproportionately infringe upon the operational framework of businesses, thereby undermining the freedom of contract. He emphasized that the operational risks associated with employee conduct are quintessential in logistics industries, thereby justifying the terms of Clause 17 ([122]).
+
+### C - Conclusion
+Ultimately, the Constitutional Court, in a split ruling, acknowledged the importance of public policy considerations accompanying contractual terms, particularly those limiting liability for wrongful acts such as theft. Justice Mathopo's opinion argued for a more nuanced interpretation of Clause 17 based on the overarching principle of accountability for wrongful conduct. Conversely, Chief Justice Zondo's opposing view upheld that the exemption clause was valid as it reflected a reasonable commercial understanding between the parties.
+
+The decision resulted in a dismissal of Fujitsu's appeal with costs, emphasizing the judicial system's role in balancing principle and practice within the contractual landscape ([143]). The judgment highlighted the tension between contractual freedom and public policy, underpinning the necessity for clear and equitable drafting of agreements within the commercial sector.
+
+The rulings engender important implications for future contracts within industries engaging in high-value asset handling, reaffirming the need for explicit terms concerning liability for employee actions and the nuanced interplay of public policy in contractual arrangements.

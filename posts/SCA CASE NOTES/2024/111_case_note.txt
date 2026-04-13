@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Christoffel Hendrik Wiese and Others v Commissioner for South African Revenue Service (1307/2022) [2024] ZASCA 111
+
+## FIRAC Method
+
+### F – Facts
+The matter originated from an action instituted by the Commissioner for the South African Revenue Service (SARS) against four appellants, Christoffel Hendrik Wiese, Isak Hendrik Johannes Visagie, Gert Christiaan Viljoen, and Frederick Rauten Hofmeyr, claiming R216.6 million under section 183 of the Tax Administration Act 28 of 2011 (TAA) for tax debt recovery ([1]).
+
+The essence of the claim was that the appellants caused or facilitated Energy Africa Propriety Limited (the taxpayer) to dissipate its assets to obstruct SARS from recovering a tax debt owed by Energy Africa. This alleged dissipation involved transferring a loan account claim of Energy Africa to Elandspad Investments, its holding company, in the form of a dividend in specie. The trial commenced in the Western Cape High Court and was determined on agreed separate issues ([2]).
+
+The issues were twofold: (a) the admissibility of a transcript of evidence from a previous inquiry under section 50 of the TAA, and (b) whether the tax assessments for secondary tax on companies (STC) and capital gains tax (CGT) qualified as "tax debts" for the purpose of section 183 of the TAA ([3]).
+
+The court established that the transcript was admissible, determining the purpose for its use to be evaluated by the trial court. Additionally, it concluded that the STC and CGT assessments were indeed tax debts as defined in the TAA, prompting an appeal by the appellants ([4]–[14]).
+
+### I – Issues
+The central legal questions before the court were:
+1. Does the term "tax debt" in section 183 of the TAA require that an assessed tax debt exists at the time of the dissipation of assets to obstruct its collection?
+2. Is the transcript of evidence from the section 50 inquiry admissible in subsequent civil proceedings under section 56 of the TAA? ([15]).
+
+### R – Rules
+The applicable rules are derived from the TAA, specifically:
+- Section 183, which delineates the liability of third parties for tax debts obstructed due to their facilitation of asset dissipation ([17]).
+- Section 1’s definition of “tax debt,” indicating it as an amount due or payable per section 169 of the TAA, which states: “An amount of tax due or payable in terms of a tax Act is a tax debt due to SARS for the benefit of the National Revenue Fund” ([18]).
+- Relevant case law, including **Singh v Commissioner, South African Revenue Service** ([21]) and **Namex (Edms) Bpk v Kommisaris van Binnelandse Inkomste** ([31]), which clarify the distinction between "due" and "payable," alongside the broader context of tax liability and assessment.
+
+### A – Application
+1. **Tax Debt Requirements**: The court interpreted section 183 to specify that a "tax debt" does not necessitate an assessed amount at the moment of asset dissipation. Essentially, a tax debt exists prior to formal assessment; thus, even anticipated tax liabilities qualify under section 183. Citing *Singh*, the court delineated that a tax may be deemed payable even when subject to legal challenges, thus reinforcing the liability's contingency upon a broader interpretation, which avoids absurd results where culpable parties could evade tax responsibilities due to mere timing of assessments ([23]–[47]).
+
+2. **Admissibility of Transcript**: The court balanced the confidentiality aspects of inquiries under section 50 with the provisions of section 56(4) of the TAA, which allows the use of such inquiry evidence in subsequent proceedings. Examining precedents, the court determined that the rationale for obtaining necessary evidence for tax recoupment outweighs privacy concerns. The decision in *Bernstein v Bester* further reinforced that compelled testimony could serve legitimate civil purposes without infringing constitutional rights ([50]–[66]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, affirming the high court's findings. The ratio decidendi underscored that the notion of "tax debt" in section 183 encompasses liabilities existing even prior to formal assessments. Furthermore, it determined that the inquiry transcript was admissible, aligning with the TAA's intent to facilitate effective tax administration ([67]). The ruling has broad implications, reinforcing SARS's capacity to recover tax debts and emphasizing the seriousness of tax liabilities irrespective of the timing of assessments. The court ordered the appellants to pay costs, including the costs of two counsel, solidifying the weight of the findings ([67]).

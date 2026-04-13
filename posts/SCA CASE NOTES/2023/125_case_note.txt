@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: The Commissioner for the South African Revenue Service v Absa Bank Limited and Another (596/2021) [2023] ZASCA 125
+
+## FIRAC Method
+
+### F – Facts
+
+The case revolves around a tax dispute involving the South African Revenue Service (SARS) and two respondents: Absa Bank Limited (Absa) and United Towers Proprietary Limited (United Towers). Their relationship is primarily connected through an investment scheme involving a series of transactions starting from their initial investment in PSIC Finance 3 (Pty) Ltd (PSIC3), which subsequently led to a tax-free income stream due to investments in Brazilian Government Bonds ([2–4]).
+
+Following a comprehensive audit initiated by SARS in 2016 concerning the Macquarie Group investment scheme, SARS issued notices under section 42 of the Tax Administration Act 28 of 2011 (TAA), signifying an audit of the tax affairs of Absa and United Towers for the years 2015, 2016, and 2017 ([3]). By November 2018, SARS issued notices under section 80J of the Income Tax Act 58 of 1962 (ITA), indicating a preliminary audit completion and the intention to apply the General Anti-Avoidance Rule (GAAR) provisions of the ITA, with a 60-day response window for Absa and United Towers ([4]).
+
+After responding to the notices and requesting that they be withdrawn, SARS refused on 5 March 2019. Subsequently, Absa and United Towers filed a review application in the High Court challenging the refusal to withdraw the section 80J notices and the resultant tax assessments issued under section 80B of the ITA ([5–6]). The High Court, however, granted their application, leading SARS to appeal the decision ([8]).
+
+### I – Issues
+
+The appeal to the Supreme Court of Appeal raises three main legal questions ([9–11]):
+1. Is the refusal to withdraw a section 80J notice reviewable under section 9 of the TAA, either prior to or after the issuance of notice of assessment under section 80B of the ITA?
+2. Was the High Court correct in classifying the challenge to the assessments as exclusively a question of law, thus entitling it to review jurisdiction under section 105 of the TAA?
+3. Was the High Court’s determination of the dispute and its resolutions correct?
+
+### R – Rules
+
+The following legal authorities and statutory provisions are pivotal to the assessment of the issues ([12–15]):
+1. **Income Tax Act 58 of 1962 (ITA)**: Sections 80A to 80L govern GAAR, which provide SARS the authority to counteract tax avoidance arrangements. An ‘avoidance arrangement’ is defined as one entered into with the purpose of obtaining a tax benefit.
+2. **Tax Administration Act 28 of 2011 (TAA)**: Section 9 allows for the discretionary withdrawal of certain notices issued by SARS. Section 80J details the procedural requirements for notices related to the determination of tax liabilities under GAAR.
+3. **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**: Governs the review of administrative actions and informs the examination of legality surrounding the refused withdrawal of notices.
+4. Precedent from cases such as *Commissioner for Inland Revenue v Conhage (Pty) Ltd* and *Rappa Resources* provides insights into the treatment of tax avoidance and administrative disputes, highlighting a preference for tax disputes to be resolved through established objection and appeals processes rather than High Court interventions.
+
+### A – Application
+
+The Supreme Court of Appeal (SCA) critically evaluated the decisions made by the High Court, asserting that the refusal to withdraw section 80J notices does not constitute an administrative action susceptible to review, as the issuance itself had not imposed an immediate adverse impact on the parties. The SCA reasoned that the decision not to withdraw the notice merely prolongs the status quo until the tax liability determination process is completed under section 80J ([21–22]).
+
+In assessing the second issue, the SCA found that the High Court’s characterization of the dispute as one solely of law was flawed. The determination of whether Absa and United Towers were parties to an ‘impermissible avoidance arrangement’ inherently involved factual assumptions that necessitated further inquiry into the circumstances surrounding their knowledge of the transactions. This disputed fact must be resolved through the formal dispute resolution mechanisms provided by section 104 of the TAA rather than through High Court review, which is reserved for exceptional circumstances ([29–33]).
+
+The SCA emphasized that by incorrectly perceiving the refusal to withdraw the section 80J notices as indefeasible, the High Court had effectively overlooked the statutory framework that governs the interaction between the various provisions of the ITA and TAA, leading to an unwarranted assumption of jurisdiction ([34–35]).
+
+### C – Conclusion
+
+The SCA ultimately upheld the appeal with costs, establishing that the High Court lacked the jurisdiction to adjudicate the review applications concerning both the section 80J notices and the subsequent tax assessments. The case further underscores the necessity for taxpayers to engage through the established dispute resolution process laid out in the TAA for settling tax-related disagreements. The ruling illustrates the primacy of the statutory frameworks governing tax matters and reinforces the principle that tax disputes should ideally be handled in specialized forums designed to manage such complexities effectively ([34–35]).
+
+---
+
+The implications of this decision are substantial; it clarifies jurisdictional boundaries and the procedural channels through which tax assessments may be contested, thereby streamlining expectations for both SARS and taxpayers navigating the South African tax landscape.

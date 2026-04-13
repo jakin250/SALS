@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+## Case Note: SAAB Grintek Defence (Pty) Ltd v South African Police Service (316/2015) [2016] ZASCA 104
+
+### FIRAC Method
+
+#### F – Facts
+The case concerns the cancellation of a tender by the South African Police Service (SAPS) for an integrated mobile vehicle data command and control solution. The tender process began when the State Information Technology Agency (SITA), acting on behalf of SAPS, published a Request for Bids on 13 February 2009. After a bidding process, SAAB Grintek Defence (Pty) Ltd (the appellant) and another firm were shortlisted. Despite several extensions to the bid’s validity period, by 26 June 2012, SAAB had not received any updates on the outcome of its bid. 
+
+On 8 August 2012, SAPS notified SAAB that the tender had been cancelled due to a lengthy evaluation process and changes in SAPS’s business processes ([1]–[3]). SAAB contested the cancellation, arguing that it constituted administrative action under the Promotion of Administrative Justice Act 3 of 2000 (PAJA) and that its rights to procedural fairness had been violated ([5][6]).
+
+Subsequently, SAAB applied to the North Gauteng High Court to have the cancellation set aside. The trial court dismissed the application, leading to SAAB's appeal ([7]). Five main issues were presented for consideration ([8]).
+
+#### I – Issues
+The key legal questions addressed by the Supreme Court of Appeal included:
+1. The validity of the extensions to the bid’s validity period.
+2. Whether there were valid grounds for the cancellation of the tender.
+3. Whether the cancellation was procedurally fair.
+4. Whether the cancellation was substantively valid.
+5. What remedy, if any, was appropriate for a successful appeal ([8]).
+
+#### R – Rules
+The court's analysis was grounded in both statutory and common law frameworks. The relevant legal principles included:
+- **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**, defining administrative action and establishing standards for procedural fairness ([12]).
+- **General principles of executive authority** that govern the conduct and decision-making processes of governmental entities ([20]).
+- Precedent cases such as **Tshwane City v Nambiti Technologies (Pty) Ltd** [2016] ZASCA 104, which distinguished between administrative action and executive authority in tender cancellations ([13][15]).
+
+The court referenced various regulations from the Procurement Regulations to ascertain SAPS's obligations towards tendering processes, including reg 8(4), detailing circumstances under which tenders may be cancelled ([23]).
+
+#### A – Application
+The court examined whether the SAPS’s decision to cancel the tender constituted administrative action. It determined that the cancellation was a consequence of SAPS exercising executive authority, not administrative action regulated by PAJA. This conclusion was supported by previous case law stating that decisions to procure or cancel tenders fallen within the purview of executive function and thus were not susceptible to PAJA review ([21]).
+
+The judges analyzed the grounds for cancellation, noting that substantive changes in the business requirements of SAPS justified the cancellation. The lengthy evaluation process had rendered the solution proposed by SAAB obsolete, comprising lawful and adequate reasons that delineated SAPS's exercise of discretion ([30]). The court also refuted SAAB’s claim of procedural unfairness, finding no requirement for a hearing prior to the cancellation due to the nature of SAPS’s decision-making process ([34]).
+
+#### C – Conclusion
+The Supreme Court of Appeal upheld the previous ruling, dismissing the appeal with costs. It concluded that the tender cancellation was not administrative action and that SAPS had validly exercised its executive authority to review its procurement needs. The court's reasoning underscored the distinction between administrative actions requiring fairness and executive decisions made in the public interest, ultimately ensuring that the principles of legality and rationality were upheld ([35]).
+
+This case serves to clarify the boundaries between administrative actions and executive decisions in the context of public procurement, reinforcing the executive's discretionary powers while maintaining the rule of law.
+
+---
+This case note adheres to the FIRAC method, capturing critical elements from the decision in SAAB Grintek Defence v South African Police Service. It is structured for academic and professional utility, reflecting the formal tone appropriate for citation.

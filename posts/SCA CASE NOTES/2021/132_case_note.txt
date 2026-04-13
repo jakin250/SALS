@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: Framatome v Eskom Holdings SOC Ltd [2021] ZASCA 132
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–16])
+
+The case revolves around a dispute between Framatome (the Appellant) and Eskom Holdings SOC Ltd (the Respondent) arising from a construction contract concerning the replacement of steam generators at Koeberg Nuclear Power Station, Units 1 and 2. The contract, originally concluded on 5 September 2014, was based on the NEC3 Engineering and Construction Contract framework, which permits the parties to define their obligations and the project management authority. 
+
+Framatome took over the contract following a cession from Areva NP and submitted a quotation for additional payment due to compensation events that arose from changes in key dates concerning the project delivery timeline. The Project Manager at Eskom failed to assess these changes in a timely manner, leading Framatome to seek adjudication under the terms of the contract. 
+
+On 26 February 2019, the adjudicator issued Decision 7, asserting that a compensation event existed. Eskom did not challenge this decision. Following further failures to assess subsequent changes, Framatome referred another dispute to the adjudicator in December 2018, which resulted in Decision 11 on 23 July 2019, determining that Eskom was in breach of the contract and concluding that Framatome's quotations were accepted implicitly due to the Project Manager's inaction.
+
+When Eskom sought to contest Decision 11, the Gauteng High Court ruled in favor of Eskom by holding that the adjudicator had decided on a matter that was not within the dispute referred to him, leading to a challenge of the enforceability of Decision 11.
+
+### I – Issues: Legal or Constitutional Questions ([paras 1–20])
+
+The appeal raised crucial questions about the enforceability of adjudicator’s decisions made under a construction contract:
+
+1. Whether the adjudicator’s Decision 11 should be enforced despite Eskom’s claims that it was based on an invalid Decision 7.
+2. Whether Decision 11 became unenforceable because Eskom argued that it addressed a dispute outside the provisions of the contract.
+
+These issues hinge on the core principles of adjudication in construction contracts and the contractual obligations for dispute resolution. The court needed to determine if the adjudicator operated within his jurisdiction and whether the grounds for invalidation of the decisions were tenable.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 20–31])
+
+The court's analysis rested on several critical legal principles regarding adjudication in construction contracts:
+
+- **Contractual Jurisdiction**: The adjudicator's decisions are binding unless successfully challenged before arbitration as stipulated in Clause W1.3(10) of the contract, which states such decisions are enforceable pending resolution.
+- **Precedents**: The court referred to *Radon Projects (Pty) Ltd v NV Properties (Pty) Ltd* [2013] ZASCA 83, which outlines the principles of provisional adjudication and the importance of enforcing adjudicators' decisions to prevent ongoing disputes from stalling project completion.
+- **Judicial Discretion**: The court emphasized that intervention is rare and limited to instances where it is established that an adjudicator lacked jurisdiction or exceeded their powers. This is crucial in maintaining the effectiveness of adjudication as a swift mechanism for resolving construction disputes.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 21–30])
+
+The Supreme Court of Appeal (SCA) conducted a thorough examination of the adjudicator's decisions:
+
+1. **Decision 7 and its Validity**: Eskom's failure to challenge Decision 7 precluded it from later claiming that Decision 11 arose from a flawed foundation. The court found no arguments presented by Eskom that effectively questioned Decision 7’s jurisdictional basis or its binding nature.
+  
+2. **Nature of Disputes**: The court determined that the adjudicator had indeed confined himself to the dispute referred by Framatome. He correctly concluded that the failures of the Project Manager to act within required timelines resulted in an implicit acceptance of Framatome's quotations.
+
+3. **Merit vs. Jurisdiction**: Eskom's arguments largely revolved around the merits of the decisions rather than jurisdictional concerns. The SCA held that these merits were to be resolved in arbitration, not in enforcement proceedings.
+
+4. **Holistic Interpretation**: The court advised against isolating components of the adjudicator's decisions without considering the entire context of the disputes between the parties, reinforcing that the adjudicator had appropriately understood and addressed the matters at hand.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 31–31])
+
+The SCA upheld Framatome's appeal, asserting that the adjudicator's findings were binding and enforceable. The decision emphasized the importance of respecting the authority and jurisdiction of adjudicators in construction disputes, thereby supporting the principle of prompt payment and resolution of claims within the construction industry. The judgment also clarified that challenges based on a supposed lack of jurisdiction must be correctly rectified at the outset of the adjudication process and cannot be raised opportunistically at later enforcement stages.
+
+**Order of the Court**: The court set aside the High Court’s decision, recognizing Eskom's breach of contract and enforcing the adjudicator's awards on key project timelines and payments due. The ruling reaffirms the strength of contractual adjudication processes and encourages adherence to agreed dispute resolution mechanisms in construction contracts.
+
+---
+
+This comprehensive analysis captures the essence of the case and offers insights into the legal framework governing adjudication in construction contracts within South Africa, ensuring relevance for academic and professional discourse on the matter.

@@ -1,0 +1,57 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2023
+
+# Case Note: FIRAC for Commissioner for the South African Revenue Service v Medtronic International Trading S.A.R.L
+
+**Neutral Citation**: Commissioner for the South African Revenue Service v Medtronic International Trading S.A.R.L (case no 456/2021) [2023] ZASCA 20 (03 March 2023)
+
+---
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–17])
+
+This appeal arises from a protracted dispute between the Commissioner for the South African Revenue Service (the Commissioner) and Medtronic International Trading S.A.R.L (Medtronic International) concerning the potential remission of value-added tax (VAT) interest following a voluntary disclosure agreement (VDA) pursuant to the Tax Administration Act 28 of 2011 (TAA).
+
+Medtronic International, a subsidiary of the Medtronic Group and registered as a vendor under the VAT Act, experienced significant financial losses due to fraud perpetrated by an employee from June 2004 to May 2017, amounting to R537,236,176 ([paras 4–5]). Subsequent investigations revealed that the employee had submitted fraudulent VAT returns to SARS, leading Medtronic International to apply for relief under the Voluntary Disclosure Programme (VDP) on 13 December 2017.
+
+Following extensive negotiations, the parties executed a detailed VDA on 18 June 2018, which provided for the payment of outstanding VAT and stipulated various conditions, including the waiver of administrative non-compliance penalties but explicitly omitted any mention of interest remission [paras 7–9]. However, on 12 October 2018, Medtronic International sought to remit the interest calculated at R171,205,356.12 based on pre- and post-VDA events, a request which SARS declined, citing its inability to waive interest under the circumstances of a concluded VDA ([paras 9–12]).
+
+Dissatisfied with SARS's refusal to consider its request for remission of interest, Medtronic International filed an application in the Gauteng Division of the High Court. The court ordered that the provisions relating to the VDP did not bar requests for remission of interest under s 39(7) of the VAT Act. This was subsequently appealed by the Commissioner, resulting in the present case.
+
+### I – Issues: Legal or Constitutional Questions ([paras 1–17])
+
+The primary issue for the Supreme Court of Appeal (SCA) is whether the provisions of s 227 of the TAA, in conjunction with s 39(7) of the VAT Act, prohibit the Commissioner from considering a request for interest remission following the execution of a voluntary disclosure agreement. This question encapsulates two specific legal inquiries:
+1. Does the framework established by the TAA limit the Commissioner’s jurisdiction to remit VAT interest once a VDA has been concluded?
+2. Is the refusal of the Commissioner to entertain the request for remission a breach of its administrative duty as outlined in the Promotion of Administrative Justice Act (PAJA)?
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 18–29])
+
+The applicable legal framework consists of the Tax Administration Act 28 of 2011, particularly parts B and C, which regulate voluntary disclosure (ss 225–233), and s 39(7) of the VAT Act concerning interest on late payments:
+- **Section 39(7) of the VAT Act** allows for the remission of interest if the failure to pay was due to circumstances beyond a taxpayer's control.
+- **Sections 227-230 of the TAA** outline the conditions under which taxpayers may engage with the VDP and specify the mandatory relief granted, including waivers of certain penalties but remaining silent on interest.
+
+Additionally, the concept of reasonable administrative action established under PAJA, specifically regarding the duties of administrative bodies to consider requests from the public, is central to evaluating the legitimacy of the Commissioner’s refusal ([paras 18–20]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 30–50])
+
+The SCA held that the Commissioner incorrectly asserted a blanket inability to consider requests for remission of interest post-VDA. Both the Deputy President and Justice Goosen approached the issue through distinct analytical frameworks, with the majority focusing on statutory interpretation and the principles of legitimate expectation in administrative law.
+
+The majority judgment emphasized that the TAA does not expressly forbid interest remission requests following the conclusion of a VDA ([paras 44–46]). The interpretation of statutory provisions must align with their intended purpose and should not ignore the ongoing applicability of the VAT Act as it relates to interest. Thus, the Court ruled that the Commissioner must examine the request on its merits, given the context of various legal obligations to act fairly and justly ([paras 40–45]).
+
+In contrast, Justice Goosen argued a more restrictive interpretation. He cautioned against allowing a taxpayer to contest the results of a VDA through later requests for remission of interest, emphasizing that such a request undermined the completeness of the contractual obligation established in the agreement ([paras 58–60]). He ultimately posited that the contractual obligations under the VDA preclude the subsequent remission request, reinforcing the sanctity of the agreed tax liabilities and the clarity the VDP was designed to engender in compliance  ([para 92]).
+
+### C – Conclusion: Court's Holding, Ratio Decidendi, and Implications ([paras 51–56])
+
+In conclusion, the SCA dismissed the appeal, affirming the lower court's judgment that the Commissioner is not precluded from considering applications for remission of interest despite the execution of a VDA. The Court held that it is imperative for the Commissioner to exercise its statutory duty to consider such applications, thereby reinforcing taxpayers' rights to administrative justice under PAJA ([paras 55–56]).
+
+The implications of this ruling extend beyond the immediate case, suggesting a need for SARS to adopt a more flexible understanding of its obligations under the TAA and VAT Act. It underscores the vital importance of transparent and fair administrative processes while navigating the complexities of tax compliance and the powers vested in bodies like SARS. The Court's endorsement of broad access to remission requests serves to encourage voluntary compliance and engagement from errant taxpayers moving forward.
+
+This decision could potentially reshape how the voluntary disclosure mechanism is administered, instilling a more conciliatory and adaptive approach from SARS in handling cases of VAT interest and other penalties.
+
+--- 
+
+**References**:  
+- Tax Administration Act 28 of 2011  
+- Value Added Tax Act 89 of 1991  
+- Promotion of Administrative Justice Act 3 of 2000  
+- Interpretation Note 61  
+- Case law citations as per OSCOLA standards.

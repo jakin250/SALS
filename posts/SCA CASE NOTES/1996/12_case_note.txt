@@ -1,0 +1,51 @@
+Case Note: IN THE SUPREME COURT OF SOUTH AFRICA
+Source Folder: 1996
+
+# FIRAC Case Note: Cunningham v The State ([1996] ZASCA 41)
+
+## F – Facts ([paras 2–25])
+
+The appellant, John Verney Cunningham, was charged with murder, attempted murder, and multiple contraventions of the Road Traffic Act 29 of 1989, following a serious collision on 6 March 1993. The incident involved Cunningham's vehicle colliding with two cyclists at a traffic-controlled intersection in Retreat, Cape Town. This collision resulted in the death of one cyclist and severe injuries to another ([para 2]).
+
+At trial, Cunningham raised a defence of "sane automatism," arguing that he was acting involuntarily due to a state of automatism at the time of the collision. The trial court rejected this defence but found Cunningham negligent and convicted him of culpable homicide, acquitting him of attempted murder and the statutory offences related to his failure to stop after the collision ([paras 2–3]).
+
+The initial sentence included three years of correctional supervision and four years of imprisonment conditionally suspended for four years, with a two-year suspension of his driver's license ([para 3]). On appeal to the Cape Provisional Division, Cunningham’s conviction was confirmed, but the sentence was altered, leading to a two-year suspended imprisonment sentence. The court allowed for the possibility of appealing the driver's license suspension after three months based on mental recovery ([paras 3–4]).
+
+Cunningham appealed to the Supreme Court of South Africa against his conviction of culpable homicide, while abandoning the appeal against the sentence ([para 4]).
+
+## I – Issues ([paras 5–21])
+
+The central legal issue in this case revolved around whether Cunningham acted in a state of automatism, precluding him from criminal responsibility for the collision. Key points included:
+
+1. **The Applicability of Automatism as a Defence**: Was Cunningham’s behavior during the incident attributable to a state of automatism, thereby negating voluntary action required for culpability?
+2. **The Burden of Proof**: Who bore the burden of proof in establishing the existence (or absence) of volition in Cunningham's actions—Cunningham as the accused or the State as the prosecution?
+3. **Evaluation of Expert Testimony**: How did the opinions of the psychiatric experts affect the determination of Cunningham's state of mind during the incident? 
+4. **Application of Criminal Responsibility Principles**: Did the court adequately assess the principles governing voluntary conduct and the categorization of "sane automatism" versus other forms of automatism?
+
+## R – Rules ([paras 12–15])
+
+The Court established essential legal principles relevant to the case:
+
+1. **Definition of Automatism**: Automatism, as a defence, implies that a person acted involuntarily. The court noted the necessity of establishing a lack of voluntary action to negate criminal liability. This is encapsulated in the rule that criminal responsibility requires a voluntary act (S v Mahlinza 1967 (1) SA 408 (A) at 419A-C) ([paras 12–14]).
+   
+2. **Burden of Proof**: In cases of "sane automatism" (non-pathological), the onus is on the State to demonstrate that the accused acted voluntarily, while for pathological automatism, the onus is on the accused to prove involuntary action (S v Campher 1987 (1) SA 940 (A) at 966F-I) ([para 14]).
+
+3. **Medical Evidence**: The Court underscored that expert medical evidence must provide a factual basis for any claim of automatism. The subjective assessment of an individual's state of mind must be supported by credible medical testimony ([para 15]).
+
+## A – Application ([paras 16–24])
+
+In applying these principles, the Court analyzed the evidence presented, particularly focusing on the differing accounts provided by the psychiatric experts:
+
+- **Cunningham's Defense**: Dr. Quail, the defense psychiatrist, posited that Cunningham's behavior was sufficiently explained by a state of automatism. However, he struggled to identify a clear "trigger mechanism" for this state, which the court found problematic ([para 19]).
+
+- **State’s Witness**: On the other hand, Professor Zabow, the State's psychiatrist, concluded that the evidence did not substantiate the automatism claim. He noted that Cunningham’s actions—such as hooting and overtaking—reflected cognitive function inconsistent with an automatic state ([paras 19–20]).
+
+- **Amnesia and Behavior**: Cunningham displayed signs of confusion immediately after the accident and could not recall the events leading up to it. However, the Court highlighted that while amnesia was present, it did not automatically equate to a diagnosis of automatism. Moreover, Cunningham's past history of hypomania suggested that his behavior may have stemmed from pre-existing psychological issues rather than involuntariness due to a momentary state of automatism ([paras 20–24]).
+
+Ultimately, the Court found that the trial court was justified in preferring the expert opinion of Professor Zabow, leading to the conclusion that there was insufficient evidence to support the existence of a triggering event or an automatic state during the incident ([para 22]).
+
+## C – Conclusion ([paras 25–25])
+
+The Supreme Court dismissed Cunningham's appeal against the conviction for culpable homicide. The judgment emphasized that the evidence did not sufficiently establish a state of automatism, which was critical in determining voluntary action essential for criminal responsibility. The Court reiterated the necessity for a reasonable basis for automatism, highlighting that mere confusion post-incident was insufficient to negate culpability ([para 25]). The ruling has noteworthy implications for similar defenses in future cases, underscoring the importance of expert evidence and the challenges of successfully arguing a state of automatism in criminal law. 
+
+In summary, the case reaffirms the legal principles governing sanity and voluntary action in the context of criminal liability, clarifying the distinction between "sane automatism" and other states, and placing the burden of proof squarely on the State when the defence claims automatism attributable to non-pathological causes.

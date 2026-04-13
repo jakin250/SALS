@@ -1,0 +1,63 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: Parry v Dunn-Blatch and Others
+
+**Court**: The Supreme Court of Appeal of South Africa  
+**Neutral Citation**: Parry v Dunn-Blatch and Others (394/2022) [2024] ZASCA 19  
+**Date of Judgment**: 28 February 2024  
+**Coram**: Molemela P, Saldulker, Makgoka, Hughes JJA, and Mali AJA  
+
+---
+
+## F – Facts: Relevant Background and Procedural History ([paras 1-6])
+
+The case arises from a conflict between two directors and shareholders, Alice Mary Parry (the applicant) and Rosalene Sybil Dunn-Blatch (the first respondent), who co-founded a private company, TRADSA (Pty) Ltd, and a non-profit company, ITRISA NPC, in 1996. These enterprises were established to manage intellectual property rights associated with educational materials used for distance learning programs ([paras 1-2]).
+
+Parry resigned as a director of ITRISA in 2012 but retained her role as a director and co-shareholder of TRADSA. Disputes regarding compensation for the use of TRADSA's intellectual property by ITRISA led Parry to approach the Gauteng Division of the High Court for relief in terms of section 163 of the Companies Act 71 of 2008 ([paras 3-5]). This section allows for relief against oppressive or unfair conduct by a director or shareholder of a company ([para 5]).
+
+The High Court initially found in favor of Parry, determining that Dunn-Blatch's actions were manifestly oppressive and granted her the relief sought, though deferring the monetary aspect to trial. Respondents appealed this decision to the full court, which ultimately overturned the High Court’s ruling, concluding that Parry lacked standing and had not substantiated her claims of oppression ([paras 9-12]).
+
+---
+
+## I – Issues: Legal or Constitutional Questions ([paras 14-16])
+
+The primary legal issues in this appeal include:
+
+1. Whether Parry established conduct by Dunn-Blatch or ITRISA that was oppressive, unfairly prejudicial, or that unfairly disregarded her interests, as required under section 163 of the Companies Act ([para 14]).
+  
+2. Whether Parry had the legal standing (locus standi) to invoke the remedies under section 163, particularly in light of the relationship between the parties and the ownership of the copyright ([para 16]).
+  
+3. The interpretation of the licence agreement concerning compensation for the use of intellectual property, and whether its terms could be varied by court order ([para 15]).
+
+---
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 19-34])
+
+The ruling is grounded in the interpretation of section 163 of the Companies Act, which provides avenues for shareholders or directors to seek relief from oppressive conduct. Section 163(1) outlines the specific scenarios under which an application may be made, including acts or omissions by a company that are oppressive or unfairly prejudicial ([para 19]).
+
+The court also referenced previous jurisprudence related to the interpretation of similar statutory provisions, including the Foss v Harbottle doctrine, which establishes that a company must sue for wrongs done to it, rather than its shareholders directly ([paras 26-32]). The Supreme Court reiterated that this doctrine does not preclude aggrieved shareholders from seeking remedies under section 163, particularly noting that "oppression" encompasses a broad spectrum of actions that may affect equitable treatment and interests of shareholders.
+
+---
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 33-50])
+
+In applying the law to the specific facts, the court outlined that the conduct complained of must not only be shown to be oppressive or unfairly prejudicial but must also be "unfair" in nature. The judgment examined various factual elements presented by Parry, including her claims concerning Dunn-Blatch’s conduct and the lack of compensation for the use of TRADSA’s intellectual property ([paras 36-40]).
+
+The court found that the communication between Parry and Dunn-Blatch did not convincingly establish a mutual intention for a compensation arrangement within the license agreement ([paras 41-44]). The various email exchanges added complexity to the issue but ultimately did not support a conclusion that they had agreed to anything contrary to the terms of the signed license.
+
+On the question of standing, the court concluded that since any alleged financial harm was primarily to TRADSA, it was the company itself that would need to bring an action for any wrongs, not individual shareholders. This point strongly aligned with the principles established in prior rulings regarding locus standi and the treatment of claims under flouted contractual expectations ([paras 25-34]).
+
+Given the factual disputes, including differing interpretations of the license agreement and conflicting testimonies regarding intentions and adaptations of the educational material, the court found that these issues could only be resolved through trial rather than summary judgment, which further complicated matters ([paras 49-50]).
+
+---
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 51-52])
+
+The Supreme Court of Appeal dismissed Parry’s application for special leave to appeal, upholding the decision of the full court that she had failed to demonstrate the conduct complained of constituted oppression, unfair prejudice, or disregard of her interests as required by section 163 of the Companies Act. Moreover, it found that Parry lacked the necessary standing to bring forth the application because the alleged harm was primarily to TRADSA, thus reinforcing traditional norms established by the Foss v Harbottle rule ([paras 51-52]).
+
+The implications of this ruling underscore the necessity for shareholders to clearly delineate terms in company agreements, particularly regarding compensation arrangements. It also highlights the importance of having a coherent understanding of standing in corporate legal disputes, emphasizing that actions for damages or breaches of fiduciary duties must typically be brought by the company in question rather than its individual shareholders unless clear exceptions apply.
+
+--- 
+
+This case reinforces the legal framework governing shareholder rights and protections against oppressive conduct in South African company law while simultaneously demarcating the boundaries of individual shareholder actions in situations claiming corporate injustices.

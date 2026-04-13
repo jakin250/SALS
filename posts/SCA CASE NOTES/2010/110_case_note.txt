@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2010
+
+# Case Note: Margo v Gardner (564/09) [2010] ZASCA 110 
+
+## FIRAC Method
+
+### F – Facts:
+The appeals under consideration stem from two cases heard simultaneously concerning the in duplum rule—a common law principle dictating that a creditor may not claim unpaid interest exceeding the principal debt owed. The first case, Gardner v Margo (case no. 511/09) involves Gardner (appellant) appealing an earlier application dismissed for not applying the in duplum rule, while the second case (564/09) sees Margo (appellant) challenging a ruling that did apply the rule ([paras 2-4]).
+
+On 14 April 1999, Margo served summons for R15 million against Gardner and OTR Mining Ltd. The court subsequently found in Margo's favor, but Gardner appealed successfully, resulting in a judgment that mandated Gardner to pay R1,461,432 with interest at 15.5% per annum from 1 September 1998 ([paras 4-5]). Gardner made multiple payments totaling R3,022,864 but later claimed they settled the capital debt in full without proof ([para 5]).
+
+Disputes arose around the taxation of costs and the proper calculation of interest owed, leading to several writs of execution by Margo and corresponding applications by Gardner to suspend the writs ([paras 6-8]). Ultimately, the South Gauteng High Court ruled in favor of Gardner, determining he had overpaid and set aside the second writ ([para 8]).
+
+### I – Issues:
+The primary legal issue revolves around whether the in duplum rule applies to interest accrued during litigation and whether interest accumulates after a judgment has been rendered. Specifically, the questions include:
+
+1. Does the in duplum rule suspend during litigation?
+2. When does the accumulation of interest cease in accordance with the in duplum rule, particularly with respect to the total judgment amount owed, including costs? ([paras 10-12]).
+
+### R – Rules:
+The in duplum rule arises from common law and is established by previous cases, notably **LTA Construction Bpk v Administrator, Transvaal** and **Standard Bank of South Africa Ltd v Oneanate Investments (Pty) Ltd (in liquidation)**. The latter clarified that while interest on a judgment debt accumulates only to the extent it does not exceed double the principal owed, this is contingent upon specific conditions ([paras 1, 10-11]). The overarching principle of the in duplum rule serves to protect borrowers from excessive interest accumulation while facilitating the creditor's ability to secure payment in a timely manner.
+
+In standard applications of this rule, it has been held that interest accrues during the litigation phase (pendente lite) unless explicitly stated otherwise in the judgment ([paras 12-14]).
+
+### A – Application:
+In analyzing the facts against the legal standards, the court noted that Gardner's argument that the in duplum rule provides a fixed cap on interest misconstrued the applicable law, specifically overlooking that the rule does not apply uniformly. The suspension of the in duplum rule during litigation was emphasized, indicating that creditors, like Margo in this case, are not penalized for delays in resolving disputes ([para 11]). 
+
+The court elaborated that when the SCA order was issued, Gardner had indeed accrued interest exceeding double the original capital due to prolonged litigation, affirming that the interest calculations were correctly derived ([paras 13-14]). The contradictions between previous findings in the High Court reaffirm the necessity of analyzing the in duplum rule vis-à-vis its application during litigation.
+
+### C – Conclusion:
+The Supreme Court of Appeal ultimately dismissed Margo's appeal (case no. 564/09) while upholding Gardner's appeal (case no. 511/09), ordering that Margo's claims for further interest were unfounded post-judgment, as the in duplum rule did apply but had been suspended during litigation ([paras 15]). This judgment underscores the significance of the in duplum rule within South African law and its implications on the enforcement of judicial debt requirements, reinforcing the balance between creditor rights and the protection of debtors from escalating financial obligations during protracted legal disputes.
+
+In summation, the decision in **Margo v Gardner** clarifies the functioning of the in duplum rule, affirming that while interest does accrue during litigation, the overall objective remains to prevent unreasonable financial burdens from accumulating in debtor-creditor relationships during legal processes. The court's ruling highlights the critical interplay between judicial efficiency and financial equity, setting precedent for future applications of the in duplum rule in contexts of legal litigation.

@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: P A F v S C F (788/2020) [2022] ZASCA 101
+
+## F – Facts
+
+The case revolves around a dispute stemming from a divorce between the applicant, P A F, and the respondent, S C F, who were married on 5 September 2001 out of community of property, subject to the accrual system ([para 2]). On 24 June 2013, the applicant initiated divorce proceedings in the KwaZulu-Natal Division of the High Court ([para 2]). By the trial's commencement on 18 February 2015, it was evident that the applicant’s estate had a greater accrual than the respondent’s ([para 2]).
+
+Notably, on 29 January 2015, the applicant established a trust in the British Virgin Islands, shortly before the divorce trial commenced. The trust’s sole beneficiary was their minor daughter, with the applicant’s brother acting as trustee ([para 3]). It was also revealed that on the following day, the applicant executed a deed of donation, irrevocably contributing £115,000 to the trust, which was equivalent to approximately R2.2 million at the time ([para 4]).
+
+The respondent, upon learning of these transactions, amended her counterclaim in September 2016 to include these amounts in the calculation of accrual. The high court found that these transactions were executed with the intention to defraud the respondent of her rightful accrual ([para 5]). A decree of divorce was granted on 26 April 2017, with proprietary issues reserved for later judgment, which ultimately confirmed the fraudulent nature of the asset transfers and ordered their inclusion in the applicant's estate for accrual calculations.
+
+The applicant's appeal to the full court was plagued by procedural delays. His application for leave to introduce further evidence and condonation for the late prosecution of the appeal was dismissed ([para 6]), leading to an application for special leave to appeal to the Supreme Court of Appeal ([para 1]).
+
+## I – Issues
+
+1. Does the establishment of a trust and the donation made to it affect the calculation of accrual in divorce proceedings?
+2. Should the court allow the introduction of new evidence on appeal related to the legality of the trust and the donation?
+3. Did the applicant demonstrate sufficient cause to warrant condonation for the late prosecution of the appeal?
+
+## R – Rules
+
+1. **Matrimonial Property Act 88 of 1984** – Section 3 provides the legal framework for accrual claims upon the dissolution of marriage ([para 25]).
+2. **Superior Courts Act 10 of 2013** – Section 19(b) entails provisions governing the introduction of further evidence on appeal ([para 9]).
+3. **Common Law Principles** – A trust does not ordinarily include beneficial interests within a spouse's estate unless the court can pierce the trust veil based on abuse of form or fraud ([para 26]).
+
+Significant case law:
+- **Colman v Dunbar** [1933] AD 141 – established criteria for the admissibility of further evidence ([para 9]).
+- **Badenhorst v Badenhorst** [2006] ZASCA 116 – clarified parameters regarding trust assets in matrimonial disputes ([para 41]).
+- **MM v JM** [2014] 4 SA 384 (KZP) – focused on the legal parameters surrounding trusts in the context of accrual claims ([para 32]).
+
+## A – Application
+
+**Introduction of Further Evidence:**
+The applicant contended that a legal opinion from Senior Counsel, André Stokes, confirming the validity of the trust, was crucial to his appeal and should be admitted. The court ruled that there were no "exceptional circumstances" to justify the late introduction of such evidence ([para 10]). The opinion did not conclusively address whether the trust was established in good faith to evade accrual liabilities but merely offered one aspect of a broader examination ([para 11]).
+
+**Condonation for Late Appeal:**
+The applicant's attorney experienced challenges with the appeal record's compilation, leading to a lapse in prosecuting the appeal. However, the full court found the explanation inadequate, as it bore the responsibility to know court rules. The failure to comply with procedural timelines was attributed primarily to the applicant and his legal representation ([para 16]). Factors such as the extent of delay and prospects of success were evaluated, but the full court concluded that there was insufficient reason to condone the delay ([para 21]).
+
+**Piercing the Trust Veil:**
+The high court’s conclusion that the donation should be considered part of the applicant's estate was based on the timing of the trust's establishment and the lack of legitimate purpose behind its creation ([para 54]). The court found that the applicant established the trust to undermine the respondent’s accrual claim, as evidenced by:
+- The timing of the trust's creation immediately prior to divorce proceedings ([para 48]).
+- The absence of consultation with the respondent, indicating bad faith ([para 52]).
+- The creation of the trust in a foreign jurisdiction to obscure transparency ([para 51]).
+
+The circumstances alerted the court to the possibility of a trust form abuse. The refusal to permit the introduction of new evidence also reinforced the high court's ruling since the fraud was evident from the existing evidence ([para 54]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed the application for special leave to appeal, affirming the lower court's findings on both the introduction of further evidence and condonation for the late prosecution of the appeal. The court reinforced that the trust and donation to it were effectively disregarded as an asset of the applicant for accrual calculations, confirming the high court's ruling that the applicant's actions were fraught with fraudulent intent to deprive the respondent of her rightful claim. The decision emphasizes the court's resolve to prevent abuses of the trust form in the context of matrimonial property disputes and upholds the integrity of accrual claims as set forth in the Matrimonial Property Act ([paras 54–55]).

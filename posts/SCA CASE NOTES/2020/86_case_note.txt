@@ -1,0 +1,29 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2020
+
+# FIRAC Case Note: M[…] and Another v Murray and Others [2020] ZASCA 86
+
+## F – Facts ([paras 1–9])
+This case revolves around the insolvency of Mr. P[…] A[…] L[…] M[…], whose estate was sequestrated on 1 August 2011. Prior to this, in June 2009, Mr M[…] received a pension pay-out of R4,639,000, which he subsequently partially disposed of to his then-wife, Mrs V[…] I[…] M[…], and to Iprolog (Pty) Ltd, a company he directed. Specifically, R3,500,000 was transferred into an attorney’s trust account for Iprolog, which was then used to purchase properties, while R1,023,867 was paid directly to Mrs M[…]. The couple had a history of marital issues leading up to this point, and the payments were purportedly aimed at settling proprietary claims arising from a divorce. The respondents, joint trustees of Mr M[…]’s insolvent estate, sought to set aside these payments on grounds of collusion and alleged that they detrimentally affected Mr M[…]’s creditors ([paras 1–10]).
+
+## I – Issues ([paras 1–2, 12, 13])
+The central legal question was whether the pension benefit received by Mr M[…] before his estate was sequestrated enjoyed protection under Section 37B of the Pensions Fund Act 24 of 1956, despite the benefits being paid out. If not, the secondary question was whether the payments made to his wife and Iprolog could be set aside under provisions of the Insolvency Act 24 of 1936, specifically focusing on collusive behaviours and the intent to prejudice creditors ([paras 1–2, 12, 13]).
+
+## R – Rules ([paras 14–28])
+1. **Pensions Fund Act (1956):** Section 37B states that a pension benefit payable after sequestration cannot be attached by a trustee or creditors. The term 'benefit' within this context refers to amounts 'payable' rather than 'paid,' meaning once the benefit is paid out, it ceases to be protected ([paras 14, 15]).
+  
+2. **Insolvency Act (1936):** 
+   - **Section 31** allows the court to set aside transactions made by a debtor prior to sequestration for collusion with intent to prejudice creditors ([para 28]).
+   - **Section 26** addresses dispositions made without value, providing a basis for voiding non-compensatory transactions ([para 28]).
+   - Previous case law emphasizes that once a pension benefit is received by a beneficiary, it can be subject to creditors' claims ([paras 20–23]).
+
+## A – Application ([paras 6–36])
+In considering the application of these rules, the court determined that Mr M[…] had received the pension pay-out before his estate was officially deemed insolvent, thereby extinguishing any protection under s 37B. The court elucidated that the nature of the transactions regarding the pension funds changed upon receipt; thus, they fell into the realm of ordinary assets that creditors could claim ([para 36]). 
+
+The court also evaluated alleged collusion between Mr and Mrs M[…], concluding the couple acted intentionally to strip assets to the detriment of creditors, which violated the principles of equitable treatment in insolvency. Evidence of their continued cohabitation post-divorce and the timing of marital separation led to reasonable inferences of collusion, culminating in the affirmation that the payments to the appellants could be set aside under s 31 of the Insolvency Act due to the collusive nature of their disposal ([paras 10–36]).
+
+## C – Conclusion ([paras 37–38])
+The Supreme Court of Appeal ultimately dismissed the appeal, affirming the lower court's decision that the payments made by Mr M[…] were voidable. Both payments were declared set aside with the ordered repayment of R1,023,867 to Mrs M[…] and R3,500,000 to Iprolog. The court reinforced that the intent and actions of Mr and Mrs M[…] constituted a collusive effort to undermine legitimate creditor claims, which supported the application of the Insolvency Act provisions ([paras 37–38]).
+
+### Implications
+This case highlights critical interpretations of the Pensions Fund Act and the Insolvency Act concerning the transfer of pension benefits and the responsibilities of trustees amidst insolvencies. Furthermore, it underscores the judiciary's commitment to identifying and dismantling schemes that jeopardize creditor rights under South African insolvency law.

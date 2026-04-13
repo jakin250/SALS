@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2006
+
+# FIRAC Case Note: Automotive Tooling Systems v Wilkens [2006] SCA 128 (RSA)
+
+## F – Facts 
+The appeal in *Automotive Tooling Systems (Pty) Ltd v Wilkens* ([1]), arose from a High Court ruling which declared certain agreements between the appellant and first and second respondents as being invalid and unenforceable. The appellant operates in the specialized technological sector, focusing on design and manufacture of marking machines predominantly used in automotive part production ([2]). The first and second respondents were employed by the appellant as toolmakers and later entered into "Independent Contractor agreements" at the appellant's request ([2], [3]). These agreements included a restraint of trade covenant, prohibiting them from entering into similar business for three years after termination ([3]).
+
+In May 2005, both respondents resigned to join AMS Manufacturing, which the appellant asserted breached the restraint clause ([5]). The High Court invalidated the agreements on the grounds of *fraudem legis*, asserting that their design sought to bypass the Labour Relations Act 66 of 1995 ([6]). The legal significance of the appeal revolved around whether the restraint clause was enforceable under the circumstances provided.
+
+## I – Issues 
+The central issue at hand was whether the restraint of trade clause in the Independent Contractor agreements was enforceable, notably concerning the following:
+
+1. Does the appellant have a proprietary interest in the skills and know-how of the first and second respondents, thereby justifying the enforcement of the restraint clause?
+2. Does the designation of the respondents as independent contractors rather than employees affect the enforceability of the restraint clauses? 
+3. Does the restraint clause contravene public policy, particularly under the Labour Relations Act 66 of 1995? ([4], [8]).
+
+## R – Rules 
+The enforceability of restraint of trade agreements is governed by principles that underlie the common law and act in South African jurisprudence:
+
+1. Such agreements are valid unless they are deemed unreasonable or contrary to public policy ([8]).
+2. In evaluating reasonableness, courts must consider whether the restraint protects a legitimate interest of the employer without merely aiming to restrict competition ([8], [9]).
+3. A restraint could be considered void if it unduly restricts an employee's right to work in their chosen field, unless the employer can prove a proprietary interest in the employee’s skills ([9], [20]).
+4. The distinction between protectable "trade secrets" and general skills or knowledge accrued by employees is critical; the former is protectable while the latter typically is not ([9], [20]).
+
+## A – Application 
+The court applied these principles by analyzing the nature of the skill and knowledge that the appellant sought to protect:
+
+1. The appellant claimed proprietary interest in the skills and knowledge of its former employees, asserting that their know-how related to the design, manufacture and commissioning of marking machines was confidential and unique to its business ([11], [13]).
+2. However, the court noted that the mere assertion of confidentiality and uniqueness did not suffice. It emphasized that the respondents' expertise had been acquired over their employment but was part and parcel of their general skill set as artisans and toolmakers. Consequently, these skills could not be claimed as proprietary to the appellant ([15], [20]).
+3. The court observed that, during the design and manufacturing process, the respondents' involvement was primarily in manufacturing—hence, any skills they acquired in this process were not confined to the appellant's exclusive knowledge, but rather integral to their professional development ([16], [20]).
+4. The evidence showed that similar machinery could be manufactured by various engineering firms, thus undermining the claim that the appellant possessed unique know-how ([14], [19]).
+
+Ultimately, the court determined that the restraint sought by the appellant aimed to prevent competition rather than protect a legitimate proprietary interest, making it unreasonable and contrary to public policy ([20]).
+
+## C – Conclusion 
+The Supreme Court of Appeal upheld the High Court's decision, dismissing the appeal with costs. The court concluded that the restraint clause was unenforceable because the appellant failed to establish a proprietary interest in the skills or know-how of its former employees ([20]). This ruling has broader implications, reinforcing the principle that while employers can seek to protect their interests, they cannot unduly restrict the economic freedoms and professional mobility of their employees. The court reiterated that there must be a clear boundary between the employer's interests and the general skills acquired by employees, framing the application of public policy within the realm of competitive labor markets ([20]).
+
+This case serves as a critical touchstone in understanding the limits of restraining employee movement in relation to the proprietary claims of employers, emphasizing the protection of employee rights in the context of restrictive covenants.

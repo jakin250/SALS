@@ -1,0 +1,38 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2022
+
+## FIRAC Case Note: Villa Crop Protection (Pty) Ltd v Bayer Intellectual Property GmbH [2022] ZACC 42
+
+### F – Facts  
+The case commenced in the High Court of South Africa, Gauteng Division, Pretoria, where Bayer Intellectual Property GmbH (Bayer) initiated patent infringement proceedings against Villa Crop Protection (Pty) Ltd (Villa Crop) regarding Bayer’s South African patent number 2005/00230, related to the chemical compound spirotetramat, which is the main active ingredient in Bayer’s product, Movento ([1]–[2]). Villa Crop's product, Tivoli, also contained spirotetramat, which directly competed with Bayer's Movento.
+
+Bayer alleged damages due to the infringement of its patent, while Villa Crop disputed the validity of Bayer's patent, claiming it was ineligible for protection under various provisions of the Patents Act, 57 of 1978. Villa Crop argued the invention was not new and pointed to European patent number O 915 846 as evidence that spirotetramat had existed in the public domain before Bayer's priority date for its patent ([4]–[7]).
+
+Following its counterclaim for revocation based on alleged misrepresentations by Bayer, Villa Crop sought leave to amend its plea to introduce a special plea of unclean hands, asserting that Bayer had acted dishonestly in its application and statements regarding the novelty of spirotetramat ([8]–[10]). The Court of Patents denied this request, determining that the proposed amendment involved complex factual inquiries that would delay proceedings and complicate matters unnecessarily ([11]). Villa Crop’s subsequent appeals in the Supreme Court of Appeal also failed, leading it to seek leave to appeal from the Constitutional Court of South Africa ([14]).
+
+### I – Issues  
+The primary legal issues stem from the determination of whether:
+1. The refusal by the Court of Patents to grant Villa Crop leave to amend its pleadings constituted a misapplication of the legal test, which engages the jurisdiction of the Constitutional Court ([24]–[33]).
+2. Villa Crop’s case raised a substantial constitutional matter or an arguable point of law of general public importance regarding honesty and integrity in patent litigation ([25]–[29]).
+3. The introduction of the special plea of unclean hands represents a legitimate common law defense against Bayer’s patent claims, separate from statutory grounds for revocation ([71]).
+
+### R – Rules  
+The key legal authorities and doctrines involved include:
+- **The Patents Act, 57 of 1978**, specifically sections 61(1)(g) regarding grounds for revocation and definitions relating to patent validity ([4]–[6]).
+- **Common law principles concerning amendments** to pleadings, notably that amendments should generally be allowed unless they are made in bad faith or would cause irremediable injustice ([12],[37]).
+- **The doctrine of unclean hands**, which prevents a party who has engaged in dishonest conduct related to the matter at hand from seeking relief from the court ([71]).
+- Precedents such as *Affordable Medicines Trust v Minister of Health* [2006] ZACC 3, which outline principles governing amendments to legal pleadings in ways that respect access to justice and fair processes ([12],[37]).
+
+### A – Application  
+Upon examining the submissions, the Constitutional Court arrived at pivotal conclusions regarding the Court of Patents' refusal to grant leave to amend:
+
+1. **Jurisdiction**: The first judgment posited that the issues raised by Villa Crop did not constitute a constitutional matter but rather a misapplication of legal principles, arguing that the refusal of the amendment did not unjustifiably impact access to justice. However, this was contested in the majority judgment, which recognized that the incorrect application of legal standards effectively denied Villa Crop its right to frame its defense, implicating section 34 of the Constitution ([54]–[68]).
+
+2. **Arguable Point of Law**: Villa Crop advanced the notion that its special plea had merit in that it invoked a fundamental principle regarding honesty in patent law. The majority judgment indicated that the issues of integrity in enforcing patent rights would resonate beyond this case, thus qualifying as an arguable point of law of wider significance ([71]–[80]).
+
+3. **Assessment of the Special Plea**: The Court's analysis reflected that the special plea should not merely be dismissed as redundant because it echoed grounds already pleaded in the counterclaim. The alleged misconduct by Bayer, if proven, could form a legitimate basis for non-suit, indicating that the lower court misapprehended the implication of the unclean hands doctrine, which is indeed applicable within patent law ([88]–[92]).
+
+### C – Conclusion  
+The Constitutional Court granted Villa Crop’s application for leave to appeal, underscoring that the Court of Patents' refusal to permit an amendment based on an erroneous legal standard was itself a breach of constitutional rights. The Court determined that the proposed special plea should have been permitted, as the unclean hands doctrine has relevance in the patent context. As a result, the appeal was upheld, setting aside the order of the Commissioner of Patents and granting Villa Crop leave to amend its pleadings to introduce the special plea of unclean hands ([88]–[93]).
+
+This case serves to illustrate the balance courts must strike between administrative efficiency in patent litigation and the protection of fundamental principles of justice, fairness, and integrity in legal proceedings. The implications resonate throughout the patent system, reinforcing the necessity for honesty in the application and enforcement of patent rights.

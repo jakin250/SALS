@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Purveyors South Africa Mine Services (Pty) Ltd v Commissioner for the South African Revenue Services
+
+**Court Citation:** Purveyors South Africa Mine Services (Pty) Ltd v Commissioner for the South African Revenue Services (135/2021) [2021] ZASCA 170 (7 December 2021)
+
+**Coram:** Petse AP, Mathopo, Schippers, Mokgohloa JJA, and Molefe AJA
+
+**Heard:** 16 November 2021  
+**Delivered:** 7 December 2021
+
+## F - Facts
+The appellant, Purveyors South Africa Mine Services (Pty) Ltd (hereinafter "Purveyors"), entered into a dry lease agreement with Freeport Minerals Corporation in January 2015 for an Embraer 135 LR Aircraft, primarily used to provide air charter services to Tenke Fungurume Mining SARL in the Democratic Republic of Congo (DRC) ([3],[5]). Over time, ownership of Purveyors changed, with CMOC DRC Limited acquiring 100% ownership in November 2016 ([6]).
+
+In early 2017, Purveyors sought clarification regarding its Value Added Tax (VAT) obligations concerning the aircraft’s import, after receiving advice from PricewaterhouseCoopers (PwC) indicating that VAT and penalties were due ([8]–[11]). Following several communications with the South African Revenue Services (SARS), including warnings about penalties, Purveyors applied for Voluntary Disclosure Relief under section 227 of the Tax Administration Act 28 of 2011 (TAA) on 4 April 2018 ([12]–[13]). SARS rejected this application, claiming it was not "voluntary" as it had prior knowledge of the tax liabilities in question due to earlier communications and prompts from its own officials ([14]–[18]). The Tax Court upheld SARS's rejection, leading to the appeal before the Supreme Court of Appeal ([13]).
+
+## I - Issues
+The central issue for determination was whether SARS was justified in rejecting Purveyors' voluntary disclosure application on the basis that it did not comply with the requirements under section 227 of the TAA, specifically whether the disclosure was made voluntarily ([14]). This implicates the matter of whether prior knowledge of the defaults by SARS negated the voluntary nature of Purveyors' subsequent disclosure ([18]).
+
+## R - Rules
+Section 227 of the TAA specifies that for a voluntary disclosure to be valid, it must meet several criteria, including:
+- It must be "voluntary" ([2]a).
+- It must involve a default that has not occurred within five years of a similar disclosure ([2]b).
+- It must be full and complete in all material respects ([2]c).
+- It should not result in a refund due by SARS ([2]e).
+- It must be made in the prescribed form and manner ([2]f).
+
+The interpretation of "voluntary" within this context signifies that the disclosure must be made out of one's own free will, without compulsion or prompting from SARS ([19]). The court relies heavily on previous judgments interpreting tax legislation, emphasizing the need to assess tax statutes objectively while considering the statutory language and intent ([18]).
+
+## A - Application
+The court assessed the facts against the requirements of section 227 of the TAA. It noted that Purveyors, prior to its application, had acknowledged its tax liabilities through various interactions with SARS and had been prompted to regularize its position through those communications ([21]). Notably, evidence was clear that Purveyors was aware of its obligations and consequences of non-compliance, leading the court to conclude that the voluntary nature of the disclosure was compromised ([22]–[24]).
+
+The court further clarified that a valid voluntary disclosure must not be associated with prior knowledge or prompts from SARS, as this would undermine the program's intent to encourage voluntary compliance. Consequently, the application was determined not to be voluntary as it was motivated by an imperative to avoid penalties ([28]).
+
+## C - Conclusion
+The Supreme Court ruled against Purveyors, affirming the rejection of its voluntary disclosure application by SARS. The court found that the application did not satisfy the requirements outlined in section 227, primarily due to the lack of voluntariness and the prior knowledge SARS had regarding the defaults ([30]). The case underscores the importance of ensuring that voluntary disclosures are truly voluntary and not prompted by prior communication from tax authorities, thus highlighting the strict adherence to the conditions established under the TAA. The appeal was dismissed with costs, which included the costs of two counsel ([31]).
+
+### Implications
+This judgment reinforces the critical nature of voluntary compliance in tax matters and clarifies the thresholds for valid voluntary disclosure, setting precedent for future cases concerning taxpayer obligations and communication with SARS. It reiterates that disclosures prompted by prior awareness of defaults do not qualify for relief under the TAA, aiming to uphold the integrity of the tax compliance system.

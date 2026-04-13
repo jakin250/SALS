@@ -1,0 +1,53 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2009
+
+## Case Note: Brümmer v Minister for Social Development
+
+### FIRAC Method
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–12])**
+
+In *Brümmer v Minister for Social Development* [2009] ZACC 21, the applicant, Stefaan Conrad Brümmer, a journalist, sought access to information held by the Department of Social Development under the Promotion of Access to Information Act 2000 (PAIA). The requested records pertained to a government tender awarded to the IT Lynx Consortium, crucial for Brümmer’s investigative reporting. The Department initially refused the request, citing the ongoing civil litigation related to the matter and concerns about potential prejudice to the trial's fairness. This refusal was upheld by the Minister for Social Development. 
+
+Brümmer subsequently filed for a review in the Western Cape High Court, seeking condonation for his late application, as he missed the 30-day deadline stipulated by section 78(2) of PAIA. The High Court concluded that it had the authority to condone the late application but ultimately denied it due to a perceived lack of satisfactory explanation for the delay and the applicant’s lack of success in the underlying review. It then declared section 78(2) unconstitutional, remarking that the 30-day timeframe imposed by that section excessively restricted the right to judicial access and was unjustifiable under the criteria prescribed in section 36 of the Constitution.
+
+The order of invalidity regarding section 78(2) was referred to the Constitutional Court for confirmation, which involved three applications: confirmation of the High Court’s order, leave to appeal against its decision refusing condonation, and an application for amicus curiae status from the South African Human Rights Commission.
+
+---
+
+**I – Issues: Legal or Constitutional Questions ([paras 2, 6, 35])**
+
+The case raised several critical legal questions:
+1. Which provisions of PAIA should govern applications to court challenging a decision that denies access to information?
+2. If applications to court are governed by section 78(2), is the 30-day limitation constitutional concerning the rights guaranteed under sections 32 and 34 of the Constitution?
+3. In the event section 78(2) is unconstitutional, what is the appropriate remedy?
+
+---
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 38–70])**
+
+The Constitutional Court's judgment was guided by several statutory provisions and precedents:
+
+1. **Promotion of Access to Information Act (PAIA)**: Specifically sections 77 and 78 which outline the procedures and limitations regarding access to information and the appeals process.
+2. **Constitution of the Republic of South Africa**: Sections 32 and 34 protect the rights to access information held by the state and the right to access courts, respectively. 
+3. **Judicial Precedents**: The court analyzed previous decisions regarding the constitutionality of time bars and their compatibility with the right to judicial redress, notably in *Barkhuizen v Napier* [2007] ZACC 5, and *Mohlomi v Minister of Defence* [1996] ZACC 20.
+
+---
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 48–70])**
+
+The court found that there was an irreconcilable conflict between sections 77(5)(c) and 78(2) concerning the timelines prescribed for lodging applications, concluding that section 78(2) governed applications to court due to its specificity in dealing with applications regarding access to information.
+
+In determining the constitutionality of the 30-day limit in section 78(2), the court engaged in a proportionality analysis under section 36 of the Constitution. It found that the time limit imposed an unjustifiable restriction on the constitutional rights to access the courts and access to information. The court emphasized that the existing timeframe failed to provide an adequate opportunity for requestors, particularly individual litigants, to seek judicial relief effectively, especially in light of the cost and procedural complexities involved.
+
+Despite the argued need for time limits to prevent delays in litigation, the court determined that the 30-day restriction was excessively burdensome, specifically for ordinary individuals needing access to information. The court further noted that the legislative intent for time limits could be honored with a longer and more accessible period of 180 days, which would adequately balance the need for expediency with the rights of requestors.
+
+---
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 72–89])**
+
+The Constitutional Court confirmed the High Court's declaration of invalidity regarding the 30-day limit in section 78(2). The court ordered a suspension of this ruling for 18 months, allowing Parliament to rectify the provision while instituting an interim measure permitting a 180-day limit from the date the requestor receives notification of the decision on their appeal. This new limit is meant to provide a fair opportunity for individuals to file their applications without unreasonably restricting access to justice.
+
+The court highlighted the case’s broader implications for access to information in South Africa, affirming the fundamental importance of transparency and the right to information in fostering a democratic society. It established that PAIA must serve its purpose without imposing unreasonable barriers to access justice or information. The ruling underlined the need for an effective framework that encourages civic engagement and government accountability, ensuring that mechanisms for access to information are both accessible and functional.
+
+**Implications:** The decision signifies a pivotal advancement for access to information rights in South Africa, setting a precedent that reorients legislative interpretation towards greater transparency and accountability within public bodies. The call for legislative amendment reflects ongoing challenges in harmonizing legal provisions with constitutional principles.

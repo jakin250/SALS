@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# Case Note: **NDPP v Van Staden & Others** (730/2011) [2012] ZASCA 171
+
+## FIRAC Case Note
+
+### F – Facts
+
+This case revolves around an appeal by the National Director of Public Prosecutions (NDPP) following a decision of the Western Cape High Court, which refused to confirm a provisional restraint order issued under Section 26(1) of the Prevention of Organized Crime Act 121 of 1998 (POCA). The provisional order, originally granted on 12 December 2008, aimed to restrain Johannes Erasmus van Staden and twelve others from dealing with property related to fraud against the South African Revenue Service (SARS), particularly concerning fraudulent VAT returns ([1–2]).
+
+Two affidavits were submitted in the High Court: one from J K Rossouw, deputy director at the National Prosecuting Authority, and another from F P Scholtz, an investigator at SARS. Scholtz indicated a suspicion of fraudulent activities from investigations he conducted in 2008 ([2]). The High Court granted provisional orders but later ruled that the NDPP had acted in bad faith due to its reliance on oral statements from an employee, C de Vries, rather than producing an affidavit from him, which was provided later in the process ([3–6]). The High Court's refusal to confirm the order led to the NDPP appealing that decision.
+
+### I – Issues
+
+The core issue in this case was whether the NDPP acted in good faith when seeking the provisional restraint order and whether the High Court was correct in refusing to confirm that order based on a perceived lack of good faith ([3, 6]). Additionally, the implications of the NDPP's conduct in the context of ex parte applications and the proper legal standards for determining reasonable grounds for the issuance of restraint orders were also central ([10, 12]).
+
+### R – Rules
+
+The legal framework relevant to this case is primarily found in the Prevention of Organized Crime Act, particularly Sections 25 and 26, which establish the judicial processes for obtaining restraint orders ([7–9]). 
+
+1. **Section 25** requires reasonable grounds for believing that a confiscation order may be made, which applies both before a prosecution is instituted and when charges are pending ([8]).
+2. **Section 26** allows for ex parte applications—where the NDPP can seek provisional orders to prevent any person from dealing with property pending further court proceedings ([9]).
+3. The principle of **utmost good faith** (uberrima fides) in ex parte applications — which obligates the applicant to fully disclose all relevant material and ensures fairness ([13-14]).
+
+### A – Application
+
+The court analyzed whether the NDPP's failure to present De Vries's sworn statement at the initial ex parte application constituted bad faith. It highlighted that the NDPP had disclosed De Vries's potential involvement and that he had been advised of his right to legal counsel. The pivotal question was whether the lack of the affidavit at that moment was detrimental enough to amount to bad faith[^1]:
+
+- The High Court's reasoning relied heavily on the assertion that the NDPP should have secured De Vries's statement before seeking the provisional order. However, it was noted that non-disclosure in the context of ex parte proceedings, while fundamental, does not necessarily preclude future relief in motion proceedings ([16])[^2]. 
+- The appeal considered the evidence presented regarding Van Staden's control over fraudulent operations. The NDPP was able to demonstrate reasonable grounds for believing that there would be a conviction and that a confiscation order against Van Staden's assets was plausible, given that fraudulent VAT returns amounting to R246 million were involved ([24]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately ruled in favor of the NDPP, overturning the High Court's decision and confirming the provisional restraint order. The Court emphasized that the mere lack of one piece of evidence (De Vries's affidavit) at the time of the ex parte application did not suffice to establish bad faith, especially given the NDPP's substantial evidence that supported the existence of reasonable grounds for believing in the likelihood of conviction and subsequent confiscation ([34]).
+
+The implication of this ruling illustrates the balancing act that courts must perform between ensuring fair judicial procedures and the need to prevent the dissipation of proceeds from unlawful activities promptly. The decision reinvigorated the interpretation of procedural fairness within the context of POCA and affirmed the NDPP's role in maintaining asset restraint in circumstances where there is evidence of potential wrongdoing.
+
+---
+
+### References
+
+[^1]: *National Director of Public Prosecutions v Rautenbach* 2005 (4) SA 603; 2005 (2) SACR 530 (SCA).
+[^2]: *Trakman NO v Livschitz* 1995 (1) SA 282 (A).

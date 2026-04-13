@@ -1,0 +1,65 @@
+Case Note: CASE NUMBER: 222/95
+Source Folder: 1996
+
+# FIRAC Case Note: CG CASE NUMBER: 222/95
+
+**COURT**: Supreme Court of South Africa (Appellate Division)  
+**JUDGE**: Plewman JA  
+**HEARD ON**: 15 August 1996  
+**DELIVERED ON**: 25 September 1996  
+
+---
+
+### F - Facts
+
+The appellant, Hix Networking Technologies CC ("Hix"), engaged in the importation and sale of computer hardware and software, appealed against an order from the court a quo dismissing its application for an interim interdict to restrain the publication of an article titled "Novell moves on grey market," which was to be published in the trade journal ComputerWeek on 20 February 1995 ([paras 2-3]). The respondents, System Publishers (Pty) Limited ("System"), the owner of ComputerWeek, and Hendlers (Pty) Limited, the printer and distributor, were involved in the publication ([para 2]).
+
+The article, authored by Frank Heydenrych, discussed Novell Incorporated's actions to control the distribution of its software products, particularly addressing the grey market in South Africa ([paras 4-7]). On 14 February 1995, Novell South Africa (Proprietary) Limited ("Novell SA") notified Hix of its ownership of copyright in the Novell products and warned it against distributing grey market products ([paras 5-6]).
+
+Hix objected to the article, stating it was defamatory and that its publication would cause irreparable harm to its reputation and business ([para 8]). Initially, Hix sought an interim interdict on 17 February 1995, resulting in a postponement of the matter ([para 8]). The application was subsequently dismissed on the grounds of the respondents' justification for the article’s content ([paras 10-11]).
+
+### I - Issues
+
+The crucial legal issue in this case was whether Hix established sufficient grounds for an interim interdict against the publication of the article due to alleged defamation. Specifically, the court needed to determine:
+
+1. **Whether Hix had a prima facie right** to seek the interdict.
+2. **Whether there was a well-founded apprehension of irreparable harm** to Hix's reputation if the article were published.
+3. **What standards should be applied** in the context of defamation claims regarding interim interdicts ([paras 11-14]).
+
+### R - Rules
+
+The principles guiding the grant or refusal of an interim interdict are well-established in South African law:
+
+1. A **prima facie right**.
+2. A **well-grounded apprehension of irreparable harm** if the interdict is not granted.
+3. The **balance of convenience** must favor granting the interdict.
+4. The applicant must have **no other satisfactory remedy** ([para 14]).
+
+The court also reaffirmed the classic approach to defamation, particularly referencing **Setlogelo v Setlogelo** 1914 AD 221, and underscored the importance of free speech, invoking **Section 15 of the Constitution of South Africa** and the balancing of interests involved ([paras 18-19]).
+
+### A - Application
+
+In applying these principles, the court considered whether Hix demonstrated a prima facie case of defamation. The initial focus was on the nature of the statements made in the article and whether they could be deemed defamatory. Hix's key arguments included that the article implied its operations were illegitimate and that its stock was unauthorized ([paras 31-33]).
+
+However, upon analysis, the court found that:
+
+- The phrases that were asserted to be defamatory were not published in the final article.
+- The claims made by Hix regarding reputational harm were unsubstantiated with respect to the content that was actually published.
+- The respondents provided a substantial defense based on the justification of truth and public interest relating to the distribution of Novell products ([para 22]).
+  
+Furthermore, the court noted that Hix failed to provide an undertaking to cover potential losses that could result if the interim interdict were to be granted and later found incorrect ([para 30]). This lack of commitment to indemnify the respondents contributed to the court's determination that the balance of convenience favored the respondents.
+
+### C - Conclusion
+
+Ultimately, the Supreme Court dismissed Hix's appeal, affirming the lower court's decision to reject the application for the interim interdict. The court concluded that Hix had not established a prima facie case of defamation and recognized the importance of freedom of expression in journalism ([para 34]). The implications of this decision underscore the need for a careful balancing of interests between reputational rights and the freedom of the press, particularly in situations involving contentious public discourse. 
+
+The court's ruling serves as a significant reference point for cases involving defamation and interim interdicts, emphasizing the necessity for clear evidence when claiming defamation and the paramount nature of free speech in a democratic society ([para 23]).
+
+---
+
+**Citations**:  
+**Setlogelo v Setlogelo** 1914 AD 221  
+**Buthelezi v Poorter** 1974 (4) SA 831 (W)  
+**Du Plessis and Others v De Klerk and Another** 1996 (3) SA 850 (CC)  
+**Mohammed v Jassiem** 1996 (1) SA 673 (A)  
+**Heilbron v Blignaut** 1931 WLD 167

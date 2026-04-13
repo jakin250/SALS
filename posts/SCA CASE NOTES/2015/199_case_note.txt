@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+## Case Note: Newton Global Trading (Pty) Ltd v Da Corte (104/15) [2015] ZASCA 199
+
+### FIRAC Method
+
+#### F – Facts
+The case of *Newton Global Trading (Pty) Ltd v Da Corte* centers around business rescue proceedings initiated under section 129 of the Companies Act 71 of 2008. The appellant, Newton Global Trading, a company involved in chrome processing, adopted a resolution for voluntary business rescue on 31 May 2013, appointing Mr. Re-Marius Hamel as its business rescue practitioner. However, significant procedural missteps occurred: the notice of resolution was filed late, and a required publication of relevant notices to affected parties was not conducted ([1]).
+
+Subsequently, on 10 July 2014, the appellant sought an urgent interdict against the respondent, Eddie Da Corte, seeking to prevent him from entering or operating the chrome processing plant located on the leased premises. The respondent contested the application on several grounds, including a non-joinder claim regarding other entities and a contested locus standi of the appellant based on alleged failures in the business rescue process under the Companies Act. The High Court ruled these points in favor of the respondent, leading to the dismissal of the application. The appellant subsequently appealed this decision ([2]–[5]).
+
+#### I – Issues
+The appeal raised critical legal questions regarding:
+1. The implications of non-compliance with statutory requirements set forth in section 129 regarding business rescue procedures.
+2. Whether the failure to comply with these procedural requirements rendered the business rescue resolution a nullity and impacted the standing of the appointed business rescue practitioner ([4]–[5]).
+
+#### R – Rules
+The legal rules at the center of this case derive primarily from the Companies Act 71 of 2008:
+- **Section 129(3)** outlines the obligations of a company following the adoption of a resolution to commence business rescue, particularly the necessity of notifying affected parties and appointing a qualified business rescue practitioner.
+- **Section 129(5)** specifies that failure to comply with the prescribed obligations results in the business rescue resolution lapsing and being deemed a nullity.
+- Relevant jurisprudence includes prior cases where failure to meet the statutory timelines led to the nullification of business rescue proceedings, notably *Panamo Properties (Pty) Ltd v Nel & another* and *Madodza (Pty) Ltd v Absa Bank Ltd* ([6]–[9]).
+
+#### A – Application
+The Supreme Court of Appeal assessed the enforced statutory frameworks to determine the consequences of non-compliance with section 129. The court scrutinized the lower court's ruling that deemed the business rescue proceedings a nullity due to the appellant's failure to comply with subsection (3) and (4) of section 129. The court emphasized that while the resolution may have lapsed due to procedural non-compliance, it does not automatically terminate the business rescue proceedings unless a court orders otherwise ([6]–[8]).
+
+Significantly, the court highlighted that challenges to the business rescue practitioner’s standing could not thrive on points of procedural non-compliance unless the resolution itself had been set aside. The court rejected the respondent's argument that he, as a non-affected party, could challenge the standing of the business rescue practitioner, stating that the absence of the designation of 'affected person' does not grant greater rights concerning the business rescue resolution than those possessed by an affected person ([9]).
+
+#### C – Conclusion
+The Supreme Court of Appeal concluded that the appeal succeeded based on the understanding that business rescue proceedings remain valid until a court liquidates the resolution to commence them. Ultimately, it held that procedural non-compliance did not annul the appointment of the business rescue practitioner, allowing the appellant to retain locus standi in pursuing the application ([10]–[12]). The ruling underscores the necessity for strict adherence to procedural requirements in business rescue proceedings while clarifying the judiciary's role in adjudicating the legitimacy of business rescue processes, serving as both a caution and a benchmark for corporate compliance under the Companies Act.
+
+The matter was remitted to the High Court for addressing the remaining merits of the case, while awarding costs to the appellant, including the costs for two counsels, which sets a precedent for how similar issues could be treated in future cases ([12]).

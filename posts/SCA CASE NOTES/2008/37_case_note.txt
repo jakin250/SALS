@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+### Case Note: Buckman Laboratories v Bromine Compounds (655/06) [2008] ZASCA 37
+
+---
+
+**FIRAC Methodology**
+
+---
+
+#### F – Facts
+
+In the case of **Buckman Laboratories (Pty) Ltd v Bromine Compounds Limited** ([1]) the appellant, Buckman Laboratories, appealed against a judgment from the court of the commissioner of patents (court a quo), which had decided in favor of the respondent, Bromine Compounds Limited, regarding alleged patent infringement. The patent at the center of the dispute was titled “Process and Compositions for the Disinfection of Waters”, particularly aiming to kill microorganisms in water systems with high chlorine demand.
+
+The court a quo had dismissed Buckman's counterclaim seeking the revocation of Bromine's SA Patent 92/4018 on the grounds of lack of novelty and inventiveness, ordering Buckman to refrain from infringing the patent ([1]). The court found that, should the patent be valid, Buckman had indeed engaged in actions constituting infringement as it utilized a similar process in various paper mill plants ([3]).
+
+Buckman's counterclaim argued that the invention was not novel and lacked an inventive step, primarily based upon prior art and established scientific understanding up to the patent's priority date of June 3, 1991 ([2], [4]). The main components of the claimed process involved mixing chloramine precursors and ammonium salts to create a biocidal mixture for controlling biofouling in water systems ([2]).
+
+#### I – Issues
+
+The legal questions at hand included whether Bromine's patent should be upheld as valid under the provisions of the Patents Act 57 of 1978, particularly regarding the requirements of novelty and inventive step as stated in sections 61(1)(c) and 25(1) of the Act ([4], [27]). Specifically, the appeal focused on the second aspect—the inventive step, especially in the context of how the biocidal mixture should be employed ([3], [27]).
+
+#### R – Rules
+
+The key legal provisions relevant to the case were found in the **Patents Act 57 of 1978.** Under section 61(1)(c), a court may revoke a patent on grounds of lack of patentability, which includes not being inventive as per section 25. An invention is regarded as having an inventive step if it is not obvious to a person skilled in the art, considering the state of the art immediately preceding the priority date of the patent ([4]). The patent system requires the invention to not only be novel but to also involve a certain degree of ingenuity or non-obvious innovation over existing knowledge ([18]).
+
+The testimony presented relied heavily on various expert witnesses and documented evidence to establish the state of the art in microbiological control in water systems ([6], [10]). They evaluated a wide range of prior patents and scientific literature relating to chloramines, highlighting practices used even before the patent's priority date, emphasizing that chloramines had long been recognized for their effectiveness in water treatment ([4], [25]).
+
+#### A – Application
+
+The court's analysis involved a deep dive into expert opinions and relevant literature regarding the method of disinfection claimed in the patent. It considered whether the combination of steps in the claimed process (mixing chloramines and ammonium salts followed by immediate application) constituted an inventive leap or merely reflected established practices that a practitioner in the field would consider commonplace ([20], [22]).
+
+Notably, Professor Cloete emphasized that the stability of the biocide didn't merit essential concern—the practice of adding biocides immediately following their formation was a logical step, especially given the potential volatility of certain compounds ([19], [25]). The court, nevertheless, contended that this method, already intuitive for skilled practitioners in the field, did not constitute an adequate inventive step, particularly in light of existing patents and literature that suggested similar applications.
+
+The argument centered on the assertion that the patent’s claims lacked novelty because the entire process (minus the immediacy of application) was already known in prior arts, such as the Baker patent, which detailed biocidal applications of chloramines as early as 1921. The court found that the additional stipulation regarding immediate application was not innovative enough to warrant patent protection ([12], [18], [27]).
+
+#### C – Conclusion
+
+The Supreme Court of Appeal ultimately upheld Buckman Laboratories' appeal on the grounds that Bromine’s patent lacked an inventive step, thus invalidating the claims ([27]). The court dismissed the action instigated by the respondent and granted the counterclaim for the revocation of the patent ([29]). The ruling underscored the vitality of assessing both novelty and inventiveness in patent claims, reiterating that mere findings of functionality do not suffice to establish patent validity where established practices exist. 
+
+The case is significant as it highlights the crucial interplay between established industry practices and the requirement for genuine innovation in patent law, reinforcing the principle that patents should not encumber the public domain with inventions that do not exhibit a substantial departure from prior knowledge.

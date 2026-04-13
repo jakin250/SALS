@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Groundprobe Pty Ltd and Another v Reutech Mining (Pty) Ltd and Others ([2021] ZASCA 22)
+
+## F – Facts
+
+The appeal of Groundprobe Pty Ltd and Groundprobe South Africa (Pty) Ltd (hereinafter "the appellants") against Reutech Mining (Pty) Ltd and two related entities (hereinafter "the respondents") arose from a patent infringement action concerning South African patent 2012/08400, entitled “Work Area Monitor” ([para 3]). The patent involved a radar system used to monitor slope stability in open cast mines, intended to detect potential collapses and ensure safety ([para 9]).
+
+The appellants contended that the respondents infringed their patent by manufacturing and selling work area monitors known as MSR 060V and MSR 120V, which incorporated a radar and an interferometric processor mounted on the back of a vehicle. The respondents admitted to conducting these activities but counterclaimed for the revocation of the patent, alleging that it lacked an inventive step ([para 4]). The Court of the Commissioner of Patents (Neukircher J) dismissed the appellants' action and upheld the counterclaim, determining that the patent was obvious to a person skilled in the art as of the priority date, namely 16 August 2011 ([para 5]).
+
+On appeal, the issue narrowed to the sole ground of lack of inventive step ([para 6]). The relevant technical background indicated that radar systems mounted on vehicles had existed in military applications since World War II, establishing a common knowledge base pertinent to the determination of inventive step ([paras 19–20]).
+
+## I – Issues
+
+The core legal issue was whether the patent claims 1 and 27 were invalid for lacking an inventive step, as defined in Section 25(1) of the Patents Act 57 of 1978 ([para 6]). Specifically, the court needed to determine if the invention was non-obvious to a person skilled in the art, considering existing knowledge and technology at the relevant time, which included prior radar applications ([para 7]).
+
+## R – Rules
+
+The relevant statutory rules governing this case are found within the Patents Act 57 of 1978. Particularly, Section 25(1) establishes the requirements for patentability, mandating that an invention must involve an inventive step that is not obvious to a person skilled in the art ([para 6]). The court elaborated that "obviousness" is a factual question for which the onus lies with the respondents, requiring them to establish that the claimed invention lacked inventive ingenuity ([para 8]).
+
+The determination of whether an invention involves an inventive step follows a structured approach laid out in prior cases, notably in *Ausplow (Pty) Ltd v Northpark Trading 3 (Pty) Ltd* ([para 8]), which includes identifying the person skilled in the art, their common knowledge, and assessing whether any differences between prior art and the invention are non-obvious ([para 8]). Furthermore, the court referenced tests for inventive step from significant precedents, notably the *Roman Roller* case, suggesting that the combination of elements claimed in a patent should not merely be dissected but assessed in its entirety ([para 15]).
+
+## A – Application
+
+In applying the law, the court found that the inventive step primarily suggested by the appellants stemmed from the mere mounting of a known radar system on a motor vehicle, which had previously been used in trailers ([paras 2, 18]). The court emphasized that this transition did not introduce a novel technical solution and was, in fact, common practice across fields utilizing radar technology ([para 19]).
+
+The court assessed the prior art, which included military applications of vehicle-mounted radar systems. Given that radar technology had already been successfully adapted for vehicular use, the court found the argument for an inventive step unpersuasive. It concluded that there was significant documentation illustrating the commonplace nature of such radar installations, undermining the novelty of the appellants' claims ([paras 19-22]).
+
+The court also scrutinized the technical details of the claims, noting that the so-called stabilisation apparatus was a standard feature across existing radar systems ([para 20]). The evidence presented demonstrated that the stabilisation aspects claimed were not unique but rather part of known techniques within the radar deployment sphere ([para 21]).
+
+Consequently, the court concluded that the only element that might qualify as having an inventive character—mounting the radar on a motorised vehicle—was not indicative of a step forward relative to existing technology and thus did not meet the required threshold for inventive step ([para 22]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, concluding that the patent claims lacked validity due to the absence of an inventive step ([para 23]). The decision reaffirmed the principle that patents should not be granted for inventions that do not represent significant advancements over existing technologies, thus serving the public interest by avoiding undue restrictions on industry. The court mandated that the appellants pay the costs of the appeal, which included the costs associated with retaining two counsel ([para 23]).
+
+In essence, this case highlights the stringent standards applied to claims of inventive step within South African patent law. The decision serves as a reminder that lack of novelty in a claimed invention, even when framed within a new context, is insufficient to secure patent protection.
+
+---
+
+This case note provides a structured analysis of the *Groundprobe Pty Ltd and Another v Reutech Mining (Pty) Ltd and Others* decision, which bears significant implications for intellectual property law, particularly in the patentability of technological innovations.

@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note
+
+**Case Title: De Beers Marine (Pty) Ltd v Harry Dilley (Pty) Ltd (Case No: 413/22) [2023] ZASCA 110 (19 July 2023)**
+
+## F – Facts
+[1] The appellant, **De Beers Marine (Pty) Ltd** (De Beers), owned an **autonomous underwater vehicle (AUV)** used for seabed mapping off Namibia. On **27 October 2017**, during sea trials in False Bay, the AUV suffered a communication failure, leading it to ground on rocks near Simon’s Town. 
+
+[2] Following the grounding, the respondent, **Harry Dilley (Pty) Ltd** (HD), sought a **salvage reward** in the amount of **R10 million**, later reduced to **R7,647,231.54** and alternatively **R5,525,288.23**. The High Court determined HD was owed a reward of **R5,525,288.23**, calculated at **10%** of the replacement cost of the AUV, which was set at **US $3.5 million** or **R55,252,882.20**.
+
+[3] Prior to the incident, HD and De Beers had established a **2017 contract** for the charter of a workboat, MV Nkwaza, owned by Mr. Dilley. Prior contracts also existed, but the focus was on HD's duties in this particular charter. During the recovery operation executed post-grounding, HD engaged divers to assist in the retrieval and towed the AUV back to the harbor.
+
+## I – Issues
+[15] The primary legal questions were:
+1. Were the services rendered by HD considered to have been undertaken voluntarily, thereby justifying a salvage reward under **Article 17** of the **International Convention on Salvage, 1989** (the Salvage Convention)?
+2. If so, was the salvage reward assessed by the High Court appropriate under **Article 13(1)** of the Salvage Convention?
+
+## R – Rules
+[16] The legal principles governing salvage and the recoverability of a reward are primarily outlined in the **International Convention on Salvage, 1989** (the Salvage Convention), incorporated into South African law through the **Wreck and Salvage Act 94 of 1996**. Key provisions include:
+- **Article 13(1)**: Criteria for fixing the salvage reward, which considers the salved value of the property and the skill and efforts of the salvors.
+- **Article 17**: Establishes that no payment is due unless the services rendered exceed what can reasonably be considered due performance of an existing contractual obligation.
+
+[16-18] The notion of "voluntary" services in salvage law has been historically established, as demonstrated in precedents such as **Kennedy & Rose** and relevant case law that reinforces this principle. 
+
+## A – Application
+[15-25] The court evaluated whether HD's actions constituted voluntary salvage services or were simply part of their contractual obligations under the 2017 contract. The High Court found that HD had rendered voluntary services beyond their contractual obligations since the AUV had already grounded, concluding that no obligations were active once the AUV was out of water. 
+
+Central to the court's analysis was the examination of **tacit terms** that De Beers alleged were incorporated within their agreement with HD. After extensive examination, the court determined that there was no basis for implying that preventing and recovering an AUV was within HD's contractual mandate. Consequently, this confirmed the voluntary nature of HD’s actions.
+
+[27-42] In determining the appropriate salvage reward, the court scrutinized key factors as per Article 13(1) of the Salvage Convention. The original High Court assessment set the reward at **10%** of the replacement value, which was later challenged and recalibrated by the Supreme Court.
+
+Key considerations included the lack of extraordinary danger during the salvage operation, the absence of HD’s specialized salvage equipment, and HD’s non-professional status. The court ultimately concluded that while the AUV was valuable, the reward must reflect the actual services rendered, leading to the adjustment of the salvage reward from **R5,525,288.23** to **R80,000**.
+
+## C – Conclusion
+[45] The Supreme Court's judgment adjusted the reward to **R80,000**, factoring in the evidence, the appropriate criteria for assessing rewards, and historic principles of salvage law, affirming that while HD performed valuable services, the disproportionate nature of the reward assessed by the High Court merited correction. 
+
+The ruling held that the services rendered did not warrant a reward reflective of the replacement value of the AUV, resonating with the broader principles of fairness and encouraging salvage operations, thereby setting a significant precedent in the law of salvage within the South African context.
+
+Given the adjustments, the costs of the appeal were ordered to be shared, solidifying the principle that each party must bear its own costs in related disputes, especially where both parties encountered a measure of success. The alterations will affect how salvage operations, rewards, and contractual obligations are interpreted within maritime and salvage law in South Africa moving forward.

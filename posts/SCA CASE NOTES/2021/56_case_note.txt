@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Bobroff and Another v The National Director of Public Prosecutions [2021] ZASCA 56
+
+## F - Facts
+The case arises from an appeal against a forfeiture order issued by the Gauteng Division of the High Court in Pretoria concerning assets situated outside South Africa. The first and second appellants, Ronald Bobroff and Darren Bobroff, were former attorneys accused of financial improprieties, including theft, fraud, money laundering, and violations of tax legislation ([paras 2–6]).
+
+On 28 July 2017, the High Court granted an interim preservation order regarding funds in various bank accounts in Israel, asserting these were proceeds of unlawful activities. The Bobroffs, who were residing in Australia at the time, contested both the jurisdiction of the South African High Court and the NDPP’s claims regarding the unlawful nature of the funds. While the High Court found the funds were indeed proceeds of unlawful activities and ruled in favor of forfeiture, the Bobroffs appealed this decision ([paras 2-4]).
+
+The NDPP’s case rested on extensive evidence, including client complaints, a whistleblower affidavit from a former bookkeeper, and findings from investigations into their law practice, which revealed a pattern of misconduct involving the misappropriation of client funds and violations of the Contingency Fees Act ([paras 3-6]).
+
+## I - Issues
+The appeal raised critical legal questions regarding:
+1. Jurisdiction: Did the High Court have jurisdiction to issue a forfeiture order under the Prevention of Organised Crime Act (POCA) regarding property located outside South Africa and owned by persons residing abroad?
+2. Proceeds of Unlawful Activities: Did the NDPP establish that the assets in question constituted proceeds of unlawful activity as defined in the POCA? ([paras 1, 2]).
+
+## R - Rules
+The court primarily relied on the following legal frameworks:
+1. **Prevention of Organised Crime Act 121 of 1998 (POCA)**: This act permits the forfeiture of proceeds of unlawful activities, asserting broad jurisdictional powers regarding assets.
+2. **International Co-operation in Criminal Matters Act 75 of 1996 (ICCM Act)**: Facilitates the enforcement of forfeiture orders across borders, allowing South African courts to request foreign states' assistance in executing such orders.
+3. **Superior Courts Act 10 of 2013**: Defines the jurisdictional limits of the High Courts of South Africa, stating the court’s authority may extend beyond mere physical presence within its territory if legislatively supported ([paras 8, 9, 19]).
+
+## A - Application
+**Jurisdiction**: The court undertook a two-stage inquiry regarding jurisdiction, first assessing the statutory framework established through the Courts Act and the POCA. It confirmed that POCA provides for extraterritoriality in forfeiture orders, allowing jurisdiction when the property involved is derived from unlawful acts, irrespective of the property being situated outside South Africa. This interpretation aligns with the changing landscape of international criminal law, where jurisdiction increasingly transcends territorial boundaries to tackle cross-border crime ([paras 7–11, 13–14, 17]).
+
+The court explicitly stated that the effectiveness of the judgment could be achieved through mechanisms provided under the ICCM Act, bolstering the NDPP's claim that South African courts can issue orders enforceable internationally ([paras 18–21]).
+
+**Proceeds of Unlawful Activities**: The court also examined whether the NDPP substantiated that the Bobroffs' funds constituted 'proceeds of unlawful activities.' Among the evidence presented were numerous allegations of theft, fraud, and financial misconduct involving abuse of client funds as gleaned from the books and affidavits, particularly from whistleblower Ms van Wyk. The court found these allegations supported the NDPP's claims, concluding that the funds in the foreign accounts could be traced back to unlawful activities conducted in South Africa ([para 26, 28, 35, 39]).
+
+The definition of 'proceeds of unlawful activities' was interpreted broadly, allowing the court to connect the nature of the funds in the context of extensive financial misconduct and money laundering practices by the Bobroffs ([paras 17, 40]).
+
+## C - Conclusion
+In conclusion, the Supreme Court of Appeal of South Africa upheld the High Court's finding and order for forfeiture. It ultimately established both the jurisdiction of the High Court over assets outside its territory and the status of the funds as proceeds of unlawful activity under the POCA. Thus, the forfeiture order was amended to exclude certain amounts not proven to be derived from unlawful activity, but the majority of the appeal was dismissed. This ruling underscores significant implications for the jurisdiction of South African courts in transnational crimes and the enforcement of forfeiture orders on a global scale ([paras 60, 61]).
+
+### References
+- Prevention of Organised Crime Act 121 of 1998
+- International Co-operation in Criminal Matters Act 75 of 1996
+- Superior Courts Act 10 of 2013
+- National Director of Public Prosecutions v R O Cook [2004] 2 SACR
+- National Director of Public Prosecutions v Botha NO and Another [2020] ZACC 6
+- National Credit Regulator v Opperman and Others [2012] ZACC 29
+
+This FIRAC case note meticulously outlines the key aspects of the judgment, contributing to broader scholarly discussions on jurisdiction and the intersection of national and international law in forfeiture proceedings.

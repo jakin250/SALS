@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: FirstRand Bank Ltd v McLachlan and Others
+
+## FIRAC Case Note
+
+### F - Facts ([paras 2–6])
+In *FirstRand Bank Ltd v McLachlan and Others*, the Supreme Court of Appeal dealt with a debt review order previously granted by the Westonaria magistrate's court in favor of the second and third respondents, Roshen and Komarie Maharaj ([para 2]). This order, issued on 25 November 2011, was based on an application for debt review under Section 86 of the National Credit Act 34 of 2005 (NCA). The respondents, having entered into a loan agreement with FirstRand Bank for R2.1 million, experienced financial difficulties in 2010 and initially complied with the debt review order until June 2017. 
+
+The High Court set aside the magistrate's order on the grounds that it was void ab origine, leading to FirstRand Bank's appeal. The appeal was premised on the assertion that the debt review order did not adhere to the principles espoused in the NCA, primarily concerning the sufficiency of the monthly instalment to cover interest.
+
+### I - Issues ([paras 1, 18–21])
+The appeal raised two critical issues: first, the extent of the powers of a magistrate's court in making a debt review order as per Section 86(7)(c)(ii) of the NCA; second, the appealability of a rescinded debt review order which is deemed null and void ([paras 1, 20]).
+1. **Extent of Powers**: Did the magistrate's court have jurisdiction to issue an order that included a monthly installment insufficient to cover accrued interest?
+2. **Appealability**: Was the rescission order made by the magistrate's court appealable?
+
+### R - Rules ([paras 8–10, 12, 18, 21])
+The court primarily relied on the provisions of the NCA and relevant case law to interpret its applicability ([para 9]). According to Section 3 of the NCA, the purpose of the Act is to protect consumers against exploitation, foster equitable credit practices, and provide mechanisms for resolving over-indebtedness. Sections 86-88 provide specific guidelines for debt review and rescheduling of debts.
+
+The *Nedbank Limited v Jones and Others* judgment was pivotal, wherein the Western Cape High Court held that a magistrate's court lacked the jurisdiction to vary the contractual interest rate in a credit agreement, deeming any such order null and void ([para 7]).
+
+### A - Application ([paras 12–19])
+In applying these principles, the court examined whether the debt review order met the legislative intent of the NCA. The monthly installment set at R8,185.50 was substantially less than the amount required to cover monthly interest, leading to an accruing debt ([para 6, 17]). The court held that a debt restructuring proposal that does not satisfy the consumer’s obligations throughout the repayment period is inconsistent with the NCA’s goals. Consequently, the originally granted debt review order was found to be ultra vires and void ab origine, affirming the conclusions from *Jones*. 
+
+Additionally, the argument by the respondents that the judgment in *Jones* was not applicable at the time of the order was dismissed. The court clarified that interpretations of the NCA by prior judgments do not retroactively change the legislative text's meaning ([para 19]).
+
+Regarding appealability, the court concluded that the rescission order was not appealable as it did not possess the finality required under Section 83(b) of the Magistrates' Court Act 32 of 1944. The rescission merely reinstated the parties to their positions prior to the debt review order, thus lacking definitive jurisdictional attributes ([paras 20–22]).
+
+### C - Conclusion ([paras 24])
+The Supreme Court of Appeal upheld the decision of the magistrate’s court to rescind the debt review order, concluding that it was void from its inception due to its failure to comply with the NCA's requirements. The appeal was ultimately upheld with costs awarded to the appellant, including the costs of two counsel ([para 24]). This judgment reaffirms the necessity for debt review orders to effectively facilitate the satisfaction of consumers' financial obligations while offering meaningful protection against over-indebtedness, as envisaged by the legislative framework of the NCA. 
+
+In summary, *FirstRand Bank Ltd v McLachlan and Others* illustrates substantial jurisprudential developments in the interpretation and application of the National Credit Act in South Africa, ensuring the protection of vulnerable consumers in credit markets.

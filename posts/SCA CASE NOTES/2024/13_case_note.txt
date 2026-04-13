@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Lindsey and Others v Conteh (774/2022) [2024] ZASCA 13
+
+### F - Facts: Relevant Background and Procedural History ([paras 1–12])
+
+In the case of **Lindsey and Others v Conteh**, the Supreme Court of Appeal of South Africa dealt with an appeal stemming from a decision made by the Gauteng Division of the High Court, Johannesburg, which dismissed an application for provisional sentence sought by the appellants. The appellants, acting on behalf of **African Wireless Incorporated (AWI)**, filed a complaint against the respondent, **Alieu Badara Mohamed Conteh**, in the Superior Court of California, primarily involving a derivative action related to the alleged unauthorized transfer of shares.
+
+The litigation backstory began on August 12, 2014, when the appellants accused Conteh of transferring 51 shares in **Resotel SPRL** and 2 shares in **Congolese Wireless Network SPRL** without necessary approvals from AWI ([paras 4–5]). A judgment by default was obtained on May 13, 2016, and subsequent hearings led to various orders, including a ruling that established a constructive trust over the shares in question ([para 6]).
+
+On August 29, 2016, after a hearing, the Californian court ordered Conteh to surrender the shares to the appellants and assessed their value ([para 7]). Despite these orders, Conteh later sought to quash a writ of possession, asserting that the underlying judgment did not constitute a final money judgment, and his application was dismissed on December 15, 2016 ([paras 9–10]).
+
+The central issue arose when the appellants pursued provisional sentence in South Africa based on the Californian orders, which they claimed constituted a liquid document capable of enforcement in South African law. The high court dismissed their application, concluding that the judgments did not exhibit prima facie proof of a debt enforceable by provisional sentence ([paras 17–18]).
+
+### I - Issues: Legal or Constitutional Questions ([paras 1–12])
+
+The pivotal legal question before the Court was whether the California court orders, including a default judgment and subsequent enforcement orders, could be treated as a liquid document for enforcement purposes in South Africa, thus justifying applications for provisional sentence ([para 1]). More specifically:
+
+- Did the cumulative effect of the Californian orders provide sufficient proof of indebtedness equivalent to a money judgment under South African law?
+- What is the classification of the Californian court orders in terms of their enforceability in South Africa? 
+
+Additionally, the determination of the applicability of South African provisional sentence law to foreign judgments raised the question of how foreign judicial decisions are recognized and enforced domestically ([paras 18–19]).
+
+### R - Rules: Legal Authorities and Precedents Relied Upon ([paras 1–12])
+
+In elucidating the legal framework, the Court referenced established principles surrounding foreign judgments, particularly emphasizing the requirements outlined in **Jones v Krok**. These include:
+
+1. Jurisdiction of the foreign court.
+2. Finality and conclusiveness of the judgment.
+3. Recognition not contravening public policy.
+4. The non-fraudulent nature of the judgment.
+5. The absence of penal or revenue law enforcement implications.
+6. Non-preclusion by the **Protection of Businesses Act 99 of 1978** ([para 18]).
+
+Furthermore, the Court discussed the essence of provisional sentence, which allows a creditor with a liquid document to seek relief swiftly, emphasizing that such documents must represent unconditional debts evident on their face ([para 20]). The nature of a liquid judgment was highlighted in cases such as **Harrowsmith v Ceres Flats (Pty) Ltd**, which described the essential characteristics of liquidity requiring no extrinsic evidence to establish indebtedness ([para 21]).
+
+The Court also relied on previous cases, including **Williams v Jones** and **Richman v Ben-Tovim**, which affirm the necessity for foreign judgments to be treated as prima facie proof of debt owed, pending valid challenges by defendants in recognition and enforcement of such judgments ([paras 24–25]).
+
+### A - Application: Analysis of How the Court Applied the Law ([paras 1–12])
+
+In addressing the issues, the Court undertook a careful analysis of the character of the Californian orders. The appellants contended that the series of court orders cumulatively constituted a liquid document capable of enforcement as a monetary judgment under South African law. They argued that the California law allows for enforcement of a judgment for the possession of shares as though it were a money judgment, given the monetary value ascribed to those assets ([para 26]).
+
+However, the Court clarified that while Californian law permits such orders to be enforced in a manner akin to money judgments, they do not change the fundamental nature of the orders themselves. The focus was on what the orders ordered: they required a turnover of shares rather than a direct payment of money. Therefore, the court orders were not deemed to be money judgments per their initial classification, despite the potential for enforcement as such under California law ([paras 30–32]).
+
+The Court further discussed the implications of recognizing the foreign orders under South African law. It noted that South African courts do not apply foreign procedural laws directly but operate within the parameters established by the domestic judicial framework, thus hindering enforcement as a matter of course ([para 33]). This principle of sovereignty reinforced the distinction between the enforcement of the orders in California and their applicability in South Africa.
+
+### C - Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 1–12])
+
+The Supreme Court of Appeal ultimately upheld the High Court's dismissal of the appeal, confirming that the Californian court orders did not constitute a liquid document as required for provisional sentence under South African law ([para 36]). The core reasoning was that the orders did not present a clear and unconditional acknowledgment of a monetary debt, thereby failing to meet the necessary criteria for provisional sentence availability.
+
+The Court's reasoning solidified the legal backdrop concerning the enforcement of foreign judgments, particularly emphasizing the necessity for documents to be liquid and unequivocal in their acknowledgment of indebtedness. By affirming that the California court orders remained fundamentally non-monetary until specific conditions were met, the ruling underscored the importance of maintaining rigorous standards of judicial recognition and compliance with domestic law principles on foreign judgment enforcement.
+
+The implications of this ruling resonate with the broader landscape of international trade and commerce, accentuating the necessity for clear legal frameworks governing cross-border judgment enforceability and the potential hurdles faced by parties seeking to enforce foreign judgments in South Africa. The case highlights the critical interplay between domestic legal norms and international judicial cooperation.
+
+In conclusion, the appeal was dismissed with costs, reinforcing the notion that, while foreign judgments may facilitate substantial international commercial relations, such recognition must align with established principles of South African judicial practice ([para 37]).

@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: K2013046547/07 (South Africa) (Pty) Ltd and Others v Hyde Construction CC and Another (Case No 513/2020) [2021] ZASCA 82
+
+## FIRAC Method
+
+### F – Facts
+The dispute arose from an application made by the first respondent, Hyde Construction CC (Hyde), to the Western Cape Division of the High Court. Hyde sought to set aside the transfer of immovable property and the registration of a mortgage bond on the basis that they were void according to s 34(3) of the Insolvency Act 24 of 1936 (the Act) ([1]). The property in question, erf 2941 in Plettenberg Bay, had been sold from Blue Cloud Investments 40 (Pty) Ltd (Blue Cloud), the third appellant, to K2013046547/07 (South Africa) (Pty) Ltd (K company) around April 2014 for R36 million, facilitated by a loan from Investec Bank Limited ([6]).
+
+Hyde had previously been contracted to perform renovations for Blue Cloud, and disputes subsequently led to arbitration, in which Hyde was largely successful ([3–4]). Following a judgment in favour of Hyde in 2015, the financial situation of Blue Cloud deteriorated, resulting in shareholder contributions to service debts and mounting financial pressures ([5]). The loan for the sale of the property was provided by Investec, who required confirmation of Blue Cloud's status as a trader before advancing funds ([7]). An auditor provided a certificate asserting that Blue Cloud was not a trader, which became central to Hyde’s arguments ([8]).
+
+The initial ruling by Kusevitsky J in the High Court declared both the transfer and mortgage bond void, based on a finding that Blue Cloud was a trader as per the Act ([2]). The current appeal challenges this decision.
+
+### I – Issues
+The primary legal question revolves around the interpretation of s 34(3) of the Insolvency Act and the classification of Blue Cloud as a trader ([11]). Specifically, the issues can be summarized as follows:
+1. Was Blue Cloud a trader as defined in s 2 of the Act at the time of the transfer?
+2. If Blue Cloud was not a trader, does that mean the property transfer and mortgage bond are valid and not subject to the provisions of s 34(3) of the Act? ([10]).
+
+### R – Rules
+Relevant statutory provisions include:
+- **Section 34(3) of the Insolvency Act 24 of 1936**, which stipulates that a transfer is void against a creditor if the debtor (in this case, Blue Cloud) is a trader and the creditor instituted proceedings before the transfer ([9]).
+- **Definition of a trader** under **s 2 of the Act**, which includes individuals or entities engaged in the business of selling, buying, or renting properties for profit ([12]).
+- Precedents set forth in cases such as **McCarthy Ltd v Gore NO**, which clarify that the classification of an entity as a trader should hinge on its primary business activities ([13–14]).
+
+### A – Application
+The Court's determination of whether Blue Cloud constituted a trader involved careful assessment of its business activities. The core business activities of Blue Cloud had evolved over time, particularly as noted from the available facts. Blue Cloud’s operations had shifted towards holding properties for rental income rather than active trading of properties ([19]). On the date of transfer in August 2014, the company had not acquired new properties for over five years, casting doubt on whether its business model was that of a trader as defined in the Act ([21–22]).
+
+The Court critically evaluated the sales history of Blue Cloud’s properties and indicated that, while it had operated as a trader in earlier years, it had transitioned into a rental enterprise, suggesting that its core business had changed ([23–24]). The evidence suggested that properties were initially purchased for income-generation through rentals, indicating that the sale of section 1 was more incidental, targeted at improving financial viability following economic challenges ([20]).
+
+Ultimately, the Court concluded that Blue Cloud was not a trader at the time of transfer; thus, the provisions under s 34(3) did not apply ([29]). Consequently, neither the transfer of property nor the mortgage bond was to be deemed void due to Hyde's claims.
+
+### C – Conclusion
+The Supreme Court of Appeal upheld the appeal, overturning the High Court's finding that Blue Cloud was a trader at the time of the transfer ([30]). The judgment clarified that the provisions of s 34(3) of the Insolvency Act do not apply in this instance, affirming the legitimacy of the property transfer and the mortgage bond ([29–30]). This ruling has significant implications for property law and the interpretation of insolvency legislation in South Africa, particularly in determining the status of entities as traders, which influences creditor rights and insolvency proceedings. The appellant's successful claim underscores the importance of accurate categorization of business operations in legal dealings surrounding insolvency.

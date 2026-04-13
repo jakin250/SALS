@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2002
+
+# Case Note: De Beers Marine (Pty) Ltd v Commissioner for the South African Revenue Service [2002] 2 SCA 354 (RSA)
+
+## FIRAC Method Case Note
+
+### F - Facts
+
+The matter at hand involves De Beers Marine (Pty) Ltd (the Appellant) contesting a ruling made by the Commissioner for the South African Revenue Service (the Respondent) regarding excise duties on bunker fuel supplied to its vessels engaged in diamond exploration off the coast of Namibia. The fuel was delivered from a customs warehouse in South Africa to De Beers' mining vessels on the high seas, approximately 50 nautical miles from the South African coast ([1]–[2.9]).
+
+De Beers Marine operated six vessels registered in South Africa, used primarily for underwater diamond mining. These vessels often spent extended periods at sea and did not return to port frequently for resupply ([2.1]–[2.3]). The bunker fuel, needed for their operations, was delivered by a tanker, *Argun*, which transported the fuel from Caltex Oil (SA) (Pty) Ltd ([2.4]).
+
+The fuel deliveries were recorded as 'export' on forms submitted to the relevant authorities, with the 'country of final destination' noted as either Congo or Gabon, despite the consumption of the fuel occurring in Namibian waters ([2.6]–[2.9]). 
+
+The court at first instance held that the supply did not qualify as "export" under Section 20(4)(d) of the Customs Act 92 of 1964, as the delivery occurred to non-foreign-going vessels, and thus excise duties and levies were payable ([1], [11]).
+
+### I - Issues
+
+The core issue was the interpretation of the term "export" under Section 20(4)(d) of the Customs and Excise Act 92 of 1964. Specifically, the court needed to determine whether "export" simply meant to "take out of" South Africa or whether it necessarily entailed removal for importation into another country. Connected to this were two key sub-issues:
+
+1. Was the delivery of fuel on the high seas to vessels not classified as 'foreign-going' considered "export" for excise purposes? ([10]–[12]).
+   
+2. Did the supply of bunker fuel on the continental shelf, which is deemed to be part of the Republic under Section 5(b) of the Customs Act, constitute 'home consumption' rather than 'export'? ([13]–[19]).
+
+### R - Rules
+
+The relevant statutory provisions include:
+
+1. **Customs and Excise Act 92 of 1964**:
+   - Section 20(4)(d): states that no goods from a customs warehouse shall be delivered except for specified purposes, including export ([3]).
+   - Definition of 'home consumption' in Section 1: refers to 'consumption or use in the Republic' ([4]).
+
+2. **Maritime Zones Act 15 of 1994**:
+   - Section 5(b) states that the continental shelf is deemed part of the Republic for purposes of the Customs and Excise Act ([19]).
+
+Case law cited involved various dictionary definitions of "export," as well as rulings such as *Muller v Baldwin* and *Engen Petroleum Ltd and Others v Commissioner of Customs and Excise*, which touched upon definitions and applications of excise laws ([5]–[6]).
+
+### A - Application
+
+The court dissected the term "export" in relation to its statutory context, distinguishing between general and commercial meanings. It concluded that "export," while it may refer to removal from South Africa, requires a secondary element of use or consumption outside of South Africa which was not satisfied in this case. The vessels in question were South African and primarily operated within Namibian waters, negating the aspect of export ([10]–[11]).
+
+In addressing the applicability of Section 5(b) of the Customs Act, the court noted that the deemed continental shelf would mean bunkers delivered at the rendezvous point were still considered domestic, and thus the duties remained payable ([18]–[19]). The Commissioner’s reliance on "common customs area" provisions did not hold, as the court clarified that these applied only to land and territorial waters and did not extend to the continental shelf.
+
+### C - Conclusion
+
+Based upon the analysis above, the Supreme Court of Appeal upheld the findings of the court a quo, ruling that the delivery of bunker fuel to De Beers' vessels did not meet the legal requirement for "export" and thus excise duties and fuel levies were due. The court dismissed the appeal with costs, affirming the notion that for an export to be recognized, the items must be intended for use outside South Africa, a condition not fulfilled in this case. The ruling reinforces the need for clarity in how terms are defined in customs legislation and its implications for taxation, particularly in cross-border maritime operations ([22]).
+
+This case underscores the intricate balance of legislative interpretation and its practical impact on commercial maritime activities, particularly in a context involving multiple jurisdictions and regulatory frameworks.

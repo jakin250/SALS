@@ -1,0 +1,59 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Nurcha Finance Company (Pty) Ltd v Oudtshoorn Municipality (20821/2014) [2016] ZASCA 28
+
+## FIRAC Analysis
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–12])
+
+This case arises from an appeal to the Supreme Court of Appeal of South Africa concerning a contractual dispute regarding the non-payment of amounts due under a building contract. The appellant, **Nurcha Finance Company (Pty) Ltd**, entered into a bridging finance agreement with **Silver Buckle Trade (Pty) Ltd** (trading as Yethu Projects) to facilitate the completion of 663 houses awarded by the respondent, **Oudtshoorn Municipality**, through a tender process ([para 3]). 
+
+To secure this financing, Yethu instructed Oudtshoorn Municipality to pay funds directly into a designated project bank account rather than to itself, an arrangement solidified by an irrevocable undertaking from the municipality ([paras 5–6]). This undertaking acknowledged Nurcha’s rights in the project and mandated that all payments certified by the municipality’s project managers be directed into the project account ([para 6]). 
+
+Despite this, the municipality failed to pay three certified sums into the project account while paying them into a different account held by Yethu. This led to a significant breach of the agreement ([para 9]). Subsequently, due to Yethu’s failure to fulfill contractual obligations, the municipality canceled the building contract, and Yethu was liquidated ([paras 10–11]). Nurcha then sought damages from the municipality for the unpaid amounts, amounting to **R2,692,467.43**, asserting a breach of contract ([para 12]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 14–18])
+
+The principal legal issues identified for determination by the court were:
+
+1. **Whether Nurcha is entitled to rely on the municipality's failure to pay the certified payment certificates as a basis for its claim for damages.**
+2. **If so, whether the municipality is allowed to dispute its liability on the grounds that the payment certificates were not validly issued.**
+
+The trial court found in the negative regarding the first issue, which effectively barred consideration of the second ([paras 16–17]). This finding relied on the assumption that the cancellation of Yethu's contract with the municipality extinguished any claim Nurcha could assert based on the interim payment certificates.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 18–19])
+
+The trial court's ruling drew heavily on the doctrine established in earlier case law, particularly **Thomas Construction (Pty) Ltd v Grafton Furniture Manufacturers (Pty) Ltd** and others, which articulated that an interim payment certificate signifies a provisional and not a definitive claim to payment ([paras 18–19]). The court maintained that unless expressly stated, such certificates did not constitute final evidence of debt owed by the employer to the contractor.
+
+Furthermore, the importance of distinguishing between the interests of the contractor and those of the funding institution (in this case, Nurcha) was highlighted, as both parties had distinct contractual relationships with the municipality.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 20–26])
+
+In considering the underlying contractual frameworks, the Supreme Court of Appeal identified that Nurcha's legal position derived not from the interim certificates but rather from the municipality's express undertaking to make payments directly to it. This agreement was independent of any underlying contract between the municipality and Yethu ([para 21]). 
+
+The court articulated that the municipality's breach arose from its failure to comply with the specified directive to channel payments into the designated project account. The significance of the condition stipulated in the undertaking would prevail, irrespective of subsequently arising disputes between the municipality and Yethu due to the contract's cancellation ([paras 22–26]).
+
+The court decisively clarified that Yethu's inability to complete the project en bloc did not undermine Nurcha's claim, as it was substantially based on the independent agreement between the municipality and Nurcha, rather than contingent upon the performance of the main contract between the municipality and Yethu. Importantly, the rejection of the notion that Nurcha’s claim mutated into an unjust enrichment claim following the cancellation of the contract was a critical element of this determination ([para 25]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 28–29])
+
+The Supreme Court of Appeal concluded that Nurcha was indeed entitled to rely on the municipality’s failure to honor its contractual obligation as a basis for its damages claim. It ruled in favor of Nurcha, thereby reversing the trial court’s decision, which had denied the claimant's assertions ([para 26]). 
+
+Furthermore, the court’s determinations reinforced the sanctity of contractual commitments in construction finance agreements, establishing that independent contractual relations cannot be invalidated by unrelated cancellations in connected but distinct agreements. 
+
+The appeal was ultimately upheld, with the municipality ordered to compensate Nurcha the requisite sum plus interest and costs, demonstrating the court’s commitment to upholding contractual rights and remedies within the framework of South African commercial law. Therefore, the judgment addressed significant questions on the nature of obligations arising from contractual undertakings, asserting that the obligations detailed therein take precedence over linked but separate contractual relationships ([para 29]).
+
+---
+
+### References
+
+**Statutory and case law cited:**
+1. Thomas Construction (Pty) Ltd v Grafton Furniture Manufacturers (Pty) Ltd 1986 (4) SA 510 (N) (confirmed on appeal at 1988 (2) SA 546 (A)).
+2. Mouton v Smith 1977 (3) SA 1 (A).
+3. State Bank of India v Denel SOC Limited [2014] ZASCA 212 (3 December 2014).
+4. BK Tooling (Edms) Bpk v Scope Precision Engineering (Edms) Bpk 1979 (1) SA 391 (A).
+
+---
+
+This FIRAC case note provides a detailed analysis of the court's decision while adhering to statutory and case law precedents relevant to the contractual obligations at issue, making it suitable for citation, academic publication, and legal reference.

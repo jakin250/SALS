@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: The Commissioner for the South African Revenue Service and Others v Dragon Freight (Pty) Ltd and Others ([2022] ZASCA 84)
+
+## FIRAC Case Note
+
+### F – Facts
+The case revolves around the appeal regarding the seizure of 19 containers of clothing under the Customs and Excise Act 91 of 1964 by the South African Revenue Service (SARS). The key fact is that SARS contended that the importers (the respondents) had under-declared the transaction value, resulting in lesser customs duties being paid than required ([1]–[4]).
+
+The initial legal proceedings began when the respondents sought to review and set aside a previous decision by SARS regarding the detention of similar goods in January 2020. This earlier application was successful, also due to SARS's inability to provide proper evidence at that time ([6]–[8]). Despite previous suspicions about customs fraud from China leading to losses in the domestic industry, the respondents maintained that they sourced their goods from legitimate channels, although there were significant discrepancies in pricing declarations ([2]–[5], [3]).
+
+During the proceedings, the respondents did not respond adequately to SARS's requests for information and failed to furnish necessary evidence regarding the procurement of goods ([10]–[12]). Notably, the export declarations from Chinese customs indicated that the values declared to SARS were grossly lower—over 1000% less than the actual export values ([12]).
+
+Ultimately, on 13 August 2020, the impugned decision by SARS to seize the containers was challenged, arguing that the requirements of section 96(1) of the Act—which mandates a one-month notification prior to legal action—had not been met as no appropriate notice was delivered ([25]–[26]). The High Court ruled in favor of the respondents, compelling SARS to release the containers and pay costs associated with the challenge ([5], [26]).
+
+### I – Issues
+The pivotal legal issues in this case include:
+1. Whether SARS's decision to seize the containers was lawful, reasonable, and procedurally fair under section 88(1)(c) of the Customs and Excise Act ([1], [5]).
+2. Whether the respondents complied with the notification requirements pursuant to section 96(1) of the Act prior to initiating the review proceedings ([27]–[28]).
+3. The validity and admissibility of the export declarations as evidence in support of SARS's actions ([72]).
+
+### R – Rules
+The relevant legal frameworks implicated in this case include:
+
+1. **Customs and Excise Act 91 of 1964**:
+   - Section 88(1)(c): Allows the Commissioner to seize goods liable to forfeiture under the Act.
+   - Section 96(1): Requires a written notice detailing the cause of action be given before legal proceedings can be initiated.
+
+2. **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**:
+   - Section 6(2) provides grounds for challenging administrative decisions such as unreasonableness, procedural fairness, or unlawfulness.
+
+3. **Legal Precedent**:
+   - The principles from **Evins v Shield Insurance Co Ltd**, which define a 'cause of action' within the context of the required notification in section 96.
+   - The precedent set in **SARS v Prudence Forwarding**, which emphasized the necessity to deliver a notice regarding specific causes of action before seeking legal remedy ([37]).
+
+### A – Application
+The Supreme Court of Appeal exercised a thorough application of the aforementioned rules, particularly focusing on the nature of the procedural requirements under section 96(1). The Court reasoned that the respondents had not delivered a valid s 96(1) notice regarding the impugned decision as no 'cause of action' could be identified prior to the decision being made, thereby invalidating their claim ([35], [36]).
+
+Moreover, it emphasized the role of SARS, as an administrative body, to investigate and determine if there was sufficient reason for suspecting customs fraud, which it did by appropriately scrutinizing the discrepancies in values declared by the respondents and the substantial evidence against them ([45], [66]).
+
+In terms of procedural fairness, the Court found that the respondents were duly notified of the actions being considered against them and were afforded multiple opportunities to provide evidence supporting their claims. The claims of being uninformed were dismissed as the reasons for the seizure were well-documented in communications from SARS ([50], [53]).
+
+### C – Conclusion
+The Supreme Court of Appeal determined that SARS's decision was lawful and justified based on the evidence available, thus overturning the High Court’s ruling. Notably, the High Court was found to have misinterpreted the requirements of section 96(1) and overstepped its jurisdiction. Consequently, the appeal was upheld, and the costs were awarded against the respondents, affirming the need for strict adherence to procedural requirements in administrative law ([80]).
+
+This case underscores the importance of compliance with statutory notification requirements in administrative proceedings, alongside the significant burden placed on importers to substantiate claims involving transaction values for customs purposes. It reaffirms SARS's authority and responsibility in combating customs fraud, highlighting the challenges of ensuring accurate customs compliance in a landscape marked by potential manipulation of trade values.

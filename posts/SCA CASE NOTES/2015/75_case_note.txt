@@ -1,0 +1,30 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: FIRAC Analysis of *Za v Smith* (20134/2014) [2015] ZASCA 75
+
+### F – Facts  
+The appeal arises from a tragic incident on 27 June 2009, when Mr. Pieralberto Za ("the deceased") fell over a 150 metre sheer precipice at Conical Peak, in the Matroosberg private reserve, resulting in his death ([1]). The first respondent, Mr. André Frederik Smith, owns the reserve, while the second respondent, Matroosberg Reservaat CC, operates it for profit. Federica Za ("the appellant"), the deceased's wife and mother to their three minor children, initiated a delictual claim against the respondents for the loss of support. Her claim alleged negligent failure by the respondents to take reasonable steps to prevent the incident ([1]–[2]).
+
+Prior to trial, it was agreed to separate issues regarding the respondents' liability and the quantum of damages ([2]). The High Court (Griesel J), however, dismissed the appellant's claims on the ground that she failed to demonstrate a causal connection between the respondents' negligence and the deceased's death. This judgment was contested by the appellant as well as through a cross-appeal by the respondents concerning costs ([2]).
+
+### I – Issues  
+1. **Negligence and Wrongfulness**: Did the respondents have a legal duty to warn the deceased against the dangers posed by the conditions at Conical Peak, which may not have been apparent to visitors? 
+2. **Causation**: Was there a causal link between the respondents' alleged negligent conduct and the fatal accident? Did the findings regarding the deceased's prior experience and awareness of the terrain negate the need for warning signs or other preventative measures? ([14]–[30]).
+
+### R – Rules  
+The legal framework governing this case requires an analysis of:
+1. **Delictual Liability**: To establish liability in delict, the plaintiff must prove the elements of wrongfulness, negligence, and causation ([14]).
+   - **Wrongfulness**: As explained in *Country Cloud Trading CC v MEC Department of Infrastructure Development* [2014] ZACC 28, it considers whether public or legal policy allows for liability against the defendant ([15]).
+   - **Negligence**: Defined by the *Kruger v Coetzee* [1966] (2) SA 428 (A) test, involving foreseeability, the reasonable steps a diligent person would take, and whether those steps were taken ([18]).
+   - **Causation**: Utilizes the "but-for" test as set forth in *International Shipping Co (Pty) Ltd v Bentley* [1990] (1) SA 680 (A) to determine if the harm would have occurred but for the defendant's negligence ([30]).
+
+### A – Application  
+**Wrongfulness**: The respondents contended that there was no wrongfulness because the danger posed by the precipice was visible and clear to reasonable visitors. The High Court appeared to support this stance ([14], [15]). However, the Supreme Court of Appeal rejected this notion, emphasizing that wrongfulness must not be conflated with negligence. It held that the respondents owed a duty to protect visitors against hidden and latent dangers, particularly since the conditions (snow covering ice) could mislead even experienced individuals about the risk ([20], [21]).
+
+**Negligence**: The court further assessed whether the reasonable person in the respondents' position would have taken precautions against the dangers presented at Conical Peak. Testimonies revealed that several other visitors had not recognized the inherent dangers, suggesting that the risks were not immediately apparent. The court found that warnings or preventative measures (like signage or catch fences) could likely have mitigated the danger posed to unwary visitors ([25], [28]).
+
+**Causation**: The High Court's dismissal of the appellant's claims primarily rested on its finding that the risks were apparent to visitors acquainted with the area, notably Moggee, a close friend of the deceased. However, the Supreme Court pointed out the flaw in this reasoning; Moggee's experience did not equate to the deceased's awareness. It noted that the unique circumstances of the day, including the deceptiveness of snow covering ice, rendered Moggee’s prior knowledge irrelevant to the deceased's situation. Therefore, it concluded that the appellant established a probable causal link between the respondents’ failure to warn and the fatality ([29], [30][32]).
+
+### C – Conclusion  
+The Supreme Court identified that the trial court had erred in dismissing the claim based on an incorrect assessment of wrongfulness and causation. The court found that the respondents had indeed failed to provide adequate warnings or protective measures and that this negligence contributed to the deceased's fall. Consequently, the appeal was upheld, with the respondents held liable to compensate the appellant in her capacity as both an individual and guardian of her children. The cross-appeal for expert witness costs was dismissed ([32]). This ruling underscores the necessity for property owners to implement precautionary measures, particularly in contexts involving potential hazards that may not be obvious to the general public, reinforcing principles of public safety within the framework of delictual liability.

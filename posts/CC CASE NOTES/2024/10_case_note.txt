@@ -1,0 +1,55 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: City of Ekurhuleni Metropolitan Municipality v Rohlandt Holdings CC and Others [2024] ZACC 10
+
+## F – Facts
+
+The case concerns an appeal from the High Court of South Africa, Gauteng Division, regarding a consent order compelling the City of Ekurhuleni Metropolitan Municipality ("the City") to purchase several properties unlawfully occupied by certain individuals, referred to collectively as "the occupiers" ([1]–[2]). 
+
+In October and November 2017, a total of 16 residential buildings, privately owned, were unlawfully occupied, allegedly involving physical violence ([3]). Subsequent applications for eviction by the owners were initiated in the High Court, consolidating the applications under section 5 of the Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998 ("PIE") ([4]). On 12 February 2020, an agreement was reached between the parties, stipulated in a consent order that mandated the City to purchase the properties in question ([10]).
+
+Following the Covid-19 lockdown, the City contended that it had not been made fully aware of the implications of the consent order and, upon realizing that its attorney lacked proper authority to consent to such an onerous agreement, applied to rescind the order on 2 November 2020 ([11]–[12]). The application for rescission was denied by the High Court, which held that the attorney had acted with apparent authority, and that the requirements for a consent order as articulated in *Eke v Parsons* were satisfied ([13]–[14]).
+
+## I – Issues
+
+The key legal questions arising from this case include:
+
+1. Whether the consent order entered into was compliant with the requirements laid down by the Constitutional Court in *Eke* regarding settlement agreements ([17]).
+2. The determination of the attorney's authority to consent on behalf of the City and whether the City should be estopped from denying that consent ([18]).
+3. The impact of the consent order on the rights of the unlawful occupiers and whether it contravened constitutional and statutory provisions concerning procurement and property acquisition ([18]).
+4. Whether the delay in seeking rescission and the subsequent conduct of the City in the proceedings affected the courts’ decisions and the interests of justice ([26]).
+
+## R – Rules
+
+The applicable legal framework includes several key statutes and principles:
+
+1. **Constitutional Requirements**: Section 34 of the South African Constitution, which ensures the right to have disputes adjudicated in a fair public hearing, and the public procurement principles stated in section 217 ([17]).
+2. **Requirements for Consent Orders**: The *Eke v Parsons* framework necessitates that a court must ensure settlement agreements are: 
+   - Related to the underlying lis between the parties;
+   - Consistent with the Constitution, law, and public policy; and 
+   - Provide some practical or legitimate advantage ([48]–[49]).
+3. **Rules regarding Authority**: The principal-agent doctrine applies as articulated in *Kruizenga*, which affirms that an attorney cannot compromise a claim without the necessary authority from the client. The common law requirement for rescission underscores the necessity of a valid basis for any court orders ([13]).
+
+## A – Application
+
+Upon review, the Constitutional Court found that:
+
+1. **Compliance with *Eke***:
+   - The consent order did not satisfy the criteria set forth in *Eke*. The Court determined that the issues being settled in the consent order (particularly the order for purchase of the properties) were not central to the original lis concerning the eviction applications. Therefore, the first Eke requirement was not met ([56]).
+   - It was concluded that the consent order did not resolve the primary litigation. Rather, the City assumed responsibility without addressing the lawful eviction of occupiers or the stay application, which remained pending ([55]).
+
+2. **Authority of the Attorney**:
+   - It was held that the attorney, Mr. Maluleke, lacked the necessary authority to bind the City to the consent order. The attorney's actions, given the failure to comply with statutory requirements, rendered the consent order fundamentally flawed. The Court held that the City should not be estopped from denying authority in circumstances that give rise to illegality ([80]).
+
+3. **Public Policy and Practical Advantage**:
+   - The Court determined that the consent order did not confer a legitimate advantage as it failed to resolve the legal and housing uncertainty faced by occupiers or the claims of the property owners regarding lost income and outstanding municipal rates ([82]).
+
+4. **Delay in Application for Rescission**:
+   - The Court recognized the COVID-19 pandemic's impact on litigation and the excuse provided for the delay, ruling that a significant breach of the rule of law warranted rescission despite the suboptimal reasons provided ([92]). 
+
+## C – Conclusion
+
+The Constitutional Court ultimately ruled that the High Court erred in denying the rescission of the consent order. It accepted the merits of the City's application based on non-compliance with Eke and the attorney's lack of authority. The appeal was upheld, and the consent order was set aside, with the matter remitted back to the High Court for further proceedings ([104]–[105]). The Court further emphasized that each party must bear its own costs due to the unsatisfactory litigation conduct by all involved ([104]). 
+
+This decision provides clarity on the nature of consent orders within the context of unlawful occupations and reinforces the constitutional requirements for fair and lawful procurement processes by municipalities. The ruling underscores both the complexities of property rights in South Africa and the profound impact of unlawful occupations on legal proceedings.

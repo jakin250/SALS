@@ -1,0 +1,32 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Barnard Labuschagne Incorporated v South African Revenue Service and Another [2022] ZACC 8
+
+## FIRAC Method
+
+### F – Facts ([paras 1–5])
+The applicant, Barnard Labuschagne Incorporated (BLI), a firm of attorneys, contested a certified statement filed by the South African Revenue Service (SARS) on 15 December 2017. This statement, citing a debt of R804,747, was submitted to the Registrar of the High Court of South Africa, Western Cape Division, under sections 172 and 174 of the Tax Administration Act 28 of 2011 (TAA). The classification of this statement as a ‘tax judgment’ triggered BLI's subsequent application for rescission, arguing that payments had been made which SARS had failed to allocate correctly against the assessed taxes. The High Court found the tax judgment not susceptible to rescission, leading BLI to appeal this ruling, including a constitutional challenge against the TAA provisions, which was also dismissed. Leave to appeal to the Constitutional Court was later granted.
+
+### I – Issues ([paras 6–6])
+The central legal issues before the Constitutional Court included:
+1. Whether a tax judgment, classified under sections 172 and 174 of the TAA, is susceptible to rescission.
+2. The applicability of Chapter 9 of the TAA concerning disputes over alleged payments made against self-assessments.
+
+### R – Rules ([paras 7–39])
+The Court considered several rules and legal principles:
+- **Tax Administration Act (TAA)**: Sections 172 and 174 detail the process for filing a certified statement and classify it as a civil judgment. The TAA embodies the 'pay now, argue later' principle, as noted in various sections.
+- **Income Tax Act (IT Act) and Value-Added Tax Act (VAT Act)**: Provisions from these earlier legislations were considered, particularly the capabilities and rights regarding certified statements and their rescindability.
+- The jurisprudential precedents established in **Kruger I** and **Kruger II** ([paras 12–14]) confirmed that tax judgments are susceptible to rescission. The Constitutional Court's prior decisions in **Metcash** ([para 18]) reinforced existing principles relevant to tax judgments and paved the way for examining defenses in rescission applications, despite the 'conclusive evidence' clauses in tax legislation.
+
+### A – Application ([paras 27–46])
+The Constitutional Court evaluated previous precedents against the High Court's determination. It criticized the High Court’s failure to engage with binding authorities and its reliance on recent adverse decisions without due consideration of established law. A pivotal point emerged regarding the leeway given to taxpayers to challenge tax judgments based on defenses unrelated to the assessments themselves.
+
+The Court reiterated that BLI's concern centered around payments made, which does not fall under the definitions governed by Chapter 9 for grievances requiring objections or appeals, thereby making it valid for rescission proceedings. Thus, the issue at hand pertained to the tax judgment's rescindability rather than its legality per se.
+
+### C – Conclusion ([paras 49–51])
+The Constitutional Court upheld BLI's appeal, asserting the rescindability of tax judgments under the TAA. The order of the High Court was set aside, and the matter was remitted to the High Court for reconsideration by a different Judge. Costs incurred up to that point were deferred pending the merits being heard anew, while the respondents were ordered to cover BLI's costs from both previous appeals. This case importantly reasserted the principle of judicial oversight in tax judgments, reaffirming the authority of precedent in maintaining judicial consistency within the South African tax law framework.
+
+--- 
+
+This FIRAC analysis encapsulates the essence of the case while tracing its route through relevant legal principles, facilitating its understanding within the South African legal context.

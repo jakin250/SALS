@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2003
+
+# FIRAC Case Note: **Michael de Villiers N.O. and Brian Basil Nel N.O. v. BOE Bank Limited**
+
+**Court**: The Supreme Court of Appeal of South Africa  
+**Case No**: 477/2002  
+**Date of Hearing**: 29 August 2003  
+**Date of Delivery**: 26 September 2003  
+**Judges**: Howie P, Streicher, Navsa, Heher JJA, Van Heerden AJA  
+
+---
+
+## F – Facts
+
+The respondent, BOE Bank Limited (the "bank"), initiated action against the appellants, Michael de Villiers and Brian Basil Nel, serving as joint liquidators of Intramed (Pty) Ltd ("Intramed"), claiming payment of R101,458,341.07, plus interest ([1]).
+
+The claim was based on three separate loan agreements executed on 17 June 1999, designed for a total loan amount of R100 million to Intramed in connection with a broader acquisition scheme involving Macmed Health Care Limited ("Macmed") ([1]-[4]). Notably, both the loan agreements and the securities associated with them became due upon Intramed’s winding up ([1]).
+
+The appellants contended that the signatory, Alan Hiscock, was unauthorized, as he was not a director of Intramed and had not secured a formal resolution from the company authorizing the loans ([5]). Additionally, they argued that the funds advanced due to these agreements were not received by Intramed, as the amounts had been paid to Macmed without the requisite authorization ([5]-[6]). 
+
+The High Court, presided by Judge Ludorf, ruled in favor of the bank, leading to an appeal on three principal grounds: (i) the authorization of the loan agreements by Intramed; (ii) whether the funds were received by Intramed; and (iii) the lapsing of the agreements due to the non-fulfillment of suspensive conditions ([3]-[4]).
+
+## I – Issues
+
+### The key legal issues outlined in the case were:
+
+1. **Authorization of Loan Agreements**: Was Hiscock’s execution of the loan agreements authorized by Intramed?
+2. **Receipt of Funds**: Did Intramed effectively receive the R100 million advanced per the loan agreements?
+3. **Suspensive Conditions**: Did the agreements lapse due to the non-fulfillment of specified suspensive conditions? ([3]-[4], [60]-[80]).
+
+## R – Rules
+
+The Court evaluated the following legal principles and precedents relevant to the case:
+
+- **Corporate Authority**: The general principles governing company resolutions necessitate that important financial commitments typically require board resolutions, especially in the absence of explicit delegation of authority ([19], [51]).
+- **Doctrine of Unanimous Assent**: The case references established precedents asserting that even without formal resolutions, the unanimous agreement of directors can authorize decisions made on behalf of a company ([54], [55]).
+- **Waiver of Conditions**: According to contractual norms, specific provisions can be waived by the beneficiary unless explicitly stated otherwise. The Court noted that waivers typically must be in writing, especially when the agreement stipulates such conditions ([62]-[79]).
+- **Contractual Validity**: The validity of contracts and resolutions can be upheld despite procedural irregularities if it can be demonstrated that the relevant parties acted with the authority granted by prevailing agreements or resolutions ([54], [58], [80]).
+
+## A – Application
+
+### On Authorization:
+
+The Court examined the facts surrounding Hiscock’s involvement and the structure of Macmed and Intramed. It determined that Hiscock's role was central and well-known to the company’s directors and shareholders, despite his status as an unrehabilitated insolvent baring him from being a formal director ([23]-[26], [48]). The Court acknowledged that the directors and shareholders of Macmed appeared to have acquiesced to Hiscock's authority in executing the loan agreements ([54]-[58]).
+
+### On Receipt of Funds:
+
+The Court concluded that Intramed did effectively receive the R100 million, as evidenced by the financial transactions where Intramed paid the bank installments ([59]). The fact that funds were paid to Macmed’s account did not absolve Intramed's obligation as the borrower, reaffirming that a borrower could specify the payee in loan agreements without altering the borrower's liabilities ([59]).
+
+### On Lapsing of Agreements:
+
+Of significant importance was the assessment of whether the agreements lapsed due to non-fulfillment of suspensive conditions, specifically the absence of a written waiver of such conditions. The Court evaluated the textual mandate requiring formalities for waiver and established that the bank had continuously attempted to secure compliance but ultimately failed to document a waiver as required by contract ([60]-[80]). 
+
+It was determined that the agreements indeed lapsed due to this failure. Consequently, while the bank had a valid claim for restitution, it would only be entitled to recover a lesser amount due to the lapsing of the agreements, specifically the principle amount without accruing interest ([80]-[84]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal upheld the liquidators' appeal in part. The determination of the lower court regarding the authorization of the loan agreements was affirmed; however, it ruled that the loan agreements had lapsed due to non-fulfillment of critical suspensive conditions as they were not waived in writing by the bank, as mandated by the contract ([84]). 
+
+Thus, the final order included a reduction of the amount recoverable to R113,177,568.51, reflecting the significant implications for both corporate governance standards within South African company law and contract enforcement ([84]). The implications extend to the necessity for precise adherence to formalities in corporate resolutions affecting financial obligations, reinforcing the critical role of documentary confirmations in dealings of this nature.

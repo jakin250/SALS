@@ -1,0 +1,49 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Mfoza Service Station (Pty) Ltd v Engen Petroleum Ltd and Another [2023] ZACC 3
+
+## F – Facts: Relevant background and procedural history ([paras 1–15])
+
+The case at hand involved an appeal by **Mfoza Service Station (Pty) Ltd** (hereafter referred to as "Mfoza") against **Engen Petroleum Ltd** (the first respondent) concerning an interpretation of the **Petroleum Products Act 120 of 1977** (PPA), specifically section 12B(4)(a). The legal dispute arose from claims that Mfoza incurred damages due to alleged breaches of their lease agreement with Engen, which had resulted in loss of profits, goodwill, and property value. Mfoza asserted that Engen engaged in unfair and unreasonable contractual practices under the PPA, prompting a referral to arbitration by the **Controller of Petroleum Products**.
+
+Despite Mfoza seeking monetary damages, the arbitrator found that damages could be awarded in cases of unfair practices. However, the outcome of the arbitration was challenged in the High Court by Engen, which contended that the arbitrator exceeded his jurisdiction by awarding these damages, as the PPA only permitted corrective remedies (not compensatory damages). The High Court agreed with Engen, declaring the arbitrator's award invalid and indicating that his powers were restricted by statutory provisions of the PPA.
+
+Subsequently, Mfoza's application for leave to appeal was dismissed by the Supreme Court of Appeal, leading to the current matter being brought before the Constitutional Court on 17 May 2022.
+
+## I – Issues: Legal or constitutional questions ([paras 1–15])
+
+The salient issues presented for determination were:
+
+1. **Jurisdiction**: Does the jurisdiction of the Constitutional Court engage with the interpretation of statutory powers under the PPA?
+2. **Competence of Leave to Appeal**: Should leave to appeal be granted based on the potential for error in the interpretation of section 12B(4)(a)?
+3. **Remedial Powers of the Arbitrator**: Does section 12B(4)(a) of the PPA empower the arbitrator to grant damages or compensation as part of a corrective award arising from an unfair or unreasonable contractual practice?
+4. **Validity of High Court's Substitution**: Was the High Court's order of substituting the arbitrator’s award a competent action following the High Court's decision?
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 1–15])
+
+The court's judgment relied heavily on the interpretation of section 12B of the PPA and the existing jurisprudence:
+
+- The PPA’s Section 12B(4)(a) delineates the powers of the arbitrator in determining unfair or unreasonable contractual practices and mandates making “such award as he or she deems necessary to correct such practice”.
+- The court analyzed precedents such as **Engen Petroleum Limited v The Business Zone** and the **Crompton case** where the nature of the arbitrator's powers was critically evaluated.
+- A review of related principles of statutory interpretation emphasized the need for a purposive approach considering the social aims of the PPA, particularly its transformational objectives.
+
+The key legal principles stemmed from conceptions of corrective versus compensatory remedies, examining the legislative intent governing the remedial powers of arbitrators within the ambit of statute.
+
+## A – Application: Analysis of how the court applied the law ([paras 1–15])
+
+In its judgment, the majority opinion led by **Kollapen J** delineated a clear distinction between corrective and compensatory remedial powers. The court reasoned that section 12B(4)(a) expressly limited arbitrators to corrective powers focused on addressing the contractual practices at stake without extending to monetary compensation. 
+
+The court highlighted that while it acknowledged the breadth of the arbitrator’s powers, those powers were intrinsically tied to correcting practices rather than addressing past damages or hardships imposed by contract violations. Arbitrators are to focus on rectifying future and ongoing relationships rather than compensating for previous losses.
+
+In contrast, **Mhlantla J's dissent** maintained that the wide discretion afforded to the arbitrator would inherently include the capacity to award damages since monetary compensation could effectively correct an identified unfair or unreasonable practice. The dissent underscored that the arbitrator's role extends not just to immediate corrective measures, but also includes shaping fair future practices following an evaluation of both parties' actions.
+
+The initiating majority thus held that Engen’s objection was well founded, affirming that monetary damages are outside of the statutory remit granted to arbitrators under the PPA’s section 12B(4)(a).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 1–15])
+
+The Constitutional Court ruled that Mfoza's appeal was to be dismissed, maintaining that unter the PPA, particularly section 12B(4)(a), arbitrators could not award monetary damages as a form of remedy for alleged unfair contractual practices. The ruling emphasized that the role of the arbitrator is confined to corrective actions seeking to align conduct with the statutory obligations of fairness and reasonableness in contractual relationships. 
+
+Thus, the judgment delineates clear boundaries surrounding the powers of arbitration, framing a narrower interpretation of remedies available under legislative provisions, and highlights the importance of legislative intent in statutory interpretation. By setting a precedent in this case, the implications extend broadly to the contractual dynamics in the petroleum industry, emphasizing equitable transactions while delineating the limits on remedies available through statutory arbitration frameworks.
+
+In essence, while the decision underscores the constitutional court’s commitment to fairness in contract dealings, it also reiterates the need for clarity in arbitrators' powers and their limitations in achieving redress through compensation for past losses.

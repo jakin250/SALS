@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Trustco Group Holdings Limited v Financial Services Tribunal and Another (471/2023)
+
+## FIRAC Case Note
+
+### F – Facts
+
+The appeal originated from the decision of the Gauteng Division of the High Court, Pretoria, regarding assertions made by the Johannesburg Stock Exchange (JSE) pertaining to Trustco Group Holdings Limited's (Trustco) financial statements. Trustco, a listed entity on the JSE and the Namibian Stock Exchange, was required by the JSE to restate its financial statements for the year ending 31 March 2019 following allegations of non-compliance with accounting standards regarding substantial loans made by Dr. Quinton van Rooyen, Trustco's CEO and significant shareholder ([paras 1–3], [22]).
+
+On 22 November 2020, the JSE directed Trustco to correct errors in the reporting of over N$ 546 million in loans that had been wrongly classified as equity and reverse certain profits declared due to these transactions ([paras 3–4]). Following the JSE’s dismissal of an objection to its decision ([para 13]), Trustco applied to the Financial Services Tribunal (the Tribunal) for re-evaluation. The Tribunal, however, upheld the JSE's directive on 22 November 2021 ([paras 4–14]).
+
+Trustco subsequently sought judicial review of the Tribunal’s decision in the high court, raising three core issues: the constitutionality of the Tribunal panel, the JSE's authority to mandate financial statement restatements, and the premise of undue deference to the JSE ([paras 17–20]). Ultimately, the high court dismissed the review application, prompting Trustco’s appeal ([paras 27–46]).
+
+### I – Issues
+
+The primary legal and constitutional issues before the Supreme Court of Appeal were:
+
+1. **Composition Validity:** Whether the Tribunal panel, tasked with reviewing the JSE’s directive, was constituted in accordance with the requirements set out in the Financial Sector Regulation Act 9 of 2017 (FSR Act), specifically whether it required members with requisite expertise in financial matters ([paras 28–29]).
+
+2. **Extent of JSE's Power:** Whether the JSE possesses the authority under its Listing Requirements to mandate listed companies to restate their financial statements as opposed to merely reissuing them for compliance purposes ([paras 19–20]).
+
+3. **Standard of Review:** Whether the Tribunal improperly deferred to the JSE's expertise rather than exercising its independent judgment in considering the evidence submitted ([paras 42–43]).
+
+### R – Rules
+
+The court’s analysis relied upon several legal frameworks and precedents:
+
+1. **Financial Sector Regulation Act 9 of 2017:** Sections 220 and 224 outlined the composition and powers of the Tribunal panel, which include a preference for experienced members but lack an explicit requirement for financial expertise ([paras 30–34]).
+
+2. **Financial Markets Act 19 of 2012:** This Act grants the JSE wide-ranging authorities, including those enabling it to enforce compliance with its Listing Requirements, and to supervise listed entities to ensure that their statements align with International Financial Reporting Standards (IFRS) ([paras 32–33]).
+
+3. **Precedent Cases:** Reference was made to the decision in *Huge Group Ltd v Executive Officer: Financial Services Board*, which asserted that language within the JSE Listing Requirements permits directives for both reissuing and restating financial statements ([para 22]).
+
+4. **Administrative Law Principles:** The standard for administrative review under the Promotion of Administrative Justice Act 3 of 2000 (PAJA) was also significant, focusing on the bounds of procedural fairness and rationality in decision-making ([para 21]).
+
+### A – Application
+
+In analyzing the composition of the Tribunal, the court noted that the provisions of the FSR Act did not impose a statutory requirement for the inclusion of accounting experts in its panels ([paras 30–31]). Trustco’s arguments focusing on the necessity for such expertise were deemed unsupported by the explicit wording of the law.
+
+On the matter of the JSE’s directive authority, the court affirmed that the power to require restatements is embedded within the JSE’s broad privileges to enforce compliance and ensure the integrity of financial reporting. The ruling underscored the JSE’s pivotal role in protecting investors, highlighting that accurate financial representations are essential for market functionality ([para 33]).
+
+In addressing the undue deference claim, the court determined that the Tribunal did not automatically yield to the JSE’s findings. Instead, it conducted a thorough examination of the expert evidence presented by both sides and offered substantial reasoning for preferring the JSE’s expert opinions ([paras 43–44]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal concluded that the appeal was without merit and ultimately dismissed it, with costs awarded on an attorney-and-client scale due to Trustco’s conduct throughout the litigation ([paras 45–46]). The ruling reinforced the JSE’s authority in regulating financial disclosures while effectively clarifying the interpretative bounds of the FSR and Financial Markets Acts, paving the way for robust compliance practices within the South African financial markets.
+
+This outcome serves as a critical legal precedent concerning the balance between regulatory oversight by exchanges and the autonomy of listed entities, significantly shaping future compliance and accountability standards within South African corporate governance.

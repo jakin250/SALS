@@ -1,0 +1,60 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+### Case Note: Transasia 444 (Pty) Ltd v The Minister of Mineral Resources and Energy and Others (702/2023) & Transasia Minerals (SA) (Pty) Ltd v The Minister of Mineral Resources and Energy and Others (707/2023) [2024] ZASCA 145
+
+**FIRAC Method**
+
+---
+
+#### F – Facts
+
+The two appeals in question originated from disputes concerning mining rights related to Umsobomvu Coal (Pty) Ltd (Umsobomvu) and its transactions with Transasia 444 (Pty) Ltd and Transasia Minerals (SA) (Pty) Ltd (collectively, Transasia). Umsobomvu sold certain mining rights to Transasia 1 (Pty) Ltd, which subsequently assigned these rights to Transasia 444. Disputes arose when Umsobomvu alleged the sale agreement was void and sought to cancel it, a claim disputed by Transasia 444, leading them to seek ministerial consent for the transfer of rights as per s 11 of the Mineral and Petroleum Resources Development Act 28 of 2002 (MPRDA) ([paras 1–4]).
+
+On 28 June 2022, Umsobomvu obtained an order from the Gauteng Division of the High Court compelling a disclosure of records held by the Director-General of the Department of Mineral Resources and Energy, crucial for their subsequent appeal against the Minister's permission for the transfer of rights ([paras 5–6]). Notably, neither Transasia 444 nor Transasia Minerals was joined or served in that application, despite being substantially affected parties.
+
+Subsequently, on 15 July 2022, Transasia 444 applied for a rescission of the order under rule 42(1)(a) of the Uniform Rules of Court, contending that the order was erroneously granted without its participation ([para 7–9]). Millar J heard this rescission application but issued an unclear order, which effectively modified the terms of the original order granted by Mngqibisa-Thusi J ([paras 10–12]). This led to both Transasia 444 and Transasia Minerals eventually seeking leave to appeal, contesting the validity of the orders obtained against them ([paras 13–14]).
+
+Ultimately, the Supreme Court of Appeal was tasked with determining the appropriateness of Millar J's order and whether the rescission should be granted, considering the significant procedural missteps taken in the earlier proceedings ([paras 16–19]).
+
+---
+
+#### I – Issues
+
+1. **Procedural Validity:** Did the absence of Transasia 444 and Transasia Minerals from the disclosure application violate procedural fairness, requiring a rescission of Mngqibisa-Thusi J’s order?
+
+2. **Court Authority to Grant Rescission:** Was Millar J correct in his interpretation and application of rule 42(1)(a) in the context of the rescission application initiated by Transasia 444?
+
+3. **Effects of Orders:** What are the implications of the orders issued by Millar J, and do they overstep the authority granted by the initial decision of Mngqibisa-Thusi J?
+
+---
+
+#### R – Rules
+
+- **MPRDA:** Section 11 governs the conditions under which ministerial consent for the transfer of mineral rights may be granted ([para 4]).
+  
+- **Uniform Rules of Court:** Specifically, rule 42(1)(a) provides that a court may rescind or vary an order erroneously sought or granted in the absence of any party affected thereby ([para 8]).
+
+- **Relevant Case Law:** 
+   - Interpretation of court orders as established in *Democratic Alliance in re Electoral Commission of South Africa v Minister of Cooperative Governance and Others* emphasizes that court orders must be clear and comprehensive to avoid ambiguity ([para 15]).
+   - Precedents concerning the necessity of joinder for parties with a direct and substantial interest, as reiterated in *Judicial Service Commission v Cape Bar Council* ([para 20]).
+
+---
+
+#### A – Application
+
+The Supreme Court of Appeal identified significant procedural errors, noting that the original order compelling the disclosure of documents was devoid of the necessary consultation or inclusion of Transasia, who held a significant interest in the confidential information ([para 19]). This omission constituted a gross procedural irregularity, wherein Millar J failed to adequately address this non-joinder when ruling on Transasia’s application for rescission.
+
+In examining Millar J's decision, the court elucidated that the unclear nature of his order could be interpreted as a refusal of rescission rather than a modification, bound to follow principles of clarity in judicial pronouncements. Millar J's attempt to create a confidentiality regime within the existing disclosure order was deemed inappropriate as it circumvented critical considerations necessary for adjudication on the issue of confidentiality ([paras 16–24]).
+
+The court pinpointed that had Millar J adhered strictly to procedural rules, he would have either granted or denied the rescission directly without unnecessary alterations or introductions of new protocols, thereby mitigating the ambiguity associated with his judgment ([para 17]).
+
+---
+
+#### C – Conclusion
+
+The Supreme Court of Appeal concluded that Millar J's order was erroneous in both the procedural and substantive aspects. It held that the initial order by Mngqibisa-Thusi J was granted without the participation of necessary parties and thus was invalid. Subsequently, the court set aside Millar J’s order and granted rescission, allowing Transasia 444 to oppose the disclosure application ([para 25]). 
+
+Additionally, although Transasia Minerals was not an applicant in the rescission application, it was afforded the opportunity to benefit from the outcomes of Transasia 444's appeal, thereby allowing it to oppose the disclosure application as well ([para 24]). This ruling underscores the necessity of adhering to procedural fairness and due process in administrative and judicial proceedings, reinforcing the principle that all parties with a direct and substantial interest must be adequately included in such legal processes to safeguard their rights and interests. 
+
+The implications of this ruling reiterate the Supreme Court's commitment to procedural justice and the stringent adherence to statutory and common law requirements governing disclosure and the handling of confidential documents in administrative engagements in South Africa’s mining sector.

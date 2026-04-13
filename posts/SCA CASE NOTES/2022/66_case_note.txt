@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note Using FIRAC Method: Lutchman N.O. and Others v African Global Holdings (Pty) Ltd and Others; African Global Holdings (Pty) Ltd and Others v Lutchman N.O. and Others
+
+**Neutral Citation:** Lutchman N.O. and Others v African Global Holdings (Pty) Ltd and Others; African Global Holdings (Pty) Ltd and Others v Lutchman N.O. and Others (1088/2020 and 1135/2020) [2022] ZASCA 66 (10 May 2022)
+
+## F - Facts
+The case revolves around the financial distress and subsequent liquidation proceedings of the Bosasa Group of Companies, known now as African Global Operations (Pty) Ltd and its subsidiaries ([1]–[2]). Following revelations during the Zondo Commission regarding financial misconduct, banks withdrew their support from African Global Operations, leading to the directors deciding on voluntary winding-up under section 351 of the *Companies Act 61 of 1973* ([2]). 
+
+The liquidators were appointed and commenced their duties, but Holdings sought to overturn the voluntary winding-up, claiming the related resolutions were invalid ([3]). The High Court initially granted this application, necessitating an appeal to the Supreme Court of Appeal ([3]). In the interim, the liquidators were required to facilitate the sale of assets, which led to disputes regarding their authority ([4]).
+
+The crux of the matter further intensified when Holdings submitted an application for business rescue on December 3, 2019, arguing that this filing should automatically suspend the liquidation proceedings under section 131(6) of the *Companies Act* ([20]–[21]). The Provisional Liquidators proceeded with asset auctions beginning on December 4, 2019. This prompted Holdings to seek declarations that these sales were unlawful due to the alleged suspension of liquidation proceedings according to their understanding of section 131(6) ([20]).
+
+The High Court ruled favorably on the auction application, prohibiting the liquidators from continuing with the asset sales, while dismissing the business rescue application ([22]). Consequently, both parties appealed the High Court’s decisions regarding the handling of liquidation and business rescue ([5]).
+
+## I - Issues
+The major legal issues in this case can be summarized as:
+1. Whether the application for business rescue was “made” under section 131(6) of the *Companies Act*, thus suspending the ongoing liquidation proceedings prior to the commencement of the auction on December 4, 2019 ([21]).
+2. The interpretation of the Bhoola AJ order and whether the liquidators acted without requisite authority in proceeding with the auction ([43]).
+3. The appropriateness of the High Court's cost orders against the liquidators in relation to the business rescue application ([48]).
+
+## R - Rules
+In resolving the case, the court predominantly relied on the provisions of the *Companies Act 71 of 2008*, particularly sections significant to the business rescue proceedings and its interactions with liquidation, most notably sections 131(1), 131(2), and 131(6) ([23]–[24]). 
+
+Key judicial principles referenced include:
+- The interpretation of statutory provisions must follow the objectives and context of their legislative intent ([25]–[26]).
+- The definition of when an application is considered to have been “made” under section 131(6) encompasses not only submitting the application to the court but also serving it on the company, the Commission, and notifying all affected parties ([39]).
+- The principles governing the interpretation of court orders, which require that the manifest purpose of such orders is ascertained by scrutinizing the context in which they were made ([44]).
+
+## A - Application
+The Supreme Court held that the business rescue application was not properly “made” as the required procedural steps under section 131(2) were not adhered to; it had not been served appropriately on the liquidators or the Commissioner, and the notification to employees was insufficient ([41]). Furthermore, the court emphasized that merely lodging the documents with the registrar did not entail proper notification, hence failing to trigger the automatic suspension of the liquidation proceedings under section 131(6) ([42]).
+
+On the issue regarding the interpretation of the Bhoola AJ order, the court concluded that the liquidators possessed the legitimate authority to conduct the asset auction since the manifest intention behind the order was to permit asset sales under a specified consultation framework, which was not violated in subsequent actions ([47]). Thus, it determined that the original High Court erred in its interpretation regarding the role and authority of the liquidators.
+
+## C - Conclusion
+The Supreme Court of Appeal upheld the auction appeal, reinstating the authority of the liquidators to conduct the asset sales, and overturned portions of the High Court's cost order against the liquidators. The appeals against the business rescue application were dismissed, rendering it ineffective, and mandated that the High Court's orders related to the business rescue application be adjusted to reflect the liquidators' proper procedural compliance regarding their powers and authorities ([48]–[49]). 
+
+This judgment has significant implications for company law in South Africa, especially surrounding the interpretation of statutory provisions related to business rescue and liquidation processes. It underscores the importance of procedural strictness in securing business rescue and clarifies the separation and applicability of powers during liquidation proceedings.

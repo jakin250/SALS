@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Prevance Bonds (Pty) Ltd v Voltex (Pty) Ltd [2023]
+
+## F - Facts:
+The case of *Prevance Bonds (Pty) Ltd v Voltex (Pty) Ltd* [2023] ZASCA 40 involves an appeal concerning the rectification of a document that inaccurately recorded the creditor's details in a security cession agreement. The appeal arises from a decision made by the Gauteng Division of the High Court, Pretoria, which rectified the creditor’s registration number in a credit facilities application form dated January 26, 1999, mistakenly listing Voltex (Pty) Limited's former registration number (88/06535/07) instead of its correct number (1964/006740/07) ([1]–[2]).
+
+The appellant, Prevance Bonds (Pty) Ltd (Prevance), is Voltex (Pty) Limited's competitor, while the second respondent First Strut (RF) Limited (in liquidation) had previously engaged in business with both Prevance and Voltex. Following First Strut's liquidation on July 8, 2013, Voltex claimed R26,854,196.38 against First Strut, citing the security cession for which the incorrect registration number was recorded. Prevance contested Voltex’s status as a secured creditor, leading to a series of legal claims and objections ([2]–[5]).
+
+Prevance's objections were overturned by the Master of the High Court, which determined Voltex’s claims were secured by the rectification of the security cession ([4]–[5]). Prevance, thus, appealed to the Supreme Court of Appeal, raising two main issues: the sufficiency of evidence for rectification and whether the concursus creditorum (status of creditors upon liquidation) impeded such rectification ([7]).
+
+## I - Issues:
+The court was tasked with determining two key issues: 
+1. **Whether Voltex provided sufficient evidence to support rectification of the security cession in motion proceedings** ([7]).
+2. **Whether it is competent for the court to order rectification after the establishment of a concursus creditorum** ([7]).
+
+A crucial aspect of the dispute was whether rectifying the registration number would alter Voltex's status from that of a concurrent creditor to a secured creditor, potentially prejudicing the rights of other creditors ([6]).
+
+## R - Rules:
+Rectification, as a legal remedy, has its principles grounded in the common intention of the contracting parties. The established rule is that a written document may be rectified when it does not reflect this common intention due to a mistake ([8]–[9]). Didcott J's remarks in *Spiller and Others v Lawrence* were cited, emphasizing that the court only corrects the document, not the agreement itself, and it requires a party seeking rectification to prove, on a balance of probabilities, that the document does not accurately reflect the parties' intention ([8]).
+
+The principle regarding the concursus creditorum stipulates that once a debtor is liquidated, the rights of creditors become fixed, and no subsequent alteration can preferentially affect one creditor without impacting the others adversely ([27]–[30]). The court referenced *Walker v Syfret N O* for this principle, asserting that no transaction can alter the rights amongst creditors post-liquidation ([27]).
+
+## A - Application:
+In applying these principles to the facts, the court evaluated the evidential weight of Mr. Green’s affidavit, which attested to the parties’ intentions regarding the security cession. His testimony was deemed credible and unchallenged by Prevance, which lacked any counter-evidence or first-hand accounts from the relevant parties, such as Mr. Wiggill or Mr. Bertulis ([18]–[23]). Thus, the court found that Voltex met its burden of proof for rectification of the cession agreement despite Prevance's assertions otherwise.
+
+As for the second issue regarding the concursus creditorum, the court distinguished between rectification of a document and the underlying agreement. It noted that the essential nature and rights of the agreement were not altered by the rectification, which merely corrected a clerical error in the document reflecting the parties' common intention ([34]–[36]). The court ruled that the rectification would not prejudice Prevance or any third-party creditors as it merely restored Voltex’s correct status which existed prior to liquidation ([48]).
+
+## C - Conclusion:
+The Supreme Court of Appeal dismissed Prevance's appeal, affirming the High Court’s decision to rectify the security cession as reflecting the common intention of the parties. The court concluded that rectification did not disturb the concursus creditorum and maintained that Voltex’s status as secured creditor was valid prior to the liquidation, reinforcing legal precedent regarding the non-prejudicial nature of rectification in insolvency matters. The judgment highlighted the principle that rectification serves to clarify rather than alter existing obligations and rights, thereby ensuring that the legal status quo remains intact while correcting documentation ([49]).
+
+In essence, the ruling underscores that rectification is permissible post-concursus provided it does not affect the substantive rights of the parties or disrupt the established creditor hierarchy. The decision is pivotal for creditors seeking clarification of their secured positions in cases of inadvertent clerical errors, emphasizing the courts' role in safeguarding legitimate claims amidst insolvency proceedings.

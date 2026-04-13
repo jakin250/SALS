@@ -1,0 +1,58 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2010
+
+# FIRAC Case Note: R Miller v Nafcoc Investment Holding Company (324/09) [2010] ZASCA 25
+
+### F - Facts
+
+In the matter of **R Miller v Nafcoc Investment Holding Company Ltd (No 324/09)**, the initial proceedings arose when the major shareholder, Nafcoc Investment Holding Company Ltd (First Respondent), sought the final liquidation of **Serveco (Pty) Ltd** on 23 May 2006. This liquidation prompted four individuals, referred to as the 'individual applicants,' who had at one time been directors or employees of Serveco or Nafcoc, to bring urgent proceedings in the South Gauteng High Court to interdict an enquiry into Serveco's affairs authorized by the Master of the High Court under sections 417 and 418 of the Companies Act 61 of 1973 ([para 1]).
+
+The joint liquidators of Serveco, along with R Miller, a professional liquidator acting on their behalf, were ordered to convene this enquiry on 27 March 2008, leading to a series of notices compelling the individual applicants and their legal representatives to attend the enquiry ([paras 1–6]). On 8 December 2008, the South Gauteng High Court, presided by Snyders J, set aside these orders, thus prompting an appeal from Miller and the joint liquidators against the order and a cross-appeal from Nafcoc and the individual applicants regarding their costs ([paras 4, 6]).
+
+### I - Issues
+
+The legal issues presented to the Supreme Court of Appeal were multi-faceted:
+
+1. **Material non-disclosure**: Whether Miller and the joint liquidators had made critical material disclosures to the Master which justified the initiation of a second enquiry given that a previous enquiry had not yet concluded or that they failed to disclose other relevant facts such as the impending deregistration of Serveco ([paras 5–10]).
+  
+2. **Authority**: Disputes surrounding the authority of Miller to act on behalf of the joint liquidators, particularly regarding the validity of their powers under the provisions of the Companies Act, specifically concerning the delegation of responsibilities ([paras 8, 12, 16]).
+
+3. **Deregistration of Serveco**: The implications of Serveco's deregistration on the validity of the enquiries, notices requiring attendance, and the authority of the joint liquidators and Commissioner had also to be considered([para 11]).
+
+4. **Interdict against Miller**: The legitimacy of the interdict prohibiting Miller from accessing the enquiry and its records raised further questions, particularly about the application of section 417(7) of the Companies Act regarding the confidentiality of such proceedings ([para 13]).
+
+### R - Rules
+
+The court took particular guidance from several legal principles and statutory provisions:
+
+1. **Companies Act 61 of 1973**: Sections 417 and 418 were central to the court's analysis, establishing the framework for enquiries into a company's affairs and the circumstances under which the Master could delegate these inquiries ([paras 2, 3, 9, 13]).
+
+2. **Disclosure Requirements**: The principle regarding material non-disclosures was informed by precedents such as *Schlesinger v Schlesinger* and *NDPP v Basson*, asserting that applicants must provide full material facts when seeking any court orders ([para 5]).
+
+3. **Deregistration Procedures**: According to Section 73 of the Companies Act and its implications on the status of Serveco, the court detailed the legal distinction between deregistration and dissolution and concluded that improper deregistration voided any inquiries initiated post-deregistration ([para 11]).
+
+4. **Delegation of Authority**: The court reviewed the legal context for delegation within the framework established through cases such as *Goldseller v Hill* and *Allan v Erlank's Trustee*, affirming that liquidators possess the authority to delegate ministerial duties provided that discretion and major responsibilities remain with them ([paras 14, 16]).
+
+### A - Application
+
+In applying these legal principles to the facts of the case, the Supreme Court of Appeal found:
+
+1. **Material Disclosures**: The court rejected the assertion of material non-disclosure by Miller, noting that the existence of the previous enquiry was disclosed and that the perceptions of non-disclosure were unfounded. The court recognized that Miller had provided sufficient context to the Master justifying the need for a second enquiry ([paras 5–10]).
+
+2. **Authority of Liquidators**: The authority of Miller to act on behalf of the joint liquidators was confirmed as valid, reinforced by a power of attorney that granted him specific duties to represent the liquidators in the enquiry. The court emphasized that the Master need not act solely on applications from limited categories of persons and asserted the appropriateness of delegating authority ([paras 9, 14–16]).
+
+3. **Validity of Deregistration**: The court ruled that the deregistration of Serveco was executed improperly, thus impacting the validity of notices issued during that time. However, since Serveco was restored to the register before the court hearings, the prior invalidity of notices did not require them to be set aside as new notices would be essential moving forward ([para 12]).
+
+4. **Interdict Against Miller**: The court found no justifiable basis for the interdict against Miller on the grounds that the powers conferred upon him allowed attendance and access to the enquiry records. The delegation of authority to Miller was not only permissible but also essential in the administration of liquidations ([para 13]).
+
+### C - Conclusion
+
+The Supreme Court of Appeal determined that the appeal by Miller and the joint liquidators should succeed, upholding their authority to conduct the enquiry and dismissing the prior interdict against Miller. The findings affirmed the court of first instance's failure to establish a legitimate basis for its original orders. The court concluded that the appeal was appropriately supported by jurisprudential interpretations of the Companies Act, particularly the authority vested in liquidators to conduct enquiries, even when matters of deregistration were at play. 
+
+The court ultimately made the following orders:
+
+1. The appeal succeeded with costs, including costs for senior counsel.
+2. The order made by the court a quo was set aside, and the application of the individual applicants was dismissed with costs.
+3. The cross-appeal relating to the costs was also dismissed with costs ([paras 20]). 
+
+This decision reiterates the importance of comprehensive disclosures in liquidations and clarifies the delegation authority of liquidators under the Companies Act, which holds significant implications for future corporate governance and insolvency practices in South Africa.

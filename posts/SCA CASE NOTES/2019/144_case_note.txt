@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: London & Others v Department of Transport, Roads and Public Works, Northern Cape & Others ([2019] ZASCA 144)
+
+## F - Facts
+
+[1] The case centers on the appeal by four business persons—Frances Obakeng London, Motsami Petrus Rantho, Malebogo Louis Mokwena, and Nthabiseng Constance Kemane—against the Department of Transport, Roads and Public Works of the Northern Cape and other governmental entities. The appellants instituted a delictual claim for damages amounting to R27 million, alleging that the Department breached its contractual obligations, which led to the liquidation of their company, Canton Trading 159 (Pty) Ltd ([paras 1-2, 4]).
+
+[4] The appellants' claim arose from a public-private partnership fleet agreement executed on January 27, 2009, between the Department and Canton. A critical clause (32.1) in the agreement mandated that neither party could assign or transfer benefits without the other’s consent, which could not be unreasonably withheld. Canton was unable to fulfill its contractual obligations due to the Department's unreasonable refusal to consent to a Finance Direct Agreement that would enable the company to secure financing. This refusal allegedly culminated in the liquidation of Canton, rendering the appellants' shares worthless ([paras 10, 14, 17, 19]).
+
+[5-6] The Department raised two special pleas: first, that the appellants lacked locus standi to sue since the agreement was between the Department and Canton, and second, that the liquidators of Canton were necessary parties to the action, which they were not ([para 5]). The appellants amended their particulars of claim to counter these pleas, asserting that the liquidators had refused to initiate action against the Department ([paras 6-7]).
+
+[8-12] After conflicting judgments from the High Court, the case came before the Supreme Court of Appeal, which needed to review whether the particulars of claim disclosed a cause of action and to determine whether previous judgments on locus standi and non-joinder were res judicata ([paras 9, 10, 12]).
+
+## I - Issues
+
+The Supreme Court of Appeal was tasked with resolving several legal issues ([paras 13-14]):
+1. Did the appellants’ amended particulars of claim sufficiently disclose a cause of action for delict?
+2. Could the principle of res judicata preclude consideration of the questions raised in this appeal, given prior rulings on locus standi and non-joinder?
+
+## R - Rules
+
+The court focused on the legal principles regarding locus standi, non-joinder, and the viability of a delictual claim. Key rules included:
+
+1. **Locus Standi**: Generally, only a company (not its shareholders) may sue for losses it suffers due to breaches of contract unless shareholders can demonstrate a separate and distinct injury ([paras 30-33]).
+   
+2. **Res Judicata and Issue Estoppel**: The relevant legal frameworks dictate that for a judgment to preclude further litigation, it must address the same cause of action, relief sought, and involved parties ([paras 14-15]).
+
+3. **Legal Duty and Breach (Delict)**: A claim for pure economic loss requires the establishment of a legal duty owed directly to the claimant, which must be separate from that owed to the company ([paras 27-29]).
+
+4. **Corporate Personality**: The principle that a company is a separate entity from its shareholders dictates that shareholders do not typically possess rights to sue for losses incurred by the company ([paras 25-27]).
+
+## A - Application
+
+The court critically assessed the amended particulars of claim to determine whether the appellants had established a cause of action validly based on delict ([paras 23, 36]). The key points included:
+
+- The plea that the Department owed a duty of care to the appellants was addressed by analyzing the nature of the harm. The court noted that the alleged contractual relationship existed solely between the Department and Canton, with no privity of contract involving the appellants as shareholders ([paras 27-30]).
+  
+- The court emphasized the need for a separate and distinct legal duty owed directly to shareholders for them to sue individually. Since the loss suffered was essentially that of Canton and not of the shareholders directly, the exceptions allowing individual claims did not apply ([paras 29-36]).
+
+- The court further reasoned that prior judgments did not encompass issues concerning the disclosure of a cause of action, thereby negating the appellants' claims regarding res judicata ([paras 20-22]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, affirming that the particulars of claim did not disclose a valid cause of action. The ruling emphasized the necessity of distinguishing between corporate losses and shareholder losses, indicating that shareholders could not sue for economic losses merely stemming from the company's financial distress ([paras 1, 37]). The implications of this decision stress the importance of clear legal duties and the limits of shareholder remedy rights within corporate law. The court concluded that the appellants had 20 days to amend their particulars of claim should they choose to pursue further action, reinforcing the established boundaries of corporate liability and shareholder claims in South African law ([paras 1, 37]).

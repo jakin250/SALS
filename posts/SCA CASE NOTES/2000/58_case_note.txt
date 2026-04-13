@@ -1,0 +1,32 @@
+Case Note: REPORTABLE
+Source Folder: 2000
+
+# FIRAC Case Note: Kelvin Park Properties CC v A S Paterson NO (2000)
+
+**Case Citation:** 
+Kelvin Park Properties CC v A S Paterson NO [2000] ZASCA 138; [2000] 3 All SA 276 (SCA)
+
+**Facts:**
+The facts of the case concern the sale of property and movable assets between One Schutte (the insolvent) and Kelvin Park Properties CC (the appellant). Schutte operated a butchery business on a property known as erf 3475, Stutterheim, which was damaged by fire in March 1994. Subsequently, on April 26, 1994, Schutte entered into agreements to sell both the property and movable assets used in the business to the appellant for R175,000. The transaction was recorded as a "Sale of business" in the tax invoice dated April 25, 1994. The transfer of the property was registered on May 9, 1994, and the movables were transferred prior to June 9, 1994, after which Schutte's estate was provisionally sequestrated on June 11 and finally sequestrated on July 17, 1994. At the time of sequestration, Schutte owed R470,000 to trade creditors. The sale of the property and movables was not preceded by the necessary public notice required under § 34(1) of the Insolvency Act 24 of 1936 ([paras 1–7]).
+
+**Issues:**
+The crucial issues for determination were:
+1. Whether the insolvent was a “trader” as defined in § 2 of the Insolvency Act at the time of the transfer of the property and movables.
+2. Whether the property and the movables constituted part of the business of the insolvent as intended in § 34(1) of the Insolvency Act ([paras 10–11]).
+
+**Rules:**
+1. **Definition of 'Trader':** According to § 2 of the Insolvency Act, a "trader" includes any person carrying on trade, business, industry, or undertaking where property is sold or manufactured ([para 12]).
+2. **Section 34(1) Requirements:** If a trader transfers their business or property not in the ordinary course of business without prior public notice, the transfer is void against creditors for a period of six months post-transfer ([para 11]).
+3. **Burden of Proof:** The appellant bore the onus of proving that Schutte was not a trader at the time of the sale, benefitting from a deeming provision that regarded individuals engaged in trade as traders unless proven otherwise ([paras 18]).
+
+**Application:**
+The court concluded that the appellant's argument—that Schutte ceased trading due to a cessation of daily trading activities following the fire—was unpersuasive. The court interpreted the term "carries on business" broadly to mean that an individual could still be regarded as a trader despite a temporary cessation of active trading, especially when debts to creditors remained ([paras 13–15]). 
+
+Significantly, the court emphasized that the legislative intent of § 34(1) was to protect creditors from traders attempting to dispose of business assets without proper notification, hence the definition's breadth. By recognizing that the appellant had failed to demonstrate that Schutte was not a trader, the court focused on the ongoing nature of Schutte's trade obligations, despite the cessation of active business operations ([paras 17–19]).
+
+On the second issue regarding whether the property was part of Schutte's business, the court took into account the specific adaptations of the property for butchery activities and the ongoing occupation of part of the property by an employee. Additionally, the nature of the sale—as recorded—indicated that the property was intrinsic to the business being conducted. The court reasoned that since nearly all of the property was used for the butchery, the sale of the entire property could not be disassociated from its business context ([paras 19–27]).
+
+The appellant's reliance on Bruyns N.O. v Aerogrande (Pty) Ltd was found to be misplaced as the facts differed significantly. The court asserted that neither the nature of the property nor its adaptations for the business were adequately challenged by the appellant ([paras 20–22]).
+
+**Conclusion:**
+The Supreme Court of Appeal dismissed the appeal, affirming that Schutte was a trader at the time of the transaction, and that the property was indeed part of his business as envisaged in § 34(1). The court underscored the necessity for compliance with statutory requirements to prevent the strategic disposal of business assets that could prejudice creditors ([paras 29]). Notably, this ruling reinforces the protective measures afforded to creditors under South African insolvency law, as well as clarifying the broad application of the definition of a trader and business assets in these legal contexts. The decision has implications for future transactions involving insolvent estates, emphasizing the importance of statutory compliance in asset transfers.

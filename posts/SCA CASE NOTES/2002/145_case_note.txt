@@ -1,0 +1,45 @@
+Case Note: REPORTABLE
+Source Folder: 2002
+
+# Case Note: Transnet Limited t/a Portnet v The Owners of the mv ‘Stella Tingas’ and Another [2002] ZASCA 117; 2003 (1) SA 647 (SCA)
+
+## FIRAC Method Case Note
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–6])
+On June 17, 1997, shortly after midnight, the mv Atlantica, a bulk carrier measuring 224 meters and displacing 65,000 metric tons, collided with the mv Stella Tingas in Durban Harbour ([para 1]). At the time, the Stella Tingas was docked at Island View berth 3 while the Atlantica was entering the Island View Channel en route to berth 7 to take on bunkers. The pilot of the Atlantica, Captain Peter Buffard, was an employee of Transnet Limited, the appellant ([paras 1–3]). Following the collision, the owners of the Stella Tingas (the plaintiffs) initiated legal action against both the Atlantica and Transnet ([para 2]). 
+
+The claims against the Atlantica were grounded on allegations of negligence on the part of its master and crew, as well as the pilot's negligence, seeking to hold the owners liable under section 35 of the United Kingdom Pilotage Act of 1983, which was alleged to be applicable in South Africa ([para 2]). Against Transnet, the plaintiffs asserted that the pilot’s gross negligence was the cause of the collision, attempting to circumvent the liability exemption provided by section 10(7) of the South African Legal Succession to the South African Transport Services Act 9 of 1989 ([paras 3–4]). 
+
+The trial court, presided over by Booysen J, found the pilot grossly negligent and held Transnet liable, while ruling that the Atlantica was not negligent and hence not liable to the plaintiffs ([paras 5–6]). Both parties appealed, with Transnet appealing the finding of liability and the plaintiffs conditionally appealing against the exoneration of the Atlantica ([paras 6]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 6–6])
+The primary questions for determination were:
+1. Whether the pilot’s conduct constituted gross negligence, which would negate the liability exemption afforded to Transnet ([paras 3, 25]).
+2. Whether the United Kingdom Pilotage Act of 1983, specifically section 35, applied to establish liability for the Atlantica given the legislative context of South African admiralty law ([paras 28–32]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 7–36])
+The court relied on various statutory provisions and precedents as follows:
+
+1. **Admiralty Jurisdiction Regulation Act 105 of 1983**: Particularly sections 6(1) and 6(2), which outline the application of English admiralty law and the primacy of South African law in matters of compulsory pilotage ([para 6–8]).
+  
+2. **Legal Succession to the South African Transport Services Act 9 of 1989**: Section 10(7) exempts Transnet and the pilot from liability for negligent acts, thereby necessitating a finding of gross negligence for liability to attach ([para 3]).
+
+3. **Common Law Principles**: Engaged in the discussion of negligence and gross negligence, drawing from cases such as *S v Van Zyl* and *Philotex (Pty) Ltd v Snyman* to articulate the definitions and standards applicable ([para 7, 20]).
+
+4. **Historical Case Law**: The court examined how common law distinguishes the liability of shipowners depending on whether pilotage was compulsory, referencing both historical statutes and English case law ([paras 28–32]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 9–26])
+The court assessed the conduct of the pilot under the established definitions of gross negligence versus ordinary negligence. It noted the pilot's understanding of the risks associated with navigating in a narrow channel and the specific phenomena of "squat" and "bank effect," both of which contributed to the sheer of the ship leading to collision scenarios ([paras 18–24]).
+
+While the trial court found the pilot’s actions indicative of a "dare-devil attitude" and therefore grossly negligent, the Supreme Court of Appeal contended that the pilot had not consciously taken risks that would meet the threshold of gross negligence. The pilot’s actions—as a trained professional operating in complex conditions—were deemed within a reasonable standard of care, despite the unfortunate outcomes ([paras 20–26]).
+
+Subsequently, regarding the Atlantica, the court determined that the requirements of section 35 of the UK Pilotage Act did not apply because the legislative framework in South Africa, particularly section 10 of the Succession Act, precluded the shipowner’s liability for pilot negligence under compulsory pilotage ([paras 31–32]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 27–39])
+The Supreme Court of Appeal ultimately upheld Transnet's appeal against the judgment of the lower court, concluding that the pilot's negligence did not reach the threshold of gross negligence as required to pierce the statutory immunity granted by the Succession Act ([para 27]). Consequently, the plaintiffs’ claims against the Atlantica were also dismissed as the applicable law did not render the shipowner vicariously liable for the pilot's negligence under the existing statutory framework ([paras 27–39]).
+
+This decision delineated the boundaries of liability in situations involving compulsory pilotage, reinforcing that the established legal framework does not impose liability on shipowners for negligence attributable to an appointed pilot, positioned as an employee of the harbor authority ([paras 28–32]). The implications of this ruling underscore the critical nature of statutory interpretation in maritime law, particularly in distinguishing between voluntary and compulsory pilotage arrangements.
+
+---
+
+This detailed FIRAC analysis synthesizes the salient points of *Transnet Limited t/a Portnet v The Owners of the mv ‘Stella Tingas’* while adhering to the specified structure conducive for professional legal discourse.

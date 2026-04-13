@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Moraitis Investments (Pty) Ltd v Montic Dairy (Pty) Ltd (799/2016) [2017] ZASCA 54
+
+## F – Facts
+
+The legal conflict between **Moraitis Investments (Pty) Ltd** and its trustee representatives (the appellants) against **Montic Dairy (Pty) Ltd** and its associated entities (the respondents) arose from a series of intertwined business relationships and disputes. The background is rooted in a long-standing partnership between *Apostolos Moraitis* (representing the appellants) and *Karl Kebert* (the principal respondent). The core business related to a dairy enterprise, while disputes over company valuations and asset transfers culminated in litigation as both parties sought to resolve outstanding issues ([paras 1–5]).
+
+In 2006, after the breakdown of their relationship, *Moraitis Investments* and the *Moraitis Trust* sought liquidation or a buyout of shares in several related companies. By October 2007, a court-ordered settlement was reached, compelling *Tropica Investments* (part of *Kebert’s group*) to purchase shares owned by *Moraitis Investments*, although subsequent valuations became contentious ([paras 2–4]). 
+
+In 2013, further disputes led to a new settlement agreement, drafted during intensively negotiated proceedings. Both *Moraitis* and *Kebert* signed on behalf of their respective entities, including *Moraitis Trust*. The relevant litigation involved the hotel owned by *Kebert’s mother*, which fostered additional disputes. When performance issues arose regarding the transfer of shares pursuant to the 2013 settlement, *Moraitis*, asserting he lacked authority from fellow trustees to sign the agreement, initiated an application to rescind the settlement order ([paras 6–8]).
+
+After the initial application was granted, the full court of the *Gauteng Division* overturned this decision, dismissing *Moraitis’s* application. The Supreme Court of Appeal subsequently received the matter on appeal ([paras 1, 5]).
+
+## I – Issues
+
+The primary issue in this case revolved around whether *Apostolos Moraitis* had the authority to enter into the settlement agreement on behalf of both the *Moraitis Trust* and *Moraitis Investments*. Determining this necessitated addressing two focal points: 
+1. The alleged lack of authority of *Moraitis* pursuant to the provisions of the *Companies Act 71 of 2008* ([para 8]).
+2. The legitimacy of claims regarding the validity of the settlement agreement and subsequent court order ([paras 9–18]).
+
+Additional considerations pertained to the implications of failing to comply with statutory requirements under sections 75, 112, and 115 of the *Companies Act* concerning directors' authority and transactions involving major asset disposals ([paras 36–40]).
+
+## R – Rules
+
+1. **Authority in Trust and Corporate Structures**: Under South African law, trustees must act jointly unless provided otherwise in the trust deed. Any contract they enter into on behalf of the trust must reflect valid authority ([paras 22]). The principle that a court may only grant consent orders when all parties consent is foundational ([para 20]).
+
+2. **Statutory Provisions**: Sections 75, 112, and 115 of the Companies Act govern disclosures of interests, substantial asset disposals, and associated resolutions. Section 75 specifically precludes a director from participating in decisions where they hold personal interests ([paras 36–40]).
+
+3. **Grounds for Rescission of Judgments**: A court order, including consent orders, may be set aside for fraud or justus error. A mere lack of authority does not automatically provide grounds for rescinding such orders unless proven ([paras 12–14]).
+
+4. **Res Judicata**: The principle indicates that once a court order is made, it cannot usually be disregarded unless the order itself is vacated, which reinforces the need for strong bases to contest previous court determinations ([paras 10–11]).
+
+## A – Application
+
+In addressing the issue of authority, the court focused on the supposed entitlement of *Moraitis* to act as a representative of the Moraitis Trust. Evidence presented indicated that he acted as a principal decision-maker without formal consent processes typically required for trustees. Despite *Moraitis's* claims of lack of authority, significant evidence raised doubts about this assertion, particularly as prior agreements had been executed under similar conditions without contest from co-trustees ([paras 22–34]).
+
+The court effectively countered the claim that *Moraitis* lacked authority by referring to established principles governing the operation of trusts. The lack of contradicting authority from co-trustees during iterations of prior agreements suggested established practice, rendering their claims of lack of authorization less credible ([paras 33–34]).
+
+With respect to statutory considerations, the appellants contended that significant asset disposals required a special resolution. However, the principle of **unanimous assent** was invoked and recognized since the Moraitis Trust itself was a party to the agreements, which mitigated the necessity for such resolutions in light of the trust's composition ([paras 37–38]).
+
+In dissecting the arguments under sections 75, 112, and 115, the court emphasized that without proving lack of authority conclusively, the appellants could not rely on statutory failure to void the agreement. Any objections raised failed to establish non-compliance or misrepresentation sufficient to counter the presumption of validity in moves made by *Moraitis* on behalf of the trust and its companies ([paras 36–40]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately held that *Apostolos Moraitis* possessed the requisite authority to execute the settlement agreement, and thus the grounds for rescinding the court order lacked substantive backing. Consequently, the appeal was dismissed, affirming the enforcement of the original court order and the agreement between the parties. The ruling underscored the importance of adhering to procedural integrity within the framework of trust governance and corporate decision-making, highlighting the necessity of clear evidence when contesting an agreement's authority or validity ([paras 41–42]). 
+
+This case exemplifies the critical balance between respecting established legal structures and ensuring that contractual agreements maintain their binding nature unless unequivocally proven otherwise, reinforcing principles of business efficacy within South African jurisprudence.

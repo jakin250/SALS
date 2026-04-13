@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Mokoena v The State (200/2018) [2019] ZASCA 74
+
+## FIRAC Structure
+
+### F – Facts
+The appellant, Moeketsi Mokoena, was convicted of stealing R1 million the property of SBV Cash Services, where he was employed ([1]). The trial commenced in September 2013, and during March 2014, the State indicated that a witness on video evidence was not required, conveniently making that witness available to the defense ([3]). 
+
+The defense case rested on presenting this video footage; however, the adjournments proceeded with delays in getting the witness and necessary equipment. By August 2014, despite a subpoena, the witness failed to appear. The magistrate denied a further postponement and invoked the provisions of section 342A, ruling that the proceedings would continue as if the defence case had been closed [[4](#source)]. 
+
+Neither party had previously requested to close the case nor provided notice regarding the use of section 342A([5]). The regional magistrate's actions were challenged in the high court, which upheld the appellant's claims but remitted the case back to the same magistrate, which became a point of contention ([6]).
+
+### I – Issues
+This appeal raises two primary legal questions:
+1. Whether the magistrate was correct in invoking section 342A(3)(d) without prior notice from the State to proceed as though the defense case was closed, contravening section 342A(4)(a).
+2. Whether the high court erred in remitting the matter for the reopening of the defense case to the same magistrate who had previously convicted Mokoena, given the credibility findings made against him ([2]).
+
+### R – Rules
+The relevant legal framework is established in the Criminal Procedure Act 51 of 1977, particularly:
+- **Section 342A**: This section deals with the measures to address unreasonable delays in criminal trials. Under subsection (3)(d), if it is determined that proceedings have been unreasonably delayed, the court may proceed as if the defense has closed its case, provided notification has been given beforehand ([5]).
+
+- **Section 324(c)**: This section allows for the reinstatement of proceedings on the same charge after a conviction has been set aside due to a procedural irregularity, ensuring the original presiding officer is not involved in the new proceedings ([11]).
+
+### A – Application
+The court found that:
+1. The magistrate acted incorrectly by invoking section 342A(3)(d) without the requisite prior notice from the State, which is a peremptory condition laid out in section 342A(4)(a). The lack of notice compromised the right to a fair trial as envisioned in section 35(3) of the Constitution. The ruling was deemed a technical irregularity, which may result in a failure of justice ([6], [9]).
+
+2. The high court’s decision to remit the matter back to the same magistrate introduced further complications. Given prior convictions and credibility findings against Mokoena, allowing the same magistrate to preside over the remitted trial would likely bias proceedings. The court emphasized that the principles behind section 324(c), which prohibits a magistrate from retrying a case after such findings, were vital to confronting procedural irregularities ([10], [11]).
+
+### C – Conclusion
+Ultimately, the Supreme Court of Appeal upheld Mokoena's appeal, setting aside both conviction and sentence, acknowledging substantial procedural flaws that led to a failure of justice. The court ruled that the matter could, however, be reinstated for trial on the same charge, provided the new proceedings were conducted by a different magistrate, thereby safeguarding the appellant’s right to a fair trial without the influence of prior credibility assessments ([12]).
+
+This case underscores the significant procedural safeguards necessary to ensure the right to a fair trial and the implications of irregularities during trial processes, particularly concerning the application of section 342A of the Criminal Procedure Act.

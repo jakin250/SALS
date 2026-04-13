@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Griffiths v Janse van Rensburg NO (20269/2014) [2015] ZASCA 158 (26 October 2015) 
+
+## FIRAC Method Case Note
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–9])
+In this case, Jonathan Brian Griffiths (the Appellant) received four payments from the Usapho Trust (the Trust), an entity established under the Trust Property Control Act 57 of 1988. These payments were characterized as investments based on agreements that, in essence, constituted loans ([para 1]). The Trust, however, was operated as a pyramid scheme, orchestrated by Maureen Clifford and her associates. Following the collapse of the scheme, the Trust was sequestrated on 24 September 2000. The respondents are the appointed trustees in insolvency, Jacobus Hendrikus Janse van Rensburg NO and Romana Bernadette Knuth NO ([para 1]).
+
+The trustees sought to set aside the payments made to Griffiths under section 29 of the Insolvency Act 24 of 1936, which allows for the annulment of dispositions made by a debtor that result in the preference of one creditor over others when the debtor's liabilities exceed its assets ([para 2]).
+
+The facts revealed that the payments to Griffiths were made less than six months prior to the Trust's sequestration and that these payments served to prefer him above other creditors. The trustees successfully established that at the time of each payment, the Trust’s liabilities exceeded its assets, effectively shifting the burden to Griffiths to prove that the payments were made in the ordinary course of business and without the intention of preferring himself over other creditors ([para 4]). The court examined the nature of the payments, noting that they were high-interest rates characteristic of pyramid schemes and thus not typical business transactions ([paras 5–6]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 10–18])
+The key legal issue at trial was whether the payments made to Griffiths constituted dispositions made in the ordinary course of business, as required by section 29 of the Insolvency Act. Specifically, the Court had to determine the application of the standard set forth in previous cases regarding what constitutes 'ordinary course of business' ([paras 11–12]).
+
+Another issue pertained to the treatment of payments made under agreements deemed unlawful and void. The question arose whether a payment made pursuant to an invalid contract could still be considered a legitimate business transaction, particularly given the circumstances surrounding the Trust's operation ([para 16]).
+
+Additionally, the question of when mora interest on the judgment amount should commence was raised, relating to whether it should start from the date of service of the summons or the date of the judgment itself ([para 32]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 2, 11–21])
+The principal legislative authority in this case is the **Insolvency Act 24 of 1936**, particularly section 29, which outlines the conditions under which dispositions made prior to sequestration can be set aside to ensure equitable treatment of creditors ([para 2]).
+
+Key case law is referenced to establish the criteria for determining whether a disposition is made in the ordinary course of business. The court cites cases such as **Gazit Properties v Botha & others NNO** ([2011] ZASCA 199) and **Fourie NO & others v Edeling NO** ([2004] ZASCA 28) for the established tests that consider both the objective factors surrounding the disposition and the nature of the business relationship between the parties ([para 11]).
+
+Another significant case referenced is **Klerck NO v Kaye** ([1989] 3 SA 669), which discussed the requirement for a lawful disposition to be made in the course of a lawful business ([para 16]). This principle was crucial in determining the legality of the Trust's activities.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 21–31])
+The court applied the established test for 'ordinary course of business,' emphasizing that the evaluation is objective and must consider the specific facts of each case ([paras 11–12, 21]). It ruled that ordinary, solvent businesses would not include the kind of high-interest transactions Griffiths engaged in with the Trust, which was operating a fraudulent scheme ([para 19]).
+
+In distinguishing this case from **Gazit Properties**, the court reiterated that while the latter involved valid contracts, the agreements with the Trust were void due to their fraudulent nature. The court reasoned that the illegal backdrop of the Trust entirely altered the evaluation of whether the payments could be deemed “ordinary” ([paras 10, 21]).
+
+In reviewing the nature of the transactions, the court underscored that they were strictly rooted in the void investment agreements ([para 29]). The court concluded that Griffiths had not proven that the payments constituted dispositions made in the ordinary course of business, aligning with the precedent that payments under void agreements could not be categorized as legitimate business transactions ([para 31]).
+
+Regarding mora interest, the court upheld the decision of the lower court that interest should accrue only from the date of judgment rather than from the service of the summons, reinforcing the principle that a statutory debt does not exist until a court declares it ([para 37]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 41–41])
+The Supreme Court of Appeal dismissed both the appeal and the cross-appeal, thereby affirming the lower court's ruling that both the capital distributions and interest payments to Griffiths were not made in the ordinary course of business and were rightly set aside ([para 41]).
+
+The ratio decidendi of the judgment emphasizes the necessity of upholding equitable treatment of creditors in insolvency proceedings and draws clear boundaries between lawful and unlawful business practices. It affirms that the legal context—specifically the fraudulent nature of the Trust's operations—was decisive in ascertaining the nature of the transactions ([paras 30–31]).
+
+This case also reinforces the principle that individuals cannot escape the consequences of their transactions, even if they happen without knowledge of the underlying illegality, thereby bolstering the imperative against unjust enrichment and the strict adherence to the principles of the Insolvency Act. The findings elucidate the limitations of the ordinary course of business standard concerning transactions rooted in fraud, which carry significant implications for future insolvency matters ([paras 41–41]). 
+
+### References
+1. Insolvency Act 24 of 1936.
+2. Trust Property Control Act 57 of 1988.
+3. Gazit Properties v Botha & others NNO [2011] ZASCA 199.
+4. Fourie NO & others v Edeling NO [2004] ZASCA 28.
+5. Klerck NO v Kaye [1989] 3 SA 669.
+
+[This case note serves as an academic reference discussing the interplay of insolvency law, fraudulent contracts, and the principles of equity within the South African legal context.]

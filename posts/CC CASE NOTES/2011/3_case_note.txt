@@ -1,0 +1,32 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2011
+
+# Case Note: Thembekile Mankayi v AngloGold Ashanti Limited
+
+## FIRAC Analysis
+
+### F – Facts:
+The applicant, **Thembekile Mankayi**, previously employed by **AngloGold Ashanti Limited**, initiated a delictual claim for damages against the company based on exposure to harmful dust and gases while performing underground mining work from January 1979 to September 1995. He attributed his subsequent health issues, including tuberculosis and chronic obstructive airways disease, to the negligence of AngloGold in failing to ensure a safe work environment. Mankayi, having already received a modest compensation of **R16,320** under the **Occupational Diseases in Mines and Works Act** (ODIMWA), argued that the provisions of **section 35(1)** of the **Compensation for Occupational Injuries and Diseases Act** (COIDA) did not bar his common law claim since he was precluded from claiming damages under COIDA due to section 100(2) of ODIMWA, which prohibits claims under COIDA for those compensated under ODIMWA ([1]–[4]).
+
+The South Gauteng High Court and the Supreme Court of Appeal had both ruled that section 35(1) extinguished Mankayi's possible common law claims, interpreting the statute as applying broadly to all employees, including those covered by ODIMWA, thus providing mine owners statutory protection from common law liability for occupational injuries or diseases ([4]–[6]).
+
+### I – Issues:
+The main legal issues presented to the Constitutional Court were: 
+1. Does the term "employee" as defined in section 35(1) of COIDA encompass those covered under ODIMWA despite their inability to claim benefits under COIDA? 
+2. Does section 35(1) effectively abrogate the common law claims of employees, such as Mankayi, who are not entitled to benefits under COIDA ([6]).
+
+### R – Rules:
+The relevant statutory provisions and principles included:
+- **Section 35(1) of COIDA**, which provides that no action lies for damages due to occupational injury or disease against such employee’s employer, limiting employer liability solely to COIDA compensation.
+- **Section 100(2) of ODIMWA**, which states no individual entitled to benefits under ODIMWA for a compensable disease may claim under COIDA.
+- Previous holdings from **Law Society of South Africa and Others v Minister for Transport**, which established the link between the common law right to claim as essential to the constitutional right to security and freedom from harm (section 12 of the Constitution) ([1], [14], [18]).
+
+### A – Application:
+The Court addressed whether the interpretation of section 35(1) of COIDA should extend to employees like Mankayi, who are barred from COIDA claims due to overlapping provisions with ODIMWA. The Court analyzed the historical context and intentions of the legislature regarding worker compensation. It emphasized the nuanced distinctions between the benefits provided under COIDA and ODIMWA, noting that the latter offers significantly less support, particularly in cases of negligence ([24], [56]).
+
+The ruling provided that allowing the abrogation of common law claims in this context would potentially leave vulnerable employees unprotected, implicating their constitutional rights to security and appropriate legal remedies. The judgement criticized the lower courts for not recognizing that section 35(1) was only meant to bar claims for those receiving benefits under COIDA, thus concluding that the legislation did not intend to exclude common law claims for employees like Mankayi ([40], [98], [107]).
+
+### C – Conclusion:
+The Constitutional Court held that section 35(1) of COIDA does not extinguish the common law rights of employees like Mankayi who cannot make claims under COIDA due to section 100(2) of ODIMWA. The Court reiterated that the common law right to claim damages must remain available as a constitutional necessity for ensuring protection against employer negligence. The appeal was upheld, dismissing the exception raised by AngloGold, and affirming Mankayi's right to pursue his common law claim ([116]). 
+
+The decision highlighted significant implications regarding worker compensation laws, the intersection of statutory provisions, and the overarching need to protect employees’ rights to legal recourse in case of negligence by employers, particularly within the historically unique mining sector in South Africa ([111], [113]).

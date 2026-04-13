@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: FIRAC Analysis of **Drake Flemmer & Orsmond Inc & another v Gajjar NO** (21/2017) [2017] ZASCA 169
+
+## F - Facts
+
+The matter under appeal concerns a professional negligence claim involving two successive law firms: Drake Flemmer & Orsmond Inc (DFO), the first appellant, and Le Roux Inc (LRI), the second appellant ([1]–[4]). The plaintiff, Mr. Rex Sutherland, engaged DFO to pursue a claim against the Road Accident Fund (RAF) following a collision in July 1997 that left him with significant injuries. Despite DFO's negligence in assessing and settling the RAF claim—a settlement that dramatically undervalued the true worth of the claim—Sutherland accepted their advice to settle for R98,334 in December 1999 ([8]).
+
+Following dissatisfaction with the handling of his claim, Sutherland engaged LRI in July 2001. However, LRI allowed the claim against DFO for professional negligence to prescribe due to their misunderstanding of the commencement of prescription ([10]–[12]). Evidence indicated that Sutherland had endured significant personal and financial hardship as a result of both DFO’s and LRI’s negligence, including developing severe psychological issues ([11]–[12]).
+
+By November 2015, during the trial, the defendants conceded negligence and the focus shifted to quantifying damages ([3]–[4]). The court a quo initially ruled that the plaintiff’s damages should reflect their value as of December 2015, but also imposed a reduction based on the argued delay in pursuing the claim against LRI, ultimately determining a damages award of R6,480,819 ([30]).
+
+The defendants appealed, questioning the assessed date for damages and supporting their claim for a reduction based on the alleged delay. Correspondingly, Sutherland cross-appealed, challenging the 43.69% reduction imposed on his claimed damages ([4]).
+
+## I - Issues
+
+The key legal issues presented in this case revolve around:
+1. The appropriate date for assessing damages for breach of mandate in a professional negligence claim against attorneys, specifically regarding whether the assessment should be made at the time of settlement or at a notional trial date against the RAF ([4], [28]).
+2. Whether the court a quo erred in applying a reduction of damages for the plaintiff's delay in bringing the claim to trial ([4]).
+3. The implications of Section 2A(5) of the Prescribed Rate of Interest Act 55 of 1975 concerning the calculation of interest on the damages awarded ([4], [64]).
+
+## R - Rules
+
+The relevant legal principles considered in this case include:
+- **Negligence**: To establish professional negligence, a plaintiff must demonstrate the attorney's failure to exercise reasonable care as per the standard expected in legal practice ([3]).
+- **Assessment of Damages**: According to established legal precedent, damages for breach of contract are generally assessed at the breach date, albeit with flexibility where appropriate in order to fulfil the compensatory purpose of damages ([28]-[41]).
+- **Interest**: Section 2A(5) of the Prescribed Rate of Interest Act permits courts to order interest on unliquidated debts based on considerations of justice ([64]).
+
+Such principles were supported by case law, including *Fourie v Ronald Bobroff and Partners Inc* [2015] 2 All SA 210 (GJ), which accentuates the notion that damages assessment may align with the notional trial date if negligence by the attorney precludes the resolution of the underlying claim against the debtor within reasonable time ([41]).
+
+## A - Application
+
+In assessing the law and the facts, Rogers AJA, acknowledging the complexity surrounding the determination of a notional trial date, ultimately concluded that a more pragmatic approach was warranted. The judgment recognized that the damages must reflect the true value of the claim, which would have been assessed during a hypothetical trial had it been pursued without negligence from the attorneys ([41]).
+
+The court reviewed the timeline of events, marking key dates, and reiterated that LRI’s failure to act on the advice it provided significantly impacted the Sutherlands. Rather than merely applying the date of settlement (21 December 1999) for the damages assessment, the court held that the correct approach was to evaluate the damages based on what would have transpired had the plaintiff's claim against the RAF reached trial in 2002 ([41]-[63]).
+
+Furthermore, Rogers AJA extensively critiqued the court a quo's application of the 43.69% reduction in damages for alleged delay, emphasizing that the protracted timeline was predominantly resulting from LRI’s failures rather than the plaintiff's inaction ([53]). Thus, the court determined that there was no sufficient legal basis to reduce the damages and concluded that this would unjustly penalize the plaintiff for the delays caused by the negligent conduct of both attorneys ([32]-[36]).
+
+The decision highlighted the inequities of allowing prescription to extinguish Sutherland's primary claim, thus solidifying LRI’s liability to the plaintiff ([32]-[46]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal ultimately dismissed the appeal of the defendants and upheld the cross-appeal of the plaintiff, reinstating the damages awarded by the court a quo at a total of R9,211,953, reflecting an accurate valuation that incorporated the time-value of money and appropriate interest considerations ([92]). The judgment underscored the principles of justice, fairness, and the compensatory nature of damages in cases of professional negligence.
+
+The implications of this ruling extend beyond the case at hand, illustrating the necessity for legal practitioners to exercise diligence in the management of client claims, as failure to do so may lead to significant consequences for both the attorney and the client, as well as establish precedent impacting future claims for professional negligence. 
+
+This case serves as a poignant reminder of the responsibilities attorneys owe to their clients, and the judiciary's role in ensuring justice is upheld in such contexts.

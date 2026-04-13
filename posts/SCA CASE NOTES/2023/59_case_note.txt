@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Louis N O and Others v Fenwick N O and Others (598/2021)
+
+## F – Facts
+
+The case revolves around a business rescue proceeding involving Louis Group SA (Pty) Ltd (the "Company"), which was placed under supervision on February 26, 2013. The appellants are trustees of the Alan Louis Trust, which had sizeable interests in the Company, while the respondent, Neil Miller Fenwick, acted as the business rescue practitioner. 
+
+In a meeting on February 14, 2020, a business rescue plan proposed by the practitioner was put to a vote and subsequently rejected by the creditors ([paras 5–6]). After this rejection, the practitioner did not invoke the provisions of section 153(1)(a) of the Companies Act 71 of 2008 (the "Act") to either seek a revision of the plan or to apply to the court to overturn the vote. Instead, the appellants indicated their intent to invoke section 153(1)(b)(ii) by making binding offers to purchase the voting interests of opposing creditors. After the practitioners' adjournment of the meeting to consider these offers, all binding offers were ultimately rejected at a reconvened meeting on March 10, 2020 ([paras 7–8]).
+
+The practitioner then declared the meeting closed and indicated an intention to convert the business rescue proceedings to winding-up proceedings, prompting the appellants to challenge this decision in the Western Cape Division of the High Court. They sought to set aside the closing of the meeting and compel the practitioner to resume discussions pursuant to sections 152 and 153 of the Act ([paras 7–8]). The High Court sided with the respondents, holding that section 153(4) only applies when a binding offer is accepted, leading to the current appeal ([paras 5, 8]).
+
+## I – Issues
+
+The salient legal question before the Supreme Court of Appeal was whether, in the scenario outlined under section 153 of the Act, the provisions of section 153(4) apply after a binding offer made under section 153(1)(b)(ii) is rejected. Specifically, the court needed to determine if business rescue proceedings terminate upon the rejection of such an offer, or if the affected party retains further remedies under section 153(4) of the Act ([paras 1, 9, 11]).
+
+## R – Rules
+
+The applicable legal framework is primarily sourced from the Companies Act 71 of 2008, particularly sections 151, 152, and 153, which govern the process of business rescue. 
+
+- **Section 151** mandates that a business rescue practitioner convene a meeting of creditors to deliberate on a business rescue plan within a specified timeframe.
+- **Section 152** outlines the voting requirements for the approval of such plans, necessitating support from the majority of creditors ([para 2]).
+- **Section 153** deals with scenarios where a business rescue plan is rejected. Subsection 1 outlines the actions a practitioner may take post-rejection, including seeking votes for a revised plan or applying to court. Importantly, subsection 4 stipulates that if a binding offer is made, the practitioner must adjourn the meeting for necessary revisions based on the offer ([para 3]).
+
+The interpretation of these provisions has also been impacted by judicial interpretations established in cases like *Natal Joint Municipal Pension Fund v Endumeni Municipality* and *African Banking Corporation of Botswana v Kariba Furniture Manufacturers*, which emphasize contextual and purposive statutory interpretation ([paras 9–10]).
+
+## A – Application
+
+The court analyzed the implications of the statutory wording and previous case law to interpret the provisions of section 153(4). It noted that the literal interpretation of section 153(4), which requires the practitioner to adjourn for five business days upon receiving a binding offer, did not consider scenarios where such an offer has been rejected ([paras 11–14]).
+
+The court concurred with the respondents that the proposal for the appellants invoking further remedies after a binding offer was rejected would lead to illogical outcomes. It emphasized that once a binding offer is made and rejected, the affected party's voting rights and interests remain unchanged. Thus, allowing further actions under section 153(1)(b) after rejection would enable activities that could yield no practical change, creating a "never-ending loop" of business rescue proceedings that contradicts the statute's purpose ([paras 13–15]).
+
+The court reaffirmed that the objectives of business rescue are to restore rather than prolong unviable proceedings, emphasizing that clarity and purpose in interpretation are paramount to avoid absurdities ([para 14]).
+
+## C – Conclusion
+
+The Supreme Court dismissed the appeal, concluding that section 153(4) of the Companies Act only activates if a binding offer made under section 153(1)(b)(ii) is accepted, and not upon its rejection. This interpretation aligns with the overall purpose of the Act, which is to facilitate effective and pragmatic resolutions in business rescue proceedings. Thus, the holding reinforces the necessity for clarity in the drafting of legislation to avoid ambiguity and unnecessary complications in business recovery efforts ([paras 15–16]). 
+
+The outcome impacts interpretations within the framework of business rescue in South Africa, reinforcing the principle that once a business rescue plan is rejected and remedies exhausted, the proceedings must conclude. The ruling serves as a critical precedent for future business rescue cases under similar statutory contexts, promoting judicial efficiency in financial recovery scenarios.

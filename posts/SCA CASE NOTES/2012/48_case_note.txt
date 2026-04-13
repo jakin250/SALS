@@ -1,0 +1,37 @@
+Case Note: REPORTABLE
+Source Folder: 2012
+
+## FIRAC Case Note: **Bonugli v Standard Bank of South Africa Limited** [2012] ZASCA 48
+
+### F – Facts
+The case **Bonugli v Standard Bank of South Africa Limited** revolves around an appeal from the Western Cape High Court, where the Standard Bank had successfully sued the appellants, Beulah Evelyn Bonugli and Christopher Stephen Bonugli, for a debt amounting to R16 958 969, including interest and costs ([paras 1-2]). The first appellant, Beulah, was sued in both her personal capacity and in her capacity as a trustee of the Rivonia Close Trust (RCT), while Christopher was sued solely in his representative capacity as a trustee ([para 2]).
+
+The underlying action was based on a deed of suretyship signed by the appellants, which guaranteed the debts of the Union Charter Trust (UCT) under four lease agreements related to Pilatus PC12 aircraft ([para 3]). UCT's bankruptcy led the bank to repossess the aircraft in May 2006, followed by their sale ([para 4]). The suretyship was intended to cover all of UCT's obligations. However, the appellants contended that it was only meant to cover specific previous liabilities related to a singular aircraft ([para 7]).
+
+The appellants advanced several defenses: lack of authority, contest over the jurisdiction of the Western Cape High Court, and a plea for rectification of the suretyship’s terms, asserting that their understanding was that they were only guaranteeing a limited obligation related to one specific aircraft ([paras 7-8]). The trial court ruled in favor of the bank, leading to the appeal.
+
+### I – Issues
+The central issues arising from this case include:
+1. **Jurisdiction**: Did the Western Cape High Court have jurisdiction over the appellants given that the agreements were executed in Johannesburg and one appellant resided outside of South Africa? ([paras 10-11]).
+2. **Lack of Authority**: Was Beulah Bonugli authorized to execute the deed of suretyship on behalf of RCT, thereby binding it to the obligations contained therein? ([paras 24-25]).
+3. **Rectification**: Could the appellants successfully argue that the deed of suretyship should be rectified to reflect a limited scope rather than the general obligations purportedly covered? ([paras 27]).
+4. **Quantum**: Was the calculation of debt and the charges recoverable by the bank appropriate? ([paras 29-30]).
+
+### R – Rules
+The applicable rules include:
+1. **Jurisdictional Principles**: Jurisdiction can stem from the parties' submission to the court's authority or the location of a cause of action ([paras 12, 18-21]). As per **Hay Management Consultants (Pty) Ltd v P3 Management Consultants (Pty) Ltd** [2005] ZASCA 33, furnishing an address for the service of process can constitute a submission to jurisdiction.
+2. **Trustee Authority**: South African trust law stipulates that a trustee must act jointly unless the trust deed states otherwise ([paras 15-16]). Authority to bind a trust arises specifically from provisions in the trust deed and any resolutions made by the trustees.
+3. **Requirement of Rectification**: For rectification to succeed, the party seeking it must demonstrate a mutual mistake in the expression of the document ([para 27]) as upheld in **Land and Agricultural Bank of South Africa v Parker** [2005] ZASCA 12.
+4. **Claims Calculation under Contract**: Under contract law, a claimant must establish its claims based on the agreed contractual terms ([para 29]).
+
+### A – Application
+The court examined jurisdiction by emphasizing that by not objecting to the court's jurisdiction, the appellants submitted themselves to it through their actions ([para 18]). Despite the second appellant's peregrine status, his conduct in contesting the merits without challenging jurisdiction demonstrated submission ([paras 18-21]).
+
+On the issue of authority, the court found that Beulah Bonugli was indeed authorized to enter into the deed of suretyship based on the oral evidence presented. The first appellant's claims of limited authority were undermined by her admission that the bank relied on a different resolution that allowed for general obligations, which was not contested in this appeal ([paras 24-27]).
+
+The rectification claim failed as the court found that the testimony of Mrs. Leukis, the bank's representative, convincingly established that the suretyship was intended to be broad to cover future transactions with UCT. The court dismissed the appellants' evidence as lacking credibility without any successful challenge ([para 27]).
+
+Regarding quantum, the court assessed the validity of specific charges claimed by the Standard Bank, ultimately determining that the contractual basis for some charges was not sufficient, leading to a reduction in the owed amount ([paras 29-30]). The bank could not demonstrate that the disputed charges fell within the agreed contractual terms, which the court clarified as pivotal for enforcements of claims.
+
+### C – Conclusion
+The Supreme Court of Appeal upheld the appeal, setting aside the trial court's order and ruling in favor of the appellants with a modification of the debt amount owed. The final judgment decreed the appellants to pay R14 578 143 along with interests and certain costs ([paras 39-40]). The case illustrates significant principles in contract law regarding submission to jurisdiction, the nature of trustee authority, and the important distinctions when it comes to the rectification of contractual terms. The implications suggest a clear delineation regarding trustees' actions in binding trusts, the importance of unequivocal authorization, and the necessity of adhering closely to documented intentions within surety agreements.

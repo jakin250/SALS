@@ -1,0 +1,36 @@
+Case Note: REPORTABLE
+Source Folder: 2002
+
+### FIRAC Case Note: Bezuidenhout NO v Eskom (379/2001)
+
+#### F – Facts
+The case concerns an accident involving Louis Roux, a 19-year-old learner mine official who, on April 11, 1997, hitchhiked in a vehicle driven by Oelofse, an employee of Eskom. Roux was later found unconscious after a serious accident, having sustained severe head injuries. His father initiated a claim against Eskom, seeking damages amounting to R2,483,307.30 for his son's injuries, contending that Oelofse's negligence caused the incident ([1]–[2]). 
+
+The Pretoria High Court trial, presided over by Van der Merwe J, revealed two key issues: Oelofse’s vicarious liability as an employee of Eskom and whether Roux was a foreseeable plaintiff. Notably, Oelofse denied knowing Roux and had forgotten the events surrounding the incident. The court found that Roux was present in the vehicle at Oelofse's invitation but ultimately concluded that Oelofse was not acting within the scope of his employment when the accident occurred, referencing the precedent of *South African Railways and Harbours v Marais* ([3]–[5]).
+
+The case reached the Supreme Court of Appeal after the High Court granted leave for Roux's curator ad litem to appeal the ruling of non-vicarious liability while simultaneously allowing Eskom to cross-appeal on the foreseeability issue ([7]).
+
+#### I – Issues
+The legal issues identified include:
+
+1. **Vicarious Liability**: Whether Oelofse was acting within the course and scope of his employment while transporting Roux, thus implicating Eskom in liability for Roux's injuries ([4]–[5]).
+2. **Foreseeability of Harm**: Whether Roux was a foreseeable plaintiff entitled to claim damages from Eskom, given the circumstances of his being an unauthorized passenger in the vehicle ([4]–[6]).
+
+#### R – Rules
+The court relied on several legal principles regarding vicarious liability and negligence:
+
+1. **Vicarious Liability**: Established principles state that an employer is only liable for acts of an employee if those acts occurred within the scope of employment. This principle was drawn from *South African Railways and Harbours v Marais* (1950) 4 SA 610 (A) ([9]–[10]).
+
+2. **Policy Considerations**: The court explored the social policies underlying vicarious liability, including balancing liability without fault against recompense for the injured ([19]).
+
+3. **Scope of Employment**: The court differentiated between acts that are within the scope of employment and those that represent a personal frolic of the employee, relying on case law from both South Africa and foreign jurisdictions ([21]–[25]).
+
+#### A – Application
+In applying these legal rules, the court assessed that Oelofse was prohibited from giving unauthorized lifts, making his invitation to Roux a breach of his employment duties. As such, the negligent driving subsequent to this act was deemed outside the scope of his employment. The court also noted Roux accepted a lift at his own risk, thus undermining his claim of being a foreseeable plaintiff. The precedent set in *Marais* was pivotal, providing a framework that concluded the employer could not be held liable for the actions of an employee acting against express company policy ([11]–[16], [20]).
+
+The court highlighted that despite Oelofse's negligence, the act of driving Roux, who was unauthorized, fundamentally detached the liability from Eskom, thereby favoring the employer's defense. Furthermore, conclusions drawn from evidence indicated the probability of Roux being a passenger was less persuasive than the notion of him being in the vehicle unlawfully ([27]).
+
+#### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal by Roux's curator ad litem, reaffirming the High Court's decision that Eskom was not vicariously liable for Roux's injuries due to Oelofse acting outside the scope of his employment. The court upheld the stronger precedent established by the *Marais* case, indicating a clear delineation between unauthorized passenger claims and employer liability in negligence cases. The cross-appeal regarding Roux's status as a foreseeable plaintiff was also dismissed, reinforcing the idea that unauthorized passengers could not expect similar protection under vicarious liability rules ([26]–[28]). 
+
+This decision underlines the courts’ ongoing interest in maintaining a balance between employer liability and employee conduct, vital for shaping the legal landscape surrounding vicarious responsibility in South African tort law.

@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# Case Note: Milnerton Estates Ltd v CSARS ([2018] ZASCA 155)
+
+## F - Facts ([paras 1–5])
+The appellant, Milnerton Estates Limited, is a property developer whose income consists of proceeds from sales of stands within its developments, which are subject to income tax under the Income Tax Act 58 of 1962 (the Act). In 2013, Milnerton Estates concluded twenty-five sale agreements for erven in the Parklands Residential Estate. Buyers made a nominal deposit of R5,000, with the balance payable upon transfer of ownership. Most agreements included suspensive conditions related to securing financing.
+
+By the end of the 2013 tax year, these suspensive conditions were fulfilled in all instances, allowing the company to give possession of the erven to purchasers. However, Milnerton Estates did not account for the purchase prices in its gross income for that year, positing that it had not yet received the purchase price. The respondent, the Commissioner for the South African Revenue Service (SARS), contended that the amounts must be included in the 2013 tax year, stating that the legal right to the funds had accrued.
+
+SARS issued an assessment that included nearly R6.8 million to Milnerton Estates' taxable income, leading to tax liability of approximately R1.9 million. The Tax Court upheld the assessment, prompting Milnerton Estates to appeal directly to the Supreme Court of Appeal (SCA).
+
+## I - Issues ([paras 6])
+The key legal questions involved were: 
+1. Whether the appellant's right to receive the purchase price under the sale agreements accrued during the 2013 tax year.
+2. If so, whether the amounts were deemed to have been received during that same tax year pursuant to section 24(1) of the Income Tax Act.
+
+## R - Rules ([paras 7–12])
+The relevant legal framework includes:
+- **Income Tax Act 58 of 1962**, specifically s 1, which defines gross income as the total amounts received or accrued to a taxpayer.
+- **Section 24(1)** establishes that for property agreements, the amounts are deemed to have accrued when the agreement is made, contingent upon certain conditions being satisfied.
+  
+The SCA referenced the precedent from *Secretary for Inland Revenue v Silverglen Investments* ([1969] 1 SA 365 (A)), which elucidated that the accrual does not necessarily require payment before or simultaneously with transfer.
+
+## A - Application ([paras 13–22])
+The SCA meticulously examined the implications of section 24(1) and the arguments presented by both parties. Milnerton Estates attempted to argue for a restrictive interpretation of section 24(1), asserting that it applied primarily to credit agreements, and sought to differentiate cash sales from the provisions that govern installment sales. However, the court found no substantial justification for such a limitation.
+
+The court emphasized the decision in *Silverglen Investments*, which defended the principle that ownership can pass after the receipt of the purchase price, legitimizing the application of section 24(1) irrespective of whether the payment was made concurrently with the transfer of ownership. This established that the existence of guarantees or deposits constituted payment in terms of the statutory framework.
+
+Milnerton Estates' argument that it should not be liable for tax until actual receipt was deemed incompatible with the established legal interpretation presented in previous cases. The court reiterated that the suspension of ownership until transfer does not negate the right to the purchase price from being recognized as accrued. The entwined notions of ‘payment’ in serious property dealings were examined in detail, leading the court to reaffirm the necessity of treating guarantees sufficient for the accrual definition.
+
+## C - Conclusion ([paras 23])
+The SCA dismissed the appeal, reaffirming the conclusion of the Tax Court that Milnerton Estates was bound by the precedent set in *Silverglen Investments*. The court held that the agreements entered into by Milnerton Estates fulfilled the requirements of section 24(1), thus the purchase prices were deemed to have accrued in the 2013 tax year, despite the actuality of payment occurring in the following year. The decision held significant implications for property developers regarding their obligations to account for tax liability, clarifying that the accrual principle under the Income Tax Act extends to circumstances where guarantee agreements exist alongside property transactions.
+
+The appeal was dismissed with costs, ensuring that the precedent on the interpretation of section 24(1) remains pivotal in future assessments of property income tax.

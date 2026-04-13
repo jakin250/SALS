@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2009
+
+# FIRAC Case Note on Mkumatela v The Nelson Mandela Metropolitan Municipality
+
+## Facts ([paras 1–7])
+
+The case arises from an appeal following a review application brought by Tshediso Mkumatela (the appellant) against the Nelson Mandela Metropolitan Municipality (the first respondent), concerning an employment dispute. Mkumatela, an employee of the municipality, sought promotion to the position of assistant manager of waste operations. He was shortlisted as one of four candidates for the role, which is governed by the municipal Recruitment Selection and Placement Policy ([para 2]).
+
+The appointment committee consisted of Ms. Zamxaka, the manager of the waste management unit, Mr. Jamda, a Human Resources representative, and three union representatives who had observer status only. During deliberations, Ms. Zamxaka preferred Mkumatela, while Mr. Jamda favored the second respondent, Mr. S V Mafongosi. Following a failure to reach consensus among the voting members, the committee misutilized the scores given by the observers, leading to a recommendation that favored Mafongosi despite a clear majority supporting Mkumatela. This procedure deviated from the sanctioned recruitment policy, which led Mkumatela to argue that his constitutional right to lawful and fair administrative action was violated under section 33 of the Constitution ([paras 3–4]).
+
+The municipality contested the validity of the review application on two primary grounds: (1) that the High Court lacked jurisdiction as the matter fell within the exclusive domain of the Labour Court in accordance with the Labour Relations Act 66 of 1995 (LRA); and (2) that the conduct complained of did not amount to "administrative action" as defined by the Promotion of Administrative Justice Act 3 of 2000 (PAJA) ([paras 5–6]). The High Court dismissed the review application, and Mkumatela appealed ([para 7]).
+
+## Issues ([paras 1, 5, 8, 12])
+
+1. **Jurisdictional Authority**: Whether the High Court had the jurisdiction to hear the review application, given the provisions of the LRA that govern employment-related disputes ([para 8]).
+   
+2. **Definition of Administrative Action**: Whether the decision-making process regarding the appointment was considered "administrative action" under PAJA, thereby implicating sections 33 of the Constitution ([paras 10, 12-15]).
+
+## Rules ([paras 8, 10, 12-14])
+
+The legal framework in this case primarily involves:
+- **Labour Relations Act 66 of 1995 (LRA)**: This Act delineates the jurisdiction of the Labour Court over disputes emerging from employment and labor relations, implying that such disputes may not be reviewed in the High Court if they fall within the ambit of the LRA.
+  
+- **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**: This Act provides the framework for reviewing administrative actions, requiring them to be lawful, reasonable, and procedurally fair as per section 33 of the Constitution.
+  
+Key precedents include:
+- **Chirwa v Transnet Ltd** 2008 (4) SA 367 (CC): This case established the principle that employment relationships do not typically amount to "administrative action" within the meaning of PAJA.
+  
+- **Gcaba v Minister of Safety and Security** [2009] ZACC 26: Following *Chirwa*, the Court affirmed that decisions concerning promotions and employment do not constitute administrative action.
+
+## Application ([paras 8-15])
+
+The appellate court affirmed the reasoning of the High Court, noting that the issues at hand were effectively governed by established precedents that clarified the boundary between labor-related grievances and administrative action. The court found that the decision regarding employment in this context did not qualify as administrative action under PAJA.
+
+The argument presented by the municipality that its actions did not constitute administrative action was reinforced by the court's examination of the Gcaba case. In doing so, the court highlighted the distinction between employee grievances that may be pursued under labor law as opposed to those invoking administrative justice ([paras 12-15]). Revelas J's finding in the lower court, asserting that the conduct constituted administrative action because it involved the promotion process by a state organ, was deemed inconsistent with established legal principles articulated in *Gcaba*.
+
+The court concluded that the conduct under review was fundamentally an employment-related issue, devoid of implications for the public as a whole, thus not falling within the ambit of actions subject to review under PAJA ([para 15]).
+
+## Conclusion ([paras 16])
+
+The Supreme Court of Appeal upheld the dismissal of Mkumatela's appeal, concluding that the act of promotion performed by the municipality did not qualify as administrative action. Consequently, the High Court lacked jurisdiction to adjudicate the review application under PAJA. The appeal was dismissed with costs, affirming the legal principles established in *Chirwa* and *Gcaba*, thereby emphasizing the delineation of jurisdictional boundaries between labor law and administrative justice in South Africa’s legal framework ([paras 16]).
+
+---
+
+This case highlights significant intersections between constitutional provisions concerning administrative justice and the statutory framework outlining labor relations, offering crucial insights for future cases dealing with employment disputes in public sector contexts.

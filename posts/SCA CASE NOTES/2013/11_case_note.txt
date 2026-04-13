@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: BHP Billiton PLC Inc v De Lange (189/2012) [2013] ZASCA 11
+
+## F – Facts
+
+This case arose from an application initiated by the first and second respondents (Media 24) against the appellants (BHP Billiton PLC and Hillside Aluminium (Pty) Ltd) for access to information held by Eskom Holdings Limited, the third respondent, under the Promotion of Access to Information Act 2 of 2000 (PAIA) ([1]). Media 24 sought information concerning two contracts for the supply of electricity to the Hillside smelters in South Africa and the Mozal smelter in Mozambique. These contracts granted Billiton access to electricity at rates significantly lower than the standard tariff, extending until 2026 and 2028 respectively ([1]-[2]).
+
+Media 24 filed its initial request for information on 30 June 2009, which Eskom denied on 29 July 2009 ([9]). The refusal was based on multiple grounds, including commercial confidentiality ([9]). Media 24 subsequently submitted a narrower request on 18 September 2009, seeking specific documents regarding the pricing formula, signatories, and durations of the contracts ([11]-[12]). Eskom's refusal, communicated in November 2009, cited sections of PAIA including those meant to protect commercial information and confidential information of third parties, notably Billiton ([13]). Media 24 contested this refusal and filed an application in the South Gauteng High Court. Eskom chose to abide by the court's decision, while Billiton responded with a point in limine, claiming that Media 24’s second request was out of time ([15]-[16]).
+
+The High Court ruled in favour of Media 24, leading to the appeal by Billiton which raised four primary issues, including the timeliness of Media 24's application and the validity of the grounds for refusing the request ([17]) ([19]).
+
+## I – Issues
+
+The appeal presented several key legal questions:
+
+1. **Point in Limine**: Was Media 24's second request for information time-barred under PAIA? ([19]).
+2. **Grounds for Refusal**: Did Billiton's claims under sections 36(1)(b), 36(1)(c), and 37(1)(a) of PAIA sufficiently justify refusal of disclosure of the sought information? ([22]).
+3. **Public Interest**: How does the public interest override provision in section 46 of PAIA interact with the claimed justifications for refusal? ([16]).
+4. **Constitutional Challenge**: Is the interpretation of PAIA consistent with the Constitutional provisions ensuring access to information? ([17]).
+
+## R – Rules
+
+The key statutory provisions applicable to the case include:
+
+- **Promotion of Access to Information Act 2 of 2000 (PAIA)**: 
+  - Section 11(1)(a)-(b) mandates access to records from public bodies unless they can be refused on ground specified in Chapter 4.
+  - Section 36(1) offers mandatory protection of commercial information, stipulating that such information may be withheld if its disclosure would harm the financial or commercial interests of a third party.
+  - Section 37(1)(a) protects confidential information, mandating refusal if its disclosure would breach a duty of confidence owed to a third party.
+  - The overriding provision regarding public interest is found in section 46, allowing for mandatory disclosure if justified public interests are present ([2], [17]).
+
+## A – Application
+
+### Point in Limine
+The Court examined whether the second request was a continuation of the first, launched more than 180 days after the initial refusal, making it time-barred ([19]-[20]). The majority held that the nature of the requests were distinct enough that Media 24 was not precluded from seeking access, thus dismissing Billiton's point in limine ([21]).
+
+### Grounds for Refusal
+In addressing the substantive grounds for the refusal of the request, the Court analyzed whether Billiton substantiated its claims of potential harm under sections 36 and 37 of PAIA. The majority opinion noted that while Billiton feared disclosure of pricing information would harm its competitive edge, this concern was exaggerated; significant information about electricity pricing in the aluminium industry was available to competitors ([26]-[28]). The Court concluded that the fear of competitive disadvantage did not meet the evidentiary threshold required to refuse access under PAIA's provisions ([28]-[30]).
+
+### Public Interest
+The majority ruling acknowledged that even if Billiton's justifications held some merit, public interest considerations within section 46 of PAIA necessitate disclosure of information that affects public consumption rates and energy supply. The Court favored public interest over commercial confidentiality in this instance ([28]). 
+
+### Constitutional Challenge
+The case also involved questions of constitutional law as it related to the enforcement of constitutional rights to access information ([18]). The Court affirmed that the provisions of PAIA complied with the constitutional mandate for transparency while balancing the need for confidentiality in commercial dealings.
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately dismissed Billiton's appeal, asserting that Media 24's second request was properly filed within the time limits and that Billiton's refusal lacked sufficient legal grounding under PAIA. The majority opinion underscored the importance of transparency and the public’s right to information regarding contracts between state entities and private companies, especially when public interest is concerned ([34]). The implications extend beyond this case, emphasizing the judiciary’s role in ensuring access to information and the need for public bodies to justify their refusals consistently. The Court altered the costs order from the High Court, ordering Eskom to cover the costs incurred by Media 24 in the application while leaving the appeal costs unawarded ([34]). 
+
+This decision highlights critical intersections between access to information, public interest, and commercial confidentiality, relevant to ongoing dialogues on transparency in governance and corporate accountability in South Africa.

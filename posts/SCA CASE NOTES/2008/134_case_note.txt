@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# FIRAC Case Note: Fourway Haulage SA (Pty) Ltd v SA National Roads Agency Ltd [2008] ZASCA 134 (26 November 2008)
+
+## F – Facts 
+The appellant, Fourway Haulage SA (Pty) Ltd (hereafter “Fourway”) is a long-distance haulier engaged in transporting hazardous materials, specifically chrysolite asbestos. On the evening of 26 September 2003, a collision occurred between an articulated truck driven by a Fourway employee and a light delivery van on the N1 national road between Polokwane and Mokopane in the Limpopo province ([1]).
+
+The articulated truck was transporting 34 tonnes of asbestos to Durban for export when it overturned, spilling its cargo across the road. The hazardous nature of the material required the closure of the affected section of the national road and the diversion of traffic onto a non-toll alternative route for approximately 24 hours ([2]). This diversion resulted in lost toll revenue for the SA National Roads Agency Ltd (hereafter “the Agency”), which was the entity responsible for collecting tolls on that road. Subsequently, the Agency pursued compensation from Fourway for the claimed loss of toll fees amounting to R105,996.67 ([3]).
+
+The trial court (High Court, Pretoria) allowed for a separation of issues, determining that questions of Fourway's liability would be addressed first, while the quantum of damages was postponed for later decision. The court ultimately found Fourway liable for damages as the Agency proved them ([4]). Fourway appealed this decision, contesting the court's findings on liability, particularly relating to the notion of pure economic loss.
+
+## I – Issues 
+On appeal, the principal issues emerged regarding whether: 
+
+1. The court a quo correctly concluded that the Agency's claim did not amount to “pure economic loss” ([8]).
+2. The Agency had adequately pleaded a legal duty on the part of Fourway ([8]).
+3. The damages claimed were not too remote, thereby justifying liability ([8]).
+
+Fourway's argument shifted during the trial, focusing not only on the negligence of its employee but also on the legal implications of economic loss and causation ([6], [7]).
+
+## R – Rules 
+The legal principles at play involve:
+
+1. **Pure Economic Loss**: Defined as that which does not arise directly from damage to the plaintiff's person or property but is instead resultant from negligent acts, such as the loss of revenue ([10]). The legal obligation to prevent pure economic loss hinges upon established duty of care, determined through judicial interpretation of public policy ([12]).
+
+2. **Legal Duty and Wrongfulness**: The existence of a legal duty to prevent pure economic loss must be established, which involves public interest considerations ([12]). This encompasses the conditions under which negligent conduct can be deemed wrongful and hence actionable ([12]).
+
+3. **Remoteness and Causation**: Remoteness is determined through policy considerations reflecting fairness and the reasonable foreseeability of damages that result from the wrongful act ([31]). 
+
+The court's examination reiterates established tests of causation and remoteness in delict, identifying the need for a flexible approach that contemplates both factual causation (but-for test) and whether the damages claimed are sufficiently connected to the negligent act to avoid being deemed too remote ([30], [35]).
+
+## A – Application 
+The court a quo held that Fourway's employee's negligence was a direct cause of the accident, which necessitated the decontamination process and road closure, thus establishing liability ([7]). The argument that the Agency's claim constituted pure economic loss was addressed by examining whether the damages actualized represented a direct infringement of the Agency's statutory rights to levy tolls, which the court found to be the case, distinguishing its position from typical instances of pure economic loss ([9], [12]).
+
+In essence, the Agency did not engage in sufficient pleading regarding the legal duty necessary to support a claim for pure economic loss. However, despite Fourway's late objections regarding the form of the pleadings, the court found that they had ample opportunity to contest the legal duty during the trial, therefore no prejudice arose from the Agency’s approach ([14], [29]). The appeal's focus on remote damages was likewise dismissed; the closure and subsequent loss of toll revenue were viewed as direct and foreseeable consequences of the negligent act ([35]).
+
+The court considered public policy implications, notably that attributing liability to Fourway would not impose unjustified burdens upon them, as basic care obligations were already in place concerning road safety ([26], [27]). 
+
+## C – Conclusion 
+The Supreme Court of Appeal dismissed the appeal with costs, affirming the court a quo's ruling. The finding determined that the Agency's claim did not merely represent pure economic loss and that Fourway’s negligent conduct was indeed actionable, satisfying requirements for both legal duty and causation. The ruling underscores the court’s inclination to balance the imperatives of liability against policy considerations aimed at fostering equitable legal and commercial environments.
+
+The implications extend beyond this case, as the judgment reinforces the nuances surrounding economic loss in tort law and situates the court as a mediator balancing risk allocation among parties engaged in inherently dangerous activities, such as the transportation of hazardous materials. This case thus contributes significantly to the evolving doctrine of economic loss within South African delictual liability.
+
+---
+In this FIRAC case note, legal concepts pertinent to negligence and economic loss in the context of South African law are outlined based on the given case, providing a thorough analysis suitable for citation and academic publication.

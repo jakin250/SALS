@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: MEC v Terra Graphics (483/2013) [2015] ZASCA 116 
+
+### FIRAC Method
+
+#### Facts
+The dispute in *MEC v Terra Graphics* arose out of a contractual relationship involving the Free State Provincial Government (the Province), the main contractor SSI/Tshepega Joint Venture (SSI), and the subcontractor Terra Graphics (Pty) Ltd, trading as Terra Works (TW). The Province initiated a road infrastructure programme to enhance road safety and accessibility, for which it invited tenders. SSI won the tender for engineering services valued at approximately R69 million, and TW was appointed as a subcontractor for environmental consultancy services worth R1,593,997.75, with the agreement approved on 22 October 2010 ([1]–[5]). 
+
+Despite the completion of the services and partial payments made to both SSI and TW, the Province refused to pay the remaining balance, alleging a lack of budget allocation for the programme, which purportedly breached statutory provisions regarding financial management ([1], [7], [9], [18]–[20]). TW subsequently sought payment directly from the MEC, arguing that it had fulfilled its obligations under the sub-consultancy agreement, and also brought an alternative claim for SSI to be directed to pay it ([6], [8], [12]). The first instance legal decision dismissed the Province’s arguments regarding budgetary allocations and privity of contract, ordering the MEC to pay TW but was somewhat brief in handling the substantive statutory arguments ([13], [14]). 
+
+#### Issues
+The principal legal issues addressed in this case were:
+1. **Whether TW had a direct right to claim payment from the MEC given the asserted lack of contractual privity between TW and the Province** ([9], [12]).
+2. **Whether the Province’s refusal to honour its contractual obligations was justified by alleged failures to comply with statutory budgeting frameworks under the Public Finance Management Act (PFMA)** ([10], [18]).
+3. **The implications of the Province’s behaviour which appeared to contravene constitutional principles of transparency and accountability** ([21], [22]).
+
+#### Rules
+The case heavily relied on contractual principles related to privity and the enforceability of contracts, as well as statutory provisions under the PFMA. Key statutory provisions included:
+- **Section 21(1)(b)(i)** of the PFMA which states that no money may be withdrawn from the Provincial Revenue Fund except in terms of an appropriation by a provincial Act.
+- **Section 226** of the Constitution regarding the management of public funds requires compliance with appropriations for any expenditure ([18], [20]). 
+- Definitions of **"irregular expenditure"** and **"unauthorised expenditure"** in the PFMA ([18], [19]).
+
+Additional judicial precedents emphasized contractual rights and obligations, as well as the principle that governmental entities must act transparently and with accountability (as cited from *Mohamed & another v President of the Republic of South Africa & others* [2001] ZACC 18).
+
+#### Application
+The court's analysis began with the determination of TW's entitlement to claim payment directly from the MEC. The court established that the sub-consultancy agreement allowed for such a transaction since the sub-consultant's fees were acknowledged as due under the main agreement, which the MEC had sanctioned. The court dismissed the Province's argument concerning a lack of privity as diversionary, affirming that the governance framework implied TW’s work benefitted the Province directly ([11], [22]).
+
+In evaluating the Province’s refusal to pay based on budgetary issues, the court found that the Province misrepresented its financial status. Evidence presented showed that funds had indeed been allocated for the road rehabilitation programme, directly contradicted the MEC’s claims about a lack of budgetary compliance ([15], [20]). The court highlighted the requirement for governmental entities to behave honorably and highlighted the inconsistency of the MEC's arguments in light of internal documentation, which revealed a commitment to address budgetary issues ([16], [21]).
+
+In terms of the financial obligations created under the agreements, the court clarified that a failure to appropriately allocate funds, while a serious issue, did not negate the contractual obligations. The court drew a clear delineation between irregular and unauthorised expenditure, asserting that the Province could not avoid payment simply based on bureaucratic failings ([20]).
+
+The final decision recognized the substantive obligations of the Province to fulfill its financial commitments arising from the valid execution of the contracts, ultimately ruling that the initial court had appropriately mandated payment, albeit with a modification to the amount owed based on received payments ([24], [25]).
+
+#### Conclusion
+The Supreme Court of Appeal dismissed the appeal by the MEC, thereby affirming the High Court's order for the Province to pay TW. However, it corrected the total owed to R1,436,880.21, subtracting the amounts already paid to TW prior. This case reinforces the principles of accountability and transparency within governmental financial dealings, particularly stressing the binding nature of statutory obligations alongside contractual ones. It serves as a critical reminder of the necessity for governmental entities to conduct their affairs in accordance with both contractual commitments and financial regulations, highlighting the legal recourse available to contractors against governmental defaulters in South Africa’s legal landscape ([23], [25]). 
+
+---
+
+This comprehensive review illustrates the procedural history and implications of faithfulness to constitutional mandates, ensuring that the principles laid down will guide future interactions between governmental bodies and contractors.

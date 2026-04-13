@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: *Mawecro (Pty) Ltd v Sithole and Others* (322/2023) [2024] ZASCA 91
+
+## F – Facts
+The case involves an appeal by *Mawecro (Pty) Ltd* (the company), a joint venture with two shareholders: the *Mawewe Communal Property Association* (the Association) holding 51% and *Crooks Brothers Limited* holding 49% ([1]). The relationship between the shareholders is governed by a Shareholders’ Agreement, specifically clauses 10.1.1 and 10.1.2, which stipulate the rights to appoint and remove directors ([1]).
+
+The Association appointed *Jabulani Lighter Sithole* (the first respondent) and *Isaac Myomo Nitwane* (the second respondent) as directors. However, the Association later resolved to remove them as directors and appointed *Etienne Jacques Naudé*, *Johannes Petrus Koekemoer*, and *Johannes Lodewyk Bouwer* in their stead ([2]).
+
+Following their removal, Sithole and Nitwane sought declaratory relief in the High Court of Mpumalanga, leading to an order that set aside their removal, mandated retroactive payment of director fees, and declared prior board meetings unlawful ([2],[3]). The High Court found that the removal process did not comply with section 71 of the Companies Act 71 of 2008 ([8]) and thus ruled in favour of the respondents.
+
+## I – Issues
+The legal issues arose around the validity of the removal of the directors and whether the respondents had the standing to seek declaratory relief without formally reviewing the decision to remove them. Specifically, the court needed to consider:
+
+1. Was the High Court correct in granting the declaratory relief without reviewing the decision to remove the directors? ([7])
+2. Did the applicants appropriately challenge the decisions made by the Association regarding their removal? ([4])
+
+## R – Rules
+The primary legal rules applied involved the provisions of the Companies Act 71 of 2008, particularly section 71, which outlines the procedures for removing directors. The court also referenced *Oudekraal Estates (Pty) Ltd v City of Cape Town* ([3]), which established that decisions stand until they are reviewed and set aside. The Uniform Rules of Court, particularly Rule 53, were also relevant regarding the procedure for official review of administrative decisions ([7]).
+
+## A – Application
+In applying the law, the Supreme Court of Appeal critically assessed whether the respondents’ failure to invoke Rule 53 negated their claim. The court found that the High Court improperly assumed it could grant declaratory relief without adhering to the proper review mechanisms in light of the respondents’ lack of a specified challenge to their removal ([8]).
+
+The court noted that the Association's resolution to remove the directors had not been properly contested, and thus stood as valid until overturned. The High Court’s conclusions were deemed flawed because it overlooked the fact that the respondents’ positions as directors were contingent on the Association's authority as stipulated in the Shareholders’ Agreement. Consequently, the court held that the directors could not claim protection from removal simply by failing to challenge the procedural integrity of the resolution ([7],[8]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the appeal, allowing Mawecro's removal of the directors to stand. The order of the High Court was set aside, and the application for declaratory relief was dismissed with costs, which included the expenses of two counsels where applicable ([1],[2]). 
+
+The ruling underscores the importance of following statutory and procedural rules when challenging corporate decisions, reinforcing that without a formal review, decisions made by corporate bodies remain operative. The case illustrates the boundaries of declaratory relief and the obligations of parties seeking such relief in corporate governance contexts. The decision aligns with the principle that corporate actions, unless formally contested, should withstand judicial scrutiny. 
+
+In conclusion, the implications of this judgment emphasize the need for shareholders and corporate directors to comply with procedural norms as outlined in governing agreements and statutory frameworks for corporate governance in South Africa. Such adherence is crucial for maintaining corporate integrity and management legitimacy.

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | SALS Constitutional and SCA Case Notes</title>
+  <meta name="description" content="Contact the SALS Constitutional Court and Supreme Court of Appeal case note archive team.">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-page="contact">
+  <div class="topbar">
+    <div class="container topbar__inner">
+      <span>1996-2024 Constitutional Court and Supreme Court of Appeal case notes.</span>
+      <a href="search.html">Search the archive</a>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="container site-header__inner">
+      <a class="brand" href="index.html">
+        <span class="brand__mark">
+          <img src="assets/brand/Logo.jpg" alt="South African Law Students SA. logo">
+        </span>
+        <span class="brand__text">South African Law Students SA.</span>
+      </a>
+
+      <nav class="site-nav" aria-label="Primary">
+        <a href="index.html" data-nav-key="home">Home</a>
+        <a href="archive.html" data-nav-key="archive">Archive</a>
+        <a href="search.html" data-nav-key="search">Search</a>
+        <a href="about.html" data-nav-key="about">About</a>
+        <a href="contact.html" data-nav-key="contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    
+    <section class="page-hero">
+      <div class="container narrow">
+        <span class="eyebrow">Contact</span>
+        <h1>Share corrections, suggestions, and editorial requests.</h1>
+        <p class="page-hero__lede">
+          This page uses a placeholder mail recipient for now. If you want live submissions later, we can connect this
+          form to a Node.js or PHP backend.
+        </p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container contact-grid">
+        <div class="contact-stack">
+          <article class="info-card">
+            <h2>Editorial enquiries</h2>
+            <p>Ask about the archive, coverage gaps, or future case-note collections.</p>
+          </article>
+          <article class="info-card">
+            <h2>Corrections and updates</h2>
+            <p>Send title fixes, citation corrections, or formatting issues you notice in a note.</p>
+          </article>
+          <article class="info-card">
+            <h2>Working email</h2>
+            <p><code>editor@case-notes.local</code></p>
+            <p>This is a placeholder address until you provide the real contact email.</p>
+          </article>
+        </div>
+
+        <form id="contact-form" class="contact-form" data-recipient="editor@case-notes.local">
+          <label>
+            <span>Name</span>
+            <input type="text" name="name" placeholder="Your name" required>
+          </label>
+          <label>
+            <span>Email</span>
+            <input type="email" name="email" placeholder="your@email.com" required>
+          </label>
+          <label>
+            <span>Subject</span>
+            <input type="text" name="subject" placeholder="What do you want to discuss?" required>
+          </label>
+          <label>
+            <span>Message</span>
+            <textarea name="message" rows="8" placeholder="Write your message here..." required></textarea>
+          </label>
+          <button class="btn" type="submit">Draft email</button>
+          <p id="contact-form-status" class="form-status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+  
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <h2>South African Law Students SA.</h2>
+        <p>An authoritative BB FIRAC archive of Constitutional Court and Supreme Court of Appeal case notes.</p>
+      </div>
+      <div>
+        <h3>Navigate</h3>
+        <ul class="footer-links">
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="search.html">Search</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Source</h3>
+        <p>Built from <code>posts/CC CASE NOTES + posts/SCA CASE NOTES</code>.</p>
+        <p>&copy; <span data-current-year></span> South African Law Students SA.</p>
+      </div>
+    </div>
+  </footer>
+
+  
+  <script src="assets/site.js"></script>
+</body>
+</html>

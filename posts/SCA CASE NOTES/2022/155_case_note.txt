@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+### Case Note: Greater Tzaneen Municipality v Bravospan 252 CC [2022] ZASCA 155
+
+#### F – Facts
+
+This case revolves around an appeal brought by the Greater Tzaneen Municipality (the appellant) against a judgment from the Limpopo Division of the High Court regarding an enrichment claim by Bravospan 252 CC (the respondent). The background of the case, as stated in [1–5], involves a Service Level Agreement (SLA) established on 20 November 2013, where Bravospan was contracted to provide security services for a year. An addendum to the SLA extended this agreement by an additional 24 months without a competitive bidding process, despite questions from Bravospan on its legality.
+
+The municipality later contested this extension, filing for a declaratory order to have it declared null and void. Bravospan countered by seeking payment for services rendered without remuneration, leading to various applications and judgments, ultimately culminating in a declaration of the SLA extension's unconstitutionality by the High Court and a dismissal of Bravospan's counter-application ([6–7]).
+
+Following unsuccessful appeals by Bravospan, the municipality enjoyed Bravospan's services without compensation until a new action was initiated by Bravospan in January 2018, which sought R9,624,000 based on alternatively pleaded grounds, including unjust enrichment ([7]).
+
+#### I – Issues
+
+The appeal raised specific legal questions focused primarily on the validity of Bravospan's claim under the **Institution of Legal Proceedings Against Certain Organs of State Act 40 of 2002** (the Act). The two key issues ([8–12]) were:
+
+1. **Did Bravospan’s notice comply with the requirements of s 3(2) of the Act?**
+2. **Had a portion of Bravospan’s claim prescribed under the relevant statutory framework?**
+
+Both these points address whether the procedural prerequisites of the Act preclude Bravospan's unjust enrichment claim against the municipality.
+
+#### R – Rules
+
+The legal framework governing this case is primarily provided by:
+
+- **Institution of Legal Proceedings Against Certain Organs of State Act 40 of 2002**: This legislation defines "debt" as it pertains to claims against state organs and establishes procedural requirements for bringing such claims, including the filing of a notice within six months of the debt's due date ([9–10]).
+  
+- **Constitution of the Republic of South Africa** (specifically s 172(1)(b)): This provision allows courts to make any order that is just and equitable in constitutional matters, providing the legal foundation for Bravospan’s claim for compensation despite the finding of unconstitutionality ([15–18]).
+
+Judicial precedents regarding unjust enrichment, particularly from **Nortje en ‘n Ander v Pool, NO** and **McCarthy Retail Ltd v Shortdistance Carriers CC**, noted that a general enrichment action is not recognized under South African law but may be countered with equitable remedies ([15–20]).
+
+#### A – Application
+
+The court's analysis principally focused on whether the claims for unjust enrichment would be considered a "debt" as defined under the Act. Counsel for the municipality conceded that the enrichment claim did not qualify as a debt within the meaning of the Act, making the procedural notice requirement inapplicable ([11]). This understanding shifted the focus towards assessing the merits of the claim itself.
+
+Regarding the prescription issue, the municipality's argument rested on whether Bravospan's claim was time-barred. However, the court found that the municipality had not sufficiently proven the date at which the claim should be considered to have prescribed, as it had failed to plead this effectively in prior arguments ([12–14]).
+
+On the matter of unjust enrichment, the court acknowledged the absence of a recognized general claim in South African law but indicated that in specific circumstances—such as Bravospan's—an exception might apply due to the inequality resulting from the municipality's actions ([15–20]). The court accepted that Bravospan provided services with the municipality benefiting without compensation, thereby indicating a form of enrichment. Thus, the court turned to s 172(1)(b) of the Constitution, noting that it could grant a just and equitable remedy to prevent manifest injustice despite the legal peculiarities of the claim.
+
+#### C – Conclusion
+
+The judgment concluded with the Supreme Court of Appeal upholding Bravospan's claim for compensation ([22]). The previous High Court's order declaring the SLA extension unconstitutional was set aside, and Bravospan was recognized as entitled to compensation for services rendered between 1 November 2014 and 31 October 2016 under the just and equitable remedy articulated in s 172(1)(b) of the Constitution. The court directed that the issue of the quantum of compensation should be referred back to the High Court for determination.
+
+This case reinforces the importance of procedural compliance under public law while simultaneously demonstrating the court's ability to craft equitable remedies in constitutional contexts, ensuring that parties are not unjustly enriched at the expense of others—even in the presence of statutory constraints. The ruling serves as a significant reference point in ongoing discussions about the nature and limits of unjust enrichment claims within South African law, highlighting potential avenues for relief outside traditional frameworks ([24]).

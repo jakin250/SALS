@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Jiyana and Another v Absa Bank Limited and Others (1424/2018) [2020] ZASCA 12
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–10])
+
+This appeal arises from a lengthy procedural history originating from a loan agreement concluded in January 2004 between the appellants, Thembinkosi Khulekani Rudolf Jiyana and Nomvo Jiyana (collectively "the appellants"), and Absa Bank Ltd ("the first respondent"). The appellants borrowed funds secured by a mortgage bond over their immovable property located in Cape Town ([para 2]). Following their default on repayment in May 2013, Absa Bank sought a default judgment in the High Court, which was granted on 15 April 2014 ([para 5]).
+
+Prior to that default judgment, the appellants had entered into a settlement agreement on 13 October 2008 to resolve arrears, which was subsequently confirmed as a court order. Despite this, the appellants defaulted again, leading to the 2014 default judgment ([paras 3–4]). Their subsequent applications for rescission of the judgments (October 2008 and April 2014) were dismissed, prompting multiple appeals, including to the Constitutional Court ([paras 8–9]). 
+
+On 5 September 2016, the appellants sought declaratory relief from the High Court to set aside the default judgment and any related actions taken by Absa Bank, asserting that the credit agreement was reinstated under section 129(3) of the National Credit Act 34 of 2005 (“NCA”) upon payment of arrears ([paras 10, 12]). 
+
+### I – Issues: Legal or Constitutional Questions ([paras 11–14])
+
+The central legal issues are:
+
+1. **Peremption**: Whether the appellants were precluded from challenging the default judgment due to their conduct following the settlement agreement of 27 August 2015, which explicitly acknowledged the validity of the judgment ([para 16]).
+
+2. **Res Judicata**: Whether the requests made in the current application for declaratory relief were precluded from further adjudication due to prior judgments addressing similar relief ([paras 13, 27]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 15–22])
+
+The court referred to the following legal principles:
+
+1. **Peremption**: Established in prior case law, peremption occurs when the conduct of a party indicates acquiescence in an unfavorable judgment, thus barring any subsequent challenge ([para 15]). The applicable cases include *South African Revenue Service v Commission for Conciliation, Mediation and Arbitration and others* [2016] ZACC 38.
+
+2. **Res Judicata**: Defined as the principle that prevents the same issue from being reopened after it has been judged and is settled ([para 19]). This principle was reinforced by *S v Molaudzi* [2015] ZACC 20.
+
+3. **NCA and Reinstatement of Credit Agreements**: The court relied on the provisions of the NCA, particularly sections 129 and 130, to evaluate the appellants' argument that their credit agreement should have been reinstated upon payment of arrears ([paras 10, 11]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 23–33])
+
+#### Peremption
+
+The Court observed that the appellants' signing of the settlement agreement unequivocally confirmed the validity of the default judgment against them ([para 18]). The Court concluded that this conduct was inconsistent with any intention to appeal, thus rendering the challenge to the default judgment impermissible. The appellants’ assertions of coercion were dismissed, as their proactive engagement in settlement negotiations contradicted such claims ([para 18]).
+
+#### Res Judicata
+
+In addressing res judicata, the Court found that the same core issue had previously been litigated and resolved when the rescission application was denied. Despite the appellants' argument that their current application was based on a different legal framework, the Court categorized both actions as seeking to set aside the default judgment based on the same underlying facts ([para 26]). The principle of "once and for all" was invoked to highlight that all possible grounds for challenge must be raised within a single suit ([para 29]), further reinforcing that the appellants could not revisit issues already adjudicated by prior courts ([para 30]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 34])
+
+The Supreme Court of Appeal dismissed the appeal, affirming the decisions of both the High Court and the full court regarding the validity and enforceability of the default judgment against the appellants. It held that the appellants' conduct manifested an unequivocal acceptance of the judgment, thereby invoking the principle of peremption. Furthermore, the failure to raise aspects of the NCA in prior proceedings demonstrated that res judicata applied. Thus, the appellants' bid to declare the default judgment a nullity was barred ([paras 34]).
+
+The implications of this decision underscore the necessity for parties to address all claims and defenses in an initial proceeding, emphasizing the importance of settlement agreements and their effects in future litigation. The court reinforced that once a party acknowledges a judgment through a consent order or settlement, it can limit their future arguments against that judgment.

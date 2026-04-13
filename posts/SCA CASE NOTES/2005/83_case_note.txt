@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2005
+
+# FIRAC Case Note: **Mackay v Fey (No & Lane)**
+
+## F – Facts
+The case revolves around the appellant, Neville William Mackay, who, in November 2000, purchased a luxurious property in Clifton, Cape Town, known as 16 Third Beach ("the bungalow"). He took ownership in January 2001 and, subsequently, engaged in negotiations to lease the property through Accommodation Shop CC, with the lease allegedly signed by Jeannette Harksen, the wife of Jurgen Harksen, an insolvent businessman. Payments received by Mackay amounted to R271 290,63, which were facilitated by the letting agency ([paras 1-2]). 
+
+The trustees of Jurgen Harksen's insolvent estate, the respondents, initiated legal action against Mackay in November 2002, asserting that Harksen himself was the true lessee, and thus the payments made constituted property vested in the trustees as per Section 20 of the Insolvency Act 24 of 1936. Alternatively, they claimed that the lease was voidable under Section 23(2) due to the absence of the trustees’ consent ([paras 2-5]). Mackay denied this, asserting the legitimacy of the lease with Mrs. Harksen, and, in a later stage, he abandoned claims regarding the source of the rental payments ([para 5]).
+
+The trial court ruled in favor of the trustees, declaring the lease a simulated transaction, asserting that the true lessee was Harksen and that Mackay was complicit in a transaction designed to deceive the trustees ([para 5]).
+
+## I – Issues
+The primary legal questions arising from this case include:
+1. Whether the lease agreement constituted a simulated transaction intended to deceive the creditors of Jurgen Harksen, thus qualifying for voidability under Section 23(2) of the Insolvency Act.
+2. What implications the validity of the lease has under sections 20 and 23 of the Insolvency Act ([paras 6-10]).
+
+## R – Rules
+The court relied on several sections of the Insolvency Act 24 of 1936, particularly:
+- **Section 20**: This section stipulates that the effect of sequestration is to vest the insolvent’s estate in the trustees and includes all property acquired during sequestration (other than excluded property).
+- **Section 23(2)**: This provision allows for the voidability of contracts entered into by an insolvent, except where the insolvent has the written consent of the trustee. The section's applicability rests on whether the contract affects the validity of the insolvent's estate ([paras 6-9]).
+
+Legal precedents were also cited, including *Fairlie v Raubenheimer* (1935), establishing that contracts by insolvents are voidable rather than void, thus allowing for restitution under the principle of *restitutio in integrum* ([paras 10]). Furthermore, the concept of simulated transactions was discussed, where the true intentions of the parties obscure the form of the contract ([para 25]).
+
+## A – Application
+The court analyzed the evidence and the conduct of the parties leading up to the creation of the lease. Critical to the court’s conclusion was the determination that there existed a tacit agreement between Mackay and Harksen to conceal the true nature of the transaction. The evidence presented indicated that the lease was more than a mere contractual arrangement but rather part of Harksen's strategy to disguise his financial dealings, implicating Mackay in a deception against the trustees ([paras 26-29]).
+
+Despite the original finding of the trial judge, which inferred that Mackay was aware of Harksen's insolvency, the appeal court found insufficient connective evidence to conclude that Mackay knowingly engaged in a transaction to deceive. Mackay's letters and actions suggested that he believed he was entering into a legitimate lease agreement with Mrs. Harksen, and no evidence was brought forth to establish that he had intended to engage in a simulated transaction ([paras 28-32]).
+
+The appellate court noted that while the lease could potentially implicate issues under sections 20 and 23, given the lack of clarity around the true intentions of the parties, the default conclusion should not favor a presumption of deceit.
+
+## C – Conclusion
+The Supreme Court of Appeal overturned the trial court's ruling, finding that the trustees failed to successfully prove that the lease in question was a simulated transaction between the appellant and Harksen. The appeal was upheld, with the court stating that Mackay had entered a valid lease agreement with Mrs. Harksen, therefore dismissing the trustees’ claim for recovery of the rental payments ([para 33]).
+
+The decision underscores the critical importance of ascertaining the true intentions behind contractual agreements and highlights the need for evidence of collusion to substantiate claims of simulated transactions under the Insolvency Act. This case serves as a significant precedent regarding the interpretation and enforcement of insolvency laws and the burden of proof necessary to establish deceptive practices in contractual arrangements.

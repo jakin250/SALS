@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Bayport Securitisation Limited and Others v University of Stellenbosch Law Clinic and Others (Case No: 507/2020)
+
+### F – Facts
+
+The case concerns an appeal by **Bayport Securitisation RF Limited (Bayport)** and the **Law Society of South Africa (LSSA)** against a judgment from the Western Cape Division of the High Court (Hack AJ) regarding the interpretation of "collection costs" under the National Credit Act 34 of 2005 (NCA). This appeal arose from proceedings initiated by the **University of Stellenbosch Law Clinic (the Law Clinic)** and **Summit Financial Partners (Pty) Ltd**, representing numerous respondents, including individuals who were in default on their credit obligations with Bayport ([paras 1–4]).
+
+The respondents sought declaratory relief claiming that:
+1. Collection costs under s 101(1)(g) of the NCA included all legal fees incurred in enforcing a consumer’s obligations, both pre- and post-judgment ([para 5]).
+2. Section 103(5) of the NCA applied continuously while the consumer remained in default, regardless of whether judgment had been granted ([para 5b]).
+3. Legal fees could not be claimed from consumers unless those fees had been agreed upon or taxed ([para 5c]).
+
+The High Court largely sided with the respondents, leading to the current appeal ([paras 4–6]).
+
+### I – Issues
+
+The principal legal questions before the Supreme Court of Appeal were:
+1. **Does "collection costs" as defined in the NCA encompass all legal costs incurred for the enforcement of credit agreements, covering both pre- and post-judgment expenditures?** ([paras 1, 6, 9–10, 19]).
+2. **Does section 103(5) of the NCA continue to apply after judgment has been granted against a consumer?** ([paras 22–24]).
+
+### R – Rules
+
+The court considered several critical provisions of the NCA pertinent to the interpretation of collection costs:
+- **Section 1** defines "collection costs" as amounts chargeable by credit providers for enforcing consumers' monetary obligations but excludes default administration charges.
+- **Section 101(1)(g)** limited what a credit agreement could require from consumers concerning the costs they incur ([para 7]).
+- **Section 103(5)** postulates that the total fees and charges accruing while a consumer is in default must not exceed the unpaid balance of the principal debt at the time the default occurs ([paras 8, 26]).
+
+The court also referred to previous case law interpreting these provisions, notably **Nkata v FirstRand Bank Ltd** and **D & D H Fraser Ltd v Waller**, to clarify distinctions between collection costs and legal fees ([para 15]). 
+
+### A – Application
+
+In applying the law, the court asserted that the interpretation of "collection costs" must align with traditional common law, which distinguishes collection costs from litigation costs. The court emphasized that collection costs pertain primarily to costs incurred during the initial collection attempts before any litigation eventuates, whereas litigation costs arise only once formal legal action has commenced ([paras 15–18]).
+
+The High Court's interpretation that all legal fees (including pre-litigation costs) fell under collection costs was deemed to misalign with the statutory definitions laid out in the NCA and established principles highlighted in historical case law. Notably, the court concluded that, under the common law, costs only arise after the formal filing of a summons ([para 17]) and observed that recognizing collection costs to include legal fees could severely limit judicial discretion regarding cost awards in litigation ([para 18]).
+
+Further, regarding section 103(5), the court concluded that while a consumer is in default, collection costs may not exceed the original outstanding balance. This limitation is inapplicable post-judgment since the nature of the debt shifts with the grant of a judgment ([paras 23–26]). 
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately upheld Bayport’s appeal, overturning the declaratory orders granted by the High Court. It concluded that collection costs, as defined by the NCA, do not encompass all legal costs incurred in enforcing credit agreements and that section 103(5) does not apply after judgment has been entered ([paras 27–28]). The judgment reinforced the differentiation between collection costs and legal fees while clarifying the operational limits of statutory provisions regarding debts in default.
+
+Additionally, the court acknowledged the importance of the issues raised, noting the role of the Law Clinic and Summit in protecting vulnerable consumers. As such, no costs order was made against them, aligning with the precedent set in **Biowatch Trust v Registrar Genetic Resources** ([paras 28–29]). 
+
+This ruling provides significant clarity on the interpretation of collection costs under the NCA and strengthens the judicial stance in consumer protection within the credit industry in South Africa.

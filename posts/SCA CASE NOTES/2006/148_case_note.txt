@@ -1,0 +1,42 @@
+Case Note: REPUBLIC OF SOUTH AFRICA
+Source Folder: 2006
+
+# FIRAC Case Note: Melamed Finance v VOC Investments [2006] SCA 75 (RSA)
+
+## F – Facts
+
+In **Melamed Finance v VOC Investments**, the Supreme Court of Appeal addressed the issue surrounding the status of cheques with material alterations when presented for payment. The case stemmed from an incident on **13 November 2000**, when the respondent, VOC Investments, issued four cheques drawn on the Standard Bank of South Africa Ltd, designed to be post-dated. Due to a limitation in their computer system, the dates on the cheques had to be altered by hand to reflect the intended payment dates, and these alterations were signed by duly authorized signatories ([1]–[4]). 
+
+Subsequently, three of the altered cheques were negotiated to the appellant, A Melamed Finance (Pty) Ltd, who presented two of them for payment. While one cheque was honored, the other two were dishonored upon the respondent stopping payment upon discovering that Damelin Textiles, the original payee, had negotiated the cheques contrary to an agreement not to do so ([2]–[4]). 
+
+The Supreme Court of Appeal was tasked with determining whether the appellant qualified as a holder in due course, given the apparent material alterations on the cheques ([1]).
+
+## I – Issues
+
+The central legal issue was whether the appellant could be considered a holder in due course under the **Bills of Exchange Act 34 of 1964**, despite the alterations made to the cheques. Specifically, the court examined whether the cheques were "complete and regular on the face of it" as outlined in section [5] of the Act, particularly in light of the material alterations that occurred before their issuance ([1]–[2]).
+
+## R – Rules
+
+The key legal authorities considered by the court included:
+
+1. **Bills of Exchange Act 34 of 1964**: 
+   - Section 27(1) defines a holder in due course as one who has taken a bill that is complete and regular on its face.
+   - Material alterations, as described in Section 62, outline how alterations can affect the liability of parties to a bill and specify that changes to the date are considered material ([5]–[14]).
+   
+2. **Case Precedents**: 
+   - **Estate Ismail v Barclays Bank (DC & O)**: Established that the regularity of a cheque cannot be disregarded based on its history once issued, implying that alterations made post-issue directly impact the regularity status of the cheque ([8]–[9]).
+   - **Sappi Manufacturing (Pty) Ltd v Standard Bank of SA Ltd**: Discussed the application of the reasonable suspicion test regarding endorsements and alterations ([10]–[11]).
+
+## A – Application
+
+The court applied the law to the facts by establishing that the material alteration of the cheques’ dates affected their character as bills of exchange. The alterations were both apparent and material; not only did they alter the business effect by changing the dates for presentment, but they also took place before the cheques were issued under circumstances where there could be uncertainty concerning the intent and validity ([12]–[13]).
+
+The appellant's argument that the alterations were permissible because they were made by authorized signatories was found unconvincing. The court systematically debunked the notion that alterations made prior to issuance could be treated differently from those made post-issue, reinforcing the notion that all material alterations must ensure the bill's face reflects its regularity to maintain the holder in due course status ([13]–[18]). 
+
+Thus, it was found that the appellant, despite being a holder, could not claim the rights of a holder in due course due to the material alterations that were apparent, making the cheques irregular ([1]–[5]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded that the appellant, A Melamed Finance, was not a holder in due course due to the material alterations made on the cheques in question, which rendered them irregular on their face. This outcome emphasized the critical distinction between validity and regularity; while the cheques may have been valid instruments, they did not meet the statutory requirements to confer holder in due course privileges to the appellant. Consequently, the appeal was dismissed, underscoring the rigorous standards that govern negotiable instruments ([19]).
+
+The implications of this ruling reaffirm the importance of strict adherence to regulations surrounding cheques, particularly concerning alterations and their impact on the rights of holders in due course under the Bills of Exchange Act. The decision ultimately highlights the broader principle in commercial law that instruments must be devoid of any suspicion or defect to be afforded protections under the law.

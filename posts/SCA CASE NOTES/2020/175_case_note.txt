@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Consol Glass (Pty) Ltd v The Commissioner for the South African Revenue Service (1010/2019) [2020] ZASCA 175 
+
+## FIRAC Method Analysis
+
+### F – Facts ([paras 1–11])
+Consol Glass (Pty) Ltd (‘Consol’), the appellant in this case, is a vendor registered under the Value-Added Tax Act 89 of 1991 (the ‘VAT Act’). In 2012, Consol undertook a significant debt restructuring, involving the acquisition of services from both local vendors and foreign suppliers (defined as imported services under the VAT Act). The South African Revenue Service (the ‘SARS’), represented by the Commissioner of the SARS, raised additional assessments regarding Consol's value-added tax (VAT) liability for five tax periods in 2012. Specifically, the Commissioner disallowed input tax deductions claimed by Consol for services rendered by local vendors and imposed output VAT on the imported services procured. After Consol's objection to these assessments was disallowed and subsequent appeal to the tax court was partially unsuccessful, Consol appealed to the Supreme Court of Appeal concerning the rejection of its input tax deductions and the levying of output VAT ([paras 1–2]).
+
+### I – Issues ([paras 12–13])
+The Supreme Court of Appeal identified two core issues for determination. First, did the tax court correctly determine that the Commissioner was entitled to disallow the input tax claimed by Consol on fees charged by local service providers? Second, was the tax court right to find that Consol was obligated to declare and pay VAT on services obtained from non-resident suppliers? These issues necessitated an investigation into the definitions of input tax and the purpose of the services procured in relation to Consol’s taxable supplies ([paras 12–16]).
+
+### R – Rules ([paras 13–21])
+The relevant statutory provisions are found within the VAT Act. Input tax is defined under s1 as the VAT charged on goods or services acquired wholly for consumption, use or supply in the course of making taxable supplies. The determination of whether Consol was entitled to such input tax deductions hinges on whether the services were acquired for the purpose of making taxable supplies, as delineated by the Act ([paras 13–14]).
+
+Additionally, s7(1)(c) of the VAT Act imposes VAT on imported services, with the definition in s1 stipulating such services must be utilized or consumed in the Republic for purposes other than making taxable supplies. The Commissioner posited that services rendered by the local and foreign providers were aimed at creating an exempt supply, specifically a financial service as defined under s2(1)(c) of the VAT Act ([paras 15–17]).
+
+### A – Application ([paras 18–49])
+The court systematically analyzed the contentions made by both parties, beginning with the exempt supply argument posited by the Commissioner. The court reaffirmed that although financial services may qualify for exemption from VAT, this should not conflate Consol’s operations with the nature of its enterprise. It underscored that Consol’s primary business activity was the manufacture and sale of glass containers, not the provision of financial services ([paras 19–22]).
+
+The determination of purpose was critical in applying the law. Counsel for the appellant contended that the services were procured for the benefit of ongoing taxable supplies, while the Commissioner argued that these procurement activities were preparatory to issuing debt securities, thus exempted ([paras 27–37]).
+
+The court rejected the Commissioner’s excessive strictness in interpreting the nexus required between the services consumed and the making of taxable supplies. It emphasized a more flexible interpretation that accounts for the reality of modern complex economies where various services may contribute to the production process in diverse ways. Ultimately, it discerned that the services obtained by Consol in both 2007 and 2012 were fundamentally linked to its operations of manufacturing products sold for VAT, thereby constituting input tax eligibility. However, it ultimately concluded that Consol had not sustained its burden of proof in establishing that the refinancing efforts and the services procured directly supported the course of taxable supplies ([paras 30–49]).
+
+### C – Conclusion ([paras 50])
+The Supreme Court of Appeal dismissed the appeal, affirming the tax court's ruling on both issues. The court held that Consol was not entitled to the VAT deductions claimed and was obligated to declare and pay VAT on the fees to non-resident service providers. This ruling underscores the nuances involved in tax law, particularly regarding the interpretation of services in relation to taxable supplies. The decision serves as a pivotal clarification of how input tax and exempt supplies are interpreted within the scope of complex financial restructuring activities. Counsel for both parties agreed that costs would follow the result, solidifying the implications of this judgment on future VAT claims involving financial reorganization ([paras 50]).
+
+---
+
+**References:**
+- Value-Added Tax Act 89 of 1991
+- Consol Glass (Pty) Ltd v The Commissioner for the South African Revenue Service (1010/2019) [2020] ZASCA 175
+- Commissioner for the South African Revenue Services v De Beers Consolidated Mines Ltd [2012] ZASCA 103; 2012 (5) SA 344 (SCA) 
+- Commissioner for the South African Revenue Service v Massmart Holdings Limited IT 14294.

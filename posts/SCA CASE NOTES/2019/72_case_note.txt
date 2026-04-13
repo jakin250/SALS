@@ -1,0 +1,59 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Nare v The State (380/2018) [2019] ZASCA 72 (30 May 2019)
+
+## FIRAC Structure
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–7])
+
+The appellant, **Jeffrey Bob Nare**, was convicted by the Regional Court in Gauteng, Pretoria, for multiple charges including **attempted robbery with aggravating circumstances (count 1)**, **attempted murder (count 2)**, **unlawful possession of a firearm (count 12)**, and **unlawful possession of ammunition (count 13)**, and subsequently sentenced to imprisonment. 
+
+After his convictions, Nare applied for leave to appeal against the convictions, which the High Court denied. He subsequently appealed the High Court's refusal to grant him leave to appeal. Notably, he initially obtained leave to appeal against his sentences but not against his convictions through a petition to the Judge President under section 309C of the *Criminal Procedure Act 51 of 1977* (CPA) ([para 1]). 
+
+The nature of the appeal was complicated by procedural history involving multiple orders issued by the Supreme Court of Appeal (SCA), which clarified the scope of Nare's appeal and the specific counts for which leave was granted. The first order granted leave to appeal against counts 2, 12, and 13 but refused it for count 1. Nare's attempts to vary this order were ultimately dismissed. Consequently, the SCA was called upon to adjudicate whether the High Court had misjudged the merits regarding the refusal of leave to appeal against his convictions ([paras 2–4]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 8–11])
+
+Central to the appeal were several legal issues:
+
+1. **Whether the High Court erred in denying leave to appeal against the convictions on counts 2 and 13**, which concerned specific allegations of attempted murder and unlawful possession of ammunition. The appellant argued that there were reasonable prospects of success in his appeal.
+
+2. **The interpretation of the term “common purpose” and its application to the appellant's alleged role in the attempted murder**—specifically, whether his actions constituted either **dolus directus** (intent to kill) or **dolus eventualis** (intending to cause serious harm but accepting the risk of death) ([para 8]).
+
+3. **The legal implications of the presumption under section 250(1) of the CPA** regarding the possession of firearms without a license, particularly whether the state had sufficiently established that Nare did not possess a firearm license ([para 11]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 5–11])
+
+The SCA's judgment was underpinned by statutory provisions, notable among them being:
+
+1. **Section 17(2) of the Superior Courts Act 10 of 2013**, which regulates the process of granting leave to appeal within the context of appeals from High Court decisions ([para 2]).
+
+2. **Section 309C of the CPA**, which governs appeals regarding convictions or sentences from lower courts to the High Court and, subsequently, to the SCA ([para 1]).
+
+3. **Case law references:**
+   - *S v Matshona* 2013(2) SACR 126, which outlined the nature and scope of appeals against the refusal of leave to appeal from convictions originating in the Regional Court. The court noted the importance of assessing whether the High Court should have granted leave as opposed to whether the merits of the original conviction were sound ([para 5]).
+
+4. **Legal principles concerning common purpose** and the necessary mens rea for violent criminal offences, which were critical in determining Nare’s culpability ([para 8]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 6–9], [12–14])
+
+In its judgment, the SCA undertook a thorough analysis of the factual context surrounding the assault on Rossouw:
+
+- On **count 2** (attempted murder), the court acknowledged that there existed sufficient grounds to evaluate whether the appellant possessed the requisite intent. The appellant's defense contended that the assailant had intentionally lowered his firearm before shooting, which potentially negated direct intent to kill. The SCA concluded that there was a reasonable prospect for appellate review to arrive at a different conclusion on this matter ([para 8]).
+
+- Regarding **count 12** (possession of a firearm), direct evidence from the victim indicated that Nare was indeed armed. The court examined the argument that the firearm could have been an imitation or unlicensed and ruled that given the circumstances, particularly the victim's experience with firearms, there was no reasonable likelihood that a reviewing court would conclude the weapon was not real or not in Nare’s possession ([paras 9–10]).
+
+- For **count 13** (unlawful possession of ammunition), the SCA noted that the evidence did not conclusively establish that Nare had any ammunition in the firearm during the incident. The court found merit in the appellant's argument that the prosecution had not met its burden of proof regarding the unlawful possession of ammunition, thus suggesting that there were reasonable prospects that a higher court might overturn the conviction for this count ([para 12]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 13–14])
+
+The SCA ultimately held that the High Court had erred in refusing leave to appeal on counts 2 and 13 while appropriately dismissing the application regarding count 12. 
+
+The consequence of this decision was twofold: the SCA not only affirmed the rejection of the conviction on count 12 but also granted leave for Nare to appeal on counts 2 and 13 to the High Court. This ruling implies that the arguments regarding the nature of the intended act in the charge of attempted murder, and the uncertainties surrounding possession of ammunition, warrant further judicial examination, thus enabling Nare a crucial opportunity to contest his convictions more robustly ([paras 13–14]).
+
+The case illustrates the significant role appellate courts play in safeguarding the rights of defendants and ensuring that legal standards regarding intent and evidence remain rigorous in criminal prosecutions. The SCA reiterated the necessity for the careful consideration of evidence and legal principles governing criminal liability.
+
+--- 
+
+This FIRAC case note serves as an intricate analysis suitable for academic and practical application, ensuring clarity in the legal reasoning followed by the Supreme Court of Appeal in this significant matter.

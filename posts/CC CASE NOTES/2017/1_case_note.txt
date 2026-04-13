@@ -1,0 +1,45 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Ekurhuleni Metropolitan Municipality v Germiston Municipal Retirement Fund [2017] ZACC 1
+
+## F – Facts
+The case concerns a dispute between the **Ekurhuleni Metropolitan Municipality** (the **Applicant**) and the **Germiston Municipal Retirement Fund** (the **Respondent**), regarding a claim for payment based on an investment guarantee under the **Pension Fund Rules** (the **Fund Rules**) for the financial years 2007-2008 and 2008-2009 ([1]). The Fund Rules contain Rule 10.8.1, obligating the Municipality to cover any shortfall if the Fund's return on investments falls below 5.5% ([5]). In this instance, the Fund earned only 3.89% in 2007-2008, triggering the guarantee, resulting in a claim exceeding R70 million ([8]).
+
+In previous litigation (referred to as **Ekurhuleni I**), the Supreme Court of Appeal had interpreted Rule 10.8.1 in favor of the Fund, affirming the Municipality's liability under similar circumstances ([9]). The Municipality's defenses in this case included a challenge to the interpretation of the rule, a claim for reconsideration based on "new" evidence regarding the Fund's history, and arguments rooted in constitutional obligations ([10]-[14]). 
+
+The High Court ruled against the Municipality, agreeing to the Fund's interpretation and emphasizing res iudicata and issue estoppel ([14]-[15]). Following this, the Municipality sought leave to appeal to the Constitutional Court ([16]).
+
+## I – Issues
+The principal legal questions before the court included:
+
+1. Should the Constitutional Court reconsider the interpretation of Rule 10.8.1 based on new evidence that the Municipality claims would change its meaning ([1])?
+2. Can the Municipality's constitutional obligations override its liability under the Fund Rules ([1])?
+3. Did the High Court err in its application of the doctrine of issue estoppel concerning the defenses raised ([1])?
+
+## R – Rules
+The court relied upon various legal authorities and principles, notably:
+
+1. **Pension Fund Act of 1956** and the provisions of the **Local Government: Municipal Structures Act of 1998** ([4]-[5]).
+2. **Section 152(1)** and **Section 153** of the **Constitution**, which mandates that municipalities provide accountable government and prioritize community needs ([10]).
+3. The doctrine of **res iudicata**, which bars litigation of claims already judicially determined between the same parties based on the same cause of action ([29]).
+4. **Issue estoppel**, allowing a party to prevent relitigation of issues that have already been settled ([30]).
+5. Public policy considerations rooted in the Constitution, emphasizing the responsibility of municipalities to use public funds effectively ([34]).
+
+The court also referenced its previous judgments, particularly the principles established in **Barkhuizen v Napier** regarding public policy ([36]).
+
+## A – Application
+The Constitutional Court affirmed the High Court’s ruling that the Municipality's interpretation of the Fund Rule could not be revisited on the grounds of new evidence, as this evidence was not new and could have been presented in earlier proceedings ([14]-[26]). The Court emphasized the importance of finality in litigation and concluded that permitting the introduction of new evidence would undermine this principle.
+
+The court rejected the Municipality's argument that adhering to the previous interpretation contravened its constitutional responsibilities. It found that the Municipality did not provide sufficient proof that fulfilling its obligations under the Fund Rules inhibited its ability to meet its constitutional duties ([33]). Additionally, the court noted that the Municipality had not demonstrated that the guaranteed payments would lead to unconstitutional or unmanageable financial consequences for it ([34]-[39]).
+
+On the point of public policy, the court ruled that the Municipality was bound to adhere to the contract it entered regarding the Fund Rules, as this contract had a legitimate purpose to protect employees' interests ([36]). The Court concluded that the Municipality's duty under the Fund Rules did not absolve it from its constitutional obligations ([37]).
+
+The application of res iudicata was upheld as concerns were essentially the same as those determined in Ekurhuleni I, reinforcing the finality of the earlier judgment. This barred the Municipality from relitigating the same underlying issues regarding Rule 10.8.1 ([29]-[31]).
+
+## C – Conclusion
+The **Constitutional Court dismissed the appeal**, upholding the ruling of the High Court and ordering the Municipality to pay the claimed amount of over R70 million plus interest ([46]). The majority judgment articulated that the interests of justice and public policy did not support allowing the Municipality to avoid its contractual obligations based on the perceived implications on its budget or constitutional obligations. The decision reinforces the principle that contracts voluntarily entered into, especially those concerning public funds and employee protections, must be fulfilled ([45]).
+
+In dissent, **Jafta J** contended that the application should be refused on the basis that the Municipality's claims did not accurately meet constitutional thresholds nor presented a bona fide constitutional issue ([48]-[72]). His view aligned with the necessity for genuine constitutional questions to warrant the Court's attention, indicating that not every challenge couched in constitutional terms meets the necessary legal criteria. 
+
+This case underscores the commitment to uphold contractual obligations while balancing public duties, framing the discussion around the roles and responsibilities of municipal entities in South Africa's constitutional and legal landscape.

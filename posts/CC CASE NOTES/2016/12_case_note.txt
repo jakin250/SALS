@@ -1,0 +1,62 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2016
+
+## Case Note: Nkata v FirstRand Bank Limited and Others [2016] ZACC 12
+
+### F - Facts
+
+The case revolves around an appeal from the High Court concerning the reinstatement of a credit agreement under the National Credit Act 34 of 2005 (NCA). The applicant, Ms. Nomsa Nkata, a businesswoman and single mother, purchased a property and secured it with two mortgage bonds from FirstRand Bank (the Bank). However, due to financial difficulties, Ms. Nkata fell into arrears, which led to the Bank issuing a default judgment against her.
+
+The key events affecting this case occurred as follows:
+
+1. **Background Transactions**: Ms. Nkata obtained two mortgage bonds, totalling over R1.48 million, to finance her property. After falling into arrears, the Bank issued notices according to section 129(1) of the NCA, but these were improperly delivered ([para 4]–[5]).
+   
+2. **Default Judgment**: On 28 September 2010, the Bank secured a default judgment against Ms. Nkata for the total outstanding amount ([para 7]). The sales process for her property was initiated, and a public auction was scheduled ([para 14]).
+
+3. **Settlement Agreement**: On 10 December 2010, the parties reached a settlement. Ms. Nkata agreed to pay her arrears in instalments, but the agreement was never formalised by the court ([para 8]). After paying her arrears in March 2011, she contended that her credit agreement was reinstated ([para 9]).
+
+4. **Debits from Account**: Post-settlement, the Bank debited Ms. Nkata’s account with legal fees without inviting her to pay them separately, which she argued were not communicated to her adequately ([paras 10]–[11]).
+
+5. **Legal Proceedings**: After her property was sold at auction on 24 April 2013, Ms. Nkata initiated further legal action to rescind the default judgment and argued that the credit agreement had been reinstated ([para 19]).
+
+The High Court found in her favour, affirming that her credit agreement was lawfully reinstated. However, this finding was overturned by the Supreme Court of Appeal, which incorrectly assumed that the Bank had executed the judgment by the time of Ms. Nkata's payment ([paras 28]–[29]).
+
+### I - Issues
+
+The main legal questions in this case were:
+
+1. **Did Ms. Nkata successfully reinstate her credit agreement with the Bank under section 129(3) of the NCA? ([para 30])**
+2. **Are the legal costs debited to her bond account “reasonable costs of enforcing the agreement”?** ([para 36])
+3. **Was the High Court justified in asserting that Ms. Nkata's settlement of arrears alone sufficed to reinstate the credit agreement despite the unilateral debit of legal fees by the Bank?**
+
+### R - Rules
+
+Key legal provisions relevant to this case include:
+
+- **National Credit Act 34 of 2005** (NCA), particularly:
+  - **Section 129(3)**, stating a consumer may reinstate a credit agreement by paying all overdue amounts, along with default charges and reasonable costs of enforcement ([para 20]).
+  - **Section 129(1)** mandates the credit provider to inform the consumer of default and propose alternatives before initiating legal proceedings ([para 17]).
+  - **Section 130** builds upon these requirements, stating a credit provider cannot commence legal action unless these notice requirements have been met ([paras 170]–[172]).
+
+- **Common Law Principles** regarding payment, which dictate that for reinstatement, all specified charges must be paid unless they are deemed unreasonable or improperly demanded ([para 45]).
+
+### A - Application
+
+The Constitutional Court revisited the facts against the backdrop of these legal provisions, particularly focusing on the interpretation of section 129(3):
+
+1. **Reinstatement and Payment Requirements**: The Court noted that reinstatement occurs if all overdue amounts are paid, including reasonable enforcement costs ([para 35]). The High Court concluded that Ms. Nkata had met the payment requirements, specifically her arrears, and highlighted the lack of communication regarding legal costs as detrimental to the Bank’s position.
+
+2. **Nature of Legal Costs**: The Court analyzed whether the Bank's unilateral debit of legal costs sufficed to constitute payment under section 129(3). Cameron J emphasized that simply adding these costs to her bond account did not equate to Ms. Nkata fulfilling her obligations. The legal interpretation here drew upon settled principles indicating that payment involves the actual delivery of amounts owed, which was not the case ([paras 48]–[51]).
+
+3. **No Requirement for Notification**: On the issue of whether Ms. Nkata needed to inform the Bank of her intentions to reinstate, the Court found that reinstatement happens by operation of law once the requisite payments are made; hence, no specific notification was necessary ([para 11]).
+
+### C - Conclusion
+
+The Constitutional Court overturned the Supreme Court of Appeal's decision, ruling that Ms. Nkata had successfully reinstated her credit agreement with FirstRand Bank. The Court declared the following ([para 139]):
+1. The credit agreement was lawfully reinstated.
+2. From 8 March 2011, the default judgment had no legal force.
+3. The auctioning of her property was invalid, and her property must not be transferred.
+
+The ruling emphasized the consumer protection ethos embedded in the NCA and clarified the obligations of both consumers and credit providers under the statutory framework, affirming the necessity for transparency in billing and the establishment of reasonable costs. The implications extend beyond this case, emphasizing that borrowers can effectively reinstate agreements even in default situations, provided they meet the stipulated conditions, without falling victim to oppressive practices by credit providers.
+
+The decision illustrates the court’s commitment to balancing the interests of both consumers and credit providers while adhering to the core principles of the NCA.

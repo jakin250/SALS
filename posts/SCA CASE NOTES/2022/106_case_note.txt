@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Commissioner for the South African Revenue Service v Candice-Jean van der Merwe (211/2021) [2022] ZASCA 106 (30 June 2022)
+
+---
+
+## Facts
+The case originates from an appeal brought by the Commissioner for the South African Revenue Service (SARS) against Candice-Jean van der Merwe following a decision by the Western Cape Division of the High Court ([1]). The respondent approached the tax court seeking a default judgment under Rule 56 of the Tax Court Rules due to SARS's alleged failure to file a statement disclosing its grounds for dismissing her objection concerning an income tax assessment for the 2014 tax year ([1]-[3]). 
+
+The specifics of the tax assessment involved a purported gift of approximately R142.9 million that the respondent claimed was non-taxable. After an initial assessment, SARS raised concerns about the donation's nature, eventually entering into a settlement where they classified R110.3 million as taxable income after lengthy discussions with the respondent's attorneys ([7]-[12]). The case escalated when the respondent lodged a notice of objection to the additional assessment in September 2018, which she later attempted to file late without prior extension ([16]-[18]).
+
+SARS subsequently labeled her objection as invalid on the grounds that the assessment was agreed upon under Section 95(3) of the Tax Administration Act, which is not subject to objection or appeal ([20]). The tax court ruled against her request for default judgment, finding that the jurisdictional requirements under Rule 56 were not met, as there was no valid objection prior to the appeal ([3]-[4]).
+
+## Issues
+The core legal question was whether the high court correctly upheld the taxpayer’s appeal when the tax court had dismissed the application for default judgment due to inadequate jurisdictional groundwork ([5]). Specifically, this raised issues of:
+1. Whether the assessment was agreed upon under Section 95(3) of the Tax Administration Act and thus not subject to objection or appeal.
+2. Whether the taxpayer could file for default judgment despite not meeting preliminary requirements, such as lodging a valid objection ([27]-[38]).
+
+## Rules
+The legal framework governing this case includes several provisions from the Tax Administration Act (TAA) and its associated rules. Key relevant sections are:
+- **Section 95(3) TAA**: Allows for agreed assessments that are not subject to objection or appeal ([29]).
+- **Section 104 TAA**: Governs the rights of taxpayers to object to assessments ([36]).
+- **Rule 56 of the Tax Court Rules**: Concerns applications for default judgment and outlines the necessary prerequisites ([40]).
+- **Rule 7(4) of the Tax Court Rules**: Indicates that SARS may regard an objection as invalid if it does not comply with the stipulated requirements ([34]).
+  
+The interpretation of these rules relies upon the principle that a substantive right to appeal is predicated upon a valid preceding objection, as articulated in case law and the TAA ([28]-[37]).
+
+## Application
+The Supreme Court of Appeal (SCA) critically assessed whether the taxpayer’s attempts to appeal and seek default judgment were founded on valid jurisprudential grounds. The court noted that the taxpayer did not adhere to necessary procedural requirements, especially regarding the validity of the objection, which SARS had already categorically invalidated ([45]). This assessment highlighted that the taxpayer's late objection was merely an attempt to contravene previously agreed-upon terms. 
+
+The SCA evaluated the overarching legal framework, emphasizing the interpretation of Section 95(3), which reinforced that once an agreement is reached regarding tax matters, the assessment becomes conclusive and not subject to further dispute ([30],[32]). The SCA concluded that since the taxpayer's grounds for appeal were not valid due to her failure to meet jurisdictional requirements, the tax court was justified in its ruling ([47]).
+
+## Conclusion
+The SCA concluded that the high court erred in upholding the taxpayer's appeal, given that the jurisdictional requirements for filing under Rule 56 were not satisfied due to the absence of a valid objection. Consequently, the SCA ruled in favor of SARS, thereby dismissing the taxpayer's appeal and reaffirming the significance of adhering strictly to procedural requirements in tax law ([49]). The implications of this decision highlight the necessity for taxpayers to fully comply with existing procedural and substantive laws when contesting assessments, particularly in complex tax matters where negotiated settlements have been reached.
+
+---
+
+This case proceeds with the understanding that strict compliance with tax procedural law is essential in protecting the integrity of the assessment process, as upheld by legislative framework and judicial interpretation.

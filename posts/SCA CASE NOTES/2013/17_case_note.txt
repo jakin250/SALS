@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# Case Note on Master Currency v Commissioner for the South African Revenue Services
+
+**FIRAC Method**
+
+**F – Facts**  
+The appellant, Master Currency (Pty) Ltd, appeals from the decision of the Tax Court in Johannesburg, which dismissed its appeal against revised value-added tax (VAT) assessments for the period from October 2003 to January 2005 ([1]). The South African Revenue Service (SARS) assessed Master Currency's operations in the duty-free area of Johannesburg International Airport, stating that their services were subject to VAT at the standard rate under section 7(1)(a) of the Value-Added Tax Act 89 of 1991 ([1], [5]).
+
+Master Currency was awarded a tender in 1999 to operate two bureaux de change in the airport's duty-free area ([2]). Its services mainly involved cash transactions with non-resident passengers, converting South African rand into foreign currency while charging commission fees ([3]). Initially, Master Currency charged VAT at the standard rate but discontinued this practice after introducing a new point-of-sale system in 2003, assuming that services rendered in duty-free areas were exempt from VAT ([4], [5]).
+
+The company's operations prompted an audit by KPMG in 2004, leading to SARS's assessment, which claimed that services provided in the duty-free area should be standard-rated ([5]). In its defense, Master Currency asserted that such services were zero-rated under section 11(2)(l) of the Value-Added Tax Act, arguing that they should not be taxable due to the nature of the duty-free environment ([1], [7]).
+
+**I – Issues**  
+The primary legal issue at hand is whether the services rendered by Master Currency in the duty-free area of the Johannesburg International Airport are subject to VAT at the standard rate or qualify for zero rating under section 11(2)(l) of the Value-Added Tax Act 89 of 1991 ([1], [12]). Specifically, the court had to determine if the services were provided in connection with movable property exported to non-resident passengers, which would support Master Currency's assertion that services should be zero-rated under section 11(2)(l)(ii) ([13], [16]).
+
+**R – Rules**  
+The relevant statutory provisions are found in the Value-Added Tax Act 89 of 1991, particularly sections 7(1) and 11(2). Section 7(1) imposes VAT on the supply of goods or services within the Republic, while section 11(2)(l) provides for the zero rating of services supplied to non-residents under certain conditions ([7], [12]).
+
+To qualify for zero rating as outlined in section 11(2)(l), the services must not be connected with land or movable property situated in the Republic at the time the services are rendered. The exemptions are to be interpreted strictly and in line with the overall intent of the legislative framework ([12], [21]).
+
+The court also examined the historical amendments to section 11(2)(l), highlighting the intention that VAT is applicable on consumption within the Republic ([17]).
+
+**A – Application**  
+The court evaluated Master Currency's claims against the established legal standards. Notably, it ruled that the zero rating under section 11(2)(l)(ii) cannot apply if the recipient of the service, or any person to whom services are rendered, is physically present in the Republic, effectively disqualifying them from the condition that would afford the services a zero rating ([13], [18]).
+
+Master Currency argued that its services were linked with exported movable property, claiming that the currency it dealt with constituted exported goods. However, the court found that the definition of "exported" under the Act requires that for goods to be considered exported, the recipient must not be in the Republic when the transaction is completed, which was not the case here ([18], [19]). Furthermore, it was determined that the financial services provided did not conflate with the definition of export under common law, thereby not supporting Master Currency's claims ([20]).
+
+In its consideration of the earlier section 72 ruling mentioned by Master Currency, the court clarified that this ruling pertained only to the sale of movable goods in duty-free environments and did not extend to financial services ([11]).
+
+**C – Conclusion**  
+The Supreme Court of Appeal upheld the Tax Court’s ruling, determining that Master Currency's services in the duty-free area were subject to VAT at the standard rate. The court affirmed that the appellant had failed to meet the criteria for zero rating under section 11(2)(l), clarifying that the comprehensive interpretation of the statute and its intent did not support Master Currency's assertions ([23]).
+
+The implications of this judgment underscore the necessity for businesses operating within duty-free areas to understand their obligations under existing tax law, particularly when interpreting their treatment under VAT statutes. The ruling serves as a critical reminder about the importance of adherence to statutory definitions and the conditions governing VAT liability in South Africa. 
+
+### References  
+- Master Currency v CSARS (155/2012) [2013] ZASCA 17 (20 March 2013).  
+- VAT Act 89 of 1991.  
+- Relevant cases cited: Nissan SA (Pty) Ltd v Commissioner for Inland Revenue 1998 (4) SA 860 (SCA); South African Railways and Harbours v Smith’s Coasters (Prop) Ltd 1931 AD 113; Rex v Detody 1926 AD 198; and others as mentioned in the judgment.

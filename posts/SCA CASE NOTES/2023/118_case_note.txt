@@ -1,0 +1,64 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: The Western Cape Gambling and Racing Board and Another v Sunwest International t/a Grandwest Casino & Entertainment World and Another
+
+**Neutral Citation:** The Western Cape Gambling and Racing Board and Another v Sunwest International t/a Grandwest Casino & Entertainment World and Another (Eastern Cape Gambling Board as Amicus Curiae) (Case no 1330/2021) [2023] ZASCA 118 (04 September 2023).
+
+---
+
+### F – Facts
+
+The case revolves around a dispute concerning the imposition of gambling taxes on 'freeplay credits' awarded by casino operators, the first respondent Sunwest International (Pty) Ltd, trading as Grandwest Casino, and the second respondent Worcester Casino (Pty) Ltd, trading as Golden Valley Casino & Lodge. Both casino operators hold licenses under the Western Cape Gambling and Racing Act 4 of 1996 (the Act). 
+
+The crux of the matter arose when the Western Cape Gambling and Racing Board (the WC Board) interpreted Section 64 of the Act, which governs gambling tax liabilities for casino operators. Specifically, the WC Board contended that 'freeplay' credits should be counted as part of taxable revenue. Freeplay credits are a type of promotional credit offered to valued customers, allowing them to bet without financial outlay. The WC Board argued that such credits were included in the 'drop', a component of 'adjusted gross revenue' (AGR) used to calculate the casino's taxable revenue ([paras 3-8]).
+
+In the High Court, the casino operators contended that freeplay credits do not constitute revenue, citing the rationale that casinos do not benefit financially from freeplay activities—rather, they incur losses when customers win. They claimed that including freeplay credits in taxable revenue would amount to an arbitrary deprivation of property rights under Section 25(1) of the Constitution ([paras 9-10]). 
+
+The High Court ruled in favor of the casino operators, declaring that freeplay credits are not taxable revenue. This prompted the WC Board and the Provincial Minister of Finance, Western Cape (the second appellant), to appeal the High Court's decision, seeking clarification on the interpretation of the relevant provisions of the Act ([para 12]).
+
+---
+
+### I – Issues
+
+1. **Does 'freeplay credits' awarded by casino operators constitute taxable revenue under Section 64 of the Western Cape Gambling and Racing Act 4 of 1996?**
+   
+2. **Is the argument regarding the arbitrary deprivation of property under Section 25(1) of the Constitution applicable in this case, given that the casinos do not receive financial benefits from freeplay?**
+
+3. **Should new evidence regarding the financial impact of freeplay, introduced by the amicus curiae, be considered in this appeal?**
+
+---
+
+### R – Rules
+
+The legal framework for this case is primarily established by the Western Cape Gambling and Racing Act 4 of 1996, specifically:
+
+- **Section 64**: This outlines the imposition of gambling and betting taxes on casino operators. It mandates payment based on 'taxable revenue' as defined in the Schedules attached to the Act. Notably, the 'drop' is defined as the amount deducted from slot accounts during play ([paras 14-17]).
+  
+- **Adjustments made in the Schedules**: The calculation of adjusted gross revenue (AGR) explicitly denotes what constitutes taxable revenue and its exclusions. Freeplay credits are not classified as admissible deductions within these definitions ([para 15]).
+
+- **Constitutional Protection**: Section 25(1) of the Constitution protects against arbitrary deprivation of property, which the casino operators claimed was violated by the interpretation of taxable revenue to include freeplay ([para 9]).
+
+---
+
+### A – Application
+
+The Supreme Court of Appeal carefully considered both the statutory interpretation and the constitutional arguments. 
+
+1. **Interpretation of 'Freeplay'**: The court sought to clarify the meaning of 'drop' in the context of the Act, finding that freeplay credits are indistinguishable from monetary deductions in the context of slot machine play. The court emphasized that the language used in Section 64 does not differentiate between types of credit and maintains that the term reflects all amounts deducted from player accounts during gaming ([paras 17-23]).
+
+2. **Financial Impact and Property Rights**: The argument of arbitrary deprivation was rejected by the court, which highlighted that financial advantage is not a prerequisite for tax liability. The intended policy of the Act is to tax gambling activities irrespective of direct financial benefit derived by the operators. Therefore, the absence of revenue from freeplay does not alter tax obligations ([paras 24-26]).
+
+3. **New Evidence**: The court ruled against the introduction of additional evidence, stating that the evidence from Professor Anthony Lucas, presented by the amicus curiae, was unnecessary for the court's interpretation of current law. The existing statutory framework was sufficient for resolving the dispute ([para 25]).
+
+---
+
+### C – Conclusion
+
+The Supreme Court of Appeal upheld the appeal, overturning the High Court's decision, and ruled in favor of the WC Board. The decision clarified that freeplay credits do, in fact, attract gambling taxes under the Western Cape Gambling and Racing Act. The ratio decidendi rests on a strict interpretation of the Act, highlighting that all amounts deducted from players' accounts contribute to the 'drop' without distinction. This judgment reinforces the principle that tax liability can exist irrespective of a casino's financial benefit from gaming activities, thus protecting the statutory tax regime established by the provincial government ([paras 26-27]).
+
+This case has significant implications for the gambling industry, particularly regarding promotional credits and tax liabilities, emphasizing the need for thorough compliance with statutory definitions and tax obligations.
+
+--- 
+
+The application of the FIRAC method in this case note highlights the fundamental legal principles and reasoning involved in the Supreme Court of Appeal's decision, providing a comprehensive overview for citation, academic discussion, or court submissions.

@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Commissioner for the South African Revenue Service v Langholm Farms (Pty) Ltd ([2019] ZASCA 163)
+
+**F – Facts: Relevant background and procedural history ([paras 1–6])**
+
+Langholm Farms (Pty) Ltd ("Langholm") operates a successful pineapple-growing enterprise in the Eastern Cape, producing approximately 13,500 to 16,000 metric tons of raw pineapples annually ([para 1]). These pineapples are primarily sold to Summerpride Foods (Pty) Ltd ("Summerpride") for processing into juice products meant for export, necessitating transportation of the produce from Langholm's farm to Summerpride's factory located approximately 147 km away ([para 1]). 
+
+Langholm is registered both as a VAT vendor and as a participant entitled to claim a diesel rebate under section 59A of the Customs and Excise Act 91 of 1964 (the "Act") ([para 3]). In late 2016, Langholm submitted a claim for diesel rebates for the period of October 2015 to August 2016. Following a subsequent audit, SARS issued a "Notice of Intention to Assess," stating that the diesel used for transporting pineapples was considered "non-eligible usage" based on their interpretation of section 75(1C)(a)(iii) of the Act, asserting that rebates could only be claimed for diesel used directly on Langholm's premises ([para 4]).
+
+Langholm disputed this interpretation and sought declaratory relief from the court, seeking confirmation that the diesel purchases for transportation to Summerpride were eligible for rebates. The High Court ruled in favor of Langholm, leading SARS to appeal the decision ([paras 6]).
+
+**I – Issues: Legal or constitutional questions ([paras 7–8])**
+
+The legal questions before the court were:
+
+1. Whether the High Court had appropriately exercised its discretion under section 21 of the Superior Courts Act 10 of 2013 when granting declaratory orders notwithstanding that SARS had not yet issued a final assessment ([para 7]).
+2. Whether a dispute had materialized regarding the interpretation of section 75(1C)(a)(iii) of the Act, warranting a declaratory order ([para 7]).
+
+**R – Rules: Legal authorities and precedents relied upon ([paras 10–12])**
+
+The court relied on the ordinary rules of statutory interpretation, which highlight that statutes should be interpreted according to their ordinary grammatical meaning and in context ([para 11]). Specifically, section 75(1C)(a)(iii) of the Act states that the rebate may be claimed only for fuel delivered to the user’s premises and used there ([para 12]).
+
+The appeal also invoked the precedent established in *Metcash Trading Limited v Commissioner South African Revenue Services & Another*, which endorsed the appropriateness of declaratory relief in the context of tax law ([para 10]).
+
+**A – Application: Analysis of how the court applied the law ([paras 13–18])**
+
+In interpreting section 75(1C)(a)(iii), the court focused on the language, noting that it required diesel fuel to be both delivered to and used on the premises of the taxpayer. It emphasized that both instances of "used" refer to activities occurring on the taxpayer's premises ([paras 15–16]). The court rejected Langholm's argument that it would be absurd to interpret the section in this manner, asserting that practical absurdity could not override the clear language of the statute ([para 17]).
+
+Consequently, it ruled that Langholm misinterpreted the section by arguing that it could claim rebates for diesel obtained off-site, as this interpretation diverged from the explicit wording of the law and the intent of the legislature to restrict claims to premise-bound usage of diesel fuel. 
+
+Therefore, the court found that the High Court had incorrectly granted the declaratory orders based on a mistaken view of the law, leading to the decision in favor of SARS ([paras 18]).
+
+**C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 19])**
+
+The Supreme Court of Appeal upheld SARS's appeal, concluding that the declaratory orders issued by the lower court were based on a flawed interpretation of section 75(1C)(a)(iii) of the Act. The court ruled that only diesel fuel stored and used on Langholm’s premises was eligible for rebate claims. The appeal was upheld with costs, as the court ordered the dismissal of Langholm’s application for declaratory relief ([para 19]).
+
+This judgment reiterates the importance of precise statutory interpretation in tax law and reinforces the principle that claims for tax rebates must strictly adhere to the statutory provisions established by the legislature. The ruling underscores the necessity for claimants to be fully cognizant of the precise language within tax statutes to avoid discourage applications based on misinterpretations or assumptions of legislative intent. 
+
+In conclusion, the decision serves as a significant clarification regarding the eligibility of diesel fuel rebates and reinforces the legislation's scope, ensuring compliance with the safeguards implemented in tax law.

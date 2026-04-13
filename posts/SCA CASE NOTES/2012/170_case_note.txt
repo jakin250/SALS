@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# FIRAC Case Note: Chetty v Italtile Ceramics Ltd
+
+### F – Facts
+The case centers on an appeal by Dhayalan Chockanathan Chetty (the appellant) against a judgment from the North Gauteng High Court. The original court ordered Chetty to pay damages of **R1,168,340.26** to Italtile Ceramics Ltd (the respondent) under the action of **condictio furtiva** for losses incurred during his tenure as manager at Italtile’s CTM branch in Gezina, Pretoria. Chetty entered into a joint venture agreement with Italtile on **8 June 2006**, becoming the manager as the store's stock began to show significant variances against what Italtile’s systems recorded ([para 1]-[2]).
+
+During a mini audit conducted in **September 2008**, Ms. T Govender from Italtile uncovered discrepancies in stock levels and learned that Chetty had been utilizing a **manual delivery book system** contrary to company policy, enabling him to extend credit to select customers without proper disclosure ([para 4]-[5]). It was revealed that Chetty resorted to **stock rolling**, manipulating inventory records to cover up missing stock ([para 6]). 
+
+Italtile initially sought **R1,477,081**, later amending its claim to **R1,168,340.26**, representing the retail value of the missing stock ([para 8]). The trial court concluded that Chetty’s actions amounted to theft, thereby justifying the damages awarded to Italtile ([para 9]).
+
+### I – Issues
+The significant legal issues presented in this case include:
+1. Whether Italtile proved that Chetty unlawfully used its stock, justifying a claim under **condictio furtiva** ([para 10]).
+2. Whether Chetty's actions constituted **furtum usus** (theft of use) by misappropriating goods and causing loss to Italtile ([para 11]).
+3. Consideration of causation—whether Chetty’s conduct was a significant cause of the losses claimed by Italtile, particularly regarding the manual delivery book system and stock rolling ([para 16]).
+
+### R – Rules
+The rules relevant to this appeal are primarily rooted in the principles of **delictual liability** for theft, specifically the condictio furtiva, which allows for an action against a thief for damages related to the loss of property ([para 10]). The essential requisites for theft include:
+- Removal of items without the owner's consent.
+- The taker's intention to deprive the owner of the benefit of ownership ([para 10]).
+
+The broader context includes discussions around **furtum usus**, which does not necessitate the intent to permanently deprive the owner; temporary use of another's property can still constitute a delict ([para 10], [12]). Legal precedents include **Clifford v Farinha**[1] and **International Shipping Co (Pty) Ltd v Bentley**[2], which articulate the conditions under which the condictio furtiva applies and the need for a close link between actions and losses incurred ([para 10], [16]).
+
+### A – Application
+The court reviewed Chetty’s activities as manager and found that while he disobeyed company policies, including implementing the manual delivery book and rolling stock, the evidence did not directly support the conclusion that he engaged in theft of the stock. The court observed that most of the purportedly "missing" stock had vanished before Chetty's decision to manipulate inventory records ([para 12]).
+
+Furthermore, while the introduction of the delivery system violated policy, the act itself did not constitute a physical appropriation of Italtile’s goods, as the stock remained under Italtile's nominal control during the sales—representing more of a breach of contract rather than a delictual interference with the property ([para 14]).
+
+Causation was examined critically, as the sustained losses that Italtile claimed were largely due to its own failure to follow up on outstanding debts. Chetty's actions led to discrepancies but were ultimately not precipitating factors of the claimed loss, implying that the damages ITaltile sought were indirectly linked to Chetty's actions ([para 16]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld Chetty's appeal, finding that Italtile had not sufficiently substantiated its claims under condictio furtiva. The court dismissed the claim against Chetty, stating that although his management was indeed poor and potentially resulted in financial mismanagement, this did not rise to the level of unlawful appropriation that would validate the claims of theft or unjust enrichment ([para 17]). 
+
+The result underscores the stringent requirements for establishing delictual liability in cases of alleged theft of use and suggests a need for clearer demarcation in future cases about the intersection of managerial discretion, company policy, and personal liability.
+
+---
+
+**References:**
+1. Clifford v Farinha 1988 (4) SA 315 (W).
+2. International Shipping Co (Pty) Ltd v Bentley 1990 (1) SA 680 (A).

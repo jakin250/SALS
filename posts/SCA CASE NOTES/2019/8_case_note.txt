@@ -1,0 +1,62 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Cook v Morrison (1319/2017) [2019] ZASCA 08
+
+## FIRAC Method
+
+### F – Facts
+
+The matter of **Cook v Morrison** arose from an action initiated by Geoffrey Cook in the Gauteng Local Division of the High Court, Johannesburg against Murray Morrison and Seabush Investments (Pty) Ltd ([6]). The dispute stemmed from a supposed oral joint venture agreement among Cook, Morrison, and several other individuals, intended to establish the Sibuya Game Reserve between 2003 and 2007 ([9]). This partnership led to the creation of several businesses, including Sibuya Game Reserve & Lodge (Pty) Ltd (SGRL) and Salisbury Trading CC (Salisbury) ([9]).
+
+In May 2008, a written heads of agreement was executed, stating that the Fox parties (the original investors) would sell their 50% share in SGRL to Cook and Morrison while the latter would sell their interests in Salisbury and its assets ([9]). Although a formal contract was not finalized, the parties operated under the heads of agreement.
+
+In August 2010, Cook entered an oral exit agreement, which stipulated that he would sell his shares in Seabush and SGRL to Morrison for a nominal fee, along with several other conditions ([9]). Morrison ultimately failed to provide a written contract for the sale of the Top House land, leading Cook to claim that Morrison had breached the exit agreement ([9]).
+
+Cook initiated legal proceedings in April 2014. The defendants raised a special plea of prescription, contending that Cook's claims had expired since the alleged cancellation of the agreement occurred on 29 September 2010, which initiated the prescription period of three years ([12]). Cook’s claims were dismissed on appeal by both the full court and later by two judges of the Supreme Court of Appeal, prompting Cook to apply for special leave to appeal under the Superior Courts Act 10 of 2013, which was ultimately refused by a panel of five judges ([6][7]).
+
+### I – Issues
+
+The primary issues outlined in this case involve:
+
+1. **Jurisdiction**: Whether the court constituted to hear the application for reconsideration held the appropriate jurisdiction under the proviso of section 17(2)(f) of the Superior Courts Act ([4]).
+2. **Prescription**: 
+   - Whether Cook’s claims constituted debts within the meaning of the Prescription Act 68 of 1969 ([13]).
+   - Whether the relationship between Cook and Morrison constituted a partnership, thus delaying the commencement of the prescription period under section 13(1)(d) of the Prescription Act ([17][19]).
+   - When exactly the cancellation of the exit agreement took place for the purpose of determining when the prescription period began ([26]).
+
+### R – Rules
+
+This case rests on several critical legal principles:
+
+1. **Superior Courts Act 10 of 2013**:
+   - Section 17(2)(f) allows for reconsideration of a previously dismissed application for special leave to appeal by the court, provided special circumstances exist ([1][4]).
+  
+2. **Prescription Act 68 of 1969**:
+   - Defines the term 'debt,' which includes obligations that arise from agreements, thus establishing the timeframes within which claims may be instituted ([12]).
+   - Section 13(1)(d) provides that prescription may be delayed in certain cases, notably where there exists a partnership, but establishes that co-shareholders in a company do not qualify as partners for this purpose ([20]).
+
+3. **Case Law Precedents**: 
+   - **Makate v Vodacom Ltd** ([14]) outlines the definition of 'debt' relevant to claims made under the Prescription Act.
+   - **Hendrik Hough v Sisilana** ([3]) reinforces principles concerning the reconsideration of applications for special leave.
+
+### A – Application
+
+The court's application of the law in the context of *Cook v Morrison* primarily involved a rigorous examination of the allegations set forth by Cook and how they aligned with the definitions provided in the relevant statutes:
+
+1. **Jurisdictional Safety Net**: The court clarified that the phrase "the court" in section 17(2)(f) allows for a properly constituted court of appeal, not merely the two judges who dismissed the initial plea ([4][5]).
+
+2. **Definition of 'Debt'**: The determination that Morrison’s obligation to restore shares was a 'debt' under the Prescription Act was significant. The court established that Cook’s claims did indeed fall under the ambit of contractual obligations relevant to prescription, aligning with the criteria outlined in *Escom* and *Makate* ([15]).
+
+3. **Rejection of Partnership Argument**: The court concluded that the relationship between Cook and Morrison was one of co-shareholders, not partners. This distinction meant that prescription could not be extended under section 13(1)(d), as this provision pertains specifically to debts arising from partnerships ([20][23]).
+
+4. **Cancellation Timing**: On the cancellation of the exit agreement, the court agreed with the defendants that prescription began to run from 29 September 2010. The court also emphasized the significance of consistently aligning Cook's primary allegations with the claim of cancellation to maintain coherence in the legal strategy ([26][28]).
+
+### C – Conclusion
+
+In the culmination of its judgment, the court dismissed Cook's application for special leave to appeal. The ratio decidendi rested on the court's findings that:
+
+- There were no reasonable prospects of success in Cook’s appeal, as the merits of his claims did not raise substantial points of law, nor did they present compelling circumstances that warranted a second examination by the appeal court ([31][32]).
+- The implications of this ruling extend considerably to litigants assessing the potential for prescription claims and reconceptualizing partnerships under South African law. This decision reinforces the boundaries surrounding the interpretation of 'debts' while clarifying the need for explicit assertions of partnership when seeking extensions on prescription ([35]).
+
+The court’s order specifically included costs against Cook, thereby carrying implications for legal strategy in future related matters ([36]). The judgment serves as a critical reference point for similar cases concerning the intersection of contract law and the Prescription Act in South Africa, as well as the procedural clarity surrounding applications for reconsideration of special leave.

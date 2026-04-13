@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+### FIRAC Case Note
+
+**Case Title:** Schoeman & others v Lombard Insurance Company Limited  
+**Neutral Citation:** [2019] ZASCA 66  
+**Court:** Supreme Court of Appeal of South Africa  
+**Date Delivered:** 29 May 2019  
+**Coram:** Tshiqi, Swain, Mathopo, Makgoka JJA, and Plasket AJA  
+**Case No.:** 1299/2017  
+
+---
+
+#### F – Facts ([1]–[19])
+
+In the present case, Lombard Insurance Company Ltd (the respondent) sought to recover R55,148,449.89 from the appellants, Ms Alida Schoeman, Mr Cornelius Schoeman, and the trustees of the Erf 260-2 Middelburg Trust. These parties acted as sureties and co-principal debtors under a General and Commercial Guarantee Facility provided by Lombard to Golden Sun Retailers (Pty) Ltd.
+
+Golden Sun, engaged in the fuel retail industry, requested the facility from Lombard to purchase fuel on credit, which required a suretyship as security. Following the issuance of a demand guarantee in favor of Sasol Oil (the beneficiary), significant claims arose after it was revealed that Golden Sun had misleadingly submitted altered account statements to Lombard, causing financial losses. 
+
+Lombard Insurance made payments to Sasol based on these incorrect demands and subsequently claimed the amounts from the Schoemans and the Trust after they failed to settle the debts owed. The High Court found in favor of Lombard, leading to the appellants’ appeal against this judgment ([1]–[15]).
+
+#### I – Issues ([20]–[20])
+
+The primary legal questions before the court were twofold:
+
+1. Did Sasol’s demands for payment constitute valid demands under the terms of the demand guarantee, specifically regarding whether the demands were made at the correct address as stipulated in the contractual agreement?
+
+2. Was the premium claimed by Lombard Insurance, amounting to R97,608.03, due under the terms of the financial arrangements between the parties, as the appellants argued that only a lower premium of R1,000 was applicable?
+
+#### R – Rules ([21]–[36])
+
+The rules applicable to this case include the principles of contract interpretation as established in *Natal Joint Municipal Pension Fund v Endumeni Municipality* ([23]). The general standards dictate that the context, ordinary language, and purpose of the document guide the interpretation process. Furthermore, the distinction between a demand guarantee and a letter of credit indicates that strict compliance is not always necessary; the crucial factor is effective presentation ([22]–[24]).
+
+The court also referenced legal precedents where similar contractual terms were interpreted, notably in instances such as *MUR Joint Ventures BV v Compagnie Monegasque De Banque*, which emphasized that requirements in contracts could be directory rather than mandatory ([27]–[29]). 
+
+Concerning the premium, the interpretation revolved around the contractual nuances distinguishing between a guarantee fee and the premiums payable under the facility agreement. Clause 11 of the counter-indemnity explicitly stated that all premiums were to be paid as stipulated by the underlying contract ([30]–[36]).
+
+#### A – Application ([21]–[38])
+
+The court applied these principles to evaluate the validity of the demands made by Sasol. It was determined that while the demand guarantee specified that demands should be directed to Sasol's address, the spirit of the guarantee was preserved as Lombard Insurance had received and processed the demands effectively at its own premises ([23]–[27]). The court concluded that the requirement for the location of the demand was simply directory, thereby validating Lombard's obligations to pay Sasol.
+
+On the issue of claim 3 regarding the premium, the court highlighted the distinction between a guarantee fee and the scheduled premiums, reiterating that Lombard Insurance’s interpretation—that premiums payable were contingent upon the agreed structure, amounts to be paid quarterly—was correct. The appellants' assertion that only a R1,000 premium was valid lacked proper textual backing and did not reflect the overarching contractual context ([30]–[38]).
+
+#### C – Conclusion ([39])
+
+The Supreme Court of Appeal affirmed the decision of the High Court, upholding Lombard Insurance's entitlement to the amounts claimed based on Sasol's valid demands and the necessary premiums for the service rendered. The appeal by the Schoemans and the Trust was dismissed with costs, marking a significant clarification on the interpretation of demand guarantees within South African contract law. This ruling underlines the importance of effective communication and compliance within financial arrangements, reinforcing the idea that the operational context can guide contractual adherence. 
+
+The decision holds extensive implications for future cases regarding demand guarantees and contractual obligations, particularly in financial services, illustrating the court’s willingness to uphold the substance of agreements over rigid interpretations.

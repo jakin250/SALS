@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: Shaw & Another v Mackintosh & Another (267/17) [2018] ZASCA 53
+
+## F - Facts
+
+The case revolves around a dispute concerning a loan agreement and the interpretation of the National Credit Act 34 of 2005 ("NCA"). The appellant duo, John Anthony Shaw and Wade Graham Taylor, are co-principal debtors to the first respondent, Glenn William Mackintosh, in an acknowledgement of debt executed in October 2012 concerning an original loan of R2 million made to Mabili Search & Selection (Pty) Ltd ("Mabili") in 2009 ([1]–[2]). The agreement specified that Mabili would repay the sum with interest, and upon default, Mackintosh obtained a default judgment against Mabili, later liquidated ([3]). Mackintosh invoked clause 5 of the contract, attempting to hold Shaw and Taylor liable as sureties, which led to the present appeal ([4]).
+
+In essence, while it was acknowledged that Mabili's financial dealings were beyond the scope of the NCA, the contention lay in whether the agreement between the appellants and Mackintosh constituted a credit guarantee under section 8(5) of the NCA, thus exempting it from the NCA's jurisdiction ([4]–[7]). The appellants claimed that their agreement was a credit transaction subject to the NCA’s requirements, specifically the need for Mackintosh to register as a credit provider, which he had failed to do ([6]–[7]).
+
+## I - Issues
+
+The principal legal issue was whether the agreement between the appellants and Mackintosh constituted a credit guarantee, as defined in section 8(5) of the NCA, and, consequently, if the transaction was exempt from the NCA's provisions ([1], [8]). The appellant's liability depended on the interpretation of the contractual clauses and whether they defined the relationship as suretyship or co-principal debtorship, particularly in light of the overarching purpose of the NCA to regulate credit transactions to protect consumers ([6]–[9]).
+
+## R - Rules
+
+The NCA applies to various kinds of credit agreements, including credit facilities, credit transactions, and credit guarantees. Section 8(5) defines a credit guarantee and sets out the conditions under which an agreement can be classified as such. Notably, section 4(2)(c) states that the NCA applies to a credit guarantee only in as much as it pertains to a relevant credit transaction ([8]–[9]).
+
+Furthermore, statutory interpretation principles from *Natal Joint Municipal Pension Fund v Endumeni Municipality* 2012 (4) SA 593 (SCA) guide the courts in understanding the intent and application of legislative provisions ([8]). The legal provisions stipulate that terminology relating to suretyship or guarantees is distinct from co-debtorship, and an agreement's precise wording defines its legal character and implications.
+
+## A - Application
+
+The court examined the terminology employed in the agreement, particularly clause 5, to establish whether Shaw and Taylor were acting as sureties or co-principal debtors. The decision emphasized that the appellants were not primary borrowers but had undertook to pay Mabili's debt to Mackintosh, making their obligations fit within the framework of section 8(5) of the NCA, thereby qualifying as credit guarantees ([10]). 
+
+Given that Mabili was the sole debtor concerning the R2 million loan, the appellants' participation arose from contractual obligations that did not establish them as recipients of credit, thus distancing the agreement from typical definitions bound by the NCA ([12]).
+
+Moreover, since Mackintosh was not registered as a credit provider, the court concluded he did not meet the criteria set forth in section 40 of the NCA, reinforcing the agreement's exclusion from the NCA's purview ([12]). The court aligned its interpretation with the legislative intent of the NCA, which is designed to protect consumers and regulate credit provision, thereby ultimately dismissing the appeal ([13]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, confirming the lower court's judgment that the appellants, Shaw and Taylor, were not able to escape liability under the terms agreed upon, nor did the transaction fall within the ambit of the NCA due to the nature of the agreement as a credit guarantee ([13]). This ruling underlines the importance of precise contractual phrasing in establishing the roles and responsibilities under the NCA, as well as reinforcing the necessity for credit providers to comply with regulatory obligations to ensure consumer protection. 
+
+The implications extend not only to the parties involved but also highlight essential takeaways for future litigations regarding the classification of credit agreements and the interpretation of consumer protection statutes within South Africa’s legal framework.

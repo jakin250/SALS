@@ -1,0 +1,34 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Shabangu v Land and Agricultural Development Bank of South Africa and Others [2019] ZACC 42
+
+### F – Facts ([paras 1–8])
+The case involves Ngwane Roux Shabangu (the applicant) and the Land and Agricultural Development Bank of South Africa (the first respondent), along with several sureties (the second to ninth respondents). The applicant and the sureties stood as sureties for loans advanced by the Land Bank to Westside Trading 570 (Pty) Limited, intended for urban property development. However, the Land Bank later discovered that the loan agreement was invalid as it exceeded its statutory powers under the *Land and Agricultural Development Bank Act 15 of 2002* ([para 1]). After learning about the invalidity, the Bank ceased financial support, leading to a dispute over the amount due. Westside executed an acknowledgment of debt for R82 million as full settlement, even after contesting the Land Bank's claims of R95 million ([paras 2–4]).
+
+Following Westside’s liquidation, the Land Bank opted not to pursue claims against Westside and instead relied on the acknowledgment of debt to claim from the sureties. The High Court originally ruled in favor of the Bank, believing that the acknowledgment of debt was valid despite the underlying invalid loan agreement, with Basson J stating that an invalid loan does not inherently render a suretyship invalid ([paras 5–6]). Following an unsuccessful appeal attempt, the applicant sought leave to appeal in the Constitutional Court ([para 7]).
+
+### I – Issues ([paras 12–15])
+The key issues for determination by the Constitutional Court included:
+(a) Jurisdiction to hear the appeal; 
+(b) If leave is granted, the merits focusing on:
+   (i) the impact of the invalid principal loan agreement on the validity of the acknowledgment of debt;
+   (ii) the resulting liability of the sureties concerning the acknowledgment of debt.
+The Court noted that the implications transcend the narrow interests of the parties involved, raising significant questions of law, particularly involving the limitations of state power and access to justice under the Constitution ([paras 13–15]).
+
+### R – Rules ([paras 16–26])
+The constitutional framework and statutory considerations revolve around the *Land and Agricultural Development Bank Act*, which delineates the authority and obligations of the Bank. The Court also reviewed principles from previous jurisprudence, particularly the Supreme Court of Appeal's ruling in *Panamo Properties* concerning the validity of surety agreements when the principal obligation is invalid ([paras 16–17]).
+
+A significant finding from this case was that an acknowledgment of debt merely reaffirming the invalid loan relationship remains ineffective. This principle followed legal precedents outlining that any attempt to enforce an unenforceable claim through subsequent agreements—whether as a novation or compromise—remains invalid ([paras 20–21]). This judgment is aligned with the perspectives provided in the *Gibson* case, which speaks to the essence of claims arising from invalid agreements ([para 22]).
+
+### A – Application ([paras 16–36])
+The Court’s application of the law highlighted that, although the High Court correctly interpreted the relationship between suretyship and the acknowledgment of debt, it failed to ascertain whether the latter was tainted by the invalid principal agreement. The acknowledgment of debt explicitly recognized the indebtedness under the invalid agreement, leading the Court to assert that it merely attempts to enforce an unenforceable claim ([para 20]). 
+
+The significance of the nature of the acknowledgment of debt was emphasized—the Court found it was fundamentally aimed at enforcing the invalid debt without overcoming its underlying invalidity, echoing the arguments posited about the legal impossibility of such an action to justify surety liability ([paras 23–34]).
+
+The ruling established that an organ of state, like the Land Bank, cannot validly assert claims that would perpetuate invalidity through a compromise that does not modify the essence of the claim—therefore, the acknowledgment of debt similarly lacked validity because it constituted a mere resuscitation of the invalid agreement and did not represent an independent legal footing for liability ([paras 19–25, 32]).
+
+### C – Conclusion ([paras 37])
+The Constitutional Court ultimately granted leave to appeal, dismissing the applications of the second to ninth respondents to intervene, and ruled in favor of the applicant. The earlier High Court ruling was reversed, stating, "The plaintiff’s claim is dismissed with costs," thereby establishing a precedent regarding the enforceability of acknowledgments of debt that are predicated on invalid agreements ([para 38]).
+
+In conclusion, this case reaffirms the legal principle that a subsequent acknowledgment of a debt cannot transform or validate previous invalid agreements, emphasizing adherence to constitutional limitations on state power while blocking unjust enrichment resulting from unlawful contracts. The decision delineates clearer boundaries for the obligations of public entities and reinforces the fundamental tenet of legality in state actions.

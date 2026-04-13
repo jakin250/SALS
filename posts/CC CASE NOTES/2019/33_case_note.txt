@@ -1,0 +1,58 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: Dykema v Malebane [2019] ZACC 33
+
+---
+
+### F – Facts:
+This case arose from a legal dispute between Albert Dykema (the Applicant) and Arthur Pule Malebane (the First Respondent), regarding municipal planning and land use rights. Dykema submitted an application on 10 February 2012 to the Limpopo Development Tribunal under the now-repealed Development Facilitation Act 67 of 1995 (DFA), seeking approval for a service station. His application was pending while a suspension of constitutional invalidity for Chapters V and VI of the DFA was enacted by the Constitutional Court in an earlier case, **Gauteng Development Tribunal** ([para 2]). The suspension expired on 17 June 2012 without the passage of remedial legislation (SPLUMA) to replace the DFA, creating a legal vacuum ([para 3]).
+
+After extensive internal communications in which the Bela-Bela Local Municipality approved Dykema's application subject to conditions, the Limpopo Tribunal eventually approved the application on 1 November 2012, post-expiration of the suspension. However, Malebane, proposing a similar project close to Dykema's location, sought approvals independently under different planning legislation. Dykema subsequently approached the High Court for a mandamus against the Municipality to enforce the Tribunal's decision ([paras 8–10], [para 19]).
+
+In the High Court, despite Dykema's arguments that his application remained pending and valid under SPLUMA, his application was dismissed, leading to an appeal. The Supreme Court of Appeal upheld this dismissal, prompting Dykema to approach the Constitutional Court, seeking clarity on the legal status of his application during the legislative transition ([paras 10–16]).
+
+---
+
+### I – Issues:
+The primary legal issues that the Constitutional Court needed to address were:
+1. Whether the suspension of the declaration of invalidity issued in **Gauteng Development Tribunal** maintained the validity of applications made under the DFA beyond the expiration of the suspension ([paras 16–17]).
+2. The interpretation of section 60(2)(a) of the Spatial Planning and Land Use Management Act 16 of 2013 (SPLUMA) in determining whether Dykema’s application was "pending" ([para 16]).
+3. The implications for the scope of administrative rights, particularly regarding just administrative action ([para 17]).
+
+---
+
+### R – Rules:
+1. **Constitutional Principles**: The decision hinges on the constitutional failure for Parliament to enact legislation following the declaration of invalidity. The ruling in **Gauteng Development Tribunal** established that suspensions are meant to avoid the disruption of administrative processes ([paras 20–22]).
+  
+2. **Legislative Framework**: SPLUMA is a regulatory framework that replaced the DFA and provides for the processing of applications that were pending under the DFA. Notably, section 60(2)(a) stipulates that such pending applications must continue to be managed under SPLUMA ([para 18]).
+
+3. **Legal Precedents**: Previous rulings, including **Shelton** and **Patmar**, addressed the validity of approvals and the necessity for clarity regarding the fate of applications post-suspension ([para 18]). Relevant case law also includes **My Vote Counts** for the general principle regarding the rationale for declaring suspensions ([para 19]).
+
+---
+
+### A – Application:
+In applying the law to the facts, the Constitutional Court emphasized the intent behind suspensions and the importance of administrative continuity. The majority opinion at the Supreme Court of Appeal interpreted "pending" to mean that an application must be capable of determination by the same authority. This stringent reading was rejected by the Constitutional Court, which found that such an interpretation would yield unjust results, effectively penalizing applicants for delays beyond their control.
+
+The Court ruled that an application cannot simply be rendered invalid upon the expiration of a suspension if it was validly submitted prior to that expiration. It relied on the rationale that the estate of applications must be preserved in light of legislative gaps. This view aligns with the respect for constitutional rights to just administrative processes ([paras 23–26]).
+
+Furthermore, the Court looked at the legislative history of SPLUMA, recognizing the gap period and affirming that it would be illogical to render pending applications inactive without express legislative action ([paras 26–27]). The legislative drafting history indicated a clear intent to allow for the continuity of pending applications, further supporting the conclusion that Dykema's application remained "pending" and thus should be disposed of under SPLUMA ([para 28]).
+
+---
+
+### C – Conclusion:
+The Constitutional Court ultimately reversed the Supreme Court of Appeal's judgment, allowing Dykema's application to be declared "pending" under section 60(2)(a) of SPLUMA. It affirmed that Dykema's application should be processed according to SPLUMA, thus rectifying an administrative oversight caused by the legislative vacuum post-expiration of the suspension. Each party was ordered to bear their own costs, acknowledging the legal ambiguity created by Parliament's inaction ([paras 29–32]).
+
+This ruling sets a critical precedent regarding administrative continuity and the treatment of applications during transitional periods in legislative reforms, reinforcing the importance of safeguarding rights to just administrative action within municipal planning contexts. 
+
+--- 
+
+This case illustrates the intricate balance that must be maintained between legislative frameworks and individual rights within the realm of constitutional law in South Africa. 
+
+--- 
+
+### References:
+- **Gauteng Development Tribunal** [2010] ZACC 11.
+- **Shelton v Eastern Cape Development Tribunal** [2016] ZASCA 125.
+- **Patmar Explorations** [2018] ZASCA 19.
+- **My Vote Counts NPC v Minister of Justice and Correctional Services** [2018] ZACC 17.

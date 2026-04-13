@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# FIRAC Case Note: Imperial Bank Limited v Hendrick Jacobus Rust Barnard N.O. (349/12) [2013] ZASCA 42
+
+## F – Facts
+
+On 3 August 2007, the respondents, acting as joint liquidators of Pro Med Construction CC (in liquidation) ("Pro Med"), initiated a lawsuit against Imperial Bank Limited (the "appellant") for the payment of R25 million plus interest and costs ([1]). The claim was based on an agreement concluded on 27 February 2003, where Pro Med purchased immovable property from the appellant. Following the liquidation of Pro Med on 8 December 2004, the appellant subsequently sold the same property to Land for Africa (Pty) Ltd, although Land for Africa was not a party to this appeal ([1]).
+
+In their particulars of claim, the respondents initially cited themselves collectively; however, the appellant objected to their standing, asserting that the respondents lacked the proper locus standi under s 386(4)(a) of the Companies Act 61 of 1973 (the "Act") in their capacity as liquidators ([2]). On 17 February 2011, the respondents sought to amend their particulars of claim to expressly cite Pro Med as the plaintiff, represented by the liquidators ([3]). The appellant contested the amendment, asserting it would introduce a new party and potentially lose the opportunity to raise a defense of prescription.
+
+On 1 November 2011, the South Gauteng High Court granted the amendment despite the appellant's objections, leading to this appeal ([3]).
+
+## I – Issues
+
+Two primary issues were presented before the court:
+1. Whether the order granting the amendment was interlocutory and thus not appealable ([4]).
+2. Accordingly, whether the amendment represented the substitution of a party or merely corrected a misdescription in the particulars of claim ([4]).
+
+Additionally, underlying these issues was the contention over the interpretation of the liquidators' locus standi to bring an action or amend it in their representative capacity ([5]).
+
+## R – Rules
+
+The legal framework relevant to this case is primarily found in the Companies Act 61 of 1973, particularly s 386(4)(a), which empowers liquidators to bring actions on behalf of the company ([5]). The court also referenced the Prescription Act 68 of 1969 as it pertains to the interruption of prescription through service of process ([10]).
+
+Judicial precedence illustrated the principles governing amendments and locus standi. An amendment is generally permitted unless made in bad faith or causing irremediable prejudice to the opposing party ([8]). Furthermore, the court highlighted the notion that claims sought in an amendment must reflect the same or substantively similar debt as initially claimed to interrupt the running of prescription ([9]).
+
+Relevant case law includes:
+
+- **Associated Paint & Chemical Industries (Pty) Ltd v Smit**: Confirming that for a summons to interrupt prescription, the plaintiff must be the creditor ([11]).
+- **Neon and Cold Cathode Illuminations (Pty) Ltd v Ephron**: Establishing that service of an incorrect summons does not interrupt prescription.
+
+## A – Application
+
+The court reviewed the arguments posed by both the appellant and the respondents concerning the liquidators' standing and the amendment’s implications. It first examined whether the liquidators were acting on their behalf or representing Pro Med in the litigation ([16]). The court noted that the liquidators were explicitly cited in their official capacities, indicating they were acting on behalf of Pro Med, thus affirming their locus standi.
+
+The court recognized that while the appellant underscored issues of potential prejudice due to the amendment's timing and implications for prescription, it found that the claim remained fundamentally that of Pro Med and merely sought clarification on representation ([19]). Moreover, as the particulars indicated that Pro Med remained the creditor, the amendment did not infringe upon the appellant's ability to raise its defense of prescription because the service of the combined summons had already occurred, effectively interrupting prescription ([18]).
+
+In disagreeing with the appellant's assertion about the amendment introducing a new plaintiff, the court concluded that no new cause of action had been created; thus, the added clarity regarding representation did not alter the substantive rights of the parties ([18]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, holding that the liquidators had the proper authority to act on behalf of Pro Med. The court's affirmation that neither the nature of the action nor the rights sought had fundamentally changed underscored that the amendment was a mere correction of misdescription. Consequently, prescription had been effectively interrupted by the prior service of the summons, safeguarding the liquidators' ability to pursue the claim against the appellant ([19]).
+
+The implications of this ruling reinforce the principles surrounding the locus standi of liquidators and the procedural nuances concerning the amendment of pleadings within the South African legal landscape. The decision elucidates the standards for evaluating standing in corporate liquidation contexts, as well as the interpretative scope of the Companies Act regarding liquidators’ capacity to litigate on behalf of a company in liquidation. By confirming the validity of the amendments and service, the court endorses equitable treatment for creditors represented by liquidators, ultimately preserving creditor interests in liquidation proceedings.

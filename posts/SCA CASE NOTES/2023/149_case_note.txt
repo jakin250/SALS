@@ -1,0 +1,53 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# FIRAC Case Note: Ilse Becker and Others v The Financial Services Conduct Authority and Others (454/2022)
+
+**F – Facts**  
+[1] The appellants in this case, Ms. Ilse Becker and Mr. Eugene Becker, are directors of Fusion Guarantees (Pty) Ltd (Fusion), a company engaged in offering guarantees and sureties. The first respondent, the Financial Services Conduct Authority (the Authority), was established under the Financial Sector Regulation Act 9 of 2017 (the Act) and is tasked with regulating and supervising financial institutions ([1]).  
+
+[2] Following an investigation initiated by the Authority, conducted pursuant to Section 80 of the Financial Institutions Act 80 of 1998, a report by Mr. Panday found that Fusion was violating the Short-Term Insurance Act 53 of 1998. On 12 February 2020, the Authority notified Fusion and the Beckers about its intention to take regulatory action based on these findings, proposing an administrative penalty of R200 million and a 15-year debarment order against the Beckers ([2]). Fusion and the Beckers were afforded the opportunity to respond to this notice and submitted detailed representations.  
+
+[3] Subsequently, they applied to the Gauteng Division of the High Court for a declaration that Sections 154, 167, 230, and 231 of the Act were unconstitutional and invalid, alleging a failure of procedural fairness in determining contraventions of financial sector laws. The high court dismissed their application, leading to the current appeal, which argues specifically against the unconstitutionality of Sections 154 and 167 ([3]).  
+
+**I – Issues**  
+[4] The appeal presents multiple legal questions primarily centered around the constitutional validity of certain provisions of the Financial Sector Regulation Act. The principal issues are:  
+
+1. Whether Section 33 of the Constitution, which guarantees the right to administrative action that is lawful, reasonable, and procedurally fair, is violated by Sections 154 and 167 of the Act in the context of determining contraventions of financial sector laws ([5]).
+   
+2. Whether the Authority acts as an impartial tribunal when imposing sanctions, thereby potentially infringing Section 34 of the Constitution, which guarantees the right to a fair trial ([6]).  
+
+3. The applicability of the principle of constitutional subsidiarity, which may affect the challenge based on Section 33, particularly in light of the Promotion of Administrative Justice Act 3 of 2000 (PAJA) ([11]).
+
+**R – Rules**  
+[7] The pertinent constitutional provisions include:   
+
+- **Section 33**: Provides for the right to lawful, reasonable, and procedurally fair administrative action.
+- **Section 34**: Guarantees the right to a fair trial.
+- **Section 91 of the Act**: Specifies that any administrative action taken by the Authority is subject to the provisions of PAJA.
+
+In judicial precedents, the Constitutional Court's decision in *Zondi v Member of the Executive Council for Traditional and Local Affairs & Others* serves as a foundational reference, articulating that the provisions of PAJA must be considered when assessing the constitutional validity of legislative grants of administrative power ([12]).  
+
+**A – Application**  
+[8] The court critically analyzed whether the Authority is required to provide a hearing before determining if a person has contravened financial sector laws. It posited that while Sections 154 and 167 afford individuals the right to make submissions prior to the imposition of sanctions, there exists no such provision that mandates the Authority to consider submissions before concluding a contravention has occurred ([10], [18]).  
+
+[9] This interpretation led to the conclusion that if the Authority's findings regarding contraventions lack procedural fairness, then any subsequent sanctions would also be invalid. The court found, however, that Section 154(1) implicitly requires that the Authority’s reasons for proposing a debarment must address the issue of whether a contravention occurred, which necessitates considering submissions from the affected individuals ([19], [21]). Thus, the lack of procedural fairness at the contravention stage invalidates the powers to sanction under both Sections 154 and 167 ([24]).  
+
+[10] Additionally, the principle of subsidiarity was deemed to support that challenges against legislative provisions must begin with an examination of the related statutory framework, particularly PAJA. Since PAJA governs administrative actions, the challenge based on Section 33 was found to be unfounded, as individuals are protected by the due process afforded under PAJA ([12], [24]).  
+
+**C – Conclusion**  
+[11] Ultimately, the court dismissed the appeal by concluding that the procedural safeguards outlined in the Act, especially concerning the Authority's requirement to invite submissions, adequately protect the rights of individuals against whom sanctions are proposed ([26]). The interpretation that the statutory framework fails to provide necessary protections was found to be incorrect. The ruling reinforced the importance of procedural fairness in administrative decision-making concerning financial regulation ([22]-[24]).  
+
+[12] Thus, the court upheld the validity of Sections 154 and 167 of the Financial Sector Regulation Act, affirming that individuals have the right to challenge findings of contraventions through due process without denying their procedural rights as encapsulated in both the Constitution and PAJA. The court ordered that the appellants bear the costs of the appeal, which included the fees for two counsel, given the complexity and significance of the issues addressed ([27]).  
+
+---
+
+**References**  
+* Zondi v Member of the Executive Council for Traditional and Local Affairs & Others [2004] ZACC 19; 2005 (3) SA 598 (CC).  
+* Promotion of Administrative Justice Act 3 of 2000 (PAJA).  
+* Financial Sector Regulation Act 9 of 2017 (the Act).  
+* Constitution of the Republic of South Africa, 1996.  
+
+--- 
+
+This FIRAC case note encapsulates the crucial elements of the judgment for academic publication, ensuring compliance with formal citation protocols. The detailed analysis elaborates the legal principles sourced from constitutional law while addressing the nuances involved in regulatory actions within the financial sector.

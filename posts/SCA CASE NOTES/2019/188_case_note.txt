@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+## Case Note: Magic Eye Trading 77 CC v Santam Limited (775/2018) [2019] ZASCA 188
+
+### F – Facts: Relevant Background and Procedural History ([para 1–5])
+
+The case involves an appeal stemming from a delictual claim by **Imperial Cargo Pty Ltd** (Imperial) against **Magic Eye Trading 77 CC** (Magic Eye) and its employee **Mr. Perumal Chetty** for damages to a truck allegedly forced off the road on **21 March 2009** ([para 2]). Imperial claimed damages amounting to **R449,461.71**, asserting that Chetty was acting within his employment scope ([para 3]). After denying liability, Magic Eye and Chetty sought to join **Santam Limited** as a third party, based on an insurance policy providing indemnity for such liabilities ([para 3]). 
+
+On **11 October 2016**, the court ordered Santam’s joinder and separated issues of liability from Magic Eye and Chetty's main action ([para 4]). In response, Santam filed a special plea of prescription, arguing that the claim became vested in the appellants once the specific event occurred and that their failure to serve a notice of joinder within three years resulted in the claim prescribing ([para 5]).
+
+### I – Issues: Legal or Constitutional Questions ([para 6–11])
+
+The central issue in the appeal is whether the appellants' contingent right to claim indemnification under the insurance policy can prescribe under **section 12(1)** of the **Prescription Act 68 of 1969** ([para 1]). Specifically, the court needed to determine when prescription begins in relation to claims that emerge from liability that has not yet been quantified or established ([para 11]). 
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([para 12–15])
+
+The court relied on two important cases to clarify the principle of prescription concerning indemnity claims: **Truck and General Insurance Co Ltd v Verulam Fuel Distributors CC** ([para 9]) and **Pereira v Marine and Trade Insurance Co Ltd** ([para 10]). In **Truck and General**, the quagmire arose over whether liability established the right to claim, while **Pereira** indicated that a claim for indemnification only becomes valid after a liability to a fixed debt is established ([paras 10-12]). 
+
+Notably, the court recognized **Pereira**’s authority, which maintained that indemnity claims must arise from a fixed legal obligation, thus avoiding prescribing until the amount owed was duly determined by court or agreement ([para 15]).
+
+### A – Application: Analysis of How the Court Applied the Law ([para 16–23])
+
+In applying these principles, the court distinguished between absolute claims and contingent claims. The appellants contended that their claim could not have prescribed before it was established that they owed a certain sum to Imperial. They emphasized that until a liability is fixed, the potential claim against Santam is merely contingent ([para 11]).
+
+Critically, the court drew a line between the facts of **Truck and General** and the present case, noting that вthere, liability was already determined by a court, whereas here, the appellants' liability and the extent of their damages remained litigable issues ([para 20]). The court reaffirmed that **a claim for indemnification necessitates an established liability before it can be deemed a completed debt**, held that a claim does not arise until liability is both established and is for a specific, determined amount ([para 23]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([para 24])
+
+The Supreme Court of Appeal upheld the appeal, ruling that the appellants' right to seek indemnification had not prescribed due to the contingent nature of their claim against Santam ([para 24]). The decision confirms that a claim for indemnity under an insurance contract is contingent upon the legal determination of liability to pay a fixed sum. The court clarified that prescription cannot commence until a debt is recognized as due, thereby differentiating between claims and contingent claims, which are inherently not actionable until the contingent events materialize. Consequently, Santam’s special plea was dismissed, underscoring the precedent that applications for declaratory relief concerning contingent claims do not trigger the running of prescription until established liabilities solidify.
+
+### Implications
+
+This ruling has significant implications for the obligations of both insured parties and their insurers under South African law, establishing a clear demarcation regarding when claims can be deemed valid and actionable. The case reinforces the principle that until the parties concerned determine liability and the amount, claims against insurers remain contingent, effectively removing the risk of premature prescription. The outcome emphasizes the necessity for insured parties to first clarify their liabilities before seeking indemnification, offering a nuanced understanding of how the law administers prescription in the context of insurance claims.

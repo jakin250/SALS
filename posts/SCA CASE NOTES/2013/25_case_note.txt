@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+# Case Note: *First Rand Bank Limited v Brera Investments CC* [2013] ZASCA 25  
+**Supreme Court of Appeal of South Africa**  
+**Case No: 385/2012**  
+**Judgment Delivered: 25 March 2013**  
+
+## FIRAC Layout
+
+### F – Facts
+
+The appellant, First Rand Bank Limited ("First Rand"), issued a payment guarantee to Brera Investments CC ("Brera") amounting to R12,997,972.36, including VAT, in connection with a subcontract agreement between Brera and Spirit of Africa Developments (Pty) Ltd ("the contractor") for construction works related to the Windmill Park Extension 12 development in Boksburg ([1]). The payment guarantee specified that it should not be construed as creating a suretyship or accessory obligation but as an independent agreement ([2]). 
+
+First Rand financed the project through a mortgage bond to the contractor, and Brera waived any lien rights in favor of First Rand upon the issuance of the guarantee ([3]). The subcontract provided for interim payments to Brera based on certified amounts, obligating the principal agent to issue payment certificates each month and dictating payment timelines and procedures ([4]).
+
+On 17 March 2011, Brera requested the contractor to issue a payment certificate for R1,065,864.29. When no certificate was issued within the stipulated seven days, Brera issued a demand to First Rand in accordance with the terms outlined in the guarantee ([7]). Despite these demands, a payment certificate for R60,909.79 was issued only afterward, with disputes regarding the amounts claimed ([8]). Consequently, Brera initiated legal proceedings in the High Court on 14 July 2011, resulting in an order against First Rand for payment by Nicholls J ([8]). 
+
+### I – Issues
+
+The primary legal question before the court was whether First Rand was liable to pay Brera under the terms of the payment guarantee, considering that a payment certificate was issued after Brera's demand had been made ([9]). Specifically, the appeal hinged on the interpretation of the guarantee's clauses, particularly regarding whether First Rand could rely on subsequent events occurring after Brera’s initial demand for payment ([9]).
+
+### R – Rules
+
+The court relied on established legal principles regarding payment guarantees, including the autonomy of such guarantees and the fact that liability is typically not affected by the interactions between the parties involved in the underlying contract. This principle has been previously affirmed in cases such as *Lombard Insurance Co Ltd v Landmark Holdings (Pty) Ltd* and *Dormell Properties 282 CC v Renasa Insurance Co Ltd* ([2]), which discuss the conditions under which a payment guarantee must be executed.
+
+The court emphasized that the language within a guarantee is paramount. It highlighted that the obligation to pay arises as soon as the conditions stipulated in the guarantee are met ([8]). Furthermore, the interpretation of guarantees is supported by the principle that unless fraud is proved, a guarantor is generally obliged to make payment according to the demand without reference to subsequent events ([11]).
+
+### A – Application
+
+The court affirmed Nicholls J’s judgment that liability arose from the fact that Brera met the conditions set out in clause 3 of the payment guarantee, which dictated the obligation of First Rand to pay once the documents specified in clause 3.1 and 3.2 were presented ([8]). The court clarified that while First Rand argued that the issuance of a payment certificate post-demand nullified Brera’s claim, this interpretation was rejected as strained and inconsistent with the clear language of the guarantee.
+
+The court noted that the demand made by Brera and the response, or lack thereof, from the contractor was part of the conditions for invoking liability, thus First Rand's obligation to pay was not contingent upon subsequent events. The court distinguished the case from *Dormell Properties*, clarifying that there was no finding of wrongfulness or fraud that could preclude Brera's right to enforce the guarantee due to subsequent events ([10]).
+
+### C – Conclusion
+
+The Supreme Court ultimately dismissed First Rand's appeal, thereby upholding Nicholls J's order requiring First Rand to pay Brera the amount specified in Brera's demand. The court confirmed that liability under payment guarantees exists independently of the fulfillment of obligations in the underlying contract, thereby reinforcing the autonomy of such financial instruments ([12]). The judgment exemplifies the importance of precise contractual language and the principles of certainty and predictability in commercial transactions. 
+
+Brera’s success in this case reaffirmed the legal position that guarantees must be honored when the stipulated conditions are met, reflecting the judiciary’s commitment to uphold enforceable commercial contracts not hindered by subsequent actions or disputes among the contract parties. 
+
+---
+
+*This case note encapsulates vital aspects of contract liability in the context of performance guarantees within South African law, elucidating principles imperative for practitioners and scholars alike.*

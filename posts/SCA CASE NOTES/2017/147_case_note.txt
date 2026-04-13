@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+### Case Note: Smyth v Investec Bank Ltd (674/2016) [2017] ZASCA 147
+
+#### F – Facts
+The primary facts of this appeal arise from a complex corporate dispute involving shareholders of Randgold & Exploration Company Ltd (Randgold) and two agreements concluded in January 2010 that the appellants allege were unfairly prejudicial to their rights as shareholders. The appellants, David John Smyth and forty others, comprised distinct groups seeking relief related to their shares in Randgold, invoking section 252 of the Companies Act 61 of 1973 (the Act) ([1]-[2]).
+
+The appellants sought a declaratory order asserting that two specific agreements—the “Revised Settlement Agreement” and the “Litigation Settlement Agreement”—were unfairly prejudicial as stipulated under section 252. They requested consequential relief, mandating the first respondent, Investec Bank Limited (Investec), to purchase their shares at a specified price ([2]).
+
+The appellants were divided into three groups: 
+1. The first category included the first to seventh appellants, who filed the main application.
+2. The second group, the eighth to thirty-fourth appellants, requested to intervene in the main application.
+3. The last group, the thirty-fifth to forty-first appellants, identified as ‘own name applicants,’ also sought intervention.
+
+The appellants claimed they were beneficial owners of shares, despite those shares being registered under nominee entities, invoking their procedural right to seek relief against oppression or prejudice. The opposing parties, Investec and Randgold, contested the appellants’ locus standi, asserting that only registered members of Randgold could seek relief under section 252 ([4]-[5]).
+
+Initially, the Gauteng Division of the High Court ruled that the beneficial shareholders lacked standing (locus standi) to assert claims under section 252 due to the shares being registered in the names of their nominees ([5]-[12]). The appellants’ claims were non-suited, and the Court held that only registered members of the company had standing, emphasizing the distinction between nominal and beneficial ownership ([12]).
+
+#### I – Issues
+The legal issues central to this case involve:
+1. Whether the remedy under section 252 of the Companies Act is available to beneficial owners of shares who hold their interests through nominees ([1]).
+2. Whether beneficial owners may join as co-applicants with their nominees when seeking relief under section 252 ([1][11]).
+
+The critical legal questions center on the definition of "member" in the context of the Companies Act, particularly if beneficial owners fall within this definition, and the implications for standing in legal proceedings ([12]).
+
+#### R – Rules
+The court primarily referred to the following statutes and principles:
+1. **Companies Act 61 of 1973**, specifically sections 252 and 103, which define the rights of members of a company and the remedies available for oppressive conduct ([15][16]).
+2. **Case Law**: The court relied on established precedents, such as **Sammel & Others v President Brand Gold Mining Co Ltd** which delineated the role of nominees and the strict interpretation of "member" in corporate law ([21]).
+3. Previous cases such as **Kalil v Decotex (Pty) Ltd** and **Barnard v Carl Greaves Brokers (Pty) Ltd** were discussed concerning the nature of membership and the entitlements of registered versus beneficial shareholders ([31]).
+
+The decisions of both the High Court and the Supreme Court of Appeal stressed that the register of members is determinative for membership status and that only those whose names are inscribed could assert claims under section 252 of the Act ([12][41]).
+
+#### A – Application
+In their application of statutory rules and case law, the court emphasized:
+- The strict interpretation of section 252 affirmed that it applies solely to members as defined in section 103. The court held that beneficial owners subjected to nominations could not be considered members for the purpose of section 252 ([12][15]).
+- The court reiterated the implications of these findings, concluding that to grant standing to beneficial owners would contravene the statutory framework established by the Companies Act ([46]).
+- The court particularly found that allowing beneficial owners to intervene alongside their nominees would not only conflict with a clear statutory scheme but also establish an unsound legal precedent whereby non-members could pursue claims fundamentally reserved for company members ([54]).
+
+The court rejected the appellants’ arguments advocating for a purposive interpretation of membership, asserting that the language of the statute clearly precluded such an expansive reading and reaffirmed the legislative intent behind company member definitions ([45][46]).
+
+#### C – Conclusion
+The Supreme Court of Appeal concluded that:
+1. The appellants, as beneficial owners holding shares through nominees, did not qualify as "members" under the Companies Act and thus lacked the necessary locus standi to invoke section 252 ([54]).
+2. The appeal was dismissed with costs, indicating the court's alignment with the High Court's interpretation and the statutory framework governing corporate membership in South Africa ([57]).
+
+This judgment reinforces the principle that legal rights in the context of corporate governance are strictly bound to formal membership as delineated in the company’s registration records, preserving the integrity of corporate structures against ambiguous claims of beneficial ownership.

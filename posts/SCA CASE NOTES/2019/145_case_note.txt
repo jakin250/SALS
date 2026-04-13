@@ -1,0 +1,40 @@
+Case Note: SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+**FIRAC Case Note: Salzmann v The State (2019) ZASCA 145**
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–4])**
+
+The appellant, Siegfried Ernst Salzmann, was charged in the Specialised Commercial Crimes Court with offences under section 86 of the Electronic Communications and Transactions Act 25 of 2002 (ECT Act) following a significant cyber-attack on Cell C's network on June 7, 2004. The trial commenced on October 29, 2005, and continued until January 14, 2015, culminating in the appellant's conviction on two counts: unauthorized access to the computer network (Count 1) and unlawful modification of data causing partial network failure (Count 3). The appellant received a sentence that included either a fine or imprisonment on Count 1 and three years' imprisonment on Count 3 ([paras 3–4]).
+
+The appellant appealed to the Gauteng Division of the High Court, which upheld the conviction and dismissed the appeal on March 9, 2017. Subsequently, the appellant sought special leave to appeal from the Supreme Court of Appeal (SCA) based on a high court order dated June 5, 2018. However, the appeal’s admissibility hinged on whether the high court had the jurisdiction to grant leave to appeal, as the new Superior Courts Act 10 of 2013 (effective August 23, 2013) had altered the leave to appeal framework ([paras 4–6]).
+
+**I – Issues: Legal or Constitutional Questions ([paras 5–7])**
+
+The primary legal issue before the court revolved around the interpretation of the Superior Courts Act, specifically concerning the jurisdiction to grant special leave to appeal. Following the repeal of the Supreme Court Act, the question arose as to whether proceedings that had started before the introduction of the Superior Courts Act were still subject to the earlier legal framework ([paras 5–7]).
+
+Additionally, the court had to consider the implications of section 52 of the Superior Courts Act, which provides that proceedings pending at the commencement of the new Act must continue under the previous statute unless judgment had already been passed ([para 7]). The court needed to ascertain if the high court had authority to grant special leave when the appellant's conviction and sentence had occurred following the enactment of the new law ([para 8]).
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 6–11])**
+
+The SCA reference to its previous case law, such as **Van Wyk v S** and **Gonya v S**, delineated the new procedural framework under the Superior Courts Act. Section 16 of the Superior Courts Act specifies that "an appeal against any decision of a Division on appeal to it lies to the Supreme Court of Appeal upon special leave having been granted by the Supreme Court of Appeal" ([para 6]).
+
+The interpretative dilemma was anchored on whether "pending proceedings" encompassed applications for leave to appeal, given that such leave was no longer within the high court's jurisdiction following the Superior Courts Act ([paras 8–10]). The judgments noted that the previous decisions had inadvertently conflated trial proceedings with subsequent appeal proceedings, emphasizing the distinct nature of these processes and the necessity of a proper legal framework supporting the appeal ([paras 12–14]).
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 16–42])**
+
+The court analyzed the matter in light of the legislative changes and the timing of events affecting jurisdiction. Notably, it established that the high court did not possess the authority to grant special leave to appeal, as the trial proceedings had concluded in 2015 after the enactment of the Superior Courts Act. Consequently, the SCA underscored the necessity for special leave to be sought directly from this court, as per the stipulations in **Van Wyk** ([paras 11–16]).
+
+On the merits of the appeal, the court addressed the appellant’s conviction concerning the cyber-attack. The evidence presented during the trial included concrete logs of unauthorized access, testimony from Cell C’s Information Security Manager, and corroborative materials demonstrating that the appellant's computer had been used to access the network unlawfully. The court found that the prosecution's case was well-established ([paras 20–38]).
+
+The appellant's defence hinged on asserting accidental access and systemic security flaws at Cell C, which he argued undermined the integrity of the investigation. However, the court ruled that the appellant had not sufficiently countered the strong evidence against him ([paras 20–36]).
+
+Regarding sentencing, the court affirmed the trial court's decision, rejecting arguments criticizing the severity of the three-year imprisonment term for Count 3. The court emphasized the broader context of cybercrime and reinforced the necessity of strong deterrents against such unlawful conduct, particularly concerning breaches of trust in a corporate setting ([paras 39–42]).
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 44–70])**
+
+Ultimately, the SCA dismissed the application for special leave to appeal, emphasizing that without the requisite leave, the court had no jurisdiction to entertain the appeal ([paras 44–45]). The ruling served to clarify the procedural landscape following the transition from the Supreme Court Act to the Superior Courts Act, reinforcing the latter’s primacy in contemporary legal practice.
+
+The dissenting opinion articulated by Molemela JA and Mbatha JA raised concerns regarding the sentencing, particularly the impact of prolonged legal proceedings on the appellant and the potential for rehabilitative sentencing. It articulated a nuanced understanding of sentencing principles, advocating for greater consideration of individual circumstances in determining penalties ([paras 46–70]).
+
+The case underscores the importance of clear legislative frameworks in criminal procedure and highlights the necessity for careful consideration of the rights of accused persons, particularly in the context of prolonged trials. The implications are significant for future cases, as they define the parameters of jurisdiction and authority in the appeals process under South African law.

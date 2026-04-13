@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+### FIRAC Case Note: Westinghouse Electric Belgium Société Anonyme v Eskom Holdings SOC Ltd (476/2015) [2015] ZASCA 208
+
+#### F – Facts
+The case arises from a tender process conducted by Eskom Holdings SOC Ltd (Eskom), a state-owned enterprise responsible for electricity generation and distribution in South Africa. The tender in question was for the replacement of six steam generators at the Koeberg nuclear power station, with a projected cost of approximately R5 billion. The two competitors for the tender were the appellant, Westinghouse Electric Belgium Société Anonyme (Westinghouse), and the second respondent, Areva NP Incorporated in France (Areva) ([1], [2]).
+
+Eskom awarded the tender to Areva on 12 August 2014. Shortly after the award, Westinghouse was informed of its unsuccessful bid on 15 August and sought an urgent interdict to halt the finalization of the contract. After withdrawing the interdict application, Westinghouse filed for a review of Eskom’s decision in the Gauteng Local Division of the High Court, which was dismissed by Carelse J in March 2015, leading to Westinghouse's appeal ([2], [3]). 
+
+Westinghouse contended that the decision to award the tender to Areva involved extraneous factors not included in the published evaluation criteria, specifically "strategic considerations" and the existence of a "float" in Areva’s bid, which Eskom admitted were not part of the specified criteria. The appeal included contestation on whether strategic considerations were implicitly part of the evaluation process and whether Westinghouse had the standing to initiate the review ([4], [5]).
+
+The broader context involved considerable urgency as the replacement of the generators was crucial for maintaining the power supply in South Africa, especially with anticipated plant shutdowns for maintenance in 2018 ([6], [7]). 
+
+#### I – Issues
+The principal legal issues before the court were whether:
+1. Eskom’s decision-making process for awarding the tender was lawful and adhered to the Promotion of Administrative Justice Act 3 of 2000 (PAJA).
+2. Strategic considerations not included in the tender criteria were unlawfully factored into the decision to award the tender to Areva ([5], [34]).
+3. Westinghouse had the locus standi to bring the application for review ([66]).
+4. The court could reasonably substitute the decision with an award to Westinghouse, or whether the matter should be remitted to Eskom for reconsideration ([71], [74]).
+
+#### R – Rules
+The decision hinged on several legal provisions and principles, including:
+- Section 217 of the Constitution of South Africa, which mandates that public procurement processes must be fair, equitable, transparent, competitive, and cost-effective.
+- The Preferential Procurement Policy Framework Act 5 of 2000, which outlines how procurement should align with socio-economic development objectives ([8], [9]).
+- The provisions of the Promotion of Administrative Justice Act 3 of 2000 (PAJA), particularly sections addressing judicial review of administrative actions ([46], [43]).
+
+Relevant case law included:
+- **Allpay Consolidated Investment Holdings (Pty) Ltd v Chief Executive Officer, South African Social Security Agency & others** 2013 (4) SA 557 (SCA), which discusses procedural fairness and the implications of flaws in public procurement processes ([36]).
+- **Patel v Witbank Town Council** 1931 TPD 284, which set a precedent regarding the impact of taking irrelevant considerations into account during decision-making ([44]).
+
+#### A – Application
+The court applied these principles rigorously to evaluate the legality of Eskom's award. It determined that the Bid Tender Committee (BTC) included considerations in its award determination that were outside the agreed tender criteria, which constituted a breach of the legal framework governing administrative action. Notably, the court found that:
+- Strategic considerations, such as previous experience with bidders and management of contractors, while arguably relevant, were not included in the tender evaluation criteria and thus could not lawfully influence the outcome of the tender process ([34], [31], [56]).
+- The float in Areva's bid was presented as an advantage during deliberations but was not disclosed during the bidding process, suggesting bias and a failure to adequately conduct the tender. The court emphasized that allowing these extraneous factors to influence the award led to a fundamentally flawed and unfair process ([31], [48], [62]).
+
+On the question of standing, the court reaffirmed Westinghouse’s position as the actual bidder and found that the distinctions made by Areva regarding agency were irrelevant to the authority Westinghouse had to seek review under PAJA. Therefore, Westinghouse was determined to have locus standi, as it was the entity that submitted the bid ([66], [70]).
+
+In considering the remedy, the court leaned towards remitting the matter back to Eskom for reconsideration rather than substituting the decision outright, recognizing the complexities of the negotiation dynamics and the need for Eskom to re-evaluate the bids against amended criteria that could address both municipal and strategic concerns ([77], [80]).
+
+#### C – Conclusion
+The Supreme Court of Appeal of South Africa upheld Westinghouse's appeal, finding that the initial tender award to Areva was unlawful and procedurally unfair due to reliance on extraneous strategic considerations. The BTC acted beyond its powers by awarding the tender while deviating from established evaluation criteria, thus violating principles embedded in both PAJA and the Constitution ([79]).
+
+The court ordered that the case be remitted back to Eskom for reconsideration, empowering it to reevaluate the bids while ensuring the procedures comply with the regulatory framework necessary for lawful administrative action ([80]). The cross-appeal by Areva was dismissed, reflecting the predominance of procedural fairness in the court's analysis ([80]).
+
+This case underscores the legal obligations of state entities in the tendering process, especially regarding adherence to established criteria and ensuring transparency, fairness, and accountability in public procurement practices.

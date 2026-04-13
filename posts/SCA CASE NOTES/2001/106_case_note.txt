@@ -1,0 +1,39 @@
+Case Note: REPORTABLE
+Source Folder: 2001
+
+# Case Note: Nedcor Bank Limited v The Master of the High Court (Pretoria) & Others [2001] ZASCA 33
+
+## FIRAC Method
+
+### F – Facts
+The case involved an appeal by Nedcor Bank Limited ("the appellant") concerning the validity of the first meeting of creditors for Plascon Group Limited (in liquidation) convened by the Master of the High Court ("the Master"). The meeting was set to occur on 17 July 2000, and a notice was published in the Government Gazette on 7 July 2000, which the appellant claimed did not allow for the required ten clear days' notice as stipulated by s 40(2) of the Insolvency Act 24 of 1936 ("the Act") ([1]–[3]). The Master ruled that notice was adequate and even if it were not, the appellant had not suffered prejudice as it was present and could file claims at subsequent meetings. Nevertheless, the meeting was adjourned to allow the appellant to seek review of the Master's decision ([4]). 
+
+On 19 July 2000, the appellant sought to have the Master's decision reviewed in the Transvaal Provincial Division. De Klerk J upheld the Master’s decision that proper notice had been given ([5]). The appeal to the Supreme Court of Appeal focused on whether the ten-day period prescribed by the Act had been appropriately calculated, and the methods of computation under which this term could be interpreted ([6]).
+
+### I – Issues
+The central issue was the interpretation of s 40(2) of the Act concerning the method of calculating the required ten clear days’ notice before the creditors' meeting. Specifically, the legal question was whether to apply the statutory method of computation as defined in s 4 of the Interpretation Act 33 of 1957, the civilian method, or the "clear days" method ([6]–[8]).
+
+### R – Rules
+1. **Insolvency Act 24 of 1936**: s 40(2) requires that the Master publish notice of the creditors' meeting no less than ten days before the meeting ([2]).
+2. **Interpretation Act 33 of 1957**: s 4 prescribes the method of reckoning time for statutory instruments, stating that the initial day is excluded while the final day is included unless it falls on a Sunday or public holiday ([7]).
+3. **Legal Precedents**: The court referenced previous cases regarding method of computation, including *Miller v Malmesbury Licensing Court*, which articulated challenges in backward reckoning of days ([9–10]).
+
+### A – Application
+The court, led by Mthiyane JA, examined the relevant statutory provisions and prior case law. It noted that the statutory method should, in principle, govern unless expressly contradicted by the language or context of a specific law. The core reasoning lay in determining how "ten days" should be interpreted — whether it was appropriate to reckon days forward or backward. Mthiyane JA found no language in s 40(2) that expressly excluded backward reckoning. 
+
+The court argued that the necessary computation should start from the date of the meeting (17 July) and go backward, excluding the day of announcement (7 July). Thus, using the statutory method, the ten days concluded before the meeting as required, confirming the validity of the notice given by the Master ([11]–[12]).
+
+The court highlighted the operational importance of the ten-day notice period to facilitate creditors’ claims and the nomination of liquidators effectively. Ultimately, it resolved that the statutory interpretation supported the conclusion that adequate notice had been given and determined that the arguments for applying other methods of computation were unnecessary ([15]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, concluding that the Master had properly convened the first meeting of creditors in accordance with the provisions of s 40(2) of the Act. The court's ratio decidendi focused on the appropriate application of legislative interpretation methods, emphasizing that the statutory method as prescribed in the Interpretation Act was correctly applied. The decision serves to reaffirm the necessity of adhering to legislative frameworks for ensuring legal clarity and procedural fairness in insolvency proceedings. The appeal was dismissed with costs, solidifying both the validity of the meeting and the Master’s role in managing insolvency processes ([16]–[17]).
+
+---
+
+### References
+- Insolvency Act 24 of 1936.
+- Interpretation Act 33 of 1957. 
+- *Miller v Malmesbury Licensing Court* 1929 CPD 209.
+- *Joubert (ed) The Law of South Africa* vol 27.
+- *Mutual Fire and General Insurance Co Ltd v Fouche* 1970(1) SA 302 (A).
+- *Minister of Police v Subbulutchmi* 1980(4) SA 768 (A).

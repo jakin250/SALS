@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Naidoo and Another v The Dube Tradeport Corporation and Others [2022] ZASCA 14
+
+### F – Facts
+The case arises from an appeal against the KwaZulu-Natal Division of the High Court’s ruling, which upheld an exception raised by the first respondent, Dube Tradeport Corporation, to the appellants’ particulars of claim ([1]). The first appellant, Sagadava Naidoo, and the second appellant, Odora Trading CC, sought to invalidate a sale agreement for certain properties owned by Odora Trading CC, which were sold to Dube Tradeport ([1]–[3]). 
+
+The key factual elements of the case include the assertion that Sivaraj Naidoo, the second respondent and the sole registered member of Odora, was a nominee holding the member’s interest on behalf of Sagadava, the actual beneficial owner ([2]). Sagadava claimed that Sivaraj's sale of the properties was unauthorized as it contravened their oral agreements regarding their interests in Odora ([6]).
+
+The High Court concluded that Sagadava lacked standing to bring the derivative action as he was not a registered member of Odora and thus could not institute an action on its behalf ([8]). The court further explored whether the common law derivative action was available for close corporations under the Close Corporations Act 69 of 1984 and whether Dube Tradeport was protected under Section 54 of this Act ([9]–[10]).
+
+### I – Issues
+The appeal raised several pivotal legal questions:
+1. Was Sagadava entitled to bring a derivative action on behalf of Odora despite not being a registered member?
+2. Is a common law derivative action viable in the context of close corporations?
+3. Does Section 54 of the Close Corporations Act protect Dube Tradeport from liability due to Sivaraj's actions as a member of the corporation? ([14]).
+
+### R – Rules
+The relevant rules applicable to the case derive from both the common law and statutory provisions:
+1. **Common Law Derivative Action**: Traditionally, under the common law principle established in *Foss v Harbottle* (1843), minority shareholders may bring derivative actions when fraud is perpetrated by those in control of the corporation ([11]). South African courts have recognized this exception although the *Companies Act 71 of 2008* has abolished the common law derivative action for companies but not for close corporations. Sections 49 and 50 of the Close Corporations Act provide specific rights for members of close corporations to seek legal recourse on behalf of their entity ([20]–[21]).
+   
+2. **Close Corporations Act 69 of 1984**: 
+   - **Section 54**: This section stipulates that a member acts as an agent of the corporation and can bind it in dealings with third parties, provided the third party did not know, or ought to have known, that the member lacked authority ([23]).
+
+### A – Application
+The court applied the rules to the case by first addressing the issue of locus standi ([16]). It held that the High Court erred in not accepting the allegations in the particulars of claim as correct. The factual assertion by Sagadava regarding his beneficial ownership of the member’s interest, and his claim that Sivaraj was acting as his nominee, was pivotal ([18]).
+
+Regarding the availability of the common law derivative action, the court concurred with the High Court’s conclusion that such action is available for close corporations. However, it also clarified that the common law rights of a member to pursue derivative actions remained intact, as there was no express abolition for close corporations in the Companies Act ([22]–[23]).
+
+On the issue of whether Dube Tradeport was protected under Section 54, the court found that the High Court improperly concluded that Dube Tradeport was an innocent purchaser. The facts alleged in the particulars claimed that Dube Tradeport was aware of the ownership dispute and thus could not claim protection as it either knew or should have known about Sagadava’s alleged rights ([26]–[34]).
+
+### C – Conclusion
+In conclusion, the Supreme Court of Appeal ruled in favor of the appellants, holding that:
+1. Sagadava, as the beneficial owner of the member’s interest, had locus standi to bring a derivative action on behalf of Odora.
+2. The common law derivative action is available for close corporations.
+3. Dube Tradeport did not have the protection of Section 54 because it could not be considered a bona fide purchaser given its knowledge of the disputes.
+
+The court set aside the High Court’s order upholding the exception and ruled that the exception should be dismissed with costs ([37]). This case underscores the importance of recognizing the rights of beneficial owners within corporate frameworks and highlights the nuanced distinctions between corporations and close corporations under South African law.

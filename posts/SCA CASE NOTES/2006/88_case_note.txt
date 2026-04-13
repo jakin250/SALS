@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2006
+
+# Case Note: Society of Lloyd's v Price; Society of Lloyd's v Lee [2006] SCA 87 (RSA)
+
+## FIRAC Case Note
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–6])
+In June 2003, the appellant, Society of Lloyd's, initiated separate claims for provisional sentence against the respondents, Owen John Price and Paul Lee, based on default judgments obtained against each defendant in the English High Court (Queen’s Bench Division, Commercial Court) on 27 June 1997 and 13 October 1997, respectively. The judgments stemmed from a claim for payment of the “Equitas premium,” following substantial losses incurred due to underinsurance during the 1980s related to asbestosis litigation in the USA. The English Judgments Act 1838 governs these judgments, which stipulates that interest accrues at a rate of 8 percent per annum.
+
+Initially, the Pretoria High Court dismissed Lloyd's claims, asserting they were subject to prescription under South African law. As a result, Lloyd's appealed the decision, contending that the claims should not have been deemed prescribed, given that English law, which governed the contractual undertakings, dictated a different prescription regime.
+
+### I – Issues: Legal or Constitutional Questions ([paras 7–11])
+The primary legal question before the Supreme Court of Appeal revolved around the applicable law for prescription—whether South African law (lex fori) or English law (lex causae) should govern the matters. Specifically, the Court needed to determine:
+
+1. Whether the claims had prescribed under South African law according to the Prescription Act 68 of 1969.
+2. Whether the claims would survive under the English Limitation Act 1980.
+3. The implications of the provisions of the General Undertaking entered into by the respondents concerning jurisdiction and applicable law.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 10–20])
+The Court referred to the principles governing private international law, emphasizing that:
+
+1. Matters of procedure are governed by the lex fori, while substantive matters are dictated by the lex causae (AB Edwards; Dicey and Morris).
+2. The South African Prescription Act is characterized as substantive law, which extinguishes rights (section 10(1)).
+3. Under English law, prescription is classified as procedural, barring remedies without extinguishing rights (English Limitation Act 1980).
+4. The case of Laurens NO v Von Höhne elucidated the "via media" approach, an interpretive method considering both the lex fori and lex causae.
+
+The Court also examined previous cases, including Laconian Maritime Enterprises Ltd v Agromar Lineas Ltd, where similar issues regarding prescription and recognition of foreign judgments were addressed.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 21–31])
+In applying the rules to the facts, the Court followed the "via media" method:
+
+1. **Procedural vs. Substantive**: Recognizing the divergence between jurisdictions, the Court established that, under South African law, prescription extinguishes rights; alternatively, under English law, the limitation merely bars the action without extinguishing the underlying claim. Thus, a gap arose whereby neither set of law adequately applied.
+   
+2. **Resolution of the Gap**: The Court chose to apply the English law regarding prescription for the claims on the basis that the rights were created under English law, and it had the most meaningful connection to the substantive issues of the case. The Court reasoned that since claims were initiated in England and governed by English law, applying the rules emanating from the governing law (English limitations) would foster justice and international harmony.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 49–50])
+The Supreme Court of Appeal found in favor of the appellant, holding that the prescription defences raised by the respondents were insufficient to bar Lloyd's claims. The judgments rendered by the English court were validly obtained. Consequently, the appeals were upheld, and the prior ruling by the Pretoria High Court was set aside, allowing the provisional sentence applications to proceed.
+
+The Court concluded that:
+1. Both claims had not prescribed under English law since the summonses were served within the prescribed time.
+2. The enforcement of the English judgments did not contravene South African public policy, despite the complexities related to the manner in which the Equitas premium obligations were imposed.
+
+This decision underscores the necessity for careful consideration of applicable laws in international cases and exemplifies the importance of maintaining international legal uniformity in the recognition of foreign judgments. The resolution also reinforces the position that contractual and jurisdictional matters governing foreign claims should be respected unless they contravene fundamental principles of domestic public policy.

@@ -1,0 +1,41 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note on *City of Cape Town v Independent Outdoor Media (Pty) Ltd and Others* [2023] ZACC 17 using the FIRAC Method
+
+## F – Facts
+The case involves an application by the City of Cape Town (the **City**), seeking confirmation of a High Court order declaring section 29(8) of the National Building Regulations and Building Standards Act 103 of 1977 (the **Building Act**) as constitutionally invalid ([para 1]). The cited provision required municipalities to obtain ministerial approval before promulgating by-laws concerning the erection of a building, essentially granting the Minister an effective veto power over municipal legislation ([para 1], [para 10]).
+
+Independent Outdoor Media (Pty) Ltd (IOM), the first respondent, is a company specializing in outdoor advertising, which continued to display advertisements without authorization after its previous permits expired ([para 6]). The enforcement actions by the City against IOM included fines and other legal measures, which proved ineffective ([para 7]). Ultimately, the City consolidated enforcement applications against both IOM and the Body Corporate of the Overbeek Building, leading to IOM's counter-application challenging the legality of the Advertising By-Law under which the City operated. IOM claimed that the by-law was void due to non-compliance with section 29(8) of the Building Act—the very provision challenged by the City ([para 8]).
+
+The High Court ruled in favor of the City, highlighting that section 29(8) violated the autonomy of municipalities and contravened the constitutional mandate for local governance ([para 10]). This matter was escalated to the Constitutional Court for confirmation of the High Court’s ruling ([para 17]).
+
+## I – Issues
+The principal issues for determination by the Constitutional Court were:
+1. Whether to confirm the High Court's order of invalidity regarding section 29(8) of the Building Act ([para 42(a)]).
+2. The correctness of the Minister’s interpretation of section 29(8) and whether this interpretation could prevent a finding of constitutional invalidity ([para 42(b)]).
+3. The appropriate remedy in the event the order of invalidity was confirmed ([para 42(c)]).
+
+## R – Rules
+The Court's analysis utilized several constitutional provisions, primarily:
+- **Section 151(2)** of the Constitution, which vests legislative authority in Municipal Councils;
+- **Section 156(2)**, permitting municipalities to create by-laws for effective local governance;
+- The concept of **separation of powers**, which is central to maintaining the autonomy of municipal governance ([para 43], [para 49]).
+
+The Court emphasized that the legislative powers of municipalities are constitutionally entrenched, limiting the capacity of the national government, via the Building Act, to intrude into this sphere ([para 50]). The relevant legal principles included:
+- The doctrine of **objective constitutional invalidity**, which dictates that a provision found inconsistent with the Constitution is invalid since its inception ([para 59]);
+- The requirements for legislative interpretation, particularly focusing on whether the impugned provision could coexist with constitutionally established municipal powers ([para 53]).
+
+## A – Application
+Upon applying these rules to the case, the Court stressed that section 29(8) infringed upon the autonomy of municipalities by mandating ministerial approval for local laws relating to the erection of buildings, thereby negating municipalities' originally conferred legislative authority ([para 48], [para 49]). The Court noted that even if a narrowly defined interpretation of “building” could mitigate the minister's control, it would not alleviate the broader legislative infringements that violate established municipal autonomy and the separation of powers. 
+
+Furthermore, the Minister's attempt to argue that section 29(8) could be read to exclude certain competencies, specifically those relating to advertising, was dismissed as inadequate since it still failed to address the constitutional issues raised regarding municipal legislative authority ([para 56]). The Minister's perspective was found inadequate to save the provision from its manifest constitutional failings in light of its broader implications for municipal governance and legislative discretion ([para 57]).
+
+## C – Conclusion
+The Constitutional Court unanimously confirmed the High Court's declaration of constitutional invalidity for section 29(8) of the Building Act. The reasoning rested on the principles of municipal autonomy and the separation of powers, establishing that the ministerial approval requirement improperly interfered with the legislative authority of municipalities and infringed their right to self-governance ([para 63]). 
+
+The Court explained that the invalidation of section 29(8) would take effect from the inception of the Constitution, ensuring that all municipal by-laws not compliant with the provision were upheld as legally valid ([para 59]). 
+
+In terms of the proposed remedies, the Court did not impose suspensions on its ruling, noting that immediate confirmation of the order of invalidity would not disrupt legal governance as external operators (like outdoor advertisers) were likely aware of the legal landscape changes concerning advertising regulations ([para 64]). However, given the potential for adverse criminal consequences linked to retrospectivity, the Court clarified that it would not subject individuals to criminal liability for actions performed under an invalidated legislative framework ([para 62]). 
+
+In concluding, the Court held that while IOM’s appeal was not validly before the Court, the costs associated with that appeal were appropriately borne by IOM ([para 66]). The implications of this judgment are significant, reinforcing municipal autonomy and the delineations of legislative competence within the South African constitutional framework.

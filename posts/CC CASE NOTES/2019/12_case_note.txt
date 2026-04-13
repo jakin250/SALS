@@ -1,0 +1,47 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Road Traffic Management Corporation v Waymark Infotech (Pty) Ltd [2018] ZACC 12
+
+---
+
+## FIRAC Method 
+
+### F – Facts
+
+The case concerns the interpretation of sections 66 and 68 of the Public Finance Management Act 1 of 1999 (PFMA) and the validity of a service level agreement (SLA) between the Road Traffic Management Corporation (RTMC) and Waymark Infotech (Pty) Ltd. On 17 November 2008, the RTMC invited tenders for the development of an Integrated Enterprise Resource Planning System, which Waymark successfully bid for. By 31 March 2009, the two parties entered into an SLA worth R33,737,062.03, which included service and payment milestones extending beyond that financial year. 
+
+Crucially, the Minister of Finance did not approve this agreement prior to its execution. The RTMC later asserted that it was not bound by the agreement due to this lack of approval, citing section 68 of the PFMA, which states that agreements requiring ministerial approval are void if not approved by the Minister. Conversely, Waymark contended that the agreement did not require such approval, arguing a misinterpretation of the PFMA's provisions. 
+
+The High Court ultimately ruled in favor of Waymark, holding that the agreement fell within the ambit of section 66 and that, without ministerial approval, it did not bind the RTMC. The Supreme Court of Appeal overturned this ruling, concluding that the agreement was not a future financial commitment as per section 66, prompting the RTMC to appeal to the Constitutional Court ([paras 1–27]).
+
+### I – Issues
+
+The case presented distinct issues of statutory interpretation regarding the PFMA. The key legal questions were: 
+
+1. Whether the agreement between the RTMC and Waymark constituted a “future financial commitment” as defined by section 66 of the PFMA.
+2. Should the RTMC have initiated review proceedings to eliminate any ambiguity regarding the enforceability of the agreement due to lack of ministerial approval?
+3. If review proceedings were necessary, did the RTMC’s counterclaim equate to a review application, and if it did, was any delay in such proceedings justifiable? ([paras 3–12]).
+
+### R – Rules
+
+The relevant rules stem from the PFMA, notably sections 66 and 68. Section 66 establishes restrictions on borrowing, guarantees, and binding transactions that involve future financial commitments. Specifically, subsection (3)(c) mandates that national public entities must secure ministerial approval for any commitments that may bind them or the state to future financial liabilities. Section 68 further stipulates that any transaction that violates the requirements of section 66 does not bind the state institution involved ([paras 18–27]).
+
+In addition to statutory provisions, precedents from the Supreme Court of Appeal were pivotal. For instance, the Court distinguished between procurement contracts and financial commitments, emphasizing that just because an agreement spans multiple fiscal years does not necessarily place it within the constraints of sections 66 and 68 ([paras 28-31, 40-45]).
+
+### A – Application
+
+The Court applied principles of statutory interpretation to ascertain the scope of sections 66 and 68. It held that the words used in these sections must be interpreted in light of their grammatical and contextual meaning, ensuring they align with the purpose of the PFMA, which is to promote effective financial management in public entities. 
+
+In this case, the Court sided with the Supreme Court of Appeal's reasoning that the SLA between the RTMC and Waymark did not constitute a transaction that binds the RTMC to a future financial commitment. The notion that multi-year contracts inherently require ministerial approval would impose unreasonable restrictions on the functioning of governmental entities and impede efficient public expenditure. The Court reinforced this argument by contending that practicalities in governmental operations ought to be taken into account, asserting that the sound management of public finances does not necessitate overregulation ([paras 46–65]).
+
+In addressing the appropriateness of review proceedings, the Court aligned with the Supreme Court of Appeal's judgment, finding that the RTMC’s counterclaim, even if interpreted as a review application, was not valid without timely initiation of formal review proceedings. The lack of such an application further undermined their claims regarding the enforceability of the agreement ([paras 66–81]).
+
+### C – Conclusion
+
+The Constitutional Court concluded that the agreement between the RTMC and Waymark did not fall under the purview of section 66 of the PFMA and thus did not require the Minister’s prior approval to be valid. The Court held that the SLA represented a current commitment to pay for professional services rendered, regardless of its multi-year payment schedule. Therefore, as it was consistent with the views held by the Supreme Court of Appeal, the Court dismissed the RTMC's appeal, affirming the lower court's decision.
+
+Consequently, the RTMC was held liable for costs, including the costs for two counsel, solidifying the notion that proper procurement procedures are paramount, but that public entities must also retain operational flexibility to perform their duties effectively ([paras 82–96]).
+
+---
+This case note serves to encapsulate the principal legal questions, statutory interpretations, applications, and conclusions drawn from the road traffic management dispute, offering insights into the complexities surrounding public finance management in South Africa.

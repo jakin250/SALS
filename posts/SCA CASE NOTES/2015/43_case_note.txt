@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# FIRAC Case Note: Absa Bank Ltd v Hammerle Group (Pty) Ltd (205/14) [2015] ZASCA 43
+
+## F – Facts
+The matter concerns an appeal by Absa Bank Limited (the appellant) against Hammerle Group (Pty) Ltd (the respondent) for the winding-up of the latter on the grounds of commercial insolvency and the inability to pay debts under section 345 of the Companies Act 61 of 1973 ([para 1]). The procedural history began with the appellant's application filed in the North Gauteng High Court, Pretoria, which was dismissed by Mabuse J ([para 1]). The debts, totaling R21,005,197.46 as of May 31, 2011, originated from two financing agreements: a loan agreement of R4 million and a shareholders’ loan of R10 million aimed at funding the respondent’s business ([para 2], [para 3]). 
+
+The respondent claimed that part of the debt had prescribed and that the remaining debt was subordinated to other creditors, making it not due and payable ([paras 4-5]). The first liquidation application, where similar arguments were presented, had also been dismissed ([para 5]). During the appeal, the respondent conceded its commercial insolvency but proposed that the court should issue only a provisional winding-up order instead of a final order ([para 6]).
+
+## I – Issues
+The primary legal questions arising from this case include:
+
+1. Whether the appellant could properly apply for winding-up despite the respondent's claims of prescription of debt and subordination to other creditors ([paras 1-5]).
+2. To what extent does a contingent creditor have standing to apply for winding-up ([para 9])?
+3. Do admissions made during settlement negotiations affect the privileges typically associated with such communications ([paras 12-14])?
+
+## R – Rules
+The applicable legal principles revolve around:
+
+1. **Section 345 of the Companies Act 61 of 1973**: Outlines the grounds for winding-up and stipulates conditions under which a creditor (including contingent creditors) may apply for such orders ([para 1]).
+   
+2. **Prescription Act 68 of 1969**: This law defines the provisions related to the interruption of the running of prescription in cases of acknowledgment of debt, such as in section 14(1) which states: "The running of prescription shall be interrupted by an express or tacit acknowledgment of liability by the debtor" ([para 15]).
+
+3. **Public Policy on Insolvency Admissions**: The court recognized that statements made, even within the context of settlement negotiations, can be admissible in establishing a party's insolvency if they have significant implications for the public interest ([para 13]).
+
+## A – Application
+The court's application of these rules demonstrated a clear acknowledgment of the respondent's insolvency based on the admissions made in letters from its attorney. The correspondence indicated that the respondent maintained an acknowledgment of debt while simultaneously stating that the ability to pay was subject to the availability of surplus funds ([paras 8, 12]). Importantly, the court evaluated the merits of these communications, referencing public policy considerations that prioritize creditor protection over the strict application of privilege in negotiations.
+
+The court also analyzed the pleaded defenses regarding the subordination of debts. It found that the appellant was indeed a contingent creditor entitled to initiate winding-up proceedings under section 346 of the Companies Act, rejecting the argument that the outstanding amounts were not due due to the subordination clause ([para 9]). 
+
+In addressing the prescription claim, the court established that the respondent's admissions interrupted any potential prescription, thus nullifying the respondent's argument regarding the inapplicability of the debt ([paras 15-18]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld the appeal in its entirety, concluding that the North Gauteng High Court had erred in dismissing the winding-up application ([para 19]). The order of the lower court was set aside, and it was decreed that the respondent be liquidated in the hands of the Master of the High Court. The court reaffirmed the principle that contingent creditors have the right to initiate winding-up proceedings based on admissions of insolvency and acknowledged that public policy necessitates the disclosure of such admissions even if they arise during privileged negotiations ([para 19]). The implications of this ruling reinforce the accessibility of legal remedies for creditors in insolvency contexts, emphasizing the public interest in preventing insolvent trading.

@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# Case Note: Minister of Correctional Services v Lee (316/11) [2012] ZASCA 23
+
+## FIRAC Case Note
+
+### F – Facts: Relevant Background and Procedural History ([1]–[4], [12]–[16], [24], [66]–[70])
+
+The respondent, Mr. Dudley Lee, was arrested in November 1999 on multiple charges, including counterfeiting, fraud, and money laundering. Released on bail in February 2000, Lee was re-arrested in April 2000 and remained incarcerated until his acquittal and release in September 2004, during which he was incarcerated for over four years and made approximately seventy court appearances ([1]–[4]).
+
+During his incarceration, Mr. Lee was diagnosed with pulmonary tuberculosis (TB) after developing respiratory symptoms, which ultimately led to his condition being treated, and a declaration of cure after six months. Following his release, he initiated legal action against the state, represented by the Minister of Correctional Services, alleging that the prison authorities failed to take adequate precautions to prevent his contracting tuberculosis and thereby violated his common law rights to physical integrity as well as rights under the Correctional Services Act 8 of 1959 and the Constitution ([2]–[4], [18]).
+
+The case proceeded to trial in the Western Cape High Court, where the court held the state liable for damages based on the argument that the authorities exhibited negligence by not ensuring adequate health management protocols for tuberculosis in prison. The Minister of Correctional Services appealed the decision with permission from the court ([4], [66]).
+
+### I – Issues: Legal or Constitutional Questions ([4], [13], [36], [41])
+
+The primary legal issues in this case were:
+
+1. **Negligence**: Did the prison authorities exhibit negligence by failing to implement adequate precautions to prevent the transmission of tuberculosis within the prison environment?
+2. **Causation**: Was it proven that Mr. Lee contracted tuberculosis due to the lack of these precautions, as opposed to a pre-existing condition or transmission that could have occurred elsewhere?
+3. **Public Policy Implications**: Should public policy considerations bar a claim for damages arising from negligence when state duties are involved?
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([33]–[41], [43]–[62])
+
+The court relied on established principles of delictual liability, particularly those concerning negligence and causation. The three elements required for establishing a delictual claim include:
+
+1. **Legal Duty**: A recognized legal duty of care towards the plaintiff.
+2. **Breach of Duty**: Conduct that fails to conform to the reasonable standard to protect individuals from foreseeable risks.
+3. **Causation**: The plaintiff must show that the negligent conduct directly caused harm ([33]–[34]).
+
+Additionally, the court examined relevant statutes, including Section 12(1) of the Correctional Services Act 111 of 1998, which mandates adequate healthcare provision to inmates. The constitutional rights outlined in Section 35(2)(e) of the Constitution, ensuring humane conditions of detention, were also essential to the court’s analysis ([36]–[37]).
+
+### A – Application: Analysis of How the Court Applied the Law ([45]–[64])
+
+The application segment concerned the evaluation of the evidence presented regarding the prison's healthcare protocols. The court found that:
+
+1. The prison authorities were aware of the risk of tuberculosis contagion and had a responsibility to implement measures for screening and isolating infectious inmates to meet the expected standard of care ([43]–[46]).
+2. **Negligence was established**: The management of tuberculosis in Pollsmoor prison was criticized, particularly due to systemic failures and a lack of action despite known health risks ([41], [49]).
+
+However, the court faced challenges in the causation analysis. The primary contention rested on whether Mr. Lee's contracting tuberculosis could be conclusively linked to the prison authorities' failure to act adequately. The court stated that merely proving negligence does not require the conclusion that harm was caused. Each party's conduct must be examined to determine if the infection resulted directly from the negligence identified ([54]–[64]). 
+
+Despite recognizing systemic inadequacies in the healthcare provided, the court ultimately ruled that Mr. Lee failed to prove that the state’s negligence was the direct cause of his infection. The evidence adequately suggested other potential sources for his infection, which could arise during transport to court or elsewhere ([50]–[56]). The burden of proof on Mr. Lee was deemed insufficient to establish a direct link between his infection and the neglect of the prison system ([62]–[64]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([69]–[70])
+
+The Supreme Court of Appeal upheld the appeal from the Minister of Correctional Services, essentially absolving the Minister from liability. The decision highlighted that while the prison system exhibited significant failings concerning inmate health management, the causal connection between negligent conduct and Mr. Lee's tuberculosis was not sufficiently established. Each party was ordered to bear its costs, recognizing the state’s moral obligation toward ensuring humane treatment of inmates while acknowledging it cannot be held liable without clear evidence of negligence leading directly to harm ([69]–[70]).
+
+This case underscores the challenges of establishing causation in negligence claims, particularly within public institutions where systemic failings may exist but do not necessarily translate into individual liability. It highlights the balance between protecting state duties and guaranteeing individuals' rights while calling into question the effectiveness of legal remedies available to marginalized groups.

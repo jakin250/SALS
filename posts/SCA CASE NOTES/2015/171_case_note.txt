@@ -1,0 +1,42 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2015
+
+### FIRAC Case Note: Absa Bank Limited v Christina Martha Moore and Jacques Moore (20719/2014)
+
+#### F – Facts
+This case originates from a complex fraudulent scheme executed by Brusson Finance (Pty) Ltd, affecting multiple individuals, including the Moores, and leading to litigation against banks that financed these transactions ([1]). The Moores owned a property in Vereeniging, Gauteng, and were in serious financial distress, owing approximately R145,000 to Absa Bank, which had subjected their property to five mortgage bonds ([2]). After being declined for a home loan extension, they contacted Brusson in search of a loan, believing they were securing funds by putting up their property as collateral ([2]-[4]).
+
+On 12 May 2009, the Moores executed three documents at Brusson’s behest: an "Offer to Purchase," a "Deed of Sale" back to themselves, and a "Memorandum of Agreement," all of which they were led to believe served to secure a loan against their property ([5]-[6]). A loan amount of R157,651 was subsequently deposited into their account, believed by the Moores to be from Brusson to alleviate their financial hardship ([6]). However, unbeknownst to them, their property was transferred to a third party, Mr. Kabini, who secured a new mortgage bond with the Bank, subsequently leading to an execution order against the property for Mr. Kabini’s defaulted loan ([11]).
+ 
+In May 2013, the Moores learned their property was to be sold in execution of Mr. Kabini's debt. Prompted by this discovery, they sought legal counsel from the Legal Resources Centre and initiated proceedings to prevent the sale and to declare their agreements with Brusson and Kabini invalid ([12]-[13]). The Gauteng Local Division ruled in favor of the Moores, declaring the transactions void due to fraudulent misrepresentation, entitling them to restitution of their property, subject to certain conditions, including reinstatement of the original bonds and repayment of the amount received from Brusson ([14]).
+
+#### I – Issues
+The principal legal issues in this case revolve around:
+1. Whether the court correctly held that the Moores were entitled to an order setting aside the mortgage bond in favor of Absa Bank.
+2. Whether the Bank, as an innocent party, should retain its real right over the property despite the transfer being induced by fraudulent misrepresentation ([15]).
+
+Additionally, the questions of whether the Moores had standing to rescind the default judgment against Mr. Kabini and whether the delay in bringing their rescission application was unreasonable were also pivotal to the appeal ([46]-[47]).
+
+#### R – Rules
+The court relied on various foundational legal principles regarding contract law and property transfer:
+1. **Simulated Transactions**: The concept, where a transaction disguised as one type may be found to be another in conflict with the true intention of the parties, operates under established case law such as *Maize Board v Jackson* [2005] 6 SA 592 (SCA) ([25]).
+2. **Fraudulent Misrepresentation**: Affected parties can void contracts where induced by fraudulent misrepresentation, according to principles upheld in cases like *Nedbank v Mendelow* [2013] 6 SA 130 (SCA) ([36]).
+3. **Nullity of Transfer and Mortgage Bonds**: Ownership transfer and the validity of mortgage bonds depend on the transferor's genuine intention to transfer ownership. If such intent is lacking due to fraud, the registration of transfer or mortgage bond becomes invalid ([38]).
+
+#### A – Application
+The Supreme Court of Appeal closely scrutinized the facts surrounding the Moores' agreements, noting that the Moores were misled regarding the nature of the documents they signed. The findings highlighted that:
+- The Moores had not intended to sell their property but believed they were securing a loan.
+- There was insufficient evidence from the Bank to contradict the Moores' claims, particularly regarding their misunderstanding of the agreements ([30]-[35]).
+- The legal standing of Mr. Kabini to grant the bank a bond over the property was fundamentally flawed since he never acquired true ownership due to the fraudulent nature of the transaction involving Brusson ([39]).
+
+The court concluded that the Moores were victims of a scam and had entered the agreements under fraudulent pretenses, affirming the lower court's findings that the transactions were void and declaring the mortgage bonds invalid as well ([41]).
+
+#### C – Conclusion
+The appeal by Absa Bank was dismissed. The court upheld the decision of the lower court, which found that the Moores were entitled to restitution of their property. It specified that any order requiring the Moores to reinstate the original bonds or repay Brusson required proper contractual foundation between the parties, which had ceased to exist due to the fraudulent nature of the transactions ([49]). The implications of this case establish a clear precedent regarding the treatment of fraudulent property transactions, affirming that innocent victims of scams must be afforded protection against misrepresentations that lead to unwarranted loss of property rights.
+
+### References
+- *Maize Board v Jackson* [2005] 6 SA 592 (SCA).
+- *Nedbank v Mendelow* [2013] 6 SA 130 (SCA).
+- Other cited decisions and rules relevant to standing and jurisdiction in property law ([15], [36], [46]).
+
+This case reinforces the necessity for diligence in property transactions and the courts' commitment to safeguard victims of fraud, ensuring equitable outcomes notwithstanding the complexity of transactions involved.

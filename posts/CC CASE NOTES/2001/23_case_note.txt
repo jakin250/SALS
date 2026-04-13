@@ -1,0 +1,41 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2001
+
+# FIRAC Case Note: Independent Electoral Commission v Langeberg Municipality (CCT 49/00)
+
+## F – Facts
+The case at hand involves an appeal from the **Independent Electoral Commission (IEC)** against **Langeberg Municipality** concerning the local government elections held on **5 December 2000** ([1]). The core of the dispute arose in relation to the establishment of voting stations within specific electoral districts. The **Stilbaai Municipality** (the predecessor of Langeberg) contended that the single voting station provided for its district, located at the **Melkhoutfontein Community Hall**, created undue difficulties for the inhabitants of **Stilbaai town**. Specifically, voters in Stilbaai had to travel approximately **ten kilometers** to vote, a distance they previously had not had to travel ([2]). 
+
+The Chief Executive Officer of Stilbaai expressed concerns that this logistical challenge would disenfranchise a significant portion of the voting population due to various socio-economic factors limiting travel capabilities ([2]–[3]). Following a rejection of requests for a separate voting station and district from the IEC, Stilbaai initiated an urgent application in the High Court. They sought a review of the IEC’s decision, asserting unreasonable conduct that infringed on the voters’ constitutional rights and contradicted the **Local Government: Municipal Electoral Act 27 of 2000** ([4]). The High Court subsequently ordered the IEC to provide either an additional voting station or a mobile one for the voters of Stilbaai ([5]). Following the High Court’s directive, the IEC established a separate voting district in Stilbaai before the appeal was heard ([6]).
+
+## I – Issues
+The principal **legal questions** before the Constitutional Court were:
+
+1. Whether the High Court erred in its conclusion that **Stilbaai Municipality had locus standi** to bring the application against the IEC ([6]).
+2. Whether the IEC should meet the requirements of **section 41(3)** of the Constitution before being sued, which necessitates an intergovernmental dispute resolution ([6], [19]).
+3. Whether the IEC had violated the **section 19** rights of Stilbaai’s voters regarding access to elections ([6]).
+4. Determining the **mootness** of the application, as the circumstances had changed before the appeal ([7], [12]).
+
+## R – Rules
+The pertinent **legal frameworks** and principles from the **Constitution of South Africa** and relevant statutes include:
+
+- **Section 19** of the Constitution, which affirms every citizen's right to free, fair, and regular elections, and outlines the right to vote and stand for public office ([6]).
+- **Sections 181 and 190** of the Constitution, which define the role and independence of the **Electoral Commission** ([1]).
+- **Local Government: Municipal Electoral Act 27 of 2000** stipulates the establishment of voting stations and details conditions under which additional stations or mobile units are to be constructed ([1], [13]).
+- **Section 41(3)** of the Constitution, which mandates that an organ of state involved in intergovernmental disputes should attempt to resolve the issue amicably before resorting to court ([18]).
+
+Precedent cases such as **National Coalition for Gay and Lesbian Equality v Minister of Home Affairs** ([9]) provide guidance regarding the justiciability of matters that have become moot and the discretion courts possess to adjudicate such issues.
+
+## A – Application
+In evaluating the case, the Constitutional Court considered several key aspects:
+
+1. **Locus Standi**: The court recognized that the High Court's determination of Stilbaai's standing to sue implied broad interpretations of constitutional standing rules, allowing groups or municipalities to act in the interest of their constituents ([15]–[16]). However, the court noted that the arguments made were insufficient to fully explore this complex issue of standing.
+
+2. **Intergovernmental Dispute**: The Court clarified the nature of the relationship between the IEC and the municipalities under **section 41(3)**. The IEC argued that it was part of the national governmental framework, thereby subject to the intergovernmental disputes resolution process. The Constitutional Court found that the IEC is an organ of state but not one that falls within the national sphere of government as defined by Chapter 3 of the Constitution ([17]–[28]). Hence, the requirement to mediate disputes did not apply.
+
+3. **Mootness**: The Court deemed the issue moot primarily because the elections had already occurred and the IEC had complied by establishing a new voting district, thereby removing the immediate controversy ([12]). The Court indicated that addressing the High Court’s ruling about rights under section 19 of the Constitution would serve no practical purpose.
+
+4. **Proper Application of the Law**: The Constitutional Court observed that the High Court had not adequately considered the specific conditions under which mobile voting stations could be established under section 19(2) of the Local Government: Municipal Electoral Act. The High Court's directive for a mobile station was problematic, as it did not account for the legislative prerequisites concerning population density and geographic sparsity ([13], [14]).
+
+## C – Conclusion
+The Constitutional Court ultimately held that there was no justiciable issue remaining due to the lack of a live controversy following the conclusion of the elections. The order of the High Court was set aside, and the court determined that a dispute between the IEC and a constituency does not constitute an intergovernmental dispute, thus excusing the IEC from needing to resolve such disputes through prior mediation ({[32]}). The Court did not disturb the costs order made by the lower court, leading to a final order of no costs. This ruling clarifies the scope of electoral administration, emphasizing the IEC’s role as an independent authority while further illuminating the mechanisms through which municipalities can advocate for constituent rights in electoral arrangements. The implications of the ruling highlight the delicate balance required in administrative electoral processes and the extent of local government autonomy in elections, ensuring that the rights of voters are protected without undermining the systematic integrity of electoral governance.

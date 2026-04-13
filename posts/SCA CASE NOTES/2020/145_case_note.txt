@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Holden v Assmang Limited (Case No. 1277/19) [2020] ZASCA 145
+
+## F - Facts
+The Supreme Court of Appeal of South Africa considered the appeal by Linda Holden against a decision by the KwaZulu-Natal Division of the High Court. The underlying dispute involved Holden, a registered counselling psychologist, and Assmang Limited, which had reported her to the Health Professions Council of South Africa (HPCSA) on 30 June 2008, alleging gross professional misconduct in the diagnosis of manganism ([para 2]). Holden responded to the allegations to the HPCSA, which concluded its inquiry on 13 November 2009 by notifying her that no further action would be taken against her.
+
+On 6 August 2012, Holden initiated a claim for damages against Assmang based on malicious proceedings. Assmang responded with a special plea of prescription, arguing that Holden's claim had lapsed under the Prescription Act 68 of 1969 ([paras 3, 4]). The matter initially came before Henriques J, who dismissed the special plea, asserting that prescription would only begin to run after Holden was informed of the HPCSA's decision on 13 November 2009. Assmang appealed this decision, leading to the full court upholding the special plea and dismissing Holden's claim ([paras 1, 4]).
+
+## I - Issues
+The primary legal issue in this case was whether Holden's claim for malicious prosecution had prescribed under the Prescription Act 68 of 1969, specifically regarding when 'prescription' (the period in which a claimant can bring a claim) began to run. The crux of the matter centered on the interpretation of when a cause of action arises in relation to claims of malicious prosecution, and whether Holden's claim could be regarded as having arisen before the HPCSA informed her of its decision on 13 November 2009 ([paras 1, 4, 18]).
+
+## R - Rules
+The court examined several key legal principles, notably from the Prescription Act 68 of 1969. Section 12 stipulates that:
+
+1. **General Rule**: Prescription commences when a debt is due ([para 5]).
+2. **Knowledge Requirement**: A debt is not deemed due until the creditor is aware of the identity of the debtor and the facts giving rise to the claim, with deemed knowledge for those who could have acquired it by exercising reasonable care ([para 5]).
+3. **Conditions for Malicious Prosecution**: A claim for malicious prosecution requires that the defendant set the law in motion without reasonable and probable cause, acted out of malice, and that the prosecution has failed ([para 8]). 
+
+In the context of statutory proceedings, it was noted that a claim for malicious prosecution only arises after termination of the proceedings in the plaintiff's favor ([paras 9, 10]).
+
+The court also referenced case law, including *Drennan Maud & Partners v Pennington Town Board* and *Kruger v National Director of Public Prosecutions*, to provide clarity on the application of prescription in malicious claims ([paras 6, 11]).
+
+## A - Application 
+The appeal court considered the timelines and actions of both parties against the backdrop of the law pertaining to prescription and malicious prosecution. The court reaffirmed that for a malicious prosecution claim, the debtor (Assmang) must have knowledge of all necessary facts, including those allowing for a complete cause of action in favor of Holden ([para 17]). 
+
+The key point of determination was whether the cause of action was complete when Holden was reported to the HPCSA or when the HPCSA communicated its decision to dismiss the complaint. The court emphasized that a favorable outcome from the HPCSA was essential for a complete cause of action and, consequently, the start of the prescription period. Therefore, the court concluded that Holden's cause of action did not arise until 13 November 2009, when the HPCSA dismissed the complaint ([para 18]).
+
+The earlier full court's determination that the claim had prescribed was thereby seen as erroneous, as they had not given due regard to the requirement that proceedings must have terminated in the claimant's favor for the claim to arise ([paras 15-18]).
+
+## C - Conclusion
+The Supreme Court of Appeal upheld the appeal, ruling that Holden's claim had not prescribed as the cause of action only arose when she was notified of the HPCSA's decision to dismiss the complaint against her on 13 November 2009 ([para 19]). The court set aside the previous order upholding the special plea of prescription and replaced it with a dismissal of the appeal. This case underscores the importance of timing in claims for malicious prosecution and clarifies that prescription does not initiate until all necessary elements of a claim are established and known to the claimant ([paras 18-19]). The implications are significant for similar future claims, as it reaffirms the need for a finalized, favorable conclusion in any potentially prejudicial professional proceedings before a claim can duly commence.

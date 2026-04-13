@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2018
+
+# FIRAC Case Note: Zitonix (Pty) Ltd v K201250042 (South Africa) (Pty) Ltd
+
+**Court:** The Supreme Court of Appeal of South Africa  
+**Case No:** 290/2017  
+**Neutral Citation:** Zitonix v K201250042 (290/2017) [2018] ZASCA 63 (21 May 2018)  
+**Coram:** Lewis and Swain JJA and Davis, Mothle, and Rogers AJJA  
+**Heard:** 10 May 2018  
+**Delivered:** 21 May 2018
+
+---
+
+## F – Facts
+
+The case revolves around a dispute concerning the cancellation of five lease agreements and the subsequent eviction of the tenants by Zitonix (Pty) Ltd (the appellant), a retail company trading in fashion. By the time the initial application was heard in the Western Cape Division of the High Court, Zitonix was situated at the Gateway Theatre of Shopping in Umhlanga, KwaZulu Natal, but its legal domicile was in Hout Bay, Cape Town ([para 3]).
+
+Mr. Marcel Joubert, the controlling mind of Zitonix and the Platinum Group (Pty) Ltd, was the individual behind the lease agreements, which were originally concluded in February 2016. Due to financial difficulties, Zitonix entered into arrears shortly after the leases were reinstated, leading to the lessor, K201250042 (South Africa) (Pty) Ltd, cancelling the leases based on Joubert’s final sequestration as a surety ([paras 5–7]). 
+
+The High Court, presided over by Holderness AJ, found the lessor's applications for eviction to be correct and valid, and authorized the Deputy Sheriff to eject the tenants ([para 1]). Zitonix subsequently raised several defenses against the application, disputing the jurisdiction of the Western Cape court, the authority of the deponent of the founding affidavit, the adequacy of the cancellation letters, among others ([para 8]).
+
+## I – Issues
+
+The central issues in this case are:
+
+1. **Jurisdiction:** Whether the Western Cape Division of the High Court had jurisdiction to hear the eviction application, given that the property (the shopping center) was located in KwaZulu Natal ([para 10]).
+   
+2. **Ignorance of Suretyship Terms:** Whether Joubert's ignorance of clause 16.1(e) of the lease agreements, which allowed for cancellation upon his sequestration, constituted a valid defense against the lessor's cancellation of the leases ([para 12]).
+
+## R – Rules
+
+The legal principles pertinent to this case include:
+
+1. **Jurisdictional Principles:** The Supreme Court noted that cases regarding lease cancellations, while linked to the physical location of the property, are based on contractual obligations. This means that the court where the tenant is domiciled may have concurrent jurisdiction with the court of the forum rei sitae ([para 10]).
+
+2. **Contractual Interpretation:** The terms of the lease agreements, particularly clause 16.1(e), dictate that the lessor is entitled to cancel the lease in the event of the surety's sequestration. The legal doctrine of *iustus error* requires establishing whether ignorance of contractual terms can be classified as a justifiable mistake that absolves liability ([para 12]).
+
+## A – Application
+
+In determining the jurisdiction issue, the court scrutinized whether the application was in rem (pertaining to ownership and title) or in personam (pertaining to personal rights based on contract). The judgement emphasized that the lessor's claim was contractual and not a rei vindicatio action. Thus, concurrent jurisdiction existed between the Western Cape court and the KwaZulu Natal Division ([para 10]).
+
+The court further established that Zitonix’s argument on issue of jurisdiction merely reiterated their assertion that the application was in rem, which the court rejected as it was based solely on the contracts ([para 11]). The court cited sections 42(1) and (2) of the Superior Courts Act 10 of 2013 to affirm its authority to issue remedial orders relating to the eviction ([para 10]).
+
+Concerning Joubert's ignorance of the suretyship clause, the court evaluated the evidence presented regarding his knowledge and experience as a businessman. It found that Joubert had prior experiences with similar clauses, and the terms of the leases were not obscured. Therefore, the failure to recognize the implication of the clause did not constitute *iustus error*, as it was reasonably foreseeable that a surety's sequestration could lead to cancellation of the leases, and Joubert was not misled ([para 13]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded by dismissing the appeal with costs, affirming the findings of the lower court. The court recognized the validity of the lease term allowing cancellation upon the surety's sequestration and confirmed that the Western Cape Division had jurisdiction over the matter as a contractual issue ([para 15]). The judgment thereby reinforces the contractual autonomy and responsibilities of parties involved in lease agreements while clarifying jurisdictional principles regarding property disputes and highlighting the implications of contractual ignorance. 
+
+This case serves as a crucial reminder of the importance of diligence in understanding the ramifications of contractual clauses and ensures that legal interpretations align with both contractual law and jurisdictional statutes.

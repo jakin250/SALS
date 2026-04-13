@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Close-Up Mining (Pty) Ltd and Others v The Arbitrator, Judge Phillip Boruchowitz and Another (286/2022) [2023] ZASCA 43 
+
+## F - Facts
+
+In this case, the appellants — Close-Up Mining (Pty) Ltd, Willem Pieter Tenner, and Close-Up Machinery and Plant Hire (Pty) Ltd — were in dispute with the second respondent, Lutzkie Group of Companies (Pty) Ltd. The matter arose from an arbitral proceeding concerning two agreements, termed Binding Term Sheets 1 and 2 ([1]). An award was rendered by the appointed arbitrator, retired Judge Phillip Boruchowitz, on 18 November 2020 ([2]).
+
+In the arbitration, Close-Up Mining raised a defence claiming that the Lutzkie Group had repudiated the agreements. However, the arbitrator deemed this defence unpleaded and, thus, outside his jurisdiction. Close-Up Mining subsequently initiated review proceedings in the Gauteng Division of the High Court, contesting the arbitrator's jurisdiction and decisions under section 33(1) of the Arbitration Act 42 of 1965 ([2]).
+
+Despite a wider initial challenge, Close-Up Mining narrowed its claims, focusing on two main arguments: the arbitrator's denial of jurisdiction to consider the repudiation defence, which had not been pleaded, and the assertion that Mr Tenner had been erroneously identified as a party to an agreement ([3]).
+
+The High Court dismissed the review, affirming that the arbitrator correctly lacked jurisdiction to entertain unpleaded matters ([4]).
+
+---
+
+## I - Issues
+
+The case presents several pivotal legal questions:
+
+1. **Jurisdiction of the Arbitrator**: Is an arbitrator precluded from deciding a defence not explicitly pleaded in the arbitration proceedings? ([5]).
+2. **Pleading and the nature of the arbitration agreement**: Did the arbitration agreement confer on the arbitrator the discretionary power to entertain matters not pleaded, specifically the defence of repudiation? ([16]).
+3. **Identification of Parties**: Did the arbitrator exceed his jurisdiction by including Mr Tenner among the parties when he had not been recognized as such within the contractual agreements? ([37]).
+
+---
+
+## R - Rules
+
+The legal framework underpinning this case includes:
+
+1. **Arbitration Act 42 of 1965**: This statute governs the conduct of arbitration proceedings in South Africa and grants grounds for review under section 33(1)(b), addressing issues such as jurisdiction and procedural irregularities ([2]).
+   
+2. **Principle of Party Autonomy in Arbitration**: It emphasizes that the jurisdiction of an arbitrator is defined by the agreements of the parties involved ([10]–[12]).
+
+3. **Shill v Milner (1937)**: This case provides precedent that courts can exercise discretion to allow unpleaded matters to be raised, relevant in a broader context of party autonomy and arbitration ([8]).
+
+4. **AFSA Rules (Arbitration Foundation of South Africa)**: Particularly Article 11 which delineates the arbitrator's powers and discretion to ensure fair and expeditious resolution ([21]).
+
+---
+
+## A - Application
+
+**1. Jurisdiction of the Arbitrator**: The court analyzed the limits of arbitrators’ jurisdiction, confirming that an arbitrator cannot adjudicate issues not pleaded. It was noted that while the arbitrator had the discretion to entertain unpleaded matters, it derives from the arbitration agreement itself — thus, if the agreement does not confer this power, the arbitrator's capacity remains limited to what is specifically pleaded ([5]–[9], [36]).
+
+**2. Interpretation of the Arbitration Agreement**: The judgment articulated that parties retain significant autonomy in defining the scope of what an arbitrator can decide. In this case, the court found that the arbitration agreement, while broadly expressive in its mandate, lacked specific provisions that would grant the arbitrator discretion as described in *Shill v Milner*. The AFSA rules, which the arbitration agreement incorporated, were found to necessitate that disputes must be explicitly raised within the pleadings for the arbitrator’s jurisdiction to activate ([11]–[36]).
+
+**3. Identification of Parties**: The claim that the arbitrator erroneously made Mr Tenner a party to Transaction 1 was dismissed on grounds that the assertion by the Lutzkie Group did not alter the substantive dispute or relief the arbitrator was mandated to decide. The fact that the relief sought by the Lutzkie Group involved Mr Tenner by necessity upheld the arbitrator's ruling within the context of the live dispute ([37]–[39]).
+
+---
+
+## C - Conclusion
+
+The Supreme Court of Appeal affirmed the High Court's dismissal of Close-Up Mining's appeal, concluding that the arbitrator did not exceed his jurisdiction by dismissing the unpleaded defence of repudiation and correctly identified Mr Tenner as a necessary party to the transactions in question. The court noted that the principle of party autonomy underscores the role of arbitration and that the parties were bound by the limits set by their own agreement ([42]). 
+
+This case underscores the importance of clearly defined pleadings in arbitration, reinforcing the arbitral jurisdiction's dependence on the parties' defined scope of authority and the procedural rules they choose to adopt. The ruling reiterates the critical need for parties in arbitration to meticulously outline their disputes within pleadings to avoid jurisdictional challenges. The implications of this decision highlight both the procedural rigor required in arbitration and the limitations surrounding arbitrators' discretion in adjudicating disputes not explicitly delineated by the parties.

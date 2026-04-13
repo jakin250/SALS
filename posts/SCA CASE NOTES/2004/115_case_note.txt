@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2004
+
+# FIRAC Case Note: Hollard Life Assurance Co Ltd v G J Van der Merwe NO [2004] ZASCA 135
+
+## F – Facts
+
+The case arises from an appeal by Hollard Life Assurance Company Limited ('Hollard') concerning a claim made under an insurance policy following the death of the insured, Jean Pierre van der Merwe ('the deceased'). 
+
+On 30 June 2001, the deceased entered into an insurance agreement with Hollard that stipulated payment of the deceased's outstanding debt to Wesbank under an instalment sale agreement in the event of his death ([paras 1-2]). As collateral for his outstanding debt, the deceased ceded all his rights under the policy to Wesbank ([para 3]). Subsequently, the deceased accidentally shot himself and died ([para 4]).
+
+Following his death, the executor of the deceased's estate, the respondent in this case, along with Wesbank, filed a claim with Hollard for the policy benefits. Hollard rejected the claim, citing an exclusion clause that stated no amount would be payable in cases of 'self-inflicted injury,' regardless of intent ([para 5]). 
+
+In the Pretoria High Court, Hollard contended that since the cause of death was a self-inflicted injury, the exclusion clause applied. They also claimed the executor lacked the locus standi due to the cession of rights to Wesbank ([para 6]). The High Court ruled in favour of the executor, interpreting that the deceased retained ownership of the rights despite the cession, allowing the executor to enforce the claim against Hollard ([para 7]).
+
+Hollard appealed the decision concerning both the interpretation of the exclusion clause and the issue of locus standi ([paras 10-11]).
+
+## I – Issues
+
+The central legal issues address:
+
+1. The interpretation of the exclusion clause in the insurance policy concerning self-inflicted injuries ([para 1]).
+2. The locus standi of the executor of the deceased's estate to claim benefits when the deceased had ceded rights under the policy to a third party ([para 1]).
+
+## R – Rules
+
+The legal principles governing the interpretation of insurance policies were reiterated in this case:
+- Policies must be construed in accordance with the ordinary rules of contract interpretation, aiming to ascertain the intention of the parties based on the language used ([para 12]).
+- The contra proferentem rule dictates that any ambiguous terms will be interpreted against the insurer, who drafted the contract ([para 12]).
+- In interpreting exclusions in insurance contracts, any limitation upon clearly expressed obligations to indemnify must be restrictively interpreted ([para 12]).
+
+In terms of onus, once the insured establishes a prima facie claim under the policy, the burden shifts to the insurer to demonstrate that an exclusion applies ([para 13]).
+
+## A – Application
+
+**Interpretation of the Exclusion Clause**
+
+The High Court found that a reasonable interpretation of the exclusion clause demanded a consideration of intent. It posited that the phrase 'whether intended or not' should apply solely to 'self-inflicted illness,' not 'self-inflicted injury' ([para 9]). The Court held that interpreting 'self-inflicted injury' to include unintentional injury would lead to absurd outcomes and would contradict the exclusion's intent, as it could deny coverage for accidental injuries ([paras 9-10]).
+
+Conversely, the Supreme Court of Appeal disagreed with this interpretation. It noted that the language employed in the policy indicated that the exclusion for 'self-inflicted injury' indeed extended to injuries regardless of intent, thereby comprehensively including accidental injuries. The Court emphasized that the ordinary grammatical interpretation of the policy, particularly with regard to the commas, suggested that 'whether intended or not' applied to both 'self-inflicted injury' and 'self-inflicted illness' ([para 15]). 
+
+Relying on established precedent, the assessment of whether an injury was 'self-inflicted' was deemed a matter requiring reasonable judgment by Hollard, and the Supreme Court found that the nature of the death clearly constituted 'self-inflicted injury' within the exclusion’s context ([para 19]).
+
+**Locus Standi**
+
+On the issue of locus standi, the Court noted that the question stemmed from Hollard's argument that the executor could not enforce credence of the ceded rights under this agreement. However, the ruling from the High Court indicated that the executor could claim on behalf of the deceased's estate, notwithstanding the existence of the cession, aligning with the principle established in *Leyds NO v Noord-Westelike Koöperatiewe Landboumaatskappy Bpk* and *National Bank of South Africa Ltd v Cohen’s Trustee* ([para 7]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal concluded that the interpretation of the exclusion clause by the High Court was incorrect. It determined that the deceased’s self-inflicted injury during what was deemed an accidental shooting fell within the ambit of the exclusion clause of the insurance policy. Consequently, the appellant’s appeal was upheld, and the original ruling of the Pretoria High Court was set aside ([paras 19-20]).
+
+The case underscores significant principles regarding the interpretation of insurance policies, particularly concerning exclusion clauses, alongside clarifying the locus standi of executors in relation to ceded rights under insurance contracts. The ruling thus emphasizes the importance of precise language in contract drafting, particularly as it pertains to liability exclusions in insurance agreements.

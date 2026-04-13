@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# Case Note: PMG Motors v Firstrand Bank (866/2013) [2014] ZASCA 180
+
+## FIRAC Case Note
+
+### **F – Facts**: Background and Procedural History
+
+The case concerns PMG Motors Kyalami (Pty) Ltd and PMG Motors Westville (Pty) Ltd, both of which were in liquidation, along with their third counterpart, PMG Motors Alberton (Pty) Ltd, also in liquidation but not part of the appeal. The matter arose from a dispute with Firstrand Bank Ltd, Wesbank Division, which had entered into floor plan agreements with the dealerships to secure motor vehicle sales by reserving ownership until payment was complete ([2–4]).
+
+On January 22, 2009, Wesbank issued cancellation letters to these dealerships regarding the agreements. These letters were delivered on January 23, 2009. Following the cancellation, Wesbank retrieved the vehicles covered by the agreements ([4]). Subsequently, on January 26, 2009, the dealerships filed for liquidation in KwaZulu-Natal, with provisional liquidation orders issued on January 27 and made final on March 9, 2009 ([4]–[5]).
+
+After liquidation, the dealerships' liquidators requested the amounts paid to the dealerships concerning the vehicle sales. Wesbank, asserting that the payments were made under a mistake of fact, sought recovery of these payments through an application under the condictio indebiti ([5]). The South Gauteng High Court ruled in favor of Wesbank, leading to this appeal by the dealerships ([6]).
+
+### **I – Issues**: Legal or Constitutional Questions
+
+The appeal raised five primary issues ([1]):
+1. Whether the court had jurisdiction to entertain the application.
+2. The applicability of s 84(2) of the Insolvency Act 24 of 1936.
+3. Existence of material factual disputes requiring referral to oral evidence or dismissal of the application.
+4. The appropriate procedural route for the money claim under the condictio indebiti (application vs. action).
+5. Whether Wesbank's objection under s 111 of the Insolvency Act precluded granting relief before the objection was resolved.
+
+### **R – Rules**: Legal Authorities and Precedents Relied Upon
+
+The court relied on several statutory provisions and legal principles:
+- **Supreme Court Act 59 of 1959**, particularly s 19(1)(a) and (b), relating to jurisdiction based on the residence of corporations ([8]).
+- **Insolvency Act 24 of 1936**, focusing on s 84, which governs the treatment of properties delivered under instalment agreements ([24]).
+- Case law regarding the jurisdiction of companies, including the decisions in *Steytler NO v Fitzgerald* and *Bisonboard Ltd v K Braun Woodworking Machinery (Pty) Ltd* ([9], [12]).
+- The principle established in *Plascon-Evans Paints Ltd v Van Riebeeck Paints (Pty) Ltd*, regarding disputes of facts in application proceedings ([17]).
+
+### **A – Application**: Analysis of Court's Application of the Law
+
+1. **Jurisdiction**: The court concluded that it had jurisdiction over PMG Kyalami and PMG Alberton since their principal places of business were located within the area of jurisdiction. The rationale involving 'residence' was detailed, indicating corporations can inhabit a jurisdiction based on the location of their central management and control ([8–11]). Despite the dealerships’ arguments about their legal residence ceasing post-liquidation, the court maintained that their pre-liquidation jurisdiction remained valid ([13]).
+
+2. **Factual Disputes**: The court examined whether delivery of the cancellation letters was contested. It found that the responses from PMG Westville did not sufficiently establish a genuine factual dispute. The assertion by Mr. Louw (a principal at PMG Westville) about non-delivery was deemed too general and not corroborated by sufficient evidence ([21]–[22]). Consequently, the court determined that the cancellation was valid and occurred before liquidation commenced.
+
+3. **Insolvency Act, s 84(2)**: The court emphasized that s 84(2) of the Insolvency Act only applies where an agreement exists at the liquidation time. During the proceedings, it was argued that since the agreements were cancelled prior to liquidation, s 84(2) was inapplicable, thus confirming the nature of payments as made indebite ([26]–[29]). Consequently, this provision did not protect the dealerships as they argued.
+
+4. **Application or Action Proceedings**: The dealership's contention that a monetary claim should initiate as an action instead of an application was dismissed. Since the relevant disputes on amounts were not valid under s 84(2), the procedural choice for application was justified ([30]).
+
+5. **Section 111 Objection**: The objection raised by Wesbank regarding the liquidators’ accounts was not viewed as a hindrance for Wesbank to approach the court. The court affirmed that Wesbank's application was independent, particularly as it did not seek to reverse any master's decision but aimed for recovery of payments made under a mistaken basis after the concursus creditorum began ([31]–[32]).
+
+### **C – Conclusion**: Court’s Holding, Ratio Decidendi, and Implications
+
+Ultimately, the appeal was dismissed with costs awarded against the appellants, with the court reiterating the comprehensive consideration of the five core issues raised ([33]). The court's ratio decidendi emphasized the stability of jurisdiction grounded in a company's pre-liquidation residence, the importance of establishing genuine factual disputes, the categorical application of s 84(2), and the procedural appropriateness of application proceedings in the circumstance presented.
+
+This holding underscores the precedence of clarifying provisions within the Insolvency Act when it comes to rights to property and payments amidst liquidations—indicating a more stringent interpretation that requires delineation of existing contractual frameworks before liabilities are assessed in pre-liquidation contexts. As a broader implication, this case reinforces the significance of established legal principles of jurisdiction and the dissolution of contracts in insolvency operations, shaping future dealings in similar commercial liquidations.

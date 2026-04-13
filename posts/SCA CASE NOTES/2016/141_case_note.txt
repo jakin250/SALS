@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Afgri Corporation Ltd v Eloff (20474/2014) [2016] ZASCA 141
+
+## F - Facts
+
+The matter involves an appeal from the Gauteng Division of the High Court, Pretoria, where the appellant, Afgri Corporation Limited, claimed a debt of US$920,844.59 against the first and second respondents, Mathys Isak Eloff and Elsabe Eloff. On December 26, 2007, a written agreement titled "Acknowledgement of Debt, Suretyship, Undertaking & Cession" was signed by Dumela Farms Limited, represented by Mr. Eloff, and the appellant. Under this agreement, Dumela acknowledged owing the specified amount to the appellant, with the respondents binding themselves as sureties and co-principal debtors.
+
+Dumela was incorporated in Zambia and operated a maize production business. Conducting its operations under production agreements with the appellant allowed it to access a credit facility for purchasing agricultural goods, which had to be repaid after the harvest. A critical point is that due to a low maize market price, negotiations led to the respondents requesting an extension for the debt repayment, culminating in the aforementioned agreement.
+
+However, in early February 2008, Dumela was placed under receivership. This judicial circumstance resulted in assets, including the maize, being controlled by appointed receivers, and the appellant receiving no payment as stipulated in the contract or otherwise. The appellant subsequently issued a provisional sentence summons against the respondents, who contested liability based on, among other factors, the parol evidence rule.
+
+## I - Issues
+
+The core issue is whether the respondents should be held liable for the debt outlined in the written agreement, taking into account the parol evidence rule and the principles that govern express contractual terms ([paras 1–2]). Specifically, the court needed to address:
+
+1. Whether the evidence provided by the defendants contradicted the signed agreement to a degree that rendered the enforcement of that agreement inadmissible due to the parol evidence rule.
+2. Whether any alternative agreements or claims affecting the respondents' liability existed outside of what was encapsulated within the written agreement ([paras 12–20]).
+
+## R - Rules
+
+The Supreme Court of Appeal applied the following legal principles:
+
+1. **Parol Evidence Rule**: Established that once a contract is reduced to writing, the writing is regarded as the exclusive memorial of the transaction. This rule prohibits the introduction of prior negotiations or oral agreements that contradict the written terms (Union Government v Vianini Ferro-Concrete Pipes (Pty) Ltd 1941 AD 43 at 47) ([paras 17–18]).
+   
+2. As per South African law, a party asserting a claim based on a written contract must provide evidence grounded in the contract itself, without relying on extrinsic or parol evidence, unless indicating that parts of the agreement remain unintegrated ([paras 17, 18]).
+
+3. The contractual obligation and liability, defined within the pieces of the acknowledged debt and security mechanisms, determined the outcome. The Agricultural Credits Act 23 of 1995 which governs agricultural charges also played a role in context ([para 4]).
+
+## A - Application
+
+In applying these rules, the court found:
+
+1. The respondents’ defense, which suggested that the ownership of the maize transferred upon delivery, lacked factual basis and contradicts the express terms of the agreement. The court noted that no such purchase and repurchase agreement was entered into after the production agreement, contrary to the respondents' claims ([paras 15–16]).
+
+2. The parol evidence rule precluded the respondents' evidence claiming a different understanding of ownership and liability, as their statements could not negate the clear, integrated agreement they had signed ([paras 17–18]).
+
+3. The court emphasized the indisputable acknowledgment by Dumela Farms of its debt in the agreement and clarified that other external issues raised, such as the receivership and its consequences, did not affect the contractually established debt outlined in the agreement, since it clearly delineated the due amount and the obligations tied to it ([paras 8–16]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal concluded that the lower court had erred in dismissing the appellant's claim. On the basis that extrinsic evidence from the respondents was inadmissible under the parol evidence rule, judgment was granted to the appellant. The respondents were therefore held liable for the payment of US$920,844.59, with costs, plus interest accrued from the specified periods.
+
+The implications of this decision reinforce the sanctity of written contracts and the parol evidence rule's applicability in contractual disputes, underscoring the necessity for parties involved in transactions to adhere strictly to documented agreements. The judgment highlights the importance of clear terms within financial contracts to preclude disputes arising from interpretational disagreements. The ruling confirms that creditors are entitled to judicial enforcement of validly executed agreements regardless of subsequent changes in debtor circumstances, solidifying creditor rights in the context of agricultural finance ([paras 21]).

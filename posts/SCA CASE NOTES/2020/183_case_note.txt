@@ -1,0 +1,57 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note Using FIRAC Method
+
+**Case Title:** Sekepe Investments (Pty) Ltd and Others v Government Employees Pension Fund and Another (110/2019) [2020] ZASCA 183
+
+### F – Facts
+
+The case involved a dispute between several appellants (Sekepe Investments (Pty) Ltd, The Alchamy (Pty) Ltd, Marobalo Investments (Pty) Ltd) and the Government Employees Pension Fund (GEPF), concerning the funding obligations of MMH, a company formed for low-cost housing projects. The appellants were shareholders in MMH, where Sekepe held 55%, GEPF 25%, and two other shareholders each held 10% ([paras 1–2]).
+
+In September 2017, the board of MMH determined the need for shareholder funding and subsequently issued utilisation notices to the GEPF, requesting funds to advance to the appellants, enabling them to make shareholder loans to MMH ([para 3]). The GEPF refused to provide the required loans, prompting the appellants to demand payment under the shareholders' agreement and the separate loan agreements with GEPF ([para 4]).
+
+The appellants initiated legal action seeking specific performance, which was dismissed by the High Court on the grounds of various defences put forth by the GEPF, including standing and non-compliance with contractual obligations ([paras 5–9]).
+
+### I – Issues
+
+The case raised several critical legal issues:
+
+1. **Standing**: Whether the appellants had the standing to bring the application or if the action should have been taken by MMH as a separate legal entity ([paras 11–12]).
+
+2. **Compliance with Contractual Terms**: Whether the appellants met the necessary conditions outlined in the loan agreements and shareholders' agreement, thereby triggering GEPF's obligation to advance the loans ([paras 20–21], [30]).
+
+3. **Nature of Shareholder Agreements**: Whether the terms of the shareholders' agreement concerning simultaneous loans and necessary documentation were binding and if failure to comply excused the GEPF from fulfilling its obligations ([paras 30–32]).
+
+### R – Rules
+
+The relevant legal principles involved include:
+
+- **Standing to Sue**: According to section 165(2) of the Companies Act 71 of 2008, a derivative action may be commenced on behalf of a company by a shareholder only when required to protect the legal interests of that company ([para 6]).
+
+- **Contractual Obligation**: The enforceability of specific performance requires strict adherence to the conditions set forth in loan agreements, including the requirement for shareholder loans to be advanced simultaneously under agreed obligations ([paras 20–22], [30]).
+
+- **Principles of Corporate Law**: The obligations among shareholders are reciprocal and may be enforced by any shareholder if a breach occurs ([paras 17, 18]).
+
+### A – Application
+
+In addressing the standing issue, the court concluded that while the appellants acted in the interest of MMH, they were asserting their own rights based on the loan agreements with the GEPF, thereby possessing adequate standing to seek specific performance ([paras 15–16]). 
+
+Regarding the conditions of the loan agreements, the court scrutinized the GEPF's defenses, particularly its claims of non-compliance. The court found that the GEPF failed to substantiate its claims that the appellants had not fulfilled the requirements stipulated in the loan agreements. It noted that while the GEPF alleged a lack of financial statements and governance reports, these were either provided or irrelevant, considering the context of the transaction ([paras 21–29]).
+
+The claim about simultaneous loans was also countered by highlighting that the GEPF's refusal to advance would inherently prevent the appellants from fulfilling their obligations to MMH. The court ruled that the obligations to fund MMH were not annulled by the lack of simultaneous loan payments, which were contingent upon the GEPF’s actions ([paras 30–32]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal overturned the High Court’s decision, ruling that the appellants were entitled to specific performance concerning the loans owed by the GEPF. The court recognized that the appellants had standing as they were entitled to the advances under the loan agreements, notwithstanding that the beneficiaries of those funds were MMH ([para 33]). 
+
+The implication of this judgment affirms the principle that shareholders can seek enforcement of their contractual rights against other shareholders, reinforcing the integrity of shareholders' agreements and the obligations therein. The court’s ruling also discourages a party from evading their financial obligations through procedural defenses that lack substantive foundation ([para 34]). 
+
+**Order**: The Supreme Court of Appeal upheld the appeal with costs and commanded the GEPF to comply with the payment requests outlined in the appellants' notice of motion ([para 34]). 
+
+### References
+1. Companies Act 71 of 2008, s 165(2).
+2. Sekepe Investments Pty Ltd and Others v Government Employees Pension Fund and Another [2018] ZAGPPHC 785.
+3. International Financial Reporting Standards (IFRS). 
+
+*This case note is suitable for citation and reference in academic and legal contexts.*

@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Tee Que Trading Services (Pty) Ltd v Oracle Corporation South Africa (Pty) Ltd and Another (case no 065/2021) [2022] ZASCA 68
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([2]–[11])
+
+The case centers on a licensing and arbitration dispute involving Tee Que Trading Services (Pty) Ltd (TQ), Oracle Corporation South Africa (Pty) Ltd (Oracle), and the South African Post Office (SAPO). In 2004, TQ entered into a licensing agreement with I-Flex Solutions Limited (I-Flex), granting TQ rights to sub-license specific software to SAPO ([2]). Following Oracle's acquisition of I-Flex in 2005, TQ was required to join the Oracle Partner Network, resulting in new agreements—specifically the Oracle Partner Network Agreement (OPNA), Oracle Licence and Services Agreement (OLSA), and the Oracle Partner Network Full Use Distribution Agreement (FUDA)—each stipulating a different method for dispute resolution ([5]–[6]).
+
+In March 2018, TQ initiated a claim against Oracle and SAPO, seeking R61,603,515.00 for breach of the licensing agreements, alleging unauthorized negotiations and contractual dealings between Oracle and SAPO ([7]). Oracle countered with a motion to stay the action, invoking the arbitration clauses in the original licensing agreements. The High Court, presided over by Verster AJ, ruled in favor of Oracle, ordering that the dispute be referred to arbitration and thereby dismissing TQ's claims ([8]–[11]).
+
+### I – Issues: Legal or Constitutional Questions ([1]–[11])
+
+The primary legal question was whether the arbitration and governing law clauses in the initial licensing agreements remained operative or were superseded by the provisions of the subsequent Oracle network membership agreements. Additional points of contention included whether the disputes fell under international arbitration jurisdiction as per the International Arbitration Act (IAA) and whether domestic law or international arbitration rules would apply to the dispute at hand ([1],[12]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([22]–[38])
+
+The case invoked several critical legal principles and statutory provisions relating to arbitration:
+
+1. **Interpretation of Arbitration Agreements**: Established principles dictate that arbitration agreements should be interpreted in accordance with established legal document interpretation rules, and that they exist as collateral agreements to the main contract ([22]).
+  
+2. **International Arbitration Act (IAA)**: Section 3 of the IAA outlines the objectives of facilitating international arbitration, while Article 1 of the Model Law defines the parameters of what constitutes international arbitration ([30]).
+  
+3. **UNCITRAL Model Law**: Provides a framework for international arbitration proceedings and stipulates that courts should grant a stay of proceedings in favor of arbitration unless the arbitration agreement is found to be null, void, or incapable of being performed ([29],[36]).
+
+4. **Precedents**: The court referenced cases that establish the validity and application of arbitration agreements, such as *KPMG Chartered Accountants (SA) v Securefin Limited* and others that discuss the nature and applicability of international arbitration agreements ([22]).
+
+### A – Application: Analysis of How the Court Applied the Law ([23]–[38])
+
+The court determined that TQ’s arguments asserting the primacy of the network membership agreements were unfounded. The initial arbitration and governing law clauses remained valid due to several factors:
+
+- **No Termination of Previous Agreed Terms**: The judgment clarified that the later agreements did not specifically terminate or supersede the earlier licensing agreements, as there was no express indication or agreement to that effect in the texts ([26]).
+  
+- **Nature of Agreements**: The court articulated that the licensing agreements and the subsequent agreements served distinct functions within the broader business relationship. Thus, the arbitration clauses should continue to operate independently of the new agreements ([27],[28]).
+  
+- **Inapplicability of Domestic Law Arguments**: TQ's argument that the dispute should be judged as domestic because its parties were all based in South Africa failed to recognize that the parties had chosen an international arbitration framework, and the selected venue for arbitration was international ([33],[34]).
+
+The court emphasized the significance of adhering to the arbitrational agreements as they adhered to the principles outlined in the Model Law and the IAA. Consequently, the appeal was dismissed, confirming that the arbitration and governing law clauses within the license agreements remained operative, obligating the parties to settle disputes via arbitration ([36],[38]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([37]–[38])
+
+The Supreme Court of Appeal upheld the ruling of the High Court, rejecting TQ's appeal and reaffirming the enforceability of the arbitration clause found in the original licensing agreements. The court concluded that the parties had not deviated from the original arbitration agreement's stipulations regarding dispute resolution and governing law. 
+
+The implications of this ruling underscore the importance of contractually stated arbitration clauses, particularly within the context of international commercial operations. Parties are bound by their agreements; thus, claims of superseding agreements require clear evidence of mutual intent to alter prior contracts, which was not established in this case. Consequently, businesses and legal practitioners are advised to meticulously draft and communicate their contractual relationships to avoid similar disputes in the future.
+
+Overall, this case highlights the judiciary's commitment to upholding the sanctity of arbitration agreements and reflects the global standards that govern international commercial arbitration ([38]).

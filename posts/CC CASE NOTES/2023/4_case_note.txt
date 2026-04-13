@@ -1,0 +1,52 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2023
+
+# Case Note: Rissik Street One Stop CC t/a Rissik Street Engen and Another v Engen Petroleum Ltd [2023] ZACC 4
+
+## FIRAC Analysis
+
+### F - Facts
+
+The key facts of the case revolve around a dispute between Rissik Street One Stop CC (the first applicant) and Engen Petroleum Limited (the respondent). Rissik Street operates as a retailer of petroleum products, having been in a leasing arrangement with Engen since 1998, which allowed them to conduct their business at a location in Pietersburg Township. The operating lease was originally scheduled to run until June 30, 2018, with provisions for an additional right to sell the business upon non-renewal ([para 5]).
+
+In late 2017, Engen signaled its intention not to renew the lease, leading to conflict over a required R3 million payment from Rissik Street, which Engen sought as a precondition for renewal. Engen ultimately terminated the lease effective October 31, 2018, after noticing Rissik Street in October 2017 ([paras 6–7]).
+
+Rissik Street introduced potential buyers for the business on various occasions in 2018, but Engen unreasonably withheld consent to the sales without providing reasons, prompting Rissik Street to request arbitration via the Controller of Petroleum Products ([paras 8–10]). With the arbitration request unresolved, Engen initiated eviction proceedings against Rissik Street in March 2019, which Rissik Street opposed and sought to stay pending the arbitration's outcome ([paras 14–15]).
+
+The High Court ruled in favor of Rissik Street, ordering a stay of the eviction proceedings until the arbitration's resolution, prompting Engen to appeal to the Supreme Court of Appeal ([paras 26–27]).
+
+### I - Issues
+
+The critical legal issues arose surrounding the interpretation and application of Section 12B of the Petroleum Products Act 120 of 1977 (PPA) concerning the remedial powers of arbitrators, particularly:
+
+1. **Jurisdiction**: Is this Court's jurisdiction engaged regarding the matters raised?
+2. **Remedial Powers**: Can an arbitrator under Section 12B grant an award that allows Rissik Street to remain in occupation of the premises post-lease expiration without a renewal claim being filed?
+3. **Specification of Relief**: Must a requesting party delineate the relief sought in a Section 12B request, or is a mere allegation of unfair practice sufficient?
+4. **Stay of Eviction**: What grounds exist for a court to grant a stay of eviction proceedings pending arbitration? ([paras 45–48]).
+
+### R - Rules
+
+The decision hinges upon the interpretation of Section 12B of the PPA, which provides for arbitration in cases alleging unfair or unreasonable contractual practices ([para 50]). Notably, the PPA aims to address imbalances in the petroleum industry and allow for corrective measures through arbitration ([para 1]). 
+
+The relevant legislative framework includes:
+- **Section 12B(1)**: Allows for arbitration requests from retailers alleging unfair practices by wholesalers.
+- **Section 12B(4)**: Vests broad powers in arbitrators to make necessary awards to correct identified unfair practices.
+- **Arbitration Act, Section 6(1)**: Enables parties to apply for a stay of legal proceedings pending arbitration ([paras 52–54]).
+
+Precedential rulings, particularly from *Business Zone CC* ([para 2]), emphasize the transformative goals of Section 12B, highlighting the need for equal treatment and fairness in contractual relations in the petroleum sector.
+
+### A - Application
+
+In reviewing the High Court's decision, the Supreme Court of Appeal initially upheld Engen's appeal, asserting that Rissik Street's inability to complaint adequately encompassed the lease's non-renewal weakened their position regarding continued occupation post-lease expiration. However, the Constitutional Court assessed these interpretations critically, particularly the underlying rationale that the non-renewal complaint was not raised during arbitration.
+
+The Court noted that Section 12B recognized the complex nature of the transitioning contractual obligations beyond existing written agreements, supporting wider interpretations of what remedial powers entail. It underscored that unfair practices could extend to Engen's refusal to provide reasons for withholding consent on proposed sales, thus warranting potential remedies, including continued occupation to enable a sale as a corrective action.
+
+Furthermore, the Court found that Rissik Street was inherently disadvantaged in accruing the business’s value due to Engen's actions and this inequity had transformative implications that needed addressing as per the PPA ([paras 66–72]). 
+
+### C - Conclusion
+
+The Constitutional Court found in favor of Rissik Street, granting leave to appeal and reversing the order of the Supreme Court of Appeal. The Court's final order reaffirmed the interdict against Engen from undertaking actions that would jeopardize Rissik Street's operations during the arbitration, also clarifying the orders made by the High Court regarding the stay of eviction proceedings.
+
+The judgment established that arbitrators could grant necessary relief that allows Rissik Street to remain in occupation while addressing Engen's unreasonable conduct, directly aiming to realign negotiation power dynamics within the petroleum industry ([paras 91–92]). This ruling not only reinforces the transformative intent behind the PPA but also circumscribes the expectations and responsibilities of parties engaged within this sector, thereby promoting equitable access and fairness in contractual relationships in South Africa's petroleum industry.
+
+The implications of this judgment are significant, as it effectively underscores the scope and limits of contractual power dynamics, while also reinforcing the role of arbitration as a vital conflict resolution mechanism in industrial relationships, particularly in contexts marked by historical inequalities and power imbalances.

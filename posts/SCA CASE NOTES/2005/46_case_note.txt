@@ -1,0 +1,46 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from
+Source Folder: 2005
+
+# FIRAC Case Note: Eskom Holdings Ltd v Hendricks (262/2004)
+
+## F – Facts
+
+On 4 August 1994, Jacob Johannes Hendricks’s son, J., who was 11 years and 8 months old, sustained serious injuries after climbing a high voltage power pylon owned by Eskom Holdings Ltd. To reach the power line, J. climbed approximately 14 metres high, overcoming an anti-climbing device (ACD) installed at the pylon. This ACD was designed to deter unauthorized climbing, consisting of a barbed-wire fence situated at three meters above ground. Despite the barrier's design, J. manipulated it, allowing himself to ascend to the cross-arms supporting the power lines. While attempting to touch one of the glass insulators at the end of the cross-arm, J. experienced a "flash-over," resulting in a severe electric shock that caused him to fall and sustain burns.
+
+Subsequently, J. (represented by his father) initiated civil proceedings against Eskom, alleging negligence for failing to prevent access to the dangerous power lines. Eskom denied liability and, in the alternative, claimed contributory negligence on J.’s part. The trial court (Jacobs AJ) determined that both J. and Eskom had been negligent, attributing two-thirds of the fault to Eskom and one-third to J. Eskom sought to appeal this decision, as did the respondent.
+
+## I – Issues
+
+The primary legal issues addressed by the Supreme Court of Appeal included:
+
+1. Whether Eskom was negligent in its duty to protect the public from the dangers posed by its power lines, specifically concerning the adequacy of the installed ACD and whether it constituted a reasonable safety measure ([paras 2–4]).
+
+2. Whether J. could be considered to have been capable of committing a delict (culpae capax) at the time of the incident, thus impacting the question of contributory negligence ([paras 15–22]).
+
+## R – Rules
+
+The court considered relevant legal frameworks and precedents in its analysis, particularly:
+
+1. **Section 26 of the Electricity Act 41 of 1987**: This provision establishes a presumption of negligence towards holders of electric works unless proven otherwise, placing the burden on Eskom to demonstrate that it had not been negligent in the maintenance of its installations ([para 8]).
+
+2. **Electrical Machinery Regulations**: These regulations mandate that electricity users must adequately protect lattice-type pylons to prevent unauthorized access that could lead to dangerous proximity to live conductors ([para 9]).
+
+3. **General Principles of Negligence**: The court reiterated that negligence involves a duty of care, breach of that duty, and resultant damages. The determination of reasonable conduct considers factors such as the risk created, potential consequences, the actor's utility of conduct, and the burden of risk elimination ([para 10]).
+
+4. **Presumption of Capacity in Children**: In accordance with previous rulings such as _Weber v Santam_ and _Jones NO v Santam_, children are generally presumed incapable of negligence until shown otherwise by the party alleging such capacity ([paras 15–22]).
+
+## A – Application
+
+### Eskom’s Negligence
+
+The court critiqued the adequacy of the ACD used at the pylon. While the ACD was presented as a standard design, testimony suggested it failed in practice, allowing J. to climb through easily. Expert testimony highlighted that the installation method resulted in insufficient tension in the barbed wire, which compromised its integrity as a safety barrier. Hence, the court found that Eskom neglected its duty by not ensuring that the ACD could effectively deter access to a hazardous area ([para 13]).
+
+### Delictual Capacity of J.
+
+On the question of J.'s culpability, the court emphasized the impulsive nature of children's behavior, citing that J. acted out of curiosity rather than considering the potential consequences of his actions. J.’s conduct—attempting to touch the insulators—was framed as a typical manifestation of youthful impulsiveness, suggesting he lacked the capacity to act reasonably in that situation. The court concluded that Eskom did not sufficiently rebut the legal presumption of culpae incapax for J., aligning this determination with previous jurisprudence that stressed evaluating a child's acknowledgments of dangers in the context of their age and maturity ([paras 15–23]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed Eskom's appeal and upheld the cross-appeal, concluding that Eskom had indeed been negligent in its duties and had failed to adequately protect its pylons. It ruled that J. was not capable of negligence due to his age and impulsive nature at the time of the accident, thus altering the initial judgment to hold Eskom entirely liable for the damages incurred. The court required Eskom to pay for all damages suffered by J. as a result of the incident, reflecting significant implications for liability standards concerning safety measures in child-accessible areas ([paras 24(a)–(c)]).
+
+This decision underscores the necessity of robust safety mechanisms, particularly in environments where children are likely to be present, clarifying the legal framework surrounding negligence and delictual capacity in South African law.

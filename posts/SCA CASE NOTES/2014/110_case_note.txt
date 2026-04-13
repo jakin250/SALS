@@ -1,0 +1,45 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: Pratt v Firstrand Bank Ltd (696/13) [2014] ZASCA 110
+
+## F – Facts: Relevant Background and Procedural History ([para 1–6])
+
+The case of *Pratt v Firstrand Bank Ltd* involves an appeal regarding a loan agreement between the appellant, Anne Pratt, and the respondent, Firstrand Bank. In 2001, the appellant owned 30% of the shares in a local entity, Anne Pratt and Associates (Pty) Ltd (the Company), with the remaining shares held by an offshore entity, Fast Track Trust, based in the Isle of Man. The appellant engaged Firstrand Bank to restructure her financial affairs, resulting in a loan agreement whereby the bank lent R25 million. This amount was to be transferred to Classy Living Investments CC, which would then purchase the Trust's shares in the Company.
+
+Upon the due date for repayment, the appellant failed to fulfil her obligations, prompting Firstrand Bank to pursue enforcement of the loan agreement. In response, the appellant sought a declaratory order from the High Court declaring the agreement void, claiming it violated South African Exchange Control Regulations, specifically alleging that the agreements were entered into without the necessary Treasury exemptions. Firstrand Bank denied the allegations and noted in its counterclaim that the loan was legal, seeking repayment and additional relief.
+
+The trial court found in favor of Firstrand Bank, ruling that the agreements were valid and did not contravene Exchange Control Regulations ([paras 2–5]). The appellant subsequently attempted to amend her plea to Firstrand Bank's counterclaim, asserting that the bank had acted fraudulently, which the bank resisted. The court upheld the bank’s plea of res judicata, stating that the validity of the loan agreement had been previously adjudicated by the trial court and the Supreme Court of Appeal ([para 7]).
+
+## I – Issues: Legal or Constitutional Questions ([para 5, 8–10, 15–20])
+
+The primary legal issues presented in this case encompass the validity of the loan agreement under Exchange Control Regulations and the application of res judicata. Specifically, the court was tasked with determining:
+
+1. Whether the issues raised in the appellant's amended plea to the counterclaim were barred by res judicata, given that the validity of the loan agreement had previously been adjudicated.
+2. Whether the appellant's claim of fraudulent actions by Firstrand Bank constituted a new issue that warranted reopening the determination of the agreement's validity.
+
+The underlying principle of res judicata establishes that a final judgment on merits prevents parties from relitigating the same issue in subsequent proceedings ([para 8]). 
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([para 8–13])
+
+The court relied on principles of res judicata and the doctrine of *exceptio rei judicatae*, which precludes parties from relitigating the same cause of action if it has been adjudicated to finality ([para 8]). The precedent set in *Yellow Star Properties 1020 (Pty) Ltd v MEC, Department of Development Planning and Local Government, Gauteng* emphasized that the validity of a cause of action cannot be relitigated once it has been adjudicated ([para 8]). The court also cited *African Farms and Townships Ltd v Cape Town Municipality*, confirming the necessity for issues raised to be identical in both the prior and current proceedings ([para 9]).
+
+Moreover, in *Smith v Porritt*, the concept of issue estoppel has emerged, allowing the relaxation of specific requirements under certain circumstances, permitting parties to raise new arguments relating to the same issues ([para 11]). The ruling from *Custom Credit Corporation (Pty) Ltd v Shembe* further supported the principle that a single cause of action must be addressed in one suit to avoid discrepancies ([para 20]).
+
+## A – Application: Analysis of How the Court Applied the Law ([para 11–20])
+
+In applying the principles of res judicata, the court affirmed that the validity of the loan agreement already stood resolved by previous court decisions, specifically whether Firstrand had received the requisite permission to authorize the transaction under Exchange Control Regulations ([paras 8–10, 18]). The appellant's stance asserted that Firstrand's alleged intention to circumvent regulations constituted a unique, separate issue; however, the court dismissed this argument.
+
+The court pointed out that despite the appellant’s claims of fraud and non-compliance, the issues surrounding the valid permission granted to Firstrand were already adjudicated, thus negating the appellant's attempt to relitigate on broader grounds by asserting fraud ([para 20]). The evidence, particularly that of Mr. Ribbens from Firstrand, was considered uncontested, affirming that all due diligence was carried out, per regulatory requirements, thereby affirming that the agreements did not violate South African laws.
+
+As such, the court found that allowing the appellant to introduce new evidence on fraud would only serve to challenge decisions already concluded, violating the established 'once-and-for-all' rule ([para 19]). Ultimately, the court held that the validity of the loan agreement had been definitively resolved and should not be revisited ([para 22]).
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 21–22])
+
+The Supreme Court of Appeal ultimately dismissed the appeal, confirming the findings of the trial court that the loan agreement was valid under the relevant legislative framework. The court's decision emphasized the importance of finality in judicial determinations, especially relating to issues of fact and legality that have been previously adjudicated under similar circumstances.
+
+This ruling reinforces the doctrine of res judicata in South African law, highlighting that once issues have been settled in previous legal contexts, they cannot be resurrected through new claims or defenses unless wholly distinct from prior adjudications. The ramifications of the judgment suggest that litigants must clearly identify all possible arguments and defenses in initial proceedings to avoid preclusion from later claims.
+
+The appeal was dismissed with costs, reflecting the court's position on frivolous litigation stemming from already settled issues, and underscoring the principles of judicial economy and the necessity for parties to conduct thorough legal diligence initially.
+
+This ruling serves as a pivotal reference for future cases relating to the interactions between financial regulatory compliance and principles of finality in adjudication, asserting the judiciary's stance against the continual reopening of such matters once they have been conclusively addressed.

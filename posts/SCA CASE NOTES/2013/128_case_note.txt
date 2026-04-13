@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2013
+
+### FIRAC Case Note: Stabilpave v South African Revenue Services ([2013] ZASCA 128)
+
+#### F – Facts: Relevant Background and Procedural History ([paras 1–15])
+
+In *Stabilpave v SARS*, the appellant, Stabilpave (Pty) Limited, contested a judgment from the Full Court of the North Gauteng High Court that dismissed its claim against the South African Revenue Service (SARS) for a tax refund amounting to R724 494.29, plus interest and costs. The dispute arose after SARS attempted to refund this amount via a cheque, which was subsequently stolen before it reached Stabilpave.
+
+The series of events began with SARS posting a cheque dated November 12, 2006, payable to Stabilpave for the refund due according to a tax assessment form dated October 16, 2006. This form stated that should valid banking details not be available for an electronic transfer, payment would be made via cheque collected at the nearest post office ([para 2]). However, the cheque was intercepted by a thief, who persuaded the post office to release it using a fraudulent delivery notice and altered corporate records of Stabilpave ([paras 3–4]).
+
+Stabilpave, asserting that no legal payment occurred as the cheque was either lost or misappropriated before reaching it, initiated legal action against SARS. While SARS acknowledged indebtedness, it raised the defense of payment, arguing that by not providing banking details, Stabilpave had opted for payment via cheque, thus assuming the risk of loss in transit ([paras 5–6]).
+
+The court of first instance ruled in favor of SARS, a decision that was upheld by the majority of the Full Court. However, the dissenting judge contested that no clear agreement or voluntary acceptance of the payment method was established ([paras 7–8]).
+
+#### I – Issues: Legal or Constitutional Questions ([paras 6–10])
+
+The central legal question revolves around the interpretation of the tax assessment form and whether it constituted an agreement that allowed for payment by cheque to be sent through the post. Specifically, the issues are:
+1. Did the tax assessment form afford Stabilpave a choice regarding the mode of payment, thereby allowing it to elect to receive payment via cheque through the post?
+2. If such a choice existed, did Stabilpave implicitly agree to this payment method and the associated risk of loss in transit?
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 9–10])
+
+The court referred to established principles from case law relevant to cheque payment and the associated risks. In *Barclays National Bank Ltd v Wall* [1983] (1) SA 149 (A) at 156H-157C, the principle is highlighted that when a creditor requests payment via post, they assume the risk of transit.
+
+The majority opinion of the Full Court indicated that a contract was formed concerning the method of payment due to the wording utilized in the tax assessment, thus creating implied terms concerning the nature of this agreement ([para 8]). Nienaber J's summary in *Mannesmann Demag (Pty) Ltd v Romatex* [1988] (4) SA 383 (D) was also referenced, modifying the standard rule on cheque payments to emphasize the necessity for a mutual agreement in determining payment methods ([para 9]).
+
+#### A – Application: Analysis of How the Court Applied the Law ([paras 9–14])
+
+In analyzing whether the tax assessment form permitted a choice in payment method, the court emphasized a plain reading of the text, noting that it clearly indicated that payment would be executed via cheque if valid banking details were unavailable. The absence of an invitation for Stabilpave to furnish these details suggested no choice was genuinely offered. As such, the court concluded that the mode of payment was dictated by SARS, negating Stabilpave's assumption of risk ([paras 11–13]).
+
+The court further clarified that merely because Stabilpave may have anticipated cheque payment did not imply an acceptance of the associated risks in transit, affirming that the risk of loss remained with SARS due to the lack of an informed agreement on the method of payment ([para 14]).
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 15])
+
+The Supreme Court of Appeal upheld Stabilpave's appeal, decisively ruling that SARS had not fulfilled its payment obligation by merely posting the cheque. The implications of this ruling were significant; it emphasized that the delivery of payment methods is subject to mutual agreement and proper notification, and creditors who do not explicitly accept risks associated with a payment method cannot be considered to have assumed them.
+
+Thus, the court concluded that the appeal is granted with costs, reinforcing the principles of contractual obligations regarding payment methods, particularly in the context of tax refunds and public institutions ([para 15]).

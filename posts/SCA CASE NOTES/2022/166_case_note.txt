@@ -1,0 +1,61 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Pacific Solar Technologies (Pty) Ltd v The Commissioner of the South African Revenue Service (Case no 715/2021)
+
+**Neutral Citation:** Pacific Solar Technologies (Pty) Ltd v The Commissioner of the South African Revenue Service [2022] ZASCA 166 (29 November 2022)
+
+**Court:** The Supreme Court of Appeal of South Africa
+
+**Judgment Coram:** Ponnan, Gorven, Mabindla-Boqwana, Basson, Masipa AJJA
+
+**Heard Date:** 15 November 2022  
+**Delivered Date:** 29 November 2022  
+
+---
+
+## F – Facts: Background and Procedural History ([paras 1-3])
+
+The appellant, Pacific Solar Technologies (Pty) Ltd, sought relief from a decision made under section 47(9)(e) of the Customs and Excise Act 91 of 1964, relating to the classification of imported solar home systems for tariff purposes. The product in question comprises solar panels, a power bank, and LED lights. Initially classified under tariff heading 8501.31, the South African Revenue Service (SARS) determined that the appropriate classification should be under tariff heading 9405.40.90 for two models, namely the PVES 20W and PVES 100W ([para 2]).
+
+Despite Pacific Solar's application seeking a classification under TH 8501.31, the Gauteng Division of the High Court dismissed the matter with costs, failing to make a formal determination and overlooking the potential classification under tariff heading 9405.40.21, as argued by the Commissioner ([para 3]).
+
+## I – Issues: Legal Questions Presented ([paras 4-8])
+
+The core legal questions in this appeal concerned the classification of the solar home systems under the Customs and Excise Act:
+
+1. **What is the appropriate tariff heading under which the solar home systems should be classified?**
+2. **Does the product possess characteristics that qualify it as a ‘lamp and lighting fitting’ as opposed to merely an ‘electric motor and generator’?**
+
+The crux of the dispute revolves around whether the solar home systems, characterized by their components, primarily function as lamps or as power generation devices ([paras 4-5]).
+
+## R – Rules: Applicable Legal Standards ([paras 5-6])
+
+The court relied on the definitions and characterizations provided within the Customs and Excise Act, particularly focusing on the relevant tariff headings:
+- **TH 8501.31:** Relates to electric motors and generators.
+- **TH 9405.40.21:** Refers to ‘other electric lamps and lighting fittings,’ specifically those containing light-emitting diodes (LEDs) as a source of illumination ([para 5]).
+
+Additionally, the court considered the Explanatory Notes to the Harmonized Commodity Description and Coding System, which stipulate that composite machines must be classified according to their predominant function and essential characteristics ([paras 6-7]).
+
+## A – Application: Analysis of Court's Reasoning ([paras 8-15])
+
+The court examined the functionality of the solar home systems in detail. It acknowledged that the products consisted of three main components: a solar panel, a power bank, and LEDs, which collectively operate as fully functional lamps. The court criticized the appellant's assertion that the classification should rest solely on the generation of electrical power, emphasizing that the product is presented as a complete lighting solution. Notably, the presence of LEDs and the ability to power electronics indicated that the primary use of the product was indeed as a lamp ([paras 9-10]).
+
+The court contrasted its findings with previous case law, particularly referencing **Ellies Electronics (Pty) Ltd v The South African Revenue Service** [2019] ZAGPPHC 61, where the essential characteristic of the product significantly influenced its classification. By demonstrating parallels with prior judgments, the court demonstrated that the essential purpose of the product defines its classification. The emphasis was placed on the intended use at the time of importation, rather than its potential adaptability ([paras 11-15]).
+
+## C – Conclusion: Court’s Holding and Implications ([paras 16])
+
+In light of the findings, the Supreme Court of Appeal concluded that the solar home systems were correctly classifiable under tariff heading 9405.40.21, recognizing them as combining components that are primarily designed for lighting purposes. Thus, the appeal was dismissed with costs, and an amendment to the High Court's order was made, formally classifying the product under the correct tariff heading ([para 16]).
+
+The implications of this case extend beyond the immediate parties, indicating a clarifying precedent in how solar energy products are classified under South African customs law, significantly affecting similar future adjudications and ensuring that aspects of functionality and intended use are critically evaluated in tariff classification matters. 
+
+---
+
+**References:**
+* Pacific Solar Technologies (Pty) Ltd v The Commissioner of the South African Revenue Service [2022] ZASCA 166.
+* Ellies Electronics (Pty) Ltd v The South African Revenue Service [2019] ZAGPPHC 61.
+* Commissioner for the South African Revenue Services v LG Electronics SA (Pty) Ltd [2010] ZASCA 79; 2012 (5) SA 439 (SCA).
+
+---
+
+This case note has been structured to serve as a comprehensive legal analysis of the Supreme Court of Appeal's judgment, adhering to the FIRAC methodology while maintaining an academic tone suitable for citation and further legal discussion.

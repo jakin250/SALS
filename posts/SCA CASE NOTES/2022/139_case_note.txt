@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Etienne Jacques Naude & Louis Pasteur Hospital Holdings (Pty) Ltd v Louis Pasteur Medical Investments (Pty) Ltd & Others [2022] ZASCA 139
+
+**Neutral Citation:**  
+Naude and Another v Louis Pasteur Medical Investments (Pty) Ltd and Others (31/2021) [2022] ZASCA 139 (24 October 2022) 
+
+## F – Facts: Relevant background and procedural history ([paras 1–21])
+
+This case involves an appeal brought by Etienne Jacques Naude (the first appellant) and Louis Pasteur Hospital Holdings (Pty) Ltd (the second appellant) against a decision concerning business rescue proceedings for Pasteur Holdings. Pasteur Holdings, a healthcare provider operating a hospital in Pretoria, entered voluntary business rescue in June 2018, appointing Naude as its business rescue practitioner.
+
+Louis Pasteur Medical Investments (Pty) Ltd and Bonitas Medical Fund are joint shareholders of Pasteur Holdings, holding 74% and 26% of the shares, respectively. Complications arose when Bonitas obtained a judgment against Pasteur Holdings, making it and the South African Revenue Service (SARS) the largest creditors with over 92% of voting interest.
+
+On June 6, 2019, Naude convened a creditor meeting where a proposed business rescue plan was rejected. Subsequently, he sought to challenge this rejection through a “no vote application” but delayed beyond the stipulated timeframe under the Companies Act 71 of 2008 (the Act). 
+
+In response to growing tensions among affected parties, including the terminated sub-lease with First Clinic Properties One Limited, various applications for liquidation and reviews emerged, leading to judicial management under Judge Ranchod. A significant prelude to the appeal involves an urgent application from Pasteur Investments and First Clinic, which challenged the authority of Naude to convene creditor meetings and sought to interdict further processes pending resolution of the no vote and liquidation applications ([paras 4-14]).
+
+Judicial orders allowed Pasteur Investments and First Clinic to participate in business rescue proceedings, based on a claim that Bonitas had abandoned its claims. This led to the appellants appealing the High Court decision that granted legal standing to these parties despite their alleged ceded claims, asserting that such standing had no grounds as they were not recognized creditors ([paras 15-16]).
+
+The appeal was set for hearing, but shortly prior, Naude filed to remove the appeal from the roll, indicating that preceding disputes had been settled. Lenmed Investments, a contentious party seeking intervention, opposed this removal and argued that the appeal remained live due to unresolved issues of legal standing, thus intertwining the mootness and intervention applications together ([paras 17–20]).
+
+## I – Issues: Legal or constitutional questions ([paras 16, 21])
+
+The central issue arises out of the mootness of the appeal: whether the settlement between the primary litigants renders the issues moot and thus inappropriate for adjudication. Additionally, whether Lenmed Investments, asserting rights as an “affected person” under section 128(1)(a) of the Act, retained standing to intervene in the proceedings despite the resolution between the appellants and the primary respondents.
+
+Further legal questions include interpreting the implications of Uniform Rule 41(2), regarding abandonment of judgments, the discretion of the courts to exercise jurisdiction over moot appeals, and consequences surrounding the legal standing of shareholders and creditors under the Companies Act ([paras 21, 18]).
+
+## R – Rules: Legal authorities and precedents relied upon ([paras 17–19])
+
+1. **Companies Act 71 of 2008** - Central to the proceedings is the Act, particularly sections related to business rescue (s 153) and creditor participation in proceedings (s 145), which dictate the criteria for establishing legal standing.
+  
+2. **Uniform Rule 41(2)** - This rule allows for the abandonment of court decisions, suggesting that the removal or abandonment of judgments can impact the live status of appeals.
+  
+3. **Legal Precedents**:
+   - **Kruger v Joint Trustees of the Insolvent Estate of Paulos Bhekinkosi Zulu (2017)** - This case asserts the discretionary power of courts over moot appeals if public interests or discrete legal issues remain ([para 17]).
+   - **Van Staden v Pro-Wiz (2019)** - This case discussed the issue of legal standing and reiterated the principle that courts may consider matters in the public interest even in moot situations ([para 19]).
+
+## A – Application: Analysis of how the court applied the law ([paras 21–23])
+
+In addressing mootness, the court reaffirmed that an appeal is generally considered moot when no existing controversy exists that requires judicial resolution. However, it noted exceptions where the potential public interest or discrete legal issue necessitates adjudication. 
+
+Counsel for Naude and Pasteur Holdings argued effectively that the settlement negated the practical effects of the appeal, thereby rendering it moot. Conversely, Lenmed contended that without formal withdrawal, the appeal maintained urgency and relevance, pressing that the court should resolve the standing issue to prevent further disputes.
+
+The judgment concluded that the sustained legal interests underlying the appeal had indeed settled through the dispute resolution between the primary litigants, thus voiding any need for adjudication. Moreover, the reliance on section 16(2)(a)(i) of the Superior Courts Act was deemed appropriate in that the removal of the appeal eliminated any plausible outcome, validating the moot ruling ([paras 21-22]).
+
+On the intervention application by Lenmed, which claimed to possess a right to standing based on its acquired creditor claims, the court held that the mootness of the primary appeal rendered Lenmed's interests irrelevant, underscoring that no live dispute permitted intervention. The application was thus struck from the roll ([para 23]).
+
+## C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 23])
+
+The Supreme Court of Appeal ultimately declared the appeal moot, asserting that the resolution of disputes between Pasteur Holdings and its creditors extinguished the need for judicial review of the contested ruling. Lenmed Investments' application for intervention was also dismissed due to the lack of a live issue for intervention.
+
+The implications of this ruling were twofold. Firstly, it underscored the significance of dispute resolution among primary litigants in avoiding protracted litigation. Secondly, it reaffirmed the principles under sections of the Companies Act regarding creditor rights and the court's discretionary powers in handling moot cases, drawing boundaries on claims to judicial access when no contested issues remain ([para 22-23]).
+
+The court's holding reflects a judicious approach toward preserving judicial resources and directing focus on matters substantiating legal standing, thereby contributing to the evolving jurisprudence surrounding business rescue and creditor engagement in South African company law.

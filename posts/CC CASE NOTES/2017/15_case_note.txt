@@ -1,0 +1,44 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Off-Beat Holiday Club and Another v Sanbonani Holiday Spa Shareblock Limited and Others [2017] ZACC 15
+
+## F – Facts
+
+The case concerns a dispute between Off-Beat Holiday Club and Flexi Holiday Club (the Applicants) against Sanbonani Holiday Spa Shareblock Limited and other associated respondents. These parties were involved in a share block scheme operating in Hazyview, established by Sanbonani Holiday Spa Shareblock Limited and Sanbonani Development Limited ([2]–[3]).
+
+The Clubs became minority shareholders in Shareblock in 1991, acquiring a combined 29.14% shareholding. They later contested the management practices led by Hans Michael Harri, the controlling figure behind both Shareblock and Development. Allegations came forth regarding improper financial management and inequitable allocation of shares, prompting the Clubs to pursue legal action under two primary claims: one grounded in Section 252 of the Companies Act 61 of 1973, asserting the invalidity and inequitable nature of the shares, and the other a derivative action under Section 266 ([4]–[11]).
+
+Upon initial litigation, the High Court dismissed the Clubs’ Section 252 claim as having prescribed, interpreting it as a debt under the Prescription Act. The Supreme Court of Appeal upheld this interpretation ([12]–[15]).
+
+## I – Issues
+
+The case presents several key legal questions:
+
+1. **Nature of the Section 252 Claim**: Does a claim under Section 252 of the Companies Act constitute a "debt" for purposes of prescription under the Prescription Act 68 of 1969? ([25])
+
+2. **Interpretation of "Debt"**: Following the precedent set in *Makate v Vodacom (Pty) Ltd*, what is the proper definition of "debt" as it applies within the context of the Prescription Act? ([25])
+
+3. **Continuing Wrongs**: If the Section 252 claim is deemed a debt, do the actions alleging oppressive conduct constitute a continuing wrong and thus avoid prescription? ([25])
+
+## R – Rules
+
+The court primarily relied on the following legal authorities:
+
+1. **Companies Act 61 of 1973**: Specifically, Section 252 grants relief against unfairly prejudicial conduct directed at minority shareholders, enabling them to seek judicial intervention and appropriate remedies.
+
+2. **Prescription Act 68 of 1969**: Defines a "debt" in terms of obligations which can be extinguished through prescription, typically entailing monetary obligations or obligations to render a service.
+
+3. **Precedents**: The interpretation of "debt" was notably affected by the rulings in *Escom* and *Desai*, with *Makate* significantly narrowing what constitutes a "debt" under the Prescription Act to obligations for monetary payment or delivery of goods, excluding broader interpretations ([44]–[48]).
+
+## A – Application
+
+The Constitutional Court began by reaffirming the specific context of Section 252 claims, indicating that these do not fit the definition of a "debt" in the narrow sense outlined by *Makate*. The Court reasoned that a claim under Section 252 does not demand the payment of money or the delivery of goods, nor does it create a conventional obligation which can be extinguished by prescription. Instead, it asserts rights against conduct considered to be unfair, implying a judicial determination of the parties' rights rather than a mere transactional obligation ([29]–[50]).
+
+Moreover, the Supreme Court of Appeal had incorrectly interpreted the broad meaning of "debt" from *Desai*, resulting in an erroneous conclusion that the Clubs' claims were subject to prescription. The Constitutional Court underscored that a technical definition of “debt” cannot be applied to categorize equitable claims that fundamentally call for judicial review of corporate governance decisions ([45]–[49]).
+
+On the more nuanced question of whether the ongoing conduct by the respondents constituted a "continuing wrong," the Court acknowledged that such considerations could factor into assessing the overall claims but ultimately did not decide on that point, as it found sufficient grounds to conclude the Section 252 claims should not be subject to the Prescription Act in the first place ([53]).
+
+## C – Conclusion
+
+The Constitutional Court upheld the applicants’ appeal on the matter concerning Section 252 claims, declaring that such claims do not constitute a "debt" as defined by the Prescription Act. The appeal was remitted back to the High Court for adjudication of the merits of the claims under Section 252, recognizing the critical importance of equitable relief for minority shareholders in corporate governance. The Court further mandated that costs be awarded in favor of the applicants, finally addressing the need for fair treatment of shareholders in the face of oppressive actions. This ruling delineates clearer boundaries between equitable relief mechanisms and conventional debt obligations, significantly impacting corporate law in South Africa ([55]–[56]).

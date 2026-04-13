@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: Estelle Le Roux and Another v Dielemaar Holdings (Cape) Pty Ltd and Another (414/2023)
+
+## F - Facts
+This case arises from an initial application for leave to appeal the judgment delivered by the Western Cape Division of the High Court on 25 November 2022, where Dielemaar Holdings (Cape) (Pty) Ltd, along with IPIC Properties (Pty) Limited (collectively referred to as “the respondents”), had successfully sued Estelle le Roux (the first applicant) and Marthinus van der Spuy le Roux (the second applicant), who acted as sureties and co-principal debtors for a close corporation named Be Positive Trading (the principal debtor). The case revolves around three commercial property tenancy lease agreements entered into between 2008 and 2011, for which the applicants had provided deeds of suretyship regarding debts owed to the respondents due to the principal debtor's default in rental payments ([paras 1–3]).
+
+The respondents instituted legal action against the applicants after the principal debtor fell into arrears of R32 782.75, R198 782.59, and R803 841.29 for the respective leases, following which the actions against both the principal debtor and the sureties were consolidated and stayed pending arbitration ([paras 5–6]). The arbitrator later held that she lacked jurisdiction over the sureties, leading to the issuance of a default award against the principal debtor, which the respondents sought to execute in a claim against the sureties in the high court ([paras 7-8]).
+
+Post-arbitration, the main issues before the high court were the defences of prescription and res judicata raised by the applicants ([paras 9-20]).
+
+## I - Issues
+The primary legal questions that arose from the proceeding were: 
+
+1. Did the claims against the applicants prescribed given the actions initiated in different courts?
+2. Was the reliance by a surety on a counterclaim of the principal debtor permissible, despite the claims having potentially prescribed?
+3. Should leave to appeal be granted based on the possibility of success of the appeal and the existence of compelling reasons to do so ([paras 8–22])?
+
+## R - Rules
+The pertinent legal principles and statutory provisions concerning the case include:
+
+1. **Prescription Act 68 of 1969** – Particularly:
+   - *Section 15*, which stipulates that the running of prescription is interrupted by the service of process for claims.
+   - *Section 15(2)* clarifying that any interruption lapses unless the creditor successfully prosecutes the claim to final judgment.
+   - *Section 13(1)(f)*, indicating that the completion of prescription can be delayed when the debt is subject to arbitration.
+
+2. **Res Judicata (Issue Estoppel)** – As per principles illustrated in *Jans v Nedcor Bank* and *Caesarstone Sdot-Yam Ltd v World of Marble and Granite 2000 CC*, where the continuity in the subject matter and parties in prior judgments can block subsequent claims on the same grounds.
+
+## A - Application
+The court systematically evaluated whether the plaintiffs' claims had expired under the Prescription Act. The respondents argued that the failure to prosecute the claims in the regional court and the subsequent referral to arbitration did not constitute abandonment of the claims but were stayed per mutual agreement.
+
+The court held that the appointment of an arbitrator had indeed interrupted the prescription period, and as such, the claims were still alive ([para 11]). Therefore, the applicants' assertions regarding the prescription were rejected. The court also reinforced the principle established in *Jans v Nedcor Bank*, asserting that the interruption of prescription concerning the principal debtor’s debt similarly influenced the surety in cases where both were bound as co-principal debtors.
+
+In terms of res judicata, the Court emphasized that the applicants' withdrawal from the arbitration proceedings resulted in their failure to prosecute their counterclaim; hence they were barred from relitigating issues deliberated in the arbitration ([paras 19–21]).
+
+## C - Conclusion
+The Supreme Court of Appeal ruled to dismiss the application for leave to appeal the high court's decision, concluding that there was no reasonable prospect for a successful appeal. The defense of prescription was not upheld, as the actions remained valid until finalization of the arbitration, which had interrupted the prescription period. Furthermore, the applicants' failure to pursue their counterclaim in arbitration rendered them estopped from contesting the matter again with the same evidence and parties. Thus, the court agreed with the high court's order filing that costs should follow the unsuccessful outcome of the appeal ([paras 22–23]).
+
+In summary, the ruling affirmed that the intertwined nature of surety obligations and the requirement for continuous action in respect of the principal debtor’s liabilities ensure that sureties cannot escape their obligations merely due to a breakdown in procedures involving the principal debtor. The dismissal of the appeal reflects both the resilience of contractual commitments in South African law and the significance of adhering to procedural norms during litigation.

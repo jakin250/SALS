@@ -1,0 +1,46 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2008
+
+# Case Note: Nedbank Limited v Jose Manuel Pestana (142/08) [2008] ZASCA 140
+
+## FIRAC Method
+
+### F – Facts
+The case concerns a banking transaction initiated on 4 February 2004 involving the appellant, Nedbank Limited, and the respondent, Jose Manuel Pestana. The pivotal facts are as follows: 
+
+1. **Account Background**: Pestana maintained a current account at Nedbank’s Carletonville branch since 1969. A namesake, Joseph Michael Pestana, also had an account at the same branch ([para 3(a)]).
+   
+2. **Fund Transfer**: On the day of the incident, Joseph Michael Pestana's account held a credit of R496,546.40. He instructed the bank to transfer R480,000 from his account to Jose Manuel Pestana’s account. At 11:33, the transfer was executed, and the plaintiff's account was credited accordingly ([para 3(b), 3(c)]).
+   
+3. **Tax Indebtedness**: On the same day at 08:44, the bank’s head office received a notice from the South African Revenue Service (SARS) under section 99 of the Income Tax Act 58 of 1962. This notice declared Pestana an agent for SARS and required the bank to make payments on Pestana's behalf until the tax debt of approximately R340 million was settled ([para 3(d)]).
+   
+4. **Reversal of Transfer**: After the credit to Jose Manuel Pestana’s account, the branch was informed about the SARS notice. Subsequently, without Jose's consent, the bank reversed the transfer and paid R496,000 to SARS from Pestana's account ([para 3(f), 3(g)]).
+
+5. **Legal Proceedings**: The core question presented before the courts was whether the bank was entitled to reverse the credit without the plaintiff's authority based on its appointment under section 99 of the Act. The trial court ruled in favor of the bank, but this decision was overturned by the full court, which granted judgment for the plaintiff ([para 4]).
+
+### I – Issues
+The central legal issue is whether Nedbank, having been appointed as an agent for SARS under section 99 of the Income Tax Act, had the right to reverse the transfer of R480,000 to Jose Manuel Pestana’s account without his consent ([para 4]). This raises broader questions regarding the bank's obligations to its customer following erroneous transfers and the legality of reversing completed transactions.
+
+### R – Rules
+1. **Evidence in Banking**: It is established that bank entries serve as prima facie evidence of transactions made. However, the legitimacy of these entries can be contested if it can be shown that they were made in error ([para 8]).
+   
+2. **Reversal of Transfers**: The court outlined precedents where credit entries can be reversed, including instances of fraud, conditionally accepted cheques, and mistaken transactions ([para 9]). The principles set out in cases such as *Oneanate Investments* indicate that once a transfer is made, the funds belong to the receiving party, and the bank cannot unilaterally reverse this without valid legal grounds ([para 10]).
+
+3. **Applicability of Section 99**: The court evaluated whether the notice served by SARS effectively gave the bank authority to act as an agent by freezing Pestana's account or if it created an obligation to redirect funds to SARS ([para 12]).
+
+### A – Application
+The court analyzed the legality of the bank’s actions following the received notice under section 99. The appellant's assertion rested on the argument that their appointment as an agent invalidated the transfer, as it preceded the plaintiff's instruction to credit the account. Yet, the court found that the appointed role did not equate to an immediate transfer of Pestana’s rights over his funds. 
+
+1. **Bank’s Knowing of Instruction**: While the bank’s head office was cognizant of the tax debt, the branch executing the transaction neither had knowledge of the SARS notice when processing the transfer nor acted in bad faith. Consequently, the funds were validly credited to Jose Manuel Pestana’s account ([para 16]).
+
+2. **Legal Intent**: The completed transaction was viewed as a bona fide act by the bank's branch. The law implies that upon the credit of funds, the bank intended to accept the instruction fully, and thus, its subsequent reversal lacked justification ([para 16]).
+
+3. **Completion of Juristic Act**: The transfer constituted a completed juristic act, which, once executed, could not be undone, reflecting standard banking practices ([para 15]-[16]).
+
+### C – Conclusion
+The Supreme Court of Appeal concluded that Nedbank was not entitled to reverse the credit transfer to Jose Manuel Pestana’s account without his authority. The court emphasized the principle that funds are owned by the recipient following a valid credit transaction. The bank's reliance on section 99 did not legitimize the unilateral reversal of the transaction in the absence of consent from Pestana, whose account was not technically frozen under the appointment notice from SARS. 
+
+The appeal was ultimately dismissed with costs awarded to the plaintiff, thereby reinforcing the importance of banking integrity and the necessity for banks to honour legitimate transfers ([para 17]).
+
+### Implications
+This ruling underscores critical issues in banking law surrounding the autonomy of customers' funds, highlighting the boundaries of banks' authority to reverse transactions based on third-party obligations. It serves as a precedent in upholding client rights in financial transactions, especially regarding unauthorized reversals tied to government claims. The decision prompts reevaluation of banking practices concerning timely and informed communication between branches and corporate orientation in cases involving tax claims.

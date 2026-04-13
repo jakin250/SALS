@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note for Emontic Investments (Pty) Ltd v Bothomley NO and Others (Case no 1123/2022) [2024] ZASCA 1 (9 January 2024)
+
+## F - Facts
+
+In the case of *Emontic Investments (Pty) Ltd v Bothomley NO and Others*, the Supreme Court of Appeal addressed a dispute involving the insolvency of Montic Dairy (Pty) Ltd (in liquidation) (Montic). Emontic Investments (Pty) Ltd (Emontic), the appellant, owned the premises from which Montic operated and was a creditor due to unpaid rent amounting to R5,675,536.19. Montic merged with Sonnendal Dairy (Pty) Ltd, but operational difficulties, including a major strike and technical issues, led to financial distress. Eventually, Montic was placed under final winding-up on June 14, 2016, following the failure of business rescue attempts and significant debts amounting to over R112 million ([paras 2–6]).
+
+Emontic, as a secured creditor, held a common law landlord's lien over the movable property on the premises. While Montic was liquidated, Emontic notified the joint liquidators of its intention to sell the secured property in accordance with Section 83 of the Insolvency Act 24 of 1936 (the Insolvency Act) ([para 8]). Emontic held an auction on November 8, 2016, resulting in net proceeds of R6,745,561.78, part of which it claimed it was entitled to set off against post-liquidation rental debts ([paras 9–10]).
+
+Despite an initial payment related to the net proceeds, the liquidators sought the remainder, leading to judicial proceedings where Emontic opposed the order by claiming the right to set-off based on administrative rental for the period following liquidation. The High Court ruled in favor of the liquidators, rejecting Emontic's set-off claim, which prompted the appeal now under consideration ([paras 10–12]).
+
+## I - Issues
+
+The primary legal issues before the Supreme Court of Appeal were:
+
+1. Whether a creditor who realises its security in terms of Section 83(3) of the Insolvency Act can claim set-off for a post-liquidation debt against the proceeds of the property that must be paid to the trustee under Section 83(10) ([paras 1, 12, 20]).
+2. The interpretation of “net proceeds of the realization” in the context of Section 83(10) within the framework of the insolvency law and how it impacts the rights of creditors vis-à-vis set-offs ([paras 15–22]).
+
+## R - Rules
+
+The court derived its legal principles from the following key provisions of the Insolvency Act and established case law:
+
+1. **Section 83 of the Insolvency Act** governs the realization of securities by creditors and outlines the debts owed to the trustee following realisation. Specifically, Section 83(10) mandates that a creditor who has realised security must pay the net proceeds to the trustee ([para 20]).
+
+2. **Set-off Principles**: Set-off may arise when both debts are of the same nature, liquidated, due, and payable by and to the same parties, as set out in common law ([para 16]).
+
+3. **Concursus Creditorum**: The principle which stipulates that a single creditor cannot alter the distribution scheme laid out by insolvency laws, aiming at protecting the collective rights of all creditors by ensuring they share in the proceeds of the insolvent estate ([para 17]).
+
+4. Case law interpreting obligations under the Insolvency Act clarified that the duties imposed by statute on creditors and liquidators are not reciprocal, meaning that a creditor cannot withhold payment due to the liquidator while awaiting payment of their own claims ([para 21]).
+
+## A - Application
+
+The court began its analysis by reaffirming the statutory obligations dictated by Section 83(10) to clarify the duties of the creditor (Emontic) and liquidators. It interpreted “net proceeds of the realization” as encompassing only those costs directly associated with the sale of the secured property, with the post-liquidation rental claims being distinct and categorized as costs of liquidation, payable from the free residue of the estate rather than from the sale proceeds ([paras 15–20]).
+
+The Court maintained that the explicit language of the statute precludes any potential for set-off against the proceeds owed by the creditor to the liquidator. By outlining the function of the liquidator and the parameters for creditor involvement, the judgment underscored that the liquidation process is one of collective rather than individual creditor resolution ([paras 22, 24]).
+
+On Emontic's defence of set-off, the Court highlighted the absence of compatibility in the debts’ nature—since post-liquidation rental claims automatically categorize as administrative costs to be paid from the free residue rather than direct liabilities owed to Emontic. The court asserted that all creditor claims, including Emontic's, must adhere to the distributive scheme outlined in the Insolvency Act, thus sustaining the integrity of the collective creditor rights ([paras 17–24]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal held that the appeal brought by Emontic Investments was without merit and thus dismissed it with costs ([para 25]). The ruling clarified that creditors who realize securities under the Insolvency Act cannot offset post-liquidation debts against the proceeds they are obliged to remit to liquidators, thereby reinforcing the principles of collective creditor recovery and the distinct nature of post-liquidation liabilities. This decision serves to ensure that the distribution of an insolvent estate adheres strictly to legislative provisions, thus preserving clarity and fairness in insolvency law while safeguarding the interests of all creditors involved.
+
+In conclusion, this ruling not only affirms the procedural rigor required under the Insolvency Act but also sets a precedent that substantially defines the limitations imposed on creditors in insolvency procedures, emphasizing the importance of statutory compliance over individual creditor claims.
+
+---
+
+This case note is designed to cater to legal practitioners and scholars interested in insolvency law and its application within the South African legal framework. Proper citation adheres to OSCOLA guidelines, ensuring that references are precise and authoritative.

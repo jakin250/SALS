@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: FIRAC Analysis of Pasiya and Others v Lithemba Mining (Pty) Ltd and Others [2023] ZASCA 169
+
+## F – Facts
+The appellants, a group of shareholders in Lithemba Mining (Pty) Ltd (LM), sought declaratory relief from the Eastern Cape Division of the High Court, which was dismissed with costs. In their application, the appellants contended that a loan agreement between LM and Lithemba Investments (Pty) Ltd (LI), made in 2009, was unlawful. They sought to set aside both the loan agreement and purported amendments to LM's shareholding resulting from it, arguing that these actions unlawfully diluted their shares ([1-2], [39]).
+
+LM was formed in 2005 from an earlier company to manage the Wonderfontein Coal Project, a joint venture requiring significant capital investment ([3-7]). In March and April 2009, facing a capital call to fund the project, LM's board resolved to obtain a short-term loan from LI and to increase its authorized share capital from 10,000 to 50,000 shares to secure the loan ([11-13], [16-19]).
+
+Despite the Board's unanimous resolutions at the general meeting on 18 April 2009—waiving the 21-day notice period—substantial delays in payment obligations led LI to perfect its security by increasing its shareholding from 12.5% to 38.11% by issuing new shares ([29-30]), subsequently triggering dissatisfaction from the appellants. Claims were made that the loan was structured to benefit LI and its shareholders disproportionately at the detriment of the appellants ([40]).
+
+Following multiple years of failed dispute resolution attempts, the appellants pursued legal action in July 2020, long after they were dismissed as “frivolous” and “vexatious” by LM ([39-40]).
+
+## I – Issues
+This case presented two primary legal questions:
+
+1. Whether the High Court erred in dismissing the appellants’ application for declaratory relief, thereby failing to address the merits of their claims.
+2. Whether the High Court misdirected itself in awarding costs on a party-and-party scale rather than a punitive scale, given the respondents' assertions that the appellants’ claims were vexatious ([2], [43]).
+
+## R – Rules
+The legal framework pertinent to this case includes:
+
+1. **Superior Courts Act 10 of 2013**: Section 21(1)(c) permits the court to grant declaratory relief upon an application by an interested person regarding existing, future, or contingent rights.
+2. **Companies Act 61 of 1973 and Companies Act 71 of 2008**: The appellants claimed violations of statutory authorization processes for the loan and changes to shareholding, arguing that the necessary approvals from shareholders were not obtained.
+
+Additionally, in *Cordiant Trading CC v Daimler Chrysler Financial Services (Pty) Ltd* ([2006] 1 All SA 103 (SCA)), a two-stage test was articulated for seeking declaratory relief. This involves establishing an interest in the right or obligation and then determining whether the case is a proper one for exercising discretion ([46]).
+
+## A – Application
+The court examined the High Court's application of the two-stage test for declaratory relief and found that the appellants met the first prong by demonstrating their interest in the shareholding as shareholders. However, the court concluded that the High Court acted judiciously in its discretion to deny relief due to the undue delay in bringing the application ([46-50]). 
+
+The appellants had waited 11 years after the controversial decisions before instituting proceedings, failing to act on legally available remedies or to contest the share dilution in a timely manner. The court noted that LM continued to operate under the new shareholding structure, with consequential dividends paid out based on the new equity distributions ([37], [49-50]).
+
+The court also emphasized that the respondents demonstrated compliance with the procedural requirements of the Companies Act through proper resolutions and approvals for both the loan agreement and the altered share capital, which were duly registered ([60-80]). The court found no evidence of bad faith or conflicts of interest impacting the Board's decision, which was deemed necessary to secure LM’s operating capacity under financial distress ([81-82]).
+
+In regards to the costs dispute, the court indicated that while the appellants had a right to challenge corporate decisions, the High Court's discretion to set costs on a party-and-party basis was not misapplied, given the lack of evidence to support a punitive costs order ([83]).
+
+## C – Conclusion
+The Supreme Court of Appeal dismissed the appeal and the respondents' cross-appeal regarding costs. The court confirmed the validity of the loan agreement and the process by which LI's shareholding was increased, aligning with the provisions of the 1973 Companies Act. The case exemplifies the strict scrutiny applied to corporate governance issues and the importance of timely actions by shareholders to preserve their rights. The ruling affirms the legal integrity of properly executed corporate actions taken under financial exigencies and reinforces the need for shareholders to engage proactively in corporate matters ([84]).
+
+This decision carries significant implications for shareholders and corporate governance, emphasizing not only the importance of statutory compliance but also the need for timely challenge to corporate decisions to protect their interests.

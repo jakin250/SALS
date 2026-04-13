@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+---
+
+### FIRAC Case Note: Federation Internationale de Football Association v Kgopotso Leslie Sedibe & Another ([2021] ZASCA 113)
+
+#### F – Facts
+In this matter, the appellant, the Federation Internationale de Football Association (FIFA), pursued an appeal against a decision made by Vorster AJ of the Gauteng Division of the High Court, which dismissed FIFA's application to set aside an ex parte order that attached all trademarks owned by FIFA to establish jurisdiction for an anticipated review of a disciplinary decision ([paras 1–2]).
+
+The key facts are as follows:
+- Kgopotso Leslie Sedibe, the first respondent, who previously served as the Chief Executive Officer (CEO) of the South African Football Association (SAFA), was sanctioned by FIFA in 2016 for match-fixing and subsequently suspended for five years. He was also ordered to pay a substantial fine ([paras 1–3]).
+- In July 2018, Sedibe sought an ex parte order from the High Court for the attachment of FIFA's trademarks in South Africa to establish jurisdiction for a review application regarding FIFA’s disciplinary decision ([para 3]).
+- On 22 August 2018, the High Court granted Sedibe’s application based on the claim that the attachment of trademarks would serve to found jurisdiction ([para 4]).
+- FIFA objected to this order by arguing that South African courts lacked jurisdiction and contested the validity of the service method employed, which was conducted via email in contravention of Swiss law ([paras 5–9]).
+
+#### I – Issues
+The core issues presented to the Supreme Court of Appeal revolve around whether:
+1. The High Court had jurisdiction to grant an order attaching FIFA's trademarks to establish jurisdiction for Sedibe's anticipated review application ([paras 1, 6]).
+2. The ex parte order permitting email service of court documents constituted valid service according to both South African and Swiss law ([para 5]).
+3. The nature of the claims being pursued by Sedibe justified the attachment of FIFA's trademarks, given that claims must sound in money or be related to actions in rem for movables ([paras 7, 21]).
+
+#### R – Rules
+In adjudicating this case, the court referenced multiple legal principles, including:
+- The well-established principles regarding the attachment of property to establish jurisdiction (ad fundandam jurisdictionem) and to confirm existing jurisdiction (ad confirmandam jurisdictionem) ([paras 24–27]).
+- Jurisdictional grounds must align with the claim’s nature; specifically, the right to attach property is typically restricted to claims that are either in personam relating to monetary claims or in rem for movable goods ([paras 26–27]).
+- The common law and statutory provisions in South Africa, including the provisions of the Trade Marks Act, must complement the jurisdictional requirements as set forth in the Superior Courts Act ([paras 28–29]).
+
+Additionally, FIFA’s reliance on Swiss law regarding service of documents was deemed crucial in determining the validity of the orders sought by Sedibe ([para 30]).
+
+#### A – Application
+The court evaluated FIFA's objections systematically:
+1. **Jurisdiction**: The Supreme Court found that the High Court's reliance on an attachment to found jurisdiction over FIFA was misplaced. The court affirmed that South African Courts do not hold jurisdiction to set aside decisions of an entity governed by its own regulatory framework located abroad ([paras 21, 32]).
+2. **Nature of Claims**: The court sought to clarify that Sedibe’s application was founded not on a monetary claim but on a challenge to the disciplinary decision of FIFA that did not align with the legal basis for an attachment ([paras 23, 24]). The speculation by the High Court that future monetary claims could follow the review proceedings did not rectify the absence of a present action sounding in money ([paras 21, 23]).
+3. **Method of Service**: The court expressed skepticism regarding the lawfulness of ordering service via email, noting the requirement for compliance with Swiss law regarding international service of process. However, ultimately determined that the improper service did not form the sole basis for overturning the attachment order, as the jurisdictional issue sufficed to resolve the appeal ([paras 30–32]).
+
+#### C – Conclusion
+The Supreme Court of Appeal upheld FIFA’s appeal, determining that the High Court's previous order was fundamentally flawed due to its erroneous assumption of jurisdiction based on the attachment of FIFA's trademarks. Consequently, the court set aside the High Court's orders and mandated that Sedibe would be responsible for costs ([paras 33]).
+
+The court's ruling underscores the limited scope of South African jurisdiction in matters involving foreign entities and the necessity for claims to conform to established legal criteria for jurisdiction based on both statutory and common law principles. This decision also serves to reaffirm the importance of procedural correctness, especially in international contexts, thus illuminating the complexities involved in jurisdictional assertions in cross-border disputes.

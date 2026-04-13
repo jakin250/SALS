@@ -1,0 +1,79 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# FIRAC Case Note
+
+## **Case Title**: *Commissioner for the South African Revenue Service v De Beers Consolidated Mines Limited*  
+**Neutral Citation**: [2012] ZASCA 103 (1 June 2012)  
+**Case No**: 503/11  
+**Court**: The Supreme Court of Appeal of South Africa  
+**Judges**: Navsa, Van Heerden, Leach JJA, McLaren, and Southwood AJJA  
+**Heard**: 7 May 2012  
+**Delivered**: 1 June 2012  
+
+---
+
+### **F - Facts** 
+
+[1] De Beers Consolidated Mines Ltd (DBCM) is an internationally renowned diamond producer. In November 2000, a consortium proposed a complex transaction whereby a new company would become the holding entity of both DBCM and its Swiss subsidiary, De Beers Centenary AG (DBAG) ([1]).
+
+[2] In assessing this proposal, DBCM hired NM Rothschild and Sons Ltd (NMR) as independent financial advisors to provide an assessment of the fairness of the consortium’s offer. Alongside NMR, DBCM also appointed various South African advisors to finalize this transaction ([2]).
+
+[3] NMR issued an invoice of US$19,895,965 for its services on 7 June 2001. DBCM settled this invoice, totaling R161,064,684. Simultaneously, local service providers provided advisory services and invoiced DBCM with VAT, which DBCM designated as input tax in its VAT returns ([3]).
+
+[4] On 18 October 2004, the Commissioner for the South African Revenue Service (the Commissioner) assessed NMR's services as "imported services," requiring DBCM to pay VAT amounting to R22,549,055.76, and disallowed input tax of R7,021,855.48 for VAT charged by local service providers ([4]).
+
+[5] DBCM’s appeal against these assessments was disallowed, leading to further appeals filed in October 2005 ([5]).
+
+[6] The Tax Court, presided over by Davis J, ruled DBCM's engagement with NMR did not constitute imported services, as it furthered DBCM's enterprise within the mining and diamond industry ([6]).
+
+[7] Consequently, the Commissioner appealed this finding along with DBCM's cross-appeal regarding local service VAT disallowance, raising the legal questions regarding the character of DBCM’s enterprise and the nature of the NMR services ([7]).
+
+--- 
+
+### **I - Issues** 
+
+[8] The central legal issues addressed by the court include:
+
+1. Whether NMR's services constituted "imported services" as defined in the Value-Added Tax Act 89 of 1991 (the Act) and were thus liable for VAT.
+2. Whether the VAT charged by local service providers qualifies as deductible input tax under the same Act, with particular attention to the definitions of “enterprise” and “taxable supplies” found in the Act ([8]).
+
+---
+
+### **R - Rules** 
+
+[9] The legal framework governing this case comprises the definitions and provisions outlined in the Value-Added Tax Act 89 of 1991, specifically:
+
+- **Imported Services**: Defined as a service made by a non-resident supplier to a resident recipient, where such services are utilized or consumed in South Africa otherwise than for making taxable supplies ([19]).
+- **Enterprise**: As per the Act, it includes any continuous or regular activity carried out by an individual or company in South Africa for the purpose of making supplies to others for a consideration ([20]).
+- **Taxable Supply**: Any supply of goods or services chargeable with tax under section 7(1)(a) of the Act ([21]).
+
+The statutory provisions affirm that if services are utilized for the purpose of making taxable supplies, they do not fall under the category of imported services ([50]).
+
+---
+
+### **A - Application** 
+
+[10] The court thoroughly examined whether NMR's financial advisory services were consumed in the course of making taxable supplies by DBCM. The court emphasized the distinction between overhead expenses related to a company’s core operations versus those aligned with statutory obligations towards shareholders.
+
+[11] DBCM argued that engaging NMR was essential for upholding its corporate duties, thereby linking the services to its mining enterprise. Conversely, the Commissioner contended these services were acquirable due to the context of a takeover—serving the interests of shareholders rather than the ongoing commercial enterprise of mining ([23], [25]).
+
+[12] The court asserted that while DBCM required the advice to fulfill statutory duties, these services did not enhance its core productive activities in diamond mining and thus should not be classified as utilized for making taxable supplies. Instead, they were to ensure compliance with various regulatory obligations, thereby removing them from being categorized as input tax deductible ([53]).
+
+[13] Furthermore, the court concluded that arguments drawing from comparative foreign precedents (e.g., BJ Services Company Canada v The Queen and FCT v The Swan Brewery Co. Ltd) were not directly applicable to the VAT context in South Africa, affirming the need to adhere to local statutory definitions ([54]).
+
+---
+
+### **C - Conclusion** 
+
+[14] Ultimately, the Supreme Court of Appeal upheld the Commissioner’s appeal, determining that NMR’s services constituted imported services under the Act. Consequently, the appeal was granted, and DBCM's cross-appeal concerning local VAT deductions was dismissed ([43]).
+
+[15] The judgment produced vital clarifications concerning the interpretation of “enterprise” and “imported services,” outlining the parameters under which corporate expenditures can be considered related to taxable supplies. The implications signify a stricter lens through which transactions involving professional fees, particularly in corporate restructuring scenarios, may be assessed in future VAT considerations ([53], [56]). 
+
+This case sets a significant precedent for the taxation of goods and services within corporate transactions, especially concerning compliance obligations as opposed to core operational tasks.
+
+--- 
+
+**Case Notes Prepared By**: [Your Name]  
+**Date**: [Current Date]  
+**Field**: Constitutional Law, South African Tax Law

@@ -1,0 +1,65 @@
+Case Note: The Republic of South Africa
+Source Folder: 2001
+
+# FIRAC Case Note
+
+**Case Title**: The Republic of South Africa  
+**Court**: Supreme Court of Appeal  
+**Case No**: 54/99  
+**Coram**: Nugent AJ A, Scott JA, Cameron JA  
+**Heard**: 23 February 2001  
+**Delivered**: 16 March 2001  
+
+## F - Facts
+
+In this case, the appeal stems from a decision made by Goldstein J in the Witwatersrand Local Division, wherein the respondent, Knight Frank South Africa (Pty) Ltd, was awarded a commission for facilitating the sale of a property owned by the appellant, Nach Investments (Proprietary) Limited ([1–2]). The core facts are as follows:
+
+1. The appellant owned immovable property in Germiston, which was leased to a tenant who had been granted a right of pre-emption. Specifically, this right stipulated that if the appellant received a purchase offer, the offer must be submitted to the tenant, granting them a 30-day option to purchase the property on identical terms ([3]).
+
+2. In early 1996, the appellant decided to sell the property and engaged the respondent as the estate agent under an exclusive mandate lasting 120 days, during which the agent would have the right to sell the property ([4]).
+
+3. Throughout the engagement, the respondent was aware that there was a tenant with a pre-emption right, and the tenant was also aware that the property was up for sale but did not intend to buy it immediately ([5]).
+
+4. In 1998, the respondent presented a written purchase offer from a prospective buyer, which the appellant then submitted to the tenant as required under the terms of the pre-emption right. The tenant subsequently exercised their right to purchase the property ([7]).
+
+5. Following the conclusion of the sale to the tenant, the respondent claimed commission, which the appellant disputed, arguing that the respondent was not the effective cause of the transaction and that the pre-emption right should exclude any claim for commission ([8]).
+
+## I - Issues
+
+The primary issues to be resolved by the court were:
+
+1. Whether the respondent was entitled to a commission as the estate agent under the terms of the engagement, given that the property sale was concluded through the tenant's exercise of their pre-emption right, rather than through a new buyer presented by the respondent ([1], [8]).
+   
+2. Did the contract implicitly require that the commission was owed only if sold to a purchaser introduced by the agent ([8], [9])?
+
+3. Whether the respondent was the effective cause of the sale, thereby permitting a valid claim for commission despite the tenant's pre-existing right of first refusal ([9]).
+
+## R - Rules
+
+The legal principles governing estate agent commissions are primarily dictated by the terms of the contract between the agent and the principal. It was cited by Jenkins LJ in *Midgley Estates Ltd v Hand* [1952] 2 QB 432 (CA) that one must refer to the contract to determine when commission becomes payable ([1]). 
+
+Additional precedents and legal principles included:
+
+- The distinction between "causa sine qua non" (necessary cause) and "causa causans" (actual cause) in determining whether an agent is the effective cause of a sale ([9]).
+  
+- The ruling in *Nelson v Hirschhorn* 1927 AD 190 established that the terms outlined in the engagement are crucial, and no legal obligation exists to imply terms regarding the agent's introduction of purchasers unless specifically agreed upon ([8]).
+
+## A - Application
+
+1. **Interpretation of the Contract**: The court emphasized that the agent's entitlement to commission depends on what the parties explicitly or implicitly agreed upon. In this case, the contract did not specify that commission was contingent upon the purchaser being introduced by the agent ([1–2], [8]).
+
+2. **Effective Cause of Sale**: The court found that the respondent fulfilled the necessary condition to earn a commission, as it was the creation of a new offer that triggered the tenant's exercise of their pre-emption right ([10]). The court applied the distinction between causative factors but recognized the complexity of establishing which factor was decisive. The directive from *Webranchek v L K Jacobs & Co Ltd* 1948 (4) SA 671 (A) regarding causative factors was prevalent in the argument ([9]).
+
+3. **Outcome of Inducement**: The court noted that the respondent's ability to bring forward an external offer was key to the tenant's decision to buy, establishing that the respondent's actions were indeed an effective cause of the eventual sale. The pre-existing relationship and knowledge of the property on the tenant's part were irrelevant if the inducement to purchase was rooted in the actions of the respondent ([10]).
+
+4. **Dismissing the Appeal**: The court found that the appellant's argument that the respondent was not entitled to commission due to the tenant's knowledge was insufficient to negate the commission claim. The presence of a pre-emption right does not diminish the agent's role as the effective cause ([11]).
+
+## C - Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, affirming Goldstein J's original ruling that the respondent was entitled to the commission. The court's ratio decidendi emphasized that:
+
+- The entitlement of the agent to commission does not hinge upon the introduction of a purchaser but rather on their role as the effective cause of the sale.
+
+- The tenant's exercise of the pre-emption right was directly influenced by the respondent's actions, establishing the necessary causative link required by law.
+
+This case reinforces the critical nature of contractual interpretation in agency relationships and underscores that the rights established in agency agreements are governed by the intentions of the parties rather than a rigid application of pre-existing legal standards. The implications of this ruling may extend to future interpretations of agency agreements, particularly concerning how commission claims intersect with rights of first refusal in property transactions ([11]).

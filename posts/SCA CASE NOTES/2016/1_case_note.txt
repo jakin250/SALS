@@ -1,0 +1,53 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: **City of Tshwane Metropolitan Municipality v PJ Mitchell** [2016] ZASCA 1
+
+### FIRAC Case Note
+
+**F – Facts (Paras [1]–[6])**
+
+This case emerged from the interpretation of Section 118(3) of the Local Government: Municipal Systems Act 32 of 2000 (the Act). The respondent, Peregrine Joseph Mitchell, acquired a property known as Erf 296, Wonderboom Township, at a sale in execution on 22 February 2013 ([2]). At the time, there were considerable outstanding municipal debts associated with the property. Upon application for a clearance certificate, which is a prerequisite for transfer of property, the City of Tshwane issued a statement detailing an outstanding amount of R232,828.25, which included historical debts older than two years. The respondent contested this amount but ultimately settled R126,608.50, encompassing only debts within the two-year limit required for the clearance ([4]). 
+
+Subsequently, the respondent sold the property to Ms. Lynette Prinsloo. Before transfer, she applied for municipal services, but was informed that she would also be liable for the historical debt. This led the respondent to seek relief from the Gauteng Division of the High Court, which ruled in his favor, declaring that he and his successors were not liable for the historical debts and that the hypothec under Section 118(3) was extinguished by the sale in execution ([6]).
+
+---
+
+**I – Issues (Paras [1], [6], [8], [14])**
+
+The primary legal question revolved around whether the security created by Section 118(3) of the Act for municipal debts is extinguished when property is sold at a sale in execution and subsequently transferred to a new owner. Key issues included:
+
+1. Does a statutory hypothec created under Section 118(3) survive the transfer of property following its sale in execution?
+2. What implications does this have for the liability of new owners regarding unpaid historical debts?
+
+---
+
+**R – Rules (Paras [7], [8], [9], [14], [55])**
+
+Section 118(3) of the Act stipulates that debts due to municipalities for services constitute a burden on the property and hold preference over any mortgage bonds. The court relied heavily on previous jurisprudence regarding Section 118, especially **BOE Bank Ltd v Tshwane Metropolitan Municipality**, where a distinction between an "embargo" (or veto) provision (s 118(1)) and a security provision (s 118(3)) was drawn ([8]). It also referenced **City of Johannesburg v Kaplan N.O.** to illustrate how the hypothec is intended to support municipal debt payment ([9]).
+
+Common law provisions were incorporated into the analysis, particularly regarding hypothecs and the implications of sales in execution as articulated in Roman-Dutch law ([50], [52]). Notably, historical interpretations suggest that hypothecs do not survive transfers made under compulsion (like a sale in execution) unless explicitly stated.
+
+The dissenting opinion expressed a contrasting view, emphasizing the common law's treatment of rights and properties sold at execution, suggesting that new owners gain a clean title ([30],[56]).
+
+---
+
+**A – Application (Paras [10], [16], [23], [25])**
+
+The court's analysis indicated that the statutory hypothec does not automatically terminate upon transfer unless stipulated by statute. The majority concluded that the Act did not provide an express provision indicating that hypothecs are extinguished upon conclusion of a sale in execution, thus upholding the municipality's right to recover debts through the property proceeds. The court clarified that since the appellant had not taken measures to enforce this hypothec prior to the transfer, the respondent’s legal position remained tenable.
+
+In application, the dissent analyzed the common law implications and expressed concern over how the majority's ruling diverged from established principles whereby debts were typically treated as associated with prior owners alone, particularly when pursued through execution sales. 
+
+The court also discussed procedural aspects of the municipal by-laws regarding the supply of services to the new owner, emphasizing that procedural requirements must be met for new owners to be held accountable for existing debts ([27]).
+
+---
+
+**C – Conclusion (Paras [28], [29], [58])**
+
+The Supreme Court of Appeal upheld the appeal, thereby rejecting the lower court's ruling that claimed the statutory hypothec was extinguished by the sale in execution. The majority found that the appellant’s hypothec remains valid, asserting their continued right to seek recovery from the property proceeds. They also reiterated that municipal debts incurred prior to transfer do burden the property and can impact future owners.
+
+Consequently, the appeal was upheld, the High Court's order was set aside, and the application dismissed with no order as to costs. The dissenting opinion, however, noted substantial legal grounds for the continuation of established common law principles regarding the survival of security over property sold at execution, arguing that such a position ensures clarity in ownership and liability during property transactions.
+
+---
+
+This case illustrates significant intersections between local government law, property rights, and constitutional obligations, with profound implications for how municipalities recover debts against properties undergoing transfers and the responsibilities of new owners regarding historical debts.

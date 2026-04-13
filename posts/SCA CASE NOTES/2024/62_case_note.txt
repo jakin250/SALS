@@ -1,0 +1,46 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2024
+
+### FIRAC Case Note: **Cuducap (Pty) Ltd v De Bruyn (Case no 69/2023)** [2024] ZASCA 62
+
+#### F - Facts
+
+This case stems from a complex set of transactions involving Mr. Philippus Johannes de Bruyn (Respondent) and Cuducap (Pty) Ltd (Appellant) relating to a residential property located in Goodwood, Western Cape. In 2012, Mr. De Bruyn faced financial difficulties, unable to maintain mortgage repayments to Absa Bank. He was introduced to Ms. Yvette Fourie of Mortgage Recovery, which aimed to assist distressed homeowners.
+
+In January 2013, Mr. De Bruyn sold the property to Cuducap for R1.6 million via a deed of sale. This transaction facilitated by Cuducap allowed Mr. De Bruyn to clear his debts, as Cuducap paid Absa an amount of R443,500 and provided Mr. De Bruyn with R215,250 in cash. Subsequently, an instalment sale agreement was executed on 1 June 2013, allowing Mr. De Bruyn to re-purchase the property from Cuducap over five years. Mr. De Bruyn defaulted on the payments from July 2016 onward and failed to pay the final sum due in April 2018.
+
+Cuducap, unable to service its mortgage with Standard Bank due to Mr. De Bruyn's default, initiated eviction proceedings against him in October 2018, invoking the **Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998 (PIE Act)**. Mr. De Bruyn contested the eviction, arguing that the agreements were interrelated and constituted an unlawful scheme against public policy.
+
+On 11 December 2020, the High Court upheld Cuducap's eviction application. Mr. De Bruyn appealed this decision, leading to a Full Court ruling on 13 September 2022 that the agreements constituted a single illegal transaction contrary to public policy, effectively nullifying them and ordering the return of the property to Mr. De Bruyn.
+
+#### I - Issues
+
+The principal legal questions arose around the validity of the agreements made between the parties and the procedural propriety of the Full Court's decisions concerning the interests of third parties not included in the litigation. Specifically:
+
+1. Was the transaction between Mr. De Bruyn and Cuducap, consisting of the deed of sale, instalment sale agreement, and lease agreement, unlawful to the extent that it contravened public policy?
+2. Did the Full Court err in making findings concerning the validity of the agreements without including Standard Bank, which had a direct and substantial interest in the matter?
+3. What procedural steps were necessary for the court to ensure that its judgment did not adversely affect third parties like Standard Bank?
+
+#### R - Rules
+
+The court relied on various legal principles, notably:
+
+1. **Joinder of Parties**: Courts must ensure that any judgments do not prejudice the rights of third parties with a substantial interest. This principle is articulated in prior cases such as *Matjihabeng Local Municipality v Eskom Holdings Limited* and others, which establish that a court should refrain from ruling on matters adversely affecting parties not involved in the proceedings ([para 9]).
+
+2. **Public Policy Doctrine**: The principle that contracts or transactions which are against public policy ("contra bonos mores") are unenforceable forms a core part of the decision. The court assessed whether the agreements between Mr. De Bruyn and Cuducap bespoke a scheme designed to circumvent legal protections against exploitation in times of financial distress ([para 10]).
+
+3. **PIE Act**: The overarching framework influencing the eviction proceedings is the PIE Act, which aims to protect vulnerable occupants and establish lawful eviction processes.
+
+#### A - Application
+
+In applying the rules to the facts, the Supreme Court of Appeal emphasized that the Full Court's declaration regarding the interrelatedness of agreements and their subsequent nullification was not only a legal misstep but procedurally flawed. The Full Court's judgment failed to consider the implications for Standard Bank, which was not a party before it but had a clear interesse in the mortgage bond stemming from the sale agreement. 
+
+The analysis hinged on whether the agreements could indeed be construed as contraventions of public policy; however, the court distinguished this case from others where similar transactions were struck down, asserting that the specific circumstances required caution about the broader implications for rights attached to property ownership and financing. 
+
+Moreover, the requirement for joinder was unambiguously supported by established legal precedence. The court outlined that without including Standard Bank and assessing its interests explicitly, the Full Court transcended its authority, thereby compromising the legal rights of third parties.
+
+#### C - Conclusion
+
+In conclusion, the Supreme Court of Appeal upheld the appeal lodged by Cuducap, emphasizing the necessity of proper procedural safeguards and the significance of joinder in legal proceedings affecting third-party interests. The court set aside the Full Court’s previous order and remitted the case to the High Court, mandating a determination on which third parties should be joined in consideration of their substantial interests as it pertained to the litigation ([para 11]). 
+
+This case underscores the intricate interplay between public policy, the principles governing contractual relationships in distressed circumstances, and the non-prejudicial administration of justice in the context of property law in South Africa. The implications of this ruling extend beyond the parties involved, creating a precedent for how courts might approach similar cases in future, specifically in relation to third-party rights and the enforceability of agreements that may implicate public interest.

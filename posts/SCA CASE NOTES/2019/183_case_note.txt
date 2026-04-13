@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: The Minister of Police v Stanfield (1328/2018) [2019] ZASCA 183
+
+### F – Facts
+On 25 June 2014, the South African Police Services (SAPS) executed a search and seizure warrant under the Criminal Procedure Act 51 of 1977 (CPA) and seized firearms from the respondents: Ralph Israel Stanfield, Nicole Johnson, and Francisca Stanfield. The respondents were subsequently charged with various offences related to the unlawful issuing of licenses for these firearms ([1]).
+
+The respondents first approached the Western Cape Division of the High Court seeking the return of the seized firearms, asserting that the licenses had been granted legally. The SAPS countered with allegations that the licenses were unlawfully obtained. The court allowed the SAPS to retain the firearms but ultimately postponed the matter ([3]). The respondents later sought relief from the Gauteng Division of the High Court (the court a quo), invoking section 31(1)(a) of the CPA for the return of the firearms, arguing that criminal charges against them had been withdrawn ([4]). The court a quo granted an alternative order to conduct an enquiry under section 102 of the Firearms Control Act 60 of 2000 (FCA) but denied the return of the firearms.
+
+The appellants contended that the charges were not formally withdrawn but provisionally stayed awaiting further authorizations from the National Director of Public Prosecutions (NDPP) ([5]). The appellants appealed the decision of the court a quo, seeking validation of their retention of the firearms ([6]).
+
+### I – Issues
+The primary issue before the Supreme Court of Appeal was whether the firearms maintained by the SAPS could be lawfully retained in light of section 31(1)(a) of the CPA, which mandates the return of seized property if no criminal proceedings are pending or if the items are not required as evidence. A secondary issue was whether the appellants had met the burden of proving that the respondents could not lawfully possess the firearms ([12]).
+
+### R – Rules
+Section 31(1)(a) of the CPA stipulates:
+1. If no criminal proceedings have been instituted concerning the seized articles, or if the articles are not required for trial or evidence, they shall be returned.
+2. The burden is on the applicants (respondents) to prove a lack of pending criminal proceedings or likelihood thereof ([12]).
+
+In **Dookie v Minister of Law and Order** [1991] 1 All SA 390 (D), the court clarified that it is not sufficient for an applicant to prove that no proceedings are pending at the time of application; rather, they must establish that there is no reasonable likelihood of future prosecutions ([12]).
+
+Additionally, under section 102 of the FCA, the registrar has the authority to investigate whether individuals are fit to possess firearms based on specific criteria ([23]).
+
+### A – Application
+The court examined the evidence presented by both parties. A significant development was the affidavit of Lt Colonel Roger Naude, who provided evidence that indicated that criminal charges were indeed still pending against the respondents due to an ongoing investigation and a subsequent directive from the NDPP authorizing prosecution ([9]).
+
+The court applied the principles established in **Dookie**, concluding that the respondents failed to demonstrate that no criminal proceedings were likely to occur. The court determined that it was premature for the high court to order the return of the firearms given the legal and factual complexities associated with the case ([16]).
+
+Furthermore, even though it was unnecessary to resolve whether the appellants had shown that the respondents’ possession of the firearms would be unlawful, the evidence indicated potential unlawful conduct by the respondents in obtaining the firearm licenses ([17] - [22]). The court considered the allegations of the unlawful issuance of the licenses and the procedural deficiencies surrounding them. This served as additional grounds for the appeal.
+
+### C – Conclusion
+The Supreme Court of Appeal upheld the appeal, determining that the court a quo erred in its conclusion that criminal proceedings were not pending ([24]). The court found that there was a reasonable likelihood of criminal charges being reinstated, thus justifying the SAPS's retention of the firearms. Consequently, the court set aside the previous order and dismissed the respondents' application to compel the return of the firearms, reaffirming the authority of the SAPS to retain the firearms pending criminal proceedings against the respondents.
+
+The implications of this ruling underscore the stringent adherence to procedural protocols under the CPA and FCA concerning the possession and licensing of firearms, particularly in light of ongoing criminal investigations. This case illustrates the necessity for law enforcement and the judiciary to balance property rights with public safety and compliance with the law. 
+
+### References
+- **The Minister of Police v Stanfield (1328/2018) [2019] ZASCA 183**.
+- **Dookie v Minister of Law and Order & others [1991] 1 All SA 390 (D)**.
+- **National Director of Public Prosecutions v Five Star Import & Export (Pty) Ltd [2018] ZAWCHC 107**.

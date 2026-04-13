@@ -1,0 +1,60 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+### FIRAC Case Note: Merck Sharpe Dohme Group v Cipla Agrimed (Pty) Ltd
+
+**Neutral Citation**: Merck Sharpe Dohme Group v Cipla Agrimed (Pty) Ltd (20282/2014) [2015] ZASCA 175 (27 November 2015)  
+**Court**: Supreme Court of Appeal of South Africa  
+**Judges**: Ponnan, Theron, Wallis, Petse, Willis JJA  
+**Date Heard**: 10 November 2015  
+**Date Delivered**: 27 November 2015  
+
+---
+
+#### F - Facts
+
+The case revolves around an appeal by Merck Sharpe Dohme Corp and Merial LLC (appellants) against a ruling from the Commissioner of Patents (Teffo J), which revoked their South African Patent Number 1998/10975 (the 98 patent). The revocation was sought by Cipla Agrimed (Pty) Ltd (respondent), asserting that the 98 patent lacked novelty under s 61(1)(c) of the Patents Act 57 of 1978, grounded in the provisions of s 25(1) of the same Act ([1], [2]). 
+
+The 98 patent pertained to an injectable formulation comprising a therapeutic agent (e.g. insecticides, acaricides), hydrogenated castor oil, and a specific combination of hydrophobic carriers aimed at providing a long duration of activity against parasites ([13]).
+
+The appellants argued that their patent was innovative and encompassed specific combinations which brought substantial advantages over previously disclosed formulations presented in an earlier patent (the 92 patent), which had been issued to one of the appellants ([11], [16]). The lower court had concluded that the 92 patent fully disclosed the claims of the 98 patent, thus rendering it invalid due to lack of novelty ([2], [11]).
+
+---
+
+#### I - Issues
+
+The primary legal issue in the appeal was whether the 98 patent was anticipated by the 92 patent, particularly concerning the requirements for validity related to novelty and enablement under the Patents Act ([2], [6]). Specifically:
+
+1. Did the 92 patent disclose the same invention as claimed in the 98 patent sufficiently to anticipate it?
+2. What constitutes adequate disclosure and enablement for the assessment of novelty, particularly in the context of “selection patents” ([8],[12])?
+3. Was the skilled person able to implement the invention based solely on the disclosure of the prior art ([7],[23])?
+
+---
+
+#### R - Rules
+
+The judgment references established legal principles concerning the anticipation of patents, notably the requirements that the prior art must disclose every essential element of the claimed invention and that it must enable a skilled person to perform the invention ([3],[6]). The court relies heavily on the case of Dr Reddy’s Laboratories (UK) and highlights principles concerning the necessity of having an “individualised description” in the prior art to support a claim of anticipation ([10],[12],[25]).
+
+Key rules from the case law include:
+- **Anticipation** requires prior art to demonstrate not just the presence of similar elements, but a clear directive that enables their implementation without further experimentation ([4],[6],[7]).
+- In the context of selection patents, a prior general disclosure does not inherently negate the novelty of a specific selection unless it provides sufficient direction for the specific attributes and advantages of the selection claimed ([9],[12]).
+
+---
+
+#### A - Application
+
+The court analyzed the scope of Claim 1 of the 98 patent, noting that while the 92 patent disclosed some elements (specifically hydrogenated castor oil and the broader class of hydrophobic carriers), it did not provide an “individualised description” of the specific combinations encompassed in Claim 1 of the 98 patent, particularly the unique advantage of prolonged duration of activity against parasites which was a novel aspect ([14]-[26]).
+
+The court underscored that while the 92 patent mentioned various hydrophobic carriers, it did not prescribe a specific combination nor did it disclose the benefits of such combinations. The skilled practitioner would have lacked sufficient guidance to arrive at the inventive concept claimed in the 98 patent without undertaking further experimentation ([19],[24]). 
+
+Thus, the comparative analysis allowed the court to conclude that the 92 patent merely indicated pathways but did not “plant the flag” at the inventive destination represented by the 98 patent ([23],[25]).
+
+Moreover, the evidence showed significant advances from the 98 patent that were unaddressed by the prior art; this included the efficacy of the claimed formulation up to 180 days, compared to only 42 days for the formulations of the 92 patent ([15],[20]).
+
+---
+
+#### C - Conclusion
+
+The Supreme Court of Appeal found in favor of the appellants, holding that the 98 patent was not anticipated by the prior 92 patent due to a lack of clear enabling disclosure and novelty. It overturned the lower court's ruling, reinstating the validity of the 98 patent ([26]). The court's decision emphasized the importance of specificity in patent claims and the distinction between the concepts of disclosure and enablement.
+
+The implications of this ruling reaffirm the necessity for clear and specific guidance in prior art to invalidate patents, particularly in complex fields such as pharmaceuticals. The court ordered the costs of the appeal to be borne by the respondent, including the costs of two counsel. Thus, the court effectively recognized the advanced contributions made by the appellants concerning long-acting veterinary formulations, creating a precedent for future patent examinations in South Africa regarding anticipation and valid novelty claims.

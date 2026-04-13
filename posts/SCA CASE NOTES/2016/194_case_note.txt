@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Deez Realtors CC v South African Securitisation Program (Pty) Ltd [2016] ZASCA 194
+
+### F – Facts
+On 2 September 2010, the first plaintiff, South African Securitisation Program (Pty) Ltd (“SASP”), alongside other plaintiffs, initiated legal proceedings against the appellants—Deez Realtors CC, Denese Zaslansky, and Solomon Zaslansky—in the Gauteng Local Division of the High Court. The plaintiffs’ claims (Claim A and Claim B) were for R586,239.34 and R582,088.93 respectively, related to breaches of two lease agreements by the defendants. The agreements, established on 14 December 2009, involved the leasing of printing equipment, with payments due under clause 14.1. 
+
+The plaintiffs claimed that the defendants had defaulted on payments, thereby entitling them to claim immediate payment for the total amount owed until the expiry of the lease period. On 16 July 2010, the plaintiffs notified the defendants of their election to cancel the agreements due to the defaults. After subsequent amendments to the claim made by the plaintiffs, the defendants sought to introduce a special plea of prescription, asserting that the plaintiffs' claims had become prescribed, given that more than three years had elapsed since the cancellation election.
+
+### I – Issues
+The primary legal issues raised in this case concern:
+1. Whether the plaintiffs’ claims, before and after the amendment of their particulars of claim, pertained to the same or different debts ([para 20]).
+2. The implications of such a distinction on the interruption of the prescription period pursuant to the Prescription Act 68 of 1969 ([para 22]).
+
+### R – Rules
+Key legal principles and statutes applicable to the case include:
+- **Prescription Act 68 of 1969**: 
+  - Section 10(1) establishes that a debt is extinguished after a prescribed period if not claimed.
+  - Section 12(1) mandates that prescription commences once a debt is due.
+  - Section 15(1) details that the running of prescription is interrupted by the service of process claiming payment ([para 22]).
+
+
+- **Contract Law**: The court emphasizes that the obligations arising from breach may create distinct remedies but fundamentally relate to the same debt unless the nature of the debt changes ([para 32]).
+
+- **Civil Procedure**: Consideration is given to the general approach to amendments of pleadings, particularly that they should be allowed unless they lead to injustice or render the pleading excipiable ([para 23]).
+
+### A – Application
+The court undertook a detailed comparison of the claims before and after the amendment. The plaintiffs argued that their amendment did not alter the substance of the debt but rather corrected an initial mischaracterization in their claim; they had mistakenly sought accelerated payment instead of liquidated damages after cancellation ([para 35]).
+
+1. **Nature of the Debt**: The court ruled that the debt stemming from the breach of the lease agreements, regardless of whether claimed under accelerated payment or liquidated damages, constituted the same essential debt. It emphasized that despite the plaintiffs’ pursuit of two separate legal remedies, the underlying debt remained unchanged and thus, the running of prescription was effectively interrupted by the service of the original summons on 8 September 2010 ([para 21]).
+
+2. **Prescription and Amendment**: The assertion that the claims were distinct debts, warranting the introduction of a special plea based on the amendment, was rejected. The court found the argument unsustainable, reiterating that the essence of the debt did not change with the amendment, which merely rectified the plaintiffs' mistake ([para 36]).
+
+3. **Precedent and Distinction**: Citing **CGU Insurance Ltd v Rumdel Construction (Pty) Ltd**, the court clarified that the notion of a single debt extends to the facts underlying the contractual obligations, reiterating the broad interpretation of 'debt' under the Prescription Act ([para 32]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately dismissed the appeal, affirming the position of the court a quo that the nature of the debt had not changed through the amendment of the particulars of claim. The service of the summons on 8 September 2010 validly interrupted the running of prescription, ensuring that the amended claim remained actionable. 
+
+The implications of this case underscore the significant latitude courts have to interpret debts broadly and maintain continuous remedy availability in contractual disputes, thereby preserving the principle of justice in civil claims. The ruling also reinforces that a correction to the factual basis of a claim does not inherently alter the nature of the claim, thus preventing unnecessary losses from the expiration of claims through prescription ([paras 36]).

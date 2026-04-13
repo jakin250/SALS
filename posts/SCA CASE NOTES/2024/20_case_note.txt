@@ -1,0 +1,48 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note
+
+### Case Title: Bechan and Another v SARS Customs Investigations Unit and Others (1196/2022) [2024] ZASCA 20 (05 March 2024)
+
+### F – Facts
+
+The central figures in this case are Kapeel Bechan (the first appellant) and Bechan Consulting (Pty) Ltd (the second appellant) ([1]). They sought relief from the Gauteng Division of the High Court, Pretoria, in the form of a **mandament van spolie** to compel the South African Revenue Service (SARS) to return items seized from Bechan's vehicle during an investigation into Bullion Star (Pty) Ltd, which was suspected of tax offences ([1]–[2]).
+
+On 28 March 2022, SARS obtained a search warrant under Section 59 of the *Tax Administration Act 28 of 2011* (TAA) from the High Court based on its belief that Bullion Star had committed various tax offences ([2]). The warrant authorized SARS officials to search specified premises and remove any relevant material, hinting that third-party properties could also be included if relevant material associated with the taxpayer was found ([2]–[3]).
+
+During the execution on 29 March 2022, there were procedural delays in gaining access to the premises ([3]). Eventually, SARS officials discovered a Toyota Fortuner with registration number HV07BBGP, registered to Bechan, containing several electronic devices and documents connected to Bullion Star ([4]–[5]). While the appellants claimed to possess only selected items, SARS had seized a multitude of materials including laptops and phones, presenting a comprehensive inventory of what was found ([6]–[9]).
+
+Consequently, the appellants filed for a spoliation remedy in the High Court, asserting their peaceful possession of the seized items and arguing that the warrant's scope was limited to Bullion Star ([7]). The High Court dismissed their application, prompting the current appeal ([9]).
+
+### I – Issues
+
+The primary legal issue before the court involved the interpretation of the TAA, specifically whether SARS had the authority to search and seize items from third parties (the appellants) who were present on the premises at the time of the warrant's execution ([11]). Key sub-issues included:
+
+1. **Lawfulness of the warrant execution:** Did SARS officials act lawfully in executing the search warrant against parties other than the taxable entity (Bullion Star)?
+2. **Sufficient grounds for reasonable suspicion:** Did SARS officials possess adequate cause to search the Fortuner?
+3. **Scope of the warrant:** Did the warrant authorize the search of third-party possessions within the defined premises?
+
+### R – Rules
+
+The court referenced key provisions of the TAA, particularly Sections 59, 60, and 61:
+
+- **Section 59(1):** Grants a senior SARS official the authority to apply for a search warrant to enter premises for the purpose of seizing relevant material ([12]).
+- **Section 60(1):** Allows a judge or magistrate to issue a warrant if satisfied that reasonable grounds exist regarding potential tax offences and relevant material likely found on the premises ([12]).
+- **Section 61(3):** Enumerates the powers of SARS officials during the execution of a warrant, clearly establishing that SARS may search any person present on the premises and seize relevant material ([15]–[16]). 
+
+Relevant caselaw included the **Plascon-Evans** rule, which dictates that in the case of conflicting factual narratives in motion proceedings, the facts stated by the respondents (SARS) must be accepted ([3]). This rule was supplemented by precedents such as **Thint** which delineated how factual disputes in such contexts should be resolved ([3]).
+
+### A – Application
+
+In its reasoning, the court evaluated the text of the TAA provisions collectively as encompassing premises-specific rather than taxpayer-specific terms. This interpretation allowed for the extension of search authority to items owned by third parties if they could be deemed relevant ([12]–[14]).
+
+SARS articulated that the search of the Fortuner was not only permissible but necessary given the presence of potentially relevant material. The court agreed with this logic, finding that the officials had displayed reasonable suspicion based on factual observations ([18]). Addressing the appellants' argument that proof of necessitated certainty existed before searching the vehicle, the court clarified that reasonable suspicion sufficed under Section 61(3)(a) of the TAA. 
+
+The argument that limiting the warrant to Bullion Star was essential to its efficacy was rejected on the grounds that it would compromise SARS’ ability to effectively carry out tax investigations ([18]). Moreover, the court emphasized that search and seizure processes in the realm of tax law are designed to deter non-compliance and enhance tax collection efficacy ([20]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately dismissed the appeal, confirming the validity of the search warrant executed by SARS against the appellants. The court found that SARS acted within its statutory authority as per the TAA and had a reasonable basis to search the Fortuner under suspicion that it contained relevant materials related to Bullion Star ([21]). The outcome underscored the court's commitment to uphold efficient tax law enforcement mechanisms while navigating the delicate balance between investigatory powers and the rights of individuals.
+
+As an additional note, the court dismissed the relevance of subsequent developments surrounding the setting aside of the search warrant by the High Court, asserting that the evaluation must be based on the circumstances present at the time of the original ruling ([22]). The order of dismissal included costs awarded to the respondents, reflecting the court's view on the merits of SARS’s position throughout the proceedings ([23]).

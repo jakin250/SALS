@@ -1,0 +1,39 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: **Passenger Rail Agency of South Africa v Sithuse** (Case no 569/2020) [2021] ZASCA 78
+
+## F – Facts:
+On 22 August 2008, at approximately 15h55, Ms Johanna Dipuo Sithuse (the Respondent) was struck by a train while at Rosslyn Station in Pretoria, resulting in severe injuries, including the loss of her right hand ([1]). Sithuse initiated a claim for damages against the Passenger Rail Agency of South Africa (PRASA), alleging it had negligently caused her injuries. Initially, she included the MEC for Transport, Gauteng as a second defendant but later withdrew this claim ([1], [2]). 
+
+PRASA denied liability, attributing the collision to Sithuse’s actions, asserting she "threw herself" in front of the train ([2]). By agreement, the trial court separated the issues of liability and quantum, addressing liability first. The trial court, having considered evidence, found no negligence on PRASA's part and dismissed Sithuse’s claim ([3]).
+
+Dissatisfied with this outcome, Sithuse appealed to the full court, which ruled in her favor, concluding that PRASA had negligently failed to ensure adequate supervision and security personnel at the station, which contributed to the incident ([3], [4]). PRASA appealed this decision, seeking a revision of the full court's findings ([3]).
+
+## I – Issues:
+The primary issues for the court to resolve were whether Sithuse established that PRASA was negligent and whether such negligence was a causal factor in her injuries ([4], [25]). Specific legal questions included:
+1. Did PRASA have a duty of care toward Sithuse, and was there a breach of that duty?
+2. Was there sufficient evidence to demonstrate a direct causal link between PRASA's alleged negligence and the injuries sustained by Sithuse?
+3. How does the presumption against suicide affect the onus of proof in negligence cases involving actions interpreted as self-endangerment? ([26])
+
+## R – Rules:
+The foundational legal principles relevant to this case include:
+1. **Negligence**: Under South African law, liability for negligence is established when a defendant fails to behave with the competence expected of a reasonable person, leading to harm to the claimant ([28]). The test for negligence refers to the standard established in **Kruger v Coetzee** 1966 (2) SA 428 (A), which identifies foreseeability of harm and the failure to take reasonable steps to prevent it as critical factors ([28]).
+  
+2. **Onus of Proof**: The general rule in civil procedure is that the onus lies with the claimant to prove negligence. The presumption against suicide does not shift this burden but serves as a factual presumption that must be addressed ([26], [27]).
+
+3. The distinction between the conduct expected from a private individual compared to that of a state entity, as highlighted in **Mashongwa v Passenger Rail Agency of South Africa** [2016] ZACC 36 ([29]), which argues that public entities are held to a reasonable organ of state standard rather than an individual standard.
+
+## A – Application:
+In the appeal, the Supreme Court of Appeal (SCA) evaluated the merits of Sithuse's case based on the testimonies and evidence presented.
+
+The court analyzed the conflicting narratives of the incident. Sithuse maintained that she had been pushed onto the tracks by other commuters, which contributed to her falling under the train ([10], [14], [18]). In contrast, PRASA's evidence suggested that she had deliberately crossed the yellow safety line, resulting in her injury ([19], [21]). The central discrepancy pertained to the location of the incident (whether it occurred at platform 1 or platform 2), which bore significant implications for negligence and liability ([30], [36]).
+
+The SCA concluded that the factual determinations made by the trial court were critical. It noted that the determination of the incident’s location significantly influenced the onus of proof. Ultimately, the court agreed with PRASA's account that the incident occurred at platform 1, where the evidence indicated Ms Sithuse acted negligently by failing to adhere to safety procedures ([33], [37]).
+
+Furthermore, the SCA considered the full court’s error in concluding that the presumption against suicide had altered the burden of proof, asserting that the burden remained with Sithuse to demonstrate PRASA's breach of duty ([26], [27]).
+
+## C – Conclusion:
+The SCA determined that Sithuse failed to meet the requisite burden of proof to establish that PRASA was negligent, and concluded that her injuries were not causally linked to any negligent action taken by PRASA ([37]). The court thus upheld PRASA’s appeal, reversing the full court's judgment and reinstating the trial court's decision, which had found in favor of PRASA ([38]).
+
+The ruling reinforced the principles governing negligence claims, especially in contexts involving public transport, emphasizing the critical role of duty of care, appropriate conduct of both transport authority and commuters, and the clear demarcation of procedural expectations in legal claims. The decision highlighted the necessity for an evidence-based approach to claims of negligence, stressing that obligations imposed on public entities must align with their operational realities while also emphasizing the personal responsibility within public safety frameworks.

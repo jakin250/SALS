@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Mlungisi Ndodana Sontsele v 140 Main Street Properties CC and Another (328/2019) [2020] ZASCA 85
+
+### FIRAC Method Case Note
+
+#### F – Facts
+The case centers around a dispute arising from a notarial lease agreement, entered into on 29 June 2004, between the appellant, Mr. Mlungisi Ndodana Sontsele (the lessor), and the first respondent, 140 Main Street Properties CC (the lessee) ([1]). The lease commenced on 1 July 2004 and was set to terminate on 31 May 2014. The agreement granted the lessee an option to renew the lease for two further periods of nine years and eleven months each, contingent upon the lessee giving written notice at least six months prior to the expiration of the initial lease or each successive term, and establishing a rental amount agreed upon by both parties or determined by a third party in the event of a failure to agree ([1], [2]).
+
+On 8 August 2013, the lessee issued a notice exercising the option to renew, specifying a commencement date of 1 June 2014. However, this notice did not propose a specific rent for the renewal period ([3]). The lessee continued to occupy the property after 31 May 2014, initially increasing the previous rental and adjusting it further in accordance with an inflation rate ([3]). Disagreements regarding the rental amount ensued, leading to the lessor's attorney formally notifying the lessee of the lease's termination on 31 July 2015 ([4], [5]).
+
+The lessor subsequently sought relief from the Eastern Cape Division of the High Court, attempting to confirm the termination of the lease and assert that the lessee's occupation beyond the initial lease constituted an invalid arrangement that warranted eviction ([6], [7]). The High Court dismissed the application, indicating that the lessee had exercised the renewal option and that the parties were obliged to negotiate in good faith for the rental terms ([7]).
+
+#### I – Issues
+The primary legal question revolved around whether the lease had effectively been renewed and the implications of the parties' failure to agree on the rental amount prior to the expiration of the initial lease attached to the option to renew clause ([7], [8]). Specifically, the court needed to consider:
+
+1. Whether the lessee's notice constituted a valid exercise of the option to renew and adequately fulfilled the conditions to create a new lease agreement.
+2. The effect of the lack of a fixed rental on the renewal of the lease and whether the lessee was entitled to invoke provisions for rental determination post-termination of the original agreement.
+
+#### R – Rules
+The applicability of contractual principles under South African law was essential to the case outcome. In particular, the court highlighted the fundamental requirement for a lease agreement to embody ascertainable terms and a fixed rental amount, as per *Kessler v Krogmann* ([8]). Furthermore, the precedent established in *Biloden Properties v Wilson* reiterated that merely notifying an intention to renew does not inherently create a binding contract if essential terms, particularly concerning rental, remain unresolved ([9]).
+
+The ruling also referenced cases such as *Southernport Developments (Pty) Ltd v Transnet Ltd*, which acknowledged that parties might authorize a third party to determine certain contractual terms, reinforcing the nature of the lessee's obligations to invoke such provisions when applicable ([10]).
+
+#### A – Application
+The court began by agreeing with the High Court on the procedural compliance of the lessee in notifying the lessor within the stipulated timeframe for exercising the renewal option ([8]). However, it emphasized that compliance with the notice requirement alone does not constitute a renewal unless all essential terms, including rental, are mutually agreed upon beforehand.
+
+The court ruled that since no agreement was reached concerning the rental amount, the essence of a lease—a lawful occupation—was unattainable. The lessee's failure to engage a third party for rental determination under clause 2.2.3 further compounded the situation, as this step was only invoked after the original lease had legally terminated ([10]). The ruling contextualized these actions within the requirements of the South African contract law, concluding that the lack of a defined rental negated any enforceable rights resulting from the lessee’s renewal notice.
+
+#### C – Conclusion
+The Supreme Court of Appeal determined that the original notarial lease agreement between the parties had lapsed as it had expired by effluxion of time on 31 May 2014, and that the lessee's failure to authorize third-party intervention for rental determination led to the inability to establish a new lease ([11]). The court overturned the decision of the High Court, asserting that the lessee's continued occupation without an agreed rental was unfounded, thereby ordering the lessee to vacate the premises within two months ([11]).
+
+The outcome of this case delineates essential elements of property leases and the legal necessity for clear agreements on rental terms, emphasizing the primacy of negotiations before the expiration of an initial lease term. It serves as a notable precedent in reinforcing contract principles within South African lease agreements and the implications of failing to adhere to the prescribed procedural norms for lease renewal.
+
+---
+
+### References
+- **Kessler v Krogmann** 1908 TS 290.
+- **W E Cooper, Landlord and Tenant** 2nd ed (1994).
+- **Biloden Properties v Wilson** 1946 NPD 736.
+- **Southernport Developments (Pty) Ltd v Transnet Ltd** 2005 (2) SA 202 (SCA).
+- **Shepherd Real Estate Investments (Pty) Ltd v Roux Le Roux Motors CC** [2019] ZASCA 178.
+- **Premier, Free State and Others v Firechem Free State (Pty) Ltd** 2000 (4) SA 413 (SA).

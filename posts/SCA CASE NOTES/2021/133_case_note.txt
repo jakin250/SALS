@@ -1,0 +1,51 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+### FIRAC Case Note
+
+#### Case Title
+**Auditor-General of South Africa v MEC for Economic Opportunities, Western Cape and Another** (Case no 671/2020) [2021] ZASCA 133 (4 October 2021)
+
+#### F – Facts: Relevant background and procedural history ([paras 1–8])
+The appellant in this matter is the Auditor-General of South Africa (AGSA), while the first respondent is the Member of the Executive Council (MEC) responsible for the Western Cape Provincial Department of Agriculture (the Department). This case arose due to the classification of payments made by the Department to Casidra SOC Limited and the Deciduous Fruit Producers Trust, known as Hortgro, during the financial years ending 31 March 2017 and 31 March 2018. The AGSA conducted audits of these financial statements and determined that the payments were misclassified as transfers, instead concluding they should be reported as payments for goods and services, given that these entities operated as agents of the Department pursuant to a Modified Cash Standard established under the Public Finance Management Act 1 of 1999 (the PFMA).
+
+Due to these findings, the AGSA issued qualified audit reports reflecting that the Department had overstated transfers and underreported irregular expenditure of approximately R274,340,625 for the 2017 financial year and R259,191,000 for 2018. In response, the MEC approached the Western Cape Division of the High Court seeking to review and set aside the findings, contending that the Standard was not legally binding and that the relationships with Casidra and Hortgro were not principal-agent relationships.
+
+The High Court ruled favorably for the MEC, leading to appeals being filed by both the AGSA and the National Treasury, the latter of which did not participate in the initial proceedings.
+
+#### I – Issues: Legal or constitutional questions ([paras 9–24])
+The primary issues before the court involved:
+
+1. **Binding Nature of the Modified Cash Standard**: Does the Modified Cash Standard, as issued by the National Treasury under section 76 of the PFMA, hold legal binding status on the Department concerning the classification of payments?
+
+2. **Existence of Principal-Agent Relationships**: Did the contracts concerning payments to Casidra and Hortgro establish principal-agent relationships that would justify those payments being classified as goods and services rather than transfers?
+
+3. **Applicability of the Promotion of Administrative Justice Act**: Is the exercise of functions by the AGSA under the Constitution and the Public Audit Act recognized as administrative action under the Promotion of Administrative Justice Act 3 of 2000 (PAJA)?
+
+The court sought to resolve whether the AGSA's findings were correct and if the auditor's conduct was appropriately reviewed.
+
+#### R – Rules: Legal authorities and precedents relied upon ([paras 6–30])
+The legal framework relevant to this case includes:
+
+- **Constitution of the Republic of South Africa, 1996**: Particularly section 216, which establishes the need for a national treasury, ensuring transparency and expenditure control via generally recognized accounting practices.
+- **Public Finance Management Act 1 of 1999 (PFMA)**: This Act outlines the responsibilities of national and provincial departments in managing public finances, including provisions on accounting standards and irregular expenditure.
+- **Public Audit Act 25 of 2004**: This legislation governs the functions and responsibilities of the Auditor-General, affirming its independence and duties concerning auditing state accounts.
+- **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**: Regulates administrative actions and the procedural safeguards necessary to ensure lawful conduct by public officials.
+
+The court also referenced the principles surrounding principal-agent relationships, distinguishing them based on the nature and context of the contracts, including the analysis of whether agents had the authority to create legal commitments on behalf of a principal (as defined in the relevant accounting standards).
+
+#### A – Application: Analysis of how the court applied the law ([paras 24–35])
+In reviewing the finding of the lower court regarding the binding status of the Modified Cash Standard, the Supreme Court of Appeal established that the National Treasury had issued an instruction under section 76 of the PFMA, granting the Standard binding legal authority post-implementation of National Treasury Instruction No 6 of 2014/2015. This rendered the MEC's argument regarding the non-binding nature of the Standard moot.
+
+The court then engaged in an analysis of the contractual obligations and the principal-agent definitions, concluding that reasonable interpretation of the contracts between the Department and the entities involved indicated that these agreements did not empower Casidra or Hortgro to create legal relationships with third parties. The contractual terms required the Department’s oversight without any implication of binding agreements to external parties.
+
+Furthermore, the court examined the applicability of PAJA, delineating the scope of actions performed by the Auditor-General and arguing that this role did not constitute administrative action. The Auditor-General operates independently, not subject to the controls typically associated with administrative functions. The court noted that the exercise of audit functions should adhere to the principles of legality rather than falling under PAJA.
+
+Thus, the court concluded the AGSA's application of the Standard was aligned with the law, and the findings regarding the misclassification were based on significant legal errors from the High Court.
+
+#### C – Conclusion: Court’s holding, ratio decidendi, and implications ([paras 33–35])
+The Supreme Court of Appeal dismissed the appeal, affirming the Auditor-General's findings regarding the misclassification of payments. The dismissal confirmed the legal binding nature of the Modified Cash Standard and established that the Department did not have a principal-agent relationship with Casidra and Hortgro as a basis for classifying the payments as transfers. 
+
+The ratio decidendi highlights the essential distinction between the operational independence of the Auditor-General and the administrative functions typically regulated under PAJA, reinforcing the foundational principle that the AGSA acts as a watchdog over public finances.
+
+This ruling has broader implications for public accountability and financial management in South Africa, elucidating the necessary adherence to established accounting standards and ensuring that public funds are classified and reported correctly in the context of audits to promote transparency and accountability within government entities. The court emphasized that the principle of legality remains the appropriate avenue for reviewing the Auditor-General's functions, marking a vital precedent in the governance of public expenditure. The order included costs relating to the appeal, reflecting the court's determination on the procedural requirements in such public interest cases.

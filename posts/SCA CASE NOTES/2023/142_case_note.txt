@@ -1,0 +1,53 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2023
+
+# Case Note: Fleet Africa (Pty) Ltd v Polokwane Local Municipality
+
+## FIRAC Method
+
+### F – Facts
+
+The Supreme Court of Appeal’s decision in *Fleet Africa (Pty) Ltd v Polokwane Local Municipality* (720/2022) [2023] ZASCA 142 focuses on a dispute between Fleet Africa Pty Ltd (the Appellant) and Polokwane Local Municipality (the Respondent) regarding the validity of a Service Level Agreement (SLA) and related defenses raised during ongoing arbitration proceedings ([1–4]).
+
+Fleet Africa was awarded a tender (Bid Number 49/2012) by the Municipality in May 2012 to provide fleet vehicles and related services for five years, commencing 1 March 2013 ([5]). Shortly before the SLA’s expiration on 28 February 2018, the Municipality opted not to extend it. Fleet Africa invoked Clause 25 of the SLA requiring the Municipality to buy back leased vehicles for R53.9 million, a payment that was not made ([6–8]).
+
+In March 2018, the Municipality alleged it had overpaid Fleet Africa and raised concerns about the compliance with the National Credit Act 34 of 2005. This led to arbitration proceedings, during which the Municipality, for the first time, contended that the tender award was unlawful due to non-compliance with regulatory requirements, specifically arguing that the Bid Adjudication Committee had not been properly constituted ([9–25]). The Municipality's defenses were based on this alleged illegality ([24]).
+
+The High Court dismissed Fleet Africa's application for a declaratory order based solely on a jurisdictional point, ruling that it did not have jurisdiction to hear the case, which prompted Fleet Africa to appeal the decision ([4–4]).
+
+### I – Issues
+
+Key legal issues before the Court included:
+
+1. Whether the High Court had jurisdiction to hear Fleet Africa’s application based on the parties' agreement regarding exclusive jurisdiction as stated in the SLA.
+2. Whether the defenses raised by the Municipality in the arbitration had merit and whether they could be disregarded by the arbitrator.
+3. The ability of the appellate court to act as a court of first instance to determine the merits of the application when the lower court had not previously ruled on them ([1–4]).
+
+### R – Rules
+
+The Court considered various legal principles and precedents relevant to the case:
+
+- **Jurisdictional Principles**: The Superior Courts Act 10 of 2013 defines jurisdiction of divisions ([10]). The Court referred to principles regarding concurrency of jurisdiction, emphasizing that contractual clauses cannot completely exclude a competent court's jurisdiction ([11–12], [21]).
+- **Pacta Sunt Servanda**: This principle underpinned the negotiation and agreement of jurisdiction through mutual consent and was critical to the Municipality's argument ([18]).
+- **Timeliness of Legal Actions**: The case law, particularly *Merafong City Local Municipality v AngloGold Ashanti Limited*, emphasized that delays in raising legal challenges can undermine the assertion of defenses based on irregularity ([31]).
+- **Estoppel in Public Law**: The Court discussed whether estoppel could apply to the circumstances, particularly regarding public authorities and their obligations ([35]).
+
+### A – Application
+
+In its reasoning, the Court rejected the High Court's finding on jurisdiction, asserting that the SLA clauses did not create exclusive jurisdiction in the Johannesburg High Court but rather designated courts depending on the nature of the dispute ([16–18]). 
+
+The Court argued that since the Limpopo Division had concurrent jurisdiction, Fleet Africa was within its rights to seek relief in that court. This was consistent with the rules that a court cannot refuse to hear a matter that falls within its jurisdiction merely based on another court's jurisdiction ([22]).
+
+On the merit of the Municipality's defenses, the Court found that they lacked sufficient evidence of irregularity in the tender process and noted the Municipality had not established its claims satisfactorily nor acted promptly in raising them ([25–33]). Furthermore, Fleet Africa was considered to have acted in good faith when entering the SLA, and the Municipality was estopped from contesting the validity of the contract due to laches ([35]). 
+
+### C – Conclusion
+
+The Supreme Court of Appeal upheld Fleet Africa's appeal, asserting that:
+
+1. The High Court erred in determining it had no jurisdiction over the matter, given that the SLA's exclusive jurisdiction clause did not fully exclude the Limpopo Division's jurisdiction.
+2. The defenses put forth by the Municipality in arbitration were meritless and could be disregarded.
+3. The SLA was binding on the Municipality.
+
+The Court directed that the municipality must pay costs, including the costs of employing two counsel, confirming Fleet Africa's entitlement to proceed with arbitration in a manner consistent with its original contract ([37]).
+
+This decision reaffirms the principles of pacta sunt servanda and the procedural rights of contracting parties in public law, emphasizing the need for promptness in raising defenses that affect contractual obligations. The ruling has significant implications for local governance and contractual relationships within the ambit of public procurement in South Africa, highlighting the necessity for municipalities to adhere to their contractual commitments while also providing clarity on jurisdictional issues entwined in public contracts.

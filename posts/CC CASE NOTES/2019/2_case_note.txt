@@ -1,0 +1,36 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: **Competition Commission of South Africa v Hosken Consolidated Investments Limited and Another** [2019] ZACC 2
+
+## F – Facts
+The case concerns a two-part merger involving the first respondent, **Hosken Consolidated Investments Limited** (HCI), and the second respondent, **Tsogo Sun Holdings Limited** (Tsogo). In 2014, following a merger, HCI obtained de facto control of Tsogo, holding 47% of the shares, after SABMiller disinvested its stake. The **Competition Tribunal** approved this merger unconditionally due to the absence of competition concerns ([1]–[9]).
+
+In December 2016, HCI sought to increase its stake in Tsogo to over 50%, thereby acquiring de jure control as per the **Competition Act 89 of 1998**. This led HCI to request an **advisory opinion** from the **Competition Commission**, which ultimately indicated that the 2017 proposed transaction constituted a notifiable merger due to HCI crossing the "bright line" of ownership defined by the Act ([10]–[13]).
+
+Dissatisfied with the Commission's advisory opinion, HCI and Tsogo applied for a declaratory order from the Tribunal to assert that the transaction did not require notification. The Tribunal, however, concluded it lacked jurisdiction to grant such an order since the transaction had not been notified to the Commission, which led to an appeal in the **Competition Appeal Court** ([20]–[24]).
+
+The Competition Appeal Court ruled that the Tribunal did possess jurisdiction and subsequently declared that HCI was not obligated to notify the 2017 transaction, emphasizing the **once-off principle** concerning merger notifications and control ([25]–[29]).
+
+## I – Issues
+The principal legal issues pertained to:
+1. Whether the Tribunal had the jurisdiction to grant a declaratory order regarding the notifiability of the 2017 transaction.
+2. Whether the 2017 transaction constituted a notifiable merger under the Competition Act, particularly in light of HCI's prior acquisition of de facto control in 2014 ([30]–[32]).
+
+## R – Rules
+The applicable legal rules include:
+1. **Section 12(1) of the Competition Act** defines a merger, stating it occurs when an entity acquires control over another firm.
+2. **Section 12(2)** outlines various instances of control, specifically noting the difference between de facto and de jure control.
+3. The **once-off principle** established in previous case law (such as **Ethos Private Equity Fund IV v The Tsebo Outsourcing Group**) indicates that once control has been acquired in any form, further notifications when changing forms of control (e.g., from de facto to de jure) are not required ([36]–[49]).
+
+Additionally, the Tribunal's powers under **Sections 27** and **58** of the Act allow it to make any ruling necessary for its function, including granting declaratory relief ([74]–[77]).
+
+## A – Application
+The Court evaluated the nature of control exercised by HCI and Tsogo, specifically determining that HCI, having obtained control in the previous 2014 transaction, was not required to notify the Commission of the 2017 transaction. It reinforced that merely crossing the 50% ownership threshold did not equate to a new acquisition of control that needed notification. The **once-off principle** was valid as HCI's prior control established a baseline immunity from subsequent notifications tied to changes in the nature of that control ([52]–[66]).
+
+Moreover, although the initial declarations from the Tribunal indicated a lack of jurisdiction due to failure to notify, the Competition Appeal Court underscored that legal clarity and certainty necessitated deep scrutiny of the relationship and responsibilities between the Commission, the Tribunal, and the parties involved. This ruling not only upheld the appeal but also critiqued the Tribunal’s understanding of notification requirements ([25]–[28], [72]).
+
+## C – Conclusion
+The **Constitutional Court** ruled in favor of HCI and Tsogo, undertaking to uphold the Competition Appeal Court's determination that HCI was not required to notify the 2017 transaction in terms of Section 13A of the Competition Act. The court affirmed the validity of the once-off principle concerning merger control and declared that such a ruling would not inhibit the Competition Commission’s ability to investigate relevant assurances given during the original 2014 merger approval process ([89]–[91]).
+
+This decision reinforces the protections against overregulation in respect to mergers and consolidates the interpretive position of the Competition Act regarding the stringency of notifications required based on forms of control. However, it also allows the Commission the latitude to investigate compliance with previous approvals, thereby balancing regulatory oversight with commercial certainty.

@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Joint Venture between Aveng (Africa) (Pty) Ltd and Strabag International GmbH v South African National Roads Agency Soc Ltd and Another [2020] ZASCA 146
+
+## FIRAC Case Note
+
+### F – Facts
+The case centers around a contractual dispute between the appellant joint venture (Aveng (Africa) (Pty) Ltd and Strabag International GmbH) and the first respondent, the South African National Roads Agency Soc Ltd (SANRAL). The contract, executed in August 2017, was for the construction of the Mtentu River Bridge on the N2 Wild Coast Toll Road in the Eastern Cape. The performance guarantee in question was issued by the second respondent, Lombard Insurance Company Ltd, in favor of SANRAL ([1]–[2]).
+
+In 2018, relations between SANRAL and the Joint Venture deteriorated due to disruptions caused by local community demands regarding employment and material sourcing. This led to the suspension of works from October 22, 2018. The Joint Venture subsequently claimed that these disruptions amounted to "force majeure," thus justifying its termination of the contract on January 30, 2019 ([2]–[4]).
+
+SANRAL contested this claim and set a final deadline for the Joint Venture to return to the construction site, failing which it would terminate the contract itself. After the Joint Venture did not comply, SANRAL purportedly terminated the contract on February 5, 2019. The Joint Venture then applied to the High Court for an interdict to prevent SANRAL from calling up the performance guarantee pending arbitration ([5]). The High Court dismissed this application, leading to the appeal ([6]).
+
+### I – Issues
+The critical legal issues arose from the interpretation of the performance guarantee and whether SANRAL was bound by the conditions of the underlying contract, thus having an entitlement to call on the guarantee. Specifically, the court addressed the following questions:
+
+1. Was SANRAL restricted by the underlying contract from demanding payment under the performance guarantee?
+2. Did the circumstances of force majeure, as asserted by the Joint Venture, prevent SANRAL from exercising its rights under the performance guarantee?
+
+The underlying principles of contract law, particularly concerning performance guarantees and the concept of autonomy in such instruments, were also at stake ([1]–[3]).
+
+### R – Rules
+The applicable legal principles include:
+
+1. **Autonomy Principle**: Established by case law, this principle indicates that performance guarantees operate independently of the underlying contract. They require the bank (or issuer) to honor the guarantee's terms without regard to any disputes arising from the underlying contract unless fraud is established ([7]–[8]).
+
+2. **Construction of Guarantees**: The court emphasized that the guarantee is usually unconditional, meaning that unless specified otherwise, the issuer is obligated to pay upon demand ([7]–[9]).
+
+3. **Conditions Precedent in Underlying Contracts**: The provisions in the underlying contract elucidated the limited circumstances in which SANRAL could demand payment under the performance guarantee, namely in cases of non-performance or upon the occurrence of specific conditions ([19]–[20]).
+
+4. **Force Majeure**: The concept is defined within the contract, describing exceptional events that relieve a party from performing its contractual obligations ([3]).
+
+### A – Application
+In its judgment, the Supreme Court of Appeal examined the interplay between the underlying contract and the performance guarantee. The court affirmed that even if the Joint Venture's claim of force majeure was valid, it did not preclude SANRAL’s rights as the beneficiary of the performance guarantee to demand payment ([26]–[28]).
+
+1. **Evaluation of Force Majeure**: The court dismissed the Joint Venture’s assertion that their invocation of force majeure impacted SANRAL's right to call on the guarantee. It reasoned that refusal to perform by the Joint Venture, regardless of underlying claims of force majeure, fell within the broad terms of the guarantee, which permitted SANRAL to call for payment on various grounds, including non-performance ([28]).
+
+2. **Autonomy Principle Affirmed**: The court noted that the guarantee's unconditional nature provided SANRAL a right to payment without needing to satisfy the conditions precedent outlined in the underlying contract. The Joint Venture’s failure to establish a prima facie case (future likelihood of success) related to the force majeure was emphasized, which led to the dismissal of its application for interdict ([9]–[27]).
+
+3. **Indemnity Clauses**: The court also elaborated on the indemnity provision in clause 4.2 of the underlying contract, noting it did not impede SANRAL's rights to demand payment simply on the future possibility of the demand being deemed unlawful ([20]–[26]).
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately upheld the decision of the High Court, dismissing the Joint Venture's appeal with costs. The ruling underscored the autonomy of performance guarantees in contract law, reaffirming that the conditions of the underlying contract do not necessarily limit the beneficiary's right to call on a guarantee when specific performance failures occur. 
+
+The implications of this judgment extend to clarifying that, in South African law, the enforceability of performance guarantees is strong, and parties entering such agreements should recognize the autonomy and unconditionality of guarantees unless expressly limited by their terms. This ruling may serve as a precedent in future disputes involving contractual performance guarantees, further solidifying their role in commercial transactions ([1]–[32]). 
+
+---
+
+**References**:
+- Joint Venture between Aveng (Africa) (Pty) Ltd and Strabag International GmbH v South African National Roads Agency Soc Ltd and Another [2020] ZASCA 146.
+- Edward Owen Engineering Ltd v Barclays Bank International Ltd [1978] 1 All ER 976 (CA).
+- Loomcraft Fabrics CC v Nedbank Ltd and Another 1996 (1) SA 812 (A).
+- Eskom Holdings Soc Ltd v Hitachi Power Africa (Pty) Ltd and Another [2013] ZASCA 101.
+- Kwikspace Modular Buildings Ltd v Sabodala Mining Co Sarl and Another [2010] ZASCA 15.

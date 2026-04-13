@@ -1,0 +1,44 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this document
+Source Folder: 2024
+
+# FIRAC Case Note
+
+**Title:** Sanoj Jeewan v Transnet SOC Limited and Another (696/2023) [2024] ZASCA 108 (4 July 2024)
+
+---
+
+### F - Facts
+The appellant, Sanoj Jeewan, was employed as a Corporate Governance Manager by the first respondent, Transnet SOC Limited, under a contract that commenced on 2 October 2006. Following a forensic investigation conducted by Ernst & Young, Transnet dismissed Jeewan on 14 May 2010, citing misconduct related to unethical collaboration with a recruitment service provider. Despite submitting a letter of resignation the same day, disciplinary proceedings were initiated. Jeewan argued that his dismissal was unfair and subsequently referred the dispute to the Transnet Bargaining Council (TBC) within the statutory period as provided by the Labour Relations Act 66 of 1995. 
+
+An arbitration hearing took place in early 2012, culminating in an award that found Jeewan's dismissal procedurally fair. 
+
+On 29 January 2015, Jeewan filed civil summons against Transnet and EY, claiming R57,374,996.02 for breach of contract and delictual damages, arguing the damages were incurred from the date of his dismissal to the year 2034, when he would retire. Transnet responded with special pleas, including lack of jurisdiction, prescription, and res judicata. The High Court upheld these pleas and dismissed Jeewan's claims with costs. However, the Supreme Court of Appeal (SCA) granted Jeewan leave to appeal, leading to the current judgment ([paras 1-17]).
+
+### I - Issues
+The key legal issues pertained to:
+
+1. Whether the High Court had jurisdiction over Jeewan’s claims or whether they should have been addressed exclusively through the TBC.
+2. Whether Jeewan's claims had prescribed under section 11(d) of the Prescription Act 68 of 1969.
+3. The applicability of res judicata given the previous arbitration ruling ([paras 8-10]).
+
+### R - Rules
+The legal principles involved included:
+
+1. **Prescription Act 68 of 1969**, particularly sections 11(d) and 12(1), which govern the time limits within which claims must be initiated.
+2. **Labour Relations Act 66 of 1995**, which outlines the processes for addressing unfair dismissals.
+3. **Section 39(2)** and **Section 34 of the Constitution**, which compel courts to interpret legislation in accordance with the Bill of Rights. 
+4. The **Biowatch principle** that establishes guidelines for costs in constitutional litigation, especially when a private individual litigates against the state ([paras 9, 13, 47]).
+
+### A - Application
+In deciding the case, the SCA focused primarily on the prescription issue. Jeewan contended that his claim did not arise until 1 February 2012, when the arbitration award was issued, arguing that the debt was "not due" at the time of dismissal on 14 May 2010. This was countered by Transnet, asserting that statutory obligations, including those arising from the LRA, did not affect the contractual obligations that constituted a "debt" under the Prescription Act.
+
+The SCA ruled that the essence of Jeewan's claim stemmed from a breach of contract, which became actionable upon his dismissal on 14 May 2010. Despite Jeewan's attempts to invoke constitutional interpretations and alternative procedural routes, the court confirmed that he had sufficient knowledge of all pertinent facts to establish his claim at that time. Therefore, the three-year period for prescription began on the date of dismissal, resulting in the claim’s extinguishment by the time he filed suit in 2015.
+
+Regarding jurisdiction, the SCA found that the High Court erred in asserting that the matter solely fell under the LRA, recognizing that employees may simultaneously pursue claims under both labour law and common law without being restricted exclusively to statutory mechanisms ([paras 22-26, 35-46]).
+
+On the issue of res judicata, since the SCA acknowledged Jeewan’s distinct basis for his claim—contractual breach rather than direct unfair dismissal under the LRA—it concluded the previous arbitration should not bar his civil claim, agreeing with Transnet's concession on this point ([paras 41-46]).
+
+### C - Conclusion
+The SCA upheld Jeewan’s appeal concerning the special pleas of jurisdiction and res judicata, finding in favor of his right to pursue a civil claim for damages rooted in contractual terms, while also dismissing his appeal on the special plea of prescription. Accordingly, the court reformulated prior orders to reflect that his claim had indeed prescribed according to section 11(d) of the Prescription Act, with no order for costs due to the circumstances of representation and Transnet’s late concessions ([paras 52-54]). 
+
+The ruling clarifies the scope of jurisdiction for overlapping claims within labour and civil law and reinforces the importance of adherence to prescription periods in the context of legal claims, reinforcing the convergence of constitutional obligations and common law rights.

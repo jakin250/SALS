@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# Case Note: *Bertie Van Zyl (Pty) Ltd t/a ZZ2 and Others v Minister of Agriculture, Forestry and Fisheries and Others*
+
+### F - Facts
+
+The appellants in this matter include Bertie Van Zyl (Pty) Ltd t/a ZZ2, Tomato Producers’ Organisation, Noordelike Uie Komitee, and Fresh Produce Importers’ Association NPC. They initiated an application in the Gauteng Division of the High Court, Pretoria, seeking a declaration that section 3(1A)(b)(ii) read with section 3A(4) of the Agricultural Product Standards Act 119 of 1990 (the Act) was unconstitutional and invalid. They also sought to review and set aside the fees determined by the Product Control for Agriculture (Procon), the second respondent, for inspections mandated by the Act ([1]-[4]).
+
+The Act governs the sale, export, and import of specific agricultural products, providing that fees may be charged for inspections carried out by appointed assignees. The appellants contested that the assignees' ability to unilaterally determine fees constituted an arbitrary deprivation of property and violated constitutional principles, including the rule of law and standards of public administration ([1]-[3])[^1].
+
+The High Court dismissed the appellants' application on the basis of not having exhausted internal remedies prescribed by section 10 of the Act, which allows for an appeal against decisions made by executors and assignees ([4]).
+
+### I - Issues
+
+The primary legal questions presented to the court were whether:
+
+1. The power of assignees to determine inspection fees, as provided in the Act, constituted an arbitrary deprivation of property in violation of section 25 of the Constitution.
+2. The provision also contravened the rule of law and the principles of public administration as articulated in sections 1(c) and 195(1) of the Constitution.
+3. The High Court was correct in determining that the appellants failed to exhaust the internal remedies available under section 10(1) of the Act ([4]-[5]).
+
+### R - Rules
+
+The judgment primarily relied on several key constitutional provisions and past case law, including:
+
+- **Section 25 of the Constitution**: Pertaining to property rights and the conditions under which deprivation occurs. The court cited *First National Bank of SA Ltd t/a Westbank v Commissioner SARS* as a conceptual framework for understanding deprivation of property ([8]-[14]).
+- **Sections 1(c) and 195(1) of the Constitution**: These sections elaborate on the supremacy of the Constitution and the principles governing public administration respectively. The court referenced *Minister of Home Affairs v NICRO* elucidating that values enshrined in the Constitution do not provide independently enforceable rights ([15]).
+- **Promotion of Administrative Justice Act 3 of 2000 (PAJA)**: The procedural fairness requirements mandated under this act were crucial in evaluating administrative actions, specifically in terms of the notice and comment process followed by Procon ([24]).
+
+### A - Application
+
+The court analyzed whether the appellants successfully demonstrated that the assignee’s fee determination represented a property deprivation under section 25 of the Constitution. The judgment concluded that mere obligation to pay a fee for services rendered does not constitute deprivation of property: 
+
+1. The fees charged were in exchange for specific services (inspections), which were vital for compliance with the regulatory framework of the Act. Hence, the transaction is deemed reciprocal in nature ([9]-[10]).
+2. The court emphasized the appellants did not challenge the regulatory framework itself, which implies that the inspections serve legitimate public interests ([10]-[11]). As such, the ability of assignees to determine reasonable fees does not infringe on property rights when those fees are justified by services rendered.
+
+On the issue of procedural fairness and the rationality of the fee determination by Procon, the court acknowledged weaknesses in the notice-and-comment procedures followed by Procon. The absence of clarity about how fees were determined compromised the reasonableness and fairness of the administrative actions ([26]-[32]).
+
+The court critically engaged with the rational basis review, concluding that while methodology was provided by Procon in calculating fees, there remained a lack of comprehensible linkage between weight classifications and fee categorization ([36]-[38]).
+
+### C - Conclusion
+
+The Supreme Court of Appeal upheld part of the appeal while dismissing others. It affirmed that the provisions of the Agricultural Product Standards Act regarding fee determination were not unconstitutional or invalid. However, it ruled that the determination of inspection fees by Procon was procedurally flawed and the process, failing to meet the standards of fairness as defined by PAJA, required review and nullification ([39]-[43]).
+
+The judgment highlights the complex interplay between administrative efficiency, regulatory compliance, and individual rights under the South African constitutional framework. The ruling reinforces the essential principle that while public bodies possess expansive powers, such powers must be exercised within the bounds of legality, reasonableness, and fairness. The implications of this judgment resonate across administrative law, particularly in contexts where financial decisions are made by public entities in the agricultural sector.
+
+---
+
+[^1]: Agricultural Product Standards Act 119 of 1990; Constitution of the Republic of South Africa, 1996.

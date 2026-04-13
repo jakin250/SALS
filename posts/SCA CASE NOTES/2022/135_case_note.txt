@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Mazars Recovery & Restructuring (Pty) Ltd and Others v Montic Dairy (Pty) Ltd (in Liquidation) and Others (526/2021) [2022] ZASCA 135
+
+## F - Facts
+
+The case concerns the business rescue process of Montic Dairy (Pty) Ltd, which was placed under business rescue proceedings on 2 November 2015 ([para 3]). The appointed business rescue practitioners (BRPs) were employees of Mazars Recovery & Restructuring (Pty) Ltd ([para 3]). In April 2016, following creditor pressure, liquidation proceedings were initiated against Montic Dairy, which prompted the BRPs, despite recognizing the lack of success in the business rescue, to file for conversion to liquidation on 16 May 2016 ([para 4]).
+
+While their application was pending, the BRPs made payments totaling R1.5 million to Mazars for their services on 23 May and 2 June 2016 ([para 4]). Upon the liquidators' appointment following the court’s June decision, a challenge to these payments was initiated due to their timing relative to the commencement of winding-up proceedings under section 341(2) of the Companies Act 61 of 1973 ([paras 5-6]). The resignation and subsequent litigation culminated in the High Court declaring the payments void, invoking sections 341(2) and 348 of the Companies Act 1973, with an order for repayment ([para 2]).
+
+## I - Issues
+
+The primary legal issue was whether the payments made to the BRPs after the initiation of liquidation proceedings but prior to the actual winding-up order were void according to the stipulations of sections 341(2) and 348 of the Companies Act 61 of 1973 ([para 1]). Related questions included:
+
+1. Whether the payments constituted dispositions under section 341(2).
+2. Whether courts could examine the application of previous statutory provisions (from the Companies Act 1973) in conjunction with newer ones (from the Companies Act 2008) to determine the validity of these payments.
+
+## R - Rules
+
+The legal framework centers on several provisions of the Companies Act 1973 and the Companies Act 2008:
+
+- **Section 341(2)**: States that every disposition of a company’s property made after winding-up commences shall be void unless the court permits otherwise.
+- **Section 348**: Establishes that winding-up is deemed to commence at the time of the presentation of the winding-up application.
+- **Provisions of the Companies Act 2008**: Specifically, sections 143(1), 135(3), and 143(5), which relate to the remuneration and expenses of business rescue practitioners ([para 8]).
+
+### Judicial Precedents
+
+- **Eravin Construction CC v Bekker N O** ([2016] ZASCA 30): Reinforced that dispositions made after winding-up are void unless a court order states otherwise.
+- **Pride Milling Company (Pty) Ltd v Bekker N O** ([2021] ZASCA 127): Clarified that the purpose of section 341(2) is to prevent any dissipation of a company’s assets during winding-up to safeguard creditor interests.
+
+## A - Application
+
+The Supreme Court of Appeal analyzed the timing of the payments concerning the statutory definitions of a winding-up and the implications of the provisions cited ([paras 10-12]). The BRPs contended that the payments should not be deemed dispositions, arguing that these were necessary for their continued performance during the ongoing business rescue proceedings ([para 7]). However, the Court noted:
+
+- **Violation of Section 341(2)**: Since the payments occurred after the commencement of the winding-up as defined by the filing of the liquidation application, they were inherently void under section 341(2) ([paras 7, 11]). 
+
+Furthermore, the BRPs' reliance on sections of the Companies Act 2008 failed when scrutinized; these sections do not expressly grant BRPs any entitlement to payment post-conversion to liquidation without court intervention ([paras 25-29]). The arguments rested on a misunderstanding of the statutory provisions, leading to rejection based on precedent ([para 30]).
+
+## C - Conclusion
+
+Ultimately, the Supreme Court of Appeal upheld the High Court's ruling that the payments made to the business rescue practitioners were void due to the statutory provisions surrounding winding-up procedures ([para 16]). The Court reiterated the importance of adhering to legislative frameworks designed to protect creditors and ensure equitable treatment during liquidation. The decision highlighted the necessity of engaging with the court to validate any such transactions post-commencement of winding-up proceedings. The appeal was dismissed with costs ([para 17]).

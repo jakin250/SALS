@@ -1,0 +1,71 @@
+Case Note: DIE HOOGSTE HOF VAN APPèL
+Source Folder: 2003
+
+# FIRAC Case Note: Die Hoogste Hof van Appèl van Suid-Afrika
+
+**Case Citation:** ABSA Bank Limited v W A Greyvenstein, Case No: 54/2002
+
+**Court:** Die Hoogste Hof van Appèl van Suid-Afrika  
+**Judges:** Howie P, Harms, Streicher, Conradie, Cloete, AJ  
+**Hearing Date:** 21 February 2003  
+**Judgment Date:** 17 March 2003  
+
+## F – Facts
+
+[1] This case concerns a cheque, dated December 7, 1999, deposited into the account of Investcorp CC (‘Investcorp’) by the appellant, ABSA Bank Limited. The cheque, drawn by Standard Bank of South Africa Limited in favour of the respondent, W A Greyvenstein, was for an amount of R325,000, and was marked ‘not negotiable’ and ‘not transferable’. The respondent’s signature and identification number appeared on the back of the cheque. The appellant accepted the cheque for collection, and the funds were credited to Investcorp’s account.
+
+[2] In a subsequent action initiated by the respondent against the appellant in the Transvaal Provincial Division (‘the court a quo’), the respondent claimed that the appellant acted unlawfully and negligently in presenting the cheque for payment, thereby causing him loss equivalent to the cheque’s value. The court a quo upheld the respondent’s claim and awarded judgment in his favour for R325,000 plus interest and costs. This appeal arises from that decision.
+
+[3] Article 6(5) of the Bills of Exchange Act 34 of 1964 (‘the Act’) states that a bill containing words prohibiting transfer is valid between the parties to the bill but is ‘not negotiable’. The precedent in *Standard Bank of SA Ltd v Sham Magazine Centre* indicates that the term ‘negotiable’ may carry different meanings within the Act. Specifically, it can indicate transferable only to the extent that the transferee becomes the holder free from equities.
+
+[4] The court a quo likely relied on the precedent set in *Indac Electronics (Pty) Ltd v Volkskas Bank Ltd*, asserting that a collecting banker can be held liable under an extended lex Aquilia for negligence towards the true owner of a cheque, provided all elements of Aquilian liability are satisfied.
+
+[5] The appellant argued that the respondent was no longer the owner of the cheque at the time it was presented for collection and contended that the court a quo erred in determining that he acted unlawfully and negligently towards the respondent. Additionally, the appellant claimed that the respondent was prevented from asserting ownership by estoppel because he had endorsed the cheque, misleading the appellant.
+
+## I – Issues
+
+[6] The primary legal issues to determine include:
+
+1. Whether the appellant acted unlawfully and negligently by collecting the cheque on behalf of Investcorp, given that it was clearly marked as ‘not transferable’.
+2. Whether the endorsement of the cheque by the respondent constituted a transfer of ownership.
+3. Whether the respondent could be estopped from claiming ownership due to his actions in endorsing the cheque.
+4. The implications of the fraudulent acquisition of the cheque on the transfer of ownership under South African law.
+
+## R – Rules
+
+[7] The legal framework pertinent to this case is established in the Bills of Exchange Act, particularly Article 6(5) and Article 29(1), which outlines the negotiability and transferability of cheques. According to the Act, a cheque marked as ‘not transferable’ cannot be assigned in such a way that grants the assignee the status of a holder.
+
+[8] Jurisprudence from *Indac Electronics* articulates that a collecting banker may be liable if they act negligibly and unlawfully in accepting a cheque from someone not entitled to it. The court must assess whether all elements of negligence and Aquilian liability are satisfied.
+
+[9] Precedent established in *Dalrymple, Frank and Feinstein v Friedman* clarifies that ownership of personal property, such as a cheque, can be transferred under conditions that meet requisite voluntariness, despite obtaining it through false pretenses.
+
+## A – Application
+
+[10] In applying the law to the facts, it is crucial to recognize the implications of marking a cheque as ‘not transferable’. As established, the respondent did not have the capacity to authorize the bank to act on behalf of another when endorsing the cheque. Despite the respondent’s intent to have Scott Asset Managers invest the proceeds, the manner of endorsement and present status of the cheque meant it could not be transferred under South African law.
+
+[11] The court a quo’s determination that the appellant acted negligently appears double-faceted; while the evidence showed that the bank was negligent in not recognizing the endorsement’s implications, it failed to consider adequately the respondent’s role in presenting the cheque in the form it was.
+
+[12] The argument surrounding estoppel hinges on whether the actions of the respondent constituted a clear intention to transfer ownership, validly endorsing the cheque. However, since the respondent clearly intended to designate Scott as an agent, it undermined his claim of ownership at the time the bank processed the cheque.
+
+[13] Furthermore, the case illustrates a misinterpretation of fraudulent acquisition by the court a quo. The lawful transfer of ownership under personal property stipulations does indeed account for imperfect transactions when no consent was given – thus, the absence of ownership should negate any preemption regarding liability on the appellant’s part.
+
+## C – Conclusion
+
+[14] The appeal subsequently must succeed based on the findings that:
+
+1. The appellant did not act unlawfully or negligently in processing the cheque because the ownership had effectively transferred prior to its deposit with the bank.
+2. The endorsement did not amount to an ownership transfer owing to the express indication that the cheque was ‘not transferable’.
+3. Thus, the decision of the court a quo to award damages based on misapplication of liability standards was incorrect.
+
+[15] The final order affirms the appellant's position, with an order of costs awarded against the respondent. The implications of this decision shed light on the liability of banks in cheque transactions and the significance of clear endorsement practices, establishing precedence for future cases involving the negotiation and transfer of cheques marked with transfer restrictions.
+
+---
+
+**Footnotes:**
+1. *Standard Bank of SA Ltd v Sham Magazine Centre* 1977 (1) SA 484 (A) at 493E-H. 
+2. *Indac Electronics (Pty) Ltd v Volkskas Bank Ltd* 1992 (1) SA 783 (A) at 797A-D. 
+3. *Dalrymple, Frank and Feinstein v Friedman and Another* 1954 (4) SA 649 (W) at 664A-C. 
+4. *First National Bank of SA Ltd v Quality Tyres (1970) (Pty) Ltd* 1995 (3) SA 556 (A) at 568F. 
+5. *Strydom NO v Absa Bank Bpk* 2001 (3) SA 185 (T) at 194B-C.  
+
+(Note: The textual references within the FIRAC method follow an academic style and the legal assertions made rely on prior cases and statutes.)

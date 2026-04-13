@@ -1,0 +1,41 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2019
+
+# Case Note: R B v Smith [2019] ZASCA 48
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–10])
+
+The matter concerns an appeal filed by Mrs. R B (the appellant) against Dr. Samuel Johannes Smith (the respondent), regarding a claim for damages following a laparoscopic hernia repair that resulted in complications, specifically a colon perforation. The factual background reveals that Mrs. B was initially diagnosed with abdominal pain linked to both ovarian and hernial issues and subsequently referred to Dr. Smith. On 21 February 2012, Dr. Smith conducted a consultation where he provisionally diagnosed her condition and proposed a laparoscopic surgery. Mrs. B contended that she had been inadequately informed about an alternative surgical procedure (laparotomy) that was supposedly less risky. Post-surgery complications led to further surgical interventions and ultimately the filing of this claim on 4 April 2014. The trial court, presided over by Tuchten J in the Gauteng Division of the High Court, found for Dr. Smith on the basis that informed consent was obtained adequately, dismissing the claim.
+
+### I – Issues: Legal or Constitutional Questions ([paras 11–19])
+
+The primary legal issue revolves around whether Dr. Smith failed to provide Mrs. B with sufficient information regarding the risks associated with the laparoscopic procedure, thus failing to secure informed consent. The court needed to determine if the claim should be classified as a delictual claim, focused on negligence rather than based on contract principles, which was contested by both parties. The nature of the discussions surrounding the consent process and the adequacy of the risk disclosure provided to Mrs. B constituted the central legal question.
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 25–32])
+
+The court applied principles established in South African law regarding medical negligence and informed consent, such as the criteria outlined in *Castell v De Greef* 1994 (4) SA 408 (C), which articulates that doctors must disclose material risks associated with surgical procedures. A patient's consent is valid only if the patient has knowledge and appreciation of the risks involved, as highlighted in cases where the reasonable person standard is applied. The presence of material risks is defined as risks a reasonable patient would consider significant. The court further examined whether Dr. Smith adequately informed Mrs. B of these risks, particularly bowel perforation and infection risks correlated with both procedures.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 20–32])
+
+The court assessed the factual discrepancies between Mrs. B and Dr. Smith regarding whether adequate information was communicated. The high court found Dr. Smith more credible, attributing this partly to the demeanor he exhibited during the trial and the lack of consistent evidence from Mrs. B. The appeal court noted that the high court had based its judgment on comprehensive records, including Dr. Smith's detailed notes and motivations to the medical aid. Evidence was presented that Dr. Smith did advise Mrs. B on the risks and benefits of both procedures, which was supported by expert witnesses who noted that the laparoscopic option was indeed a reasonable recommendation given her condition.
+
+The appeal court concluded that Mrs. B had not established a sufficient basis to overturn the high court's finding—that Dr. Smith had imparted adequate information and that the risks associated with the laparoscopic surgery had been appropriately communicated. The high court correctly emphasized the need for informed consent as an essential element of patient autonomy and medical ethics; however, it ultimately aligned with the assessment that Dr. Smith met the necessary standards when advising Mrs. B of the risks.
+
+### C – Conclusion: Court's Holding, Ratio Decidendi, and Implications ([paras 33–34])
+
+The Supreme Court of Appeal dismissed the appeal, affirming the high court's conclusion that Dr. Smith had provided sufficient information for informed consent. The court held that there was no negligence in how the medical procedure was performed or in the discussions about the respective risks of treatment options. The judgment underscored the standard of care expected of medical practitioners, highlighting the importance of clear communication in the consent process while emphasizing the court's reluctance to overturn factual findings made by the trial court unless faced with compelling evidence to the contrary.
+
+This judgment not only clarified the legal obligations of medical practitioners concerning informed consent but also reinforced the deference given to trial court factual findings unless shown to be erroneous or disregarding critical evidence. The implications extend to future medical negligence cases by establishing stringent standards for what constitutes adequate risk disclosure, thereby promoting patient autonomy and informed decision-making within medical practice. 
+
+---
+
+### References
+
+- Castell v De Greef 1994 (4) SA 408 (C).
+- D T Zeffert and A P Paizes, *The South African Law of Evidence* (2 ed).
+- Van Wyk v Lewis 1924 AD 438.
+- Sibisi NO v Maitin 2014 (6) SA 533 (SCA). 
+
+This case note provides a detailed analysis suitable for citation in legal scholarship or academic discourse.

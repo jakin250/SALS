@@ -1,0 +1,29 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2019
+
+# FIRAC Case Note: De Klerk v Minister of Police [2019] ZACC 32
+
+### F – Facts
+The applicant, Bryan James de Klerk, was arrested without a warrant on December 21, 2012, by Constable Ndala following a complaint of assault made by his employer, Mr. Rael Lasarow. De Klerk reported to the Sandton police station at the request of the police. Following his arrest, he was taken to the Randburg Magistrates' Court, where he was placed in holding cells. Although the docket noted a recommendation for bail of R1,000, he was not given an opportunity to apply for bail at his initial court appearance. The court instead ordered his remand in custody without considering his bail application. De Klerk was ultimately released on December 28, 2012, when Mr. Lasarow withdrew his complaint.
+
+De Klerk subsequently filed a delictual claim against the Minister of Police, arguing that he should be compensated for the unlawful arrest and for the entire period of unlawful detention, including the period following his initial court appearance ([2]–[5], [101]–[102]). The High Court dismissed his claim, ruling that the arrest and subsequent detention were lawful. However, the Supreme Court of Appeal found the arrest unlawful. A division in the court's ruling arose regarding the liability of the Minister for De Klerk’s detention beyond his first court appearance, resulting in a damages award of R30,000 for the period until his appearance ([6]–[8]).
+
+### I – Issues
+The primary legal questions presented to the Constitutional Court were:
+1. Whether the Minister of Police should be held liable for the entire duration of De Klerk’s detention after his initial appearance in court, given that the arrest was ruled unlawful.
+2. Whether the Magistrate’s order for further detention constituted a novus actus interveniens, which would break the causal chain of liability stemming from the initial unlawful arrest ([1]–[96]).
+
+### R – Rules
+The relevant legal principles governing this case include:
+- **Delictual Liability**: A delict is characterized by wrongful and culpable conduct that causes harm to another. The plaintiff must establish that their liberty was interfered with intentionally, that the interference was wrongful, and that it was caused by the defendant’s conduct ([13]–[15]).
+- **Legal Causation**: This consists of two components—factual causation and legal causation (remoteness of harm). Factual causation can be assessed using the "but-for" test, while legal causation evaluates whether the harm was too remote from the wrongful act ([24]–[27]).
+- **Novus Actus Interveniens**: An intervening act can create a break in the chain of causation, potentially relieving the original wrongdoer of liability for subsequent harm if it is shown that the intervening act was a fresh and independent cause of the harm ([13]–[18], [67]–[75]).
+- **Section 12(1) and 35 of the Constitution**: These sections protect against arbitrary deprivation of liberty and enshrine rights related to lawful arrest, fair trial, and rights during detention ([12]–[35]).
+
+### A – Application
+Theron J, leading the majority, concluded that De Klerk had shown that his unlawful arrest directly caused his detention for more than a week without just cause. The majority rejected the notion that the Magistrate’s order for further detention constituted a sufficient break in the causal chain because it failed to involve a judicial process that respected De Klerk’s rights. Moreover, it was recognized that the police knew that the judicial process might not adequately protect his rights ([65]–[88]).
+
+In contrast, Froneman J (dissenting) held that the police could not be held liable for further detention once the Magistrate exercised her judicial discretion. The dissent emphasized that the judicial process had a lawful basis to invoke a further detention, making it unreasonable to ascribe continued liability to the police for the actions taken by another arm of government. Mogoeng CJ’s dissent aligned with this reasoning, emphasizing separation of powers and public policy considerations regarding the independence of the judiciary ([114]–[186]).
+
+### C – Conclusion
+The Constitutional Court, in a split decision, ruled that the Minister of Police was liable for the entirety of De Klerk's detention after his unlawful arrest. The Court concluded that the unlawful arrest and subsequent detention were causally linked, and thus the Minister was ordered to pay R300,000 in damages. Additionally, the order mandated that the Minister pay costs spanning the entire litigation process ([91]–[96]). The case underscores the complexities of liability in the context of unlawful detention and judicial oversight, illustrating the tensions between constitutional rights and administrative duties of the police, while reaffirming the standards for establishing both unlawful detention and compensatory claims in South African law.

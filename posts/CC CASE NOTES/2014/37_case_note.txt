@@ -1,0 +1,43 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2014
+
+# FIRAC Case Note: *Arun Property Development (Pty) Ltd v City of Cape Town* [2014] ZACC 37
+
+**F** – **Facts**:  
+The appellant, Arun Property Development (Pty) Ltd (Arun), acquired land from the University of Stellenbosch in 1997 with the intent to develop it into a township in Durbanville, Western Cape. Prior to the acquisition, the University had consulted city planners and confirmed that the property fell within the logical expansion area for future development. The Western Cape’s Land Use Planning Ordinance (LUPO) required local authorities to adopt a structure plan to guide land use.
+
+In seeking to subdivide the property for residential development, Arun was informed that the subdivision application had to accommodate anticipated future road networks, as outlined in an approved structure plan from 1988. The City of Cape Town (City) granted approvals for the subdivision but did not require that the portions of land designated for higher-order public roads be ceded without compensation.
+
+Subsequently, Arun claimed compensation under section 28 of LUPO for excess land (higher-order roads) that it was required to cede to the City, arguing that these provisions did not arise from the normal needs of their development. The High Court found in favor of Arun, deciding that the excess land had vested in the City and that it was entitled to compensation calculated under the Expropriation Act. However, the Supreme Court of Appeal reversed this decision, stating that compensation was not warranted based on existing case law, particularly *City of Cape Town v Helderberg Park Development (Pty) Ltd*.
+
+The matter was then escalated to the Constitutional Court, which ultimately addressed the definitions and implications surrounding expropriation, compensation, and the parameters of municipal planning authority under LUPO.
+
+**I** – **Issues**:  
+The case raised several legal and constitutional questions:
+1. What is the proper interpretation of section 28 of LUPO?  
+2. Does section 28 mandate that all public streets vested in the local authority are compensated if they exceed normal needs?  
+3. Is the 1988 structure plan considered a "policy" under section 28 of LUPO?  
+4. Does the vesting of land under section 28 constitute expropriation requiring compensation?  
+5. May a developer seek compensation without first exhausting applicable appeal or review remedies under LUPO?  
+
+**R** – **Rules**:  
+The court relied on various provisions of the South African Constitution, particularly section 25 regarding property rights. Section 25(1) prohibits arbitrary deprivation of property, while 25(2) stipulates that expropriation may only occur for public purposes or in the public interest, requiring compensation.
+
+The court also carefully analyzed section 28 of LUPO, which states:
+> “The ownership of all public streets and public places over or on land indicated as such at the granting of an application for subdivision under section 25 shall... vest in the local authority... without compensation... if the provision of the said public streets and public places is based on the normal needs…”
+
+The *Helderberg* case was similarly key, where the Supreme Court of Appeal had previously concluded that conditions imposed on subdivision could limit compensation claims.
+
+**A** – **Application**:  
+The Constitutional Court sought to interpret section 28 by closely analyzing its language. It determined that the vesting of land in a local authority requires that such vesting arises from a normal need. The court noted the need to prevent legislation from allowing uncompensated expropriation (confiscation), emphasizing that the section could not authorize confiscation without compensation unless explicitly stated.
+
+The ruling also examined whether the 1988 structure plan constituted a "policy" as envisioned in section 28. The court decided that a distinction must be made between strategies for broader development (a structure plan) and specific policies that may define obligations regarding compensation when excess land is concerned. Since the City failed to provide specific guiding policies for how normal needs are determined, the claim for excess land compensation stood valid.
+
+Moreover, the court highlighted that the vesting under section 28 can be understood as a form of expropriation which entitles a landowner to compensation, thus aligning with constitutional guarantees against arbitrary deprivation.
+
+Finally, it rejected the City’s argument that Arun needed to exhaust appeal or review options before claiming compensation, stating that the vesting of land occurred as a matter of law independent of the local authority’s approval process, establishing a direct right to compensation for excessive land ceded.
+
+**C** – **Conclusion**:  
+The Constitutional Court unanimously ruled in favor of Arun, reinstating the High Court’s decision, that the excess land had vested in the City under section 28 of LUPO and that Arun was entitled to compensation according to the provisions of the Expropriation Act 63 of 1975. The court's decision also affirmed the necessity of compensation when the needs exceeded those normal to the subdivision process, aligning legislative interpretation with constitutional property rights protections. The ruling has significant implications for future municipal development practices, emphasizing that excess acquisitions beyond normal needs must be compensated and delineating the boundaries of local authority planning against constitutional protections against arbitrary deprivation.
+
+This judgment bears significant implications for property developers and local authorities in South Africa, ensuring a clearer understanding of compensation rights in land use planning and confirming the importance of constitutional safeguards against uncompensated expropriation.

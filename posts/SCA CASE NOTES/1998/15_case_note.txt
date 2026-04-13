@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 1998
+
+# FIRAC Case Note: Cohen Brothers Furniture (Pty) Ltd v The Minister of Finance
+
+## F – Facts
+The case revolves around the tax obligations of Cohen Brothers Furniture (Pty) Ltd ("Cohen Bros"), an external company incorporated in South Africa, and its wholly-owned subsidiary, Allied Re-Insurance Co (Pty) Ltd ("Allied"), classified as a Ciskeian company under the regulations of the Income Tax Act 44 of 1984 ("the Act") ([paras 1-2]). The central issue concerns the payment of withholding tax on dividends declared by Allied, which were deducted and paid over to the Receiver of Revenue in compliance with the Act due to a legislative amendment that altered tax jurisdiction after Cohen Bros had declared dividends totaling R37,506,799 in 1991 ([paras 3-6]).
+
+In light of a legal precedent set in Income Tax Case No 1544, where a similar withholding tax was deemed discriminatory, Cohen Bros sought a refund of the withholding tax, arguing that the retrospective amendment under the Income Tax Amendment Decree 2 of 1993 violated the double taxation agreement between South Africa and Ciskei ([para 4-5]). After several procedural shifts, the matter was brought to the Supreme Court of Ciskei, and the original respondents were replaced following the dissolution of the Republic of Ciskei in 1994; they included officials of the South African government adversely implicated ([paras 8-10]).
+
+Ultimately, the court issued a ruling that the tax paid under the unamended Act was repayable, yet it simultaneously recognized a new withholding tax imposed under the amended Act and allowed the respondents to offset this new liability against funds previously paid by Allied ([paras 10-12]).
+
+## I – Issues
+Two primary legal questions arose from the appellate proceedings:
+
+1. **Constitutionality of Retrospective Legislation**: Did the retrospective application of the Income Tax Amendment Decree 2 of 1993 violate established principles of law and rights under the Constitution of the Republic of Ciskei ([para 6])?
+   
+2. **Validity of Withholding Tax**: Was the withholding tax due on the dividends declared by Allied, and could the Commissioner for Inland Revenue lawfully retain the amounts previously paid in light of the retrospective reforms introduced ([para 6])?
+
+## R – Rules
+The court relied heavily on the provisions within the Income Tax Act and its amendments, specifically sections regarding withholding tax ([paras 1-2]). Key legislative provisions included:
+
+- **Section 12** of the Act, defining the withholding tax’s legitimacy and the specified rates ([para 1]).
+- **Section 13(a)(iii)**, defining the criteria under which withholding taxes were imposed and amended through the Decree, impacting how "external" and "Ciskeian" companies were treated ([paras 1-3]).
+- The principle articulated in **Income Tax Case No 1544**, providing that withholding tax could not discriminate based on nationality and was thus subject to the merits of double taxation agreements ([para 4]).
+- The pivotal decision-making of the court referenced **Wijesuriya v Anita** and its assertions on the retrospective application of statutes, particularly fiscal laws ([para 10]).
+
+## A – Application
+The court's analysis focused on historical context and legislative intent behind the amendments. It established that the Decree’s retrospective pronouncement aimed to legalize previously collected taxes. The court acknowledged that sections 15 and 16 of the Act confirmed obligations for withholding amid declaration, reinforcing that the tax liability fell on Allied as the payor ([para 13]).
+
+The court further engaged with the established principle from **Wijesuriya**, although it ultimately found that the retrospective application served not to impose a new tax unlawfully, but rather clarified existing obligations that had been ostensibly vacated by the earlier, maladaptive definition of "external company" ([para 11-12]). 
+
+With respect to the declaration of tax liability, the court noted that Cohen Bros’ claims did not hold since the tax was already expediently due by the time the application was initiated. Thus, the respondents retained lawful authority to enforce tax collection under the amended provisions ([para 14-15]). It concluded that the legal structures to retain tax payments had not fundamentally shifted, allowing tax obligations to persist.
+
+## C – Conclusion
+The Supreme Court of Appeal dismissed the appeal, affirmatively upholding the cross-appeal and establishing that the withholding tax paid in 1991 was due and payable under the amended Act. The court's ruling meant that the appellants were not entitled to a refund ([paras 17-18]). As articulated, the court thus recognized that the legislative changes pursued a legitimate goal of maintaining revenue collection mechanisms and that prior payments had ceded to valid obligations under the current law, effectively reinforcing the authority of the Commissioner of Inland Revenue to retain funds collected before the reforms ([para 16]).
+
+This case illustrates the complex interaction between retrospective legislative amendments and tax obligations, emphasizing the courts' willingness to uphold tax authority prerogatives when aligned with clear legislative intent and established legal principles. The implications for future taxation cases may rest in understanding how amendments and their timelines can drastically affect both the state’s rights and individual entities’ fiscal responsibilities.

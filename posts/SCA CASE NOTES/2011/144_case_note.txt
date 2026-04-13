@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# Case Note: Eldacc (Pty) Ltd v Bidvest Properties (Pty) Ltd (682/10)
+
+## FIRAC Method
+
+### F – Facts
+In the case of **Eldacc (Pty) Ltd v Bidvest Properties (Pty) Ltd**, Eldacc (the appellant) entered into a lease agreement for a commercial property with Rennies Distribution Services (Pty) Ltd for a duration of ten years. Central to this agreement was Clause 35, which provided an option for Rennies to purchase the leased premises, stipulating that the option would lapse if not exercised by a specified date, 1 June 2007 ([1]).
+
+The clause explicitly described itself as a **stipulatio alteri**, which benefits a third party—in this instance, any subsidiary of Bidvest Group Limited. Notably, Rennies nominated Bidvest Properties (the respondent) as the entitled beneficiary under this stipulatio alteri ([2]). Within the designated time period, Bidvest exercised this option through written notice to Eldacc, signifying its intent to purchase the property ([1], [2]).
+
+Following this, Eldacc sought to cancel the agreement, leading Bidvest to pursue motion proceedings for specific performance in the South Gauteng High Court. The court granted the relief sought by Bidvest, prompting Eldacc to appeal to the Supreme Court of Appeal ([3]).
+
+### I – Issues
+The principal issue addressed by the court revolved around the legal nature of the stipulatio alteri and the validity of Bidvest's acceptance of the offer to purchase the property. Two pivotal questions emerged:
+1. Does the stipulatio alteri allow a third party, Bidvest, to exercise the option independently of the original contracting party, Rennies?
+2. Was Eldacc's reliance on Clause 30, which required any agreement to be in writing and signed for validity, a valid defense against the exercise of the option by Bidvest? ([4], [5]).
+
+### R – Rules
+The court outlined several key legal principles:
+1. A **stipulatio alteri** enables a third party to accept a promised benefit, creating a vinculum iuris directly between the promisor (Eldacc) and the third party (Bidvest), independent of the stipulator (Rennies) ([5], [6]).
+2. Judicial precedents reiterated that the act of a third party accepting an offer constitutes the establishment of a contractual relationship directly with the promisor, effectively making the stipulator's right to consent irrelevant once acceptance has occurred. This principle was established in cases such as **McCullogh v Fernwood Estate Ltd** and **Pieterse v Shrosbree NO** ([6], [7]).
+3. The court cited the requirement per Clause 30 for any variation of the original agreement to be in writing. However, since the essence of the clause's stipulation was not varied—merely executed by Bidvest—the requirements of Clause 30 did not hinder the third party’s acceptance ([8], [10]).
+
+### A – Application
+The court meticulously analyzed the arguments presented concerning Clause 30, ultimately determining that the statutory requirement for written acceptance was inapplicable to the stipulatio alteri in this context. The acceptance of the offer by Bidvest served to create a direct contractual relationship with Eldacc, effectively bypassing the requirement for Rennies' consent to the nominated beneficiary's exercise of rights ([4], [6], [10]).
+
+The court emphasized that the original agreement between Eldacc and Rennies remained intact and unaltered. The mere nomination of Bidvest did not necessitate a formal alteration of the existing contractual relationship but rather constituted an execution of the pre-existing option granted to Rennies ([10]). By exercising its rights as per the stipulatio alteri, Bidvest's acceptance was valid, and no further written agreement was needed to formalize the acceptance ([5], [10]).
+
+### C – Conclusion
+The Supreme Court of Appeal dismissed Eldacc's appeal, upholding the prior judgment from the South Gauteng High Court. The court confirmed that Bidvest's acceptance of the option was valid and constituted a binding agreement between it and Eldacc. The ruling reinforced the legal understanding of **stipulatio alteri**, affirming that once the third party accepted the offer, it no longer had to rely on the stipulator's rights to enforce the contract ([11]). The decision delineates clear boundaries regarding the independence of rights granted to third parties under contractual frameworks and underscores the need for clarity in contractual stipulations concerning third-party benefits.
+
+This ruling has significant implications for future contractual agreements within South Africa, particularly in dealing with stipulations benefiting third parties, reaffirming their standing in South African contract law. Additionally, it clarifies the essential distinction between variations of agreements and the execution of options under a stipulatio alteri, ensuring smoother transactional relationships in commercial contexts.

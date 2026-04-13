@@ -1,0 +1,60 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Commissioner for the South African Revenue Service v Diageo SA (Pty) Ltd (1063/2023) [2024] ZASCA 158
+
+### F – Facts
+
+This appeal arises from a dispute regarding the classification of a specific product, Cape Velvet Cream Original, manufactured by the respondent, Diageo SA (Pty) Ltd (Diageo). The appellant, the Commissioner for the South African Revenue Service (SARS), had classified the product under Tariff Heading 2208.470.22 as a spirituous beverage. This classification took into account the composition of the product, which contains a wine spirit base and additional alcoholic ingredients, including vanilla, which has an alcohol by volume (ABV) content of 0.6% ([paras 1-10]).
+
+On 18 March 2021, the Gauteng Division of the High Court dismissed Diageo's appeal against this classification. Subsequently, the full court reversed this decision on 5 July 2023, siding with Diageo’s contention that the liqueur should be classified under Tariff Heading 2208.70.21, characterizing it as having non-alcoholic ingredients based on the final ABV of the flavouring, which was significantly lower at 0.002% ([paras 2-3, 19]).
+
+The critical legal issue revolved around the interpretation of 'non-alcoholic ingredients' in Additional Note 4 to Chapter 22 of Schedule 1 of the Customs and Excise Act 91 of 1964 ([paras 12, 16]). The Commissioner sought special leave to appeal this decision, arguing that the full court had misinterpreted the relevant legal provisions regarding classification.
+
+### I – Issues
+
+The legal questions primarily concern:
+
+1. **Classification of Cape Velvet Cream Original**: Whether the full court correctly interpreted Additional Note 4(b) of the Act in determining whether the product contained 'non-alcoholic ingredients' as required for classification under Tariff Heading 2208.70.21 ([paras 19-20]).
+   
+2. **Definition of 'Non-Alcoholic Ingredients'**: Should the term ‘non-alcoholic’ be interpreted strictly as 'no alcohol', or may it encompass ingredients containing negligible alcohol content under the de minimis principle? This raises broader implications regarding the interpretation of terms within regulatory statutes ([paras 14, 21]).
+
+3. **Application of the De Minimis Principle**: Whether the full court correctly applied the de minimis principle as a valid interpretative tool to classify the ingredients used in Cape Velvet Cream Original ([paras 20-21, 43]).
+
+### R – Rules
+
+The court's ruling hinged upon several legal frameworks and precedents relevant to the classification process outlined in the Customs and Excise Act:
+
+1. **Customs and Excise Act 91 of 1964**: This Act provides the legislative framework for the classification of goods and associated excise duties. Part 1 of Schedule 1 delineates the headings and subheadings used for tariff classification ([paras 5-6]).
+
+2. **Interpretation of Additional Note 4**: The note specifies the conditions under which certain liqueurs are classified. In particular, Additional Note 4(b) stipulates that Tariff subheadings shall only apply to liqueurs containing wine spirits and ‘other non-alcoholic ingredients’ ([paras 11, 12]).
+
+3. **General Rules for Interpretation**: The legal authorities highlighted that classification involves three stages: the interpretation of the words in the headings and notes, the consideration of the goods in question, and the selection of the most appropriate heading ([para 8]).
+
+4. **De Minimis Principle**: While the principle traditionally applies in various legal contexts to denote that the law does not concern itself with trifling matters, its applicability in customs classification was contentious in this case ([paras 20, 43]).
+
+5. **Case Law**: The court cited precedents such as *Distell Ltd v Commissioner of South African Revenue Service* and *Toneleria Nacional RSA (Pty) Ltd* emphasizing the importance of textual interpretation before contextual consideration ([paras 6-7]).
+
+### A – Application
+
+The court meticulously analyzed the text of Additional Note 4(b) to ascertain its meaning. It emphasized that the ordinary grammatical meaning of ‘non-alcoholic’ should prevail, which connotes an absence of alcohol rather than a mere threshold of alcohol content such as 0.5% ([para 46]). The full court’s interpretation, which suggested that an astronomical decrease in alcohol content could potentially render Alcoholic components as non-alcoholic, was found to be legally unfounded ([paras 46, 47]).
+
+The court contended that while the full court referenced de minimis principles derived from comparative legal frameworks (such as U.S. customs law), it failed to adequately address the South African context and the distinct legislative objectives behind the Act ([paras 43, 44]). Additionally, the court rejected the analogy drawn with the Road Traffic Act, asserting that interpretations across statutes should not be conflated without explicit legislative intent ([para 39]).
+
+In re-evaluating the classification stage, the Supreme Court of Appeal underscored that the final product classification must consider all components' alcoholic contributions, which in this case definitively included the flavouring—albeit in minimal quantities ([paras 48-50]). Thus, the product was more suitably classified under Tariff Heading 2208.70.22, as determined by the Commissioner.
+
+### C – Conclusion
+
+The Supreme Court of Appeal concluded that the full court erroneously construed 'non-alcoholic ingredients' and misapplied the de minimis principle. The Court reaffirmed that the statutory language was explicit and should lead to clarity regarding classification and excise duty obligations. Consequently, the appeal was upheld, overturning the full court's ruling, thereby reinstating the Commissioner’s original classification of Cape Velvet Cream Original under Tariff Heading 2208.70.22 ([paras 52-53]). This decision highlights the necessity for precision in tariff classifications and affirms the principle that legislative text must be understood first and foremost in its plain language.
+
+---
+
+This case illustrates the stringent interpretation mandates within customs legislation and underscores the need for clarity in regulatory frameworks to facilitate effective compliance and enforcement in the South African tax environment.
+
+### References
+
+- *Distell Ltd & Another v Commissioner of South African Revenue Service (416/09) [2010] ZASCA 103; [2011] 1 All SA 225 (SCA) (13 September 2010)*.
+- *Commissioner for South African Revenue Service v Toneleria Nacional RSA (Pty) Ltd [2021] ZASCA 65; [2021] 3 All SA 299 (SCA); 2021 (5) SA 68 (SCA); 83 SATC 42*.
+- *Minister of Police and Others v Fidelity Security Services (Pty) Limited [2022] ZACC 16; 2022 (2) SACR 519 (CC); 2023 (3) BCLR 270 (CC)*.
+- *Independent Institute of Education (Pty) Limited v Kwa-Zulu Natal Law Society and Others [2019] ZACC 47; 2020 (2) SA 325 (CC)*.
+- *Natal Joint Municipal Pension Fund v Endumeni Municipality [2012] ZASCA 13; [2012] 2 All SA 262 (SCA); 2012 (4) SA 593 (SCA)*.

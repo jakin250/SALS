@@ -1,0 +1,44 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+# Case Note: Madibeng Local Municipality v DDP Valuers and Another (1284/2017) [2020] ZASCA 70
+
+## FIRAC Method
+
+### **F – Facts**: Relevant Background and Procedural History ([paras 1-12])
+
+The case revolves around an application for leave to appeal from the Madibeng Local Municipality (the Municipality), directed against the judgment of the Gauteng Division of the High Court ([para 1]). The dispute began when the Municipality invited tenders in May 2013 for the compilation of a new valuation roll and related residual services for the period from 1 July 2014 to 30 June 2018 ([para 4]). Among the bidders were DDP Valuers (Pty) Ltd (DDP) and Activa Valuation Services (Pty) Ltd (Activa). The Municipality controversially awarded the tender to Dijalo Property Valuers (Dijalo), whose bid was significantly higher than DDP's and Activa's ([para 5]).
+
+DDP contested this award, leading to a High Court review ([para 6]). Initially, the application was dismissed on the grounds that DDP did not exhaust internal remedies ([para 6]). However, upon appeal, this decision was overturned, and the case remitted for consideration of the merits. The High Court subsequently found material irregularities in the tender process and set aside the award in November 2015, directing the Municipality to reconsider the tender ([para 6]).
+
+Despite this, as the process developed, Taung Municipality awarded a different tender to Activa. The Municipality, after receiving a valuation roll from Dijalo, appointed Activa for residual services based on regulations permitting procurement under contracts secured by other organs of state ([paras 8-12]). DDP challenged this appointment, arguing it conflicted with the High Court's prior directions and regulatory frameworks governing tender processes ([para 12]).
+
+### **I – Issues**: Legal or Constitutional Questions ([paras 15-16])
+
+The primary issues arose from whether the tender award and subsequent appointments made by the Municipality adhered to legal standards established by the Promotion of Administrative Justice Act (PAJA) and relevant regulations under the Municipal Finance Management Act (MFMA). Specifically, the court contemplated the following questions:
+
+1. **Reviewability of the tender cancellation**: Is the Municipality's decision to cancel a tender reviewable under PAJA? ([para 16(a)]). 
+2. **Respective powers post-cancellation**: Can an organ of state procure the same or similar services under the existing framework after cancellation? ([para 16(b)]).
+3. **Interpretation of regulatory provisions**: How should the phrases "under a contract secured by another organ of state" and "demonstrable discounts or benefits" in regulation 32 be interpreted? ([para 16(c) & (d)]).
+
+### **R – Rules**: Legal Authorities and Precedents Relied Upon ([paras 2-12, 17-23])
+
+The legal framework relevant to the case includes the South African Constitution, particularly Section 229(1)(a), which empowers municipalities to impose property rates ([para 2]). The Municipal Property Rates Act 6 of 2004 details the process for municipal valuations and tendering ([paras 2-3]), while the PAJA governs administrative action, including tender cancellations and reviews ([para 17]).
+
+Several cases were cited to clarify the court's stance on tender cancellations and administrative justice. In particular, the judgments in *Nambiti Technologies* ([para 17]) and *Valozone* highlighted varying interpretations of what constitutes administrative action when a tender is canceled post-award. The Supreme Court of Appeal has identified that while cancellation decisions are rooted in executive authority, principles of administrative justice apply once a tender has been awarded and subsequently annulled ([para 17]).
+
+Furthermore, the court assessed the application of regulation 32 of the Municipal Supply Chain Management Regulations, which permits municipalities to procure goods and services under contracts secured by other organs of state ([para 9]).
+
+### **A – Application**: Analysis of How the Court Applied the Law ([paras 15-24])
+
+In analyzing the first issue, the court highlighted that the facts as established by the court a quo did not present a typical scenario necessitating a review under PAJA. The court found that the prior ruling decreed that the tender had not been canceled ([paras 18-19]). Thus, the question of whether the cancellation was reviewable was effectively moot, as the facts did not support a claim that a review was warranted based on the cancellation being treated as an exercise of administrative action ([para 18]).
+
+The second issue concerning the procurement of services post-cancellation also fell flat under the court's findings. The court determined that Activa’s appointment could not be justified under regulation 32, as it provided different services than originally tendered ([para 18]).
+
+Regarding the interpretation of regulation 32, the court examined the conditions for invoking the regulation, resulting in a ruling that the terms outlined did not permit the Municipality to bypass the rigorous tender process unjustifiably ([para 19]).
+
+### **C – Conclusion**: Court’s Holding, Ratio Decidendi, and Implications ([paras 22-24])
+
+Ultimately, the Supreme Court of Appeal dismissed the application for leave to appeal, articulating that the issues presented were moot and would not have any practical consequence ([paras 23-24]). The court emphasized the intention behind the Superior Courts Act to limit the workload of appellate courts by avoiding matters without substantial legal implications. By potentially permitting the appeal to proceed despite its mootness, the court risked deviating from this legislative intention.
+
+The decision underscores a critical judicial principle that administrative actions related to tendering processes must adhere strictly to legal frameworks and principles of fairness and transparency, reinforcing the accountability of public institutions. Furthermore, the ruling illustrates a cautious approach amongst appellate courts to avoid adjudicating hypothetical or abstract legal questions, preserving resources for more pressing legal disputes.

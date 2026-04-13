@@ -1,0 +1,34 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+### Case Note: Firstrand Bank Ltd v Nkata (213/14) [2015] ZASCA 44
+
+#### F – Facts
+The case revolves around an appeal by Firstrand Bank Limited (the appellant) against a judgment by the Western Cape High Court concerning a default judgment that the bank had obtained against Nomsa Nkata (the respondent). The factual backdrop is established in the context of a property transaction and subsequent residential mortgage under the National Credit Act 34 of 2005 (NCA). 
+
+In 2005, Ms. Nkata acquired an undeveloped property in Durbanville, backed by a mortgage bond provided by Firstrand Bank. Over time, particularly between 2010 and 2013, Ms. Nkata defaulted on her mortgage payments. This led to the bank issuing various notices in accordance with section 129 of the NCA and finally obtaining a default judgment and a writ of execution, declaring the property executable ([paras 1–6]).
+
+The issue was compounded by Ms. Nkata’s attempts to secure a rescission of both the default judgment and the impending sale in execution of the property. She had made a previous attempt to negotiate her arrears, resulting in a settlement agreement that allowed the bank to sell the property if payments were again defaulted. In this instance, she claimed not to have received the requisite notices, despite evidence to the contrary ([paras 1–4]).
+
+#### I – Issues
+The pivotal legal issue before the court was the interpretation of sections 129(3) and 129(4) of the NCA, particularly concerning whether the rescheduling or restructuring of debt nullified a writ of execution that had already been issued against Ms. Nkata. The court had to determine whether Ms. Nkata could reinstate her credit agreement following the sale in execution and what constituted "execution" under the NCA. The court needed to clarify the proper boundaries of reinstatement rights vis-à-vis prior executions ([paras 11, 23, 44]).
+
+#### R – Rules
+1. **National Credit Act 34 of 2005**: Sections 129(3) and 129(4) govern the reinstatement of credit agreements in default. Section 129(3)(a) allows a debtor to reinstate a credit agreement by paying overdue amounts, while section 129(4) explicitly states that reinstatement is not permitted after the sale of property has occurred ([paras 11, 24, 44]).
+
+2. **Common Law Principles of Execution**: The court referenced various case laws that elaborate on the execution process as a series of actions rather than a single event, asserting that execution encompasses the complete enforcement of a judgment ([paras 20, 31]).
+
+#### A – Application
+The argument before the court centered on whether the high court correctly interpreted execution as occurring only when proceeds were paid over to the creditor, which the bank contended was erroneous. The Supreme Court of Appeal concluded that execution, as per the NCA, refers to a process culminating in the sale of property and that the right to reinstate is unequivocally lost once that execution occurs ([paras 44]). 
+
+The court examined Ms. Nkata's circumstances, including her previous arrangements with the bank and her attempts to reinstate her agreement. It found that despite her claims, the legal framework did not provide for reinstatement after the sale in execution. This interpretation supported the bank’s position and reaffirmed the statutory protection intended for credit providers against repeated attempts by debtors to evade execution ([paras 24, 35, 42]).
+
+#### C – Conclusion
+The Supreme Court of Appeal held that the interpretation of section 129(4) of the NCA must be applied rigorously, reinforcing the prohibition against reinstatement after a sale in execution. The appeal was upheld with costs, indicating a clear judicial direction that the rights of creditors, as envisaged under the NCA, must be respected even in the face of consumer distress ([paras 44, 46]). The court emphasized that execution is a process aiming to provide certainty in financial transactions, thereby supporting public confidence in the legal mechanisms of property sales and enforcing credit agreements ([paras 43, 35]).
+
+### References
+- National Credit Act 34 of 2005 (South Africa).
+- *Nedbank Ltd v Fraser & another and Four Other cases* [2011] ZASCA 44.
+- *Ferris & another v FirstRand Bank Limited & another* [2014] ZACC 34.
+- Reghard Brits, ‘Purging mortgage default: Comments on the right to reinstate credit agreements in terms of the National Credit Act’, (2013) 24 Stellenbosch Law Review 165.
+- *ABSA Bank Limited v Van Eeden & others* [2011] ZAGSHC 344.

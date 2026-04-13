@@ -1,0 +1,82 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2020
+
+### FIRAC Case Note
+
+**Case Title:**  
+Brocsand (Pty) Ltd v Tip Trans Resources (Pty) Ltd and Others (Case no 925/2019) [2020] ZASCA 144 (4 November 2020)
+
+**Court:**  
+Supreme Court of Appeal of South Africa  
+
+**Coram:**  
+Mbha, Van der Merwe, Mocumie, Mabindla-Boqwana, and Unterhalter JJA
+
+---
+
+#### F – Facts: Relevant Background and Procedural History ([paras 1–14])
+
+Brocsand (Pty) Ltd (the Appellant) entered into a mining contract with Full Score Trading CC (the First Defendant) on 12 October 2010, whereby Brocsand was to provide mining services for minerals (laterite and sand) on a property known as Red Hill. This agreement contained a right of first refusal for Brocsand to enter into a new agreement upon expiration ([para 4]).
+
+On 30 January 2015, Full Score appointed Tip Trans Resources (Pty) Ltd (the Respondent) as its mining contractor for Red Hill, simultaneously a separate agreement was made regarding Doornkraal with Global Pact Trading 370 (Pty) Ltd ([para 5]). Brocsand learned of this development around June 2015, asserting that it breached its right of first refusal, and subsequently declared its intention to enforce that right ([paras 6–7]).
+
+Tip Trans raised an exception against Brocsand's particulars of claim, arguing they revealed no cause of action, primarily contending that Brocsand's rights were limited to Red Hill and did not extend to Doornkraal ([paras 8–9]). The Western Cape Division of the High Court upheld this exception ([para 10]) and dismissed Brocsand's application to amend its claim ([paras 12–13]).
+
+---
+
+#### I – Issues: Legal or Constitutional Questions ([paras 2, 10, 27])
+
+The central legal questions to be addressed were:
+
+1. What is the nature and extent of the rights held by a grantee under a right of first refusal and the duties of the grantor?
+2. Can Brocsand invoke the Oryx mechanism to assert rights against third parties (Tip Trans and Global Pact) regarding contracts that do not pertain to its original agreement?
+3. Did the court a quo err in dismissing Brocsand's application for leave to amend its particulars of claim on the basis that it would not resolve the legal deficiencies present?
+
+---
+
+#### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 2–26])
+
+The court examined several legal doctrines and authorities, including:
+
+- **Oryx mechanism:** Established in *Associated South African Bakeries (Pty) Ltd v Oryx & Vereinigte Bäckereien (Pty) Ltd*, where a holder of a preemption right can step into the contractual position of a third party upon breach of the right of first refusal ([para 2]).
+  
+- **Doctrine of Notice:** Permits the grantee to enforce their preferential personal rights not only against the grantor but also third parties who knowingly interfere with that right ([paras 25–26]).
+
+- **Discretion in Amendments:** The court cited *YB v SB and Others NNO* regarding the judicial discretion in amending particulars of claim, which must be exercised in light of all relevant facts ([para 15]).
+
+The court also referenced the principle established in *Hirschowitz v Moolman*, clarifying the essential nature of “stepping into the shoes” as creating an independent contract rather than making the grantee a party to the contract between the grantor and the third party ([para 22]).
+
+---
+
+#### A – Application: Analysis of How the Court Applied the Law ([paras 26–27])
+
+In its ruling, the Supreme Court of Appeal held that:
+
+1. The *Oryx mechanism* does not extend Brocsand’s rights to include claims concerning Doornkraal as those rights arose solely from the Red Hill Agreement. The Oryx mechanism only preserves existing rights and cannot create new rights against parties with whom the holder had no initial contractual relationship ([paras 10, 26]).
+   
+2. Applying the *doctrine of notice* was insufficient for Brocsand to assert rights against Global Pact concerning Doornkraal. The presence of mala fides in Tip Trans's actions could not enhance the rights originally granted to Brocsand under the Red Hill agreement ([para 25]).
+
+3. The court affirmed that the exceptions raised by Tip Trans were valid, as the particulars of claim failed to demonstrate a legal basis for the claim concerning Doornkraal ([paras 10, 27]). Thus, the refusal to amend the particulars of claim was upheld, as these amendments would not cure the underlying legal inadequacies.
+
+---
+
+#### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 26–29])
+
+The Supreme Court of Appeal dismissed the appeal with costs, affirming the court a quo's decision. The ruling underscored that rights of first refusal are circumscribed by their original agreements and do not extend to subsequent agreements involving third parties unless explicitly stated. The ruling highlights the importance of clear contractual definitions and the limitations of legal mechanisms like the Oryx mechanism and doctrine of notice.
+
+The implications of this decision confirm that while grantees may have protective rights, these are not infinite and must adhere to the original contractual framework agreed upon with the grantor. Future parties drafting similar agreements must be vigilant in specifying the scope and limitations of rights of first refusal to avoid the pitfalls explored in this case. 
+
+The case illustrates the judiciary's commitment to upholding the integrity of contractual agreements while remaining wary of the nuances that govern the interactions between multiple parties in complex contractual settings. 
+
+--- 
+
+### References
+- *Associated South African Bakeries (Pty) Ltd v Oryx & Vereinigte Bäckereien (Pty) Ltd* 1982 (3) SA 893 (A).
+- *Mokone v Tassos Properties CC and Another* [2017] ZACC 25; 2017 (5) SA 456 (CC).
+- *Hirschowitz v Moolman and Others* 1985 (3) SA 739 (A).
+- *YB v SB and Others NNO* [2015] ZAWCHC 109; 2016 (1) SA 47 (WCC).
+- *Saligee-Quickfall v Daniels and Others* [2015] ZAWCHC 115.
+- Uniform Rules of Court, Rule 28.
+
+
+(Note: This case note is structured to serve as a legal reference and should be interpreted within the context of South African law and constitutional principles.)

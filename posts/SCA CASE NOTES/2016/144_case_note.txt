@@ -1,0 +1,41 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2016
+
+# Case Note: Edwards v FirstRand Bank Limited t/a Wesbank [2016] ZASCA 144
+
+## FIRAC Method
+
+### Facts
+The Supreme Court of Appeal dealt with an appeal from the Gauteng Local Division of the High Court, Johannesburg, where John Black Edwards (the appellant) contended that FirstRand Bank Limited t/a Wesbank (the respondent) had failed to comply with certain provisions of the National Credit Act 34 of 2005 (NCA) before disposing of a motor vehicle that formed the subject of an instalment sale agreement ([1–2]).
+
+The agreement, entered into on 24 July 2009, involved the financing of an Aston Martin Vantage Coupe for a transaction price of R1,457,958. The appellant paid a deposit of R145,000 and was to pay fifty-nine monthly instalments of R23,100. Due to financial difficulties, he fell into arrears by April 2011, leading to the respondent issuing a summons to cancel the agreement, reclaim the vehicle, and seek shortfall damages ([2–4]). 
+
+Initial attempts by the respondent to secure judgment through summary proceedings were fruitful, culminating in a judicious ruling on 12 August 2011 requiring the appellant to return the vehicle ([3]). The appellant denied the validity of the agreement, citing issues of recklessness and non-compliance with specific sections of the NCA ([4]).
+
+Following repossession of the vehicle on 6 July 2012, the respondent dispatched notices as required under sections 127(2) and 127(5) of the NCA on 13 June 2012 and 1 August 2012, respectively, both purportedly sent to the address provided by the appellant ([5–6]). The appellant argued he did not receive these notices and challenged their legality based on non-compliance, invoking case law such as *ABSA Bank Ltd v De Villiers & another* ([8]).
+
+Ultimately, the trial court found in favor of the respondent regarding the compliance with the NCA, leading the appellant to appeal ([18]).
+
+### Issues
+The primary issues pertained to whether the respondent adhered to the requirements stipulated under sections 127(2) and (5) of the NCA concerning the requisite notices prior to the sale of the vehicle, and whether the appellant had indeed received these notices ([7–8]). The court also contemplated distinguishing scenarios involving voluntary surrender versus court-ordered repossession and anticipated whether sections applicable under voluntary agreements could equally be invoked under involuntary circumstances ([14–16]).
+
+### Rules
+1. **National Credit Act 34 of 2005**:
+   - Section 127(2) requires that within 10 business days of repossession, a credit provider must notify the consumer of the estimated value of the goods ([10]).
+   - Sections 127(5) outlines that after any sale of repossessed goods, the credit provider must inform the consumer of the sale's financial particulars, including the gross proceeds from the sale ([13]).
+
+2. **Judicial Precedents**:
+   - *Kubyana v Standard Bank of South Africa Ltd* emphasized consumer accountability regarding notice compliance when the consumer had nominated an address for service ([9]).
+   - In *Baliso v Firstrand Bank Limited*, it was argued that the burden of proving receipt lies with the consumer, given an ordinary mail dispatch ([10]).
+
+### Application
+The Supreme Court analyzed the adherence of the respondent to the requisite statutory obligations outlined in sections 127(2) and (5). Although the appellant represented that he had not received the notices, the court highlighted that the burden rested upon him to demonstrate the reasonableness of his expectation to assert non-receipt, particularly given that the notices were forwarded to his nominated address. The court noted that, in accordance with the NCA, the mere lack of physical receipt does not automatically negate the obligation fulfilled by the provider upon dispatch ([44–49]).
+
+Further, the legal interpretation clarified that while warnings regarding the necessity for consumer awareness are integral to protect consumers, such statutory protections should not serve to enable evasion of acknowledged financial obligations. Consequently, the court posited that the appellant’s selection of an address with known delivery issues was inherently unreasonable ([46–49]). 
+
+As for the sale of the vehicle, evidence was provided that demonstrated compliance with the statutory requirement to achieve 'the best price reasonably obtainable' as mandated by section 127(4), with the vehicle being auctioned for R763,800—significantly above the established valuation—thus nullifying claims of inadequate price realization ([33–34]).
+
+### Conclusion
+The appeal was dismissed with costs. The court affirmed that the respondent had complied with the requirements of the National Credit Act concerning notice provisions. It upheld that the appellant’s failure to receive the notices stemmed from his own stipulation of an inadequate address rather than any negligence on the part of the respondent ([18]). The judgment underscored the importance of clarity in contractual engagements, especially where consumers rely on comprehensive protections outlined in the NCA, thereby reaffirming the legal positions concerning delivery and communication in the creditor-debtor relationship. 
+
+Thus, it was concluded that the statutory guidelines of the NCA were sufficiently met, and the contractual obligations enforced against the appellant remained intact despite his defenses. The judgement's implications serve to reinforce consumer responsibilities within financial agreements while still advocating for compliance from credit providers within the ambit of legislative frameworks ([58]).

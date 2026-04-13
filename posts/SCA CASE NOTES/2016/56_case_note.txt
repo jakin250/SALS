@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: Trustco Group International (Pty) Ltd v Vodacom (Pty) Ltd  (82/2015) [2016] ZASCA 56
+
+## FIRAC Method
+
+### F – Facts
+
+The present appeal arises from the dispute involving Trustco Group International (Pty) Ltd (Trustco), the holder of South African Patent no 2010/03199, and Vodacom (Pty) Ltd (Vodacom). Trustco failed to timely pay the required renewal fees, resulting in the patent lapsing on November 26, 2011. Subsequently, Trustco filed for restoration of the patent as provided by section 47(1) of the Patents Act 57 of 1978 (the Act) ([paras 2–3]).
+
+The restoration application was publicized on June 26, 2013, inviting objections from third parties. Vodacom opposed the restoration and filed a notice on August 26, 2013. According to Regulation 83 of the Act, Trustco had a two-month window to submit a counterstatement in response to Vodacom’s objection. The counterstatement was due on October 26, 2013, but due to it falling on a Saturday, it was actually due by October 28 ([paras 4–5]).
+
+On October 30, 2013, Trustco's former attorneys sought a two-month extension from the Registrar of Patents, who granted the request. Vodacom contested this extension before Commissioner Makgoba, arguing that Regulation 83 was mandatory and that Trustco’s failure to comply with its timeframes amounted to abandonment of the restoration application ([paras 6–9]).
+
+The Commissioner agreed with Vodacom and interpreted that the registrar’s discretionary power under section 16(2) of the Act was not unfettered and was limited by the specific provisions of Regulation 83 ([paras 10–12]). Trustco subsequently appealed the Commissioner’s ruling to the Supreme Court of Appeal ([para 12]).
+
+### I – Issues
+
+The primary legal issue before the Supreme Court of Appeal was whether the Registrar of Patents has the discretionary power to extend time periods specified in the Patents Act, specifically in relation to the provisions of Regulation 83 concerning the filing of counterstatements in patent restoration applications ([para 1]). The court sought to clarify whether Regulation 83's provisions created a peremptory timeframe that would preclude the exercise of the registrar's discretionary power under section 16(2) of the Act ([paras 7–10]).
+
+### R – Rules
+
+The relevant legal framework revolves around the Patents Act 57 of 1978, particularly:
+- **Section 16(2)**: This section grants the Registrar the power to extend time limits either before or after their expiry unless expressly restricted by the Act or its regulations ([para 7]).
+- **Regulation 83**: A regulation issued under the Act stipulating a two-month limit for filing counterstatements in opposition cases, which, according to Vodacom, should operate as a mandatory timeframe, triggering the abandonment of the application if not adhered to ([para 4]).
+
+### A – Application
+
+The Supreme Court of Appeal analyzed the language and intent of both section 16(2) and Regulation 83. The court posited that Regulation 83 does not intrinsically limit or override the registrar's broader discretionary authority prescribed by section 16(2). It determined that the regulation simply does not contain an express prohibition against granting such extensions, thus supporting the interpretation that the registrar retains some latitude to act in the interest of fairness ([paras 13–14]).
+
+Furthermore, the court emphasized that a remedial power—such as extending timelines to avoid undue hardship—should be interpreted broadly. The court criticized the lower court’s reliance on previous cases that viewed regulation time limits as absolute, suggesting that those cases failed to consider the precedence of legislative authority ([paras 15–19]). The court contended that an overly narrow interpretation of the registrar’s power could lead to unjust outcomes whereby legitimate applicants could be denied rights due to procedural technicalities. It also addressed Vodacom's concerns regarding potential indefinite delays, asserting that the discretion must be exercised judiciously to safeguard the rights of all parties involved ([paras 19–20]).
+
+### C – Conclusion
+
+The Supreme Court of Appeal ultimately held that the registrar does possess the discretionary authority to grant extensions for filing counterstatements under section 16(2) without being hindered by the provisions of Regulation 83. The appeal was upheld, the lower court’s decision reversed, and it was ruled that the extension granted by the Registrar was valid, thereby rejecting the notion that Trustco had abandoned its application for restoration of the patent ([paras 21, 1]).
+
+In sum, this case underscores the balance that courts must maintain between regulatory compliance and equitable access to justice, affirming that statutory provisions should be interpreted in light of their overall purpose and intent. This ruling creates clearer parameters for the operation of the discretionary powers within the context of patent law in South Africa, thus promoting fairness in patent litigation and patent restoration applications.

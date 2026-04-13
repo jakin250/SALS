@@ -1,0 +1,50 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Aurecon South Africa (Pty) Ltd v City of Cape Town (20384/2014) [2015] ZASCA 209
+
+## FIRAC Method
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–10])
+
+This case arose from an appeal against a judgment of the Western Cape Division of the High Court, which reviewed and set aside a decision by the City of Cape Town (the City) to award Tender No. 459C/2010/11 to Aurecon South Africa (Pty) Ltd (Aurecon) for the decommissioning of the Athlone Power Station. The City initiated judicial review proceedings against its own decision based on allegations of procedural irregularities during the tender evaluation process ([para 1]).
+
+The irregularities claimed were linked to Aurecon's prior involvement in a prefeasibility study for the power station, which allegedly compromised the fairness of the procurement process. Despite the City’s officials asserting that there was no fraud or corruption involved, the review sought to invalidate Aurecon’s tender award, claiming a breach of the Supply Chain Management Policy (SCMP) and related regulations ([paras 2–4]).
+
+The initial award was made on 31 October 2011, but the City did not launch its review application until 532 days later, on 16 April 2013. This delay became a focal point for the appeal, particularly concerning the interpretation of the time-limit provisions in sections 7 and 9 of the Promotion of Administrative Justice Act 3 of 2000 (PAJA) ([para 6], [para 14]).
+
+### I – Issues: Legal or Constitutional Questions ([paras 11–16])
+
+The principal issues presented in this case include:
+
+1. **Time Limit for Judicial Review**: Whether the City’s review application was prematurely dismissed due to non-compliance with the 180-day limit stipulated in section 7(1) of PAJA ([para 11]).
+2. **Irregularities in the Procurement Process**: Whether the irregularities asserted by the City warranted the review and setting aside of the tender award under section 6(2)(c) of PAJA ([para 10]).
+3. **Disqualification of Aurecon**: Whether Aurecon was improperly disqualified from bidding under clause 95 of the SCMP and regulation 27(4), stemming from its prior involvement in preparing the draft scope of work for the tender ([para 39]).
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 11–16])
+
+In reaching its decision, the court relied on several legal principles and statutory provisions:
+
+1. **Promotion of Administrative Justice Act 3 of 2000**: Notably, sections 6(2)(c) concerning procedural fairness, section 7(1) stipulating the period for instituting review proceedings, and section 9 permitting extensions of the prescribed period where the interests of justice require ([paras 13–14]).
+2. **Local Government Municipal Finance Management Act 56 of 2003**: Sections detailing the regulatory framework for municipal procurements ([para 1]).
+3. **Constitution of South Africa, 1996**: Section 217 mandates that procurement by state organs must be fair, equitable, transparent, competitive, and cost-effective, which guided the evaluation of the City's actions ([para 15]).
+
+Additionally, case law such as *Gqwetha v Transkei Development Corporation Ltd* and *Bato Star Fishing (Pty) Ltd v Minister of Environmental Affairs* provided precedents relating to the requirements for a fair administrative process and acceptable grounds for review ([para 16]).
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 17–45])
+
+**Time Limit for Judicial Review**: The court determined that the City was aware of its decision and the reasons behind it as of 31 October 2011 and that its application for review, filed significantly beyond the prescribed 180 days, was out of time. The court clarified that the City could not seek an extension under section 9 of PAJA merely by alleging procedural irregularities after a significant delay without presenting compelling reasons for why a delay should be condoned ([para 19]).
+
+**Irregularities in the Procurement Process**: The court analyzed whether the alleged irregularities adversely affected the procurement process. It examined the auditors’ findings on the evaluation processes but ultimately held that these did not translate into the unlawful conduct that would warrant nullifying the tender award, particularly as no fraud or corruption was found. The court emphasized that administrative action, though not perfect, must also conform to reasonable standards and not solely rigid formal requirements ([para 43]).
+
+**Disqualification of Aurecon**: The court disagreed with the City’s assertion that Aurecon was disqualified from bidding due to its prior involvement. It reasoned that the purpose of clause 95 of the SCMP and regulation 27(4) was to ensure fairness in the procurement process rather than to apply a blanket disqualification based on prior work. The court observed that Aurecon's tender was the only one that complied with the necessary requirements, suggesting that excluding it would not only be unreasonable but also counterproductive ([paras 41, 42]).
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 46–46])
+
+The Supreme Court of Appeal found in favor of Aurecon, overturning the prior ruling of the High Court. The appeal was upheld, and the City was ordered to pay costs, effectively ruling that:
+
+1. The City’s application for judicial review was out of time, and no valid extension was warranted under PAJA.
+2. The alleged irregularities were insufficient to invalidate the tender award, as no fraud or corruption was established, and thus did not meet the threshold of materiality required for legal action under PAJA.
+3. Aurecon was not precluded from bidding due to its previous involvement with the project, as doing so would contravene the principles of fairness and transparency.
+
+This judgment affirms the necessity for precise compliance with procedural timelines in administrative actions while reinforcing the need for proportionality and reasoned adherence to the principles of fairness in procurement processes. The implications of this case extend to how local government entities manage procurement processes and underscore the importance of ensuring transparency without undermining competition among tenderers ([paras 1–4], [46]).

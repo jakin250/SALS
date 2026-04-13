@@ -1,0 +1,65 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2011
+
+# FIRAC Case Note: Gazit Properties (Pty) Ltd v Deon Marius Botha N.O. & Others
+
+**Case Reference:** 
+Gazit Properties v Botha N.O. (873/10) [2011] ZASCA 199  
+**Coram:** HARMS AP, HEHER, SNYDERS, SHONGWE and MAJIEDT JJA  
+**Heard:** 7 November 2011  
+**Delivered:** 23 November 2011
+
+---
+
+## F – Facts
+The present appeal arises from a decision by the North Gauteng High Court where certain payments made by an insolvent company, Malokiba Trading 19 (Pty) Ltd ("Malokiba"), were set aside under section 29(1) of the Insolvency Act 24 of 1936 ([1]). The respondents in the matter, as joint liquidators of Malokiba, alleged that the payments to Gazit Properties (Pty) Ltd ("Gazit") were made with the intention of preferring one creditor over another, given Malokiba's insolvency at the time ([2]). 
+
+Malokiba operated as a bridging financier in property transactions, yet it ultimately engaged in unlawful activities by accepting investments without any legitimate backing of property transfers ([2]). Gazit had entered into valid loan agreements with Malokiba, amounting to R5 million, ultimately receiving payments totaling R3,050,355 in the six months preceding Malokiba's liquidation ([3]). 
+
+Mutually, Gazit and the liquidators acknowledged that Malokiba’s liabilities exceeded its assets and that the payments preferred Gazit over other creditors; however, they contested whether these payments were made "in the ordinary course of business" as per section 29(1) of the Act ([4]). Gazit contended that since the payments were in accordance with a valid contract, they stood as legitimate transactions ([5]).
+
+The appellants admitted that Malokiba’s business had transgressed the Banks Act 94 of 1990, leading the liquidators to argue that the agreements were tainted. However, the Kern of the liquidators' claim shifted from breaching the Banks Act and unlawful interest rates to the assertion that Gazit had been misled regarding the purpose of the investments and payments relying upon new investor funds ([6]). 
+
+In the first instance, Kruger AJ ruled in favor of the liquidators, deeming the transactions as fundamentally contaminated by illegality and therefore out of the ordinary course of business ([7]). 
+
+## I – Issues
+The primary legal issue revolves around whether the payments made by Malokiba to Gazit within the six months preceding its liquidation constituted dispositions made "in the ordinary course of business" according to section 29(1) of the Insolvency Act ([4]). The determination rests upon evaluating both the transactions themselves and Malokiba’s general business practices and their legality ([8]). 
+
+### Sub-Issues:
+1. Did the payments made by Malokiba suggest preferential treatment to Gazit as a creditor?
+2. How is the phrase "ordinary course of business" interpreted in relation to the underlying obligations of the contracts?
+3. Did the alleged illegality of Malokiba's business practices taint the payments made to Gazit?
+
+## R – Rules
+Section 29(1) of the Insolvency Act states that any disposition made by a debtor within six months before sequestration which has the effect of preferring one creditor over others may be set aside unless proven to have been made in the ordinary course of business and without intent to prefer ([4]). 
+
+The court's interpretation of "in the ordinary course of business" hinges on prior case law that identifies the nature of transactions and the context of business operations. In *Estate Wege v Strauss* ([8]), it was established that a debtor making payments in accordance with a contractual obligation is prima facie deemed to be acting in the ordinary course of business. The principles that stem from cases such as *Amalgamated Banks of South Africa Bpk v De Goede* ([8]) further underscore that business transactions must be evaluated based on normative standards and the context within which they are undertaken.
+
+## A – Application
+The Supreme Court of Appeal evaluated the payments made by Malokiba to Gazit against the backdrop of section 29(1) and its interpretation. 
+
+### Analysis:
+1. **Contractual Interpretation**: Gazit adhered to the terms of the loan agreements, accepting repayment of loans as stipulated ([9]). The court affirmed that Gazit's acceptance of payment in alignment with contractual obligations upheld that the repayment constituted normal business practice. The mere fact that Malokiba had financial difficulties or used funds sourced from new investors does not alter the nature of these transactions as being legitimate ([10]), ([13]).
+   
+2. **Legal Compliance**: While Malokiba contravened the provisions of the Banks Act, the court found that the inherent legality of the loan agreements could not be rendered void simply due to this context. A distinction was made between the legality of the transaction and the nature of repayment; the illegality of a business operation does not inherently invalidate contractual agreements made with third parties who were not complicit in the illegal acts ([11]).
+
+3. **Misrepresentation Allegations**: The liquidators' claims that Gazit was misled by Malokiba were determined to be insufficient in negating the validity of payments made under the loan agreements. The court held that until the contracts were canceled, they remained valid and enforceable ([12]). Thus, payments made in accordance with these agreements were still regarded as transactions occurring "in the ordinary course of business." 
+
+## C – Conclusion
+The Supreme Court of Appeal concluded that Malokiba's repayments to Gazit were conducted per completed contractual obligations and thus were made in the ordinary course of business. The high court's ruling that placed undue emphasis on the ‘contaminated’ nature of Malokiba's overall business practices was deemed misleading; rather, the court was directed to focus on the specific dispositions at hand ([15]). 
+
+The appeal was accordingly upheld with costs. The prior ruling was set aside, and the order declared that the plaintiff’s claim was hereby dismissed ([16]). The implications of this decision underscore that financial transactions should be assessed on their adherence to contractual agreements rather than on broader illegality associated with a business's operational practices. 
+
+---
+
+**References**  
+Insolvency Act 24 of 1936 (South Africa)  
+Banks Act 94 of 1990 (South Africa)  
+Amalgamated Banks of South Africa Bpk v De Goede & ‘n ander 1997 (4) SA 66 (SCA)  
+Estate Wege v Strauss 1932 AD 76  
+Hendriks NO v Swanepoel 1962 (4) SA 338 (A)  
+*Oilwell v Protec* 2011 (4) SA 394 (SCA)  
+Janse van Rensburg NO v Botha [2011] ZASCA 72  
+*Du Plooy NO v National Industrial Credit Corporation Ltd* 1961 (3) SA 741 (W)  
+*Fourie N O v Edeling N O* [2005] 4 All SA 393 (SCA)  
+*Pretorius’ Trustee v Van Blommenstein* 1949 (1) SA 267 (O)  

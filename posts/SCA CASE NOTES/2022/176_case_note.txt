@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# Case Note: Mellet N O and Others v Vermeulen and Another (1049/2021)
+
+**Neutral Citation:** [2022] ZASCA 176
+
+**Court:** The Supreme Court of Appeal of South Africa
+
+**Judgment Delivered:** 07 December 2022
+
+**Coram:** Petse AP, Makgoka and Plasket JJA, Makaula and Masipa AJJA
+
+## FIRAC Case Note
+
+### F – Facts
+This appeal arises from a series of legal proceedings related to the sale of a 60% member’s interest in the close corporation, Findaload CC, by the Blucher Mellet Family Trust (the Trust) to the first and second respondents, who failed to fulfill their obligations under the sale agreement ([1]–[2]). The appellants—members of the Trust—alleged that the Trust acted as a conduit for the transaction, asserting that the sale was on behalf of the first appellant, who held the interest personally ([4]). The agreement, titled 'Deed of Sale of Membership Interest', defined the seller as the Trust and outlined the rights and obligations of the parties involved ([5]–[8]).
+
+The core legal conflict centers on whether the Trust could legally acquire and hold a member’s interest in the close corporation, given the stipulations provided in Section 29 of the Close Corporation Act 69 of 1984 (the CCA). The first and second respondents contended that the agreement was invalid, as the Trust did not meet the required criteria for holding a member's interest according to this legislative provision ([10]–[11]). The high court upheld the appellants' application, leading to an appeal by the respondents, which was subsequently granted by the Supreme Court of Appeal ([2]).
+
+### I – Issues
+The primary legal question at hand is whether the Trust, as a juristic entity, could lawfully acquire a member’s interest in Findaload CC under the provisions of Section 29 of the Close Corporation Act 69 of 1984 ([12]). Specifically, the issues for determination include:
+1. Whether the Trust's acquisition of the membership interest contravenes Section 29(1) which prohibits juristic entities from holding such interests.
+2. Whether the conditions stipulated in Section 29(1A) were fulfilled to allow a Trust to possess such an interest ([10]).
+
+### R – Rules
+Section 29(1) of the CCA explicitly states that "only natural persons may be members of a corporation," thereby disqualifying juristic persons, including trusts, from holding member’s interests directly or indirectly unless compliance with exceptions laid out in Section 29(1A) is achieved ([11]). This section permits a trust to be a member only under specific conditions: 
+- No juristic person may be a beneficiary of the trust ([12]);
+- The member must bear all the obligations and rights of a member directly ([12]);
+- The corporation is not bound by any agreement made between the trust and the member, and 
+- The total of natural persons entitled to benefit from the trust and the number of members in the corporation does not exceed ten ([12]).
+
+### A – Application
+The court examined the applicability of Sections 29(1) and 29(1A) to the facts of the case. It acknowledged that the primary issue was whether the Trust could hold the member’s interest in the close corporation while meeting the statutory requirements outlined in Section 29 ([18]–[19]). The court observed that the agreement indicated a clear intention for the Trust to be the seller of the membership interest and that the Trust directly sold the interest to the respondents. Therefore, the provisions of Section 29(1) prohibiting such ownership were immediately relevant.
+
+The court noted that the appellants failed to produce adequate evidence demonstrating compliance with Section 29(1A). The assertion that the Trust was merely a conduit and did not hold the interest directly did not hold up under scrutiny. The argument of the appellants that the compliance with Section 29(1A) was attested to by a certificate from the Companies and Intellectual Property Commission was dismissed as it lacked substantive evidentiary support ([22]). The court emphasized that merely making bald assertions without accompanying documentation does not satisfy the burden of proof required in legal proceedings ([23]).
+
+Furthermore, the court reiterated the importance of clearly stating one’s cause of action and the necessity for parties to furnish evidence that substantiates their claims ([23]). Given the inadequacy of proof regarding the Trust's qualification to hold the membership interest, it was concluded that the agreement contravened Section 29(1) and was consequently invalid.
+
+### C – Conclusion
+The Supreme Court of Appeal ultimately dismissed the appeal, affirming the lower court's ruling that the Trust could not legally acquire or hold a member’s interest in the close corporation, thereby rendering the sale agreement invalid ([24]). The ratio decidendi highlighted by the court centered on the strict limitations placed on juristic entities under the CCA concerning ownership of member's interests. This case underscores the importance of adherence to statutory provisions and the burden of proof required to establish compliance with the law. The implications are significant, potentially affecting future transactions involving trusts and close corporations, emphasizing the necessity for meticulous adherence to legislative frameworks when structuring such agreements ([25]).
+
+The court ordered that costs were to follow the result, with no justification provided for the request to allow costs for two counsel, indicating that such complexity was not present in this matter ([24]).

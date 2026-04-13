@@ -1,0 +1,35 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# Case Note: Krohne (Pty) Ltd v Strategic Fuel Fund Association [2024] ZASCA 99
+
+## FIRAC
+
+### F - Facts
+The case involves an appeal by Krohne (Pty) Ltd (the appellant) against Strategic Fuel Fund Association (the respondent) concerning the enforcement of an arbitral award ([para 1]). The appellant initiated motion proceedings in the Gauteng Division of the High Court, Johannesburg, claiming payment of an outstanding balance under a service contract concluded with the respondent, who manages South Africa's strategic energy feedstocks ([paras 2–4]). 
+
+In 2012, after winning a tender, Krohne provided a metering system at the respondent’s Saldanha Terminal. A dispute arose regarding the accuracy of this system ([paras 5–6]). The parties agreed to resolve the dispute through arbitration (Clause 17 of their contract), appointing Advocate CHJ Badenhorst SC, who ultimately directed the question of accuracy to an independent expert ([para 7]). The expert, SGS Gulf Limited (SGS), was tasked with determining whether the system met the contractual accuracy specifications ([paras 8–9]).
+
+On 14 October 2019, the appellant sought payment of R12,745,881.89, arguing that the SGS report confirmed its compliance within the specified accuracy range. However, the respondent contended that the SGS certificates were insufficient for demonstrating operational compliance and framed its opposition in part around the notion that the appellant was barred from advancing a claim based on the arbitral award ([paras 10–12]).
+
+The High Court dismissed the appellant’s claim, asserting that the interim award was not compliant with the Arbitration Act, contending it failed to define arbitration correctly and incorrectly asserted that the SGS report was not binding ([paras 13–14]). The appellant successfully sought leave to appeal, contesting the high court's interpretation ([para 3]).
+
+### I - Issues
+The primary legal issue is whether the appellant’s claim, based on the enforcement of the interim arbitral award, is founded on a valid cause of action, particularly whether the triggering event for that claim had occurred under the terms of the interim award ([para 1]). Additionally, there were questions related to the interpretation of the Arbitration Act in terms of whether the SGS report was indeed binding under the arbitration framework established by the contract ([paras 2, 12, 19]).
+
+### R - Rules
+The legal framework governing this case is the Arbitration Act 42 of 1965 (the Act). The definition of an “arbitration agreement” denotes a written agreement to resolve any current or future disputes through arbitration ([para 14]). The Appellate Court referred to prior case law, such as Total Support Management (Pty) Ltd v Diversified Health Systems (SA) (Pty) Ltd, which emphasizes that the essence of arbitration is the parties' consent to allow an arbitrator to adjudicate their dispute and the possibility of their further agreements affecting that power ([para 15]).
+
+Moreover, precedence was established in the Bidoli case, which underscores that an arbitrator can record a settlement agreement reached by the parties as an arbitral award enforceable as if it were a decision on the merits ([paras 20–21]).
+
+### A - Application
+The appellate court identified multiple errors in the high court's reasoning. It refuted the high court's conclusion that the interim award failed to comply with the Arbitration Act, emphasizing that the interim award itself constituted a valid award consistent with statutory definitions insisting that an interim award includes findings from independent experts ([paras 19, 20]).
+
+Furthermore, the Appellate Court determined that the high court misunderstood the significance of the SGS report. Emphasizing the parties' agreement in the interim award (Clause 5), which stipulated that the findings of the independent expert would be final and binding, the appellate court recognized that the SGS report constituted the necessary evidence for the appellant's claim, thus presenting a valid cause of action ([paras 18–23]). 
+
+The high court's failure to focus on the core dispute — specifically whether the SGS report affirmed compliance with contractual obligations — resulted in a misinterpretation of the facts and procedural history, misdirecting the legal analysis ([para 17]).
+
+### C - Conclusion
+The Supreme Court of Appeal upheld the appellant’s appeal, ruling that the high court had erred in dismissing the appellant's claim on a point in limine. The ruling clarified that the record of the SGS's assessment would indeed constitute a binding cause of action for the appellant. The court thus set aside the prior high court orders, remitting the matter for further consideration on the merits of the claim in light of the binding nature of the SGS report ([paras 23–24]).
+
+The decision reiterates the necessity of clear definitions and procedural adherence in arbitration agreements and reinforces the authority of independent expert findings when duly integrated into arbitral decisions. This case also sets a significant precedent about the interpretation and application of the Arbitration Act within South African jurisprudence.

@@ -1,0 +1,41 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2020
+
+# Case Note: The Member of the Executive Council for Health, Eastern Cape v Z M obo L M (576/2019)
+The Supreme Court of Appeal of South Africa  
+Neutral Citation: [2020] ZASCA 169  
+Delivered: 14 December 2020  
+
+## FIRAC Method
+
+### F – Facts ([paras 1–2])
+On 3 December 2005, Ms M gave birth to her son, L, at Madwaleni Hospital in the Eastern Cape. L was born with severe brain damage identified as cerebral palsy, allegedly due to negligence during Ms M's labour. The essential contention was that the hospital staff failed to prevent hypoxic ischemic encephalopathy—an acute profound brain injury caused by insufficient oxygen and blood flow to L’s brain during birth. The events leading to the injury included the rupture of Ms M's membranes, the length of her labour, and the administration of fundal pressure by nursing staff during the final stages of delivery.
+
+Despite evidence indicating an acute profound injury from an MRI reviewed by radiologist Dr Pretorius, who affirmed its occurrence intrapartum, the trial court under Hartle J diverged from this expert opinion, suggesting a potential “mixed injury pattern” based on a perceived lack of sufficient reasoning from Dr Pretorius and her own literature review.
+
+### I – Issues ([paras 10–12])
+The critical legal questions that arose in the appeal included:
+1. Whether the trial court was justified in departing from Dr Pretorius's conclusion regarding the nature of the brain injury as an acute profound injury.
+2. The appropriateness of the trial court's consideration of the cumulative risks from prolonged labour and negligence in monitoring, particularly in the absence of clear consent from the parties to deviate from the agreed expert opinion.
+
+### R – Rules ([paras 10–14, 36–40])
+1. **Expert Testimony & Judicial Discretion**: Trial courts must generally rely on expert opinions, especially when such opinions are agreed upon by both parties. A judge's independent inquiry into literature, if conducted without prior notification to the parties, risks undermining the fairness of the proceedings (see [paras 10–12]).
+
+2. **Causation Principles in Medical Negligence**: For a plaintiff in a medical negligence claim to succeed, they must establish causation between the defendant's actions and the injury suffered. The standards applicable include showing how negligence, if proven, contributed to the injury, particularly distinguishing between acute profound injuries and prolonged partial injuries (see [paras 14–28]).
+
+3. **Precedents & Case Law**: Reliance on established medical understanding differentiates between acute profound injuries, which result from sudden catastrophic events, and prolonged partial injuries that develop over time due to cumulative deprivation (referencing precedents on obstetric negligence).
+
+### A – Application ([paras 8–36])
+The Supreme Court of Appeal scrutinized the lower court's findings and determined that the basis for departing from Dr Pretorius's opinion was unfounded. Hartle J had characterized the injury as a mixed pattern despite the consensus that it was an acute profound injury—an analysis unsupported by sufficient evidence. Furthermore, the court highlighted that neither the length of Ms M's labour nor the specific conduct of nursing staff during the final stages upheld causal relevance to the acute profound injury suffered by L.
+
+The appeal reiterated that the essential characteristics of the injury (acute and sudden onset) were distinct from the cumulative factors cited by the lower court. The evidence did not substantiate claims of prolonged hypoxia, and thus, the argument premised on cumulative risks was deemed speculative and founded on hearsay—particularly Ms M's discussions with Dr Ndjapa-Ndamkou that lacked corroboration from direct evidence.
+
+Regarding the argument about excessive fundal pressure, the court concluded that the pressure applied, even if excessive, could not have produced the required consistent occlusion of blood flow necessary to cause an acute profound injury.
+
+### C – Conclusion ([paras 37–42])
+Ultimately, the Supreme Court of Appeal upheld that:
+- The trial court had unjustifiably departed from the agreed expert opinion of the acute profound injury, thus undermining the principles of judicial fairness and proper reliance on expert testimony.
+- There was no sufficient evidence to connect the alleged negligent behaviours to the catastrophic injury sustained by L. The court asserted that the relevant acts of the nurses did not causally contribute to the injury's occurrence.
+- The appeal was granted, and the high court's order was set aside, dismissing Ms M's claim outright.
+
+The judgment illustrated the critical boundaries between permissible judicial inquiry into expert opinion and the requirements of evidentiary support in medical negligence cases, reinforcing the need for clear factual foundations when asserting deviations from accepted medical conclusions.

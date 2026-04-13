@@ -1,0 +1,27 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note: *Chiliza v Govender* (20837/14) [2016] ZASCA 47
+
+## FIRAC
+
+### F – Facts
+The Supreme Court of Appeal (SCA) addressed the matter of *Chiliza v Govender* concerning the procedural requirements under the Insolvency Act 24 of 1936 pertaining to sequestration orders. The first respondent, Mr. Ashendran Govender, initially sought a provisional order of sequestration against the appellant, Ms. Nomvula Effie Chiliza, on 17 February 2012, which was granted by the KwaZulu-Natal Local Division, Durban. The provisional order was returnable on 15 March 2012; at this point, a copy of the petition had been duly served on the South African Revenue Service (SARS) on 16 February 2012, fulfilling the stipulations of section 9(4A) of the Act.
+
+Subsequent to this, on 9 July 2012, a final order of sequestration was granted without any service of the provisional order having been directed to SARS as required by section 11(2A)(c). The appellant applied for rescission of the final order on 19 July 2012, arguing that the failure to serve the provisional order on SARS constituted a non-compliance that should invalidate the final order. The lower court (Vahed J) ruled in *Chiliza v Govender & another* (2013) 4 SA 600 (KZD), concluding that the non-service did not preclude the final order of sequestration. The KwaZulu-Natal full court further affirmed this position, leading to the present appeal ([paras 1–6]).
+
+### I – Issues
+The primary issue before the SCA was whether the failure to serve a provisional order of sequestration upon SARS, as mandated by section 11(2A)(c) of the Insolvency Act, constitutes an absolute barrier to obtaining a final order of sequestration. The court needed to reconcile the language and requirements of sections 9(4A) and 11(2A) of the Act, particularly examining whether the distinctions in terminology, such as "furnish" and "serve", carried significant legal implications regarding compliance and validity ([paras 1, 5, 13]).
+
+### R – Rules
+The court relied on the peremptory nature of the language in section 11(2A) and its comparisons with other provisions of the Insolvency Act. Section 9(4A) requires that a petitioner furnish a copy of the petition to specified parties, while section 11(2A) mandates service of the provisional order on those same parties but does not require an affidavit of compliance. This led the court to consider precedents, notably *Natal Joint Municipal Pension Fund v Endumeni Municipality* 2012 (4) SA 582 (SCA), which emphasized the importance of interpreting statutory provisions in their grammatical context to derive meaning ([paras 8, 9]). Additionally, the court acknowledged relevant case law, including *Stratford & others v Investec Bank Ltd & others* [2014] ZACC 38, highlighting the legal significance of different terminologies utilized in legislative texts ([paras 9, 10]).
+
+### A – Application
+In its analysis, the SCA emphasized that the clear statutory requirement for service in section 11(2A) introduces substantive compliance obligations. The court noted that the failure to serve SARS undermines the statutory framework intended to inform creditors—particularly the state—of impending sequestration proceedings. In this case, it was highlighted that the absence of such service denied SARS an opportunity to protect its interests as a preferential creditor under section 101 of the Act, leading to potential tax liabilities remaining uncollected ([paras 12, 13]). Thus, the SCA ultimately determined that the interpretations supporting the non-fatality of the omission disregarded the explicit legislative intent behind the peremptory language employed in the Act ([paras 8, 9]).
+
+### C – Conclusion
+The SCA ruled in favor of the appellant, holding that the failure to serve the provisional sequestration order on SARS constituted a significant procedural defect that invalidated the final sequestration order issued by the lower court. The judgment underscored the necessity of strict adherence to statutory requirements in the context of insolvency law, particularly regarding the protection of creditors' rights, reinforcing the principle that legal compliance is not merely technical but substantive. The appeal was upheld with no order as to costs, and the final order of sequestration was set aside, placing the appellant's estate under provisional sequestration and issuing a rule nisi for further proceedings ([paras 1, 13]).
+
+---
+
+This detailed FIRAC case note provides a clear understanding of the legal issues, underlying facts, and the court's rationale in the *Chiliza v Govender* case, suitable for academic and legal citation.

@@ -1,0 +1,55 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# Case Note for First National Bank v Scenematic One (Pty) Ltd [2016] ZASCA 60
+
+### FIRAC Method 
+
+#### F – Facts 
+
+This appeal arises from a decision by the Gauteng Division of the High Court, Pretoria, where Hiemstra AJ dismissed the special pleas of prescription articulated by the first and second appellants, First National Bank (FNB) and Thomas Johannes Naude, respectively ([1]). The dispute centers on a financial loss incurred by the respondent, Scenematic One (Pty) Ltd, due to unauthorized debit orders debited from its bank account. 
+
+Scenematic, a manufacturing company, entered into an instalment sale agreement on 22 May 2007 with Wesbank, a division of FNB, for the purchase of a Mitsubishi Pajero ([2]). Although Naude signed the agreement personally, he inserted Scenematic’s bank account details to facilitate monthly debit orders from this account ([3]). During the period from July 2007 to May 2011, Scenematic’s account was debited a total of R195,661.94 ([4]). 
+
+A significant delay occurred before Scenematic uncovered the existence of the agreement. It was only during an audit process in August 2008 that the auditors noticed the discrepancy relating to the debit order, leading to inquiries with Wesbank, which produced no results until March 2011 ([5]). Summons were served against the appellants on 19 May 2011 ([6]). 
+
+In its particulars of claim, Scenematic alleged that FNB had acted negligently in not ensuring that it had the proper authority to debit its account, while against Naude, it alleged fraudulent misrepresentation regarding the authority for debit orders ([6]-[7]). Both appellants raised the defenses of prescription regarding the timing of the claim, arguing that the claim should be dismissed as it was not brought within the three-year prescriptive period outlined in ss 11 and 12(3) of the Prescription Act 68 of 1969 ([8]-[10]).
+
+#### I – Issues 
+
+The core legal issues before the Supreme Court of Appeal were: 
+
+1. Whether the claims of Scenematic against FNB and Naude had prescribed, particularly concerning the timing of prescription as articulated in sections 11 and 12 of the Prescription Act, and whether the knowledge of the fraud impacted the running of prescription periods ([8]-[9]).
+
+2. Whether FNB had a duty of care to Scenematic regarding its banking operations, particularly regarding the rightful authorization of debit orders ([18]-[28]).
+
+3. Whether Naude was liable for fraudulent misrepresentation, and if prescription applied to his actions ([20]-[29]).
+
+#### R – Rules 
+
+The proceedings primarily engaged with the Prescription Act 68 of 1969. Key relevant provisions included:
+
+- **Section 11**: Outlining the periods of prescription for various types of debts, including a three-year period for any claim (s 11(d)) ([8]).
+
+- **Section 12(3)**: Stipulating that a debt shall not be deemed to be due until the creditor has knowledge of the debtor's identity and the facts from which the debt arises ([9]). 
+
+The court also relied on principles of negligence and the duties of a banker towards its client, considering established case law regarding the contractual obligations and liabilities of banks in financial transactions ([28]).
+
+#### A – Application 
+
+The Supreme Court analysed the timeline of events and the circumstances surrounding the agreement between Scenematic and Wesbank. The court reiterated that the fraudulent actions by Naude commenced at the inception of the agreement and continued as long as he authorized the withdrawals ([23]). This meant that the prescription period would not effectively begin until the respondent discovered, or should have discovered, the claim, which was deemed to occur after the auditors’ inquiry in 2008, thus allowing Scenematic's summons served in 2011 to fall within the prescriptive timeframe ([21], [24]).
+
+Regarding FNB's liability, the court found that the bank had a clear duty of care towards Scenematic. The bank should have verified that the mandate for the debit order was valid, especially since Naude altered the account numbers on the agreement in a manner that raised suspicion ([27]). The court emphasized that the obligations of banks extend beyond simply executing transactions; they have a duty to prevent fraud, especially when the circumstances suggest a potential risk ([28]). 
+
+The court also placed significant weight on the respondent's explanations regarding their staff’s oversight, acknowledging that the complexity of their financial operations could contribute to the failure to detect unauthorized withdrawals swiftly. However, they did emphasize the necessity of reasonable care in matters of such financial significance ([20], [21]).
+
+In relation to Naude, the court dismissed his claim of prescription, finding his fraudulent actions continued throughout the period, hence perpetuating the nature of the debt ([29]). His assertions regarding the authority he held were discredited, reflecting a broader investigation into the nature of corporate governance and oversight ([19]).
+
+#### C – Conclusion 
+
+The Supreme Court of Appeal ultimately dismissed the appeals by FNB and Naude, finding that neither special plea of prescription was valid ([30]). The original court's conclusions on the obligations of FNB and Naude were upheld, confirming that FNB held a duty to prevent unauthorized transactions, especially in the face of evident fraudulent conduct. Furthermore, Naude was deemed wholly liable for his actions, reflecting the broader implications of corporate responsibility and the judicial stance against fraudulent practices in financial agreements.
+
+The implications of this case extend to the banking industry's duty of care to clients and the enforcement of obligations regarding the verification of identities and authority in debiting accounts. The judgment underscores the accountability of financial institutions in their operations and the necessity for robust safeguards against internal fraud.
+
+---
+This detailed case note has been tailored to convey complex legal principles clearly, echoing the formal tone appropriate for legal academia and practice. If you require further specifications or illustrations on any point, please let me know.

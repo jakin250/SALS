@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Rajkumar Tahilram v Trustees of the Lukamber Trust and Another [2021] ZASCA 173
+
+### F – Facts: Relevant Background and Procedural History ([paras 1–10])
+
+The appeal, Rajkumar Tahilram v Trustees of the Lukamber Trust, revolves around a dispute regarding the valuation of shares in A & A Dynamic Distributors (Pty) Ltd. The appellant, Mr Rajkumar Tahilram, held a 30% shareholding in the company, while the Lukamber Trust, represented by its trustees, held the remaining 70%. Following the termination of Mr Tahilram's employment on 27 March 2018, he was obligated under a shareholders agreement to offer his shares to the trust. A shareholders agreement dated 29 August 2014 included an arbitration clause stipulating that any disputes concerning the agreement, particularly regarding the valuation of shares, required the involvement of the company's auditors as the valuers.
+
+The auditors, Odendaal & Co, determined the fair value of Mr Tahilram's shares to be R4,8 million, factoring in ‘obsolete stock’. Disagreements arose over the valuation methods, leading Mr Tahilram to challenge the valuation. While he initially rejected the valuation, he later accepted it. Following this acceptance, the trust communicated its acceptance of the deal but contested that debts allegedly owed by Mr Tahilram to the trust should reduce the purchase price of his shares. Consequently, Mr Tahilram initiated motion proceedings in the Gauteng Division of the High Court, claiming R2,878,574.70 plus interest and costs.
+
+The High Court dismissed his application, holding that the expert valuer could modify his valuation and was not functus officio. Mr Tahilram was granted leave to appeal on the specific question of the valuer's functus officio status and its implications.
+
+### I – Issues: Legal or Constitutional Questions ([paras 1, 12])
+
+The primary issues for determination in this case included:
+
+1. **Whether the valuer was functus officio following the communication of the valuation**: Could the valuer unilaterally withdraw the valuation to modify or correct it after it had been communicated to the parties?
+2. **The court's jurisdiction**: Should the High Court have invoked the arbitration clause regarding disputes over share valuation, as the parties were required to follow through with arbitration when faced with such disputes?
+
+### R – Rules: Legal Authorities and Precedents Relied Upon ([paras 15–27])
+
+The Supreme Court of Appeal's decision relies heavily on established principles regarding the role of valuers as opposed to arbitrators. Key principles include:
+
+1. **Functus Officio Doctrine**: Once a valuer communicates a final valuation, they are functus officio and have no further authority to alter that valuation unless specified otherwise in the contractual agreement or waived by the parties.
+   
+2. **Legal Precedents**: Citations from relevant cases include:
+    - **Transnet National Ports Authority v Reit Investments (Pty) Limited** [2020] ZASCA 129, highlighting the limited judicial review of expert determinations.
+    - **Perdikis v Jamieson** [2002] 6 SA 356 (W), which established that while a court can correct unjust determinations, it does not extend this power to valuers unilaterally.
+    - **Firestone South Africa (Pty) Ltd v Genticuro AG** [1977] 4 SA 298 (A), discussing the finality of determinations made by judges and the similar principles applying to valuers.
+
+3. **Acknowledgment of Commercial Contracts**: The need to uphold the certainty inherent in commercial agreements is reaffirmed, as articulated in the judgments referenced, where upholding contractual obligations is deemed foundational to law.
+
+### A – Application: Analysis of How the Court Applied the Law ([paras 14–27])
+
+The Court meticulously analyzed the applicable legal principles surrounding the functus officio status of a valuer. The judgements emphasized the following:
+
+- The valuer, once a valuation is communicated, is prohibited from altering or withdrawing this valuation, barring additional provisions in the contract or consensus between the parties.
+- The Court reaffirmed the distinction between the roles of arbiters and valuers, stressing that the latter do not perform quasi-judicial functions, thus limiting their authority to modify decisions after communication.
+- The judgment remarked on the implications of allowing a valuer to withdraw or amend a valuation unilaterally, suggesting that this would engender uncertainty and undermine the contractual stability vital to commercial dealings. 
+
+Ultimately, it concluded that the valuation made by the auditors was final and binding, dismissing the notion that the valuer could amend his prior valuations without express permission from the parties.
+
+### C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 28])
+
+The Supreme Court of Appeal upheld Mr Tahilram's appeal, emphasizing that the communicated valuation of shares was binding and that the valuer was not permitted to unilaterally withdraw or alter this valuation. The ruling ultimately underscored the importance of adhering to established contractual norms regarding valuations in commercial partnerships, reinforcing the principle of finality in expert valuations.
+
+#### Orders:
+
+The Court replaced the High Court's initial order, mandating that the trust pay Mr Tahilram the amount of R2,878,574.70 plus interest and costs. This reinforced the need for compliance with contractual agreements, ensuring that parties in similar future disputes recognize the weight of their agreements as binding.
+
+The decision establishes jurisprudence on the functus officio status of expert valuers, providing a clear precedent on the binding nature of expert determinations and the limited scope for judicial intervention in these matters, thus promoting certainty within South African contract law.

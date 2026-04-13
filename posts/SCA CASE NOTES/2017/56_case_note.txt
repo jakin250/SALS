@@ -1,0 +1,56 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Saamwerk Soutwerke (Pty) Ltd v Minister of Mineral Resources (1098/2015 & 206/2016) [2017] ZASCA 56
+
+### F - Facts
+The appeal in **Saamwerk Soutwerke (Pty) Ltd v Minister of Mineral Resources (1098/2015 & 206/2016) [2017] ZASCA 56** arose from a dispute over the right to mine salt at Vrysoutpan, where Saamwerk (the appellant) alleged it was unlawfully impeded from mining due to actions taken by both the Minister of Mineral Resources (the first respondent) and SA Soutwerke (the second respondent) ([paras 1–3]). On **7 June 2011**, the Minister granted a mining right to Saamwerk while SA Soutwerke had held possession since **2003** under a mining permit that had expired around **2005** ([paras 3, 5, 6]). Saamwerk claimed both damages for economic loss due to the delay and asserted that SA Soutwerke had fraudulently maintained its operations using a forged permit ([paras 4, 6–9]).
+
+The court a quo dismissed Saamwerk’s claims and permitted appeals against that dismissal ([para 3]). Importantly, the significance of the original mining permits, particularly the legitimacy of the claims made by SA Soutwerke, became central to the litigation ([paras 4, 16]).
+
+### I - Issues
+The case presented several legal issues:
+
+1. **Fraud by SA Soutwerke**: Whether SA Soutwerke had committed fraud by relying on a forged mining permit to continue its operations ([para 4]).
+   
+2. **Wrongfulness of the Minister's omissions**: Whether the Minister’s administrative omissions concerning Saamwerk's mining right constituted wrongful conduct leading to economic loss ([para 60]).
+
+3. **Application for Further Evidence**: Whether Saamwerk could introduce new evidence concerning the validity of SA Soutwerke's permit ([para 33]).
+
+4. **Prescription**: The issue of whether Saamwerk's claims had partially prescribed, particularly in relation to the ongoing nature of the economic loss ([paras 52–56]).
+
+### R - Rules
+The applicable legal principles and statutory frameworks included:
+
+1. **Delictual Law and Pure Economic Loss**: The court referred to the established principle that claims for pure economic loss are not automatically wrongful, which emphasizes the necessity for a consideration of public policy in determining wrongfulness ([para 60]).
+
+2. **Elements of Fraud**: The standard for establishing fraud, which requires demonstrating that one party knowingly provided false information with the intent to induce the other party to act ([para 4]).
+
+3. **Requisites for Admitting Further Evidence**: The court has discretion under Section 19 of the Superior Courts Act 10 of 2013 to receive further evidence if a reasonable explanation for the failure to present it during an earlier trial is provided and if the evidence is deemed material ([para 33]).
+
+4. **Prescription Act 69 of 1969**: Section 15 was relevant to the interruption of prescription periods by actions commenced in a court ([paras 52–56]).
+
+### A - Application
+The court analyzed the evidence systematically. In the case of SA Soutwerke, it established from witness testimonies and documentary evidence that SA Soutwerke had no legitimate rights to mine at Vrysoutpan post-2005, and the court found compelling evidence of fraudulent activity surrounding the forged mining permit ([paras 16, 37]):
+
+- The testimony from multiple witnesses, particularly from officials in the Department of Minerals, was crucial in confirming the absence of valid mining rights held by SA Soutwerke ([paras 59, 64]).
+  
+- As to the application of further evidence by Saamwerk, the court concluded that Saamwerk failed to provide a sufficient explanation for not presenting the evidence during trial; thus, it dismissed the application ([paras 31, 34]).
+
+On the issue of wrongfulness against the Minister, the court concluded that the departmental conduct did not meet the threshold necessary for establishing wrongful conduct. The actions were deemed administrative omissions rather than intentional or negligent misdeeds intended to harm Saamwerk ([para 60]).
+
+Regarding the prescription argument, the court agreed with SA Soutwerke that the actions pursued in prior proceedings did not adequately interrupt the prescription, leading to a conclusion that part of Saamwerk's claims had indeed prescribed ([para 56]).
+
+### C - Conclusion
+The Supreme Court of Appeal made the following determinations:
+
+1. The application to receive further evidence was **dismissed**, highlighting that Saamwerk did not sufficiently justify its failure to present the evidence earlier ([para 1]).
+
+2. The appeal relating to the claim against the first respondent (Minister) was **dismissed**, signifying that the Minister’s omissions were not wrongful ([para 2]).
+
+3. The appeal related to the claim against the second respondent was **upheld**, with the court finding that SA Soutwerke's fraudulent actions warranted liability for the damages incurred by Saamwerk during the mining prohibition period between **6 September 2008 to 25 June 2011** ([paras 4, 68]). 
+
+4. The original order of the court a quo was set aside, affirmatively declaring SA Soutwerke liable for the damages, thus establishing the company’s improper conduct and the necessity for accountability in cases of deliberate fraud ([para 68]).
+
+### Implications
+This judgment has broad implications for delictual claims involving pure economic loss and the complexities surrounding administrative actions by public officials in South Africa. It stresses the burdens of establishing wrongfulness in claims against state functions and highlights the meticulous standards of evidence necessary to substantiate claims of fraud within the mineral rights framework governed by the MPRDA. Additionally, this case serves as a jurisprudential reference for future cases involving prescription in the context of ongoing economic harm.

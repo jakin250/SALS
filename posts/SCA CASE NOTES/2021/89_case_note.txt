@@ -1,0 +1,42 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Esorfranki Pipelines (Pty) Ltd v Mopani District Municipality [2021] ZASCA 89
+
+## F - Facts: Relevant Background and Procedural History ([paras 1-11])
+
+This appeal arises from a delictual claim for damages instituted by the appellant, Esorfranki Pipelines (Pty) Ltd ("Esorfranki"), against the Mopani District Municipality ("Mopani"). The background begins when Mopani invited tenders for a water pipeline construction project in 2010, which was awarded to a joint venture between Tlong Re Yeng CC and Base Major Construction (the "Joint Venture") ([para 2]). Esorfranki, citing wrongful conduct attributed to Mopani, alleged that the award to the Joint Venture was marred by bias, bad faith, and dishonesty.
+
+In 2015, a High Court judgment was entered against the Joint Venture for damages related to the tender process, while proceedings against Mopani were postponed ([para 4]). Subsequent review proceedings led to the determination that the original tender process was invalid, necessitating its set aside ([paras 11-12]). The appeal against the High Court's decision to dismiss Esorfranki's damages claim was granted after a petition for leave to appeal was approved, propelling the matter to the Supreme Court of Appeal ([para 4]).
+
+## I - Issues: Legal or Constitutional Questions ([paras 19-22])
+
+The key issues arising from this appeal include:
+1. The applicability of the doctrine of res judicata to prevent the present claim, given prior judicial findings regarding the tender ([para 30]).
+2. The determination of legal causation in relation to Esorfranki's alleged loss of profits resulting from Mopani's decisions ([para 22]).
+3. The extent to which public policy considerations limit or allow for delictual liability in cases regarding public procurement misconduct ([para 22]).
+
+## R - Rules: Legal Authorities and Precedents Relied Upon ([paras 30-75])
+
+The court examined established principles of delictual liability, notably the requisites of wrongfulness, fault, causation, and damages. According to the principles set forth in cases such as *Minister of Finance v Gore NO* and *Olitzki Property Holdings v State Tender Board*, the criteria for establishing liability are subject to certain public policy limitations that prevent the imposition of liability unless there's clear evidence of fraudulent or dishonest conduct ([paras 69-75]).
+
+Moreover, the court discussed the concept of res judicata, emphasizing the requirement of a final decision on the same cause of action between the same parties as an essential element of the doctrine ([paras 30-31]). The distinction between factual and legal causation was also emphasized, with legal policy considerations playing a pivotal role in determining liability in cases of alleged public procurement fraud ([para 68]).
+
+## A - Application: Analysis of How the Court Applied the Law ([paras 53-102])
+
+### Res Judicata
+The Supreme Court of Appeal found that the elements for res judicata were not fulfilled since Esorfranki's current delictual claim was distinct from prior review proceedings, which predominantly addressed the legality of the award rather than delictual causation ([para 31]). The court noted that res judicata would not bar claims relying on facts not positively adjudicated in earlier proceedings.
+
+### Causation
+The court established a nuanced approach to causation, corroborating that while factual causation could be demonstrated (Esorfranki's submission of a compliant tender), establishing legal causation was more complex due to the existence of a novus actus interveniens ([paras 45-48]). The legal outcome from the review process—an order for a fresh tender process—intervened causally, complicating Esorfranki's claims for lost profits based on the initial fraudulent conduct by Mopani ([para 45]).
+
+### Wrongfulness and Public Policy
+In defining the wrongful acts of Mopani, the court concluded that the municipality's conduct implicating dishonesty merited consideration for delictual liability. However, it juxtaposed this against public policy considerations, ultimately deciding that Mopani’s responsibility should not extend to damages in the face of clear public procurement frameworks allowing for re-adjudication and the opportunity for retendering ([paras 68-72]). The court stressed that administrative remedies should take precedence over monetary relief unless the circumstances demand otherwise.
+
+## C - Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 86-142])
+
+The Supreme Court of Appeal ultimately upheld the High Court’s decision, ruling against Esorfranki's claim for damages. The court set aside the earlier findings that declared Mopani liable for damages, emphasizing the complexities surrounding public procurement—particularly regarding fraudulent conduct—which should not automatically invoke delictual liability without substantial policy undergirding. The court concluded by asserting the need for robust public law remedies, establishing that while Esorfranki had validly claimed loss, it could not demonstrate that this loss was integrally linked to Mopani’s actions due to the intervening circumstances created by the public procurements process ([paras 86-109]).
+
+This decision reinforces the principles of accountability, particularly stressing that public officials' wrongful actions should lead to their accountability without imposing undue financial burdens on the municipalities or the public purse. The implications resonate broadly regarding the avenues available for legal claims in administrative processes, positing a clarification on how future claims may navigate both public and private law considerations in tender matters. 
+
+The appeal was therefore dismissed with costs, including costs consequent upon the employment of two counsel ([para 86]).

@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+### FIRAC Case Note: Assured Freight Services (Pty) Ltd v Comair Limited [2007] SCA 20 (RSA)
+
+---
+
+#### F - Facts
+
+In this case, Comair Ltd (the respondent) entrusted Assured Freight Services (Pty) Ltd (the appellant) with a payment of R6,515,864.85 on 20 February 2001. The vast majority of this amount was intended for the South African Revenue Service (SARS) to settle a Value Added Tax (VAT) liability related to the import of an aircraft from the United States ([1]). AFS had a dual obligation: to pay SARS the VAT debt and to execute necessary clearance documentation on behalf of Comair. 
+
+However, AFS failed to pay the VAT amount to SARS, and it was not until Comair was informed by Customs in September 2004 that VAT on the aircraft had not been settled. Following this revelation, Comair paid the outstanding VAT and initiated legal proceedings against AFS for the recovery of the misappropriated funds, subtracting AFS's legitimate agency fee. AFS contended that the claim was time-barred under the Prescription Act, arguing that Comair should have discovered AFS's misappropriation sooner ([5]–[7]).
+
+#### I - Issues
+
+The primary legal issue for the Supreme Court of Appeal was whether Comair's claim against AFS was subject to prescription, effectively making AFS's defense valid. This concerned the interpretation of when Comair could be deemed to have knowledge of the facts giving rise to its claim ([2]–[9]). Specifically, the court had to consider the implications of sections 12(1) and 12(3) of the Prescription Act 68 of 1969, which control the commencement of the prescriptive period based on the creditor's knowledge of the debt ([8]).
+
+#### R - Rules
+
+The critical legal provisions in this case arise from:
+
+1. **Prescription Act 68 of 1969**: In particular, section 12(1) states that a debt is deemed due as soon as it is claimable, and section 12(3) provides that a debt is not deemed due until the creditor has knowledge of the facts from which the debt arises. The creditor is assumed to possess such knowledge if it could have been acquired with reasonable care.
+
+2. **Value-Added Tax Act 89 of 1991**: Section 16(2)(d) stipulates conditions under which input tax can be deducted, including the requirement of having the bill of entry and proof of VAT payment, which AFS used to support its claim of Comair's supposed negligence ([10]–[11]).
+
+#### A - Application
+
+The court undertook a detailed analysis of whether Comair exercised reasonable care in monitoring the actions of AFS after the payment on 20 February 2001. It determined that Comair did not have knowledge of AFS's misappropriation until alerted by Customs in September 2004 ([14]). The court critically examined AFS's position that Comair should have procured the necessary documentation to ensure compliance with VAT regulations. 
+
+Comair had rightly relied on AFS's expertise and assumed that AFS managed all necessary compliance actions, including the payment of VAT. The court effectively rejected AFS's argument that Comair's failure to keep track of the documentation constituted a lack of reasonable care concerning the start of the prescriptive period. It reasoned that Comair had taken all reasonable steps to confirm compliance until the Customs inquiry, which provided the first alert to the failure ([12]–[15]).
+
+#### C - Conclusion
+
+The Supreme Court of Appeal concluded that the defense of prescription was not applicable, as Comair could not have reasonably known it had a claim against AFS prior to the Customs inquiry in September 2004. Consequently, the decision of the lower court ordering AFS to repay the amount, less the agency fee, stood firm ([16]). The court dismissed AFS's application for condonation related to the late filing of notice of appeal and affirmed that AFS would bear the costs of the appeal. This case establishes significant clarity on the factors necessary to establish knowledge in the context of prescription, particularly in complex commercial transactions where third-party agents are involved. 
+
+--- 
+
+This FIRAC case note captures the essential legal analysis of *Assured Freight Services (Pty) Ltd v Comair Limited*, a significant judgment in the realm of commercial law regarding misappropriation and the applicability of the Prescription Act.

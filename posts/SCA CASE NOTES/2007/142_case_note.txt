@@ -1,0 +1,31 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+# Case Note: KH Eley v Lynn & Main Inc [2007] SCA 142 (RSA)
+
+### FIRAC Method
+
+#### F – Facts
+The appeal in **KH Eley v Lynn & Main Inc** [2007] SCA 142 (RSA) arises from a default judgment rendered against Karen Harriet Eley (the appellant) in her capacity as a surety for a debt owed by Help Seat It Southern Africa (Pty) Ltd (the principal debtor) to Nedbank Limited. On 29 February 1996, Eley executed a deed of suretyship binding herself as surety and co-principal debtor for all sums the principal debtor owed, including future indebtedness. Following the principal debtor's failure to meet its obligations, a default judgment was obtained against it on 21 May 2001.
+
+On 25 March 2003, Nedbank ceded its rights to the book debts, including the judgment against the principal debtor, to Lynn & Main Inc, the respondent. Subsequent to this cession, Lynn & Main Inc served summons on Eley on 14 September 2005, leading to a default judgment on 18 October 2005, for the same sum stated in the judgment against the principal debtor. Eley later applied for a rescission of this judgment, arguing that the claim against her had become prescribed under section 11(d) of the Prescription Act 68 of 1969, which prescribes claims after three years. She contended that since the judgment against the principal debtor had been issued more than three years prior, her obligation to the surety had similarly lapsed.
+
+#### I – Issues
+The key issue before the court was whether the prescription period for a claim against a surety (as Eley) is governed by the three-year prescription period under section 11(d) of the Prescription Act or the thirty-year period for judgment debts under section 11(a)(ii). This issue arose after the High Court dismissed Eley's application for rescission, determining the applicable prescription period to be thirty years in line with a previously established precedent ([paras 2-9]).
+
+#### R – Rules
+Various principles of suretyship law and the provisions of the Prescription Act 68 of 1969 are critical to this case. Specifically, section 11(a)(ii) states that the period of prescription is thirty years for judgment debts. In contrast, section 11(d) prescribes claims to a three-year period for other debts. Section 15(4) further stipulates that prescription starts anew upon a court's judgment becoming executable ([paras 1-2]).
+
+The court also referenced relevant case law in its assessment, namely **Jans v Nedcor Bank Ltd** [2003] (SCA) which provides an in-depth analysis of suretyship and suggests that as long as the principal debt is kept alive by judgment, the surety's obligation continues to exist ([paras 10-14]).
+
+#### A – Application
+The court highlighted judgments from **Rand Bank Limited v De Jager** [1982] as being pivotal to the argument, where it was determined that the surety's obligation remains subject to the three-year prescription period even if the principal debtor has received judgment. However, the court in **Jans** had contradicted this ruling, indicating that **if the principal debt is maintained through judgment, the surety’s obligation will similarly remain in force** ([paras 10-14]).
+
+In this case, Eley's argument that her obligation should expire after three years was directly addressed. The court emphasized that if the principal debt is alive, so too is the surety’s obligation, sustaining the thirty-year classification of the prescription period. Notably, the argument from Eley based on the distinction of interruption of prescription as analyzed in **Jans** was rejected as being inconsequential in the current context, affirming that the earlier rulings were not applicable as they had been overtaken by newer reasoning ([paras 12-14]).
+
+Moreover, Eley’s assertion regarding the cession of the claim was shot down as meritless; the terms of the cession from Nedbank to Lynn & Main clearly covered all rights associated with the judgment debt, including the security provided by Eley ([paras 16-17]).
+
+#### C – Conclusion
+The Supreme Court of Appeal concluded that the primary obligation of a surety continues for the same duration that a judgment against the principal debtor remains enforceable under section 11(a)(ii). Therefore, Eley’s claims regarding the expiration of her obligations after three years failed. The court ultimately dismissed the appeal with costs, affirming the precedent set in **Jans v Nedcor Bank Ltd**, and entrenched the legal principle that ensures sureties are held accountable for the full duration of the primary obligation if a judgment exists against the principal debtor ([paras 14-18]). 
+
+This case sets a significant precedent by reinforcing the relationship between the obligations of sureties and the longevity of the principal debts, thereby clarifying prescription in the context of suretyship under South African law.

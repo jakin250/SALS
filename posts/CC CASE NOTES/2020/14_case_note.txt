@@ -1,0 +1,35 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2020
+
+# FIRAC Case Note: Competition Commission of South Africa v Pickfords Removals SA (Pty) Limited [2020] ZACC 14
+
+## F – Facts
+The case at hand concerns a complaint initiated by the Competition Commission of South Africa (the Commission) against Pickfords Removals SA (Pty) Limited (Pickfords) and other furniture removal companies accused of engaging in collusive tendering practices, specifically through "cover quoting" or "bid rigging" ([1]–[2]). The Commission's allegations suggest that Pickfords was involved in 37 instances of these practices dating back to 2008, which are in contravention of section 4(1)(b) of the Competition Act 89 of 1998 ([3]–[4]).
+
+The formal complaint process began with an initiation statement by the Commissioner on 3 November 2010, which did not specifically name Pickfords but listed other firms involved ([5]). On 1 June 2011, a follow-up initiation specifically cited Pickfords in a complaint regarding the same practices ([6]). The issue escalated when the Commission referred the matter to the Competition Tribunal on 11 September 2015, asserting that the counts against Pickfords were based on these cited actions ([7]).
+
+Pickfords challenged 20 of the 37 counts, asserting that 14 counts were time-barred under section 67(1) of the Competition Act, which prohibits the initiation of complaints more than three years after the cessation of a prohibited practice ([8]). The Commission argued that the 2011 initiation was merely an amendment to the original complaint from 2010, thus resetting the time limit ([9]). The Tribunal ruled in favor of Pickfords, determining that the 2011 initiation was self-standing, but this decision was overturned by the Competition Appeal Court, which agreed with the Commission's view on the amendment aspect but found that section 67(1) operated as an absolute bar ([10]).
+
+## I – Issues
+The key legal issues to be resolved in this case revolve around the interpretation of section 67(1) of the Competition Act and its implications for the Commission's ability to initiate complaints. There are two primary questions ([11]–[13]):
+1. Is section 67(1) a prescription provision that creates an absolute bar for initiating complaints, or is it a procedural time-bar that can be condoned under section 58(1)(c)(ii) of the Act?
+2. What constitutes the "trigger event" that starts the three-year timeframe for the Commission to initiate its complaint?
+
+## R – Rules
+Several statutory provisions and legal precedents provide the framework for this case. The relevant rule is section 67(1) of the Competition Act, which specifies that a complaint regarding a prohibited practice cannot be initiated more than three years after the practice has ceased, coupled with section 58(1)(c)(ii), which allows the Tribunal to condone non-compliance with certain timelines ([12]).
+
+The court also had to consider the principles of statutory interpretation, as stated in the precedents of Cool Ideas ([34]) and Wary Holdings ([35]), which emphasize the importance of interpreting legislation in a manner that promotes the spirit and objectives of the Constitution, particularly regarding access to justice as articulated in section 34 of the Constitution of South Africa.
+
+## A – Application
+In analyzing the facts, the court ultimately determined that section 67(1) should be read as a procedural time-bar rather than a substantive limitation. The court posited that the original initiation date of 3 November 2010 triggered the time limit for initiating complaints and that the 2011 initiation was an extension rather than a separate instance ([30]). This interpretation aligns with the Commission's primary role in monitoring and enforcing compliance under the Competition Act, thereby supporting the objective of preventing anti-competitive conduct.
+
+The court further explored the implications of interpreting section 67(1) as an absolute bar, recognizing that such a rigid interpretation would undermine the Commission's ability to combat collusion and would disproportionately favor firms that engage in covert conduct to evade prosecution ([39]–[47]). Moreover, the court contended that allowing for the possibility of condonation was essential to ensuring access to justice and preventing an unjust limitation of rights expressed in the Constitution.
+
+As for section 58(1)(c)(ii), the court found that the Tribunal does indeed possess the power to condone non-compliance with the time-bar provisions laid out in the Act, thereby establishing a coherent framework that allows the Commission to initiate cases beyond the three-year threshold under certain circumstances ([49]–[55]).
+
+## C – Conclusion
+The Constitutional Court affirmed the authority of the Commission and reversed the findings of the Competition Appeal Court, recognizing section 67(1) as a procedural time-bar, thereby allowing for the possibility of condonation for non-compliance ([56]). The court ordered that the matter be remitted to the Competition Tribunal for further hearing, underlining the significance of a statutory interpretation that allows the Commission to effectively enforce competition law for the broader public interest ([57]).
+
+The implications of this judgment extend beyond just this case, as it reestablishes the balance between ensuring timely enforcement of competition laws while also preserving the right of access to courts for public interest considerations, reinforcing the essential role of the Competition Commission as a guardian against anti-competitive practices in South Africa ([58]–[64]). 
+
+In summary, the court held that a rigid interpretation is counterproductive to the objectives of the Competition Act and detrimental to public interest enforcement, thereby fostering a more effective framework for addressing anti-competitive behavior in the market.

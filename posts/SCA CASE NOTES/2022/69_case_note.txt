@@ -1,0 +1,40 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2022
+
+# FIRAC Case Note: Nedbank Limited v Houtbosplaas (Pty) Ltd and Another [2022] ZASCA 69
+
+**F – Facts: Relevant Background and Procedural History**  
+[1] The case involves an appeal by Nedbank Limited (the Appellant) against two companies, Houtbosplaas (Pty) Ltd and TBS Alpha Beleggings (Pty) Ltd (the Respondents). The Respondents, both longstanding clients of Nedbank, sought damages (mora interest) resulting from Nedbank's refusal to close their bank accounts as per their written instructions dated 20 January 2017. The refusal came after a dispute regarding compliance with the Financial Intelligence Centre Act 38 of 2001 (FICA), where Nedbank requested trust deeds for four trusts that held shares in the companies. 
+
+[3] Both companies had operated multiple banking accounts with Nedbank for several decades. The companies' sole director, a retired judge, was also the sole trustee for the four trusts that held shares in these companies. Despite the ongoing banking relationship, Nedbank required further verification on account compliance under FICA. When the requested trust documentation was not fully provided, Nedbank restricted the accounts, leading the companies to terminate their relationship.
+
+[5] Houtbosplaas and TBS Alpha initiated motion proceedings on 8 October 2017 in the Gauteng Division of the High Court, seeking judgments for damages, interest, and costs amounting to R66,814.68 and R114,288.63, respectively. The High Court ruled in favour of the Respondents, finding Nedbank had unlawfully refused to close the accounts and solely granted the appeal's leave to proceed.
+
+**I – Issues: Legal or Constitutional Questions**  
+[8] The central legal issue before the Supreme Court of Appeal (SCA) was whether Nedbank’s refusal to close the accounts was lawful and whether the companies had a right to mora interest due to Nedbank's delays. 
+
+[10] The court sought to determine:
+1. Whether the restriction of the Respondents' accounts by Nedbank was lawful under FICA.
+2. If the Respondents could provide documentation required by Nedbank, despite the claims of the trusts' privacy.
+3. Whether the Respondents were entitled to damages for mora interest as a result of these delays.
+
+**R – Rules: Legal Authorities and Precedents Relied Upon**  
+[15] The relevant statutes underpinning the case include FICA, which mandates due diligence and verification for financial transactions involving trusts. Specifically, Section 21 of FICA requires banks to establish clients' identities to prevent money laundering and financial fraud. Regulation 7(f)(ii) of the associated regulations specifies that banks must obtain particulars of trusts holding 25% or more of voting rights for such verification.
+
+[17] The interpretation of corporate governance documents, such as the Memorandum of Incorporation (MOI) of the companies, played a crucial role. The court referenced established principles of contract and company law interpretations, stressing the need for adherence to the documented rights of shareholders and governance structures (see, e.g., *Standard Bank of SA Ltd v ABSA Bank Ltd* [1995] All SA 535 (T); *Cassim et al, Contemporary Company Law* 2ed (2011)).
+
+**A – Application: Analysis of How the Court Applied the Law**  
+[21] The SCA began by examining whether Nedbank was entitled to the trust documents required under FICA. The court agreed with the High Court, concluding that the trusts did not hold the requisite 25% voting rights as defined in Regulation 7(f)(ii) because preference shareholders, as delineated in the MOI, could not vote in several significant matters. 
+
+[30] It was emphasized that FICA's provisions and regulations primarily target the establishment of business relationships rather than the continual verification of existing clients. Consequently, the court held that Nedbank had overreached what was legally required in demanding documents that were not necessary for the existing relationship.
+
+[50] Regarding the claim for mora interest, the court noted that without lawful justification for Nedbank's restrictions on the accounts, the Respondents suffered loss due to being deprived of their funds for an extended period. It affirmed established jurisprudence regarding the entitlement to mora interest, emphasizing that claimants need not demonstrate additional damages resulting from the withholding of funds (see *Linton v Corser* [1952] 4 All SA 9 (A); *Bellairs v Hodnett and Another* 1978 (1) SA 1109 (A)).
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications**  
+[57] The SCA dismissed Nedbank's appeal and upheld the High Court's ruling, affirming that Nedbank acted unlawfully by refusing to execute the closure of accounts in response to the explicit instructions from the companies. The court found that the requisite threshold for verification under FICA was not met by the trusts and thus, mechanical compliance with the Act did not justify the delay/treatment by Nedbank.
+
+[58] The ruling reinforced the principles of vitality in banking-client relationships, emphasizing the balance between regulatory diligence and customer rights. Furthermore, the case highlights the limitations on what is reasonably required from clients in an established banking relationship, thereby setting a precedent for similar banking disputes in the future, clarifying boundaries around compliance with FICA vis-à-vis customer privacy.
+
+---
+
+This case note provides a succinct overview of findings and legal principles while maintaining academic rigour suited for citation and professional use in legal circles.

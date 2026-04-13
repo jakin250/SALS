@@ -1,0 +1,52 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# Case Note: Steyn Lyell Maeyane Attorneys v Oelofse (271/2016) [2017] ZASCA 18
+
+## F – Facts
+
+The case revolves around a written undertaking issued by the appellant firm of attorneys, Steyn Lyell Maeyane Attorneys (hereafter "the appellant"), on 1 April 2008, which purportedly guaranteed a sum of R1 million to the respondent, Johan Oelofse (hereafter "the respondent"). The background of the matter is rooted in a profit-sharing agreement related to a development known as Drakensberg Gardens, involving Abrina 2537 (Pty) Ltd ("Abrina") and the respondent ([1–3]).
+
+Upon financing a project by Abrina, the respondent was promised ten percent of the net profits, estimated to be between R1.2 million and R1.5 million. However, due to delays in the project's completion, the respondent did not receive the agreed payment on the anticipated date of 11 April 2008 ([7–10]). The respondent subsequently needed funds to complete another transaction involving Plenty Properties (Pty) Ltd, which necessitated a written undertaking from the appellant as assurance of payment ([8]).
+
+The appellant's undertaking explicitly stated the terms under which the respondent was to receive his profit share, confirming that it served as a "guarantee for funding" and requesting banking details to facilitate payment ([3], [10]). However, the development was not completed until April 2009, and the appellant, lacking the necessary funds from Abrina, was unable to fulfill the obligation, resulting in the cancellation of the Plenty Properties sale agreement ([12–14]).
+
+Following the withdrawal of the undertaking by the appellant on 21 May 2008, the respondent instituted legal proceedings for the R1 million and additional damages of R200,000 due to forfeited deposits, leading to a complex legal battle over the nature of the undertaking and its enforceability ([14–19]).
+
+## I – Issues
+
+The case presents critical issues regarding:
+
+1. **The Nature of the Undertaking**: Did the written undertaking from the appellant constitute an unconditional guarantee for the payment of R1 million to the respondent, and what was the intent behind it? ([1], [19])
+   
+2. **Evidentiary Matters**: Was the evidence presented by the respondent regarding their intentions relevant or admissible in interpreting the undertaking? ([18])
+
+3. **Claim for Damages**: Did the respondent meet the burden of proof to demonstrate that they suffered damages as a result of the appellant's actions? ([20])
+
+## R – Rules
+
+The court applied principles from established case law concerning the interpretation of written agreements:
+
+1. **Contextual and Purpose-driven Interpretation**: The undertaking must be understood within the factual matrix of the agreement, emphasizing not just the wording but the purpose behind it ([4]).
+
+2. **Exclusion of Extrinsic Evidence**: Previous judgments, including **Van Aardt v Galway** ([2011] ZASCA 201) and **Coopers & Lybrand v Bryant** ([1995] 3 SA 761 (A)), affirm that extrinsic evidence of the parties' intentions at the time of contract formation is generally inadmissible when construing a written agreement ([18]).
+
+3. **Guarantees and Conditional Payments**: Following the precedent set in **Frans Jacobus Kruger h/a Kruger Attorneys v Property Lawyer Services** ([2011] ZASCA 80), the court distinguished between unconditional guarantees and contingent payments based on prior conditions being met ([5], [6]).
+
+## A – Application
+
+The court examined whether the wording of the undertaking, specifically its phrasing concerning "guarantee" and "interest", indicated an unconditional liability incurred by the appellant. The judgment emphasized that the reference to the undertaking being a "guarantee for funding" related back to the profit-sharing agreement between the respondent and Abrina; thus, it did not, in itself, impose a direct obligation on the appellant to pay the respondent R1 million unconditionally ([16]).
+
+Furthermore, the court found the reasoning employed by the full court to be flawed as it mischaracterized the undertaking as a personal guarantee from the appellant. The phrasing of the document, alongside the circumstances of its issuance, indicated it was a confirmation of the profit-sharing terms, contingent upon the project’s success, rather than a promissory obligation ([15], [16]).
+
+With respect to the evidentiary matters, the attempt by the respondent's counsel to introduce evidence of subjective intent regarding the undertaking was dismissed as inadmissible. Prior precedents established that such evidence could not alter the written contract’s meaning ([18]).
+
+Concerning the damages claim, it was confirmed that the respondent failed to establish a direct link between the appellant’s actions and the damages claimed. The funds forfeited were connected to Plenty Properties, not to the respondent directly, thus further disentangling the appellant from liability for those losses ([20]).
+
+## C – Conclusion
+
+The Supreme Court of Appeal ultimately ruled in favour of the appellant, overturning the decision of the full court and concluding that the undertaking did not establish an unconditional guarantee for the payment of R1 million to the respondent. The provisions of the undertaking were merely a reflection of the profit-sharing agreement between Abrina and the respondent, thus failing to create an independent liability. The appeal was granted with costs, and the previous judgment was set aside, underscoring the importance of precise language in financial undertakings and the limited scope of evidence permissible when interpreting written agreements ([19], [21]).
+
+### Implications
+
+This case serves as a pivotal clarification regarding the interpretation of written guarantees within contracts and affirms the legal principle that intentions and meanings within documentation must primarily be derived from the explicit language used within the document itself. Students and practitioners will find the emphasis on contextual interpretation and the inadmissibility of subjective intent significantly relevant for future dealings in contracts within South African law.

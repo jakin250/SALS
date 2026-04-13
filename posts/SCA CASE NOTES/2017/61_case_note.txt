@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: Ndubu v First Rand Bank (1113/2016) [2017] ZASCA 61
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–13])**
+
+The case involves an appeal by four appellants—August Nthako Ndubu, Joao Manuel Vicente da Encarnacao, Quantum Leap Investments 221 (Pty) Ltd, and Tube-Mech Services (Pty) Ltd (collectively "the appellants")—against First Rand Bank Limited, trading as Wesbank ("the respondent"). The appeal arises from a decision by the Gauteng Local Division of the High Court, which held the appellants liable as sureties for a company named Sizwe Personnel Service (Pty) Ltd's (Sizwe) indebtedness under four instalment sale agreements concerning two trucks and two trailers.
+
+On 17 October 2007, the appellants—who included the directors and stakeholders of Sizwe—bound themselves jointly and severally as co-principal debtors to Wesbank, guaranteeing the company's debts under these agreements. Sizwe was voluntarily liquidated on 6 April 2010, resulting in the appointment of liquidators. Following this, the appellants engaged in negotiations and offered to mitigate the company’s indebtedness.
+
+The crux of the conflict arose from three offers to buy the vehicles, made to the liquidators, which the appellants claimed Wesbank either declined or did not act upon, leading to alleged undue prejudice. Yet, the court found that by the time these offers were submitted, Wesbank had already repossessed the vehicles and sold them at public auction, realizing a deficiency of around R694,042 in repayments.
+
+**I – Issues: Legal or Constitutional Questions ([paras 14–19])**
+
+The primary legal questions in this appeal were whether Wesbank’s refusal to accept the made offers constituted a breach of its obligations, resulting in a release of the appellants from their suretyship obligations. The case raised several ancillary issues, including:
+
+1. Did Wesbank breach its duty of care or licensing by not accepting the offers that would have alleviated the surety liability of the appellants? ([para 14])
+2. Were the appellants able to demonstrate that the respondent failed to mitigate its losses by rejecting the offers? ([paras 15–16])
+3. Could the appellants rely on the argument of public policy to develop a so-called "long-stop" defence to evade their surety liability? ([para 15])
+4. Did Wesbank's conduct in relation to sections 83 and 84 of the Insolvency Act invalidate its claims and affect the validity of the auction? ([paras 16–34])
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 18–27])**
+
+The court relied on several legal principles regarding suretyship and creditor obligations. The core rule governing suretyship is that a surety remains bound by his obligations as long as none of the discharging conditions are met [cf. Absa Bank v Davidson [2000] 1 All SA 355 (SCA); Bock & others v Duburoro Investments (Pty) Ltd [2003] 4 All SA 103 (SCA)].
+
+The court stressed that the onus of proving any defence against the claim of a creditor lies on the surety [para 18]. This involves demonstrating that due process was not followed in the handling of the insolvency process, particularly with reference to offers made during the liquidation stages that could have reduced the appellants' liabilities.
+
+Concerning the Insolvency Act—specifically sections 83 and 84—the court referenced **Venter NO v Avfin (Pty) Ltd** which ruled that compliance with procedural requirements to realize securities does not need to precede a creditor's obligation to pay proceeds of such realization to a liquidator [paras 30–34].
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 19–34])**
+
+The court meticulously analyzed the validity of the appellants' defence points, notably the claims regarding the offers made during the insolvency process.
+
+1. **Refusal to Accept Offers**: The court denoted that the first offer by Truck-World was withdrawn and thus could not ground a claim against Wesbank for non-acceptance. The second offer made by Tube-Mech, contingent on securing financing, could not be deemed rejected since it was incapable of being accepted due to financial failure. Thus, no breach could be established [para 19–20].
+
+2. **Submission Timing of the Third Offer**: With the third offer, the court indicated that it was not submitted to Wesbank timely, and hence it could not blame Wesbank for not considering it—in contrast, the appellants' representative was found negligent [para 21–26].
+
+3. **Insolvency Act Arguments**: The issues surrounding sections 83 and 84 were deemed irrelevant at this stage, as Wesbank was not obliged to pay the proceeds of sale before realizing its securities [paras 28–34]. Here, the court clarified that the appellants failed to establish any substantial injustice resulting from the alleged irregularities, crucial for invalidating enforceable claims under the Insolvency Act.
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 35–36])**
+
+The Supreme Court of Appeal ultimately dismissed the appeal, concluding that the appellants failed to substantiate their claims and that Wesbank acted within its rights throughout the process. The court held that the appellants’ reliance on the non-acceptance of the offers was largely unfounded and that they did not meet the burden of proof required to be released from their suretyship obligations.
+
+The ratio decidendi underscores the tenet that suretyship obligations remain intact unless proved otherwise by the surety, emphasizing the necessity for diligence and reasonable promptness in commercial negotiations, particularly during insolvency proceedings. This judgment serves as a precedent for future cases concerning suretyship and the obligations of creditors during liquidation, reinforcing the importance of timely and clear communication in commercial transactions.
+
+The appellants were ordered to pay the costs of the appeal, a decision that underscores the court's view that the appeal lacked merit. This ruling reaffirms the creditor's ability to enforce security against sureties unless they can definitively prove that their legal rights have been effectively compromised.

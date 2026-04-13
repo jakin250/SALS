@@ -1,0 +1,47 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2017
+
+# FIRAC Case Note: New Adventure Shelf 122 (Pty) Ltd v Commissioner of the South African Revenue Service (2017) ZASCA 29
+
+## F – Facts
+
+In this case, the appellant, New Adventure Shelf 122 (Pty) Ltd (the Company), sought to challenge the correctness of a capital gains tax (CGT) assessment concerning a sale of immovable property. The property, purchased by the Company in 1999 for R185,000, was sold to Kalipso Twintig (Pty) Ltd for a price of R17,720,000 in the 2007 tax year `[1]`. Following a partial payment, the sale was cancelled by mutual agreement in 2011, which resulted in the Company retaining R4,549,082 (the amount actually received) while the rest of the amount was forfeited due to breach of contract `[1]`–`[2]`. 
+
+SARS assessed the Company based on the agreed sale price, resulting in a substantial capital gain of R9,746,875, for which the Company was liable to pay R1,587,277.54 in taxes `[4]`. Notably, no objections to the initial assessment were filed within the required three-year timeframe, making it final and conclusive under section 81(5) of the Income Tax Act 58 of 1962 (the Act) `[5]`–`[14]`. The Company subsequently sought a re-evaluation of this assessment after the property sale was cancelled, claiming entitlement to a reassessment based on the amounts effectively received `[2]`–`[8]`. However, SARS maintained that the original assessment could not be reopened, and the Western Cape High Court dismissed the Company’s application for a review of SARS’s decision, prompting this appeal `[2]`.
+
+## I – Issues
+
+This case presents several key legal issues:
+
+1. **Whether the Company is entitled to have its capital gains tax reassessed following the cancellation of the sale of the property**.
+2. **If the cancellation of the sale and the subsequent loss qualify for consideration in the assessment of capital gains or capital losses in the current tax year**.
+3. **The applicability of the relevant provisions of the Income Tax Act and whether the original assessment can be declared final**.
+
+These issues raise substantial questions about the interpretation of tax laws especially in relation to capital gains assessments and statutory time limits for objections `[1]`–`[10]`.
+
+## R – Rules
+
+The statutory framework underpinning this case comprises several key legislative provisions:
+
+1. **Income Tax Act 58 of 1962**:
+   - **Section 81**: Governs the objection process against tax assessments, stipulating that objections must be made within three years of the assessment, beyond which the assessment becomes final and indisputable `[14]`.
+   
+2. **Eighth Schedule of the Act**: 
+   - Introduces the concept of CGT, detailing the calculation of capital gains based on the difference between the base cost of an asset and the selling price, including defining the circumstances under which a capital loss may arise `[10]`–`[12]`.
+   - **Paragraph 35**: Outlines how proceeds from asset disposal should be reduced in the case of cancellations, variations, or other events, primarily focusing on the stated year of assessment `[15]`–`[21]`. 
+
+3. **Tax Administration Act 28 of 2011**: This Act provides provisions for disputed tax assessments but was determined not to apply, as the relevant events occurred before its enactment `[8]`–`[9]`.
+
+## A – Application
+
+In applying the law to these facts, the court emphasized that under section 81 of the Income Tax Act, the Company failed to object to its assessment within the entrenched time limits, rendering the assessment final and conclusive. Statistics revealed that capital gains tax assessments are annual obligations linked closely to the transactions occurring in a defined tax year. The court highlighted that while the Company had an argument grounded in paragraph 35(3) of the Eighth Schedule, asserting that they were entitled to reconsider the assessment based on the cancellation's effects on taxable gains, this argument had limitations.
+
+The court noted the general principle that tax leviable during a particular tax year cannot be altered or reversed due to events occurring in later tax years. The appellant's assertion that a ‘redetermination’ of the tax was warranted due to post-assessment developments was considered inconsistent with the capital gains tax scheme, which does not retroactively reassess final tax obligations based on subsequent losses `[24]`–`[26]`. 
+
+The court also addressed the implications of capital losses versus claims for tax refunds, noting that while the cancellation of the contract led to an apparent capital loss on future assessments, this did not confer any immediate entitlement to a reassessment of the previous year's tax obligations. Consequently, the court ruled that the cancellation of the sale could only be considered in assessing prospective gains or losses in the current and subsequent tax years rather than altering past assessments `[27]`–`[29]`.
+
+## C – Conclusion
+
+The Supreme Court of Appeal dismissed the appeal, affirming that the cancellation of the property sale did not entitle the Company to re-assess its CGT liability for the 2007 year. The judgment underscored the principle that tax liabilities should reflect the law as applicable at the time of assessment, without being undermined by subsequent developments. Furthermore, while acknowledging the apparent inequity of the situation faced by the Company, the court reaffirmed that tax regulations must be applied consistently, regardless of their fairness on individual taxpayers. The final ruling not only reinforced the principles of statutory finality in tax law but also clarified the scope of CGT application within the ambit of South African tax legislation `[28]`–`[30]`. 
+
+Given the established legal framework and comprehensive analysis conducted, the implications of this judgment underscore the critical nature of adhering to statutory timelines in tax matters and highlight the limitations faced when seeking redress based on post-assessment events.

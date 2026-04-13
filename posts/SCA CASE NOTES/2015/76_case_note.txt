@@ -1,0 +1,38 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2015
+
+# Case Note: Panamo Properties (Pty) Ltd v Nel and Another NNO (2015) 2015 ZASCA 76 (27 May 2015) 
+
+**FIRAC Method Case Note**
+
+## F – Facts
+The case revolves around business rescue proceedings involving Panamo Properties (Pty) Ltd ("Panamo"), a property-owning company substantially indebted to Firstrand Bank Ltd. The Jan Nel Trust, which is the sole shareholder of Panamo, sought to place Panamo under business rescue to avoid foreclosure on a property mortgaged to the bank, following substantial financial distress that led to judgment against Panamo for R3.3 million ([para 2–3]).
+
+In August 2011, the Trust resolved to initiate business rescue. However, in September 2013, after the appointment of a business rescue practitioner and the adoption of a business rescue plan, the Trust sought a declaration that the initial resolution had lapsed, subsequently arguing that all actions taken during the business rescue had become null and void due to non-compliance with sections 129(3) and (4) of the Companies Act 71 of 2008 ([paras 3–4]). The High Court found in favor of the Trust, declaring the business rescue null, leading to the appeal ([paras 6–4]).
+
+## I – Issues
+The core legal issue for determination was whether the non-compliance with the statutory provisions of the Companies Act rendered the resolution to commence business rescue lapsing as a nullity, effectively terminating the business rescue process without further court involvement ([paras 5–6]). Specifically, the court needed to assess the interpretation of sections 129 and 130 of the Companies Act, notably the relationship between the lapsing of a resolution under section 129(5) and the judicial avenues available under section 130 for setting aside such resolutions ([paras 10–12]).
+
+## R – Rules
+The relevant legal framework primarily comprised:
+1. **Companies Act 71 of 2008** (the Act):
+   - Section 129: outlines the requirements and effects of business rescue resolutions.
+   - Section 130: governs the application process for setting aside a business rescue resolution.
+   - Section 132: describes the conditions under which business rescue proceedings can be terminated, emphasizing that the resolution and the business rescue process are interconnected.
+
+Notably:
+- Section 129(3) mandates specific steps post-resolution for effective business rescue.
+- Section 129(5) indicates that failure to comply with subsections (3) or (4) results in the resolution lapsing and being a nullity.
+- Section 130(1)(a)(iii) allows affected persons to challenge resolutions if procedural requirements were not adhered to ([paras 10–13]).
+
+## A – Application
+The Supreme Court of Appeal, in reviewing the case, focused on reconciling the strict interpretation of the lapsing provisions in section 129(5) with the broader context and objectives of the business rescue provisions. The court expressed that while section 129(5)(a) appears to impose an automatic nullity of any resolution upon non-compliance, this interpretation must be contextualized within the legislative intentions of the Companies Act ([paras 20–30]).
+
+The court further clarified that a resolution does not end simply due to lapsing; actual termination of business rescue requires court intervention, aligning with section 132. The rationale emphasizes that such an interpretation upholds the Act's overall objective to protect financially distressed companies while simultaneously balancing stakeholder interests. The court concluded that the legislative intent affords room for courts to consider justice and equity in determining whether to set aside a resolution, thus not endorsing the Trust’s opportunistic tactics ([paras 31–34]).
+
+## C – Conclusion
+The Supreme Court of Appeal reversed the High Court's ruling, holding that the non-compliance with certain provisions does not automatically nullify the business rescue process. Instead, it reaffirmed that business rescue continues until a court rules otherwise, thereby upholding the application made by the business rescue practitioner. The outcome emphasizes the court's commitment to enabling companies' recovery processes while safeguarding against abuse of the legislative framework ([para 35]). Consequently, the appeal was upheld with costs, and the initial application seeking to declare the business rescue null was dismissed, ensuring the continuation of the business rescue process under Panamo Properties ([para 35]).
+
+---
+
+This detailed FIRAC case note provides a structured overview of the case, emphasizing the balancing of legislative compliance with equitable principles within South African corporate law frameworks.

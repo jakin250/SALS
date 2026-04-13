@@ -1,0 +1,65 @@
+Case Note: SAFLII Note: Certain personal/private details of parties or witnesses have been redacted from this
+Source Folder: 2013
+
+# FIRAC Case Note: Absa Bank Limited v Daniel Joseph Hanley (08/13) [2013] ZASCA 183
+
+## F – Facts: Relevant Background and Procedural History ([paras 1–8])
+
+In this case, the appellant, **Absa Bank Limited**, appealed against a decision made by the North Gauteng High Court (Mothle J) regarding a fraudulent transaction involving the respondent, **Daniel Joseph Hanley**, an Irish solicitor. The fraud perpetrated by an individual known as **Jean-Claude Olivier Alain La Cote**, who posed as **Roger Wilcox**, resulted in the unauthorized debit and transfer of **US$ 1.6 million** from Hanley’s investment account at Absa. The trial court found that while Hanley exhibited negligence regarding some aspects of the transacted arrangements, the proximate cause of his loss was primarily the negligence of Absa’s employees ([para 3]).
+
+The exchange began with Hanley establishing a currency investment account in June 2003 and subsequently authorizing transfers for a legitimate aircraft purchase by his brother, **Noel Hanley**, who required financing for the transaction. The background involved La Cote’s fraudulent schemes designed to misappropriate funds from Hanley’s account, resulting in an unsuccessful first attempt on June 30, 2003, which was declined due to procedural infraction ([paras 4–5]). However, a later successful attempt, despite Hanley's lack of authorization for the US$ 1.6 million transfer to Coutts & Co, occurred after the manipulation of the payment forms ([paras 10–17]).
+
+The High Court ultimately found against the bank, determining that both employees of Absa, namely Fourie and Hewan, had acted negligently in facilitating the fraudulent wire transfer ([paras 24–38]).
+
+---
+
+## I – Issues: Legal or Constitutional Questions ([paras 18–19], [23], [41])
+
+This case raises several significant legal questions regarding the obligations and standards of care both the customer and the bank owe each other within a banking relationship:
+
+1. **Negligence**: Did Hanley breach his duty to construct payment instructions with the requisite care to prevent fraud?
+2. **Causation and Proximate Cause**: Was the bank's negligence the proximate cause of the loss Hanley suffered from the unauthorized transaction?
+3. **Banking Practices**: Did Absa Bank garner its defense from the standard practices expected from a banking institution regarding identification verification or suspicion of fraudulent activity?
+
+These issues must be explored in light of the unique circumstances presented in this case, including Hanley's professional background and the deceptive nature of the transactions orchestrated by La Cote.
+
+---
+
+## R – Rules: Legal Authorities and Precedents Relied Upon ([paras 25–34])
+
+The court considered the nature of the banking contract, which emanates from the bank-customer relationship. This involves the customer granting the bank authority to act as a mandatary, thus requiring both parties to perform their obligations with care and in good faith. The following legal principles were highlighted:
+
+1. **Duty of Care**: The bank has a duty to execute payment instructions accurately and without negligence ([para 25]).
+2. **Customer’s Duty**: The customer must draw payment instructions with reasonable care to avoid potential forgery or fraud; negligence in safeguarding funds on the customer's part is actionable only if the negligence leads directly to the incident ([para 27]).
+3. **Risk of Fraud**: The bank’s responsibility to identify and investigate suspicious transactions was observed, with the potential liability allocated if it neglects to adequately perform these checks ([para 37]).
+
+Key precedents included:
+- **McCarthy Ltd v ABSA Bank Ltd** ([2010] 2 SA 321 (SCA)), which emphasizes the bank's duty to observe due diligence.
+- The contractual nature of the relationship was outlined generally, indicating both parties' responsibilities in preventing occurrences leading to unauthorized debits ([paras 23–25]).
+
+---
+
+## A – Application: Analysis of How the Court Applied the Law ([paras 18–38])
+
+**Negligence of Hanley**: The court recognized that while Hanley exhibited negligence in aspects of his responses to La Cote’s requests, such as signing multiple pages without seeking the bank's clarification, his actions were observed in a high-pressure context ([para 39–40]). The judgment suggested that Hanley’s reliance on La Cote was a significant factor influencing his judgment rather than outright obliviousness to the risks involved.
+
+**Negligence of Absa Bank**: The court strongly emphasized the employees' carelessness in failing to adequately verify the identities of those transacting and the integrity of the documents presented. The court noted that Fourie's failure to recognize the alterations on the transfer documents constituted a breach of the bank’s obligation to act prudently ([paras 30–38]). The modifications made to the payment amounts drew attention to the negligence evident in the bank’s procedures, such as letting documents pass through intermediaries without sufficient verification ([para 34]).
+
+The court found that the actions of Absa employees were the proximate cause of Hanley’s loss, concluding that any negligence on Hanley’s part did not outweigh the failings of the bank. Thus, the contractual framework does not purport to impose absolute liability on the customer for every failure to follow standard processes on their part.
+
+---
+
+## C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 38–50])
+
+The Supreme Court of Appeal dismissed the bank's appeal, affirming the lower court’s ruling that Absa was liable for the unauthorized transfer ([para 38]). The court elucidated that Hanley’s overall conduct, while exhibiting negligence, could not absolve the bank of its primary responsibility to safeguard customer transactions through vigilant operational conduct ([para 39]).
+
+The ratio decidendi of this case lies in the delineation of duties between the bank and the customer, along with a recognition of the profound obligation banks hold to ascertain and verify transactions in real-time. The court’s ruling reinforces the principle that banks must adhere to the highest professional standards to prevent loss from fraud and that customers are expected to act reasonably without becoming defaulted for being victimized by sophisticated fraud ([paras 44–50]).
+
+The implications of this decision emphasize the precarious balance necessary in banking relationships, prompting institutions to re-evaluate their protocols for processing transaction requests and verifying identities, as failure to do so could lead to significant liability in cases of fraud. Additionally, the case serves as a cautionary tale advise customers on the importance of vigilance in handling payment instructions.
+
+--- 
+
+**References**
+- Absa Bank v Hanley (08/13) [2013] ZASCA 183;
+- McCarthy Ltd v ABSA Bank Ltd [2010] 2 SA 321 (SCA);
+- Legal Commentaries and Texts on Banking Negligence and Duties; case law included as per provided citations.

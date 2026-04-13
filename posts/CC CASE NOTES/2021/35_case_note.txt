@@ -1,0 +1,73 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note
+
+**Case Title:** Competition Commission of South Africa v Mediclinic Southern Africa (Pty) Ltd and Another [2021] ZACC 35
+
+**Court:** Constitutional Court of South Africa
+
+**Coram:** Mogoeng CJ, Jafta J, Khampepe J, Madlanga J, Majiedt J, Mhlantla J, Pillay AJ, Theron J, Tlaletsi AJ, Tshiqi J
+
+**Heard on:** 11 March 2021
+
+**Decided on:** 15 October 2021
+
+---
+
+## F – Facts
+
+The case concerns an application for leave to appeal against a judgment and order from the Competition Appeal Court regarding a merger in the private healthcare sector, specifically involving Mediclinic Southern Africa (Pty) Ltd and Matlosana Medical Health Services (Pty) Ltd ([1]–[12]). The Competition Commission (the applicant) sought to prohibit this merger due to concerns over a substantial lessening of competition and adverse public interest effects.
+
+**Context of the Merger:**
+- Mediclinic owns a multidisciplinary hospital in Potchefstroom and a total of 50 hospitals across South Africa. Matlosana owns two multidisciplinary hospitals and a psychiatric hospital in Klerksdorp ([13]–[18]).
+- The proposed merger would give Mediclinic control over the Wilmed Park Private Hospital and Sunningdale Hospital, significantly increasing its market share in the area ([14]–[16]).
+- Evidence presented indicated that the merger would likely lead to increased tariffs at the target hospitals, impacting particularly uninsured patients who are already vulnerable ([19]–[21]).
+
+**Tribunal Findings:**
+The Competition Tribunal prohibited the merger on grounds that it would result in:
+1. Increased healthcare tariffs at target hospitals.
+2. Adverse effects on uninsured patients’ ability to switch to cheaper hospital options, ultimately harming consumer welfare ([30]–[31]).
+
+Mediclinic contested these findings, arguing that the efficiency gains from the merger would offset the adverse effects ([22]–[23]).
+
+---
+
+## I – Issues
+
+The case presents several legal and constitutional issues ([33]):
+1. Whether the Competition Appeal Court was entitled, in law, to interfere with the Tribunal's findings and remedy regarding the merger.
+2. Did the Competition Appeal Court appropriately consider constitutional rights related to access to healthcare services, particularly under section 27 of the Constitution?
+3. Whether the proposed merger would likely result in a substantial prevention or lessening of competition as per section 12A of the Competition Act.
+4. What constitutes an appropriate remedy regarding the merger?
+
+---
+
+## R – Rules
+
+The case heavily relies on several legal statutes and precedents ([40]–[41], [56]):
+- **Competition Act 89 of 1998**: Specifically, section 12A which outlines assessment criteria for mergers, including potential impacts on competition and public interest.
+  - Subsection (1): Mandates assessment of whether a merger is likely to substantially prevent or lessen competition.
+  - Subsection (3): Requires consideration of effects on employment and small businesses, particularly those controlled or owned by historically disadvantaged persons.
+- **Constitution of South Africa**: 
+  - **Section 27**: Right to have access to healthcare services.
+  - **Section 39(2)**: Requirement that legislation must be interpreted in a way that promotes the Bill of Rights ([9]).
+
+The court discusses cases such as *Imerys* and *Bernert* concerning the limits of appellate interference with factual findings made by specialized bodies like the Tribunal.
+
+---
+
+## A – Application
+
+The court evaluated the interplay between statutory interpretation under the Competition Act and constitutional obligations. Chief Justice Mogoeng emphasized that the Tribunal's findings were based on comprehensive evaluations of evidence and must be given deference ([43]–[49]). The majority noted that:
+- The Competition Appeal Court failed to adequately respect the Tribunal’s economic expertise and the procedural requirements outlined in sections 12A and 39(2) of the Constitution.
+- It misapplied the test for a substantial lessening of competition (SLC) by focusing excessively on market share changes rather than potential price increases and negative effects on consumer choice ([53]–[56]).
+- The Tribunal's conclusion regarding market definition and competitive dynamics was also upheld as consistent with the evidence of patient movement between Klerksdorp and Potchefstroom ([58]–[70]).
+
+---
+
+## C – Conclusion
+
+The Constitutional Court granted the appeal and set aside the order of the Competition Appeal Court, affirming the Tribunal's prohibition of the merger based on substantial lessening of competition and adverse public interest implications ([88]). The judgment underscored the importance of considering how mergers can affect vulnerable populations, particularly regarding access to healthcare services, thus reinforcing the constitutional right to such access ([75]–[76]). The court concluded that proper application of the law necessitated prohibiting the merger due to its predicted adverse effects on already vulnerable consumers, and therefore, it returned to the Tribunal's rationale as sound ([83]–[87]).
+
+The ruling has broader implications for future merger assessments within the healthcare sector and reflects the court's commitment to ensuring equitable access to health services in line with constitutional mandates.

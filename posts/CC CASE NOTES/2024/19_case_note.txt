@@ -1,0 +1,25 @@
+Case Note: CONSTITUTIONAL COURT OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: The Thistle Trust v Commissioner for the South African Revenue Service [2024] ZACC 19
+
+### F - Facts:
+In the case of **The Thistle Trust v Commissioner for the South African Revenue Service** ([1]–[9]), The Thistle Trust (the applicant) is a registered inter vivos discretionary trust and a tax resident of South Africa. It is a beneficiary of Zeprop, a group of ten vesting trusts involved in property development. Between 2014 and 2016, Zeprop disposed of assets and realized capital gains, which were distributed to Thistle, which in turn distributed these proceeds to its beneficiaries. Acting on legal advice, both Zeprop and Thistle did not account for these capital gains in their tax returns, believing that the amounts were taxable only in the hands of the ultimate beneficiaries. In contrast, the South African Revenue Service (SARS) conducted an audit, claiming that Thistle was liable for capital gains tax as the direct beneficiary of Zeprop. After Thistle objected to additional assessments and understatement penalties raised by SARS, the matter progressed through the South African tax courts.
+
+### I - Issues:
+The legal and constitutional questions that arose in this case include:
+1. **Application of the conduit principle**: How does this principle apply when capital gains are distributed through multiple trusts in a tiered trust structure? ([2]–[3])
+2. **Taxation rights**: Should capital gains realized by a trust be assessed in the hands of the beneficiaries or the trust itself? ([6]–[7])
+3. **Bona fide inadvertent error**: Can Thistle claim that its failure to account for capital gains was a bona fide inadvertent error as per the Tax Administration Act? ([10])
+
+### R - Rules:
+Relevant legal authorities and precedents include:
+1. **Income Tax Act 58 of 1962** (ITA), specifically sections 25B and 26A, which deal with the taxation of trusts and the inclusion of taxable capital gains in taxable income, respectively. ([3]–[4])
+2. **Tax Administration Act 28 of 2011** (TAA), which includes provisions for understatement penalties arising from bona fide inadvertent errors. 
+3. **Jurisprudential principles** including the conduit principle, adopted from English common law, which holds that trusts act as conduits for income distribution and that these distributions should retain their identity for taxation purposes. ([1]–[2], [37]–[46])
+
+### A - Application:
+The Constitutional Court, led by Chaskalson AJ with a dissent from Bilchitz AJ, concluded that the conduit principle did not apply throughout multi-tier trust structures for capital gains tax purposes. Analyzing the tax provisions, the majority found that To do so would contradict the legislative intention, which aimed for these gains to be taxed at a higher rate in the hands of trusts rather than benefiting from the conduit principle as applied to individuals. It ruled that Thistle could not avoid liability merely by passing through gains to its beneficiaries without realizing those gains through its own disposals. Bilchitz AJ contended that excluding the application of the conduit principle for ongoing capital gains in multi-tier structures rendered taxation arbitrary and unjust, particularly given the complexity and ambiguity surrounding these tax provisions. He argued that the legislature did not articulate a coherent rationale for this distinction between income forms.
+
+### C - Conclusion:
+The court's ultimate holding was that the appeal was dismissed, ruling that Thistle was liable for capital gains tax as it was the direct beneficiary of Zeprop. The decision upheld the interpretation of the conduit principle as not applying through multiple trusts and emphasized legislative intent regarding trust tax liabilities. The dissenting opinion highlighted concerns about the implications for equity and legislative clarity in tax matters. The case holds significant implications for how capital gains tax is treated in multi-tier trust structures, further informing the application of the conduit principle in South African tax law, and establishing critical principles for future litigation surrounding trust taxation. The court ordered SARS to pay Thistle's costs in the cross-appeal, acknowledging the complexities and competing interpretations presented. ([1]–[92])

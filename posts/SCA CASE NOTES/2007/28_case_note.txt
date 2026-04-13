@@ -1,0 +1,49 @@
+Case Note: THE SUPREME COURT OF APPEAL
+Source Folder: 2007
+
+### FIRAC Case Note: City of Tshwane Metropolitan Municipality v RPM Bricks (Pty) Ltd [2007] SCA 28 (RSA)
+
+**F – Facts: Relevant Background and Procedural History ([paras 1–9]).**
+
+On July 5, 2001, the City of Tshwane Metropolitan Municipality (hereafter "the Municipality") resolved to add RPM Bricks Proprietary Limited (hereafter "the Supplier") to its list of approved coal suppliers for its power stations in Pretoria West and Rooiwal. The terms of the contract included a commencement date of April 1, 2001, a duration of three years, and specified payment terms ([para 2]). Following delays due to Spoornet’s inability to fulfill transportation contracts, the Supplier offered to deliver coal by road in May 2002. The Municipality accepted this arrangement and placed several orders, effectively modifying the initial agreement ([paras 4–5]).
+
+However, disagreements arose regarding payment. In January 2003, the Municipality acknowledged a substantial outstanding account but later claimed that an incorrect annexure had been attached to a prior approval, leading to assertions of overpayment, where the Municipality contended that the Supplier owed it money instead ([paras 6–8]). The Supplier initiated legal action for the outstanding payments, choosing not to pursue an alternative claim based on the concept of enrichment ([para 8]).
+
+The Municipality’s primary defense centered on the argument that it had not formally amended the original contract pursuant to statutory requirements outlined in Section 38 of the Gauteng Rationalisation of Local Government Affairs Act 10 of 1998 (hereafter "the Act") ([paras 9]). The initial court upheld the Supplier’s claim, leading to this appeal ([para 10]).
+
+---
+
+**I – Issues: Legal or Constitutional Questions ([paras 10–11]).**
+
+The main issue before the Supreme Court of Appeal was whether the Municipality could invoke statutory non-compliance as a defense against the Supplier's claim, specifically in the context of the applicability of estoppel. The court needed to address two key questions: 
+
+1. Did the Municipality's failure to comply with Section 38 of the Act preclude it from invoking the defenses it raised?
+2. Is the doctrine of estoppel applicable to situations involving statutory bodies and unlawful acts ([paras 11–16])?
+
+---
+
+**R – Rules: Legal Authorities and Precedents Relied Upon ([paras 10–19]).**
+
+The legal framework governing this case is largely constituted by Section 38 of the Gauteng Rationalisation of Local Government Affairs Act, which requires a municipal council to formally resolve any amendments to a tender or supply contract. This section stipulates that any such resolution must adhere to specific procedural requirements, which were not met in this instance ([para 10]).
+
+The case also references common law principles regarding estoppel and legislative authority. It demarcates between actions that are ultra vires (beyond the powers of the entity) and those that involve mere procedural irregularities. Established precedents emphasize that estoppel cannot validate unlawful acts, and that such defenses should not be available when public interest is at stake (e.g., *Hoisain v Town Clerk, Wynberg* [1916] AD 236; *Trust Bank van Afrika Bpk v Eksteen* [1964] 3 SA 402 (A)) ([paras 13–18]). The court also discussed the need for a distinction between categories of actions when dealing with statutory bodies ([para 11]).
+
+---
+
+**A – Application: Analysis of How the Court Applied the Law ([paras 11–25]).**
+
+The majority opinion, delivered by Ponnan JA, began by asserting that the case fell into the first category of statutory non-compliance, which is where estoppel cannot operate ([paras 11–12]). The court emphasized that the Municipality's employees lacked the requisite authority to amend the supply contract without a formal resolution of the council, rendering any purported amendment ultra vires and thus invalid ([paras 14–18]).
+
+It was noted that allowing estoppel to apply would effectively permit a contravention of Section 38 of the Act and undermine the legislative intent, which aims to ensure accountability and prevent malpractices such as nepotism ([paras 15–16]). The court rejected the lower court's reliance on *Eastern Metropolitan Substructure v Peter Klein Investments (Pty) Ltd* ([2001] 4 SA 661 (W)), asserting that while there is a constitutional impetus to evolve common law to reflect individual and public interests, this cannot lead to the invalidation of the ultra vires doctrine ([paras 19–22]).
+
+The court held that if the Supplier was misled by the acts of unauthorized personnel, this did not confer any rights that could override the statutory requirements prescribed for the Municipality's actions. The emphasis was placed on maintaining the integrity of the public interest and legislative authority ([paras 23–24]). Therefore, the court concluded that the Supplier could not rely on estoppel when the underpinning acts were inherently unlawful ([para 25]).
+
+---
+
+**C – Conclusion: Court’s Holding, Ratio Decidendi, and Implications ([paras 25–26]).**
+
+The Supreme Court of Appeal upheld the appeal, setting aside the lower court's ruling and substituting it with an order of absolution from the instance in favor of the Municipality. The court firmly positioned that an appropriation of estoppel in this context would violate the principles of legality embedded in the Constitution and undermine the rule of law ([para 26]).
+
+The implications of this judgment underscore the critical nature of statutory compliance for public bodies and reaffirm the principle that statutory powers and duties must not be circumvented through private claims of reliance on purported agreements. The judgment emphasizes the need for clear legislative adherence in public procurement processes to ensure fairness, accountability, and transparency in governance, protecting both public and private interests in contractual relations with statutory bodies ([paras 15–25]). 
+
+This decision thereby clarifies the boundaries of estoppel when engaged with statutory authorities, reinforcing adherence to established legal thresholds to maintain public order and legislative integrity.

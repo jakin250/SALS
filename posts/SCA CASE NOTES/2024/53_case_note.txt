@@ -1,0 +1,33 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2024
+
+# FIRAC Case Note: Vorster v Clothing City (Pty) Ltd (159/2023) [2024] ZASCA 53
+
+## F – Facts 
+Magdalena Josina Vorster (the appellant) sustained injuries while shopping at the premises of Clothing City (Pty) Ltd (the respondent) in September 2015. Ms Vorster initially claimed delictual damages amounting to R255 856.40 in the Regional Court. The merits of her case were settled on a 75/25 basis in her favor, resulting in a court order that postponed the quantum of damages to a later date. Prior to this hearing, Ms Vorster amended her claim, increasing the quantum to R531 225.02. The defendant, City Clothing, raised no initial jurisdictional objection but later introduced a special plea, asserting that the claim exceeded the R400 000 monetary jurisdiction of the regional court. The regional court upheld this special plea, leading to an unsuccessful appeal by Ms Vorster to the High Court, which reinforced the lower court's findings ([paras 1–7]).
+
+## I – Issues
+The primary legal issue at stake was whether Ms Vorster's increased claim for damages fell within the monetary jurisdiction of the magistrates' courts, specifically whether her claim, after apportionment, exceeded the R400 000 limit set by the Magistrates’ Court Act 32 of 1944. City Clothing contended that Ms Vorster exceeded jurisdiction by not waiting for a judicial determination on quantum before amending her claim, while Ms Vorster argued that her amended claim of R398 418.77 was within jurisdiction ([paras 2–4, 10, 19]).
+
+## R – Rules
+The jurisdiction of magistrates' courts is governed by Section 29(1)(g) of the Magistrates’ Court Act. This provision delineates that a court's jurisdiction is determined by the value of the claim at the commencement of proceedings. Consistent case law, including *Jackson & Co v Eggeling* (1913) and *Balfour v Balfour* (1922), establishes that jurisdiction is typically determined based on the amount claimed as per the pleadings ([paras 9–11, 19]). Furthermore, Section 37(2) of the Act allows for inquiry into matters that may exceed jurisdiction, provided the sum claimed is within the court's jurisdiction, protecting litigants from unjust outcomes due to complex accounting or fluctuating monetary values involved in their claims ([paras 15–16]).
+
+## A – Application
+The court meticulously analyzed the jurisdictional limits, emphasizing the significance of the pleadings in determining jurisdiction. It was established that the amended claim of R398 418.77 was the pivotal factor; although the total damages claimed originally exceeded R400 000, the relevant claim remained below the statutory threshold, aligning with the provisions of Sections 29(1)(g) and 37(2). 
+
+The court noted that Ms Vorster’s decision to amend her claim did not usurp the role of the court, as the 75/25 apportionment had already been judicially sanctioned. The argument that one must await a definitive decision on damages before determining jurisdiction was dismissed as lacking merit. The court reiterated that, pursuant to *Van der Merwe v Van der Merwe* (1973), the jurisdictional assessment must consider the value of the claim at the time of action commencement, not the potential outcomes of subsequent evidence ([paras 13–17, 19]).
+
+Additionally, the reliance by the High Court on *Jones v Williams* (1911) was found inappropriate. The circumstances in *Jones* involved an indivisible claim scenario, distinct from Vorster's singular claim for a monetary sum. Hence, the rationale that the entire claim was indivisible and thus exceeded jurisdiction was flawed ([paras 18–19]).
+
+## C – Conclusion
+The Supreme Court of Appeal upheld Ms Vorster's appeal, ruling that her claim of R398 418.77 was indeed within the monetary jurisdiction of the regional court. This decision reversed the previous rulings, allowing the case to be referred back to the Regional Court for determination of damages. The court's decision reflects a commitment to ensuring justice by upholding individuals' rights to pursue claims that lie technically within the established jurisdictional framework, thereby avoiding potential miscarriages of justice ([paras 20]).
+
+This case signifies the importance of the interplay between litigant claims and statutory jurisdictional limits, reinforcing the principle that jurisdiction assessments must be based on the value prayed for in the pleadings at the commence of the action. 
+
+### References
+- Vorster v Clothing City (Pty) Ltd (159/2023) [2024] ZASCA 53.
+- Rex v Boon 1913 TPD 12.
+- Jackson & Co v Eggeling 1913 TPD 403.
+- Balfour v Balfour 1922 WLD 133.
+- Van der Merwe v Van der Merwe 1973 (1) SA 436 (C).
+- Jones v Williams 1911 TPD 536.

@@ -1,0 +1,64 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2021
+
+# FIRAC Case Note: Lewis Stores (Pty) Ltd v Summit Financial Partners (Pty) Ltd and Others 
+
+**Neutral Citation:** Lewis Stores (Pty) Ltd v Summit Financial Partners (Pty) Ltd and Others (Case no 314/2020) [2021] ZASCA 91 (25 June 2021)  
+**Coram:** Ponnan, Wallis, Mocumie, Dlodlo JJA and Eksteen AJA  
+**Heard:** 5 May 2021  
+**Delivered:** 25 June 2021  
+
+## F – Facts
+The case revolves around the interpretation and application of the **National Credit Act 34 of 2005** (NCA), specifically sections 141(1)(b) and 148(2) ([1]). The appellant, **Lewis Stores (Pty) Ltd** (Lewis), is a prominent retailer of furniture and appliances. The first respondent, **Summit Financial Partners (Pty) Ltd** (Summit), a registered alternative dispute resolution agent and debt counsellor, lodged a complaint against Lewis with the **National Credit Regulator** (the Regulator) concerning alleged prohibited practices under the NCA, specifically the imposition of excessive delivery charges ([2]). After investigating the allegations, the Regulator issued a certificate of non-referral more aligned with section 140(1)(a) of the NCA, suggesting the allegations did not warrant further action ([10]).
+
+Following this, Summit sought leave to refer the complaint directly to the **National Consumer Tribunal** (the Tribunal) under section 141(1)(b) of the NCA, claiming the issues raised were significant for both parties and the public ([3]). Lewis opposed this application, stating that Summit did not have sufficient interest in the matter and failed to demonstrate reasonable prospects of success ([3]). However, the Tribunal granted Summit the leave to refer the complaint directly, which prompted Lewis to appeal the decision. This appeal was dismissed by the Gauteng Division of the High Court, leading to Lewis's appeal before the Supreme Court of Appeal ([1], [4]).
+
+## I – Issues
+Three primary issues emerged from the case for determination:
+
+1. **Appealability of Tribunal Decisions:** Whether the Tribunal's decision to permit a direct referral under section 141(1)(b) is appealable in terms of section 148(2) of the NCA ([4]).
+  
+2. **Test for Application Assessment:** What test should the Tribunal apply when assessing an application for direct referral under section 141(1)(b) ([4]).
+
+3. **Satisfaction of Test:** Whether Summit satisfied any applicable test for granting referral ([4]).
+
+## R – Rules
+The Supreme Court of Appeal addressed the following legal rules and principles:
+
+1. **Direct Referral under the NCA:** Section 141(1)(b) of the Act allows for direct referral to the Tribunal upon the issuance of a notice of non-referral by the Regulator. Notably, it does not specify that a formal application or public hearing is required ([1], [12]).
+
+2. **Appeal Rights under Section 148(2):** This section outlines the appeal rights against a Tribunal decision; however, it excludes certain decisions from being appealable, including those concerning procedural matters ([5], [19]).
+
+3. **Discretion of the Tribunal:** The Tribunal has considerable discretion in granting leave for direct referrals, guided by consideration of public interest, resource allocation, and the substance of the complaint ([15], [16]).
+
+4. **Nature of the Tribunal’s Decision:** The decision to allow a direct referral is not characterized as a ‘decision’ or ‘order’ under section 150, thus falling outside the purview of appealability as designed within the NCA ([16], [19]).
+
+## A – Application
+The court applied the rules and principles to the facts of the case as follows:
+
+1. **Non-Appealability Conclusion:** The court concurred with Summit’s argument that the Tribunal’s decision to allow a direct referral did not constitute an appealable decision under section 148(2). The provisions of the NCA aim to facilitate a rapid and informal resolution of disputes; hence, a formal appeal against a preliminary ruling contradicts this purpose ([19]).
+
+2. **Assessment of Referral Requests:** In addressing what test the Tribunal should apply when assessing requests for direct referrals, the court rejected the previously adopted legal tests likened to those for appeals. Instead, it emphasized the Tribunal's discretion to consider various factors such as public interest and resource allocation, without rigid constraints ([15], [16]).
+
+3. **Summit’s Request Suitability:** The Tribunal's rationale for granting Summit’s request rested on the recognition of the importance and potential implications of the complaint raised against Lewis. By allowing a reconsideration of the complaint, the Tribunal fulfilled its function under the NCA ([14], [19]).
+
+## C – Conclusion
+The court held that:
+
+- The Tribunal's decision to permit a direct referral is **not appealable** under section 148(2) of the NCA. This reflects a broader judicial approach toward interim decisions that do not contribute to the efficient resolution of disputes ([19]).
+
+- The Tribunal possesses a **wide discretion** in determining such applications, allowing it to weigh various factors relevant to the complaint's significance and public interest ([15], [16]).
+
+- Given the clarity of the NCA's provisions and the Tribunal’s latitude, it is concluded that the appeal from Lewis Stores is **dismissed** with costs, including the costs of two counsel, reflecting the judicial affirmation of the Tribunal's interpretation of its powers ([21]).
+
+This decision reinforces the framework of the NCA, advocating an informal approach to dispute resolution while emphasizing the Tribunal's role in protecting consumer rights against potentially exploitative business practices.
+
+---
+
+**References**:  
+- National Credit Act No 34 of 2005.  
+- *Westinghouse Brake and Another v Bilger Engineering (Pty) Ltd* [1986] ZASCA 10; 1986 (2) SCA 555 (A).  
+- *Beinash v Wixley* 1997 (3) SA 721 (SCA).  
+- *National Director of Public Prosecutions v King* 2010 (2) SACR 146 (SCA).  
+
+**Note**: The legal understanding and interpretation build upon the specifics of the case and the overarching principles embedded in South African jurisprudence as reflected in the NCA.

@@ -1,0 +1,43 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2019
+
+# Case Note: Termico (Pty) Ltd v SPX Technologies (Pty) Ltd & Others; SPX Technologies (Pty) Ltd v Termico (Pty) Ltd [2019] ZASCA 109
+
+## FIRAC Case Note
+
+### F – Facts
+The case concerns a dispute between **Termico (Pty) Ltd** (Appellant) and **SPX Technologies (Pty) Ltd** (First Respondent) regarding a shareholders’ agreement and the exercise of a **Put Option**. **SPX Technologies (Pty) Ltd** is a subsidiary of a U.S.-based multinational, **SPX Corporation**, and controls **DBT Technologies (Pty) Ltd**, which operates within the South African power generation and petrochemical sector. In 2006, SPXT engaged Termico to serve as a BEE shareholder in DBT, subscribing to 25.1% of DBT’s shares financed by a loan (Loan B) from SPXT. 
+
+In December 2006, the parties entered into a **shareholders’ agreement** that stipulated various rights, including a **lock-in period** preventing Termico from disposing of its shares for seven years and a provision that permitted Termico to sell its shares post-lock-in through a Put Option (clause 19).
+
+After the lock-in period expired in January 2014, Termico exercised its Put Option on June 3, 2014, asserting a price determined by a detailed formula outlined in clause 19.2 of the shareholders’ agreement. Disputes arose regarding the applicable financial statements to the Put Price calculation, with SPXT arguing that Termico should rely on the financial statements for 2013 instead of those for 2012, among other disputes regarding the validity of the Put Option.
+
+The matter proceeded to arbitration in which the arbitrators favourably resolved most issues for Termico, including the validity of the Put Option. An award was issued on July 5, 2016, but SPXT applied to the High Court to set aside the arbitration award under **s 33(1)(b)** of the **Arbitration Act 42 of 1965**, alleging gross irregularities. Termico countered with an application to have the arbitration award made an order of court, including a money judgment.
+
+The High Court (Ismail J) dismissed Termico’s application and set aside the arbitration award, leading to Termico’s appeal to the Supreme Court of Appeal ([paras 1–10]).
+
+### I – Issues
+The primary legal issues involved:
+1. Whether the arbitration award should be set aside on the grounds of gross irregularity per **s 33(1)(b)** of the **Arbitration Act** ([paras 10–11]).
+2. The enforceability of the Put Option and the calculation of the Put Price as established in the arbitration ([paras 7–8]).
+3. Whether the counter-application sought by Termico constituted an impermissible "hybrid order" that combined elements of an arbitration award with a court order ([paras 15–18]).
+
+### R – Rules
+The legal framework guiding the court's analysis included:
+1. **Arbitration Act 42 of 1965**, particularly sections 31 and 33(1)(b), which stipulate the grounds for review of arbitration awards ([paras 8, 33]).
+2. **Case law** on gross irregularity in arbitration, notably **Telcordia Technologies Inc v Telkom SA Ltd** and **Palabora Copper (Pty) Ltd v Motlokwa Transport and Construction (Pty) Ltd**, which establish that the burden of proof lies with the party alleging such irregularities ([para 11]).
+3. Principles surrounding the finality of arbitration awards, following the precedent in **SA Breweries Ltd v Shoprite Holdings Ltd**, which requires that all issues submitted to arbitration must be resolved to achieve finality ([paras 13–14]).
+
+### A – Application
+The court evaluated the grounds on which SPXT sought to set aside the arbitration award. Notably, SPXT alleged a lack of finality in the arbitrators' decision. However, the Supreme Court disagreed, highlighting that the arbitrators had fully adjudicated the core issues related to the Put Option's exercise and the calculation of the Put Price, leading to a valid award.
+
+The Supreme Court also addressed Ismail J's finding of a "hybrid order" concerning Termico’s counter-application. The court noted that the original arbitral panel had not declined to rule on issues but rather concluded they could not make a monetary determination due to the non-resolution of Loan B’s value, which fell outside their mandate. The court highlighted that SPXT’s refusal to convene the meeting required to implement the sale indicated a deliberate frustration of Termico’s rights, allowing it to treat the conditions for the meeting as having been met.
+
+By determining the effective value of Loan B and calculating the Set-off against the Put Price, the Supreme Court recognized that the claim for money judgment constituted a liquidated amount, which could be adjudicated directly under the judicial powers vested in the court ([paras 19–25]).
+
+### C – Conclusion
+The Supreme Court of Appeal held that the arbitration award should not have been set aside as SPXT failed to prove any gross irregularity in the arbitration process. The court reinstated the arbitration award, affirming Termico’s successful exercise of the Put Option and resulting in a monetary judgment based on the net amount owed after considering Loan B. The court emphasized adherence to arbitration’s finality principle, distinguishing it from instances of hybrid orders that were previously disallowed by case law.
+
+Ultimately, the appeal succeeded with costs awarded to Termico, including those of two counsel, and established impactful jurisprudence regarding the enforceability of arbitration awards and the clear delineation of arbitrators' mandates under the **Arbitration Act** ([paras 27–28]). 
+
+This holding underscores the judicial system's commitment to upholding arbitration as an effective means of dispute resolution, whilst ensuring that parties adhere to their contractual obligations, fostering reliability within commercial arrangements.

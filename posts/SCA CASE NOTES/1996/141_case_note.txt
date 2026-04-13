@@ -1,0 +1,66 @@
+Case Note: IN THE SUPREME COURT OF SOUTH AFRICA
+Source Folder: 1996
+
+# Case Note: FIRAC Method – **Bowman & Others v Fidelity Bank Ltd** 
+
+**Case Citation**: CASE NO 144/95, In the Supreme Court of South Africa (Appellate Division)  
+**Judgment Date**: 28 November 1996  
+**Coram**: Van Heerden, Eksteen, Nienaber, Harms, and Zulman, JJA  
+
+---
+
+## FIRAC Structure
+
+### F – Facts 
+
+This case arises from the financial difficulties experienced by *Mabula Lodge*, a game farm and hotel operation, leading to its liquidation in 1991. As a result, three professional liquidators (the first plaintiffs), namely Neil Bowman, Barend Gert Steyn de Wet, and Tjaart Andries Petrus du Plessis, were appointed as joint liquidators of the now-defunct *Mabula Investments (Pty) Ltd*. Meanwhile, the estates of Messrs Joubert (father and son)—key figures in the venture—also faced sequestration ([para 2]).
+
+The financial arrangement under scrutiny is an agreement entered into on or about 17 June 1991 between these liquidators and Fidelity Bank Ltd (“Fidelity”), who was a secured creditor. According to this agreement, the liquidators undertook to pay Fidelity a predetermined net value if Mabula Lodge was sold ([para 4]). Fidelity was thus guaranteed R640,000 in respect of three secured claims against the company and the Jouberts ([para 5]).
+
+
+Despite experiencing prolonged delays in the transaction, the sale eventually went through, leading to an immediate payment of R950,000 being made to Fidelity on 20 September 1991. However, after considering a previous payment of R10,000, this resulted in an overpayment of R320,000, which prompted the plaintiffs to seek reimbursement from Fidelity for the unexplained excess ([paras 6-7]). 
+
+The trial court, however, dismissed the plaintiffs' case by granting abolution from the instance, ruling that they failed to establish a prima facie case for the recovery of the overpayment based on the principle of *condictio indebiti* ([paras 1-2]). The presiding judge, Roux J, concluded that the payment made was ultra vires and therefore could not be reclaimed ([para 9]).
+
+### I – Issues 
+
+The central issue for determination was whether the plaintiffs had provided sufficient evidence to establish a prima facie case that would entitle them to recover the overpayment of R220,000 from Fidelity under the principle of *condictio indebiti* ([para 1]). The secondary issue arose from the trial court's determination that the payments were ultra vires and, thus, allegedly non-reclaimable ([para 9]). 
+
+### R – Rules 
+
+In adjudicating this case, the court considered the legal doctrine of *condictio indebiti*, which allows a party to recover funds that were paid under an obligation that was not actually owed ([para 11]). The court noted the requisite conditions for the claim, namely: 
+1. There must be a payment made under the mistaken belief that a debt is owed.
+2. The error must not be inexcusable ([para 21]).
+
+The court also examined numerous precedents concerning the principle of *condictio indebiti*, including *Van Wijk's Trustee v African Banking Corporation* and *C C A Little & Sons v Liquidator R Cumming (Pvt) Ltd*, where it was established that payments made ultra vires can still be subject to recovery through enrichment actions, particularly in the context of trusts and estates ([paras 11-12]).
+
+In addition, the judgment elaborated that payments made without the authority or exceeding the authority granted to the payer do not preclude recovery, so long as the plaintiff has standing to bring the claim ([para 16]).
+
+
+### A – Application 
+
+The court critically evaluated the reasoning of Roux J by highlighting that an ultra vires payment can indeed be recovered under *condictio indebiti*. The judge reasoned that:
+- Payments are classically regarded as not being due when made under an erroneous belief nudging them into the definition of *indebitum*.
+- There existed sufficient authority supporting this notion within the foundational legal texts and prior cases ([paras 11-15]). 
+
+The court examined the motives influencing the overpayment and the prevailing circumstances that may have contributed to the liquidators' decision—especially a misleading communication from Fidelity's attorneys that hinted at potential damages if the payment was delayed. The overpayment itself was classified not as a negligent error but rather one induced by erroneous information, satisfying the principles underlying *condictio indebiti* ([paras 20-22]).
+
+Furthermore, the court refuted the trial court’s assertion that the plaintiffs had not shown sufficient evidence to claim the overpayment. It concluded that the agreement expressly outlined the sum owed to Fidelity, thus making any excess payment include an *indebitum* ([para 20]).
+
+### C – Conclusion 
+
+The Supreme Court of Appeal determined that the trial court had erred in its judgment by concluding that the payment made by the plaintiffs was non-reclaimable based on the ultra vires doctrine without allowing a legitimate inquiry into the applicability of *condictio indebiti*. Therefore, the court reversed the ruling of absolution from the instance and dismissed the application with costs, holding that there was sufficient prima facie evidence for the plaintiffs to proceed with their claim ([paras 26-26]).
+
+In light of this conclusion, the judgment clarified the applicable legal principles for similar cases involving undue payment, reinstating the liquidators' right to recover amounts that were mistakenly paid under the mistaken belief of a debt existing—which in this case, were not owed to Fidelity.
+
+---
+
+### References 
+
+1. Gascoyne v Paul and Hunter 1917 TPD 170
+2. Marine & Trade Insurance Co Ltd v Van der ScAyff 1972 (1) SA 26 (A)
+3. Kommissaris van Binnelandse Inkomste en 'n Ander v Willers en Andere 1994 (3) SA 283 (A)
+4. Rulten NO v Herald Industries (Pty) Ltd 1982 (3) SA 600 (D)
+5. Willis Faber Entnoven (Pty) Ltd v Receiver of Revenue and Another 1992 (4) SA 202 (A)
+
+This intermediate analysis thus reaffirms principles of unjustified enrichment and provides broader clarity regarding the limits of authority and recoverable liabilities in liquidations and fiduciary contexts within South African law.

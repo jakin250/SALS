@@ -1,0 +1,41 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2012
+
+# FIRAC Case Note: **Qoboshiyane NO v Avusa Publishing Eastern Cape (Pty) Ltd** [2012] 166 ZASCA 864/2011
+
+### F – Facts
+In August 2009, the Member of the Executive Council (MEC) for the Department of Local Government and Traditional Affairs in the Eastern Cape appointed Kabuso CC to investigate allegations of maladministration concerning the Nelson Mandela Bay Metropolitan Municipality ([1]). Kabuso CC submitted the report, known as the Kabuso report, to the MEC in February 2010.
+
+In November 2010, Avusa Publishing Eastern Cape, the first respondent, sought access to the Kabuso report under the Promotion of Access to Information Act 2 of 2000 (PAIA), following a refusal by the MEC's information officer ([1]). The MEC, currently Mr Qoboshiyane, upheld the refusal upon appeal, citing sections 44 and 46 of PAIA as grounds for non-disclosure.
+
+The Eastern Cape High Court, presided by Dukada AJ, ruled in favour of Avusa, highlighting that while the MEC provided valid grounds for non-disclosure under section 44, the report should still be disclosed in the public interest under section 46 of PAIA ([2]). The MEC complied with the court's order to disclose the report within five days, but later filed for leave to appeal, citing the absence of precedent on section 46 and public interest disclosure ([2]).
+
+### I – Issues
+The central legal issues in this case were as follows:
+
+1. **Mootness**: Whether the appeal could proceed considering the MEC's compliance with the court's order to disclose the Kabuso report ([3], [5]).
+   
+2. **Peremption**: Whether the MEC's compliance with the High Court's ruling had perempted the appeal, effectively abandoning the right to pursuit of continued appeal ([4]).
+
+3. **Public Interest Override**: The interpretation and application of section 46 of PAIA, particularly regarding mandatory disclosure in public interest despite potential withholding grounds under section 44 ([9], [10]).
+
+### R – Rules
+1. **PAIA and Public Interest**: Sections 44 and 46 of PAIA outline the disclosure of records. Section 46 mandates that if certain conditions are met, disclosure must occur even if the record could alternatively be withheld under other sections ([9], [10]). 
+   
+2. **Peremption Doctrine**: The legal rule established in **Dabner v South African Railways & Harbours** states that unequivocal compliance with a court order may result in an abandonment of an appeal. The conduct of the party must indisputably indicate no intention to contest the judgment ([3]).
+
+3. **Constitutional Context**: Section 32(1) of the Constitution ensures the right of access to information, which forms the foundation for PAIA and the judicial scrutiny surrounding its application ([6], [13]).
+
+### A – Application
+1. **Mootness and Peremption**: The court analyzed that the MEC's unequivocal compliance with the order to disclose the Kabuso report indicated a clear intent to abide by the High Court's decision, thereby perempting the appeal ([4]). Once the MEC disclosed the report without reservation, the appeal was effectively a moot point ([5]).
+
+2. **Public Interest under Section 46**: The court addressed whether the MEC's reasons for withholding the report could overcome the mandatory disclosure obligation under section 46. The MEC argued that disclosing the report could undermine ongoing investigations. However, the court emphasized that the structure of PAIA does not support limitations on mandatory disclosure that arise out of an ongoing investigation ([12], [14]). Thus, the MEC was required to balance potential harms against public interest adequately.
+
+3. **Delineation of Public Interest**: The court further clarified that if the criteria set out in section 46 are met, the information officer’s obligations to discharge public interest disclosure are not discretionary but mandatory ([10], [13]). The judge noted that the MEC did not conduct the necessary balancing act required under section 46, leading to an oversight in weighing public interest against potential harm ([14]).
+
+### C – Conclusion
+The court dismissed the appeal, affirming that the MEC's compliance with the High Court's order to disclose the Kabuso report had perempted the appeal and rendered the legal controversy moot ([5], [15]). The court noted that there was no point of general importance arising from the case as the issues raised merely echoed previous arguments and did not present significant principles affecting future cases. The conclusion reinforces the importance of public interest in legislative frameworks governing access to information, especially in government accountability and transparency contexts.
+
+As the Supreme Court of Appeal affirmed existing doctrinal principles regarding mooting and public interest disclosure, this case serves as a crucial illustrative point regarding the peremptory nature of PAIA, while emphasizing the necessity for careful consideration by information officers when deliberating on public interest matters. The decision upholds constitutional rights tied to information access and sets a precedent for similar cases in future contexts, potentially influencing the approach of MECs concerning public access to information reports derived from investigations into maladministration. 
+
+**Order**: The appeal is dismissed with costs.

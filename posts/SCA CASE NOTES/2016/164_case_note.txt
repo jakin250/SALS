@@ -1,0 +1,32 @@
+Case Note: THE SUPREME COURT OF APPEAL OF SOUTH AFRICA
+Source Folder: 2016
+
+# FIRAC Case Note: Wishart v Billiton [2016] ZASCA 164
+
+### F – Facts
+In the Supreme Court of Appeal case **Wishart v Billiton**, the appellants, consisting of trustees of the Logan Trust and companies Penguin Mining and Colt Mining, sought to appeal against a decision from the Gauteng Local Division of the High Court. The appeal concerned the validity of late claims attempted by the appellants in the winding-up of Euro Coal (Pty) Ltd (in liquidation), the second respondent ([para 2]).
+
+Specifically, the appellants contended that they issued claims for late proof under section 44(1) of the Insolvency Act 24 of 1936, requesting that these be recognized within the proceedings ([paras 1–4]). The first respondent, BHP Billiton Energy Coal South Africa Ltd, submitted a claim and opposed the appellants' claims, leading to exceptions taken by Billiton prompting the issue eventually to reach the Supreme Court ([para 4]). The High Court upheld two exceptions to the appellants' particulars of claim, resulting in the appeal ([para 3]).
+
+### I – Issues
+The legal questions at the heart of this case concerned:
+- Whether section 44(1) of the Insolvency Act applies in the winding-up of companies, specifically regarding late claims submissions and the authority to allow such claims ([paras 1, 6]).
+- Whether the court has jurisdiction to expunge claims against an insolvent estate when the procedure should first involve the Master of the High Court ([paras 17–19, 27]).
+
+### R – Rules
+Key statutory provisions relevant to this case include:
+1. **Insolvency Act 24 of 1936** – Specifically, s 44(1) delineates the conditions under which liquidated claims can be proved against an insolvent estate, establishing time limits and provisions for late submissions ([para 7]).
+   
+2. **Companies Act 61 of 1973** – The pertinent sections include s 339, which requires the adaptation of insolvency law in the winding-up context; s 366, which relates to the proof of claims during a company’s liquidation; and s 407, which delineates the Master’s authority over objections to liquidated accounts ([paras 5–18]).
+
+The court referenced previous case law to interpret these sections, notably **Mayo NO & Others v De Montlehu** (2016) to illustrate how the provisions of the Insolvency Act are applicable to claims in the winding-up process ([paras 9, 10, 11]).
+
+### A – Application
+The court analyzed the interaction between the two statutes—highlighting that while sections of the Companies Act are tailored to specific circumstances in company liquidations, they do not override the provisions established in the Insolvency Act ([para 9]). The ruling in **De Montlehu** clarified that both the three-month period in s 44(1) and the discretionary time-fixing power afforded to the Master in s 366(2) were complementary and not mutually exclusive ([paras 11–13]).
+
+In addressing Billiton’s arguments, the court noted the distinction between late claims and the procedure for expunging claims from the Liquidation and Distribution (L&D) account. The court emphasized that s 407 governs how objections must first be processed through the Master before a review can be sought through the courts ([paras 17, 19, 25]). The court reiterated that the ability to challenge or expunge claims belongs solely to the Master, and any intrusions upon this mandate would be inappropriate until the Master's determination was made ([para 27]).
+
+### C – Conclusion
+The Supreme Court ultimately upheld the appellants' appeal regarding the first exception—finding that s 44(1) of the Insolvency Act applies and thereby allowing the assertion of late claims under certain conditions ([paras 1, 29]). However, it dismissed the appeal regarding the second exception concerning the expungement of Billiton’s claim, underscoring the necessity for the Master’s prior decision before judicial intervention could take place ([para 29]).
+
+The implications of this ruling reaffirm the legislative structure governing insolvency and liquidation procedures and clarify the limitations on court interventions regarding claims expungement processes. This case serves as a pivotal reference point for future disputes involving late proofs of claim and the handling of objections within the context of corporate insolvency in South Africa.
