@@ -8,7 +8,7 @@ const SITE = {
   name: "South African Law Students SA.",
   tagline: "An authoritative BB FIRAC archive of Constitutional Court and Supreme Court of Appeal case notes.",
   topbar: "1996-2024 Constitutional Court and Supreme Court of Appeal case notes.",
-  email: "editor@case-notes.local"
+  email: "salawstudentsa@hotmail.com"
 };
 
 const COLLECTIONS = [
