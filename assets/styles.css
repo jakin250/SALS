@@ -764,6 +764,24 @@ img {
   margin: 1.5rem 0;
 }
 
+.comments-shell {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.82);
+  box-shadow: var(--shadow);
+}
+
+.comments-shell__header h2 {
+  margin: 0 0 0.35rem;
+}
+
+.comments-shell__header p {
+  margin: 0 0 1rem;
+  color: var(--muted);
+}
+
 .site-footer {
   margin-top: 3rem;
   padding: 2.4rem 0 3rem;

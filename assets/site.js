@@ -59,17 +59,46 @@
     rail.setAttribute("aria-label", "Advertising spaces");
 
     const slots = [
-      { className: "ad-slot ad-slot--box", label: "Advertisement space 1, 300 by 250" },
-      { className: "ad-slot ad-slot--box", label: "Advertisement space 2, 300 by 250" },
-      { className: "ad-slot ad-slot--tall", label: "Advertisement space 3, 300 by 600" },
-      { className: "ad-slot ad-slot--tall", label: "Advertisement space 4, 300 by 600" }
+      {
+        className: "ad-slot ad-slot--box",
+        label: "Advertisement space 1, 300 by 250",
+        href: "https://selar.com/m/umthethx1985756",
+        image: "assets/ads/ad-300x250-1.png"
+      },
+      {
+        className: "ad-slot ad-slot--box",
+        label: "Advertisement space 2, 300 by 250",
+        href: "https://selar.com/m/umthethx1985756",
+        image: "assets/ads/ad-300x250-2.png"
+      },
+      {
+        className: "ad-slot ad-slot--tall",
+        label: "Advertisement space 3, 300 by 600",
+        href: "https://www.amazon.com/dp/B0G4F6LVWG?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin",
+        image: "assets/ads/ad-300x600-1.png"
+      },
+      {
+        className: "ad-slot ad-slot--tall",
+        label: "Advertisement space 4, 300 by 600",
+        href: "https://www.amazon.com/dp/B0G4F6LVWG?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin",
+        image: "assets/ads/ad-300x600-2.png"
+      }
     ];
 
     slots.forEach((slot) => {
-      const node = document.createElement("div");
+      const node = document.createElement("a");
       node.className = slot.className;
-      node.setAttribute("role", "img");
+      node.href = slot.href;
+      node.target = "_blank";
+      node.rel = "noopener noreferrer";
       node.setAttribute("aria-label", slot.label);
+
+      const image = document.createElement("img");
+      image.src = slot.image;
+      image.alt = slot.label;
+      image.loading = "lazy";
+      node.appendChild(image);
+
       rail.appendChild(node);
     });
 
