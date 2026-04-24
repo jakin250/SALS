@@ -829,9 +829,9 @@ img {
 .ad-slot {
   width: 100%;
   background: transparent;
-  border: 1.5px solid rgba(88, 101, 116, 0.42);
-  border-radius: var(--radius-sm);
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.32);
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 .ad-slot--box {
