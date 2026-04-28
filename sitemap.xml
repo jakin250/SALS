@@ -3,7 +3,7 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://sals.vercel.app/</loc>
+    <loc>https://salawstudentsa.blog/</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
   
   <!-- About page -->
   <url>
-    <loc>https://sals.vercel.app/about.html</loc>
+    <loc>https://salawstudentsa.blog/about.html</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -19,7 +19,7 @@
   
   <!-- Archive page -->
   <url>
-    <loc>https://sals.vercel.app/archive.html</loc>
+    <loc>https://salawstudentsa.blog/archive.html</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -27,7 +27,7 @@
   
   <!-- Contact page -->
   <url>
-    <loc>https://sals.vercel.app/contact.html</loc>
+    <loc>https://salawstudentsa.blog/contact.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -35,7 +35,7 @@
   
   <!-- Search page -->
   <url>
-    <loc>https://sals.vercel.app/search.html</loc>
+    <loc>https://salawstudentsa.blog/search.html</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -43,7 +43,7 @@
   
   <!-- Case notes directory (main content) -->
   <url>
-    <loc>https://sals.vercel.app/case-notes/</loc>
+    <loc>https://salawstudentsa.blog/case-notes/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -51,7 +51,7 @@
   
   <!-- Posts directory -->
   <url>
-    <loc>https://sals.vercel.app/posts/</loc>
+    <loc>https://salawstudentsa.blog/posts/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -59,7 +59,7 @@
   
   <!-- Static assets (optional - for discovery) -->
   <url>
-    <loc>https://sals.vercel.app/assets/</loc>
+    <loc>https://salawstudentsa.blog/assets/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
@@ -67,7 +67,7 @@
   
   <!-- Sitemap itself -->
   <url>
-    <loc>https://sals.vercel.app/sitemap.xml</loc>
+    <loc>https://salawstudentsa.blog/sitemap.xml</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
